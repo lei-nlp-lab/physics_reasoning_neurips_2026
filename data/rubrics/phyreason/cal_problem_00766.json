@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates the spring constant using the initial equilibrium condition with both masses.",
+    "weight": 5
+  },
+  {
+    "title": "Amplitude determination",
+    "description": "Essential: Correctly identifies the amplitude as the difference between the initial stretch and the new equilibrium stretch for mass A alone.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum acceleration derivation",
+    "description": "Essential: Correctly calculates the maximum acceleration using the restoring force at the amplitude or the SHM formula.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium analysis for A",
+    "description": "Important: Identifies the new equilibrium position for mass A after the string is cut.",
+    "weight": 3
+  },
+  {
+    "title": "SHM principles application",
+    "description": "Important: Recognizes that after the cut, mass A undergoes simple harmonic motion about its new equilibrium.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all masses to kg and lengths to meters for calculations, or correctly handles units in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Uses incorrect sign in the force balance for the new equilibrium or the maximum restoring force.",
+    "weight": -2
+  },
+  {
+    "title": "Amplitude misinterpretation",
+    "description": "Pitfall: Incorrectly states the amplitude as the initial stretch (15 cm) or the new equilibrium stretch (2.5 cm).",
+    "weight": -2
+  }
+]

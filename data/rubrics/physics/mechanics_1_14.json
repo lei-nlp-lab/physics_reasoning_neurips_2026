@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Speed Calculation",
+    "description": "Essential Criteria: The final speed must be correctly calculated as v = 12.2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance Setup",
+    "description": "Important Criteria: The relationship F = aV must be correctly established and used.",
+    "weight": 4
+  },
+  {
+    "title": "Power Equation Use",
+    "description": "Important Criteria: The use of the power equation FV = 600 W must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The units for speed should be correctly identified as meters per second.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in the equations or calculations will lead to incorrect results.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Damped oscillator λ",
+    "description": "Essential: Correctly solves for λ as iΩ (or equivalent) from the guessed exponential solution.",
+    "weight": 5
+  },
+  {
+    "title": "Trajectory x(t) and y(t)",
+    "description": "Essential: Provides final expressions for x(t) and y(t) as A cos(Ωt+φ) and A sin(Ωt+φ) respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Heat equation dispersion",
+    "description": "Important: Correctly derives the dispersion relation ω = -i a k² from the heat equation guess.",
+    "weight": 4
+  },
+  {
+    "title": "Schrödinger dispersion",
+    "description": "Important: Correctly derives the dispersion relation ω = ħk²/(2m) from the Schrödinger equation.",
+    "weight": 4
+  },
+  {
+    "title": "Klein-Gordon dispersion",
+    "description": "Important: Correctly derives the dispersion relation ω = ±√(k²c² + m²c⁴/ħ²) from the Klein-Gordon equation.",
+    "weight": 4
+  },
+  {
+    "title": "Complex exponential manipulation",
+    "description": "Optional: Demonstrates correct use of Euler's formula to separate real and imaginary parts.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Makes a sign error in solving for λ, ω, or in the exponent of the guessed solution.",
+    "weight": -2
+  },
+  {
+    "title": "Missing ± in dispersion",
+    "description": "Pitfall: Omits the ± sign in the Klein-Gordon dispersion relation.",
+    "weight": -1
+  }
+]

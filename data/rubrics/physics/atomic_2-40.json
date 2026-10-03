@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct half-life of U-235 as 10^9 years.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Value",
+    "description": "Important Criteria: The student should recognize that the half-life is approximately 7 x 10^8 years, which is closest to 10^9 years.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding Half-life",
+    "description": "Important Criteria: The student should demonstrate understanding of the concept of half-life in radioactive decay.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that the units of years are consistently applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as misreading the half-life values or confusing them with other isotopes.",
+    "weight": -2
+  }
+]

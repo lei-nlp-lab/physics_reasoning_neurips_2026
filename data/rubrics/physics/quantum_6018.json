@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the differential scattering cross section for high energy scattering.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for the differential scattering cross section for low energy scattering.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Born Approximation",
+    "description": "Important Criteria: The student should correctly apply the Born approximation in part (a) to derive the scattering amplitude.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Continuity",
+    "description": "Important Criteria: The student must demonstrate the continuity of the radial wave function at the boundary r = a in part (b).",
+    "weight": 4
+  },
+  {
+    "title": "Limit Behavior Analysis",
+    "description": "Optional Criteria: The student should analyze the limit as energy approaches zero and its effect on the scattering parameters.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic Manipulation",
+    "description": "Optional Criteria: The student should show clear and correct algebraic manipulation leading to the final expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of the delta function.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

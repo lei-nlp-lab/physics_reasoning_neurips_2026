@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lagrangian Setup",
+    "description": "Essential Criteria: The Lagrangian must be correctly formulated in terms of the generalized coordinates and velocities.",
+    "weight": 5
+  },
+  {
+    "title": "Normal Frequencies",
+    "description": "Essential Criteria: The normal frequencies must be accurately derived and expressed in terms of the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Normal Coordinates Motion",
+    "description": "Essential Criteria: The motion of the system in normal coordinates must be correctly expressed with appropriate initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: The equations of motion for small oscillations must be correctly derived from the Lagrangian.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The application of initial conditions to find constants in the normal coordinates must be clearly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the equations of motion or Lagrangian must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units must be consistently applied throughout the derivation and final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Neglecting Higher Order Terms",
+    "description": "Optional Criteria: The justification for neglecting higher order terms in the small angle approximation should be provided.",
+    "weight": 2
+  }
+]

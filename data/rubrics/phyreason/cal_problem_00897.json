@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct EMF value",
+    "description": "Essential Criteria: The student's final answer for the electromotive force must be 3 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct internal resistance",
+    "description": "Essential Criteria: The student's final answer for the battery's internal resistance must be 5 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Initial circuit equation",
+    "description": "Important Criteria: The student must write the correct Ohm's law equation for the moment the switch is closed, accounting for all resistors and internal resistance.",
+    "weight": 3
+  },
+  {
+    "title": "Steady-state circuit equation",
+    "description": "Important Criteria: The student must write the correct Ohm's law equation for the steady state, recognizing the coil's DC resistance is negligible.",
+    "weight": 3
+  },
+  {
+    "title": "Solving simultaneous equations",
+    "description": "Important Criteria: The student must demonstrate a correct method for solving the two equations to find both unknowns.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's work and final answers should include correct units (V and Ω).",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring coil resistance",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly includes the coil's resistance in the steady-state equation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall Criteria: Penalize for algebraic mistakes in solving the simultaneous equations that lead to incorrect intermediate or final values.",
+    "weight": -1
+  }
+]

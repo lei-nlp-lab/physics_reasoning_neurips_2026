@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential: The final answer for part (1) must be correctly derived and expressed as q/m = 2U/(B²R²).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must relate the electric potential energy qU to the kinetic energy (1/2)mv² to find the particle's speed.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force as centripetal",
+    "description": "Important: The solution must apply qvB = mv²/r to relate speed, magnetic field, and radius of curvature in the magnetic field region.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for exit length",
+    "description": "Important: For part (2), the solution must correctly use geometry (Pythagorean theorem) to find the maximum left and right exit points on y=2R.",
+    "weight": 4
+  },
+  {
+    "title": "Angle and time relation",
+    "description": "Important: For part (3), the solution must correctly calculate the central angle of motion in the magnetic field and relate it to the period T = 2πm/(qB).",
+    "weight": 4
+  },
+  {
+    "title": "Final exit length",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as (1 + √(2√2 - 1))R.",
+    "weight": 5
+  },
+  {
+    "title": "Final magnetic field time",
+    "description": "Essential: The final answer for part (3) must be correctly expressed as πBR²/(24U).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the charge-to-mass ratio has an incorrect sign, or if answers lack proper units or dimensional consistency.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Penalize if the angles of rotation (e.g., 75°, 15°, 60°) or the geometry of the circular arc and boundaries are incorrectly identified.",
+    "weight": -1
+  },
+  {
+    "title": "Period formula misuse",
+    "description": "Pitfall: Penalize if the period T = 2πm/(qB) is incorrectly stated or misapplied when calculating the time in the magnetic field.",
+    "weight": -1
+  }
+]

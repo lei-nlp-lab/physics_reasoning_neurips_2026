@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lamp A Resistance",
+    "description": "Essential: Correctly calculates lamp A's resistance using P=U²/R, obtaining 10 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Resistance Calculation",
+    "description": "Essential: Correctly solves for the internal resistance (2 Ω) using the closed-circuit equation at point E.",
+    "weight": 5
+  },
+  {
+    "title": "Lamp B Rated Power",
+    "description": "Essential: Correctly solves for lamp B's rated power (1.8 W) using the circuit conditions at point F.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit Analysis at Point E",
+    "description": "Important: Recognizes that at point E, lamp A operates at its rated voltage and current, allowing calculation of the main current.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit Analysis at Point F",
+    "description": "Important: Correctly analyzes the parallel branch with lamp B and the rheostat at full resistance when C is at F.",
+    "weight": 3
+  },
+  {
+    "title": "Closed-Circuit Equation Application",
+    "description": "Important: Applies E = U_terminal + I_total * (R_internal + other series resistances) for both switch positions.",
+    "weight": 4
+  },
+  {
+    "title": "Current Division Recognition",
+    "description": "Optional: Explicitly states that at point F, the total current splits between the rheostat and lamp B branches.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or Unit Error",
+    "description": "Pitfall: Makes sign errors in Kirchhoff's laws or omits units in final answers.",
+    "weight": -1
+  },
+  {
+    "title": "Rheostat Current Confusion",
+    "description": "Pitfall: Incorrectly calculates the current through the 180 Ω rheostat at point F (should be 9V/180Ω = 0.05 A).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Frequency Calculation",
+    "description": "Essential: Correctly computes the oscillation frequency using f = c/λ, yielding 1.5×10⁹ Hz.",
+    "weight": 5
+  },
+  {
+    "title": "Pulse Interval Identification",
+    "description": "Important: Recognizes that the time between consecutive pulses is 1/n, not the pulse duration t.",
+    "weight": 4
+  },
+  {
+    "title": "Travel Time Calculation",
+    "description": "Important: Correctly subtracts the pulse duration from the pulse interval to find the available travel time for unambiguous ranging.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum Distance Formula",
+    "description": "Essential: Applies the correct formula for maximum unambiguous range: s_max = c * (1/n - t) / 2, yielding 30 km.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Converts all quantities (λ, t) to consistent SI units before calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Ignoring Pulse Duration",
+    "description": "Pitfall: Uses the full pulse interval (1/n) as the travel time without subtracting the pulse duration t.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting Factor of 2",
+    "description": "Pitfall: Calculates the one-way travel distance but fails to divide by 2 for the round-trip radar signal.",
+    "weight": -2
+  }
+]

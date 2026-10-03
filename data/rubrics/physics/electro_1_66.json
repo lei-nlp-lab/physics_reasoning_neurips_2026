@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Potential Outside",
+    "description": "Essential Criteria: The expression for the electrostatic potential outside the shell must be correctly stated as Phi_+ = (sigma_0 R^3)/(3 epsilon_0 r^2) cos(theta) for r > R.",
+    "weight": 5
+  },
+  {
+    "title": "Final Potential Inside",
+    "description": "Essential Criteria: The expression for the electrostatic potential inside the shell must be correctly stated as Phi_- = (sigma_0 r)/(3 epsilon_0) cos(theta) for r < R.",
+    "weight": 5
+  },
+  {
+    "title": "Final Electric Field Outside",
+    "description": "Essential Criteria: The expression for the electric field outside the shell must be correctly stated as E_+ = (2 sigma_0 R^3)/(3 epsilon_0 r^3) cos(theta) e_r + (sigma_0 R^3)/(3 epsilon_0 r^3) sin(theta) e_theta for r > R.",
+    "weight": 5
+  },
+  {
+    "title": "Final Electric Field Inside",
+    "description": "Essential Criteria: The expression for the electric field inside the shell must be correctly stated as E_- = -(sigma_0)/(3 epsilon_0) e_z for r < R.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student must correctly apply the boundary conditions at r = R for the potentials and displacement vector.",
+    "weight": 4
+  },
+  {
+    "title": "Laplace's Equation",
+    "description": "Important Criteria: The student should demonstrate understanding of Laplace's equation and its application to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Coefficient Matching",
+    "description": "Important Criteria: The student must correctly match coefficients of P_n(cos(theta)) to find the constants a_n and b_n.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign errors in the expressions for electric fields or potentials.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

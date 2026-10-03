@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ground State Energy",
+    "description": "Essential Criteria: The student must correctly identify that the ground state energy E_0 is hbar omega / 2.",
+    "weight": 5
+  },
+  {
+    "title": "Alpha Value",
+    "description": "Essential Criteria: The student must derive the correct value of alpha as m omega / (2 hbar).",
+    "weight": 5
+  },
+  {
+    "title": "First Excited State",
+    "description": "Important Criteria: The student must correctly express the non-normalized wave function of the first excited state as |1> = sqrt(2m omega / hbar) x exp(-m omega / (2 hbar) x^2).",
+    "weight": 4
+  },
+  {
+    "title": "3D Wave Function",
+    "description": "Important Criteria: The student must provide the correct form of the wave functions for the degenerate first excited state in polar coordinates.",
+    "weight": 4
+  },
+  {
+    "title": "Uncertainty Principle",
+    "description": "Important Criteria: The student must demonstrate understanding of the uncertainty principle and its application to the ground state energy.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when calculating momentum and position uncertainties.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all derived quantities, such as alpha, have consistent units.",
+    "weight": -1
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student may check the normalization of the wave functions derived.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student may mention alternative methods to derive the wave functions without solving differential equations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final force F1",
+    "description": "Essential: The answer must give F1 = (μ₀ N I A ℰ) / (2 ℓ R r) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final force F2",
+    "description": "Essential: The answer must state F2 = -F1, indicating equal magnitude and opposite direction.",
+    "weight": 5
+  },
+  {
+    "title": "Identifies loop current",
+    "description": "Important: The solution correctly uses the loop current J = ℰ/R from Ohm's law.",
+    "weight": 3
+  },
+  {
+    "title": "Applies magnetic interaction model",
+    "description": "Important: The solution uses a valid physical model (e.g., force on magnetic dipole, mutual inductance energy, or Lorentz force on equivalent poles) to relate the solenoid and loop fields.",
+    "weight": 4
+  },
+  {
+    "title": "Uses solenoid field approximation",
+    "description": "Important: The solution correctly applies the approximation for the magnetic field of a long solenoid (B = μ₀ N I / ℓ) or its equivalent flux.",
+    "weight": 3
+  },
+  {
+    "title": "Considers loop field at center",
+    "description": "Important: The solution correctly uses the magnetic field at the center of a current loop, B_loop = μ₀ J / (2r).",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Penalize if the direction of F1 or the sign of F2 is incorrect (e.g., missing negative sign for F2).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Pitfall: Penalize if the answer omits fundamental constants (μ₀) or key parameters (N, A, ℓ, r, R, I, ℰ).",
+    "weight": -1
+  },
+  {
+    "title": "Exploits symmetry or Newton's third law",
+    "description": "Optional: The solution explicitly notes the symmetry or uses Newton's third law to justify F2 = -F1.",
+    "weight": 1
+  }
+]

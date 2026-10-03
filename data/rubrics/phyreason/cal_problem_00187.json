@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Upper gas pressure",
+    "description": "Essential: Correctly applies Boyle's law to the upper gas to find its final pressure as 2p_0.",
+    "weight": 5
+  },
+  {
+    "title": "Lower gas volume",
+    "description": "Important: Correctly calculates the final volume of the lower gas as (3/2) S L_0.",
+    "weight": 4
+  },
+  {
+    "title": "Lower gas pressure",
+    "description": "Essential: Correctly applies Boyle's law to the lower gas to find its final pressure as (2/3)p_0.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on piston",
+    "description": "Important: Sets up the vertical force equilibrium equation for the piston, accounting for pressures, weight, and atmospheric pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Piston mass calculation",
+    "description": "Essential: Solves the equilibrium equation correctly to find the piston mass as (4 p_0 S)/(3 g).",
+    "weight": 5
+  },
+  {
+    "title": "Misapplied gas law",
+    "description": "Pitfall: Incorrectly assumes both gases have the same final volume or pressure, or misapplies the isothermal condition.",
+    "weight": -2
+  },
+  {
+    "title": "Force direction error",
+    "description": "Pitfall: Omits the piston's weight, uses incorrect signs for pressure forces, or forgets atmospheric pressure on the rod side.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Explicitly verifies dimensional consistency of the final answer for mass (e.g., [p_0 S / g] has units of mass).",
+    "weight": 1
+  }
+]

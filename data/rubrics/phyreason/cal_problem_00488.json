@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct work sign interpretation",
+    "description": "Essential Criteria: Student must correctly interpret that work done against electrostatic force is negative work done by the electrostatic force.",
+    "weight": 5
+  },
+  {
+    "title": "Work addition for path",
+    "description": "Important Criteria: Student must sum the work done by electrostatic force along the path A→B→C to find total work from A to C.",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference calculation",
+    "description": "Essential Criteria: Student must correctly apply U = W/q with proper sign from the charge and work.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in final answer",
+    "description": "Pitfall Criteria: Student obtains +2V instead of -2V due to incorrect sign handling of work or charge.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Student verifies units (J/C = V) are consistent throughout calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Path independence recognition",
+    "description": "Important Criteria: Student recognizes electrostatic force is conservative, allowing work addition along any path.",
+    "weight": 3
+  },
+  {
+    "title": "Work against force misinterpretation",
+    "description": "Pitfall Criteria: Student treats work against electrostatic force as positive in work summation.",
+    "weight": -1
+  }
+]

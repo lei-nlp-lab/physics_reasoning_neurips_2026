@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Probability",
+    "description": "Essential Criteria: The final probability value of 0.702 must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Setup",
+    "description": "Important Criteria: The student must correctly define the wave functions for both the tritium and helium-3 ion.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student should verify that the wave functions are properly normalized.",
+    "weight": 2
+  },
+  {
+    "title": "Integration Process",
+    "description": "Important Criteria: The student must correctly perform the integral involved in the probability calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect limits in the integration.",
+    "weight": -2
+  }
+]

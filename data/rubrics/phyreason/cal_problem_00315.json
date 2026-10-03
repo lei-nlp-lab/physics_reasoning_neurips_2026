@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force at C",
+    "description": "Essential: Correctly calculates the normal force at point C (2.2 N) using energy conservation and Newton's second law for circular motion.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum speed at C",
+    "description": "Important: Applies the condition for maintaining contact at the top of the loop (centripetal force ≥ weight) to find the minimum speed.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile time of flight",
+    "description": "Important: Correctly calculates the time for the ball to fall from C to the ground or to the baffle height using vertical motion equations.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal landing range",
+    "description": "Essential: Determines the correct range of landing coordinates (1 m to 2.68 m) from point O, based on projectile motion from C.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for O to C",
+    "description": "Important: Uses work-energy theorem correctly to relate speed at O to speed at C for the farthest landing case.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at O",
+    "description": "Essential: Calculates the normal force at point O (12.2 N) for the farthest landing case using Newton's second law for circular motion.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes sign errors in coordinate system or unit inconsistencies (e.g., forgetting g=10 m/s², misusing R=0.5 m).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect centripetal force direction",
+    "description": "Pitfall: Misapplies Newton's second law at points O or C (e.g., wrong sign for forces in the centripetal equation).",
+    "weight": -2
+  },
+  {
+    "title": "Baffle clearance condition",
+    "description": "Optional: Explicitly states the condition for clearing the baffle (horizontal distance L = v*t for fall from C to baffle height).",
+    "weight": 2
+  }
+]

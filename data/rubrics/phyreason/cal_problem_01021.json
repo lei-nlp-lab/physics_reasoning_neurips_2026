@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct initial pressure",
+    "description": "Essential: Student must state or derive p₁ = p₀ - Mg/S from force balance on piston when lifted.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final pressure",
+    "description": "Essential: Student must state or derive p₂ = p₀ + Mg/S from force balance after inversion.",
+    "weight": 5
+  },
+  {
+    "title": "Ideal gas law application",
+    "description": "Important: Student must apply p/T = constant for the constant-volume heating process.",
+    "weight": 4
+  },
+  {
+    "title": "Correct ΔT expression",
+    "description": "Essential: Student must derive ΔT = (2Mg/(p₀S - Mg))T₁ as the final answer.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student must analyze forces on piston in both orientations to determine gas pressure.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in pressures",
+    "description": "Pitfall: Student incorrectly swaps signs in pressure expressions (e.g., p₁ = p₀ + Mg/S).",
+    "weight": -2
+  },
+  {
+    "title": "Volume condition recognition",
+    "description": "Important: Student must recognize that returning to initial position implies constant volume.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Student shows clear algebraic steps from p₁/T₁ = p₂/(T₁+ΔT) to final ΔT expression.",
+    "weight": 1
+  }
+]

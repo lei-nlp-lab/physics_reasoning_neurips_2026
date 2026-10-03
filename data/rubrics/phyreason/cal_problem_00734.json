@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Voltmeter reading",
+    "description": "Essential Criteria: The student must correctly calculate the voltmeter reading as 40 V, accounting for voltage division across the external circuit.",
+    "weight": 5
+  },
+  {
+    "title": "Charge calculation",
+    "description": "Essential Criteria: The student must correctly calculate the charge passing through the coil as 0.5 C when rotating 30° from the initial position.",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat per revolution",
+    "description": "Essential Criteria: The student must correctly calculate the Joule heat generated in one revolution as 120π√2 J.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum EMF derivation",
+    "description": "Important Criteria: The student must correctly apply Faraday's law to derive the maximum EMF (Em = NBL²ω).",
+    "weight": 4
+  },
+  {
+    "title": "Circuit resistance analysis",
+    "description": "Important Criteria: The student must correctly determine the equivalent external resistance (6 Ω) by analyzing series and parallel combinations.",
+    "weight": 4
+  },
+  {
+    "title": "Average EMF for charge",
+    "description": "Important Criteria: The student must use the average EMF (ΔΦ/Δt) rather than instantaneous values when calculating the charge transferred.",
+    "weight": 3
+  },
+  {
+    "title": "RMS voltage conversion",
+    "description": "Optional Criteria: The student should correctly convert between maximum and RMS values for sinusoidal AC quantities.",
+    "weight": 2
+  },
+  {
+    "title": "Flux change calculation",
+    "description": "Optional Criteria: The student may show the correct calculation of magnetic flux change (ΔΦ = BL²sin30°).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect RMS application",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses RMS values instead of average EMF when calculating charge.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance omission error",
+    "description": "Pitfall Criteria: Penalize if the student omits the coil's internal resistance (r) in circuit calculations.",
+    "weight": -1
+  }
+]

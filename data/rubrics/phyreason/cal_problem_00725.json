@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Period expression",
+    "description": "Essential Criteria: The final answer for the period (part 1) must be correctly derived and stated as T = 3πm / (2Be).",
+    "weight": 5
+  },
+  {
+    "title": "X-axis distance",
+    "description": "Essential Criteria: The final answer for the distance along the x-axis (part 2) must be correctly derived and stated as x = 3mv / (eB).",
+    "weight": 5
+  },
+  {
+    "title": "Radius calculation",
+    "description": "Important Criteria: The student must correctly apply the formula r = mv/(qB) to find the radii r1 and r2 for the two field regions, accounting for the different field strengths.",
+    "weight": 4
+  },
+  {
+    "title": "Half-period summation",
+    "description": "Important Criteria: The student must recognize that the full period T is the sum of the half-periods (T1/2 + T2/2) spent in each magnetic field region.",
+    "weight": 4
+  },
+  {
+    "title": "Trajectory geometry",
+    "description": "Important Criteria: The student must correctly relate the x-axis displacement to the sum of the diameters (or twice the sum of the radii) of the two semicircular arcs.",
+    "weight": 4
+  },
+  {
+    "title": "Force direction analysis",
+    "description": "Optional Criteria: The student may analyze the direction of the Lorentz force in each region to justify the semicircular paths and their connection at the x-axis.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or field error",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign for the electron's charge in the Lorentz force, or confuses the field directions, leading to wrong radii or force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student may demonstrate dimensional analysis or include correct units (e.g., seconds, meters) with their final answers.",
+    "weight": 1
+  }
+]

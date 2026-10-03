@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The correct expression for charge q on the capacitor as a function of time for part (a) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The correct expression for charge q on the capacitor as a function of time for part (b) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Kirchhoff's Laws",
+    "description": "Important Criteria: The application of Kirchhoff's laws to derive the relationships between currents and voltages in the circuit must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Equation",
+    "description": "Important Criteria: The correct formulation of the differential equation governing the charge on the capacitor must be presented.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The use of initial conditions to determine constants in the solution must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as incorrect signs in the equations or solutions must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should include checks for consistency of units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussion of limiting cases or behavior of the solution as t approaches 0 or infinity can enhance the response.",
+    "weight": 2
+  }
+]

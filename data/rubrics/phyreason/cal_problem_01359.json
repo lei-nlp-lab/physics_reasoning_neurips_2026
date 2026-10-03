@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Work on A",
+    "description": "Essential: The final numerical answer for part (1) is correctly stated as $-\\frac{6}{5}mgl$ (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Force on B Magnitude",
+    "description": "Essential: The final numerical answer for part (2) magnitude is correctly stated as $\\frac{3}{5}mg$ (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Force on B Direction",
+    "description": "Essential: The answer correctly identifies the force on B as a pushing force (thrust/compression).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Setup",
+    "description": "Important: Applies conservation of mechanical energy correctly, relating the change in gravitational potential energy to the final kinetic energies of A and B.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic Constraint",
+    "description": "Important: Correctly uses the rigid-rod constraint to relate the linear velocities of A and B via the common angular velocity ($v_A = 2v_B$).",
+    "weight": 4
+  },
+  {
+    "title": "Work-Energy for A",
+    "description": "Important: Applies the work-energy theorem to sphere A separately, considering gravity and the rod's work.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal Force for B",
+    "description": "Important: Applies Newton's second law to sphere B at the vertical position, setting net radial force equal to $mv_B^2/l$.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Error in Work",
+    "description": "Pitfall: Incorrectly assigns a positive sign to the work done by the rod on A, or misinterprets the sign convention for work.",
+    "weight": -2
+  },
+  {
+    "title": "Force Direction Misinterpretation",
+    "description": "Pitfall: Incorrectly identifies the force on B as a pulling force (tension) instead of a pushing force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Explicitly includes correct units (e.g., Joules, Newtons) or dimensional consistency in the final answers.",
+    "weight": 1
+  }
+]

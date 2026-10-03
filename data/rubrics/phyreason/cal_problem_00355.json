@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum power condition",
+    "description": "Essential: Student must identify that R₂ = 0 Ω for maximum power in R₁.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum power calculation",
+    "description": "Essential: Student must compute P_max = 1.125 W using correct current and R₁.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current determination",
+    "description": "Important: Student must apply Ohm's law for closed circuit to find current when R₂ = 0.",
+    "weight": 3
+  },
+  {
+    "title": "Charge from i-t graph",
+    "description": "Essential: Student must calculate ΔQ = 7.5×10⁻³ C from area under current-time curve.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitor voltage change",
+    "description": "Important: Student must determine ΔU = 2.5 V by comparing open and closed switch voltages.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitance calculation",
+    "description": "Essential: Student must compute C₁ = 3×10⁻³ F using C = ΔQ/ΔU.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage divider application",
+    "description": "Important: Student must correctly apply voltage divider to find capacitor voltage when switch closed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in ΔU",
+    "description": "Pitfall: Student incorrectly subtracts voltages (U₁' - U₁ instead of U₁ - U₁').",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring internal resistance",
+    "description": "Pitfall: Student omits internal resistance r in circuit calculations.",
+    "weight": -2
+  }
+]

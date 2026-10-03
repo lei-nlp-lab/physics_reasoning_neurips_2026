@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer Inside",
+    "description": "Essential Criteria: The expression for the electric potential inside the sphere must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Outside",
+    "description": "Essential Criteria: The expression for the electric potential outside the sphere must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Condition",
+    "description": "Important Criteria: The student must correctly apply the boundary condition at the surface of the sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Legendre Polynomials",
+    "description": "Important Criteria: The student should recognize the use of Legendre polynomials in the potential expansion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the potential expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Symmetry Consideration",
+    "description": "Optional Criteria: The student should acknowledge the symmetry of the problem in their reasoning.",
+    "weight": 1
+  }
+]

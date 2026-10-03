@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fermi Momentum",
+    "description": "Essential Criteria: The correct expression for the Fermi momentum k_F must be derived as k_F = (3 pi^2 rho)^{1/3}.",
+    "weight": 5
+  },
+  {
+    "title": "Total Energy",
+    "description": "Essential Criteria: The total energy E_tot must be correctly expressed as E_tot = (hbar^2 (3 pi^2 N q)^{5/3})/(10 pi^2 m_e) V^{-2/3}.",
+    "weight": 5
+  },
+  {
+    "title": "Quantum Pressure",
+    "description": "Essential Criteria: The expression for quantum pressure P must be derived correctly as P = (hbar^2/(15 pi^2 m_e)) (3 pi^2 rho)^{5/3}.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning",
+    "description": "Important Criteria: The student must show clear reasoning in deriving the relationships between k_F, E_tot, and P using appropriate physical principles.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the final expressions.",
+    "weight": -2
+  }
+]

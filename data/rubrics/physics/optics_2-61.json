@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Maxima Equation",
+    "description": "Essential Criteria: Provide the correct equation for the positions of the maxima in the Fabry-Perot interferometer.",
+    "weight": 5
+  },
+  {
+    "title": "Resolving Power",
+    "description": "Essential Criteria: Derive and present the equation for the resolving power of the instrument.",
+    "weight": 5
+  },
+  {
+    "title": "Interferometer Description",
+    "description": "Important Criteria: Clearly describe the functioning and components of the Fabry-Perot interferometer.",
+    "weight": 4
+  },
+  {
+    "title": "Shape of Maxima",
+    "description": "Important Criteria: Indicate the shape of the interference maxima produced by the instrument.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as incorrect signs or missing factors in the equations.",
+    "weight": -2
+  }
+]

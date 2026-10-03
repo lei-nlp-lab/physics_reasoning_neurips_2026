@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum distance calculation",
+    "description": "Essential: The final answer for the maximum distance between the cars must be 64 m.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up time calculation",
+    "description": "Essential: The final answer for the total time for car A to catch up must be 16 s.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum acceleration condition",
+    "description": "Essential: The final answer for the minimum acceleration of car A to avoid collision must be 8/31 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Time of equal speeds",
+    "description": "Important: The solution must correctly find the time (t1 = 6 s) when the speeds of car A and car B become equal.",
+    "weight": 4
+  },
+  {
+    "title": "B's stopping time and displacement",
+    "description": "Important: The solution must correctly calculate the time (t0 = 10 s) and displacement (100 m) for car B to come to a complete stop.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: The solution must correctly analyze the relative positions and motions after car B has stopped to find the remaining catch-up time (t2 = 6 s).",
+    "weight": 3
+  },
+  {
+    "title": "Displacement equations setup",
+    "description": "Optional: The solution clearly sets up displacement equations for both cars using correct kinematic formulas for constant velocity and constant deceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations maintain consistent units (meters, seconds, m/s²) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Using acceleration instead of deceleration (wrong sign) for car B's motion in the kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring initial separation",
+    "description": "Pitfall: Failing to include the initial 28 m separation (x0) when calculating relative displacements or the catch-up condition.",
+    "weight": -2
+  }
+]

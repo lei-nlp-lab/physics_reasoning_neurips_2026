@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly states the final answer B = mv₀/(qR) from equating Lorentz force to centripetal force.",
+    "weight": 5
+  },
+  {
+    "title": "Angular speed for point A",
+    "description": "Essential: Correctly states the final answer ω = (4k+1)v₀/R, with integer k, from relating ion transit time to cylinder rotation.",
+    "weight": 5
+  },
+  {
+    "title": "Average impulse force expression",
+    "description": "Essential: Correctly states the final answer F = [(2nπ+θ)N/(2(π-θ)π)] * (mv₀²/R) tan(θ/2), with integer n.",
+    "weight": 5
+  },
+  {
+    "title": "Other detection angles",
+    "description": "Essential: Correctly lists the final answers θ' = 5π/6, π/6, π/2 (or equivalent in degrees).",
+    "weight": 5
+  },
+  {
+    "title": "Ion trajectory geometry",
+    "description": "Important: Applies geometry to relate the ion's circular path radius R' and speed v to the deflection angle θ via R' = R tan(θ/2) and v = v₀ tan(θ/2).",
+    "weight": 4
+  },
+  {
+    "title": "Time in magnetic field",
+    "description": "Important: Correctly calculates the time the ion spends in the magnetic field for a given trajectory (e.g., t' = (π-θ)R'/v).",
+    "weight": 3
+  },
+  {
+    "title": "Cylinder rotation condition",
+    "description": "Important: Relates the cylinder's rotation angle ω't' to the ion's arrival angle via ω't' = 2nπ + θ for detection at point C.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse-momentum theorem application",
+    "description": "Important: Applies the impulse-momentum theorem correctly, relating average force F, period 2π/ω', number of ions N, and ion momentum change mv.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for charge in Lorentz force or misidentifies the direction of force/deflection for negative ions.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Misinterprets the geometric angles (θ, θ') or the rotation angles (2nπ, π-θ) leading to an incorrect kinematic condition.",
+    "weight": -1
+  }
+]

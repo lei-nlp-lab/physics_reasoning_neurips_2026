@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Auger Effect Description",
+    "description": "Essential Criteria: The response must accurately describe the Auger effect as a nonradiative transition involving the ejection of an electron from a higher energy shell.",
+    "weight": 5
+  },
+  {
+    "title": "Anomalous Zeeman Effect",
+    "description": "Essential Criteria: The response must explain the anomalous Zeeman effect as the splitting of spectral lines in a magnetic field due to electron spin.",
+    "weight": 5
+  },
+  {
+    "title": "Lamb Shift Explanation",
+    "description": "Essential Criteria: The response must define the Lamb shift as the energy difference between specific hydrogen atom states caused by electron interactions.",
+    "weight": 5
+  },
+  {
+    "title": "Landé Interval Rule",
+    "description": "Important Criteria: The response must state the Landé interval rule regarding the energy difference between adjacent J levels in LS coupling.",
+    "weight": 4
+  },
+  {
+    "title": "Hund's Rules Overview",
+    "description": "Important Criteria: The response must summarize Hund's rules for atomic levels, including the conditions for lowest energy configurations.",
+    "weight": 4
+  },
+  {
+    "title": "Missing Key Details",
+    "description": "Pitfall Criteria: The response may lose points for omitting key details or definitions related to the effects or rules described.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity and Conciseness",
+    "description": "Optional Criteria: The response should be clear and concise, effectively communicating the concepts without unnecessary complexity.",
+    "weight": 2
+  },
+  {
+    "title": "Correct Terminology",
+    "description": "Optional Criteria: The response should use correct scientific terminology throughout to enhance understanding.",
+    "weight": 2
+  }
+]

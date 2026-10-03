@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimal height expression",
+    "description": "Essential: The final answer for part (a) is correctly expressed as h = (B²/A²) * (1/(2g)) * (T_air / ΔT).",
+    "weight": 5
+  },
+  {
+    "title": "Warm-region chimney height",
+    "description": "Essential: The final numerical answer for part (b) is 145 m, derived from the correct ratio of temperatures.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity and pressure profiles",
+    "description": "Important: Correctly applies Bernoulli's equation and hydrostatic balance to derive expressions for velocity (constant) and linear pressure variation with height.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency derivation",
+    "description": "Important: Derives the plant efficiency η = gh/(c T_atm) from the ratio of kinetic power output to solar heating power input.",
+    "weight": 4
+  },
+  {
+    "title": "Power and energy calculation",
+    "description": "Important: Correctly calculates prototype power (45 kW) and daily energy output (360 kWh) using given parameters and the efficiency.",
+    "weight": 4
+  },
+  {
+    "title": "Mass flow rate determination",
+    "description": "Important: Correctly calculates the mass flow rate (760 kg/s) using either the continuity/velocity relation or the solar heating balance.",
+    "weight": 3
+  },
+  {
+    "title": "Density-temperature relation",
+    "description": "Optional: Uses the ideal gas law to relate density ratio to temperature ratio (ρ_air/ρ_smoke = T_smoke/T_air) in derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units and converts temperatures to Kelvin where necessary.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Incorrect sign in the hydrostatic pressure term or the buoyancy-driven pressure difference in the chimney.",
+    "weight": -2
+  },
+  {
+    "title": "Temperature unit mistake",
+    "description": "Pitfall: Uses Celsius values directly in the ideal gas law or efficiency formula instead of converting to Kelvin.",
+    "weight": -2
+  }
+]

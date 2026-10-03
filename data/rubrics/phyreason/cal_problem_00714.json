@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correctly calculates the Ampere force magnitude using equilibrium: F_a = 2kx - mg = 3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force direction",
+    "description": "Essential: Correctly identifies the direction of the Ampere force as vertically downward using the left-hand rule.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates the magnetic field magnitude using B = F_a / (IL) = 0.5 T.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Sets up the vertical force equilibrium equation accounting for both spring forces, weight, and Ampere force.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere's law application",
+    "description": "Important: Correctly applies F = BIL to relate Ampere force to magnetic field, current, and length.",
+    "weight": 4
+  },
+  {
+    "title": "Direction reasoning",
+    "description": "Important: Uses the left-hand rule with given current direction and field orientation to determine force direction.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities to consistent SI units (e.g., cm to m) before calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in equilibrium",
+    "description": "Pitfall: Incorrectly signs the Ampere force in the equilibrium equation (e.g., F_a = mg - 2kx).",
+    "weight": -2
+  },
+  {
+    "title": "Spring force mistake",
+    "description": "Pitfall: Uses only one spring force instead of two, or misinterprets the elongation value.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Misapplies F = BIL (e.g., uses wrong length, omits current, or confuses with other formulas).",
+    "weight": -1
+  }
+]

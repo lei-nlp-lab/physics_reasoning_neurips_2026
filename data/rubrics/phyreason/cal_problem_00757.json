@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final block velocity",
+    "description": "Essential: Correctly applies momentum conservation to obtain v = v₀/4.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important: Sets up the correct momentum equation: m*v₀ = m*(v₀/2) + 2m*v.",
+    "weight": 4
+  },
+  {
+    "title": "Fall time calculation",
+    "description": "Important: Correctly solves h = (1/2)gt² for the fall time t = √(2h/g).",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal landing distance",
+    "description": "Essential: Correctly calculates the range x = v*t = (v₀/4)*√(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Energy loss calculation",
+    "description": "Essential: Correctly computes ΔE = initial KE - final KE = 5mv₀²/16.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Sets up the correct energy difference: ΔE = (1/2)mv₀² - [(1/2)m(v₀/2)² + (1/2)(2m)v²].",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Uses incorrect sign for bullet's exit velocity (e.g., treating it as additive).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect mass in momentum",
+    "description": "Pitfall: Uses wrong mass for the block (e.g., m instead of 2m) in the momentum equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout or explicitly states them in final answers.",
+    "weight": 1
+  }
+]

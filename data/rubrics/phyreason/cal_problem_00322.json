@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum normal force magnitude",
+    "description": "Essential: The final answer for part (1) must state the maximum normal force as 3mg (or equivalent numerical expression).",
+    "weight": 5
+  },
+  {
+    "title": "Normal force derivation",
+    "description": "Essential: The derived expression for part (2) must be F_N = 3mg cosθ - mg(1 + 2R/r) (or algebraically equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum normal force location",
+    "description": "Important: The analysis must correctly identify point C (θ = 60°) as the location where the normal force is minimum.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: The solution must correctly apply conservation of mechanical energy between points A and B, and between A and an arbitrary point on arc CD.",
+    "weight": 4
+  },
+  {
+    "title": "Radial force balance",
+    "description": "Important: Newton's second law in the radial direction must be correctly set up for the circular motion on arc CD (mg cosθ - F_N = m v²/r).",
+    "weight": 4
+  },
+  {
+    "title": "Reachability conclusion",
+    "description": "Essential: For part (3), the final conclusion must state that the block can just reach (or does reach) the highest point D.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Incorrect sign in the radial force equation (e.g., F_N - mg cosθ = m v²/r) should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Energy reference error",
+    "description": "Pitfall: Using an incorrect height or potential energy reference (e.g., for point M on arc CD) in the conservation of energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions should be dimensionally consistent (e.g., all terms in F_N expression have units of force).",
+    "weight": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Neutrino Types",
+    "description": "Essential Criteria: The student must correctly identify the number of known neutrino types as two, including their antiparticles.",
+    "weight": 3
+  },
+  {
+    "title": "Neutrino Spin",
+    "description": "Essential Criteria: The student must state that the spin of a neutrino is 1/2.",
+    "weight": 3
+  },
+  {
+    "title": "Lepton Number Conservation",
+    "description": "Important Criteria: The student should explain that lepton number is conserved in neutrino scattering processes.",
+    "weight": 4
+  },
+  {
+    "title": "Difference Neutrino vs Antineutrino",
+    "description": "Important Criteria: The student must clarify that neutrinos and antineutrinos have opposite lepton numbers.",
+    "weight": 4
+  },
+  {
+    "title": "Missing Particle",
+    "description": "Essential Criteria: The student must correctly identify the missing particle in the reaction as nu_e.",
+    "weight": 3
+  },
+  {
+    "title": "Magnetic Moment",
+    "description": "Important Criteria: The student must state that if neutrino mass is zero, it has no magnetic moment.",
+    "weight": 4
+  },
+  {
+    "title": "Spin Direction",
+    "description": "Important Criteria: The student should describe the spin direction of neutrinos and antineutrinos correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Essential Criteria: The student must provide the correct velocity of the neutrino as 2.6 x 10^7 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors in calculations, such as incorrect application of the kinetic energy formula.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

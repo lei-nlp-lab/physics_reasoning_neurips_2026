@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Minimum Energy Calculation",
+    "description": "Essential Criteria: Correctly calculate the minimum energy E_min for pair production as 2.6 x 10^14 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Free Path",
+    "description": "Essential Criteria: Accurately determine the mean free path l for pair production as approximately 1.6 x 10^4 light years.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison with Universe Size",
+    "description": "Important Criteria: Compare the mean free path with the size of the universe, stating that l is much less than R.",
+    "weight": 4
+  },
+  {
+    "title": "Proton Lifetime Limitation",
+    "description": "Important Criteria: Identify the relevant physical processes that limit the lifetime of ultra-high-energy protons in microwave radiation.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Equation",
+    "description": "Optional Criteria: Use the correct energy conservation equation for the proton and photon interaction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign errors in the energy conservation equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

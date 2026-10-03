@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The correct equation for calculating the wavelength must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Measurements Recorded",
+    "description": "Important Criteria: The student must mention the measurements of L, d, and Δ used in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Substitution",
+    "description": "Important Criteria: The student should correctly substitute the measured values into the wavelength equation.",
+    "weight": 4
+  },
+  {
+    "title": "Units Included",
+    "description": "Optional Criteria: The student should include appropriate units for wavelength in the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Accuracy",
+    "description": "Important Criteria: The final calculated wavelength must be accurate based on the provided measurements.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must ensure that all factors in the equation are accounted for.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: The student's final answer for U_AB must be 40 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct field magnitude",
+    "description": "Essential: The student's final answer for E must be 2000 V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy relationship",
+    "description": "Important: The solution must correctly relate the change in potential energy to the work done by the electric field (W_AB = -ΔPE).",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference definition",
+    "description": "Important: The solution must correctly apply the formula U_AB = W_AB / q to find the potential difference.",
+    "weight": 4
+  },
+  {
+    "title": "Correct parallel distance",
+    "description": "Important: The solution must correctly calculate the component of the displacement parallel to the field (d = AB * cos 60° = 0.02 m).",
+    "weight": 3
+  },
+  {
+    "title": "Field from potential gradient",
+    "description": "Important: The solution must correctly apply the uniform field relationship E = U_AB / d.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error with negative charge",
+    "description": "Pitfall: Penalize if the student incorrectly handles the sign of the charge when calculating U_AB or the work.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should correctly convert all distances to meters and maintain consistent SI units throughout.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct expression for N",
+    "description": "Essential: The final answer for part (1) must be N = F₁ / √(2ZemU) or its equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct expression for F/P",
+    "description": "Essential: The final answer for part (2) must be F/P = √(2m/(ZeU)) or its equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Valid suggestions for increasing F/P",
+    "description": "Essential: The response for part (3) must list three distinct, physically valid methods based on the derived expression, such as increasing ion mass, decreasing ion charge, or decreasing voltage U.",
+    "weight": 5
+  },
+  {
+    "title": "Application of work-energy theorem",
+    "description": "Important: The solution must correctly relate the accelerating voltage to the ion's final kinetic energy using ZeU = (1/2)mv².",
+    "weight": 4
+  },
+  {
+    "title": "Momentum transfer reasoning",
+    "description": "Important: The solution must apply Newton's second and third laws to relate thrust to the rate of change of momentum of the ion beam (F = N m v).",
+    "weight": 4
+  },
+  {
+    "title": "Power derivation from force and velocity",
+    "description": "Important: The solution must correctly derive the power as P = (1/2) F v, recognizing the work done on ions starting from rest.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation and simplification",
+    "description": "Optional: The solution shows clear, logical algebraic steps to combine equations and solve for the required quantities N and F/P.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or definition error in thrust",
+    "description": "Pitfall: Penalize if the student confuses the direction of force or incorrectly equates thrust to electric force without Newton's third law.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect power formula",
+    "description": "Pitfall: Penalize if the power is incorrectly calculated as P = F v (instead of (1/2)F v) for ions accelerated from rest.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or proportionality error",
+    "description": "Pitfall: Penalize if the final expressions have incorrect dimensional dependence (e.g., F/P proportional to 1/√U instead of √(1/U)).",
+    "weight": -1
+  }
+]

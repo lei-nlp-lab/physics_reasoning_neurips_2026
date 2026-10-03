@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Charge magnitude at B",
+    "description": "Essential: The student's final answer for part (1) must state the magnitude of the charge at B is q.",
+    "weight": 5
+  },
+  {
+    "title": "Polarity of all charges",
+    "description": "Essential: The student's final answer for part (2) must correctly identify all three charges (A, B, C) as positive.",
+    "weight": 5
+  },
+  {
+    "title": "Charge magnitude at C",
+    "description": "Essential: The student's final answer for part (3) must give the charge at C as ((3 - sqrt(3))/3)q or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Field superposition at M",
+    "description": "Important: The student must apply superposition at midpoint M, concluding the fields from A and B cancel, implying equal magnitude and opposite direction.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and distances",
+    "description": "Important: The student must correctly use the equilateral triangle geometry to relate distances AN, BN, and CN (e.g., AN = sqrt(3) * BN = sqrt(3) * CN).",
+    "weight": 3
+  },
+  {
+    "title": "Field superposition at N",
+    "description": "Important: The student must set up the correct vector superposition at point N, relating the vertical components from charges A, B, and C to satisfy the given upward direction.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns a negative sign to any charge polarity or misinterprets the field direction from a point charge.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or simplification error",
+    "description": "Pitfall: Penalize if the student makes an algebraic mistake when solving the equation from point N, leading to an incorrect expression for q_C.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Moment of Inertia",
+    "description": "Essential Criteria: The student must correctly derive and state the moment of inertia I = (1/12) ml^2.",
+    "weight": 5
+  },
+  {
+    "title": "Lagrange's Equations",
+    "description": "Important Criteria: The student must correctly formulate Lagrange's equations for the system involving the coordinates x and theta.",
+    "weight": 4
+  },
+  {
+    "title": "Instability Explanation",
+    "description": "Important Criteria: The student must explain the instability of the rod's position and describe its subsequent motion when disturbed.",
+    "weight": 4
+  },
+  {
+    "title": "Final Velocities",
+    "description": "Essential Criteria: The student must correctly identify the final angular and radial velocities of the rod after a long time.",
+    "weight": 5
+  },
+  {
+    "title": "Coordinate Choice",
+    "description": "Optional Criteria: The student should justify the choice of coordinates for the system.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect signs or missing factors in the equations.",
+    "weight": -2
+  }
+]

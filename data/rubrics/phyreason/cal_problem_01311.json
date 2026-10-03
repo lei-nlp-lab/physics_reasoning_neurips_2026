@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Force on axis",
+    "description": "Essential: The final answer for part (1) must be the correct magnitude of the force on the horizontal axis (9mg).",
+    "weight": 5
+  },
+  {
+    "title": "Condition for no force",
+    "description": "Essential: The final answers for part (2) must correctly state the velocities of balls A and B when the axis is free from force.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force at highest point",
+    "description": "Important: For part (1), correctly applies Newton's second law for centripetal force to ball A at the highest point to find the angular speed.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance for axis-free condition",
+    "description": "Important: For part (2), sets up and solves the system of force equations for both balls when the net horizontal force on the axis is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Angular-linear velocity relation",
+    "description": "Important: Correctly relates the found angular speed to the linear velocities of balls A and B using v = ωr.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram application",
+    "description": "Optional: Correctly identifies and labels all forces (tension, weight, centripetal) on the free-body diagrams for both balls.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in centripetal direction",
+    "description": "Pitfall: Incorrectly assigns the direction of centripetal acceleration or net force for a ball at a given position.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect radius for centripetal force",
+    "description": "Pitfall: Uses an incorrect distance from the axis O as the radius for calculating centripetal acceleration for either ball.",
+    "weight": -2
+  }
+]

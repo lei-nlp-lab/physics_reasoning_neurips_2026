@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Free-fall final speed",
+    "description": "Essential: Correctly calculates the speed at the end of the 125 m free-fall using kinematics (e.g., v² = 2gh).",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the acceleration during the final 270 m descent using kinematics, given initial speed 50 m/s and final speed 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Essential: Correctly sums the times for the three distinct motion segments to find the total time from helicopter to ground.",
+    "weight": 5
+  },
+  {
+    "title": "Segment time reasoning",
+    "description": "Important: Correctly applies kinematics (v = u + at, s = ut + ½at²) or constant speed formulas to find the time for each of the three motion phases.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration direction",
+    "description": "Important: Recognizes that the acceleration during the final descent is opposite to the direction of motion (deceleration) and states its direction correctly (upward).",
+    "weight": 3
+  },
+  {
+    "title": "Uniform motion analysis",
+    "description": "Important: Correctly identifies the 150 m parachute deployment phase as motion at constant speed (the free-fall terminal speed).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Uses incorrect sign convention in the kinematics equation for the deceleration phase, leading to a wrong sign or magnitude for acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout the solution and presents final answers with correct units.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the differential cross section, d sigma/d Omega, as (m a / (2 pi hbar^2))^2.",
+    "weight": 5
+  },
+  {
+    "title": "Scattering Amplitude",
+    "description": "Important Criteria: The student should derive the scattering amplitude f(theta) correctly from the potential using the Fourier transform.",
+    "weight": 4
+  },
+  {
+    "title": "Low Momentum Condition",
+    "description": "Important Criteria: The student must state the condition for low momentum, ks << 1, for the approximation to hold.",
+    "weight": 3
+  },
+  {
+    "title": "Transition Rate",
+    "description": "Important Criteria: The student should correctly apply Fermi's golden rule to find the transition rate w in terms of the potential and density of states.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect signs in the scattering amplitude or neglecting the normalization of the potential.",
+    "weight": -2
+  }
+]

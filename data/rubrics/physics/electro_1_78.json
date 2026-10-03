@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the force required to keep the charge at rest.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Image Charges",
+    "description": "Important Criteria: The student should correctly apply the method of images to determine the image charges and their locations.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student must apply the boundary conditions correctly to relate the potentials in the two dielectric regions.",
+    "weight": 4
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Important Criteria: The student should correctly derive the expression for the force acting on the charge based on the contributions from all relevant charges.",
+    "weight": 4
+  },
+  {
+    "title": "Sign and Units",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the final expression for the force and ensure units are consistent.",
+    "weight": -2
+  }
+]

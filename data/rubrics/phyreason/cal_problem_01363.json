@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial velocity v0",
+    "description": "Essential: Correctly calculates the initial horizontal velocity v0 = 4 m/s using projectile motion from A to B.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at point B",
+    "description": "Essential: Correctly calculates the speed at point B = 5 m/s using vector addition of horizontal and vertical components.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at point C",
+    "description": "Essential: Correctly calculates the normal force/pressure on the track at C = 47.3 N using centripetal force and energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum plank length",
+    "description": "Essential: Correctly calculates the minimum plank length = 2.0 m using relative motion and friction analysis.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Applies kinematics to find the time of flight and vertical velocity at B from the vertical displacement H-h.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation to C",
+    "description": "Important: Uses work-energy theorem or conservation of energy to find the speed of the block at point C.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force analysis",
+    "description": "Important: Correctly identifies that the block-plank friction (7 N) is less than the maximum ground-plank friction (10 N), so the plank remains stationary.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal force at C",
+    "description": "Important: Applies Newton's second law at point C with correct centripetal acceleration direction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Uses incorrect sign for gravitational force in the centripetal force equation at point C.",
+    "weight": -2
+  },
+  {
+    "title": "Friction misconception",
+    "description": "Pitfall: Assumes the plank moves, incorrectly applying relative motion or two-body dynamics.",
+    "weight": -1
+  }
+]

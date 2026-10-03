@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum induced emf",
+    "description": "Essential: Correctly calculates the maximum induced electromotive force using the given expression or Faraday's law.",
+    "weight": 5
+  },
+  {
+    "title": "Effective current calculation",
+    "description": "Important: Correctly determines the effective current from the maximum current in the sinusoidal AC circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Bulb power consumption",
+    "description": "Essential: Correctly calculates the electric power consumed by the bulb using the effective current and its resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Average emf for charge",
+    "description": "Important: Applies Faraday's law to find the average induced emf over the specified time interval for the non-sinusoidal change.",
+    "weight": 4
+  },
+  {
+    "title": "Charge via average current",
+    "description": "Essential: Correctly calculates the charge passing through the bulb by integrating the average current over time or using the flux change.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit resistance sum",
+    "description": "Important: Uses the total circuit resistance (bulb plus coil) in Ohm's law calculations for current.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout the calculations and presents final answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Confusing peak with effective",
+    "description": "Pitfall: Uses peak current instead of effective value when calculating the bulb's power.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect flux change interval",
+    "description": "Pitfall: Misidentifies the change in magnetic field (ΔB) or the time interval (Δt) for the charge calculation in part (3).",
+    "weight": -2
+  }
+]

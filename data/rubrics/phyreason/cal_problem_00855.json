@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at t=2.0s",
+    "description": "Essential: Correctly calculates the instantaneous velocity of rod MN at t=2.0s as 0.80 m/s using the given current and the relationship v = IR/(Bl).",
+    "weight": 5
+  },
+  {
+    "title": "Power at t=4.0s",
+    "description": "Essential: Correctly calculates the instantaneous power of force F at t=4.0s as 3.1 W using P = Fv, with correct F and v at that instant.",
+    "weight": 5
+  },
+  {
+    "title": "Work done by F",
+    "description": "Essential: Correctly calculates the total work done by force F on rod MN during 0~3.0s as 2.7 J using energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "EMF and Ohm's Law",
+    "description": "Important: Applies the correct motional EMF formula (E = 2Blv) for the two moving rods and uses Ohm's Law (I = E / total resistance) to relate current and velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Force Analysis",
+    "description": "Important: Applies Newton's second law to the system (or individual rods) correctly, accounting for gravity, the external force F, and the Ampere forces on both rods.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Setup",
+    "description": "Important: Sets up the energy conservation equation: Work by F = change in gravitational PE + change in kinetic energy of both rods + total Joule heat in circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for Distance",
+    "description": "Optional: Correctly determines the distance h rod MN moves in 3.0s using kinematics (h = v²/(2a) or equivalent), given the uniform acceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Total Heat Calculation",
+    "description": "Optional: Recognizes that the heat generated in MN is half the total circuit heat (Q_all = 2 * Q_MN) because the rods have equal resistance.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect EMF Formula",
+    "description": "Pitfall: Uses E = Blv for only one rod, forgetting the series contribution from the second rod, leading to a factor-of-two error in velocity or current.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Error in Forces",
+    "description": "Pitfall: Misplaces the sign/direction of the Ampere force(s) or the net force in Newton's second law, leading to an incorrect value for F or acceleration.",
+    "weight": -2
+  }
+]

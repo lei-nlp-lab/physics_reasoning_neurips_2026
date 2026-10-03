@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the electrostatic energy W = 3Q^2/(5R).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct estimate for the radius R = 3.88 fm.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Integration",
+    "description": "Important Criteria: The student must correctly set up and evaluate the integrals for the electrostatic energy calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Mirror Nuclei",
+    "description": "Important Criteria: The student must correctly relate the mass difference to the electrostatic energy difference in the context of mirror nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Charge Values",
+    "description": "Pitfall Criteria: The student must ensure that the correct charge values (Z1 and Z2) are used in the calculations.",
+    "weight": -1
+  }
+]

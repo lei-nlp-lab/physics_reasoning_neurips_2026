@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Direction of motion",
+    "description": "Essential: The response must correctly state the rod moves to the right, applying the left-hand rule for magnetic force on a current-carrying conductor.",
+    "weight": 5
+  },
+  {
+    "title": "Number of batteries",
+    "description": "Essential: The final numerical answer for the number of lithium batteries must be 100.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: The solution must state that for constant velocity, the magnetic (Ampere) force equals the opposing mechanical resistance of 400 N.",
+    "weight": 4
+  },
+  {
+    "title": "Current calculation",
+    "description": "Important: The student must correctly use F = BIL to calculate the required current (I = 400 A).",
+    "weight": 4
+  },
+  {
+    "title": "Voltage and Ohm's Law",
+    "description": "Important: The solution must apply Ohm's Law (U = IR) to find the voltage (400 V) across the rod, recognizing the rod's resistance is the relevant load.",
+    "weight": 4
+  },
+  {
+    "title": "Series voltage summation",
+    "description": "Optional: The response may explicitly note that the total source voltage is the sum of individual battery voltages (n * 4 V).",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution may demonstrate unit analysis for equations like F = BIL and U = IR.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force direction",
+    "description": "Pitfall: Penalize if the left-hand rule is misapplied, leading to an incorrect direction (e.g., leftward motion).",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting force equilibrium",
+    "description": "Pitfall: Penalize if the constant velocity condition (net force = 0, so F_magnetic = F_resistance) is not stated or used.",
+    "weight": -2
+  },
+  {
+    "title": "Ohm's Law misapplication",
+    "description": "Pitfall: Penalize if Ohm's Law is incorrectly applied (e.g., using total circuit resistance incorrectly or confusing EMF with terminal voltage).",
+    "weight": -1
+  }
+]

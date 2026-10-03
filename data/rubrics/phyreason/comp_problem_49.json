@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final net angle (part a)",
+    "description": "Essential: The net rotation angle for part (a) must be given as approximately -4 m h θ / (M R) to leading order in h/R.",
+    "weight": 5
+  },
+  {
+    "title": "Final net angle (part b)",
+    "description": "Essential: The net rotation angle for part (b) must be given as 4 m π r² / (M R²).",
+    "weight": 5
+  },
+  {
+    "title": "Angular momentum conservation",
+    "description": "Important: The solution must apply conservation of angular momentum about the pivot for each leg of the ant's motion.",
+    "weight": 4
+  },
+  {
+    "title": "Disk angular velocity relation",
+    "description": "Important: The disk's angular velocity must be correctly related to the ant's motion via ω_disk = - (m/M) * (v_ant, tangential / (R/2)?) or equivalent, using the disk's moment of inertia (I_disk = MR²/2).",
+    "weight": 4
+  },
+  {
+    "title": "Integration for circular path",
+    "description": "Important: For part (b), the solution must integrate the angular displacement over the ant's full circular trip, or correctly use the ratio of moments of inertia.",
+    "weight": 3
+  },
+  {
+    "title": "Leading order approximation",
+    "description": "Optional: The answer for part (a) explicitly uses the binomial approximation (1 - h/R)² ≈ 1 - 2h/R to find the leading order term.",
+    "weight": 2
+  },
+  {
+    "title": "Radial movement analysis",
+    "description": "Important: The solution must state that during the purely radial leg (h movement), the disk does not rotate because the ant exerts no torque about the center.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in rotation",
+    "description": "Pitfall: Incorrect sign for the disk's rotation direction (e.g., missing the negative sign in part (a) final answer).",
+    "weight": -2
+  },
+  {
+    "title": "Moment of inertia mistake",
+    "description": "Pitfall: Using an incorrect moment of inertia for the disk (e.g., MR² instead of MR²/2) in calculating the angular velocity.",
+    "weight": -2
+  }
+]

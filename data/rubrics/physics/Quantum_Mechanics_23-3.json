@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct expressions for R and T, the energy levels E_n, and the potential depth V_0.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission and Reflection",
+    "description": "Important Criteria: Derive the expressions for R and T correctly and verify that R + T = 1.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Condition",
+    "description": "Important Criteria: Show that T = 1 for specific energy values and explain the physical interpretation related to the Ramsauer effect.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Depth Calculation",
+    "description": "Essential Criteria: Correctly calculate the potential depth V_0 using the given energy and radius.",
+    "weight": 5
+  },
+  {
+    "title": "Mathematical Accuracy",
+    "description": "Pitfall Criteria: Avoid common errors in algebraic manipulation or sign mistakes during calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: Provide a clear interpretation of the results in the context of quantum mechanics and the Ramsauer effect.",
+    "weight": 2
+  }
+]

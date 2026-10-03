@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Potential at D",
+    "description": "Essential: Correctly calculates φ_D = -E * (distance from D to B) = -1.2e2 V/m * 0.005 m = -0.6 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Difference C-D",
+    "description": "Essential: Correctly calculates U_CD = φ_C - φ_D, with φ_C = -E * (distance from C to B) = -1.2e2 V/m * 0.045 m = -5.4 V, yielding -4.8 V.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance Calculation",
+    "description": "Essential: Correctly calculates C = Q / |U_AB|, using Q = 6e-8 C and U_AB = E * d = 6 V, yielding 5e-10 F (or 0.5 nF).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ground Definition",
+    "description": "Important: Recognizes that plate B being grounded sets its potential to 0 V, which is the reference for all other potentials.",
+    "weight": 3
+  },
+  {
+    "title": "Uniform Field Relation",
+    "description": "Important: Applies ΔV = -E * Δx correctly for points within the field, noting the negative sign indicates potential decreases in the direction of the field.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Distance Identification",
+    "description": "Important: Uses correct distances from points to the grounded plate (B) for potential calculations: 0.5 cm for D, 4.5 cm for C.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Error in Potential",
+    "description": "Pitfall: Omits the negative sign in ΔV = -EΔx or misinterprets the direction of the field, leading to positive potentials.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Conversion Error",
+    "description": "Pitfall: Fails to convert distances from cm to meters before multiplying by the electric field strength.",
+    "weight": -1
+  },
+  {
+    "title": "Voltage for Capacitance",
+    "description": "Pitfall: Uses the wrong potential difference (e.g., U_CD) in the capacitance formula C = Q/U instead of the full plate voltage U_AB.",
+    "weight": -2
+  }
+]

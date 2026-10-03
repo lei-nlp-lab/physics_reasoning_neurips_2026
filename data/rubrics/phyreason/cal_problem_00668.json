@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Current Calculation",
+    "description": "Essential: Correctly calculates current using I = Q/t to obtain 5 A.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage Calculation",
+    "description": "Essential: Correctly calculates voltage using U = I R to obtain 20 V.",
+    "weight": 5
+  },
+  {
+    "title": "Ohm's Law Application",
+    "description": "Important: Applies Ohm's law (U = IR) using the calculated current and given resistance.",
+    "weight": 3
+  },
+  {
+    "title": "Current Definition",
+    "description": "Important: Recognizes that current is defined as charge per unit time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Shows units throughout calculations or explicitly states final units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect Current Formula",
+    "description": "Pitfall: Uses I = t/Q or other incorrect formula for current calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Ohm's Law Misapplication",
+    "description": "Pitfall: Attempts to use Ohm's law without first calculating current, or uses incorrect variables.",
+    "weight": -1
+  }
+]

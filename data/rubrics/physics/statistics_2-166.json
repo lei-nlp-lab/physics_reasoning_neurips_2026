@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Differential of U",
+    "description": "Essential Criteria: The student must correctly express dU in terms of dT and dV using the given heat capacity.",
+    "weight": 5
+  },
+  {
+    "title": "State Variable Conditions",
+    "description": "Important Criteria: The student must derive the relationships among constants a through f based on the total differential condition.",
+    "weight": 4
+  },
+  {
+    "title": "Expression for U",
+    "description": "Essential Criteria: The student must provide the correct functional form of U(T,V) based on previous results.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure and Internal Energy Relation",
+    "description": "Important Criteria: The student must derive the relationship between pressure and internal energy for an ideal gas.",
+    "weight": 4
+  },
+  {
+    "title": "Restrictions on Constants",
+    "description": "Important Criteria: The student must identify the necessary conditions on constants a through f for the gas to be ideal.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as incorrect signs or missing factors in the equations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at S",
+    "description": "Essential: Correctly states the initial velocity magnitude as v = qBL/m.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Strength",
+    "description": "Essential: Correctly states the electric field magnitude as E = qB²L/m.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance Reasoning",
+    "description": "Important: Applies the condition for straight-line motion in crossed fields (qE = qvB) to relate E and v.",
+    "weight": 4
+  },
+  {
+    "title": "Post-Plate Velocity Vector",
+    "description": "Important: Correctly calculates the speed (√2 * qBL/m) and entry angle (45°) into the magnetic field after the plates.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Trajectory Geometry",
+    "description": "Important: Uses geometry of the circular path (radius √2 L) and the square boundary to find the exit point along side bc.",
+    "weight": 4
+  },
+  {
+    "title": "Exit Position and Direction",
+    "description": "Essential: Correctly states the exit point is on side bc, a distance √2 L from b, moving vertically downward.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/Direction Error",
+    "description": "Pitfall: Misidentifies the direction of the electric field or the final exit velocity for the negative charge.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics in Plates",
+    "description": "Optional: Shows correct use of kinematics (L = vt, y = L/2) to find the vertical velocity component.",
+    "weight": 2
+  }
+]

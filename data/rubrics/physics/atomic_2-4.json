@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for the relative error in potential, approximately 1 x 10^-9.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Distribution",
+    "description": "Important Criteria: The student correctly identifies the charge distribution of the nucleus as uniform and ellipsoidal.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Components",
+    "description": "Important Criteria: The student distinguishes between the point charge potential and the quadrupole potential in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Deformation Parameter",
+    "description": "Important Criteria: The student accurately calculates the deformation parameter epsilon based on the given axis ratio.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Quadrupole Moment",
+    "description": "Optional Criteria: The student correctly derives the expression for the electric quadrupole moment M.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to account for the factor of R^2 in the quadrupole moment calculation, leading to incorrect results.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student makes a sign mistake in the calculation of the relative error, affecting the final answer.",
+    "weight": -2
+  }
+]

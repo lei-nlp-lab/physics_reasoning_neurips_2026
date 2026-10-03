@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Mass Uncertainty Equation",
+    "description": "Essential Criteria: The student must correctly derive the mass uncertainty equation as Γ ∼ ℏ(γ1 + γ2).",
+    "weight": 5
+  },
+  {
+    "title": "Lifetime Calculation",
+    "description": "Important Criteria: The student should correctly calculate the mean lifetime τ = 1/(γ1 + γ2).",
+    "weight": 4
+  },
+  {
+    "title": "Isospin Conclusion",
+    "description": "Essential Criteria: The student must conclude that the isospin of particle X is 2.",
+    "weight": 5
+  },
+  {
+    "title": "Isospin Conservation",
+    "description": "Important Criteria: The student should mention that isospin is conserved in strong interactions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the decay rate calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that no factors are omitted in the uncertainty relation derivation.",
+    "weight": -1
+  }
+]

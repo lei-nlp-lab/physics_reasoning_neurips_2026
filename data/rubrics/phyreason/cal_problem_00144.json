@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity from selector",
+    "description": "Essential: States that the velocity after the velocity selector is v = E/B, derived from force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential: Correctly gives the charge-to-mass ratio as q/m = 2E/((R1+R2)B^2) from magnetic analyzer analysis.",
+    "weight": 5
+  },
+  {
+    "title": "Electric-only deflection",
+    "description": "Essential: For part (2), gives the correct implantation coordinates as (3L²/(R1+R2), 0).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic-only deflection",
+    "description": "Essential: For part (3), gives the correct implantation coordinates as (0, 3L²/(R1+R2)).",
+    "weight": 5
+  },
+  {
+    "title": "Combined fields deflection",
+    "description": "Essential: For part (4), gives the correct implantation coordinates as (3L²/(R1+R2), 3L²/(R1+R2)).",
+    "weight": 5
+  },
+  {
+    "title": "Small-angle approximations",
+    "description": "Important: Applies the given small-angle approximations (sin α ≈ α, etc.) correctly in deflection calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Deflection geometry",
+    "description": "Important: Correctly calculates the total deflection distance (e.g., 3L²/(R1+R2)) by summing displacement inside and after the field region.",
+    "weight": 4
+  },
+  {
+    "title": "Superposition principle",
+    "description": "Important: For part (4), justifies the final position by superposition of independent electric (x) and magnetic (y) deflections.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Assigns deflection to the wrong coordinate axis (e.g., swaps x and y for electric vs. magnetic cases).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect radius",
+    "description": "Pitfall: Uses R1 or R2 alone instead of the average radius (R1+R2)/2 for the magnetic analyzer.",
+    "weight": -2
+  }
+]

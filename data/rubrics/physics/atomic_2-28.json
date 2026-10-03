@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Proportionality Statement",
+    "description": "Essential Criteria: The response must state that the binding energy is proportional to A.",
+    "weight": 5
+  },
+  {
+    "title": "Coefficient Value",
+    "description": "Essential Criteria: The response must provide the numerical value of the coefficient as 15.6 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding A Dependence",
+    "description": "Important Criteria: The response should explain the saturation property of nuclear forces and why binding energy is proportional to A.",
+    "weight": 4
+  },
+  {
+    "title": "Nucleon-Nucleon Forces",
+    "description": "Important Criteria: The response must identify nucleon-nucleon forces as short-range forces.",
+    "weight": 3
+  },
+  {
+    "title": "Neutron Stability Explanation",
+    "description": "Important Criteria: The response should explain why a neutron in a nucleus is stable against decay compared to a lambda particle in a hypernucleus.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Energy Calculation",
+    "description": "Optional Criteria: The response may include the decay energy calculation for the neutron and its relevance to stability.",
+    "weight": 2
+  },
+  {
+    "title": "Units Mentioned",
+    "description": "Optional Criteria: The response should mention the units of the coefficient (MeV).",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response must avoid stating that binding energy is proportional to A^2.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The response should not contain errors in the signs of energy values or decay processes.",
+    "weight": -1
+  }
+]

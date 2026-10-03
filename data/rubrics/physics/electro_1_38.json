@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Capacitance Calculation",
+    "description": "Essential Criteria: The capacitance C must be correctly calculated as C = 4 pi epsilon_0 b.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Density Expression",
+    "description": "Essential Criteria: The energy density w_e(r) must be expressed correctly as w_e(r) = Q^2 / (32 pi^2 epsilon_0 r^4).",
+    "weight": 5
+  },
+  {
+    "title": "Total Energy Derivation",
+    "description": "Essential Criteria: The total energy W_e must be derived correctly as W_e = Q^2 / (8 pi epsilon_0 b).",
+    "weight": 5
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The work W must be calculated correctly as W = Q^2 / (8 pi epsilon_0 b).",
+    "weight": 4
+  },
+  {
+    "title": "Minimum Electric Field",
+    "description": "Important Criteria: The radius a for minimum electric field must be determined correctly as a = b / 2.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: Clear and correct integration steps should be shown for calculating total energy and work.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units should be consistent throughout the calculations, especially for energy and capacitance.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Pitfall Criteria: Ensure that final answers are clearly presented and match the required format.",
+    "weight": -1
+  }
+]

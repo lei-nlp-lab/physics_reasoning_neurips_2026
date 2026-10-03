@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state whether the postcard will be readable with an electron microscope.",
+    "weight": 5
+  },
+  {
+    "title": "Planar Magnification Calculation",
+    "description": "Important Criteria: The student should correctly calculate the planar magnification needed for readability.",
+    "weight": 4
+  },
+  {
+    "title": "Linear Magnification Explanation",
+    "description": "Important Criteria: The student must explain the relationship between planar and linear magnification.",
+    "weight": 3
+  },
+  {
+    "title": "Electron Microscope Capability",
+    "description": "Important Criteria: The response should include the maximum linear magnification of an electron microscope.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units used in calculations are consistent and appropriate.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors in calculating magnification values.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: The student may clarify any assumptions made regarding the size of the postcard or the content density.",
+    "weight": 1
+  }
+]

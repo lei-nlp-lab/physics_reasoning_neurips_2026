@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Partition Functions",
+    "description": "Essential Criteria: The student must correctly derive the partition functions for Fermi, Bose, and Boltzmann statistics.",
+    "weight": 5
+  },
+  {
+    "title": "Final Energies",
+    "description": "Essential Criteria: The student must correctly calculate the energies corresponding to each partition function.",
+    "weight": 5
+  },
+  {
+    "title": "Configurations Enumeration",
+    "description": "Important Criteria: The student should enumerate the configurations for each statistical case clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Boltzmann Condition Discussion",
+    "description": "Important Criteria: The student must accurately discuss the conditions under which Fermions and Bosons can be treated as Boltzmann particles.",
+    "weight": 4
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or missing factors in their calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

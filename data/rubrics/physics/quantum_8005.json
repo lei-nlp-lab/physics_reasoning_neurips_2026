@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hamiltonian Invariance",
+    "description": "Essential Criteria - The student must correctly state that [H, L_z] = 0 indicates H is invariant under rotation about the z-axis.",
+    "weight": 5
+  },
+  {
+    "title": "Optical Theorem Statement",
+    "description": "Essential Criteria - The student must accurately describe the optical theorem relating total cross section to the imaginary part of the forward scattering amplitude.",
+    "weight": 5
+  },
+  {
+    "title": "Born Approximation Explanation",
+    "description": "Important Criteria - The student should explain why the optical theorem does not hold in the first Born approximation due to the reality of f(theta).",
+    "weight": 4
+  },
+  {
+    "title": "Quadrupole Moment Reasoning",
+    "description": "Important Criteria - The student must provide a valid reasoning that particles with spin less than 1 cannot have an electric quadrupole moment.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Shift Sign",
+    "description": "Important Criteria - The student should justify that the phase shift is positive for scattering from a weak short-range attractive potential.",
+    "weight": 4
+  },
+  {
+    "title": "Missing Hamiltonian Details",
+    "description": "Pitfall Criteria - The student may incorrectly state that H can contain phi explicitly, which is a common misunderstanding.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect Optical Theorem",
+    "description": "Pitfall Criteria - The student might misstate the relationship in the optical theorem or omit the imaginary part of f(0).",
+    "weight": -2
+  },
+  {
+    "title": "Quadrupole Moment Misconception",
+    "description": "Pitfall Criteria - The student may incorrectly claim that the proton can have an electric quadrupole moment without proper justification.",
+    "weight": -2
+  }
+]

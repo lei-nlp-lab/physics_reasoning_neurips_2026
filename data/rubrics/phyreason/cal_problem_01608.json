@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Charge type correct",
+    "description": "Essential: Student identifies the ball's charge as positive, consistent with equilibrium in the given electric field direction.",
+    "weight": 5
+  },
+  {
+    "title": "Correct charge magnitude",
+    "description": "Essential: Final answer for charge magnitude is derived as q = (mg tan α)/E.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work expression",
+    "description": "Essential: Final answer for work done by electric field is derived as W = mgl tan α.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Solution correctly applies force balance (tension, gravity, electric force) to the ball at angle α.",
+    "weight": 4
+  },
+  {
+    "title": "Work from constant force",
+    "description": "Important: Recognizes electric force is constant and calculates work as force times displacement in the force's direction.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for displacement",
+    "description": "Important: Correctly identifies the horizontal displacement of the charge from release point to lowest point as l.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrect sign for work done (e.g., negative when it should be positive) based on direction of force and displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong force resolution",
+    "description": "Pitfall: Misapplies trigonometry (e.g., uses sin/cos incorrectly) when resolving forces for the equilibrium condition.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Explicitly shows unit analysis confirming final expressions for charge and work have correct dimensions.",
+    "weight": 1
+  }
+]

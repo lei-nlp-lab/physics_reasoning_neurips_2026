@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Transmission line power loss",
+    "description": "Essential: Correctly calculates the power loss on the transmission line using the line current and resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Generator coil resistance",
+    "description": "Essential: Correctly solves for the internal resistance of the generator coil using circuit analysis.",
+    "weight": 5
+  },
+  {
+    "title": "External work per cycle",
+    "description": "Essential: Correctly calculates the work done by the external force over one full rotation of the coil.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer power and current analysis",
+    "description": "Important: Correctly applies transformer ratios and power conservation to find currents and voltages in the transmission system.",
+    "weight": 4
+  },
+  {
+    "title": "Peak and RMS EMF",
+    "description": "Important: Correctly calculates the peak induced EMF and its RMS value for the AC generator.",
+    "weight": 4
+  },
+  {
+    "title": "User load power analysis",
+    "description": "Important: Correctly determines the current drawn by the operating motor from its power rating.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Optional: Explicitly states or uses energy conservation (input power = useful power + losses) in the setup.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or ratio inversion error",
+    "description": "Pitfall: Incorrectly applies transformer voltage or current ratios (e.g., inverts n1/n2 or n3/n4).",
+    "weight": -2
+  },
+  {
+    "title": "RMS vs. peak value confusion",
+    "description": "Pitfall: Uses peak EMF where RMS is required, or vice versa, in power or voltage calculations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct plate voltage",
+    "description": "Essential: The final answer for part (1) must be 8 V, derived from energy conservation between the plates.",
+    "weight": 5
+  },
+  {
+    "title": "Correct output power",
+    "description": "Essential: The final answer for part (2) must be 23 W, calculated from the circuit current and resistances.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Applies the work-energy theorem correctly, relating kinetic energy, gravitational potential, and electric potential energy for the charged ball.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: Correctly uses Ohm's law for the closed circuit to find the current, accounting for internal resistance and the voltage across the plates.",
+    "weight": 4
+  },
+  {
+    "title": "Rheostat resistance calculation",
+    "description": "Important: Calculates the resistance of the sliding rheostat using Ohm's law with the plate voltage and circuit current.",
+    "weight": 3
+  },
+  {
+    "title": "Power formula application",
+    "description": "Important: Correctly calculates the power supply's output power using P = I²R_total for the external circuit.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Incorrectly assigns the sign for the work done by the electric field (e.g., using +qU instead of -qU for a positive charge moving against the field).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities (e.g., distance from cm to m) correctly and maintains SI units throughout.",
+    "weight": 1
+  }
+]

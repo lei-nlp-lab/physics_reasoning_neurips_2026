@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Leftward travel distance",
+    "description": "Essential: Correct expression for possible distance traveled to the left in terms of wavelength and integer multiples.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum period derivation",
+    "description": "Important: Correctly relates the 0.2s time interval to the period using phase shift considerations for rightward propagation.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum period value",
+    "description": "Essential: Correct numerical value for the maximum period (0.8 s).",
+    "weight": 5
+  },
+  {
+    "title": "Speed-distance calculation",
+    "description": "Important: Correctly calculates the actual distance traveled in 0.2s using given wave speed (7 m).",
+    "weight": 3
+  },
+  {
+    "title": "Direction determination",
+    "description": "Essential: Correctly identifies propagation direction as left based on calculated distance and waveform comparison.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength identification",
+    "description": "Important: Correctly extracts wavelength from the provided figure for use in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Integer parameter handling",
+    "description": "Optional: Properly specifies that n (or k) represents non-negative integers in the expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect phase assumption",
+    "description": "Pitfall: Assumes the 0.2s corresponds to exactly T/4 without considering integer multiples of the period for rightward propagation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Confuses leftward and rightward propagation scenarios when applying phase relationships.",
+    "weight": -1
+  }
+]

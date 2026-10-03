@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WKB Conditions",
+    "description": "Essential Criteria: Clearly state the conditions for the validity of the WKB approximation.",
+    "weight": 5
+  },
+  {
+    "title": "Turning Point Explanation",
+    "description": "Important Criteria: Explain why the WKB approximation fails near classical turning points.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Theory",
+    "description": "Essential Criteria: Describe the role of perturbation theory in explaining the ground state energy change.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Correction",
+    "description": "Important Criteria: Provide the expression for the energy correction due to the external electric field.",
+    "weight": 3
+  },
+  {
+    "title": "Sign of Energy Change",
+    "description": "Essential Criteria: State that the energy correction for the ground state is negative.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for incorrect assumptions about the behavior of wave functions near turning points.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all terms in the equations have consistent units.",
+    "weight": 2
+  },
+  {
+    "title": "Clarification of Terms",
+    "description": "Optional Criteria: Define any key terms or symbols used in the derivation and explanation.",
+    "weight": 2
+  }
+]

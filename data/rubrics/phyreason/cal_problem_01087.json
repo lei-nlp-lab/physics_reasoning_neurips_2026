@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: The final answer for the deceleration magnitude must be 3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Distance B to C",
+    "description": "Essential: The final answer for the distance between points B and C must be 6 m.",
+    "weight": 5
+  },
+  {
+    "title": "Use of last-second motion",
+    "description": "Important: The solution must correctly apply kinematic equations to the motion in the 2nd second before stopping to relate distance (4.5 m) to acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity continuity at B",
+    "description": "Important: The solution must correctly equate the constant velocity from A to B with the initial velocity at the start of deceleration at point B.",
+    "weight": 4
+  },
+  {
+    "title": "System of equations setup",
+    "description": "Important: The solution must establish and solve the correct system relating total distance (60 m), total time (11 s), and the kinematic variables for both motion segments.",
+    "weight": 4
+  },
+  {
+    "title": "Time allocation",
+    "description": "Optional: The solution may explicitly define and solve for the time spent in uniform motion (t1) and in deceleration (t2).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct points if the student incorrectly uses a positive sign for acceleration during deceleration without clarifying it as a magnitude.",
+    "weight": -1
+  },
+  {
+    "title": "Misinterpreting '2nd second'",
+    "description": "Pitfall: Deduct points if the student misinterprets the '2nd second before stopping', leading to an incorrect kinematic equation setup.",
+    "weight": -2
+  }
+]

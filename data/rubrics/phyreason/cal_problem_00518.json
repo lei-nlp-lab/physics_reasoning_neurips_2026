@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total current calculation",
+    "description": "Essential: The student must correctly compute the total current in part (1) as 6.5 A (or 13/2 A).",
+    "weight": 5
+  },
+  {
+    "title": "Parallel voltage recognition",
+    "description": "Important: The student must recognize that the voltage across all three parallel resistors is the same.",
+    "weight": 4
+  },
+  {
+    "title": "Ohm's Law application",
+    "description": "Important: The student must correctly apply Ohm's Law (I = V/R or V = IR) to find currents or voltages for individual resistors.",
+    "weight": 4
+  },
+  {
+    "title": "Kirchhoff's Current Law",
+    "description": "Important: The student must apply the junction rule to sum the parallel branch currents to find the total current.",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent resistance for part (2)",
+    "description": "Important: For part (2), the student must calculate the correct equivalent parallel resistance (12/13 Ω) to find the common voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Individual currents for part (2)",
+    "description": "Essential: The student must provide the three correct branch currents for part (2) (18/13 A, 12/13 A, 9/13 A).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student maintains consistent use of amperes (A) and volts (V) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect parallel formula",
+    "description": "Pitfall: Penalize if the student incorrectly adds parallel resistances as R1 + R2 + R3.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall: Penalize for significant arithmetic mistakes in calculating currents, voltages, or the equivalent resistance.",
+    "weight": -1
+  }
+]

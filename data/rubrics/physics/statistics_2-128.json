@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Partition Function",
+    "description": "Essential Criteria: The student must correctly express the partition function z in terms of n_q and V.",
+    "weight": 5
+  },
+  {
+    "title": "Chemical Potential",
+    "description": "Essential Criteria: The student must derive the correct expression for the chemical potential mu.",
+    "weight": 5
+  },
+  {
+    "title": "Free Energy",
+    "description": "Essential Criteria: The student must provide the correct expression for the free energy F.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Expression",
+    "description": "Important Criteria: The student should derive the correct expression for the entropy S.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure Calculation",
+    "description": "Important Criteria: The student must derive the correct expression for the pressure p.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity",
+    "description": "Important Criteria: The student should provide the correct expression for the heat capacity at constant pressure C_p.",
+    "weight": 4
+  },
+  {
+    "title": "Physical Meaning of n_q",
+    "description": "Optional Criteria: The student should explain the physical significance of the quantum concentration n_q.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in their calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "First amplitude correct",
+    "description": "Essential: Student identifies the amplitude of the first oscillation as the initial compression distance x.",
+    "weight": 5
+  },
+  {
+    "title": "Second amplitude correct",
+    "description": "Essential: Student identifies the amplitude of the second oscillation as the initial compression distance 2x.",
+    "weight": 5
+  },
+  {
+    "title": "Ratio calculation",
+    "description": "Important: Student correctly calculates the ratio A1/A2 as x/(2x) = 1/2.",
+    "weight": 3
+  },
+  {
+    "title": "Amplitude definition",
+    "description": "Important: Student demonstrates understanding that amplitude is the maximum displacement from equilibrium, given by the initial displacement in this scenario.",
+    "weight": 4
+  },
+  {
+    "title": "Pitfall: Ratio inversion",
+    "description": "Pitfall: Student incorrectly inverts the ratio, giving A2/A1 = 2 as the final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Misinterpreting 'oscillation'",
+    "description": "Pitfall: Student confuses the order of oscillations or misinterprets 'for the first/second time' as referring to something other than the initial condition.",
+    "weight": -1
+  }
+]

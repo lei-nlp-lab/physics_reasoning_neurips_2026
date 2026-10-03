@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct orbital period",
+    "description": "Essential: The response must correctly state or use the geostationary satellite's orbital period of 86400 s (24 hours).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final time",
+    "description": "Essential: The final numerical answer for the minimum wait time must be approximately 0.48 s.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Newton's law",
+    "description": "Important: The solution must apply Newton's law of gravitation and set it equal to the centripetal force for the satellite.",
+    "weight": 4
+  },
+  {
+    "title": "Calculates orbital height",
+    "description": "Important: The solution must correctly solve for the satellite's height h above Earth's surface, obtaining approximately 3.59e7 m.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies signal path",
+    "description": "Important: The solution must recognize that the shortest communication path involves a round trip distance of 2h (or 2√(R+h)² - R²) for the electromagnetic signal.",
+    "weight": 3
+  },
+  {
+    "title": "Uses speed of light",
+    "description": "Important: The solution must correctly use the speed of light c to compute the signal travel time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All quantities are used with consistent SI units throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses orbital radius",
+    "description": "Pitfall: Using Earth's radius R instead of the orbital radius (R+h) in the force or distance equations.",
+    "weight": -2
+  },
+  {
+    "title": "One-way time error",
+    "description": "Pitfall: Calculating only the one-way travel time instead of the round-trip time for a response.",
+    "weight": -2
+  }
+]

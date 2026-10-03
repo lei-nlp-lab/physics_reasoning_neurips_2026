@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Earth's average density",
+    "description": "Essential: The final expression for ρ must be correct and derived from equating surface gravity to gravitational force.",
+    "weight": 5
+  },
+  {
+    "title": "Satellite altitude expression",
+    "description": "Essential: The final expression for h must be correct, derived from equating gravitational force to centripetal force.",
+    "weight": 5
+  },
+  {
+    "title": "Apply surface gravity relation",
+    "description": "Important: Must equate mg to GMm/R² to relate g, G, M, and R.",
+    "weight": 4
+  },
+  {
+    "title": "Apply satellite force balance",
+    "description": "Important: Must equate gravitational force GMm₁/(R+h)² to centripetal force m₁(2π/T)²(R+h).",
+    "weight": 4
+  },
+  {
+    "title": "Substitute mass correctly",
+    "description": "Important: Must correctly substitute M = ρ(4/3)πR³ into the density derivation and M = gR²/G into the altitude derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Shows clear, logical steps in solving for ρ and h without algebraic errors.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Mentions or checks that the final expressions have correct units for density and distance.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect centripetal force",
+    "description": "Pitfall: Uses an incorrect formula for centripetal force (e.g., wrong angular speed or radius).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or radius confusion",
+    "description": "Pitfall: Confuses R, R+h, or altitude h with orbital radius, leading to an incorrect final expression.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct normal force",
+    "description": "Essential: The student must state that the normal force on m2 is 40 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force",
+    "description": "Essential: The student must state that the frictional force on m2 is 10√3 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct pulley tension magnitude",
+    "description": "Essential: The student must state that the tension in string OA is 20√3 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct pulley tension direction",
+    "description": "Essential: The student must state the direction of the OA tension (e.g., 30° to the vertical, upper left).",
+    "weight": 5
+  },
+  {
+    "title": "Tension in connecting rope",
+    "description": "Important: The solution must correctly identify the rope tension as equal to m1*g (20 N).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on m2",
+    "description": "Important: The solution must apply vertical and horizontal equilibrium equations to block m2.",
+    "weight": 4
+  },
+  {
+    "title": "Vector addition for pulley",
+    "description": "Important: The solution must correctly combine the two rope tensions on the pulley to find the net force from OA.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Penalize if the student incorrectly adds the vertical tension component to the weight when calculating the normal force.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Penalize if the student uses the wrong angle (e.g., 60° instead of 30°) in trigonometric functions for force components.",
+    "weight": -2
+  },
+  {
+    "title": "Free-body diagram clarity",
+    "description": "Optional: Award credit if the solution includes clear free-body diagrams for m2 and/or the pulley.",
+    "weight": 1
+  }
+]

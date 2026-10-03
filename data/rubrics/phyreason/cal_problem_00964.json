@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: Correctly calculates the induced EMF in coil A using Faraday's law with the given number of turns, area, and rate of change of magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Steady-state current calculation",
+    "description": "Essential: Correctly computes the steady-state current through R2 using Ohm's law for the complete series circuit (EMF, r, R1, R2).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage across capacitor",
+    "description": "Important: Correctly determines the voltage across the capacitor (equal to the voltage across R2) using Ohm's law with the steady-state current.",
+    "weight": 3
+  },
+  {
+    "title": "Capacitor charge calculation",
+    "description": "Essential: Correctly calculates the charge stored on the capacitor using Q = C*U for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Circuit analysis after S1 disconnect",
+    "description": "Important: Recognizes that after S1 is disconnected, the capacitor discharges through the loop containing R2 and possibly other elements, and the charge passing through R2 equals the capacitor's initial stored charge.",
+    "weight": 4
+  },
+  {
+    "title": "Area selection for flux",
+    "description": "Pitfall: Uses the wrong area (e.g., coil area instead of region D area) when calculating the magnetic flux change.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in induced EMF direction (Lenz's law) for current direction, or a unit conversion error (e.g., microfarads).",
+    "weight": -1
+  },
+  {
+    "title": "Equivalent resistance mistake",
+    "description": "Pitfall: Incorrectly combines resistances (e.g., treating R1 and R2 as parallel) when calculating the total circuit resistance for the steady-state current.",
+    "weight": -2
+  }
+]

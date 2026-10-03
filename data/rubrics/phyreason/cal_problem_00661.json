@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity expression",
+    "description": "Essential: The response must correctly state or derive the expression for the initial velocity: v₀ = √(2eU₁/m).",
+    "weight": 5
+  },
+  {
+    "title": "Final voltage expression",
+    "description": "Essential: The response must correctly state or derive the expression for the plate voltage: U₂ = 2U₁d²/l².",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in deflecting field",
+    "description": "Important: The solution must apply kinematics correctly, relating horizontal motion (l = v₀t) and vertical motion (d/2 = ½at²).",
+    "weight": 4
+  },
+  {
+    "title": "Force and acceleration relation",
+    "description": "Important: The solution must correctly relate the electric force in the plates (eE) to the vertical acceleration (a = eU₂/(md)).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must correctly apply the work-energy theorem (eU₁ = ½mv₀²) for the initial acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear algebraic steps to combine equations and solve for U₂.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct points if the solution uses incorrect signs for charge or acceleration direction, or misplaces the factor of 1/2 in the vertical displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes a check or statement that the final expressions have correct units.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Independence of phi",
+    "description": "Essential Criteria - The argument for f being independent of phi must be clearly stated and justified.",
+    "weight": 5
+  },
+  {
+    "title": "Independence of theta",
+    "description": "Important Criteria - The reasoning for why f cannot be concluded to be independent of theta should be explained.",
+    "weight": 4
+  },
+  {
+    "title": "Energy limit case",
+    "description": "Important Criteria - The explanation of the behavior of f as energy approaches zero must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Scattering cross section",
+    "description": "Essential Criteria - The formula for the scattering cross section in terms of f must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Born approximation formula",
+    "description": "Essential Criteria - The formula for the first Born approximation for f must be provided with definitions of all quantities.",
+    "weight": 5
+  },
+  {
+    "title": "Validity conditions",
+    "description": "Essential Criteria - The conditions under which the Born approximation is valid must be clearly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Missing factors",
+    "description": "Pitfall Criteria - Common errors related to missing factors or constants in the formulas should be noted.",
+    "weight": -2
+  },
+  {
+    "title": "Sign mistakes",
+    "description": "Pitfall Criteria - Students should be cautious of sign mistakes in their calculations or final answers.",
+    "weight": -2
+  }
+]

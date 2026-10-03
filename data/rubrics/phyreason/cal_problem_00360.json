@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electromotive force correct",
+    "description": "Essential: The student must state the electromotive force as 5 V.",
+    "weight": 5
+  },
+  {
+    "title": "Internal resistance correct",
+    "description": "Essential: The student must state the internal resistance as 5 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum charge correct",
+    "description": "Essential: The student must calculate the maximum charge on the capacitor as 7.5 × 10⁻⁶ C.",
+    "weight": 5
+  },
+  {
+    "title": "Apply closed-circuit Ohm's law",
+    "description": "Important: The student must set up the equations E = U + Ir for both endpoints A and B using data from the graph.",
+    "weight": 4
+  },
+  {
+    "title": "Interpret graph data",
+    "description": "Important: The student must correctly extract the terminal voltage and current values for points A and B from the provided figure.",
+    "weight": 4
+  },
+  {
+    "title": "Analyze parallel circuit segment",
+    "description": "Important: The student must correctly determine the voltage across the capacitor by analyzing the resistance in the branch parallel to R1.",
+    "weight": 3
+  },
+  {
+    "title": "Use Q = CV",
+    "description": "Optional: The student correctly applies the capacitance formula Q = C * U to find the maximum charge.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: The student makes a sign error in the Ohm's law equations or reports a final answer with incorrect units (e.g., V for Ω).",
+    "weight": -2
+  },
+  {
+    "title": "Misidentify graph points",
+    "description": "Pitfall: The student misreads the coordinates for points A or B on the U-I graph, leading to incorrect voltages or currents.",
+    "weight": -1
+  }
+]

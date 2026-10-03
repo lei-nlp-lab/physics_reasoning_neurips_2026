@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum elastic potential energy",
+    "description": "Essential: Correctly calculates the maximum elastic potential energy as 0.6*m*v0^2 using conservation of energy and momentum.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum spring compression",
+    "description": "Essential: Correctly calculates the maximum compression of the spring as 0.768*v0*t0 using relative displacement analysis.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient",
+    "description": "Essential: Correctly determines the kinetic friction coefficient as 0.45 using work-energy theorem on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum application",
+    "description": "Important: Applies momentum conservation to find the common velocity at maximum compression or the post-collision velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy on incline",
+    "description": "Important: Sets up correct work-energy equations for the block's ascent and descent on the rough incline.",
+    "weight": 4
+  },
+  {
+    "title": "Mass ratio determination",
+    "description": "Important: Correctly deduces the mass ratio (m_B = 5m) from the v-t graph and given displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Relative displacement analysis",
+    "description": "Optional: Correctly analyzes the displacements of A and B from t=0 to t0 to find the compression.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in velocities",
+    "description": "Pitfall: Uses incorrect sign for velocities on the v-t graph or in momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Energy conservation mistake",
+    "description": "Pitfall: Incorrectly applies energy conservation by omitting the spring's potential energy or kinetic energy terms.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or symbolic error",
+    "description": "Pitfall: Presents final answers with incorrect units or inconsistent symbolic expressions.",
+    "weight": -1
+  }
+]

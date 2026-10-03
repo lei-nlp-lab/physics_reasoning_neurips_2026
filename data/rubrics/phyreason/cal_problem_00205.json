@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final distance",
+    "description": "Essential Criteria: The response must give the exact distance from M to A as MA = (3 - √3)l/3 or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Snell's Law application",
+    "description": "Important Criteria: The student must correctly apply Snell's law at the entry point M to find the refraction angle (30° from the normal, given n=√2 and incidence=45°).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of internal path",
+    "description": "Important Criteria: The response must correctly trace the beam's path using geometry, establishing angles like ∠BMO = 60° and the incidence angle on BC as 15°.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection law on BC",
+    "description": "Important Criteria: The student must apply the law of reflection at the coated base BC, showing the reflected ray makes an equal angle (15°) and heads toward A.",
+    "weight": 3
+  },
+  {
+    "title": "Triangle similarity or trig",
+    "description": "Important Criteria: The solution must use triangle similarity (e.g., ΔBMO ~ ΔBAO) or trigonometry to relate segment BM to the known side length l.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The final answer should be expressed with the correct unit (l) and maintain dimensional consistency throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or angle confusion",
+    "description": "Pitfall Criteria: Penalize confusing the angle of incidence/refraction, or misidentifying geometric angles (e.g., assuming 45° refraction).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect path to A",
+    "description": "Pitfall Criteria: Penalize solutions that fail to ensure the reflected beam precisely targets vertex A, violating the given condition.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Final distance B-Q",
+    "description": "Essential: Correctly states the horizontal distance from Q to B's landing point as 2R.",
+    "weight": 5
+  },
+  {
+    "title": "Power expression at D",
+    "description": "Essential: Correctly gives the instantaneous power as mg sinθ √(2gR cosθ).",
+    "weight": 5
+  },
+  {
+    "title": "Total collision energy loss",
+    "description": "Essential: Correctly states the lost kinetic energy as √10 mgR.",
+    "weight": 5
+  },
+  {
+    "title": "B's velocity at top",
+    "description": "Important: Applies Newton's second law at the top of the arc to find v = √(gR).",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: Applies momentum conservation to the collision to relate initial and final velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for velocities",
+    "description": "Important: Uses energy conservation to find post-collision velocities of A and B from their subsequent motion.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile flight time",
+    "description": "Important: Correctly calculates the time for B to fall from the track's top to the ground.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at D via energy",
+    "description": "Optional: Uses energy conservation to find block A's speed at angle θ on the descent.",
+    "weight": 2
+  },
+  {
+    "title": "Power from force components",
+    "description": "Optional: Correctly identifies that only gravity does work and calculates P = F·v with the velocity component.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or component error",
+    "description": "Pitfall: Uses incorrect trigonometric component (e.g., cosθ instead of sinθ) in the power calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Energy or momentum mix-up",
+    "description": "Pitfall: Confuses elastic/inelastic collision assumptions or misapplies energy/momentum formulas.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration calculation",
+    "description": "Essential: The response must compute the acceleration during pulling as a = (F - μmg)/m, yielding 1 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement under force",
+    "description": "Essential: The response must compute the displacement in the first 5 seconds using x₁ = ½at², yielding 12.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final velocity at 5s",
+    "description": "Important: The response must determine the velocity at t=5s as v = at, yielding 5 m/s, before analyzing post-force motion.",
+    "weight": 4
+  },
+  {
+    "title": "Correct deceleration after force removal",
+    "description": "Important: The response must compute the deceleration due to friction alone as a₂ = μg, yielding 2 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Correct additional displacement",
+    "description": "Essential: The response must compute the additional displacement after force removal using x₂ = v²/(2a₂), yielding 6.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The response must apply Newton's second law separately for the pulling and coasting phases.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response should maintain consistent units (m, s, m/s²) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Penalize if friction force is added to pulling force instead of subtracted when computing initial acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring friction after force removal",
+    "description": "Pitfall: Penalize if the object is assumed to continue at constant velocity after force removal, neglecting deceleration.",
+    "weight": -2
+  }
+]

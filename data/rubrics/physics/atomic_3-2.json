@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify that the reason for ignoring the electrostatic force is due to the bodies being electrically neutral.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Neutrality",
+    "description": "Important Criteria: The student should explain that both the Earth and the Moon are electrically neutral, which eliminates electrostatic forces.",
+    "weight": 4
+  },
+  {
+    "title": "Clarification of Forces",
+    "description": "Important Criteria: The student should differentiate between gravitational and electrostatic forces in their reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Misinterpretation of Effects",
+    "description": "Pitfall Criteria: The student should avoid incorrectly attributing the lack of electrostatic force to tidal effects or other unrelated phenomena.",
+    "weight": -2
+  },
+  {
+    "title": "Alternative Explanations",
+    "description": "Optional Criteria: The student may mention that the electrostatic force is negligible compared to gravitational force as an additional point.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the acceleration during taxiing as 2 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Taxiing time",
+    "description": "Essential Criteria: The response must correctly calculate the taxiing time as 40 s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy increase magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the increase in mechanical energy of the water as 2.8 × 10⁷ J.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics reasoning",
+    "description": "Important Criteria: The solution must correctly apply kinematic equations for uniformly accelerated motion from rest.",
+    "weight": 3
+  },
+  {
+    "title": "Mechanical energy definition",
+    "description": "Important Criteria: The solution must define the change in mechanical energy as the sum of kinetic and potential energy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Correct energy reference points",
+    "description": "Important Criteria: The calculation must use the correct initial (v₁, h=0) and final (v₂, h=100 m) states for the water's energy.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All intermediate steps and final answers should include correct SI units.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall Criteria: Penalize if the student subtracts the final kinetic or potential energy instead of adding them.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect kinematic formula",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect kinematic relation (e.g., v₁ = at without averaging for distance).",
+    "weight": -1
+  }
+]

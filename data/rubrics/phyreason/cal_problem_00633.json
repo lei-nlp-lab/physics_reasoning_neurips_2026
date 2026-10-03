@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Uniform acceleration magnitude",
+    "description": "Essential: The answer must state the acceleration during the initial uniformly accelerated motion as 3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: The answer must correctly calculate the final maximum speed of the car as 13.5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Total displacement",
+    "description": "Essential: The answer must state the total displacement from rest to maximum speed as 67.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance during acceleration",
+    "description": "Important: The solution must apply Newton's second law to find the net force during the initial acceleration phase.",
+    "weight": 4
+  },
+  {
+    "title": "Power-velocity relationship",
+    "description": "Important: The solution must correctly use the relationship P = Fv at maximum speed to find the constant driving force.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic phase analysis",
+    "description": "Important: The solution must correctly separate and analyze the two phases: uniform acceleration and constant power acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Resistance force calculation",
+    "description": "Optional: The solution may explicitly calculate the total constant resistance force (0.1mg) and the component of weight down the slope.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in slope forces",
+    "description": "Pitfall: Incorrect sign for the gravitational force component along the slope when setting up the force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Failing to convert mass from tons to kg or power from kW to W, leading to incorrect numerical results.",
+    "weight": -1
+  }
+]

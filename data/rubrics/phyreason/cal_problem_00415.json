@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Constant velocity magnitude",
+    "description": "Essential Criteria: The student must correctly calculate the velocity after the acceleration phase as 0.4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration acceleration value",
+    "description": "Essential Criteria: The student must correctly calculate the deceleration acceleration as -0.2 m/s² (or 0.2 m/s² downward).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration phase calculation",
+    "description": "Important Criteria: The student should apply v = a*t to find the velocity after the initial 4-second acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration kinematics",
+    "description": "Important Criteria: The student should correctly use a = (v_f - v_i)/Δt with v_f = 0 and v_i = constant velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Sign interpretation",
+    "description": "Important Criteria: The student should interpret the negative sign in the deceleration answer as indicating downward acceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units (m/s and m/s²) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect time usage",
+    "description": "Pitfall Criteria: Using the total 48-second anthem duration instead of the specific 4-second and 2-second intervals for calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall Criteria: Calculating the deceleration magnitude as positive 0.2 m/s² without indicating direction or sign.",
+    "weight": -1
+  }
+]

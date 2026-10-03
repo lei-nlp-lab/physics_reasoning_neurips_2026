@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Radius",
+    "description": "Essential Criteria: The student must provide the correct radius of the ground state for positronium as a0' = 2 a0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Binding Energy",
+    "description": "Essential Criteria: The student must provide the correct binding energy of the ground state for positronium as E1' ≈ 6.8 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Level Diagram",
+    "description": "Important Criteria: The student should include a clear and accurate energy level diagram illustrating the dependence on the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Spin-Spin Interaction",
+    "description": "Important Criteria: The student must explain the effect of spin-spin interaction on the energy levels of positronium.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Hamiltonian",
+    "description": "Optional Criteria: The student may describe the perturbation Hamiltonian used in the analysis of positronium in a magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of the reduced mass or sign mistakes in energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations and explanations.",
+    "weight": -1
+  }
+]

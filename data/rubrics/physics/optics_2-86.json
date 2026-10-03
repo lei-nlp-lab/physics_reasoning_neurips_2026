@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Phenomenon Name",
+    "description": "Essential Criteria: The student must correctly identify the phenomenon as optical activity.",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Rotation",
+    "description": "Important Criteria: The student should provide a clear explanation of how the rotation of the plane of polarization occurs due to the differing indices of refraction.",
+    "weight": 4
+  },
+  {
+    "title": "Derivation of Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for the angle of rotation phi.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student should correctly write the final formula for phi, including the factors of 1/2 and the difference between n_R and n_L.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units in the derived expression are consistent and correct.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the final expression.",
+    "weight": -2
+  }
+]

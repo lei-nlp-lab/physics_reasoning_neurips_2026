@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly identify the final answer as (c).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concepts",
+    "description": "Important Criteria: The student should explain the concept of image charges and their effect on the charge's behavior.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning Steps",
+    "description": "Important Criteria: The student must provide reasoning for why options (a) and (b) are incorrect.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Optional Criteria: The student should present their answer in a clear and logical manner.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid the misconception that the charge is repelled by the plane.",
+    "weight": -1
+  }
+]

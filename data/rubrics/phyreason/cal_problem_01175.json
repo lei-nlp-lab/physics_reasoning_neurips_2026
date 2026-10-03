@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Left board friction",
+    "description": "Essential: Correctly calculates the static friction force from the left board as 15 N.",
+    "weight": 5
+  },
+  {
+    "title": "Inter-book friction coefficient",
+    "description": "Essential: Correctly calculates the minimum coefficient of kinetic friction between books as 0.25.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical extraction force",
+    "description": "Essential: Correctly calculates the minimum vertical force to extract the second book as 25 N.",
+    "weight": 5
+  },
+  {
+    "title": "System force balance",
+    "description": "Important: Applies vertical force equilibrium to the entire book stack, recognizing total friction from both boards equals total weight.",
+    "weight": 3
+  },
+  {
+    "title": "Individual book equilibrium",
+    "description": "Important: Analyzes forces on the leftmost book (or second book) to relate inter-book friction to board friction and weight.",
+    "weight": 3
+  },
+  {
+    "title": "Friction force definition",
+    "description": "Important: Correctly applies f = μN, using the normal force from the clamping pressure to find the inter-book coefficient.",
+    "weight": 3
+  },
+  {
+    "title": "Force composition for extraction",
+    "description": "Optional: Correctly sums the forces (friction from adjacent books and weight) needed to overcome when pulling the second book vertically.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of friction forces on individual books or confuses which forces are balanced.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force confusion",
+    "description": "Pitfall: Uses incorrect normal force (e.g., book weight instead of clamping pressure) when calculating inter-book friction coefficient.",
+    "weight": -2
+  }
+]

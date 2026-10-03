@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the force as F = Q^2/(32πε₀R²).",
+    "weight": 5
+  },
+  {
+    "title": "Surface Charge Density",
+    "description": "Important Criteria: The student should correctly derive the surface charge density as σ = Q/(4πR²).",
+    "weight": 4
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Important Criteria: The student must show the correct integration process to calculate the force from the surface charge density.",
+    "weight": 4
+  },
+  {
+    "title": "Coordinate System",
+    "description": "Optional Criteria: The student should mention the coordinate system used for the integration, clarifying the geometry of the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: The student should verify that the final answer has the correct units of force (Newtons).",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the force calculation.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the work done during the expansion from A to B as W = 1.0 x 10^5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Essential Criteria: The student must accurately determine the change in internal energy as Delta U = 1.5 x 10^5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Absorption",
+    "description": "Essential Criteria: The student must compute the heat absorbed during the process as Q = 2.5 x 10^5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic Pressure",
+    "description": "Important Criteria: The student should derive the final pressure after the adiabatic process as p_C = 1.24 x 10^5 N/m^2.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Change",
+    "description": "Important Criteria: The student must show that the entropy change during the adiabatic process is Delta S = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in calculations, particularly in work and heat transfer.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the equations for work, internal energy, or heat.",
+    "weight": -2
+  }
+]

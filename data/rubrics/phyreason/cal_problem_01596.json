@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric furnace resistance",
+    "description": "Essential: Correctly calculates the resistance of the electric furnace using R = E/I₁ - r.",
+    "weight": 5
+  },
+  {
+    "title": "Furnace power (S1 only)",
+    "description": "Essential: Correctly calculates the heating power for the first case using P = I₁²R.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit voltage (both closed)",
+    "description": "Important: Correctly finds the terminal voltage when both switches are closed using U = E - I₂r.",
+    "weight": 4
+  },
+  {
+    "title": "Furnace current (both closed)",
+    "description": "Important: Correctly calculates the current through the furnace in the parallel setup using I_N = U / R.",
+    "weight": 4
+  },
+  {
+    "title": "Furnace power (both closed)",
+    "description": "Essential: Correctly calculates the heating power for the second case using P = U * I_N or I_N²R.",
+    "weight": 5
+  },
+  {
+    "title": "Electrolytic cell current",
+    "description": "Important: Correctly finds the current through the electrolytic cell using I = I₂ - I_N.",
+    "weight": 3
+  },
+  {
+    "title": "Chemical power conversion",
+    "description": "Important: Correctly calculates the power converted to chemical energy using P_chem = U*I - I²r_A.",
+    "weight": 4
+  },
+  {
+    "title": "Misapplied power formula",
+    "description": "Pitfall: Penalize if student uses P = I²R for the furnace in part (2) without using the correct parallel-circuit current.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize sign errors in voltage calculation or omission/incorrect use of units in final answers.",
+    "weight": -1
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Optional: Explicitly states that the difference between total electrical power and Joule heating in the cell is chemical power.",
+    "weight": 1
+  }
+]

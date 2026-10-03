@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct Moon mass",
+    "description": "Essential: Final answer for part (1) is derived and matches M = 32π²R³/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Moon density",
+    "description": "Essential: Final answer for part (2) is derived and matches ρ = 24π/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Orbital radius identification",
+    "description": "Important: Recognizes that orbital radius is 2R (altitude R plus lunar radius R).",
+    "weight": 4
+  },
+  {
+    "title": "Gravity-centripetal equation",
+    "description": "Important: Sets gravitational force equal to centripetal force: GMm/(2R)² = m(2π/T)²(2R).",
+    "weight": 4
+  },
+  {
+    "title": "Density formula application",
+    "description": "Important: Correctly uses ρ = M/V with spherical volume V = (4/3)πR³.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Shows clear algebraic steps to solve for M and simplify ρ expression.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout or notes final units (kg, kg/m³).",
+    "weight": 1
+  },
+  {
+    "title": "Orbital radius error",
+    "description": "Pitfall: Uses R instead of 2R for orbital radius in gravitational or centripetal equation.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal acceleration mistake",
+    "description": "Pitfall: Uses incorrect centripetal formula (e.g., v²/R instead of ω²r or wrong ω expression).",
+    "weight": -2
+  },
+  {
+    "title": "Volume or algebra error",
+    "description": "Pitfall: Makes error in spherical volume formula or in simplifying M/V expression.",
+    "weight": -1
+  }
+]

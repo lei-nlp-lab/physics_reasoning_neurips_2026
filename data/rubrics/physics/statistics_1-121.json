@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Critical Point Definition",
+    "description": "Essential Criteria: Provide a correct definition of the critical point in phase transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Triple Point Definition",
+    "description": "Essential Criteria: Provide a correct definition of the triple point in phase transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Boiling Temperature Calculation",
+    "description": "Important Criteria: Correctly calculate the boiling temperature of helium at 1 mm of mercury.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Equations",
+    "description": "Important Criteria: Include the correct equations that define the critical point.",
+    "weight": 4
+  },
+  {
+    "title": "Final Temperature Value",
+    "description": "Essential Criteria: State the final boiling temperature of helium as 2.4 K.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the equations related to phase transformations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Clarification of Terms",
+    "description": "Optional Criteria: Provide clarification or context for terms used in the definitions of critical and triple points.",
+    "weight": 2
+  }
+]

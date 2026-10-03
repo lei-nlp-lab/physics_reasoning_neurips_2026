@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct transmission current",
+    "description": "Essential: Student correctly calculates transmission line current using P = UI for both voltage scenarios.",
+    "weight": 5
+  },
+  {
+    "title": "Power loss calculation",
+    "description": "Essential: Student correctly computes power loss in part (1) using P_loss = I²R, obtaining approximately 16.6 kW.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage drop recognition",
+    "description": "Important: Student accounts for voltage drop along transmission line before transformer step-down in part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Transformer ratio application",
+    "description": "Important: Student correctly applies transformer turns ratio to calculate final user voltage in part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Final user voltage",
+    "description": "Essential: Student obtains correct final user voltage of approximately 226.2 V in part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (kW, V, Ω) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Confusing power types",
+    "description": "Pitfall: Student confuses transmitted power with power loss or uses incorrect current value in loss formula.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring voltage drop",
+    "description": "Pitfall: Student applies transformer ratio directly to 5000V without subtracting transmission line voltage drop.",
+    "weight": -2
+  }
+]

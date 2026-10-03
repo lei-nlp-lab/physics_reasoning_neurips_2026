@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reflection Coefficient",
+    "description": "Essential Criteria: The student must correctly derive and state the reflection coefficient R = ((n-1)/(n+1))^2.",
+    "weight": 5
+  },
+  {
+    "title": "Radiation Pressure",
+    "description": "Essential Criteria: The student must correctly derive and state the radiation pressure P = 2I/c * ((1-n)/(1+n)).",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should correctly apply boundary conditions for electric and magnetic fields at the interface.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Density",
+    "description": "Important Criteria: The student should correctly explain the concept of momentum density in relation to radiation pressure.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the derivation of the reflection coefficient.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student may provide a physical interpretation of the results in terms of energy transfer.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student may explore alternative methods for calculating the reflection coefficient or radiation pressure.",
+    "weight": 2
+  }
+]

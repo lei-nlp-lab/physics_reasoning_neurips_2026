@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final State After A",
+    "description": "Essential Criteria: The state of the system after measuring observable A must be correctly identified as psi_1.",
+    "weight": 5
+  },
+  {
+    "title": "Probabilities for B",
+    "description": "Important Criteria: The possible outcomes for observable B and their respective probabilities must be correctly calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Calculation for A",
+    "description": "Essential Criteria: The probability of measuring a_1 after measuring B must be accurately computed.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenstate Relationships",
+    "description": "Important Criteria: The relationships between the eigenstates of A and B should be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: A check to ensure that the eigenstates are normalized could be included.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: Errors in calculating probabilities or misidentifying eigenstates will lead to a deduction.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: Correctly calculates the wavelength as 4 m using the wave speed and period.",
+    "weight": 5
+  },
+  {
+    "title": "Total distance traveled",
+    "description": "Essential: Correctly calculates the total distance traveled by particle P as 28 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Wave period determination",
+    "description": "Important: Identifies the period from the angular frequency in the vibration equations.",
+    "weight": 3
+  },
+  {
+    "title": "Wave speed calculation",
+    "description": "Important: Correctly calculates wave speed using the time for the first wave to reach P.",
+    "weight": 4
+  },
+  {
+    "title": "Amplitude during interference",
+    "description": "Important: Determines the amplitude at P during superposition as the absolute difference of source amplitudes.",
+    "weight": 4
+  },
+  {
+    "title": "Distance from SHM",
+    "description": "Important: Correctly calculates distances traveled during simple harmonic motion intervals using amplitude and number of oscillations.",
+    "weight": 3
+  },
+  {
+    "title": "Timeline of events",
+    "description": "Important: Correctly identifies the times when each wave reaches P and the start of interference.",
+    "weight": 3
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to maintain consistent units (m, cm, s) throughout the calculation, leading to incorrect numerical answers.",
+    "weight": -2
+  },
+  {
+    "title": "Superposition error",
+    "description": "Pitfall: Incorrectly assumes amplitudes add during interference, rather than finding the correct amplitude for the standing wave.",
+    "weight": -1
+  }
+]

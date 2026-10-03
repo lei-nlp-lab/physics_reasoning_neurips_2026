@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration on AB",
+    "description": "Essential: Correctly calculates the magnitude of acceleration on section AB using kinematic equations, yielding approximately 2.67 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly determines the final velocity at point C, which must be 12 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration on BC",
+    "description": "Important: Correctly calculates the uniform acceleration on the inclined section BC, which must be 2 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Resistive Force Magnitude",
+    "description": "Essential: Correctly applies Newton's second law on the incline to find the magnitude of the resistive force, which must be 66 N.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic Setup for AB",
+    "description": "Important: Applies correct kinematic relation (e.g., v² = u² + 2as) to find acceleration or time on the horizontal section AB.",
+    "weight": 3
+  },
+  {
+    "title": "Time Allocation",
+    "description": "Important: Correctly determines or uses the time spent on section AB (3 s) to find quantities for section BC.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's Law Application",
+    "description": "Important: Sets up Newton's second law on the incline with the correct component of gravity (mg sinθ).",
+    "weight": 4
+  },
+  {
+    "title": "Sign Error in Forces",
+    "description": "Pitfall: Incorrectly assigns the direction of the resistive force or net force when applying Newton's second law on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (m, s, kg, N) throughout the solution and includes them in final answers.",
+    "weight": 1
+  }
+]

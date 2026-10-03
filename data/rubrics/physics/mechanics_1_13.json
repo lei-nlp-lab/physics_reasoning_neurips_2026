@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Velocity Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the impact velocity V_0 using the equation V_0 = sqrt(2gh).",
+    "weight": 5
+  },
+  {
+    "title": "Time Calculation",
+    "description": "Essential Criteria: The student must accurately determine the time of descent t using the formula t = V_0/g.",
+    "weight": 5
+  },
+  {
+    "title": "Equation of Motion Setup",
+    "description": "Important Criteria: The student should correctly set up the equation of motion for the diver under water, including the balance of forces.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Function Derivation",
+    "description": "Important Criteria: The student must derive the velocity function V as a function of depth x and apply the boundary condition V = V_0 at x = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Depth Calculation",
+    "description": "Essential Criteria: The student must find the depth x where V = V_0/10 using the derived equations.",
+    "weight": 5
+  },
+  {
+    "title": "Depth as Function of Time",
+    "description": "Important Criteria: The student should derive the expression for depth x(t) in terms of time under water.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations of motion or when integrating.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final numerical answer",
+    "description": "Essential Criteria: The response must state that the total charge passing through R4 is CE.",
+    "weight": 5
+  },
+  {
+    "title": "Initial capacitor charge",
+    "description": "Important Criteria: The response must correctly calculate the initial charge on the capacitor when the switch is open, Q1 = C * (R2/(R1+R2)) * E.",
+    "weight": 4
+  },
+  {
+    "title": "Final capacitor charge",
+    "description": "Important Criteria: The response must correctly calculate the final steady-state charge on the capacitor after the switch is closed, Q2 = C * (R1/(R1+R2)) * E.",
+    "weight": 4
+  },
+  {
+    "title": "Charge conservation reasoning",
+    "description": "Important Criteria: The response must apply charge conservation, stating that the charge passing through R4 equals the sum of the magnitudes of the initial and final capacitor charges.",
+    "weight": 3
+  },
+  {
+    "title": "Steady-state analysis",
+    "description": "Optional Criteria: The response may explain that in steady state, the capacitor acts as an open circuit, allowing correct voltage division to be found.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Deduct points if the response incorrectly subtracts the charges instead of adding their magnitudes, or confuses the direction of current/charge flow.",
+    "weight": -2
+  },
+  {
+    "title": "Voltage division mistake",
+    "description": "Pitfall Criteria: Deduct points if the response incorrectly calculates the voltage across the capacitor in either the initial or final state, such as by misidentifying series/parallel combinations.",
+    "weight": -1
+  }
+]

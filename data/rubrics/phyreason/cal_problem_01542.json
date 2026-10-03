@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time of flight",
+    "description": "Essential: The response must correctly calculate the time to fall using t = sqrt(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum horizontal distance",
+    "description": "Essential: The response must identify the minimum horizontal distance to land in the pot as L.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum horizontal distance",
+    "description": "Essential: The response must identify the maximum horizontal distance to land in the pot as 3L.",
+    "weight": 5
+  },
+  {
+    "title": "Speed from horizontal motion",
+    "description": "Important: The response must correctly relate initial speed to horizontal distance via v0 = x / t.",
+    "weight": 4
+  },
+  {
+    "title": "Final inequality form",
+    "description": "Important: The final answer must be presented as a range inequality (e.g., v0_min < v0 < v0_max).",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Optional: The response shows the simplified expressions v0_min = L*sqrt(g/(2h)) and v0_max = 3L*sqrt(g/(2h)).",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect geometric range",
+    "description": "Pitfall: Penalize if the maximum horizontal distance is incorrectly taken as L or 2L instead of 3L.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the answer includes incorrect units or sign errors in the kinematic equations.",
+    "weight": -1
+  }
+]

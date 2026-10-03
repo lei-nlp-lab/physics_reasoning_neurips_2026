@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity of Q after collision",
+    "description": "Essential: The student must correctly calculate the velocity of block Q immediately after the elastic collision, obtaining 1.68 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Distance Q travels",
+    "description": "Essential: The student must correctly calculate the distance block Q slides before stopping, obtaining 0.504 m.",
+    "weight": 5
+  },
+  {
+    "title": "Apply momentum conservation",
+    "description": "Important: The student must set up and apply the conservation of linear momentum for the elastic collision between ball P and block Q.",
+    "weight": 4
+  },
+  {
+    "title": "Use velocity ratio",
+    "description": "Important: The student must correctly use the given 5:1 ratio to find the velocity of ball P after the collision.",
+    "weight": 3
+  },
+  {
+    "title": "Calculate Q's deceleration",
+    "description": "Important: The student must correctly calculate the deceleration of block Q using Newton's second law and the kinetic friction force.",
+    "weight": 3
+  },
+  {
+    "title": "Use kinematics for distance",
+    "description": "Important: The student must correctly apply a kinematics equation (e.g., v² = u² + 2as) to find the sliding distance of block Q.",
+    "weight": 3
+  },
+  {
+    "title": "Interpret centripetal acceleration",
+    "description": "Optional: The student may verify or use the given centripetal acceleration to find the speed of ball P before collision.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: The student incorrectly assigns signs to the velocities in the momentum conservation equation.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force mistake",
+    "description": "Pitfall: The student uses the wrong formula for kinetic friction (e.g., omits gravity or normal force).",
+    "weight": -2
+  }
+]

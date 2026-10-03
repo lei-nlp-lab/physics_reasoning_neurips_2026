@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly identify the final answer as (c).",
+    "weight": 5
+  },
+  {
+    "title": "Justification",
+    "description": "Important Criteria: The student should provide reasoning for why electron density oscillates with decreasing amplitude.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Concepts",
+    "description": "Important Criteria: The student should demonstrate understanding of atomic structure and electron behavior.",
+    "weight": 3
+  },
+  {
+    "title": "Alternative Answers",
+    "description": "Optional Criteria: The student may discuss why options (a) and (b) are incorrect.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid misinterpreting the behavior of electron density as decreasing like a Gaussian or exponentially.",
+    "weight": -2
+  }
+]

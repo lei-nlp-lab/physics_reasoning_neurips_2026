@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Mass of Earth",
+    "description": "Essential Criteria: The formula for the mass of the Earth must be correctly stated as m_e = gR^2/G.",
+    "weight": 5
+  },
+  {
+    "title": "Mass of Moon",
+    "description": "Essential Criteria: The equation relating the mass of the moon to the gravitational constant and orbital parameters must be correctly presented as G(m_m + m_e) = 4πa^3/T^2.",
+    "weight": 5
+  },
+  {
+    "title": "Distance to Sun",
+    "description": "Essential Criteria: The method for calculating the distance from the Earth to the Sun must be clearly articulated, including the relevant angles and distances.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning",
+    "description": "Important Criteria: The reasoning behind using gravitational laws and Kepler's laws must be clearly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Measurable Quantities",
+    "description": "Important Criteria: The measurable quantities needed for each calculation must be identified, such as g, R, a, T.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of gravitational formulas must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units for all quantities should be consistent and correctly applied throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussion of limiting cases or assumptions made in the calculations can enhance the response.",
+    "weight": 2
+  }
+]

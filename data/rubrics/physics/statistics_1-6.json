@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Definition of C_v",
+    "description": "Essential Criteria: Provide a correct definition of heat capacity C_v.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation of moles",
+    "description": "Important Criteria: Correctly calculate the number of moles of copper in the penny.",
+    "weight": 4
+  },
+  {
+    "title": "Use of R",
+    "description": "Important Criteria: Appropriately use the gas constant R in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Final answer",
+    "description": "Essential Criteria: Present the final answer for C_v in the correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Optional Criteria: Convert the final answer from J/K to calories/°C if necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Common errors",
+    "description": "Pitfall Criteria: Avoid common errors such as incorrect atomic mass or miscalculating moles.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Meeting time calculation",
+    "description": "Essential: Student correctly calculates the time until the cars meet using their relative speed and initial separation.",
+    "weight": 5
+  },
+  {
+    "title": "Bird's total distance",
+    "description": "Essential: Student uses the bird's constant speed and the meeting time to compute the total distance flown, yielding 400 m.",
+    "weight": 5
+  },
+  {
+    "title": "Bird's displacement",
+    "description": "Important: Student correctly identifies that the bird's final displacement equals the displacement of Car A (or B) at the meeting time.",
+    "weight": 3
+  },
+  {
+    "title": "Average speed definition",
+    "description": "Important: Student applies the definition of average speed (total distance / total time) to the bird's motion.",
+    "weight": 4
+  },
+  {
+    "title": "Final average speed",
+    "description": "Essential: Student calculates the bird's average speed as 10 m/s, matching the ratio of its displacement to the total time.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion reasoning",
+    "description": "Optional: Student uses a relative motion approach to simplify the problem, such as considering the closing speed of the cars.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (meters, seconds, m/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Infinite series misconception",
+    "description": "Pitfall: Student attempts to sum an infinite geometric series for the bird's trips, which is unnecessarily complex and prone to error.",
+    "weight": -2
+  },
+  {
+    "title": "Average speed vs. velocity",
+    "description": "Pitfall: Student confuses average speed with average velocity, incorrectly using displacement for the speed calculation.",
+    "weight": -1
+  }
+]

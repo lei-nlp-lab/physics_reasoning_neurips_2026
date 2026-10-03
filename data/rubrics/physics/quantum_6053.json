@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Wavelength",
+    "description": "Essential Criteria: The correct wavelength of the emitted photon must be calculated and presented in the correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Final Mean Life",
+    "description": "Essential Criteria: The mean life of the muonic atom in the 3d state must be accurately computed and presented in the correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The calculation of the photon energy using the appropriate formula must be shown clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Transition Probability",
+    "description": "Important Criteria: The reasoning behind the transition probability and its dependence on Z and m must be articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations, particularly when converting MeV to cm and seconds.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing factors or incorrect application of constants in the energy or mean life calculations will result in significant errors.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in the calculations, particularly in the energy expressions, will lead to incorrect results.",
+    "weight": -1
+  }
+]

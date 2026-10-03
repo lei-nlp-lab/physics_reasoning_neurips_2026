@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Magnetic Field Expression",
+    "description": "Essential Criteria: The expression for the magnetic induction B must be correctly derived and include the appropriate variables.",
+    "weight": 5
+  },
+  {
+    "title": "Direction of B",
+    "description": "Important Criteria: The direction of the magnetic field B at point P should be correctly identified as being in the azimuthal direction.",
+    "weight": 3
+  },
+  {
+    "title": "EMF Expression",
+    "description": "Essential Criteria: The expression for the electromotive force epsilon must be correctly stated and related to the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Experimental Setup Sketch",
+    "description": "Important Criteria: A clear and accurate sketch of the experimental arrangement should be provided, showing the loop and oscilloscope connections.",
+    "weight": 4
+  },
+  {
+    "title": "Signal Estimation",
+    "description": "Optional Criteria: An estimation of the signal detected by the oscilloscope should be included, demonstrating understanding of the relationship between B and epsilon.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Common errors include incorrect units for B or epsilon, which should be checked for consistency.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the expressions for B and epsilon, particularly in the cosine term.",
+    "weight": -1
+  }
+]

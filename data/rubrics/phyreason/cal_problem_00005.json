@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Minimum velocity expression",
+    "description": "Essential: The final answer must be expressed as v_min = sqrt(2gh) / tanθ or an equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical velocity calculation",
+    "description": "Important: The solution must correctly apply kinematics to find the vertical speed upon impact as sqrt(2gh).",
+    "weight": 4
+  },
+  {
+    "title": "Angle condition application",
+    "description": "Important: The solution must relate the vertical and horizontal velocities using the condition tanθ > v_y / v_0 or its equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Inequality handling",
+    "description": "Important: The solution must correctly manipulate the inequality to solve for the minimum initial horizontal velocity v_0.",
+    "weight": 3
+  },
+  {
+    "title": "Physical interpretation",
+    "description": "Optional: The solution may explain that the condition ensures the impact angle is less than the critical angle θ.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly using the angle condition (e.g., using sinθ or cosθ instead of tanθ) should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics error",
+    "description": "Pitfall: Making an error in the free-fall kinematics, such as using v_y = gt without relating to height h, should be penalized.",
+    "weight": -2
+  }
+]

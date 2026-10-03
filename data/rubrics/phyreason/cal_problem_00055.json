@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Spring force at rest",
+    "description": "Essential: Correctly calculates the spring force at rest as F = (3/8)mg.",
+    "weight": 5
+  },
+  {
+    "title": "Mass of ring A",
+    "description": "Essential: Correctly calculates the mass of ring A as M = (9/64)m.",
+    "weight": 5
+  },
+  {
+    "title": "Total work done",
+    "description": "Essential: Correctly calculates the total work done as W = (31/30)mgL.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium on B",
+    "description": "Important: Applies vertical and horizontal force equilibrium to ball B at rest to relate tensions and weight.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force on B",
+    "description": "Important: Applies Newton's second law for circular motion to ball B at the final angular speed.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force on A",
+    "description": "Important: Applies Newton's second law for circular motion to ring A, relating spring force, mass, and radius.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Correctly applies the work-energy theorem, summing changes in kinetic and potential energy for both bodies.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and kinematics",
+    "description": "Optional: Correctly determines the radial positions and height change from the given string lengths and angles.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in spring force",
+    "description": "Pitfall: Incorrectly states the spring force direction or sign in the equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor omission",
+    "description": "Pitfall: Omits the gravitational acceleration g or trigonometric factors in final expressions.",
+    "weight": -1
+  }
+]

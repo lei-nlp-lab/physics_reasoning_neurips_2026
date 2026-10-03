@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Barrier opening time difference",
+    "description": "Essential: The final answer for part (1) is correctly calculated as 21 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum separation distance",
+    "description": "Essential: The final answer for part (2) is correctly calculated as 455 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration magnitude calculation",
+    "description": "Important: Correctly calculates the uniform deceleration magnitude (2.5 m/s²) using car B's motion to the stop point.",
+    "weight": 4
+  },
+  {
+    "title": "Car A's motion timeline",
+    "description": "Important: Correctly determines the time for car A to decelerate, travel at constant speed to the centerline, and have its barrier open (t_A = 7 s).",
+    "weight": 4
+  },
+  {
+    "title": "Car B's motion timeline",
+    "description": "Important: Correctly determines the time for car B to decelerate to a stop, includes the payment delay, and has its barrier open (t_B = 28 s).",
+    "weight": 4
+  },
+  {
+    "title": "Post-barrier acceleration analysis",
+    "description": "Important: Correctly models the acceleration phases for both cars back to speed v1 to find the point of maximum separation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Optional: Converts all velocities from km/h to m/s (72 km/h = 20 m/s, 18 km/h = 5 m/s) consistently.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses acceleration with an incorrect sign (e.g., positive for deceleration) in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Omits payment delay",
+    "description": "Pitfall: Fails to include the 20-second payment time (t0) for car B when calculating the barrier opening time.",
+    "weight": -2
+  }
+]

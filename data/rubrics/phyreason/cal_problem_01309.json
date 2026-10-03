@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Time for p",
+    "description": "Essential: The final numerical answer for part (1) is 1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration on incline",
+    "description": "Important: Correctly applies Newton's second law or kinematics to find the acceleration of ball p as g sin θ.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for p",
+    "description": "Important: Uses the correct kinematic equation (s = 1/2 a t²) to relate the length l, acceleration, and time for ball p.",
+    "weight": 4
+  },
+  {
+    "title": "Initial speed for q",
+    "description": "Essential: The final numerical answer for part (2) is 2.165 m/s (or equivalent 5√3/4 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Simultaneity condition",
+    "description": "Important: Recognizes that the time of flight for ball q equals the slide time t1 for ball p.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal displacement",
+    "description": "Important: Correctly identifies the horizontal displacement of ball q as l cos θ.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile kinematics",
+    "description": "Optional: Applies the correct horizontal motion equation (x = v0 t) for ball q's uniform motion.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in the incline acceleration or misuses cos/sin for the horizontal displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect time equation",
+    "description": "Pitfall: Uses an incorrect kinematic equation (e.g., l = v t) for the accelerated motion of ball p.",
+    "weight": -1
+  }
+]

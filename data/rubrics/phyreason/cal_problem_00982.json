@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimum velocity value",
+    "description": "Essential: The final answer for part (1) must be v1 = 6000 m/s (or 6×10³ m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force condition",
+    "description": "Important: Correctly applies the condition qvB = mv²/r for circular motion to relate velocity, magnetic field, and trajectory radius.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric tangent condition",
+    "description": "Important: Identifies that the limiting trajectory for part (1) is a circle of radius r1 = d/2 that is tangent to the x-axis at the origin O.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum time value",
+    "description": "Essential: The final answer for part (2) must be t = (97π/180)×10⁻⁴ s ≈ 1.69×10⁻⁴ s.",
+    "weight": 5
+  },
+  {
+    "title": "Time-angle relationship",
+    "description": "Important: Correctly relates the travel time to the central angle α swept on the circular path, using t = (α/2π)T, where T is the cyclotron period.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for two solutions",
+    "description": "Important: For part (3), identifies that two distinct initial velocity directions can lead to the same x-intercept, requiring analysis of circle geometry with fixed r and source position S.",
+    "weight": 4
+  },
+  {
+    "title": "Segment length value",
+    "description": "Essential: The final answer for part (3) must be the length MN = 0.22 m or its exact form (2/5)(√7 - √3) m.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect radius calculation",
+    "description": "Pitfall: Uses an incorrect formula for the cyclotron radius (e.g., r = qB/(mv)) or misapplies the geometric condition r = d/2 for parts (2) or (3).",
+    "weight": -2
+  },
+  {
+    "title": "Angle or time unit error",
+    "description": "Pitfall: Confuses degrees and radians in calculating the central angle or travel time, or incorrectly computes the period T.",
+    "weight": -1
+  },
+  {
+    "title": "Sign or direction oversight",
+    "description": "Pitfall: Fails to account for the negative charge in the force direction or misinterprets the quadrant geometry for the initial velocity angles.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Plank velocity at B",
+    "description": "Essential: Correctly states the final velocity of plank AB as v_AB = v_0/4, derived from momentum conservation and the given v_B = v_0/2.",
+    "weight": 5
+  },
+  {
+    "title": "Plank length L",
+    "description": "Essential: Correctly states the length L = 5v_0^2/(16μg), derived from energy loss due to friction on the rough surface.",
+    "weight": 5
+  },
+  {
+    "title": "Arc radius R",
+    "description": "Essential: Correctly states the arc radius R = v_0^2/(64g), derived from momentum and energy conservation for the motion on CD.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation at B",
+    "description": "Important: Applies momentum conservation to the particle-plank system for the motion from initial state to point B.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-work principle on AB",
+    "description": "Important: Applies the work-energy theorem or energy conservation with friction to relate initial/final kinetic energies to the work done by friction over length L.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation for CD",
+    "description": "Important: Applies momentum conservation to the particle-slider system at the moment the particle reaches point D on the arc.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation on arc",
+    "description": "Important: Applies conservation of mechanical energy for the particle-slider system from point D to the highest point C of the arc.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign in momentum equation (e.g., treating velocities as scalars without regard to direction) or misassigns relative velocity signs.",
+    "weight": -2
+  },
+  {
+    "title": "Friction work miscalculation",
+    "description": "Pitfall: Incorrectly calculates the work done by friction (e.g., wrong normal force, missing mass factor, or sign error in energy balance).",
+    "weight": -2
+  },
+  {
+    "title": "System mass oversight",
+    "description": "Pitfall: Uses incorrect system mass in momentum or kinetic energy expressions (e.g., treating the slider CD as mass m instead of 2m when combined with the particle).",
+    "weight": -1
+  }
+]

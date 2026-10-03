@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Average distance formula",
+    "description": "Essential: The student must correctly state or apply the relationship between volume, number of molecules, and average intermolecular distance (e.g., V = N d³).",
+    "weight": 5
+  },
+  {
+    "title": "Volume at state B",
+    "description": "Important: The student must correctly determine the volume at state B from the V-T graph, recognizing the isobaric process and using the given temperatures.",
+    "weight": 4
+  },
+  {
+    "title": "Final distance answer",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as d = ∛(2V₀/N) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Work calculation A→B",
+    "description": "Important: The student must correctly calculate the work done by the gas during the isobaric expansion from A to B, using W = -pΔV.",
+    "weight": 4
+  },
+  {
+    "title": "First law application",
+    "description": "Essential: The student must correctly apply the first law of thermodynamics (Q = ΔU - W) for the entire process A→B→C, using the given ΔU.",
+    "weight": 5
+  },
+  {
+    "title": "Final heat answer",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as Q = ΔU + pV₀.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the sign convention for work (W = -pΔV for work done BY gas) is mistaken, leading to an incorrect sign in the final heat expression.",
+    "weight": -2
+  },
+  {
+    "title": "Graph misinterpretation",
+    "description": "Pitfall: Penalize if the student misinterprets the V-T graph, e.g., incorrectly reading the volume at B or not recognizing the process as isobaric.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly checks or comments on the dimensional consistency of their derived expressions for distance and heat.",
+    "weight": 1
+  }
+]

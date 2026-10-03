@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final current",
+    "description": "Essential: The response must state the magnitude of the current as 2 A (or 2.0 A).",
+    "weight": 5
+  },
+  {
+    "title": "Applies force formula",
+    "description": "Important: The solution correctly uses the formula F = BIL for a perpendicular wire.",
+    "weight": 4
+  },
+  {
+    "title": "Correct algebraic rearrangement",
+    "description": "Important: The formula is rearranged to solve for current: I = F / (B L).",
+    "weight": 3
+  },
+  {
+    "title": "Includes correct units",
+    "description": "Optional: The final answer is presented with the correct unit (Amperes, A).",
+    "weight": 1
+  },
+  {
+    "title": "Perpendicular condition stated",
+    "description": "Optional: The solution notes that the formula F=BIL applies because the wire is perpendicular to B.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using an incorrect formula (e.g., F = Bqv, or omitting the length L).",
+    "weight": -2
+  },
+  {
+    "title": "Calculation or unit error",
+    "description": "Pitfall: Making an arithmetic mistake in the division or failing to convert units correctly.",
+    "weight": -1
+  }
+]

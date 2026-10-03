@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct flight time",
+    "description": "Essential: The student's answer for the time of flight must be 0.4 s, derived from the vertical free-fall equation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct initial velocity",
+    "description": "Essential: The student's answer for the horizontal initial velocity must be 3 m/s, derived from horizontal uniform motion.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The student's answer for the final speed upon impact must be 5 m/s, derived from vector addition of horizontal and vertical components.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical motion reasoning",
+    "description": "Important: The solution must correctly apply the free-fall kinematic equation to find the time of flight or vertical velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal motion reasoning",
+    "description": "Important: The solution must correctly relate horizontal distance, time, and constant velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Vector composition",
+    "description": "Important: The final speed must be found by correctly combining perpendicular velocity components using the Pythagorean theorem.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be presented with correct units (s, m/s).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly treats vertical motion as having an initial velocity or misuses signs in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic or formula mistake",
+    "description": "Pitfall: Penalize for incorrect algebraic manipulation (e.g., solving t^2 = 2h/g) or basic arithmetic errors in the core calculations.",
+    "weight": -1
+  }
+]

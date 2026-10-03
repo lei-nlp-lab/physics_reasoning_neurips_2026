@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct outflow velocity",
+    "description": "Essential Criteria: Student must correctly calculate v₀ = 2 m/s using projectile motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Correct tangent value",
+    "description": "Essential Criteria: Student must correctly determine tanθ = 2 from the velocity components at impact.",
+    "weight": 5
+  },
+  {
+    "title": "Time of flight calculation",
+    "description": "Important Criteria: Student must correctly compute the time of flight (0.4 s) from vertical motion.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity components at impact",
+    "description": "Important Criteria: Student must correctly find both horizontal (2 m/s) and vertical (4 m/s) velocity components at ground impact.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: Student must properly apply kinematic equations for horizontal and vertical motion separately.",
+    "weight": 3
+  },
+  {
+    "title": "Angle interpretation",
+    "description": "Optional Criteria: Student should recognize that tanθ relates vertical and horizontal velocity components at impact.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in vertical velocity",
+    "description": "Pitfall Criteria: Student incorrectly uses negative sign for vertical velocity when calculating tanθ.",
+    "weight": -2
+  },
+  {
+    "title": "Confusion with angle reference",
+    "description": "Pitfall Criteria: Student calculates angle relative to horizontal instead of relative to ground (complementary angle).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for C_v must be correctly stated as C_v = (1/kT^2) * <(E - <E>)^2>.",
+    "weight": 5
+  },
+  {
+    "title": "Partition Function",
+    "description": "Important Criteria: The student must correctly define the partition function Z and its relation to the average energy <E>.",
+    "weight": 4
+  },
+  {
+    "title": "Derivative of Average Energy",
+    "description": "Important Criteria: The student should correctly compute the derivative of <E> with respect to T, showing the necessary steps.",
+    "weight": 4
+  },
+  {
+    "title": "Fluctuation Relation",
+    "description": "Important Criteria: The derivation must include the relationship between C_v and the mean-square fluctuation in energy.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors when differentiating and applying the chain rule.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  },
+  {
+    "title": "Mathematical Clarity",
+    "description": "Optional Criteria: The response should be clearly organized, with logical flow and proper mathematical notation.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student may mention alternative methods or checks that could verify the result.",
+    "weight": 2
+  }
+]

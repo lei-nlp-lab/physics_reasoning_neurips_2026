@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Voltage across R1",
+    "description": "Essential: Correctly calculates the voltage across R1 using voltage division, yielding 3.75 V.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage across R2",
+    "description": "Essential: Correctly calculates the voltage across R2 using voltage division, yielding 11.25 V.",
+    "weight": 5
+  },
+  {
+    "title": "Parallel equivalent resistance",
+    "description": "Important: Correctly calculates the equivalent resistance for R1||Rv (6 kΩ) and R2||Rv (9 kΩ).",
+    "weight": 4
+  },
+  {
+    "title": "Voltmeter reading at C",
+    "description": "Essential: Correctly applies voltage division with the parallel equivalent to find the voltmeter reading when S is at C (15/7 V).",
+    "weight": 5
+  },
+  {
+    "title": "Voltmeter reading at D",
+    "description": "Essential: Correctly applies voltage division with the parallel equivalent to find the voltmeter reading when S is at D (45/7 V).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage division reasoning",
+    "description": "Important: Applies the voltage divider formula correctly for series combinations in all parts.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent use of kΩ and V throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring voltmeter loading",
+    "description": "Pitfall: For parts (2), incorrectly uses the original resistor values without accounting for the parallel voltmeter resistance.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct speed after 2s",
+    "description": "Essential: Student must calculate v = v₀ + at = 8 + (-2)×2 = 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct stopping distance",
+    "description": "Essential: Student must find stopping time (4 s) and compute x = v₀t + ½at² = 16 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement after 3s",
+    "description": "Essential: Student must compute x = 8×3 + ½×(-2)×3² = 15 m.",
+    "weight": 5
+  },
+  {
+    "title": "Proper sign handling",
+    "description": "Important: Student must treat acceleration as negative (-2 m/s²) in all equations.",
+    "weight": 3
+  },
+  {
+    "title": "Stopping time calculation",
+    "description": "Important: Student must find t_stop = (0 - v₀)/a = 4 s for part (2).",
+    "weight": 2
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional: Student includes correct units (m/s, m) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Student uses a = +2 m/s² instead of -2 m/s², leading to wrong signs or values.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing distance and displacement",
+    "description": "Pitfall: For part (3), student incorrectly uses stopping formulas or computes distance traveled after stopping.",
+    "weight": -1
+  }
+]

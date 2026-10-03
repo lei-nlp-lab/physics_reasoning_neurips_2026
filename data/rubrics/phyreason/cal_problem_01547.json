@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Initial acceleration magnitude",
+    "description": "Essential Criteria: The student must correctly compute the initial acceleration as 6.4 m/s², accounting for both gravity and the initial electrostatic repulsion.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed condition",
+    "description": "Important Criteria: The student must recognize that the speed is maximum when the net force on charge B is zero (i.e., when electrostatic force equals gravitational force).",
+    "weight": 4
+  },
+  {
+    "title": "Distance L calculation",
+    "description": "Essential Criteria: The student must correctly solve the force-balance equation to find the distance L = 0.3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force direction analysis",
+    "description": "Important Criteria: The student must correctly identify that both forces are vertical and that the electrostatic force is upward (repulsive) while gravity is downward.",
+    "weight": 3
+  },
+  {
+    "title": "Correct force expressions",
+    "description": "Important Criteria: The student must properly write the expressions for gravitational force (mg) and Coulomb force (kqQ/r²) with correct charge magnitudes.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Deduct points if the student incorrectly adds the forces (treating them as both in the same direction) instead of subtracting them.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student may show unit analysis to verify that the computed acceleration has units of m/s² and distance has units of meters.",
+    "weight": 1
+  },
+  {
+    "title": "Energy method alternative",
+    "description": "Optional Criteria: The student may use energy conservation (potential energy minimum) as an alternative approach to find the maximum speed position.",
+    "weight": 1
+  }
+]

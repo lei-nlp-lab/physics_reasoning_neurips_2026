@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct time calculation",
+    "description": "Essential Criteria: The student must compute the time using the correct kinematic equation with the given acceleration and velocity change.",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance calculation",
+    "description": "Essential Criteria: The student must compute the distance using the correct kinematic equation with the given acceleration and velocity change.",
+    "weight": 5
+  },
+  {
+    "title": "Proper sign handling",
+    "description": "Important Criteria: The student must correctly account for the negative sign of acceleration in the kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important Criteria: The student must maintain consistent units throughout the calculation and present answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Decimal place precision",
+    "description": "Optional Criteria: The student should round the final answers to one decimal place as specified in the problem.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect acceleration sign",
+    "description": "Pitfall Criteria: The student incorrectly uses positive acceleration in calculations, leading to negative time or distance.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong kinematic equation",
+    "description": "Pitfall Criteria: The student uses an inappropriate kinematic equation that doesn't apply to constant acceleration motion.",
+    "weight": -2
+  }
+]

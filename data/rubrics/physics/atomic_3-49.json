@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Observable Quantity",
+    "description": "Essential Criteria: The student must identify the angular distribution related to the decay of e^+ as the observable quantity.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Distribution Formula",
+    "description": "Essential Criteria: The student must provide the correct formula for the angular distribution of e^+ produced in the muon decay.",
+    "weight": 5
+  },
+  {
+    "title": "Parity Violation Explanation",
+    "description": "Important Criteria: The student must explain that both decay processes violate parity conservation due to weak interactions.",
+    "weight": 4
+  },
+  {
+    "title": "Correctness of Distribution",
+    "description": "Important Criteria: The student should correctly derive or state the form of the angular distribution and its implications for parity.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Dimensions",
+    "description": "Optional Criteria: The student may include appropriate units for the angular distribution or mention dimensionless nature.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as misidentifying the decay processes or incorrectly stating the angular distribution.",
+    "weight": -2
+  }
+]

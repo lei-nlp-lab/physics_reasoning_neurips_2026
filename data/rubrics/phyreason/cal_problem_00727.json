@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial speed calculation",
+    "description": "Essential: The student must correctly derive and state the initial speed entering the electric field as √(2qEL/m).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: The student must apply projectile motion equations in the electric field, relating horizontal displacement (2L) and vertical displacement (L) to time, acceleration (qE/m), and initial speed.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at point b",
+    "description": "Important: The student must correctly compute the speed and direction (45° angle) of the particle at point b by combining horizontal and vertical velocity components.",
+    "weight": 3
+  },
+  {
+    "title": "Magnetic force for circular motion",
+    "description": "Essential: The student must apply Newton's second law for circular motion (qvB = mv²/R) to relate magnetic field strength, speed at b, and trajectory radius.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for reaching point c",
+    "description": "Important: For part (2)(I), the student must establish the geometric condition (n * 2R = √2 L) for the particle's circular arc to pass from b to c after multiple half-cycles.",
+    "weight": 4
+  },
+  {
+    "title": "Discrete magnetic field values",
+    "description": "Essential: For part (2)(I), the student must combine the geometry and force law to give the final answer B = 2n√(2mE/qL) with n = 1, 2, 3...",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for avoiding cd region",
+    "description": "Important: For part (2)(II), the student must analyze the trajectory geometry to find the radius conditions (e.g., 2R > 3√2 L/2) that prevent the particle from reaching the cd segment.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field range",
+    "description": "Essential: For part (2)(II), the student must correctly state the final range for B, either as B < (4/3)√(2mE/qL) or as 2√(2mE/qL) < B < (8/3)√(2mE/qL).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Deduct points for sign errors in electric/magnetic force direction, incorrect unit handling, or misidentifying the charge's sign in the Lorentz force.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect collision assumption",
+    "description": "Pitfall: Penalize assuming a single half-circle trajectory for part (2)(I) without considering multiple n, or misinterpreting the 'bc = 2cd' geometry for part (2)(II).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for eccentricity must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The total energy after the explosion must be correctly expressed in terms of initial energy and mass loss.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Conservation",
+    "description": "Important Criteria: The angular momentum before and after the explosion must be correctly identified as conserved.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Important Criteria: The variables K, K', M, and M' must be correctly defined and used throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors related to sign mistakes in energy calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units should be consistently applied throughout the calculations to ensure dimensional correctness.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios should be discussed to enhance understanding.",
+    "weight": 1
+  }
+]

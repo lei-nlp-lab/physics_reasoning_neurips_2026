@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct U_AB calculation",
+    "description": "Essential: Student correctly computes U_AB = W_AB / q, yielding +5 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct U_BC sign",
+    "description": "Important: Student correctly identifies that work done by the electrostatic force from B to C gives U_BC = W_BC / q = -2 V.",
+    "weight": 4
+  },
+  {
+    "title": "Potential at C",
+    "description": "Essential: Student uses φ_B = 0 and U_BC = φ_B - φ_C to find φ_C = 2 V.",
+    "weight": 5
+  },
+  {
+    "title": "Work from A to C",
+    "description": "Important: Student correctly sums the works (W_AC = W_AB + W_BC) to find total work by field as -1.8e-5 J.",
+    "weight": 3
+  },
+  {
+    "title": "Potential energy change",
+    "description": "Essential: Student states ΔU = -W_field for A→C, giving +1.8e-5 J increase.",
+    "weight": 5
+  },
+  {
+    "title": "Sign confusion in U_AB",
+    "description": "Pitfall: Student incorrectly uses work 'overcoming the force' as positive for U_AB formula, leading to wrong sign.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows unit analysis (J/C = V) for potential differences.",
+    "weight": 1
+  },
+  {
+    "title": "Direction of energy change",
+    "description": "Important: Student explicitly states whether potential energy increases or decreases for A→C.",
+    "weight": 2
+  }
+]

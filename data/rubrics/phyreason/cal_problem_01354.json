@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Heat generated",
+    "description": "Essential: The answer must correctly state the heat generated as Q = μ m g L.",
+    "weight": 5
+  },
+  {
+    "title": "Iron block KE increase",
+    "description": "Essential: The answer must correctly state the increase in kinetic energy of the small block as μ m g (l - L).",
+    "weight": 5
+  },
+  {
+    "title": "Wooden block KE loss",
+    "description": "Essential: The answer must correctly state the kinetic energy lost by the wooden block as μ m g l.",
+    "weight": 5
+  },
+  {
+    "title": "System mechanical energy reduction",
+    "description": "Essential: The answer must correctly state the reduction in the system's mechanical energy as μ m g L.",
+    "weight": 5
+  },
+  {
+    "title": "Friction work interpretation",
+    "description": "Important: The solution must correctly relate the heat generated to the work done by kinetic friction over the relative displacement L.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The solution must apply the work-energy theorem separately to each block, using the correct displacement relative to the ground for the work done by friction.",
+    "weight": 3
+  },
+  {
+    "title": "Relative displacement use",
+    "description": "Important: The solution must correctly identify and use the relationship between the displacements of the two blocks (l and L) to find their final common velocity or individual energy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in energy change",
+    "description": "Pitfall: Penalize if the student incorrectly assigns a sign (e.g., states a loss as a gain) for the kinetic energy change of the wooden block.",
+    "weight": -2
+  },
+  {
+    "title": "Confusion of displacements",
+    "description": "Pitfall: Penalize if the student uses the wrong displacement (e.g., uses L instead of l, or vice versa) in the work-energy equations for the individual blocks.",
+    "weight": -2
+  },
+  {
+    "title": "Conservation check",
+    "description": "Optional: The solution may verify that the reduction in system mechanical energy equals the sum of the heat generated and the net change in kinetic energy of the blocks.",
+    "weight": 1
+  }
+]

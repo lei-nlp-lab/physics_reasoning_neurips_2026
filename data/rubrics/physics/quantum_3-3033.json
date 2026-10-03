@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct expressions for the polarizations along the x and z directions.",
+    "weight": 5
+  },
+  {
+    "title": "Schrödinger Equation",
+    "description": "Important Criteria: Correctly set up the Schrödinger equation for the spin state vector.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Condition",
+    "description": "Important Criteria: Apply the normalization condition correctly to find the coefficients a(t_0) and b(t_0).",
+    "weight": 4
+  },
+  {
+    "title": "Polarization Calculation",
+    "description": "Important Criteria: Accurately compute the expectation values for 2s_x and 2s_z using the state vector.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the calculations of the polarizations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: Consider alternative methods or checks to verify the final answers.",
+    "weight": 1
+  }
+]

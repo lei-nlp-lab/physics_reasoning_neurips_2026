@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Angular frequency and period",
+    "description": "Essential: Correctly states ω = √[G(M₁+M₂)/|r₂−r₁|³] and T = 2π√[|r₂−r₁|³/(G(M₁+M₂))].",
+    "weight": 5
+  },
+  {
+    "title": "Mass ratio α",
+    "description": "Essential: Correctly defines α = M₂/(M₁+M₂) from the given position definitions.",
+    "weight": 5
+  },
+  {
+    "title": "Distance expressions",
+    "description": "Essential: Correctly writes ρ₁ = √[(x+αR)² + y²] and ρ₂ = √[(x−(1−α)R)² + y²].",
+    "weight": 5
+  },
+  {
+    "title": "Vector acceleration in rotating frame",
+    "description": "Important: Derives or states the total acceleration as sum of gravitational, centrifugal, and Coriolis terms.",
+    "weight": 4
+  },
+  {
+    "title": "Equations in terms of U",
+    "description": "Important: Correctly expresses d²x/dt² = 2ω(dy/dt) − ∂U/∂x and d²y/dt² = −2ω(dx/dt) − ∂U/∂y.",
+    "weight": 4
+  },
+  {
+    "title": "Constant of motion",
+    "description": "Essential: Identifies the conserved quantity as −2U − v² = constant.",
+    "weight": 5
+  },
+  {
+    "title": "Sign errors in accelerations",
+    "description": "Pitfall: Incorrect sign for Coriolis term (e.g., +2ω×v instead of −2ω×v) or misplacement in component equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Checks dimensional consistency of derived expressions for ω, T, and accelerations.",
+    "weight": 1
+  },
+  {
+    "title": "Interpretation of U",
+    "description": "Optional: Recognizes U as an effective potential combining gravitational and centrifugal parts.",
+    "weight": 2
+  }
+]

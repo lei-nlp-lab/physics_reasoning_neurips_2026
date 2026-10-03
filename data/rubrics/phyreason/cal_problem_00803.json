@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Han Cong's final speed",
+    "description": "Essential: The answer must state Han Cong's speed after the push as 1 m/s (or -1 m/s indicating direction).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum application",
+    "description": "Important: The solution must correctly apply momentum conservation to the two-skater system, setting initial total momentum equal to final total momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Direction of Han Cong's velocity",
+    "description": "Important: The answer must indicate that Han Cong's velocity after the push is opposite to the original direction of motion.",
+    "weight": 3
+  },
+  {
+    "title": "Force magnitude from impulse",
+    "description": "Essential: The answer must state the magnitude of the average force as 60 N.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum theorem for Han Cong",
+    "description": "Important: The solution must apply the impulse-momentum theorem correctly to Han Cong to relate the average force, time, and his change in momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Penalize if the force's sign is misinterpreted, failing to recognize it as an interaction pair or misstating its direction relative to the motion.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should demonstrate consistent use of SI units (kg, m/s, s, N) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Correct mass assignment",
+    "description": "Pitfall: Penalize if the masses of Sui Wenjing (40 kg) and Han Cong (60 kg) are swapped in the equations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student provides correct final answers for each reaction and decay process, identifying the conservation laws violated.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: The student correctly identifies the relevant conservation laws (baryon number, strangeness, isospin) for each reaction and decay.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning Steps",
+    "description": "Important Criteria: The student explains the reasoning behind the violation of conservation laws for each reaction and decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Specific Violations",
+    "description": "Optional Criteria: The student specifies the exact values of changes in quantum numbers (e.g., Delta S, Delta I) where applicable.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student makes common errors such as misidentifying conserved quantities or incorrectly applying conservation laws.",
+    "weight": -2
+  }
+]

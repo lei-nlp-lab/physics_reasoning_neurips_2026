@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Voltage across R2",
+    "description": "Essential: Correctly calculates the voltage across resistor R2 as 10 V using Ohm's law and the total circuit current.",
+    "weight": 5
+  },
+  {
+    "title": "Charge on sphere",
+    "description": "Essential: Correctly calculates the charge on the small sphere as 3.0 × 10⁻⁴ C from the equilibrium of electric and gravitational forces.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the ball's acceleration as 12.5 m/s² immediately after the string is cut.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Important: Applies Ohm's law for a closed circuit to find the total current using the EMF and all resistances.",
+    "weight": 3
+  },
+  {
+    "title": "Capacitor field strength",
+    "description": "Important: Relates the voltage across R2 to the electric field between the capacitor plates using E = U/d.",
+    "weight": 3
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Sets up the static equilibrium condition (tan37° = qE/(mg)) for the charged ball.",
+    "weight": 3
+  },
+  {
+    "title": "Net force after cut",
+    "description": "Important: Correctly identifies that after the string is cut, the net force is the vector sum of gravity and the electric force, with magnitude mg/cos37°.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses an incorrect sign for the charge, misidentifies force directions, or incorrectly assumes equilibrium persists after the cut.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (V, C, m/s²) throughout the calculations and includes them in final answers.",
+    "weight": 1
+  }
+]

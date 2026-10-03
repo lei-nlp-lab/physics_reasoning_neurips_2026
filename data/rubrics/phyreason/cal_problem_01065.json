@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct expression for s",
+    "description": "Essential: The student's final answer for the distance between adjacent bullets in the air must be (v0 + v1)Δt0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct expression for Δt",
+    "description": "Essential: The student's final answer for the time interval between hits must be (v0 + v1)Δt0 / (v0 - v2).",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion for s",
+    "description": "Important: The reasoning must correctly combine the bullet's ground speed and Cart A's motion to find the separation s.",
+    "weight": 3
+  },
+  {
+    "title": "Relative motion for Δt",
+    "description": "Important: The reasoning must set up the relative closing speed between bullet and Cart B to relate s and Δt.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent frame analysis",
+    "description": "Important: The solution must correctly use the ground frame for distances/speeds or clearly justify relative motion steps.",
+    "weight": 2
+  },
+  {
+    "title": "Unit or dimensional check",
+    "description": "Optional: The student may perform a dimensional analysis to verify the expressions for s and Δt.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in relative speed",
+    "description": "Pitfall: Using (v0 + v2) instead of (v0 - v2) for the relative speed of bullet approaching Cart B.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Cart A's motion",
+    "description": "Pitfall: Stating s = v0Δt0, incorrectly neglecting the motion of the firing cart.",
+    "weight": -2
+  }
+]

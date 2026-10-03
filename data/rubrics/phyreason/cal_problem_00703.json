@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: Correctly calculates wave speed using v = PA / (time wave from A reaches P).",
+    "weight": 5
+  },
+  {
+    "title": "Resultant amplitude at P",
+    "description": "Important: Correctly determines the amplitude at point P by superimposing the two waves, considering path difference and phase.",
+    "weight": 4
+  },
+  {
+    "title": "Timeline of P's motion",
+    "description": "Important: Correctly identifies the times when P starts vibrating and when each wave arrives, establishing the intervals for SHM.",
+    "weight": 4
+  },
+  {
+    "title": "Distance in SHM intervals",
+    "description": "Important: Correctly calculates the distance traveled by P in each time interval based on its amplitude and the number of oscillations/quarter periods.",
+    "weight": 4
+  },
+  {
+    "title": "Total distance summation",
+    "description": "Essential: Correctly sums the distances from all intervals to find the final total distance traveled by P.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (e.g., meters, seconds) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect path difference phase",
+    "description": "Pitfall: Mistakenly adds amplitudes instead of subtracting them, or incorrectly assumes constructive interference.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying start time",
+    "description": "Pitfall: Assumes P starts vibrating at t=0 instead of t=2s, or misinterprets the arrival time of the wave from B.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Induced current direction",
+    "description": "Essential: Student must correctly state that induced current flows from b to a (or equivalent) using appropriate reasoning.",
+    "weight": 5
+  },
+  {
+    "title": "Motional EMF calculation",
+    "description": "Essential: Student must correctly compute E = BLv = 0.05 V with proper units.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Important: Student must apply Ohm's law to find total current I = E/(R+r) = 0.025 A.",
+    "weight": 4
+  },
+  {
+    "title": "External force magnitude",
+    "description": "Essential: Student must correctly calculate F = BIL = 6.25×10⁻³ N as the external force magnitude.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student must recognize that constant velocity implies external force equals magnetic force on the rod.",
+    "weight": 3
+  },
+  {
+    "title": "Right-hand rule application",
+    "description": "Optional: Student explicitly applies right-hand rule(s) to determine current direction or force direction.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows unit analysis or includes correct units in all intermediate steps.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect EMF formula",
+    "description": "Pitfall: Student uses wrong formula for motional EMF (e.g., missing v, L, or B).",
+    "weight": -2
+  },
+  {
+    "title": "Resistance omission",
+    "description": "Pitfall: Student neglects internal resistance r when calculating circuit current.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity misconception",
+    "description": "Pitfall: Student assumes acceleration or uses force formulas inappropriate for constant velocity.",
+    "weight": -1
+  }
+]

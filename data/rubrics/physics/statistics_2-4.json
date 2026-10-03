@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for M_s",
+    "description": "Essential Criteria: The correct final answer for M_s must be provided as M_s = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Important Criteria: The student must correctly define and use N, N_uparrow, and N_downarrow in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Number of States Expression",
+    "description": "Important Criteria: The student should derive the expression for the number of states Q accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Stirling's Approximation",
+    "description": "Important Criteria: The application of Stirling's formula in the context of the problem must be correctly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Understanding of Negative Temperature",
+    "description": "Essential Criteria: The definition and explanation of negative absolute temperature must be clearly articulated.",
+    "weight": 5
+  },
+  {
+    "title": "Example of Negative Temperature",
+    "description": "Important Criteria: A concrete example demonstrating negative absolute temperature must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect assumptions about the number of states must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Definitions",
+    "description": "Optional Criteria: Proper units and definitions related to spin and temperature should be included.",
+    "weight": 2
+  }
+]

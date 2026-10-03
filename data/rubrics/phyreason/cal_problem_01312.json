@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Parking orbit velocity",
+    "description": "Essential: Final answer for part (1) is correctly expressed as v = r√(g/R).",
+    "weight": 5
+  },
+  {
+    "title": "Working orbit period",
+    "description": "Essential: Final answer for part (2) is correctly expressed as T = (2πR₁/r₁)√(6R₁/g).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's Law for parking orbit",
+    "description": "Important: Student correctly equates gravitational force to centripetal force (GMm/R² = mv²/R) for the Earth-centered parking orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Express Earth's GM",
+    "description": "Important: Student uses the Earth's surface gravity (g) to correctly substitute GM = gr².",
+    "weight": 3
+  },
+  {
+    "title": "Apply Newton's Law for working orbit",
+    "description": "Important: Student correctly equates the Moon's gravitational force to the centripetal force (GM₁m/R₁² = mω²R₁) for the Moon-centered working orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Express Moon's GM₁",
+    "description": "Important: Student uses the Moon's surface gravity (g/6) to correctly substitute GM₁ = (g/6)r₁².",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Student shows clear, logical steps in solving the simultaneous equations to derive the final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Confusing orbit radii",
+    "description": "Pitfall: Student incorrectly uses Earth's radius (r) or Moon's radius (r₁) in place of the orbit radii (R, R₁) in the force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect gravity substitution",
+    "description": "Pitfall: Student uses Earth's 'g' instead of the Moon's 'g/6' when formulating the equation for the Moon-centered working orbit, or vice versa.",
+    "weight": -2
+  }
+]

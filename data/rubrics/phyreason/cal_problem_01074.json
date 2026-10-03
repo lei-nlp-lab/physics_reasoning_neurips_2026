@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Equal Speeds First Instance",
+    "description": "Essential: Correctly solves 16 - 2t = 12 - t to find the first time speeds are equal (t = 4 s).",
+    "weight": 5
+  },
+  {
+    "title": "Equal Speeds Second Instance",
+    "description": "Important: Recognizes speeds equal again after t=6s, solving 4 = 6 - Δt to find the second time (t = 8 s).",
+    "weight": 4
+  },
+  {
+    "title": "Meeting Time First Instance",
+    "description": "Essential: Correctly solves the meeting equation 16t - t² = 12t - 0.5t² + 6 for the first meeting time (t = 2 s).",
+    "weight": 5
+  },
+  {
+    "title": "Meeting Time Second Instance",
+    "description": "Important: Correctly solves the same meeting equation for the second meeting time (t = 6 s).",
+    "weight": 4
+  },
+  {
+    "title": "Post-Braking Motion Analysis",
+    "description": "Important: Correctly identifies that Car A stops braking at t=6s and continues at constant speed (4 m/s), while Car B is still decelerating.",
+    "weight": 3
+  },
+  {
+    "title": "Meeting Time Third Instance",
+    "description": "Optional: Correctly analyzes motion after t=6s to find a possible third meeting time (t = 10 s).",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Acceleration",
+    "description": "Pitfall: Uses acceleration as positive in kinematic equations instead of negative for deceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Multi-Part Motion",
+    "description": "Pitfall: Fails to consider that Car A's motion changes from deceleration to constant speed at t=6s.",
+    "weight": -1
+  }
+]

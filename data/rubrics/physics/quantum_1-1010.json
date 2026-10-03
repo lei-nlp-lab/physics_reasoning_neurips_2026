@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Momentum Amplitude",
+    "description": "Essential Criteria: The student must correctly identify and express the probability amplitude in momentum space, psi(p, 0).",
+    "weight": 5
+  },
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must correctly derive and present the time-dependent wave function, psi(x, t).",
+    "weight": 5
+  },
+  {
+    "title": "Integral Setup",
+    "description": "Important Criteria: The student should correctly set up the integral for transforming psi(x, 0) to momentum space.",
+    "weight": 4
+  },
+  {
+    "title": "Exponential Terms",
+    "description": "Important Criteria: The student must correctly handle the exponential terms in the integral during the transformation process.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the exponential terms.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time t1",
+    "description": "Essential Criteria: The response must provide the final numerical expression for t1 in terms of t0, specifically (3√3/(4π)) t0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct magnetic field B",
+    "description": "Essential Criteria: The response must provide the final numerical expression for B in terms of E and v0, specifically √3 (E/v0).",
+    "weight": 5
+  },
+  {
+    "title": "Electric acceleration analysis",
+    "description": "Important Criteria: The solution must correctly apply kinematics or work-energy to relate the electric force, distance OB, and the final speed v0.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion (qvB = mv²/R) to relate v0, B, and the orbit radius.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of trajectory",
+    "description": "Important Criteria: The solution must correctly use the 30° geometry to relate the arc length or chord AB to the cyclotron radius and the time t0.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent unit handling",
+    "description": "Optional Criteria: The solution demonstrates dimensional consistency or explicitly states units for final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: The solution incorrectly assigns the direction of force, velocity, or field, leading to a sign error in a key relation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect arc angle",
+    "description": "Pitfall Criteria: The solution misidentifies the central angle of the magnetic arc (e.g., using 30° instead of 60° or 120°) for the travel time or radius relation.",
+    "weight": -2
+  }
+]

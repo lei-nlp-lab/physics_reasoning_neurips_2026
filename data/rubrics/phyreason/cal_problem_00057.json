@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: The final answer for part (1) must be 2 m, derived from the correct formula λ = vT.",
+    "weight": 5
+  },
+  {
+    "title": "Source distance calculation",
+    "description": "Essential: The final answer for part (2) must be 16 cm, derived from the correct relationship S = 4A.",
+    "weight": 5
+  },
+  {
+    "title": "Period extraction",
+    "description": "Important: The period T = 4 s must be correctly identified from the provided vibration graph.",
+    "weight": 3
+  },
+  {
+    "title": "Amplitude extraction",
+    "description": "Important: The amplitude A = 4 cm must be correctly identified from the provided vibration graph.",
+    "weight": 3
+  },
+  {
+    "title": "Wave speed application",
+    "description": "Important: The given wave speed v = 0.5 m/s must be correctly used in the wavelength formula.",
+    "weight": 3
+  },
+  {
+    "title": "Oscillator distance logic",
+    "description": "Important: The reasoning must correctly relate the 4-second interval to one full period of simple harmonic motion.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers should have correct and consistent units (meters for wavelength, centimeters for distance).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing wave and source motion",
+    "description": "Pitfall: Penalize if the student incorrectly calculates the wave's propagation distance instead of the source's vibrational travel distance.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect amplitude or period",
+    "description": "Pitfall: Penalize misreading the graph, leading to wrong amplitude or period values.",
+    "weight": -1
+  }
+]

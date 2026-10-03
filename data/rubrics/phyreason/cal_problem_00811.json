@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Period calculation",
+    "description": "Essential: Correctly calculates the period T using T = λ/v, obtaining 0.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Time to first crest",
+    "description": "Essential: Correctly calculates the time for the crest to first reach P using Δt = Δx/v, obtaining 1/15 s or 0.0667 s.",
+    "weight": 5
+  },
+  {
+    "title": "Wave propagation distance",
+    "description": "Important: Correctly calculates the distance the wave travels in 1.1 s (Δx = v * t = 6.6 m).",
+    "weight": 3
+  },
+  {
+    "title": "Phase analysis for direction",
+    "description": "Important: Determines the new phase/position of particle P after 1.1 s by analyzing the wave's propagation (e.g., 2 full wavelengths + 1.8 m).",
+    "weight": 4
+  },
+  {
+    "title": "Vibration direction determination",
+    "description": "Essential: Correctly states the vibration direction of P at t=1.1 s as positive y (upward).",
+    "weight": 5
+  },
+  {
+    "title": "Misidentifying particle motion",
+    "description": "Pitfall: Incorrectly assumes particle P travels with the wave speed or confuses transverse particle motion with wave propagation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: States the vibration direction at t=1.1 s as negative y (downward) or gives an incorrect sign for the time to first crest.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, cm) throughout calculations and conversions.",
+    "weight": 1
+  }
+]

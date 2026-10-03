@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct wavelength formula",
+    "description": "Essential Criteria: The response must correctly state the wavelength λ = (a d) / (2 L), derived from the fringe spacing Δx = a/2 and the double-slit formula Δx = (L λ)/d.",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum thickness formula",
+    "description": "Essential Criteria: The response must correctly state the minimum coating thickness d' = (a d) / (4 n L), derived from d' = λ' / 2 with λ' = λ / n.",
+    "weight": 5
+  },
+  {
+    "title": "Identifies fringe spacing",
+    "description": "Important Criteria: The response must correctly interpret the interference pattern to determine the fringe spacing Δx from the given distance 'a' (e.g., Δx = a/2).",
+    "weight": 4
+  },
+  {
+    "title": "Applies thin-film condition",
+    "description": "Important Criteria: The response must apply the condition for constructive interference (or minimum reflection) in a thin film, typically requiring an optical path difference of λ'/2 for a coating on a lens.",
+    "weight": 4
+  },
+  {
+    "title": "Accounts for refractive index",
+    "description": "Important Criteria: The response must correctly relate the wavelength in the coating material (λ') to the vacuum/air wavelength (λ) using λ' = λ / n.",
+    "weight": 3
+  },
+  {
+    "title": "Clear logical progression",
+    "description": "Optional Criteria: The solution shows a clear, step-by-step derivation connecting the double-slit measurement to the final coating thickness.",
+    "weight": 2
+  },
+  {
+    "title": "Misinterprets fringe spacing",
+    "description": "Pitfall Criteria: Penalize if the student misidentifies the fringe spacing (e.g., uses Δx = a instead of a/2).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong thin-film condition",
+    "description": "Pitfall Criteria: Penalize if the student uses the condition for destructive interference (e.g., 2nd' = λ'/2) or confuses the phase change condition for the coating.",
+    "weight": -2
+  }
+]

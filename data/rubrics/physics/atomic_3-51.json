@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must correctly identify that the answer is (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Wave Function",
+    "description": "Important Criteria: The student should demonstrate an understanding of how unpolarized electrons can be represented by a wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Knowledge of Polarization",
+    "description": "Important Criteria: The student should explain the concept of polarization in relation to electron spin states.",
+    "weight": 3
+  },
+  {
+    "title": "Clarification of Options",
+    "description": "Optional Criteria: The student may provide reasoning for why options (b) and (c) are incorrect.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconception",
+    "description": "Pitfall Criteria: The student should avoid stating that unpolarized electrons cannot be described by a wave function.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct values for a and b as specified in the problem.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Loss Equations",
+    "description": "Important Criteria: Derive the expressions for energy loss before and after the shell is added.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Relation",
+    "description": "Important Criteria: Correctly relate the temperatures of the black body and the shell using energy conservation.",
+    "weight": 4
+  },
+  {
+    "title": "Ratio Derivation",
+    "description": "Important Criteria: Derive the ratio of energy losses Q'/Q correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid mistakes in applying the Stefan-Boltzmann law or in algebraic manipulation.",
+    "weight": -2
+  },
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: Present the final expression for the cooling factor clearly and correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Coefficients",
+    "description": "Essential Criteria: Identify and state the numerical coefficients a and b accurately.",
+    "weight": 5
+  }
+]

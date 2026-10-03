@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final Lifetime",
+    "description": "Essential Criteria: The correct lifetime of the rho meson in the laboratory frame must be calculated and stated.",
+    "weight": 5
+  },
+  {
+    "title": "Final Decay Distance",
+    "description": "Essential Criteria: The mean decay distance for the rho meson must be accurately computed and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Threshold Energy",
+    "description": "Essential Criteria: The threshold energy for producing rho mesons must be correctly derived and reported.",
+    "weight": 5
+  },
+  {
+    "title": "Average Production",
+    "description": "Essential Criteria: The average number of rho mesons produced must be calculated correctly based on the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Opening Angle",
+    "description": "Essential Criteria: The minimum opening angle between the outgoing pions must be determined and stated correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Factor Calculation",
+    "description": "Important Criteria: The calculation of the Lorentz factor for the rho meson must be shown and correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The application of energy conservation principles in the threshold energy calculation must be demonstrated.",
+    "weight": 4
+  },
+  {
+    "title": "Density Usage",
+    "description": "Important Criteria: The use of the density of liquid hydrogen in the average production calculation must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in energy or momentum calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: All units must be consistent and correctly converted where necessary throughout the calculations.",
+    "weight": -2
+  }
+]

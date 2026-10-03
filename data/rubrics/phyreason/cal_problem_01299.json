@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Speed at break",
+    "description": "Essential: Correctly calculates the block's speed at the lowest point using projectile motion from the landing point.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum rope tension",
+    "description": "Essential: Correctly applies Newton's second law at the lowest point to find the tension from the speed and length.",
+    "weight": 5
+  },
+  {
+    "title": "Conveyor belt length",
+    "description": "Essential: Correctly determines the belt length using kinematics and the final fly-off speed from centripetal condition.",
+    "weight": 5
+  },
+  {
+    "title": "New rope length",
+    "description": "Essential: Correctly solves for the new rope length using projectile conditions and the constraint of landing at the left end.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile time analysis",
+    "description": "Important: Correctly uses vertical free-fall to find the time of flight for the initial or adjusted projectile motion.",
+    "weight": 4
+  },
+  {
+    "title": "Fly-off speed condition",
+    "description": "Important: Correctly applies centripetal force condition at the pulley to find the block's speed when leaving the belt.",
+    "weight": 4
+  },
+  {
+    "title": "Friction acceleration",
+    "description": "Important: Correctly identifies the acceleration on the belt as a = μg, using Newton's second law.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics on belt",
+    "description": "Important: Correctly applies the kinematic equation (v² = 2aL) to relate speed, acceleration, and belt length.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in force equations (e.g., centripetal force direction) or omits units in final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Energy misconception",
+    "description": "Pitfall: Incorrectly uses energy conservation for the vertical circle or the belt motion where it does not apply.",
+    "weight": -1
+  }
+]

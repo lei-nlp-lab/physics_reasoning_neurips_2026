@@ -1,0 +1,37 @@
+[
+  {
+    "title": "System acceleration calculation",
+    "description": "Essential: Student must correctly calculate the acceleration of the combined system using a = F/(m_A + m_B).",
+    "weight": 5
+  },
+  {
+    "title": "Correct force application",
+    "description": "Important: Student must apply Newton's second law to object B alone to find the contact force (F_N = m_B * a).",
+    "weight": 4
+  },
+  {
+    "title": "Final numerical answer",
+    "description": "Essential: Student must obtain the correct elastic force magnitude of 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Important: Student should correctly identify forces on each object, showing the contact force as the only horizontal force on B.",
+    "weight": 3
+  },
+  {
+    "title": "Units and direction",
+    "description": "Optional: Student includes proper units (N) and may specify the force direction between objects.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect system isolation",
+    "description": "Pitfall: Student incorrectly applies F = m_A * a to find contact force or confuses which mass to use.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or calculation error",
+    "description": "Pitfall: Student makes arithmetic mistakes in acceleration (16/8 = 2 m/s²) or final force (3×2 = 6 N).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer of 7.75 km must be clearly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The formula for angular resolution, theta = 1.22 * lambda / D, must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Calculation",
+    "description": "Important Criteria: The calculation of distance using the resolved angle must be shown correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units must be consistent throughout the calculations, particularly in converting wavelengths and distances.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Any sign mistakes in the calculations or incorrect application of the formula will lead to a deduction.",
+    "weight": -2
+  }
+]

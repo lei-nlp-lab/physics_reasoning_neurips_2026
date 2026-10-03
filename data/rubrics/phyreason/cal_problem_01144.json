@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Available power calculation",
+    "description": "Essential: The student must correctly compute the power available for additional lamps as the difference between delivered power (generator output minus line loss) and factory consumption.",
+    "weight": 5
+  },
+  {
+    "title": "Number of lamps",
+    "description": "Essential: The student must correctly calculate the number of additional light bulbs by dividing the available power by the rated power per bulb, yielding 2600.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important: The student must correctly determine the current in the high-voltage transmission line using the power loss formula I = sqrt(P_loss / R).",
+    "weight": 4
+  },
+  {
+    "title": "Step-up transformer ratio",
+    "description": "Important: The student must correctly apply the transformer current ratio relationship (inversely proportional to turns) using generator output current and transmission line current, yielding 1/10.",
+    "weight": 4
+  },
+  {
+    "title": "Step-down transformer ratio",
+    "description": "Important: The student must correctly compute the voltage at the step-down transformer input (accounting for line voltage drop) and apply the transformer voltage ratio to find the turns ratio, yielding 230/11.",
+    "weight": 4
+  },
+  {
+    "title": "Power conservation reasoning",
+    "description": "Optional: The student explicitly states or uses the principle of power conservation for ideal transformers (input power equals output power) in their reasoning.",
+    "weight": 2
+  },
+  {
+    "title": "Ignoring line loss in lamp power",
+    "description": "Pitfall: The student incorrectly uses the generator's output power directly (200 kW) instead of the delivered power (184 kW) when calculating available power for lamps.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect transformer ratio direction",
+    "description": "Pitfall: The student confuses the voltage/current ratio relationship for transformers, leading to an inverted turns ratio (e.g., 10/1 instead of 1/10).",
+    "weight": -1
+  }
+]

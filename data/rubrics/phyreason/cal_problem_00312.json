@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum speed on small arc",
+    "description": "Essential: Correctly applies centripetal force condition with maximum friction to find v = √(2.25gr) = 30 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed on large arc",
+    "description": "Essential: Correctly applies centripetal force condition with maximum friction to find v_m = √(2.25gR) = 45 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Straight section length",
+    "description": "Important: Uses geometry (Pythagorean theorem) to find straight track length x = √(L² - (R - r)²) = 50√3 m.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Important: Applies kinematics (v² = u² + 2as) correctly to find a = (v_m² - v²)/(2x) = 15√3/4 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Arc travel times",
+    "description": "Important: Calculates time on each curved section using arc length divided by constant speed, with correct central angles (120° and 240°).",
+    "weight": 3
+  },
+  {
+    "title": "Straight section time",
+    "description": "Important: Uses constant acceleration kinematics to find total straight section time as 2(v_m - v)/a.",
+    "weight": 3
+  },
+  {
+    "title": "Total lap time",
+    "description": "Essential: Sums all three time components correctly to obtain t_total = (32π + 24√3)/9 s.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect friction force",
+    "description": "Pitfall: Uses friction coefficient incorrectly (e.g., μ = 2.25 instead of f_max = 2.25mg) in centripetal force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry error",
+    "description": "Pitfall: Makes mistakes in determining central angles or straight section length from given track geometry.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and expresses final answers with correct units.",
+    "weight": 1
+  }
+]

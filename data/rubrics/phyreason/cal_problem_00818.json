@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave propagation direction",
+    "description": "Essential: The response must correctly state the wave is propagating in the positive x-direction.",
+    "weight": 5
+  },
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: The response must correctly calculate the wave speed as 1 m/s from the wavelength and period.",
+    "weight": 5
+  },
+  {
+    "title": "Q's vibration equation",
+    "description": "Essential: The response must provide the correct vibration equation for particle Q: y = 2 cos(πt/4 + π/3) cm.",
+    "weight": 5
+  },
+  {
+    "title": "Q's x-coordinate",
+    "description": "Essential: The response must correctly calculate the x-coordinate of particle Q at t=0 as 8 2/3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength and period extraction",
+    "description": "Important: The solution must correctly extract the wavelength (8 m) from the waveform graph and the period (8 s) from the vibration graph.",
+    "weight": 4
+  },
+  {
+    "title": "Initial phase determination",
+    "description": "Important: The solution must correctly determine the initial phase (π/3 rad) for particle Q using its displacement at t=0.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in phase",
+    "description": "Pitfall: Penalize if the student uses a negative sign for the initial phase (e.g., -π/3) incorrectly.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution maintains consistent units (m, s, m/s, cm for displacement) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Time to equilibrium logic",
+    "description": "Important: The solution correctly calculates the time for Q to reach equilibrium (2/3 s) from its initial phase and angular frequency.",
+    "weight": 3
+  }
+]

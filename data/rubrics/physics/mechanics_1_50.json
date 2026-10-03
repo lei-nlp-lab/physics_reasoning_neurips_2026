@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Effective Potential Sketch",
+    "description": "Essential Criteria: The student must accurately sketch the effective potential energy function V_eff(r) as a function of r, including the correct asymptotic behavior.",
+    "weight": 5
+  },
+  {
+    "title": "Max Potential Energy",
+    "description": "Essential Criteria: The student must derive the maximum value of the effective potential energy V_0 in terms of L and C, showing the correct relationship.",
+    "weight": 5
+  },
+  {
+    "title": "Cross Section Derivation",
+    "description": "Essential Criteria: The student must correctly derive the expression for the cross section sigma in terms of initial velocity v_0 and other relevant parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Derivatives",
+    "description": "Important Criteria: The student must correctly apply derivatives to find critical points of the effective potential energy function.",
+    "weight": 4
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Important Criteria: The student must provide a clear physical interpretation of the results, particularly regarding the implications of the energy conditions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check for consistency of units throughout the derivations and final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the potential energy formula.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios that could simplify the problem or provide additional insights.",
+    "weight": 1
+  }
+]

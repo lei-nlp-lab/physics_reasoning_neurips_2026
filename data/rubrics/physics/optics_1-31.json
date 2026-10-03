@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Object Distance",
+    "description": "Essential Criteria: The correct calculation of the object distance p_1 from the objective must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnifying Power",
+    "description": "Essential Criteria: The correct magnifying power m must be calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lens Equation",
+    "description": "Important Criteria: The application of the lens equation for both the objective and eyepiece must be shown clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Between Lenses",
+    "description": "Important Criteria: The correct use of the distance between the lenses in calculations must be demonstrated.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All distances and focal lengths must be expressed in consistent units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the lens equation will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Final Image Location",
+    "description": "Important Criteria: The correct identification of the final image location for the eyepiece must be included.",
+    "weight": 3
+  },
+  {
+    "title": "Magnifying Power Derivation",
+    "description": "Optional Criteria: A clear derivation of the magnifying power formula should be provided for full credit.",
+    "weight": 2
+  }
+]

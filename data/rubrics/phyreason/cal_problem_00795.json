@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential: The final answer for part (1) must be √3 or its decimal equivalent (approximately 1.732).",
+    "weight": 5
+  },
+  {
+    "title": "Correct propagation time",
+    "description": "Essential: The final answer for part (2) must be 5a/(2c) or its simplified equivalent (e.g., 2.5a/c).",
+    "weight": 5
+  },
+  {
+    "title": "Applies Snell's Law",
+    "description": "Important: The solution must correctly apply Snell's law (n = sin θ_i / sin θ_r) using the identified angles of incidence and refraction.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies key angles",
+    "description": "Important: The reasoning must correctly identify the angle of incidence (60°) and refraction (30°) at the internal point where the beam changes direction.",
+    "weight": 4
+  },
+  {
+    "title": "Calculates path length",
+    "description": "Important: The solution must correctly calculate the total path length (EF + CF) inside the prism using geometry, resulting in a length proportional to 'a'.",
+    "weight": 3
+  },
+  {
+    "title": "Relates speed and index",
+    "description": "Important: The solution must correctly relate the speed of light in the prism to the refractive index (v = c/n).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expression for time should have correct units (e.g., a/c) indicating dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Misidentifies angles",
+    "description": "Pitfall: Penalize if the student incorrectly identifies the angles for Snell's law (e.g., using 30° and 60° in the wrong positions).",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic or algebraic error",
+    "description": "Pitfall: Penalize for significant arithmetic mistakes in calculating the refractive index, path length, or final time, even if the setup is correct.",
+    "weight": -1
+  }
+]

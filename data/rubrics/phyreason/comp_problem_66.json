@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Critical Voltages Expression",
+    "description": "Essential: Correctly states V1 = sqrt(R1 α (Tc - T0)) and V2 = sqrt(R2 α (Tc - T0)).",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Ratio Derivation",
+    "description": "Essential: Correctly calculates the ratio (T_max - T0)/(T_min - T0) = R2^2 / R1^2.",
+    "weight": 5
+  },
+  {
+    "title": "Oscillation Period Calculation",
+    "description": "Essential: Derives and simplifies the period to approximately 0.68 L/R1 under given conditions V=sqrt(V1V2) and R2=16R1.",
+    "weight": 5
+  },
+  {
+    "title": "Power Balance Application",
+    "description": "Important: Applies thermal equilibrium condition V^2/R = α(T - T0) to find critical currents and temperatures.",
+    "weight": 4
+  },
+  {
+    "title": "Sketch and Qualitative Description",
+    "description": "Important: Provides a correct qualitative sketch of T(t) showing sawtooth-like oscillations between T_min and T_max.",
+    "weight": 3
+  },
+  {
+    "title": "LR Circuit Dynamics",
+    "description": "Important: Uses exponential current relaxation I(t) = V/R + (I_initial - V/R)exp(-Rt/L) for each resistance phase.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Transition Conditions",
+    "description": "Important: Identifies correct transition currents I1 = sqrt(α(Tc-T0)/R1) and I2 = sqrt(α(Tc-T0)/R2).",
+    "weight": 4
+  },
+  {
+    "title": "Sign or Unit Error",
+    "description": "Pitfall: Confuses R1 and R2 in formulas for V1/V2 or temperature ratio, or omits square roots.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic Simplification Error",
+    "description": "Pitfall: Makes errors in simplifying the period expression after substituting given numerical conditions.",
+    "weight": -1
+  }
+]

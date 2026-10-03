@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maxwell's Equations",
+    "description": "Essential Criteria: The student must correctly state Maxwell's equations applicable to the given medium.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Condition",
+    "description": "Important Criteria: The student must demonstrate the condition that must be satisfied, specifically showing that omega^2 > ne^2/(m epsilon_0).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for the magnetic field B in terms of E0, K, and omega.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength Calculation",
+    "description": "Important Criteria: The student should calculate the wavelength of the electromagnetic wave based on the derived expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the derivation of the magnetic field.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Forces",
+    "description": "Pitfall Criteria: The student should acknowledge the assumption of neglecting the magnetic force on electrons.",
+    "weight": -1
+  }
+]

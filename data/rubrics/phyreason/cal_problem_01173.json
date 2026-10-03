@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: Sliding determination",
+    "description": "Essential Criteria: The response must correctly calculate and compare the gravitational component down the incline and the maximum static friction to conclude the phone slides down.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Normal force with magnet",
+    "description": "Essential Criteria: The response must correctly calculate the normal force (7.2 N) when the magnetic force is applied, using the sum of the magnetic force and the perpendicular component of gravity.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Friction force with magnet",
+    "description": "Essential Criteria: The response must correctly state the static friction force (1.6 N) when the magnetic force is applied, equaling the gravitational component down the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Force decomposition",
+    "description": "Important Criteria: The response must correctly decompose the gravitational force into components parallel and perpendicular to the inclined plane.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Equilibrium condition",
+    "description": "Important Criteria: The response must apply the condition of static equilibrium (net force zero) along the incline for both parts of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Optional: Unit consistency check",
+    "description": "Optional Criteria: The response may demonstrate consistent use of SI units (kg, m/s², N) throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Incorrect normal force",
+    "description": "Pitfall Criteria: Penalize if the magnetic force is incorrectly subtracted or omitted in the normal force calculation for part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if force directions (e.g., friction direction, component signs) are incorrectly assigned, leading to wrong equilibrium equations.",
+    "weight": -1
+  }
+]

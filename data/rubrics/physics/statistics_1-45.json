@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Entropy Change",
+    "description": "Essential Criteria: The student must correctly express the total entropy change as Delta S = C_p (T_i/T_f - 1 + ln(T_f/T_i)).",
+    "weight": 5
+  },
+  {
+    "title": "Entropy of Body",
+    "description": "Important Criteria: The student should derive the change of entropy for the body as Delta S_1 = C_p ln(T_f/T_i).",
+    "weight": 4
+  },
+  {
+    "title": "Entropy of Reservoir",
+    "description": "Important Criteria: The student must calculate the change of entropy for the reservoir as Delta S_2 = C_p (T_i - T_f)/T_f.",
+    "weight": 4
+  },
+  {
+    "title": "Positive Entropy Proof",
+    "description": "Important Criteria: The student should demonstrate that the total entropy change is positive using the function f(x) = x - 1 - ln(x).",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the calculations of Delta S_2 and the total entropy change.",
+    "weight": -2
+  }
+]

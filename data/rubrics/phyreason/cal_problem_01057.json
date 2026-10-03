@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration magnitude",
+    "description": "Essential: The final numerical magnitude of the acceleration must be 300 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct sign/direction interpretation",
+    "description": "Essential: The answer must state the direction is opposite to the initial velocity or use a negative sign appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Correct application of formula",
+    "description": "Important: The student must use the average acceleration formula a = (v_final - v_initial) / time.",
+    "weight": 3
+  },
+  {
+    "title": "Correct velocity assignment",
+    "description": "Important: The student must correctly assign v_initial = +10 m/s (towards ground) and v_final = -20 m/s (opposite direction) or vice versa with consistent sign convention.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answer should have correct units of m/s².",
+    "weight": 1
+  },
+  {
+    "title": "Time interval used",
+    "description": "Important: The student must correctly use the given interaction time of 0.1 s in the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in subtraction",
+    "description": "Pitfall: Penalize if the student calculates (10 - (-20)) or similar, incorrectly handling the direction change, leading to a magnitude of 100 m/s².",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring direction for magnitude",
+    "description": "Pitfall: Penalize if the student states the acceleration as -300 m/s² without acknowledging the magnitude is 300 m/s², or gives only the magnitude without direction/sign context.",
+    "weight": -1
+  }
+]

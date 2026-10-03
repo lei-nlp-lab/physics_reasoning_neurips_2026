@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Z1 Expression",
+    "description": "Essential Criteria: The partition function Z1 must be correctly expressed as (1 + exp(-beta epsilon) + exp(-2 beta epsilon))^2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Z2 Expression",
+    "description": "Essential Criteria: The partition function Z2 must be correctly derived as Z1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Z3 Expression",
+    "description": "Essential Criteria: The partition function Z3 must be correctly expressed as (1 + exp(-beta epsilon) + exp(-2 beta epsilon)) * exp(-beta epsilon).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Z4 Expression",
+    "description": "Essential Criteria: The partition function Z4 must be correctly expressed as (1 + exp(-beta epsilon) + exp(-2 beta epsilon)) * (1 + exp(-2 beta epsilon)).",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the exponential terms of the partition functions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that no factors are omitted in the expressions for the partition functions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check that all terms are dimensionally consistent, particularly in the context of beta.",
+    "weight": 1
+  }
+]

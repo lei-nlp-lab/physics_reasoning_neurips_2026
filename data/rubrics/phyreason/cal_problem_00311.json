@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct free-fall time",
+    "description": "Essential: The solution must correctly state or use the time for vertical free fall over height h: t = sqrt(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Correct circular motion time",
+    "description": "Important: The solution must relate the horizontal motion to n complete circles, giving a time of t = n * 2πR / v0.",
+    "weight": 4
+  },
+  {
+    "title": "Final velocity v0",
+    "description": "Essential: The final expression for the entrance velocity must be derived by equating the two times, yielding v0 = n * 2πR * sqrt(g/(2h)) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force expression",
+    "description": "Important: The solution must identify that the normal force provides the centripetal force: N = m*v0^2 / R.",
+    "weight": 4
+  },
+  {
+    "title": "Final normal force N",
+    "description": "Essential: The final expression for the wall pressure must be derived by substituting the correct v0 into the centripetal force formula.",
+    "weight": 5
+  },
+  {
+    "title": "Misinterpreting n",
+    "description": "Pitfall: Penalize if the solution treats n as a variable other than the number of complete horizontal circles made during the fall.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring vertical independence",
+    "description": "Pitfall: Penalize if the solution incorrectly assumes the vertical motion affects the horizontal speed or centripetal force requirement.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution may demonstrate that the final expressions for v0 and N have correct physical dimensions (LT^-1 and MLT^-2 respectively).",
+    "weight": 1
+  }
+]

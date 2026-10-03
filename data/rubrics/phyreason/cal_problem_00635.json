@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct WG1 expression",
+    "description": "Essential Criteria: The answer must state WG1 = -mg(hB - hA) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct WG2 expression",
+    "description": "Essential Criteria: The answer must state WG2 = -mg(hB - hA) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Wf1 expression",
+    "description": "Essential Criteria: The answer must state Wf1 = -f(hB - hA) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Wf2 expression",
+    "description": "Essential Criteria: The answer must state Wf2 = -f(2hO - hA - hB) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Path independence of gravity",
+    "description": "Important Criteria: The explanation must note that gravity's work is the same for both paths.",
+    "weight": 3
+  },
+  {
+    "title": "Path dependence of air resistance",
+    "description": "Important Criteria: The explanation must note that air resistance's work differs between the two paths.",
+    "weight": 3
+  },
+  {
+    "title": "No potential energy for air resistance",
+    "description": "Important Criteria: The explanation must connect path dependence to the absence of a potential energy concept for air resistance.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if the sign (negative for upward displacement against force) is incorrect for any work calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect displacement for Wf2",
+    "description": "Pitfall Criteria: Penalize if the total displacement for air resistance in the round trip is not correctly summed (e.g., ignoring the return leg).",
+    "weight": -2
+  }
+]

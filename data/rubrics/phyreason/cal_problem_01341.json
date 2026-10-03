@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct height drop",
+    "description": "Essential: The response must correctly calculate the vertical drop from A to C as h = l - OD = l - (2/3)l = (1/3)l.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational potential energy change",
+    "description": "Essential: The response must state ΔE_p = -mgh = -(1/3)mgl, with correct sign indicating decrease.",
+    "weight": 5
+  },
+  {
+    "title": "Work done by gravity",
+    "description": "Essential: The response must calculate W_gravity = mgh = (1/3)mgl, with correct positive sign.",
+    "weight": 5
+  },
+  {
+    "title": "Relationship between work and ΔE_p",
+    "description": "Important: The response must correctly relate work done by gravity to potential energy change via ΔE_p = -W_gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent units and symbols",
+    "description": "Optional: The response uses consistent notation (m, g, l) and includes appropriate units (J) or dimensional analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in ΔE_p",
+    "description": "Pitfall: Penalize if the sign of ΔE_p is incorrect (e.g., stated as positive) or if the relationship ΔE_p = -W_gravity is misapplied.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect height calculation",
+    "description": "Pitfall: Penalize if the vertical drop is miscalculated (e.g., using OD directly as h, or misinterpreting geometry).",
+    "weight": -2
+  }
+]

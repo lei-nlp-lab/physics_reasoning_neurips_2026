@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Hamiltonian",
+    "description": "Essential Criteria: The final expression for the Hamiltonian must be correctly derived as H = sqrt((p - qA/c)^2 c^2 + m0^2 c^4).",
+    "weight": 5
+  },
+  {
+    "title": "Lagrangian Definition",
+    "description": "Important Criteria: The Lagrangian must be correctly defined as L = -m0 c^2 / gamma - qPhi + (q/c) v · A.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Expression",
+    "description": "Important Criteria: The canonical momentum must be correctly expressed as p_i = m0 gamma dot{x}_i + (qA_i/c).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Components",
+    "description": "Important Criteria: The velocity components must be correctly identified as v = (dot{x}_1, dot{x}_2, dot{x}_3).",
+    "weight": 3
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes when substituting expressions for momentum and velocity.",
+    "weight": -2
+  }
+]

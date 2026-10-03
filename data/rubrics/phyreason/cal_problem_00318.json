@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential Criteria: The response must provide the altitude h in the form h = (gR²/ω²)^(1/3) - R or an algebraically equivalent expression.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Newton's Gravitation Law",
+    "description": "Important Criteria: The solution must correctly state the gravitational force on the satellite as GMm/(R+h)².",
+    "weight": 4
+  },
+  {
+    "title": "Equates to centripetal force",
+    "description": "Important Criteria: The solution must set the gravitational force equal to the required centripetal force m(R+h)ω² for circular orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Uses surface gravity relation",
+    "description": "Important Criteria: The solution must eliminate the product GM by using the relation g = GM/R² from conditions at Earth's surface.",
+    "weight": 3
+  },
+  {
+    "title": "Correct algebraic manipulation",
+    "description": "Important Criteria: The steps to solve for h from the combined equation (gR²)/(R+h)² = (R+h)ω² must be logically sound.",
+    "weight": 3
+  },
+  {
+    "title": "Identifies geostationary condition",
+    "description": "Optional Criteria: The response may explicitly note that the satellite's orbital period matches Earth's rotational period, so angular velocity is ω.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or conceptual error",
+    "description": "Pitfall Criteria: Deduct points if the centripetal force formula is incorrectly written (e.g., using R instead of R+h) or if gravitational and centrifugal forces are misidentified.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or unit mistake",
+    "description": "Pitfall Criteria: Deduct points for significant algebraic errors in solving for h or for incorrectly handling the cube root.",
+    "weight": -1
+  }
+]

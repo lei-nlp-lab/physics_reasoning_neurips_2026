@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Current calculation",
+    "description": "Essential: Student correctly calculates current using I = q/t with given values.",
+    "weight": 5
+  },
+  {
+    "title": "Resistance calculation",
+    "description": "Essential: Student correctly calculates resistance using R = Q/(I²t) with given values.",
+    "weight": 5
+  },
+  {
+    "title": "Joule's law application",
+    "description": "Important: Student recognizes that heat generated Q relates to power via Q = I²Rt.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: Student maintains consistent units (C, s, A, J, Ω) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Student shows clear algebraic rearrangement from Q = I²Rt to R = Q/(I²t).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect current formula",
+    "description": "Pitfall: Student uses incorrect formula for current (e.g., I = t/q or I = Q/t).",
+    "weight": -2
+  },
+  {
+    "title": "Power vs. energy confusion",
+    "description": "Pitfall: Student confuses heat energy Q with power P, using P = I²R instead of Q = I²Rt.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Student omits units in final answers or reports incorrect units (e.g., Ω as V/A without calculation).",
+    "weight": -1
+  }
+]

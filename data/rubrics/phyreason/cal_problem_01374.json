@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Moon density expression",
+    "description": "Essential: Correct final expression for the Moon's density in terms of given variables: ρ = 3πr³/(GT²R³).",
+    "weight": 5
+  },
+  {
+    "title": "Travel time expression",
+    "description": "Essential: Correct final expression for the travel time from A to B in terms of given variables: t = ((R+r)/(4r))√((R+r)/(2r)) T.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Kepler's third law",
+    "description": "Important: Correctly applies Kepler's third law to relate the period of the elliptical orbit to its semi-major axis and the known circular orbit parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Identify semi-major axis",
+    "description": "Important: Correctly identifies the semi-major axis of the elliptical orbit (a = (R+r)/2) from the geometry of points A, O, and B.",
+    "weight": 4
+  },
+  {
+    "title": "Relate mass to orbit",
+    "description": "Important: Derives the mass of the Moon (M) from the circular orbit parameters using Newton's law of gravitation and centripetal force.",
+    "weight": 3
+  },
+  {
+    "title": "Time as half period",
+    "description": "Optional: Recognizes that the travel time from A to B is half the period of the full elliptical orbit.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Demonstrates or implies dimensional/unit consistency in the final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect geometric axis",
+    "description": "Pitfall: Misidentifies the semi-major axis (e.g., using r or R alone, or (R+r) without the 1/2 factor).",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied Kepler's law",
+    "description": "Pitfall: Incorrectly applies Kepler's third law (e.g., using r³/T² = R³/t² or mixing up circular and elliptical orbit parameters).",
+    "weight": -2
+  }
+]

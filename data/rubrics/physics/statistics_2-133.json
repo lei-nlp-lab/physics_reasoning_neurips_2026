@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Partition Function",
+    "description": "Essential Criteria: The student must correctly express the partition function z for the system.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Essential Criteria: The student must derive the correct expression for the entropy sigma.",
+    "weight": 5
+  },
+  {
+    "title": "Average Energy",
+    "description": "Essential Criteria: The student must provide the correct formula for the average energy U.",
+    "weight": 5
+  },
+  {
+    "title": "Average Magnetic Moment",
+    "description": "Essential Criteria: The student must calculate the average magnetic moment M correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Moment Fluctuation",
+    "description": "Essential Criteria: The student must derive the correct expression for the fluctuation in the magnetic moment Delta M.",
+    "weight": 5
+  },
+  {
+    "title": "Thermal Equilibrium Analysis",
+    "description": "Important Criteria: The student must explain the implications of the change in magnetic field on the system's temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The student should ensure that all quantities are expressed with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the expressions for energy and magnetic moment.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit factors such as k or N in their final answers.",
+    "weight": -2
+  }
+]

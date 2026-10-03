@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final temperature answer",
+    "description": "Essential: Must state the final ambient temperature as T = (4/3)T₀ or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Final pressure answer",
+    "description": "Essential: Must state the final gas pressure as 2p or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Gas law application",
+    "description": "Important: Must apply Gay-Lussac's law (isobaric process) correctly to relate temperature and volume changes during heating.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure equilibrium setup",
+    "description": "Important: Must recognize that gas pressure equals atmospheric pressure plus mercury column pressure, and account for the doubling of mercury height.",
+    "weight": 4
+  },
+  {
+    "title": "Isothermal process reasoning",
+    "description": "Important: Must apply Boyle's law (isothermal process) correctly to relate pressure and volume changes during mercury injection.",
+    "weight": 4
+  },
+  {
+    "title": "Volume relationships",
+    "description": "Optional: Explicitly states that volumes are proportional to column lengths (V = S·h) and uses the given 3h/4 relationship.",
+    "weight": 2
+  },
+  {
+    "title": "Process identification",
+    "description": "Optional: Clearly identifies the two distinct processes: isothermal compression then isobaric expansion.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Incorrectly adds or subtracts mercury pressure relative to atmospheric pressure (e.g., p - p' instead of p + p').",
+    "weight": -2
+  },
+  {
+    "title": "Volume ratio inversion",
+    "description": "Pitfall: Inverts the volume ratio when applying gas laws (e.g., uses V₁/V₂ instead of V₂/V₁ for temperature calculation).",
+    "weight": -2
+  }
+]

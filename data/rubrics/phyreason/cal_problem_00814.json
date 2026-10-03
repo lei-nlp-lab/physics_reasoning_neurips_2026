@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Initial vibration direction",
+    "description": "Essential Criteria: The student must correctly identify that particle P begins vibrating downward when the wave reaches it.",
+    "weight": 5
+  },
+  {
+    "title": "Second crest arrival time",
+    "description": "Essential Criteria: The student must calculate and provide the correct numerical answer of 1.9 seconds for when P reaches the wave crest for the second time.",
+    "weight": 5
+  },
+  {
+    "title": "Wave propagation understanding",
+    "description": "Important Criteria: The student should demonstrate understanding that particles begin vibrating in the same direction as the adjacent particle that first disturbed them.",
+    "weight": 3
+  },
+  {
+    "title": "Crest position calculation",
+    "description": "Important Criteria: The student must correctly determine the distance the second crest travels to reach P, accounting for the initial wave position at Q.",
+    "weight": 4
+  },
+  {
+    "title": "Time-distance-speed relation",
+    "description": "Important Criteria: The student should apply the formula t = s/v correctly to find the time for the crest to travel the calculated distance.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units (meters and seconds) throughout their calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect vibration direction",
+    "description": "Pitfall Criteria: The student incorrectly states the initial vibration direction as upward or horizontal.",
+    "weight": -2
+  },
+  {
+    "title": "First crest confusion",
+    "description": "Pitfall Criteria: The student calculates the time for the first crest to reach P instead of the second crest.",
+    "weight": -2
+  }
+]

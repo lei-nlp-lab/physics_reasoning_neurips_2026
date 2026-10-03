@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct initial velocity",
+    "description": "Essential Criteria: The final answer for part (1) must be v₀ = √(3qU/m).",
+    "weight": 5
+  },
+  {
+    "title": "Correct magnetic field",
+    "description": "Essential Criteria: The final answer for part (2) must be B₀ = (2/d)√(Um/(3q)).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important Criteria: The solution must correctly apply kinematics (d = ½at²) to the vertical motion between the plates, relating acceleration to the electric field (a = qE/m).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry at exit",
+    "description": "Important Criteria: The solution must use the given geometry (60° baffle, distance l_KN) to determine the exit angle (30° to horizontal) or the vertical velocity component (v_y = v₀/√3).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion",
+    "description": "Important Criteria: The solution must apply the Lorentz force as centripetal force (qvB = mv²/r) for the motion between the baffles.",
+    "weight": 4
+  },
+  {
+    "title": "Radius from geometry",
+    "description": "Important Criteria: The solution must deduce the radius of the circular arc in the magnetic field (r = √3 d) from the condition of hitting NP vertically and the 60° geometry.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at point K",
+    "description": "Optional Criteria: The solution may calculate the speed at the hole K (v = 2√(qU/m)) as an intermediate step.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the direction of acceleration, force, or deflection is incorrect for a positive charge, or if the magnetic field direction is mishandled.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics mix-up",
+    "description": "Pitfall Criteria: Penalize misuse of kinematic equations (e.g., using v = at instead of d = ½at² for vertical motion starting from rest).",
+    "weight": -1
+  }
+]

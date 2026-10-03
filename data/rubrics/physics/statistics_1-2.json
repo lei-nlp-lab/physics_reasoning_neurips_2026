@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide accurate final answers for each instrument's temperature range and advantages.",
+    "weight": 5
+  },
+  {
+    "title": "Principle Explanation",
+    "description": "Important Criteria: Clearly explain the principle behind each thermometer's operation.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Range",
+    "description": "Important Criteria: State the correct temperature range for each thermometer accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Advantages Listed",
+    "description": "Important Criteria: Mention one significant advantage for each thermometer.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid misrepresenting the temperature ranges or advantages of the instruments.",
+    "weight": -2
+  }
+]

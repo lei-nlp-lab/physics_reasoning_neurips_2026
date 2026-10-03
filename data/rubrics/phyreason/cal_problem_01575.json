@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Orbital period expression",
+    "description": "Essential: The final answer for part (1) must be the correct formula: T = 2π √(r³/(GM)).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance value",
+    "description": "Essential: The final answer for part (2) must be the correct numerical multiple of r: 5r.",
+    "weight": 5
+  },
+  {
+    "title": "Applying Kepler's Third Law",
+    "description": "Important: The solution must correctly apply the law (r³/T² = constant) to relate the periods and radii of satellites P and Q.",
+    "weight": 4
+  },
+  {
+    "title": "Correct radius for Q",
+    "description": "Important: From Kepler's Law and T_Q = 8T_P, the student must correctly derive the orbital radius r_Q = 4r.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric configuration for max distance",
+    "description": "Important: The student must recognize that the maximum separation occurs when the satellites are on opposite sides of the Earth along a straight line.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance derivation",
+    "description": "Optional: The solution may show the derivation of the period from equating gravitational force to centripetal force.",
+    "weight": 2
+  },
+  {
+    "title": "Algebraic or sign error",
+    "description": "Pitfall: Penalize incorrect manipulation of Kepler's Law (e.g., r_Q = 2r or 8r) or the distance sum (e.g., 3r or 4r).",
+    "weight": -2
+  },
+  {
+    "title": "Missing or incorrect units",
+    "description": "Pitfall: Penalize if the period answer is given without the 2π factor or if distance is given with incorrect units or dimensions.",
+    "weight": -1
+  }
+]

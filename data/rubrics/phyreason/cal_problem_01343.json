@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: Final distance",
+    "description": "Essential Criteria: The student must provide the correct total minimum distance of 128 m.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Braking distance",
+    "description": "Important Criteria: The student must correctly calculate the braking distance using work-energy or kinematics, resulting in v_m²/g.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Reaction distance",
+    "description": "Important Criteria: The student must correctly identify and add the 17 m reaction distance traveled at constant speed v_m.",
+    "weight": 3
+  },
+  {
+    "title": "Important: Work-energy application",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem, equating the work done by the resistance force to the change in kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Force analysis",
+    "description": "Optional Criteria: The student may explicitly state that the deceleration during braking is 0.5g = 5 m/s².",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Sign error",
+    "description": "Pitfall Criteria: Deduct points if the work done by the resistance force is given a positive sign in the work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Unit omission",
+    "description": "Pitfall Criteria: Deduct points if the final answer is given without the correct unit (m).",
+    "weight": -1
+  },
+  {
+    "title": "Pitfall: Missing reaction",
+    "description": "Pitfall Criteria: Deduct points if the student only calculates the braking distance and omits the 17 m reaction distance.",
+    "weight": -2
+  }
+]

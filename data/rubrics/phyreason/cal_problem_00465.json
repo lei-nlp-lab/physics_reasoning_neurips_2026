@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates the total electric field at midpoint O as E = 24kQ/r².",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Essential: Correctly identifies the net electric field direction as from sphere A to sphere B.",
+    "weight": 4
+  },
+  {
+    "title": "Superposition principle",
+    "description": "Important: Applies vector superposition of electric fields from both point charges at the midpoint.",
+    "weight": 3
+  },
+  {
+    "title": "Charge redistribution",
+    "description": "Important: Correctly determines that after contact, charges equalize to -2Q on each sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Force ratio calculation",
+    "description": "Essential: Correctly computes the force ratio F₁/F₂ = 4/5 after contact.",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb's law application",
+    "description": "Important: Uses Coulomb's law correctly for both pre- and post-contact force calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in fields",
+    "description": "Pitfall: Adds electric field magnitudes instead of considering their opposite directions at midpoint.",
+    "weight": -2
+  },
+  {
+    "title": "Charge conservation",
+    "description": "Important: Applies charge conservation during contact (total charge = -4Q).",
+    "weight": 3
+  },
+  {
+    "title": "Distance oversight",
+    "description": "Pitfall: Uses incorrect distance (r instead of r/2) for electric field calculations at midpoint.",
+    "weight": -1
+  }
+]

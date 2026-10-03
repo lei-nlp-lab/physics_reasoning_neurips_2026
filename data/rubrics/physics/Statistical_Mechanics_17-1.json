@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Height Equation",
+    "description": "Essential Criteria: The student must provide the correct final equation for height h in terms of tau, m, g, and r.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Numerical Value",
+    "description": "Essential Criteria: The student must calculate and present the approximate numerical value of h as 1.5 km.",
+    "weight": 5
+  },
+  {
+    "title": "Chemical Potential Understanding",
+    "description": "Important Criteria: The student should demonstrate understanding of the relationship between internal and external chemical potentials.",
+    "weight": 4
+  },
+  {
+    "title": "Logarithmic Manipulation",
+    "description": "Important Criteria: The student must correctly manipulate logarithmic expressions to derive the final height equation.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Relative Humidity Application",
+    "description": "Optional Criteria: The student should correctly apply the concept of relative humidity in the context of the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations related to chemical potentials.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors, such as the mass of water or gravitational acceleration.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the heat capacity c_v in part (a).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for the heat capacity c in part (b).",
+    "weight": 5
+  },
+  {
+    "title": "Mean Energy Calculation",
+    "description": "Important Criteria: The student should correctly derive the mean energy per atom as bar(epsilon) = Delta tanh(Delta/kT).",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity Derivation",
+    "description": "Important Criteria: The student must show the correct differentiation of mean energy to find the specific heat c_v.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Behavior Analysis",
+    "description": "Important Criteria: The student should analyze the behavior of c_i when kT << Delta_i correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Optional Criteria: The student should set up the integral for the specific heat correctly in part (b).",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the expressions for energy levels.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that no factors are omitted in the final expressions for heat capacity.",
+    "weight": -2
+  }
+]

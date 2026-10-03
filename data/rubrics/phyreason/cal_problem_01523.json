@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Accelerating voltage",
+    "description": "Essential: Correctly states that the accelerating voltage is derived from the work-energy theorem, giving U_0 = mv_0^2/(2q).",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U_ac",
+    "description": "Essential: Correctly calculates the potential difference between points a and c as U_ac = 2mv_0^2/q.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly determines the uniform electric field strength from the given kinetic energy condition, yielding E = mv_0^2/(qL).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in field",
+    "description": "Important: Applies kinematics correctly to relate the time of flight across length L to the acceleration in the perpendicular direction.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Uses the work-energy theorem to relate the work done by the electric field to the change in kinetic energy for part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity components analysis",
+    "description": "Optional: Correctly resolves the exit velocity into components when the kinetic energy is m v_0^2, showing v_x = v_y = v_0.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of the electric field or the sign of the potential difference U_ac.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect energy relation",
+    "description": "Pitfall: Misapplies the work-energy theorem, e.g., equating qU_0 to something other than (1/2)mv_0^2 or making an error in the kinetic energy change for part (3).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Specific charge expression",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly derived and expressed as q/m = 4U/(d²B²).",
+    "weight": 5
+  },
+  {
+    "title": "Total time expression",
+    "description": "Essential Criteria: The final answer for part (2) must be correctly derived and expressed as t = (π/8 + √3/12) * (d²B/U).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity from acceleration",
+    "description": "Important Criteria: The solution must correctly apply the work-energy theorem to find the initial velocity v₀ = √(2qU/m).",
+    "weight": 4
+  },
+  {
+    "title": "Trajectory radius geometry",
+    "description": "Important Criteria: The solution must correctly relate the geometric distance d to the radius r of the circular motion, establishing r = (√2/2)d.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force as centripetal",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion, equating qvB to mv²/r.",
+    "weight": 3
+  },
+  {
+    "title": "Path segmentation and times",
+    "description": "Important Criteria: The solution must correctly calculate the time in the magnetic field (quarter-circle arc) and the time from exit to the x-axis (straight line).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The final expressions for specific charge and time should have dimensionally correct units (C/kg and s, respectively).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the solution incorrectly assigns the direction of the magnetic force, leading to an erroneous curvature of the path.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the 30° angle or the distance d is misinterpreted, leading to an incorrect radius or straight-line distance S₂.",
+    "weight": -2
+  }
+]

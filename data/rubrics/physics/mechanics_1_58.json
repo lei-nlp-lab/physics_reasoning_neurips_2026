@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: Provide the correct final answer for the radius R of the asteroid.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Important Criteria: Correctly set up the energy balance equation for jumping on the asteroid.",
+    "weight": 4
+  },
+  {
+    "title": "Density Relation",
+    "description": "Important Criteria: Use the relationship between the mass and radius of the asteroid and Earth correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Gravity Calculation",
+    "description": "Important Criteria: Accurately apply the formula for gravitational acceleration in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as sign errors or incorrect factors in equations.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Justification",
+    "description": "Optional Criteria: Justify the assumptions made regarding energy expenditure and density.",
+    "weight": 1
+  }
+]

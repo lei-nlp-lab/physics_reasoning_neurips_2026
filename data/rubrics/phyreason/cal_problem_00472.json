@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer E1",
+    "description": "Essential Criteria: The student must state or derive that E1 = mg/q.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final answer E2",
+    "description": "Essential Criteria: The student must state or derive that E2 = mg/q.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for E1",
+    "description": "Important Criteria: The student must correctly set up the force balance for the vertical field case, equating the upward electric force qE1 to the downward gravitational force mg.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance for E2",
+    "description": "Important Criteria: The student must correctly resolve forces for the horizontal field case, relating the horizontal electric force qE2 to the component of gravity along the incline via the tangent of the angle.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram use",
+    "description": "Optional Criteria: The student may include a clear free-body diagram showing all forces (gravity, normal, electric) for each scenario.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student may demonstrate that the final expressions have correct units (N/C for electric field).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall Criteria: The student incorrectly assigns the direction of the electric force relative to the charge and field, leading to an incorrect equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall Criteria: For the horizontal field case (E2), the student incorrectly resolves the gravitational force component parallel to the incline or misapplies the tangent relationship.",
+    "weight": -2
+  }
+]

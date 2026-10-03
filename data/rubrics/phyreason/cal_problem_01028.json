@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Volume change B→C",
+    "description": "Essential: Correctly calculates the volume change from state B to state C as ΔV = V_C - V_B = 2V_0/3.",
+    "weight": 5
+  },
+  {
+    "title": "Heat exchanged B→C→A",
+    "description": "Essential: Correctly identifies the net heat exchanged during the process B→C→A as Q = 2p_0V_0.",
+    "weight": 5
+  },
+  {
+    "title": "First law application",
+    "description": "Important: Applies the first law of thermodynamics (ΔU = Q + W) correctly to the process B→C→A, noting ΔU=0 for the cycle.",
+    "weight": 4
+  },
+  {
+    "title": "Process identification",
+    "description": "Important: Identifies processes B→C (isobaric) and C→A (isochoric) from the p-T diagram and uses corresponding gas laws.",
+    "weight": 3
+  },
+  {
+    "title": "Work calculation",
+    "description": "Important: Correctly calculates work done on/by the gas during the isobaric process B→C (W_BC = -pΔV = -2p_0V_0).",
+    "weight": 3
+  },
+  {
+    "title": "State property analysis",
+    "description": "Optional: Explicitly determines volumes at B (V_0/3) and C (V_0) using gas laws and given diagram information.",
+    "weight": 2
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: Uses incorrect sign convention for work (e.g., positive for work done on gas when calculating heat via first law).",
+    "weight": -2
+  },
+  {
+    "title": "Cyclic process oversight",
+    "description": "Pitfall: Fails to recognize that ΔU=0 for the complete cycle A→B→C→A, leading to an incorrect heat calculation.",
+    "weight": -1
+  }
+]

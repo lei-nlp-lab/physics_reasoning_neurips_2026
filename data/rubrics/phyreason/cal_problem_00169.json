@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final force",
+    "description": "Essential Criteria: The student's answer for part (1) must be F = Bkl/(3R).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final work",
+    "description": "Essential Criteria: The student's answer for part (2) must be W = (1/2)mv² - (2/3)kq.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit analysis for current",
+    "description": "Important Criteria: The student must correctly combine the coil and rod resistances to find the total circuit current when S is closed.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force equilibrium",
+    "description": "Important Criteria: The student must apply F = BIl to rod PQ and set it equal to the applied force for equilibrium in part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The student must apply the work-energy theorem, relating the work done by the applied force, the Ampere force, and the kinetic energy change in part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Relating charge to motion",
+    "description": "Important Criteria: The student must link the given charge q to the induced EMF and the displacement of rod PQ using Faraday's law and I = q/Δt.",
+    "weight": 3
+  },
+  {
+    "title": "Induced EMF from coil",
+    "description": "Important Criteria: The student must identify the EMF in the coil as k (the given flux change rate) for part (1).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: The student incorrectly assigns a positive sign to the work done by the Ampere force (it is negative/opposes motion).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect current division",
+    "description": "Pitfall Criteria: The student fails to recognize that the current from the coil splits equally between the two parallel rods MN and PQ when S is closed.",
+    "weight": -2
+  }
+]

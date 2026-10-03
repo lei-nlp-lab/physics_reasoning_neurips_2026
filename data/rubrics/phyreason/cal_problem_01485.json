@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly states or derives v_C = 5 m/s using centripetal force condition at point C (mg = mv_C^2/R).",
+    "weight": 5
+  },
+  {
+    "title": "Force at B",
+    "description": "Essential: Correctly calculates the supporting force at point B as 6.0 N (or equivalent expression).",
+    "weight": 5
+  },
+  {
+    "title": "Height H",
+    "description": "Essential: Correctly determines the vertical height H from O to A as 3.36 m (or equivalent expression).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies conservation of mechanical energy correctly between relevant points (e.g., A to B or A to C).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity decomposition at A",
+    "description": "Important: Correctly resolves the velocity at point A into components using the given 53° angle.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for vertical motion",
+    "description": "Important: Uses appropriate kinematics (v_y^2 = 2gH) to find H from the vertical velocity component at A.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry interpretation",
+    "description": "Optional: Correctly interprets the circular arc geometry (127° removed, 53° from vertical at A).",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, kg, s, N) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error in force",
+    "description": "Pitfall: Uses incorrect sign in force balance at B (e.g., forgetting that both weight and centripetal force contribute to normal force).",
+    "weight": -2
+  },
+  {
+    "title": "Energy conservation misapplication",
+    "description": "Pitfall: Incorrectly applies energy conservation (e.g., missing potential energy terms or using wrong height differences).",
+    "weight": -2
+  }
+]

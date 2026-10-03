@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct linear velocity",
+    "description": "Essential: The final answer for part (1) must be v₀ = √(GM / r₀).",
+    "weight": 5
+  },
+  {
+    "title": "Zero pressure justification",
+    "description": "Important: The reasoning for part (2) must correctly apply Newton's second law to the astronaut in orbit, showing the net force is zero.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: For part (3), the solution must set up the work-energy theorem: W_engine + W_gravity = ΔKE.",
+    "weight": 4
+  },
+  {
+    "title": "Gravitational work calculation",
+    "description": "Important: The work done by gravity, W_gravity, must be correctly calculated as GMm₀(1/r₀ - 1/r₁).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at reduced radius",
+    "description": "Important: The kinetic energy at radius r₁ must be derived from Newton's law and centripetal force: v₁ = √(GM / r₁).",
+    "weight": 3
+  },
+  {
+    "title": "Final work expression",
+    "description": "Essential: The final answer for part (3) must be W_min = (GMm₀/2)(1/r₁ - 1/r₀).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the sign of the gravitational work or the final engine work is reversed, indicating a misunderstanding of energy increase.",
+    "weight": -2
+  },
+  {
+    "title": "Orbital force misconception",
+    "description": "Pitfall: Penalize if part (2) incorrectly claims a non-zero normal force, confusing orbital free-fall with a supporting force.",
+    "weight": -1
+  }
+]

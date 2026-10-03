@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Commutator Result",
+    "description": "Essential Criteria: The student must correctly show that [J_x^2, J_y^2] = [J_y^2, J_z^2] = [J_z^2, J_x^2].",
+    "weight": 5
+  },
+  {
+    "title": "Commutator Vanishing for j=0 and j=1/2",
+    "description": "Essential Criteria: The student must demonstrate that the commutators vanish for states where j = 0 or j = 1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenbasis for j=1",
+    "description": "Important Criteria: The student must find and state the common eigenbasis of J_x^2, J_y^2, and J_z^2 for j = 1.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Application of Commutators",
+    "description": "Important Criteria: The student must correctly apply the properties of commutators and the angular momentum algebra.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect assumptions about the symmetry of the operators or miscalculating the commutators.",
+    "weight": -2
+  }
+]

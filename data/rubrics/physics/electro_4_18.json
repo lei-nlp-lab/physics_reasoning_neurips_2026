@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Expressions for Waves",
+    "description": "Essential Criteria: Provide correct expressions for the right and left circularly polarized plane waves.",
+    "weight": 5
+  },
+  {
+    "title": "Rotation Angle Derivation",
+    "description": "Important Criteria: Derive the angle of rotation of the plane of polarization as a function of distance into the medium.",
+    "weight": 5
+  },
+  {
+    "title": "Refractive Indices",
+    "description": "Essential Criteria: Determine the indices of refraction for circularly polarized waves in the plasma.",
+    "weight": 5
+  },
+  {
+    "title": "High Frequency Definition",
+    "description": "Important Criteria: Clearly specify what is meant by high frequencies in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes or incorrect assumptions about the indices of refraction.",
+    "weight": -2
+  }
+]

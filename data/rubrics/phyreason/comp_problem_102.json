@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Radiation pressure expression",
+    "description": "Essential: Correctly derives P = L⊙/(4πR²c) from intensity and radiation pressure relationship.",
+    "weight": 5
+  },
+  {
+    "title": "Force ratio derivation",
+    "description": "Important: Correctly computes F_radiation/F_gravity ratio with proper mass substitution and simplification.",
+    "weight": 4
+  },
+  {
+    "title": "Orbital velocity formula",
+    "description": "Essential: States v = √(GM⊙/R) from centripetal-gravitational force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Torque from aberration",
+    "description": "Important: Derives τ = -R·F_tan with F_tan proportional to v/c from radiation aberration.",
+    "weight": 3
+  },
+  {
+    "title": "Differential equation setup",
+    "description": "Important: Connects τ = dL/dt to dR/dt using quasi-circular orbit assumption and angular momentum expression.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical time calculation",
+    "description": "Essential: Computes final removal time ≈ 2×10¹⁴ s with correct unit conversion and substitution.",
+    "weight": 5
+  },
+  {
+    "title": "Missing factor Q",
+    "description": "Pitfall: Omits quality factor Q in radiation pressure, force ratio, or torque expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in torque",
+    "description": "Pitfall: Fails to include negative sign indicating torque reduces angular momentum.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency in derived expressions, especially in differential equation.",
+    "weight": 2
+  },
+  {
+    "title": "Aberration justification",
+    "description": "Optional: Explains why v ≪ c allows small-angle approximation for tangential force component.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Period from graph",
+    "description": "Essential: Student correctly extracts the period T = 0.4π s from the F-t graph in Figure 2.",
+    "weight": 5
+  },
+  {
+    "title": "Pendulum length calculation",
+    "description": "Essential: Student correctly calculates the pendulum length L = 0.4 m using T = 2π√(L/g).",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis at extremes",
+    "description": "Important: Student identifies that minimum tension F_min occurs at highest points (A/C) and equals mgcosθ.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Student applies conservation of mechanical energy between highest and lowest points: mgL(1-cosθ) = ½mv².",
+    "weight": 4
+  },
+  {
+    "title": "Mass determination",
+    "description": "Essential: Student correctly solves for mass m = 0.05 kg using F_min and energy relations.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed calculation",
+    "description": "Essential: Student correctly calculates maximum speed v_max = 0.283 m/s at lowest point B.",
+    "weight": 5
+  },
+  {
+    "title": "Small-angle approximation",
+    "description": "Optional: Student notes that θ < 5° justifies simple harmonic motion assumptions.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in tension",
+    "description": "Pitfall: Student incorrectly writes tension formula at highest point as mg(1-cosθ) or mgsinθ.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Student uses inconsistent units (e.g., cm instead of m) or omits units in final answers.",
+    "weight": -1
+  }
+]

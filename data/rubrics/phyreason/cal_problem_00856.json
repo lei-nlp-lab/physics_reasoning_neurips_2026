@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Post-collision velocities",
+    "description": "Essential: Student must state correct final velocities for P and Q: v_P = 3mg/(5qB) and v_Q = 8mg/(5qB), both to the right.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation laws application",
+    "description": "Important: Student must apply both momentum and kinetic energy conservation for the elastic collision between masses M=4m and m.",
+    "weight": 4
+  },
+  {
+    "title": "P's horizontal range",
+    "description": "Essential: Student must compute the horizontal distance x = v_P * sqrt(2h/g) = (3mg/(5qB)) * sqrt(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Q's motion decomposition",
+    "description": "Important: Student must decompose Q's velocity into a uniform horizontal component (v_0) and a circular motion component (3v_0/5) due to the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Q's maximum height",
+    "description": "Essential: Student must find the maximum height H = h + 2R, where R = m*(3v_0/5)/(qB) = (3m^2 g)/(5q^2 B^2).",
+    "weight": 5
+  },
+  {
+    "title": "Q's velocity at max height",
+    "description": "Essential: Student must state that at maximum height, Q's velocity equals its uniform horizontal component: v = v_0 = mg/(qB).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force as centripetal",
+    "description": "Important: Student must equate magnetic force qv_perp B to centripetal force m v_perp^2 / R to find the radius of circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Penalize if student assigns wrong direction to post-collision velocities or misinterprets the magnetic force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student performs dimensional analysis to verify expressions for velocity, distance, and height have correct units.",
+    "weight": 1
+  }
+]

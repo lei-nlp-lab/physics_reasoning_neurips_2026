@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: The response must correctly calculate the Ampere force as 0.30 N using F = BIL.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force magnitude",
+    "description": "Essential: The response must correctly calculate the friction force for part (1) as 0.06 N from the equilibrium condition.",
+    "weight": 5
+  },
+  {
+    "title": "Gravity component analysis",
+    "description": "Important: The solution must correctly resolve the gravitational force into components along and perpendicular to the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: For part (1), the student must set up the correct force balance equation along the incline (Ampere force vs. gravity component and friction).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field direction change",
+    "description": "Important: For part (2), the solution must correctly analyze the new Ampere force direction and set up equilibrium for a frictionless condition.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum field condition",
+    "description": "Important: For part (3), the solution must recognize that the minimum B occurs when the magnetic force directly opposes the component of gravity down the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Final B2 and B3 values",
+    "description": "Essential: The response must provide the correct final answers for B2 (0.5 T) and B3 (0.4 T).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if force directions (friction, Ampere force, gravity) are assigned incorrectly in the equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall: Penalize if final answers lack correct units (N, T) or have incorrect unit conversions.",
+    "weight": -1
+  }
+]

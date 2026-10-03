@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Probability Expression",
+    "description": "Essential Criteria: The final probability expression for P(1s to 2p) must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Hamiltonian",
+    "description": "Important Criteria: The perturbation Hamiltonian must be correctly identified as H' = ezE(t).",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Elements",
+    "description": "Important Criteria: The student must correctly identify the non-vanishing matrix elements between states of opposite parity.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The integral involving the wave functions must be correctly evaluated, including limits and factors.",
+    "weight": 4
+  },
+  {
+    "title": "Transition Rules",
+    "description": "Important Criteria: The student must apply the selection rules for transitions correctly, noting which states contribute.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Behavior",
+    "description": "Optional Criteria: The student may discuss the limiting behavior of the probability as parameters change.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Pitfall Criteria: The final answer must be presented in a clear and correct format, avoiding typographical errors.",
+    "weight": -1
+  }
+]

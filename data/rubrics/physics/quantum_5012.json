@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Matrix Elements for y^3",
+    "description": "Essential Criteria - Correctly identify and calculate the non-vanishing matrix elements of y^3 connecting to the ground state |0⟩.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Dipole Matrix Element",
+    "description": "Important Criteria - Properly apply the given dipole matrix element formula in the calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Correction Calculation",
+    "description": "Essential Criteria - Correctly derive the expression for the second order energy correction ΔE.",
+    "weight": 5
+  },
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria - Provide the correct final expression for the energy correction in terms of α.",
+    "weight": 5
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria - Avoid common errors in signs or missing factors in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity of Steps",
+    "description": "Optional Criteria - Clearly present each step of the derivation and calculations for better understanding.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria - Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  }
+]

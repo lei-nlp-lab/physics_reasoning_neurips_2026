@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Resistance force correct",
+    "description": "Essential: The answer for part (1) is correctly given as f = P/v.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration at v/4 correct",
+    "description": "Essential: The answer for part (2) is correctly given as a = 3P/(mv).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration time correct",
+    "description": "Essential: The answer for part (3) is correctly given as t = mv²/(2P).",
+    "weight": 5
+  },
+  {
+    "title": "Power-force-speed relation",
+    "description": "Important: Correctly applies the formula P = Fv to find traction force at different speeds.",
+    "weight": 4
+  },
+  {
+    "title": "Net force from Newton's law",
+    "description": "Important: Uses Newton's second law (F_net = ma) by finding the difference between traction and resistance forces.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum speed condition",
+    "description": "Important: Identifies that at maximum speed v, net force is zero so traction force equals resistance force.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for constant acceleration",
+    "description": "Optional: Correctly applies kinematic equations (v = a t) for the uniformly accelerated segment in part (3).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Incorrectly adds traction and resistance forces instead of subtracting to find net force.",
+    "weight": -2
+  },
+  {
+    "title": "Power formula misapplication",
+    "description": "Pitfall: Uses P = Fv with an incorrect force (e.g., net force) or incorrect speed for the given condition.",
+    "weight": -2
+  }
+]

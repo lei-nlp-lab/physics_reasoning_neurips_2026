@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force at D",
+    "description": "Essential: Correctly calculates the normal force at point D using centripetal force equation N = m*v^2/R - mg, yielding 0.3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at point B",
+    "description": "Essential: Correctly applies work-energy theorem from B to D, accounting for friction on BC and gravity on CD, to find v_B = sqrt(v_D^2 + 2μgl + 4gR) = 2√3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Condition for reaching D",
+    "description": "Important: Identifies the critical condition at D for just reaching it: mg = m*v_D1^2/R, leading to v_D1 = sqrt(gR).",
+    "weight": 4
+  },
+  {
+    "title": "Condition for landing on BC",
+    "description": "Important: Uses projectile motion from D to determine the horizontal velocity v_D2 needed to land on BC: l = v_D2 * t, with t = sqrt(4R/g).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy from A to D",
+    "description": "Important: Applies work-energy theorem from A to D correctly: change in kinetic energy equals work done by electric field minus work by friction and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference range",
+    "description": "Essential: Solves the inequalities from the two conditions to obtain the final range for U_AB: -320 V < U_AB < 160 V.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigns sign to work done by electric force (qU_AB) or friction/gravity, leading to wrong inequality direction.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force direction",
+    "description": "Pitfall: Uses wrong sign in normal force equation at D (e.g., N = mg + mv^2/R) or misapplies the condition for just reaching D.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Ensures all quantities are in SI units before substitution and includes correct units in final answers.",
+    "weight": 1
+  }
+]

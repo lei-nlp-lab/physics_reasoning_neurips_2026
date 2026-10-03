@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Equations of Motion",
+    "description": "Essential Criteria: The student must provide the correct equations of motion for the system.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of Momentum",
+    "description": "Important Criteria: The student should correctly identify and express the conservation of linear momentum for the center of mass.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic Energy Expression",
+    "description": "Important Criteria: The student must derive the correct expression for the total kinetic energy of the system.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Energy Expression",
+    "description": "Important Criteria: The student should correctly express the potential energy due to the springs.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the equations of motion.",
+    "weight": -2
+  }
+]

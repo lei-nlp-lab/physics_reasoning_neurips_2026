@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Physical Processes Explanation",
+    "description": "Essential Criteria: The response must clearly explain the physical significance of the terms A ∇²ρ and B ρ, including why A and B are positive.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Length Derivation",
+    "description": "Essential Criteria: The student must derive the critical length L_0 correctly in terms of A and B, showing the relationship between neutron density and cube dimensions.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The response should correctly state and apply the boundary conditions for the neutron density at the surfaces of the cube.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Steps",
+    "description": "Important Criteria: The student must show clear mathematical steps in separating variables and solving the differential equation.",
+    "weight": 4
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Essential Criteria: The final expression for L_0 must be presented clearly and correctly, including any necessary constants or factors.",
+    "weight": 5
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as sign mistakes in the derivation or incorrect factors in the final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms in the equations are dimensionally consistent and provide units where applicable.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The response may include alternative methods or reasoning to arrive at the same conclusion regarding L_0.",
+    "weight": 2
+  }
+]

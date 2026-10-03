@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct t1 value",
+    "description": "Essential Criteria: Student must state t1 ≈ 67°C (or 340 K) as the temperature where boiling begins at the interface.",
+    "weight": 5
+  },
+  {
+    "title": "Correct t2 value",
+    "description": "Essential Criteria: Student must state t2 ≈ 100°C (or 373 K) as the boiling point of pure B under p0.",
+    "weight": 5
+  },
+  {
+    "title": "Boiling point of A",
+    "description": "Essential Criteria: Student must calculate and state the boiling point of pure A under p0 as approximately 76.8°C (or 350 K).",
+    "weight": 4
+  },
+  {
+    "title": "Determines constants α, β",
+    "description": "Important Criteria: Student must solve for constants α_i and β_i from the given vapor pressure data at two temperatures.",
+    "weight": 4
+  },
+  {
+    "title": "Applies pressure sum condition",
+    "description": "Important Criteria: Student must apply the condition p_A + p_B = p0 at t1 to find the interface boiling temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Uses mass ratio in vapor",
+    "description": "Important Criteria: Student must relate the partial pressure ratio to the mass evaporation rate using the molar mass ratio γ.",
+    "weight": 3
+  },
+  {
+    "title": "Considers mass conservation",
+    "description": "Optional Criteria: Student may calculate the remaining mass of B after A evaporates to justify the temperature plateau t2.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in α/β",
+    "description": "Pitfall Criteria: Penalize if the boiling point formula T_b = -α/β is used with incorrect sign for α or β.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses Celsius and Kelvin",
+    "description": "Pitfall Criteria: Penalize if temperature conversions between T in Kelvin and t in Celsius are incorrect or omitted.",
+    "weight": -1
+  },
+  {
+    "title": "Ignores non-volatile liquid C",
+    "description": "Pitfall Criteria: Penalize if the student fails to note that liquid C prevents evaporation from B's surface, making the initial evaporation only from the A-B interface.",
+    "weight": -1
+  }
+]

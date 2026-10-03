@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for angular separation must be correctly stated as 2\".",
+    "weight": 5
+  },
+  {
+    "title": "Resolving Power Equation",
+    "description": "Important Criteria: The equation for angular resolving power, Delta theta = 1.22 * (lambda / D), must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength Conversion",
+    "description": "Important Criteria: The wavelength must be correctly converted from angstroms to centimeters.",
+    "weight": 3
+  },
+  {
+    "title": "Comparison of Resolutions",
+    "description": "Important Criteria: The comparison between the telescope's resolving power and the eye's resolving power must be correctly made.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Failing to correctly apply the factor of 1.22 in the resolving power equation is a common error.",
+    "weight": -2
+  },
+  {
+    "title": "Significant Figures",
+    "description": "Optional Criteria: The final answer should reflect appropriate significant figures based on the given data.",
+    "weight": 1
+  }
+]

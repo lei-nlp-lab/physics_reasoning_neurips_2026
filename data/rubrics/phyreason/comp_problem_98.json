@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final speed",
+    "description": "Essential Criteria: The student's answer must give the final speed as u = v(sinθ - μ cosθ) or an equivalent expression.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum application",
+    "description": "Important Criteria: The solution must apply the impulse-momentum theorem separately to the normal and tangential directions.",
+    "weight": 4
+  },
+  {
+    "title": "Normal impulse calculation",
+    "description": "Important Criteria: The student must correctly calculate the normal impulse as p_n = m v cosθ from the change in normal momentum.",
+    "weight": 3
+  },
+  {
+    "title": "Friction impulse relation",
+    "description": "Important Criteria: The student must relate the friction impulse to the normal impulse via kinetic friction: p_f = μ p_n.",
+    "weight": 3
+  },
+  {
+    "title": "Tangential momentum balance",
+    "description": "Important Criteria: The solution must set the initial tangential momentum minus the friction impulse equal to the final tangential momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Penalize if the friction impulse is incorrectly added to, rather than subtracted from, the initial tangential momentum.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric component error",
+    "description": "Pitfall Criteria: Penalize if sinθ and cosθ are swapped when resolving the initial velocity components onto the ramp.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The final expression for speed should have correct units (m/s), which can be verified dimensionally.",
+    "weight": 1
+  }
+]

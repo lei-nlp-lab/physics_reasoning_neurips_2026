@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria - The student must correctly derive and present the final answer for part (a) as S Omega A.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria - The student must correctly derive and present the final answer for part (b) as Omega A.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (c)",
+    "description": "Essential Criteria - The student must correctly explain the conclusion for part (c) as S' <= S.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning (a)",
+    "description": "Important Criteria - The student should demonstrate understanding of how the effective area and solid angle relate to the energy entering the telescope.",
+    "weight": 4
+  },
+  {
+    "title": "Key Reasoning (b)",
+    "description": "Important Criteria - The student should show the relationship between the image area and the solid angle subtended by the lens.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - The student must avoid errors in calculating the solid angle or the area of the lens.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria - The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria - The student could discuss limiting cases or assumptions made in the derivation.",
+    "weight": 2
+  }
+]

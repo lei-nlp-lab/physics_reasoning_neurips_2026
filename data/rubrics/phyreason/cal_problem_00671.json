@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Normal operating current",
+    "description": "Essential: Correctly calculates the current from rated power and voltage, yielding 0.3 A.",
+    "weight": 5
+  },
+  {
+    "title": "Mechanical power derivation",
+    "description": "Important: Applies Joule's law to find resistive heating and subtracts it from rated power to find mechanical output.",
+    "weight": 4
+  },
+  {
+    "title": "Stall current calculation",
+    "description": "Essential: Correctly applies Ohm's law when the fan stalls, using total resistance to find 110 A.",
+    "weight": 5
+  },
+  {
+    "title": "Stall power calculation",
+    "description": "Important: Calculates the actual power consumed during a stall using the formula for a pure resistor.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains correct units (A, W, Ω, V) throughout all calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing power types",
+    "description": "Pitfall: Mistakenly uses rated power as the mechanical power or misidentifies the power relationship in normal operation.",
+    "weight": -2
+  },
+  {
+    "title": "Ohmic stall error",
+    "description": "Pitfall: Uses the normal operating current instead of Ohm's law to find the stall current.",
+    "weight": -2
+  }
+]

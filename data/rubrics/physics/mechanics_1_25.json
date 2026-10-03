@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Accelerations",
+    "description": "Essential Criteria: The correct expressions for the accelerations of m1 and m2 must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Tension",
+    "description": "Essential Criteria: The correct expression for the tension in the string must be included.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Friction Coefficient",
+    "description": "Essential Criteria: The correct expression for the minimum coefficient of friction must be derived.",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: The equations of motion for m1 and m2 must be correctly set up and solved.",
+    "weight": 4
+  },
+  {
+    "title": "Force Analysis",
+    "description": "Important Criteria: A clear analysis of the forces acting on the inclined plane must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the equations of motion or force analysis must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios should be discussed.",
+    "weight": 2
+  }
+]

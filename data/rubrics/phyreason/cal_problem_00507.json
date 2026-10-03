@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly derived and expressed as E = √3 mg / (3q).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed tension",
+    "description": "Essential: The final answer for part (2) must be correctly derived and expressed as F = 2(√3 - 1)mg.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The solution must apply the work-energy theorem correctly, equating the net work done by the electric and gravitational forces to the change in kinetic energy from A to B.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at max speed",
+    "description": "Important: For part (2), the solution must identify that maximum speed occurs at the equilibrium position (where net tangential force is zero) and apply Newton's second law in the radial direction.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric consistency",
+    "description": "Important: The solution must correctly use the given angle (θ=60°) and related angles (e.g., 30°) in the expressions for work and force components.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram logic",
+    "description": "Optional: The solution may include a clear free-body diagram or equivalent verbal description of the forces (tension, gravity, electric) acting on the ball.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigning the sign (positive/negative work) for the gravitational or electric force when applying the work-energy theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Equilibrium misinterpretation",
+    "description": "Pitfall: Mistaking the highest point B for the position of maximum speed, or incorrectly calculating the angle for the equilibrium position.",
+    "weight": -2
+  }
+]

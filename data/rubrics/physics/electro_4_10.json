@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maxwell's Equations",
+    "description": "Essential Criteria: Correctly write down Maxwell's equations in a non-conducting medium.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Equation Derivation",
+    "description": "Important Criteria: Show the derivation of the wave equations for E and B fields.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Velocity",
+    "description": "Essential Criteria: Provide the correct expression for the wave velocity v.",
+    "weight": 5
+  },
+  {
+    "title": "Plane Wave Solutions",
+    "description": "Essential Criteria: Write down the plane wave solutions for E and B fields.",
+    "weight": 5
+  },
+  {
+    "title": "Field Relationship",
+    "description": "Important Criteria: Explain how E and B fields are related.",
+    "weight": 3
+  },
+  {
+    "title": "Reflection and Refraction",
+    "description": "Important Criteria: Discuss the reflection and refraction of electromagnetic waves at an interface.",
+    "weight": 4
+  },
+  {
+    "title": "Angle Relationships",
+    "description": "Essential Criteria: Derive the relationships between angles of incidence, reflection, and refraction.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors in writing Maxwell's equations or deriving wave equations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that units are consistent throughout the derivations.",
+    "weight": 1
+  }
+]

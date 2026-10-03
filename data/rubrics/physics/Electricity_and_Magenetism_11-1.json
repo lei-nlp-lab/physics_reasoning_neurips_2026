@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Input Current Expression",
+    "description": "Essential Criteria - The student must provide the correct expression for the intensity of the input current to the antenna.",
+    "weight": 5
+  },
+  {
+    "title": "Power Relation",
+    "description": "Important Criteria - The student should correctly relate the average power to the current and resistance using P = I^2 R.",
+    "weight": 4
+  },
+  {
+    "title": "Impedance Derivation",
+    "description": "Essential Criteria - The student must derive the expression for the real part of the antenna impedance correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Calculation",
+    "description": "Essential Criteria - The student must compute the numerical value for the impedance using the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - The student should ensure that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - The student must avoid common errors such as sign mistakes or incorrect factors in the equations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Internal Energy",
+    "description": "Essential Criteria: The total change in internal energy must be correctly identified as zero.",
+    "weight": 5
+  },
+  {
+    "title": "Total Work Done",
+    "description": "Essential Criteria: The total work done by the nitrogen must be calculated correctly as 17.4 kJ.",
+    "weight": 5
+  },
+  {
+    "title": "Total Heat Supplied",
+    "description": "Essential Criteria: The total heat supplied must be correctly identified as equal to the work done, 17.4 kJ.",
+    "weight": 5
+  },
+  {
+    "title": "Final Volume",
+    "description": "Essential Criteria: The final volume must be correctly calculated as 0.226 m^3.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Change Cars",
+    "description": "Important Criteria: The change in entropy for the cars must be calculated correctly as 2.02 kJ/K.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Change System",
+    "description": "Important Criteria: The total change in entropy for the insulated Al cup and water must be calculated correctly as 2.24 J/K.",
+    "weight": 4
+  },
+  {
+    "title": "P-V Diagram",
+    "description": "Optional Criteria: A correct P-V diagram illustrating the process must be provided.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Common unit mistakes, such as failing to convert temperatures to Kelvin or using incorrect units for energy, must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in calculations, particularly in work and heat, must be avoided.",
+    "weight": -2
+  }
+]

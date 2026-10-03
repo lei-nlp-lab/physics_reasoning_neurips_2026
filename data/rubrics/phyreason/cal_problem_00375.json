@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential Criteria: Student must calculate μ = 0.015 using work-energy theorem for stone A's motion from A to O.",
+    "weight": 5
+  },
+  {
+    "title": "Stone B's pre-collision speed",
+    "description": "Important Criteria: Student must compute stone B's speed at point O (5 m/s) using work-energy with correct μ.",
+    "weight": 4
+  },
+  {
+    "title": "Collision momentum conservation",
+    "description": "Important Criteria: Student must apply momentum conservation m v_A' + M v_B' = M v_B (with v_A initial = 0).",
+    "weight": 4
+  },
+  {
+    "title": "Collision energy conservation",
+    "description": "Important Criteria: Student must apply kinetic energy conservation (elastic collision) to set up second equation.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision distances",
+    "description": "Important Criteria: Student must compute stopping distances for both stones after collision using work-energy theorem.",
+    "weight": 3
+  },
+  {
+    "title": "Win condition analysis",
+    "description": "Essential Criteria: Student must compare stone A's stopping distance to outer circle radius and stone B's to inner circle, concluding Team B wins.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall Criteria: Penalize sign mistakes in work-energy equations or velocity directions in momentum conservation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Check that all calculations maintain consistent units (m, s, kg) without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Algebraic solution method",
+    "description": "Optional Criteria: Award for clean algebraic solution of elastic collision equations rather than numerical guesswork.",
+    "weight": 1
+  }
+]

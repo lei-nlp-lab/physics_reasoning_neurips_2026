@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Accelerations during first 2s",
+    "description": "Essential: Student must state both accelerations with correct magnitudes (8 m/s² for block, 2 m/s² for plank) and directions (block down incline, plank up incline).",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis for accelerations",
+    "description": "Important: Student must apply Newton's second law correctly to both block and plank, considering all friction forces and the applied force F.",
+    "weight": 4
+  },
+  {
+    "title": "Velocities at t=2s",
+    "description": "Important: Student must calculate that both block and plank have speed 4 m/s at t=2s using kinematics with correct accelerations.",
+    "weight": 3
+  },
+  {
+    "title": "Relative displacement calculation",
+    "description": "Essential: Student must compute the total relative displacement (Δx₁ + Δx₂ = 20.3 m) as the minimum board length.",
+    "weight": 5
+  },
+  {
+    "title": "Post-force removal analysis",
+    "description": "Important: Student must analyze accelerations after force removal and determine when relative motion stops.",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction confusion",
+    "description": "Pitfall: Student incorrectly assigns direction of friction between block and plank (should oppose relative motion).",
+    "weight": -2
+  },
+  {
+    "title": "Sign errors in kinematics",
+    "description": "Pitfall: Student uses wrong signs for velocities/accelerations when calculating relative displacements.",
+    "weight": -1
+  },
+  {
+    "title": "System approach check",
+    "description": "Optional: Student verifies accelerations by considering the whole system or checking maximum static friction limits.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates the magnetic field strength using the Lorentz force and centripetal force relation, yielding B = √3 mv/(2aq).",
+    "weight": 5
+  },
+  {
+    "title": "Time in field",
+    "description": "Essential: Correctly calculates the time spent in the magnetic field, yielding t = (4√3 π a)/(9v).",
+    "weight": 5
+  },
+  {
+    "title": "Radius determination",
+    "description": "Important: Uses the given geometry (projection from (a,0) at 60°, exit perpendicular to y-axis) to correctly determine the radius of the circular path.",
+    "weight": 4
+  },
+  {
+    "title": "Angle subtended",
+    "description": "Important: Correctly identifies the angular displacement of the particle along its circular arc as 120° (or 2π/3 rad).",
+    "weight": 4
+  },
+  {
+    "title": "Period calculation",
+    "description": "Important: Correctly calculates the full period of circular motion T = 2πR/v.",
+    "weight": 3
+  },
+  {
+    "title": "Time fraction method",
+    "description": "Optional: Explicitly states that the time in the field is a fraction of the period: t = (θ/2π)T.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect radius geometry",
+    "description": "Pitfall: Misinterprets the exit condition or starting geometry, leading to an incorrect radius (e.g., using R = a or R = a/cos60°).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong angular displacement",
+    "description": "Pitfall: Uses an incorrect central angle (e.g., 60°, 90°, or 30°) to calculate the time.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in the force direction or omits/incorrectly handles units in the final expressions.",
+    "weight": -1
+  }
+]

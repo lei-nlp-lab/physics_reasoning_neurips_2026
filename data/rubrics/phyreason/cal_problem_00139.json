@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial velocity calculation",
+    "description": "Essential: Correctly applies energy conservation between hole S and point O to derive v_s = sqrt(v_0^2 - (4eEd)/m).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field range derivation",
+    "description": "Essential: Correctly determines the range for B_0 as 0 ≤ B_0 ≤ (m v_0)/(3e L).",
+    "weight": 5
+  },
+  {
+    "title": "Thrust force magnitude",
+    "description": "Essential: Correctly calculates the z-component of thrust force as (3/5)n m v_0, with correct sign/direction.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion analysis",
+    "description": "Important: Applies Lorentz force law to relate magnetic field, velocity, and trajectory radius in the cube.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric exit condition",
+    "description": "Important: Uses geometry of the cube (side L) and circular trajectory to find critical exit conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum transfer reasoning",
+    "description": "Important: Applies momentum/impulse principle or Newton's third law to relate ion flux to thrust force.",
+    "weight": 3
+  },
+  {
+    "title": "Time-scale assumption use",
+    "description": "Optional: Mentions or uses the assumption that transit time ≪ magnetic field period T.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect sign for thrust direction (should be negative z) or misinterprets force on thruster vs. on ions.",
+    "weight": -2
+  },
+  {
+    "title": "Magnetic field misinterpretation",
+    "description": "Pitfall: Treats B_x and B_y as constant or misapplies their periodic nature in the force calculation.",
+    "weight": -1
+  }
+]

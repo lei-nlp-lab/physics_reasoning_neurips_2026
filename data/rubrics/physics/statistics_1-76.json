@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for c_p - c_v as R/M.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Explanation",
+    "description": "Important Criteria: The student explains why c_p is greater than c_v, mentioning the work done during expansion at constant pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Important Criteria: The student includes key steps in deriving the relationship between c_p and c_v, such as using Maxwell's relation.",
+    "weight": 4
+  },
+  {
+    "title": "Ideal Gas Application",
+    "description": "Essential Criteria: The student correctly applies the ideal gas assumptions to derive c_p - c_v = R/M.",
+    "weight": 5
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that the units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student makes a sign mistake or omits factors in the derivation of c_p - c_v.",
+    "weight": -2
+  },
+  {
+    "title": "Thermal Expansion and Compression",
+    "description": "Optional Criteria: The student discusses the coefficients of thermal expansion and compression in relation to the specific heats.",
+    "weight": 2
+  }
+]

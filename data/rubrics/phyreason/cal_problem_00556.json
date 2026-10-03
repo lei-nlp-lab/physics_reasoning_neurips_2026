@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric force magnitude",
+    "description": "Essential: The response must state the magnitude of the electric force as Eq.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force direction",
+    "description": "Essential: The response must state the direction of the electric force is to the right, parallel to the field.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic force magnitude",
+    "description": "Essential: The response must state the magnitude of the Lorentz force as Bqv.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic force direction",
+    "description": "Important: The response must correctly apply a rule (e.g., left-hand rule) to determine the force direction as perpendicular and inward.",
+    "weight": 4
+  },
+  {
+    "title": "Force-law identification",
+    "description": "Important: The solution should correctly identify the relevant force laws (F_electric = qE, F_magnetic = qvB) for each part.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity-field geometry",
+    "description": "Important: For the magnetic force, the solution should note the velocity and field are perpendicular, giving maximum force magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Direction reasoning",
+    "description": "Optional: The response may include a brief justification for the magnetic force direction using a specific hand rule.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing force formulas",
+    "description": "Pitfall: Penalize if the student uses F = qvB for the electric field or F = qE for the magnetic field.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect direction rule",
+    "description": "Pitfall: Penalize if the student uses the right-hand rule for the positive charge's magnetic force direction.",
+    "weight": -1
+  }
+]

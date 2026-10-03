@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Difference",
+    "description": "Essential Criteria: The student must provide the correct final energy difference of 1.11 x 10^-2 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student should correctly use the rotational energy level formula E_J = (hbar^2 / 2I) J(J + 1).",
+    "weight": 4
+  },
+  {
+    "title": "Moment of Inertia",
+    "description": "Important Criteria: The student must derive the moment of inertia I correctly using I = mu * r^2.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Calculation",
+    "description": "Important Criteria: The student should accurately calculate the reduced mass mu for the HD molecule.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy difference calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the moment of inertia or energy difference calculations.",
+    "weight": -1
+  }
+]

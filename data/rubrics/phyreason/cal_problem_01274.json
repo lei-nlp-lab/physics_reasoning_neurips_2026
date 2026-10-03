@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Horizontal displacement BC",
+    "description": "Essential: Correctly calculates the horizontal displacement BC using projectile motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point E",
+    "description": "Essential: Correctly determines the block's speed at point E using energy or dynamics, accounting for friction.",
+    "weight": 5
+  },
+  {
+    "title": "Conveyor belt speed condition",
+    "description": "Essential: States the correct inequality for the conveyor belt's clockwise speed to deliver the block to F.",
+    "weight": 5
+  },
+  {
+    "title": "Time range E to F",
+    "description": "Essential: Provides the correct time interval for the block to travel from E to F.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: Applies kinematic equations correctly for the projectile phase to find time of flight.",
+    "weight": 3
+  },
+  {
+    "title": "Force analysis at E",
+    "description": "Important: Correctly calculates the normal force at E using the given friction force and coefficient.",
+    "weight": 4
+  },
+  {
+    "title": "Conveyor belt dynamics",
+    "description": "Important: Distinguishes and applies Newton's second law for both acceleration cases (block speed relative to belt).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic phases on EF",
+    "description": "Important: Breaks the motion on the incline into correct accelerated/decelerated or uniform segments.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses incorrect sign for friction force relative to motion on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout calculations.",
+    "weight": 1
+  }
+]

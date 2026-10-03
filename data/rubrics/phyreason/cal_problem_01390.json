@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Correct flight time",
+    "description": "Essential: The student's final answer for the time in the air must be 0.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The student's final answer for the speed upon impact must be 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct impact angle",
+    "description": "Essential: The student's final answer for the direction must be an angle of 53° relative to the horizontal.",
+    "weight": 5
+  },
+  {
+    "title": "Correct gravitational power",
+    "description": "Essential: The student's final answer for the power of gravity must be 40 W.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal motion analysis",
+    "description": "Important: The solution must correctly apply uniform motion to relate horizontal distance, initial velocity, and flight time.",
+    "weight": 3
+  },
+  {
+    "title": "Vertical motion analysis",
+    "description": "Important: The solution must correctly apply kinematics for free-fall to find the vertical velocity component.",
+    "weight": 3
+  },
+  {
+    "title": "Vector composition of velocity",
+    "description": "Important: The solution must correctly use the Pythagorean theorem to find the magnitude of the final velocity from its components.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometry for direction",
+    "description": "Important: The solution must correctly use a trigonometric function (e.g., tangent) to find the impact angle.",
+    "weight": 3
+  },
+  {
+    "title": "Power formula application",
+    "description": "Important: The solution must correctly apply the formula for instantaneous power (P = F * v * cosθ) for gravity, recognizing the force is vertical.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect time calculation",
+    "description": "Pitfall: Penalize if the student incorrectly calculates flight time (e.g., uses t = x/v0 but with wrong arithmetic, yielding 0.3 s).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the student makes a sign error in vector components or omits/incorrectly uses units in final answers.",
+    "weight": -1
+  }
+]

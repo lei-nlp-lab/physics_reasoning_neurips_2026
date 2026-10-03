@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy for (a)",
+    "description": "Essential Criteria: The student must provide the correct threshold energy of 46 GeV for the colliding beam facility.",
+    "weight": 5
+  },
+  {
+    "title": "Final Energy for (b)",
+    "description": "Essential Criteria: The student must calculate the required energy of the e+ beam as approximately 8.30 x 10^6 GeV for the fixed target facility.",
+    "weight": 5
+  },
+  {
+    "title": "Energy of Z^0",
+    "description": "Important Criteria: The student should derive the energy of the Z^0 in the laboratory frame as E_{e^+}.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity of Z^0",
+    "description": "Important Criteria: The student must express the velocity of the Z^0 as (1 - (2m_e^2/M_Z^2))c.",
+    "weight": 4
+  },
+  {
+    "title": "Max Energy of Muons",
+    "description": "Important Criteria: The student should determine the maximum energy of the decay muons as E_{e^+}.",
+    "weight": 4
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of conservation laws or miscalculating the invariant mass.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all energies are expressed in consistent units, particularly GeV.",
+    "weight": -1
+  }
+]

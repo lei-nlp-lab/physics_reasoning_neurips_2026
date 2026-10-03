@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Capacitor charge polarity",
+    "description": "Essential: Correctly identifies plate M as positively charged using the right-hand rule on the rotating rod system.",
+    "weight": 5
+  },
+  {
+    "title": "Final capacitor charge",
+    "description": "Essential: Calculates the fully charged capacitor charge Q = 0.54 C using the induced EMF and capacitance.",
+    "weight": 5
+  },
+  {
+    "title": "EMF from rotating rods",
+    "description": "Important: Applies Faraday's law to find the induced EMF in the rotating rod system as (1/2)*B1*ω*r².",
+    "weight": 4
+  },
+  {
+    "title": "Discharged charge calculation",
+    "description": "Important: Correctly calculates ΔQ = 0.16 C by linking capacitor discharge to rod ejection via impulse-momentum theorem and energy conservation.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision motion analysis",
+    "description": "Important: Applies conservation of momentum for the inelastic collision and conservation of energy for the rise on the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Frame deceleration in field",
+    "description": "Important: Uses the impulse-momentum theorem with magnetic force to find the deceleration distance Δx of the frame in the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum distance x",
+    "description": "Essential: Correctly computes the final maximum distance x = 0.14 m by adding the deceleration distance to the initial uniform motion distance.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in EMF polarity",
+    "description": "Pitfall: Incorrectly assigns the positive plate (N instead of M) due to misapplying the right-hand rule or Faraday's law sign convention.",
+    "weight": -2
+  },
+  {
+    "title": "Omitting collision inelasticity",
+    "description": "Pitfall: Treats the rod-frame collision as elastic or fails to use conservation of momentum with combined mass.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to use consistent SI units (e.g., meters, seconds, teslas) leading to incorrect numerical answers.",
+    "weight": -1
+  }
+]

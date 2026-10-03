@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Conveyor belt length",
+    "description": "Essential: Correctly calculates L₁ = v₀²/(2a₁) using the given acceleration a₁ and obtains 3.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Wooden board length",
+    "description": "Essential: Correctly calculates L₂ = v₀²/(2|a₂|) using the deceleration a₂ on the board and obtains 1.33 m (or 4/3 m).",
+    "weight": 5
+  },
+  {
+    "title": "Total time A to D",
+    "description": "Essential: Correctly sums the time on the belt (Δt₁ = v₀/a₁) and the time on the board (Δt₂ = v₀/|a₂|) to obtain T ≈ 2.27 s (or 34/15 s).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration directions",
+    "description": "Important: Correctly identifies the direction of friction relative to motion for both segments (up the belt, down the board) when applying Newton's second law.",
+    "weight": 4
+  },
+  {
+    "title": "Infinite series setup",
+    "description": "Important: Recognizes the motion after D is an infinite geometric series of up/down segments on the board and sets up the ratio k = a₃/|a₂| correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Total sliding distance",
+    "description": "Important: Correctly sums the infinite series to find the total distance S traveled on the board after D, obtaining 6.67 m (or 20/3 m).",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses the wrong sign for friction force on the wooden board during upward or downward motion, leading to incorrect acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity condition at B",
+    "description": "Important: States that the object is at rest relative to the belt at B, meaning its velocity relative to ground is v₀ = 4 m/s up the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout the calculation and reports final answers with correct units.",
+    "weight": 1
+  },
+  {
+    "title": "Geometric series sum formula",
+    "description": "Optional: Correctly applies the formula for the sum of an infinite geometric series, S = a/(1 - r), for the distance calculation.",
+    "weight": 2
+  }
+]

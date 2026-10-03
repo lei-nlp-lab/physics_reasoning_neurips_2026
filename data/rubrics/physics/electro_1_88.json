@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Potential Expression",
+    "description": "Essential Criteria: The correct expression for the electrostatic potential due to the dipole and the conducting sphere must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Field Description",
+    "description": "Essential Criteria: A qualitative description of the resulting fields from the two isolated conducting spheres in the uniform electric field must be included.",
+    "weight": 5
+  },
+  {
+    "title": "Image Charge Method",
+    "description": "Important Criteria: The application of the method of images to find the potential must be clearly demonstrated.",
+    "weight": 4
+  },
+  {
+    "title": "Dipole Approximation",
+    "description": "Important Criteria: The use of dipole approximation for the fields due to the conducting spheres must be correctly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Limitations Acknowledged",
+    "description": "Optional Criteria: Any assumptions or limitations of the approximations used should be acknowledged.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the expressions for the image charges or dipole moments must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: All units in the final expressions must be consistent and correctly applied.",
+    "weight": -1
+  }
+]

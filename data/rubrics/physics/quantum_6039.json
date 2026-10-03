@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Selection Rules",
+    "description": "Essential Criteria: State the correct electric-dipole selection rules for atomic transitions.",
+    "weight": 5
+  },
+  {
+    "title": "Photon Properties",
+    "description": "Important Criteria: Explain the selection rules in terms of photon orbital angular momentum, spin, helicity, and parity.",
+    "weight": 4
+  },
+  {
+    "title": "Power Calculation",
+    "description": "Essential Criteria: Derive the power radiated using the classical formula and express it correctly in terms of the required variables.",
+    "weight": 5
+  },
+  {
+    "title": "Lifetime Estimate",
+    "description": "Essential Criteria: Calculate the lifetime of the 2p state using the derived power and energy difference.",
+    "weight": 5
+  },
+  {
+    "title": "Width Calculation",
+    "description": "Essential Criteria: Determine the width of the 2p state in electron volts from the lifetime.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or incorrect application of selection rules.",
+    "weight": -2
+  }
+]

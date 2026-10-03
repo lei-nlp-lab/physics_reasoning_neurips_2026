@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: Provide the total cross section value with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Graph Shape",
+    "description": "Important Criteria: Describe the expected angular distribution and its characteristics.",
+    "weight": 4
+  },
+  {
+    "title": "Rutherford Formula",
+    "description": "Important Criteria: Derive or reference the Rutherford scattering formula correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical Estimate",
+    "description": "Essential Criteria: Show the calculation steps leading to the numerical estimate of the cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes in applying the scattering formulas or constants.",
+    "weight": -1
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: Discuss the physical implications of the angular distribution and cross section.",
+    "weight": 3
+  }
+]

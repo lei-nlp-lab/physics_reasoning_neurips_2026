@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field at P",
+    "description": "Essential: Correctly calculates the electric field strength at P using E = F/q, obtaining 9.0 × 10^5 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Magnitude of charge Q",
+    "description": "Essential: Correctly calculates the magnitude of Q using Coulomb's law, obtaining 1.0 × 10^-4 C.",
+    "weight": 5
+  },
+  {
+    "title": "Field after removing q",
+    "description": "Essential: States the electric field strength at point P after removing q is unchanged at 9.0 × 10^5 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Coulomb's law",
+    "description": "Important: Uses Coulomb's law (F = k|Qq|/r^2) to relate force, charges, and distance for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Distinguish force and field",
+    "description": "Important: Recognizes that the electric field at a point is defined by the source charge Q and is independent of test charge q.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows correct unit analysis (N/C for field, C for charge) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns a sign to Q or confuses vector direction with magnitude for charge or field.",
+    "weight": -1
+  },
+  {
+    "title": "Misapply field formula",
+    "description": "Pitfall: Uses E = kq/r^2 (with test charge q) instead of E = F/q or E = kQ/r^2 for part (1) or (3).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Horizontal wind force",
+    "description": "Essential: The final answer for the horizontal wind force must be 20 N.",
+    "weight": 5
+  },
+  {
+    "title": "Rope tension force",
+    "description": "Essential: The final answer for the rope tension must be 40 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution must correctly apply equilibrium conditions (sum of forces = 0) in both horizontal and vertical directions.",
+    "weight": 4
+  },
+  {
+    "title": "Correct force decomposition",
+    "description": "Important: The tension force must be decomposed into horizontal (T cos 60°) and vertical (T sin 60°) components using the given angle.",
+    "weight": 4
+  },
+  {
+    "title": "Buoyancy relation",
+    "description": "Important: The vertical equilibrium must correctly relate the vertical tension component (T sin 60°) to the given buoyant force of 20√3 N.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric evaluation",
+    "description": "Optional: Correct evaluation of cos 60° = 1/2 and sin 60° = √3/2 should be shown or used accurately.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Final answers should be presented with the correct unit (N) and without extraneous units or symbols.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if force components are assigned incorrect signs or directions, violating equilibrium.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misuse",
+    "description": "Pitfall: Penalize if the trigonometric functions are swapped (e.g., using sin for horizontal component) or if the wrong angle (30° instead of 60°) is used.",
+    "weight": -2
+  }
+]

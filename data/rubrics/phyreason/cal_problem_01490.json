@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Part 1 Normal Force",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly calculated as mg.",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 Angular Velocity",
+    "description": "Essential Criteria: The final answer for part (2) must be correctly derived as ω = √(2g/R).",
+    "weight": 5
+  },
+  {
+    "title": "Part 3 Friction Magnitude",
+    "description": "Essential Criteria: The final answer for part (3) must correctly give the magnitude of friction as ((√3 - 1)/2)mg.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's Second Law",
+    "description": "Important Criteria: The solution must correctly apply Newton's second law to resolve forces into centripetal and vertical components at points A and B.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Geometry for Radius",
+    "description": "Important Criteria: The solution must correctly identify the radius of circular motion at point A as R sin α and at point B as R sin β.",
+    "weight": 3
+  },
+  {
+    "title": "Part 3 Friction Direction",
+    "description": "Important Criteria: For part (3), the solution must correctly state the direction of friction at point B (e.g., perpendicular to OB and downward/tangential up the slope).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall Criteria: Penalize sign errors in force components (e.g., incorrect sine/cosine for α or β, or wrong sign for friction in equations).",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The solution maintains consistent units throughout the derivation and final answers.",
+    "weight": 1
+  }
+]

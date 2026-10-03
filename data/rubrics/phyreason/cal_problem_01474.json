@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Angular velocity calculation",
+    "description": "Essential Criteria: Student correctly calculates ω = v₀/R = 5 rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal acceleration calculation",
+    "description": "Essential Criteria: Student correctly calculates a = v₀²/R = 25 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Time in semicircular section",
+    "description": "Important Criteria: Student correctly calculates t₁ = πR/v₀ = 0.628 s for motion along APB.",
+    "weight": 4
+  },
+  {
+    "title": "Time in straight section",
+    "description": "Important Criteria: Student correctly calculates t₂ = L/v₀ = 0.3 s for motion along BC.",
+    "weight": 4
+  },
+  {
+    "title": "Total time A to C",
+    "description": "Essential Criteria: Student correctly sums t = t₁ + t₂ = 0.928 s.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion time",
+    "description": "Important Criteria: Student uses x = v₀t₃ to find projectile flight time t₃ = x/v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Table height calculation",
+    "description": "Essential Criteria: Student correctly calculates h = ½gt₃² = gx²/(2v₀²) = 0.8 m.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit errors",
+    "description": "Pitfall Criteria: Student makes sign errors in acceleration direction or omits units (rad/s, m/s², s, m).",
+    "weight": -2
+  },
+  {
+    "title": "Constant velocity assumption",
+    "description": "Pitfall Criteria: Student incorrectly assumes velocity changes on semicircular track or straight section.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Student shows unit analysis for all derived formulas.",
+    "weight": 1
+  }
+]

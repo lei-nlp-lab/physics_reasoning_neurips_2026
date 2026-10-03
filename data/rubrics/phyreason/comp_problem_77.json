@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Image charge location",
+    "description": "Essential: Student correctly states the image charge is inside the sphere at a distance x = R²/L from the center.",
+    "weight": 5
+  },
+  {
+    "title": "Image charge magnitude",
+    "description": "Essential: Student correctly states the image charge value is q₀ = -qR/L.",
+    "weight": 5
+  },
+  {
+    "title": "Force expression",
+    "description": "Essential: Student provides the final force of attraction, F = (1/(4πε₀)) * (q²R/L) / (L - R²/L)².",
+    "weight": 5
+  },
+  {
+    "title": "Boundary condition application",
+    "description": "Important: Student applies the constant-potential (V=0) condition on the sphere's surface using superposition.",
+    "weight": 4
+  },
+  {
+    "title": "Angle independence reasoning",
+    "description": "Important: Student derives or states the condition (L²+R²)/L = (x²+R²)/x to make the potential independent of θ.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb's law for force",
+    "description": "Important: Student calculates the force between the real charge and the image charge using Coulomb's law.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in charge",
+    "description": "Pitfall: Student makes a sign error, giving a positive image charge or an incorrect sign in the force.",
+    "weight": -2
+  },
+  {
+    "title": "Distance error for force",
+    "description": "Pitfall: Student uses an incorrect distance (e.g., L or L - x) in the Coulomb force calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows dimensional analysis or unit consistency in the final force expression.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Correct Lagrangian",
+    "description": "Essential Criteria: The Lagrangian must be correctly expressed as L = (1/2) m (dot(r)^2 + r^2 dot(theta)^2) + k/r.",
+    "weight": 5
+  },
+  {
+    "title": "Correct equations of motion",
+    "description": "Important Criteria: The equations of motion derived from the Lagrangian must be correctly stated as m*ddot(r) + k/r^2 = 0 and d/dt(m*r^2*dot(theta)) = 0.",
+    "weight": 4
+  },
+  {
+    "title": "First integral identified",
+    "description": "Essential Criteria: The first integral must be correctly identified as mr^2*dot(theta) = constant.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential energy",
+    "description": "Important Criteria: The potential energy must be correctly derived as V = -k/r.",
+    "weight": 3
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the equations of motion or Lagrangian.",
+    "weight": -2
+  },
+  {
+    "title": "Units consistency",
+    "description": "Optional Criteria: Ensure that all terms in the Lagrangian and equations of motion have consistent units.",
+    "weight": 2
+  }
+]

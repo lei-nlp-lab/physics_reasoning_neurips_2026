@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Stationary pressure calculation",
+    "description": "Essential Criteria: Correctly calculates the gas pressure when elevator is stationary using p₁ = p₀ - Mg/S.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration determination",
+    "description": "Important Criteria: Applies Newton's second law to find upward acceleration when tension is maximum: a = [F - (M+m)g]/(M+m).",
+    "weight": 4
+  },
+  {
+    "title": "Accelerating pressure calculation",
+    "description": "Essential Criteria: Correctly calculates gas pressure during upward acceleration using p₂ = p₀ - M(g+a)/S.",
+    "weight": 5
+  },
+  {
+    "title": "Boyle's law application",
+    "description": "Important Criteria: Applies isothermal condition p₁L₁ = p₂L₂ to find maximum distance L₂.",
+    "weight": 4
+  },
+  {
+    "title": "Final numerical answer",
+    "description": "Essential Criteria: Provides correct maximum distance L₂ = 21.25 cm (or equivalent in meters).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Converts all quantities to consistent SI units before calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall Criteria: Uses incorrect sign in pressure formulas (e.g., p₀ + Mg/S instead of p₀ - Mg/S).",
+    "weight": -2
+  },
+  {
+    "title": "Mass inclusion error",
+    "description": "Pitfall Criteria: Incorrectly includes piston mass in pressure calculations instead of only cylinder mass.",
+    "weight": -2
+  }
+]

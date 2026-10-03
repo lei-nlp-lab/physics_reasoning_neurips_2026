@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Force Expression",
+    "description": "Essential Criteria: The force F(r) must be correctly expressed for both regions of r.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Energy",
+    "description": "Essential Criteria: The potential energy V(r) must be derived correctly for both regions of r.",
+    "weight": 5
+  },
+  {
+    "title": "Turning Points",
+    "description": "Important Criteria: The turning points must be correctly calculated and interpreted in relation to the bullet's motion.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Angle",
+    "description": "Important Criteria: The expression for the differential orbit angle dθ must be derived correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Orbit Equation",
+    "description": "Important Criteria: The orbit equation r(θ, R) must be obtained through proper integration.",
+    "weight": 4
+  },
+  {
+    "title": "Sketch of V(r)",
+    "description": "Optional Criteria: A sketch of the potential energy V(r) should be included to illustrate the behavior of the function.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in force or potential energy expressions must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

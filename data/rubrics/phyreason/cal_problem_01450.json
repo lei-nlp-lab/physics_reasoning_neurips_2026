@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Car stopping time",
+    "description": "Essential: Correctly calculates the time for the car to decelerate from 18 m/s to 0 m/s with a = -2 m/s², yielding 9 s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance calculation",
+    "description": "Essential: Correctly identifies and calculates the maximum separation distance, which is 36 m.",
+    "weight": 5
+  },
+  {
+    "title": "Time to next meeting",
+    "description": "Essential: Correctly calculates the total time from the initial meeting until the next meeting, yielding 13.5 s.",
+    "weight": 5
+  },
+  {
+    "title": "Equal speeds condition",
+    "description": "Important: Recognizes that maximum separation occurs when the car's speed equals the bicycle's constant speed (6 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Displacement comparison",
+    "description": "Important: Correctly calculates the displacements of both vehicles at the time of maximum separation and when the car stops.",
+    "weight": 3
+  },
+  {
+    "title": "Post-stop meeting analysis",
+    "description": "Important: Correctly sets up the condition for the second meeting after the car has stopped, based on the remaining distance and the bicycle's speed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses acceleration as positive for braking/deceleration, leading to incorrect signs in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying maximum time",
+    "description": "Pitfall: Assumes maximum distance occurs when the car stops, rather than when the speeds are equal.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (m, s, m/s²) throughout all calculations.",
+    "weight": 1
+  }
+]

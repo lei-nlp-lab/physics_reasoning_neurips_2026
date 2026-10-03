@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct flight time",
+    "description": "Essential: Student must calculate the correct flight time using vertical motion equations, obtaining t = 1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct horizontal range",
+    "description": "Essential: Student must compute the horizontal distance using x = v₀t, obtaining x = 10 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct impact speed",
+    "description": "Essential: Student must determine the final speed using vector addition of horizontal and vertical components, obtaining approximately 14.1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical motion analysis",
+    "description": "Important: Student should apply kinematic equations for vertical free fall to find either flight time or vertical velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Vector composition of velocity",
+    "description": "Important: Student must recognize that final speed requires combining constant horizontal velocity with final vertical velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (s, m, m/s) in all numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing horizontal and vertical motion",
+    "description": "Pitfall: Student incorrectly uses horizontal velocity in vertical motion equations or vice versa.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student makes sign errors in vertical acceleration or velocity components.",
+    "weight": -1
+  }
+]

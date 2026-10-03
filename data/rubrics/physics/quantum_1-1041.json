@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mean Position",
+    "description": "Essential Criteria: The mean position of the particle must be correctly calculated as zero.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Momentum",
+    "description": "Essential Criteria: The mean momentum of the particle must be correctly calculated as zero.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Function",
+    "description": "Essential Criteria: The potential V(x) must be derived correctly as V(x) = (hbar^2 * gamma^4 * x^2) / (2m).",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Probability",
+    "description": "Essential Criteria: The probability P(p) must be correctly expressed as P(p) dp = (1/(hbar^2 * gamma^2 * pi)^(1/2)) * exp(-p^2/(hbar^2 * gamma^2)) dp.",
+    "weight": 5
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: Key integration steps for calculating mean position and momentum must be shown clearly.",
+    "weight": 3
+  },
+  {
+    "title": "Schrödinger Equation",
+    "description": "Important Criteria: The application of the Schrödinger equation to derive V(x) must be correctly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Normalization Constant",
+    "description": "Optional Criteria: The normalization constant for the momentum wave function should be calculated and stated.",
+    "weight": 2
+  },
+  {
+    "title": "Fourier Transform",
+    "description": "Optional Criteria: Mentioning the Fourier transform method to derive psi(p) from psi(x) is a useful addition.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing the correct sign or factors in the calculations for mean position or momentum will lead to significant errors.",
+    "weight": -2
+  }
+]

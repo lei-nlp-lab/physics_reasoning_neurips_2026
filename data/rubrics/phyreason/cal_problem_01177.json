@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct F_BC value",
+    "description": "Essential: The answer for part (1) must be 20 N (or equivalent with units).",
+    "weight": 5
+  },
+  {
+    "title": "Correct mass m value",
+    "description": "Essential: The answer for part (2) must be 2.5 kg (or equivalent with units).",
+    "weight": 5
+  },
+  {
+    "title": "Correct force F value",
+    "description": "Essential: The answer for part (3) must be 16 N (or equivalent with units).",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal force balance at C",
+    "description": "Important: The solution must apply horizontal equilibrium at point C, relating tensions in AC and BC using the given angles.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical force balance at C",
+    "description": "Important: The solution must apply vertical equilibrium at point C to solve for the mass m, involving both tension components and weight.",
+    "weight": 4
+  },
+  {
+    "title": "Tension in AC from mass M",
+    "description": "Important: The solution must correctly state that the tension in string segment AC is equal to M*g (15 N) due to the equilibrium of mass M.",
+    "weight": 3
+  },
+  {
+    "title": "Analysis for minimum force F",
+    "description": "Important: For part (3), the solution must recognize that with B' at C's height, the tension in BC becomes horizontal, and the vertical balance requires calculating an applied force F.",
+    "weight": 4
+  },
+  {
+    "title": "Direction of applied force",
+    "description": "Optional: For part (3), the solution should state that the applied force F is directed vertically upward.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in vertical balance",
+    "description": "Pitfall: Penalize if the vertical force equation for part (2) or (3) has incorrect signs for tension components or weight.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Penalize if the trigonometric functions (sine/cosine) are applied to the wrong angles (e.g., using 53° where 37° is needed) without correction.",
+    "weight": -1
+  }
+]

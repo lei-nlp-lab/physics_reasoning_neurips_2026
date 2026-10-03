@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct N magnitude",
+    "description": "Essential: Student must state or derive N = (√3/3) mg.",
+    "weight": 5
+  },
+  {
+    "title": "Correct F magnitude",
+    "description": "Essential: Student must state or derive F = (3/2) mg.",
+    "weight": 5
+  },
+  {
+    "title": "Correct f magnitude",
+    "description": "Essential: Student must state or derive f = (√3/6) mg.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for C",
+    "description": "Important: Student must apply vertical force balance to sphere C (2N cos θ = mg) to relate N to the contact angle.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for contact angle",
+    "description": "Important: Student must correctly determine the contact angle θ = 30° from the geometry of three equal-radius spheres.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for A",
+    "description": "Important: Student must apply horizontal and vertical force balance to body A (or B) to relate F and f to N and θ.",
+    "weight": 4
+  },
+  {
+    "title": "Friction not limiting check",
+    "description": "Optional: Student may verify that the required frictional force f is less than or equal to μF, confirming static equilibrium is possible.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if force components (e.g., sin vs cos for N) are swapped or if directions in free-body diagrams are inconsistent.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect geometry/angle",
+    "description": "Pitfall: Penalize if the contact angle θ is incorrectly found (not 30°), leading to wrong numerical results.",
+    "weight": -2
+  },
+  {
+    "title": "Missing force on A/B",
+    "description": "Pitfall: Penalize if the normal force F on A omits the vertical component from N or if friction f is omitted.",
+    "weight": -1
+  }
+]

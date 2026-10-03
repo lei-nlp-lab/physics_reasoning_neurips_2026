@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ball B post-collision speed",
+    "description": "Essential: The final answer for part (1) must be the correct speed of ball B after the elastic collision (20 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Track radius R",
+    "description": "Essential: The final answer for part (2) must be the correct radius of the semicircular track (0.4 m).",
+    "weight": 5
+  },
+  {
+    "title": "Distance between landing points",
+    "description": "Essential: The final answer for part (3) must be the correct expression or value for the horizontal separation distance ((16√6 - 6)/5 m).",
+    "weight": 5
+  },
+  {
+    "title": "Elastic collision application",
+    "description": "Important: The solution must correctly apply conservation of momentum and kinetic energy to find the post-collision velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Energy balance at point N",
+    "description": "Important: For ball A, the solution must relate its speed at the highest point to the given normal force using Newton's second law for circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: The solution must correctly determine the common flight time from the vertical drop of 2R and compute horizontal displacements.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation on track",
+    "description": "Optional: The solution may explicitly show the use of mechanical energy conservation to find the speeds of the balls at the track's exit point N.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns signs to velocities in the collision equations or misinterprets the normal force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if the student fails to use consistent units (kg, m, s) or omits units in final answers where required.",
+    "weight": -1
+  }
+]

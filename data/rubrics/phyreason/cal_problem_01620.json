@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field strength",
+    "description": "Essential: Correctly states the final answer for part (1) as E = 2U / R₁.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic induction magnitude",
+    "description": "Essential: Correctly states the final answer for part (2) as B = (1/R₂) * sqrt(2mU / q).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage variation range",
+    "description": "Essential: Correctly states the final answer for part (3) as U/3 ≤ U' ≤ 3U.",
+    "weight": 5
+  },
+  {
+    "title": "Energy and force analysis",
+    "description": "Important: Applies work-energy theorem to relate accelerating voltage to ion speed (qU = ½mv²).",
+    "weight": 4
+  },
+  {
+    "title": "Analyzer centripetal force",
+    "description": "Important: Applies Newton's second law for circular motion in the electrostatic analyzer (qE = mv²/R₁).",
+    "weight": 3
+  },
+  {
+    "title": "Magnetic centripetal force",
+    "description": "Important: Applies Lorentz force as centripetal force in the magnetic field (qvB = mv²/r).",
+    "weight": 4
+  },
+  {
+    "title": "Geometric limit analysis",
+    "description": "Important: Correctly identifies the geometric constraints (central angle of 120°) and radii (r = R₂ and r = √3 R₂) for the limiting trajectories on the wafer.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Successfully combines equations from energy, force, and geometry to solve for the required quantities.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in force direction or provides an answer with incorrect units.",
+    "weight": -2
+  },
+  {
+    "title": "Geometric misinterpretation",
+    "description": "Pitfall: Incorrectly interprets the geometry of the circular arc in the magnetic field or the wafer placement, leading to wrong limiting radii.",
+    "weight": -2
+  }
+]

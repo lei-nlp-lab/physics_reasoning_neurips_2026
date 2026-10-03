@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the probability per unit time that the particle arrives at the observer a distance L away.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Setup",
+    "description": "Important Criteria: The student should correctly define the initial wave function psi_0(x) and its form as a Gaussian wave packet.",
+    "weight": 4
+  },
+  {
+    "title": "Current Density Calculation",
+    "description": "Important Criteria: The student must derive the expression for the current density j correctly from the wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student should show the correct integration steps leading to the final expression for psi(x, t).",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units in the final expression are consistent and correct.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or missing factors in the final expression.",
+    "weight": -2
+  }
+]

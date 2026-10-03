@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy correction when a is much smaller than sqrt(hbar/mω).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy correction when a is much larger than sqrt(hbar/mω).",
+    "weight": 5
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The student should correctly evaluate the integral involving the ground state wave function and the perturbation potential.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The student must correctly apply first-order perturbation theory to find the energy correction.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Cases Consideration",
+    "description": "Optional Criteria: The student should discuss the implications of the limits a << sqrt(hbar/mω and a >> sqrt(hbar/mω).",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expressions for energy corrections.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all terms in the final expressions have consistent units.",
+    "weight": -2
+  }
+]

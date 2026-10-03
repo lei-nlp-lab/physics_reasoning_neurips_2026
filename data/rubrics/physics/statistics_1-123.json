@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Critical Point Values",
+    "description": "Essential Criteria: Provide correct values for V_c, p_c, and T_c at the critical point.",
+    "weight": 5
+  },
+  {
+    "title": "Dimensionless Ratio",
+    "description": "Essential Criteria: Correctly evaluate the dimensionless ratio pV/RT at the critical point.",
+    "weight": 5
+  },
+  {
+    "title": "Modified Isotherm Explanation",
+    "description": "Important Criteria: Clearly explain the concept behind Maxwell's construction and the area equality.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity Derivation",
+    "description": "Essential Criteria: Show that the heat capacity at constant volume is a function of temperature alone.",
+    "weight": 5
+  },
+  {
+    "title": "Isotherm Sketch",
+    "description": "Important Criteria: Provide a clear sketch of the isotherms in the p-V plane, including the critical point.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid mistakes in calculating critical point values or misinterpreting the isotherm behavior.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  }
+]

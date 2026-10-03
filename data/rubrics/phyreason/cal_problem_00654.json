@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct charge q",
+    "description": "Essential: Student's final answer for the charge q must be mgh²/(2kQ).",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration at B",
+    "description": "Essential: Student's final answer for the acceleration at point B must be 7g, with correct direction (upward) stated or implied.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at A",
+    "description": "Important: Student must apply Newton's second law at point A, equating net force (mg minus electrostatic force) to m*(g/2).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at B",
+    "description": "Important: Student must apply Newton's second law at point B, equating net force (electrostatic force minus mg) to m*a_B.",
+    "weight": 4
+  },
+  {
+    "title": "Correct potential difference",
+    "description": "Important: Student's final answer for the potential difference U_AB must be -3kQ/(2h).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Student must use the work-energy theorem or conservation of energy, relating work by gravity and electric field to the change in kinetic energy (zero).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Student incorrectly assigns the direction of the electrostatic force (attractive/repulsive) leading to wrong signs in the force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect distance substitution",
+    "description": "Pitfall: Student uses h instead of 0.25h for the distance at point B in Coulomb's law, or makes an algebraic error in solving the simultaneous equations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student performs a dimensional analysis to verify the units of their final answers for q and potential difference.",
+    "weight": 1
+  }
+]

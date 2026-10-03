@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Critical tension condition",
+    "description": "Essential Criteria: The student must state or use that the tension equals the weight of B (T = Mg) when B is about to leave the ground.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force relation",
+    "description": "Important Criteria: The student must correctly apply Newton's second law to ball A, relating tension to centripetal force (T = m r ω²).",
+    "weight": 4
+  },
+  {
+    "title": "Correct angular velocity ω₁",
+    "description": "Essential Criteria: The final numerical answer for part (1) must be ω₁ = 20 rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for B",
+    "description": "Important Criteria: For part (2), the student must set up the vertical force balance for object B (T + N = Mg).",
+    "weight": 4
+  },
+  {
+    "title": "Correct normal force",
+    "description": "Essential Criteria: The final numerical answer for part (2) must be the normal force (or force on ground) = 30 N.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's Third Law application",
+    "description": "Optional Criteria: The student may explicitly state that the force B exerts on the ground equals the normal force from the ground on B.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should maintain consistent units (kg, m, s, N, rad/s) throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly writes the force balance as N = Mg + T or misinterprets the direction of forces.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect radius or mass",
+    "description": "Pitfall Criteria: Penalize if the student uses the wrong mass (e.g., uses m instead of M for B's weight) or the wrong radius in the centripetal force formula.",
+    "weight": -1
+  }
+]

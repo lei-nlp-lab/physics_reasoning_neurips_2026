@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Current Density Expression",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the current density induced by the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Equation Derivation",
+    "description": "Important Criteria: The student should derive the wave equation for the electric field in the medium, including the necessary terms from Maxwell's equations.",
+    "weight": 4
+  },
+  {
+    "title": "Propagation Condition",
+    "description": "Essential Criteria: The student must state the condition for electromagnetic wave propagation in the medium, specifically that omega squared is greater than omega_P squared.",
+    "weight": 5
+  },
+  {
+    "title": "Final Condition Expression",
+    "description": "Essential Criteria: The student must provide the inequality relating electron density to the other parameters for indefinite wave propagation.",
+    "weight": 5
+  },
+  {
+    "title": "Mathematical Consistency",
+    "description": "Important Criteria: The student should ensure that all mathematical manipulations are consistent and correctly applied throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Analysis",
+    "description": "Optional Criteria: The student may include a check of units in the final expressions to confirm dimensional consistency.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or neglecting factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Interactions",
+    "description": "Pitfall Criteria: The student must acknowledge the assumption of neglecting interactions between electrons, which is critical for the derivation.",
+    "weight": -1
+  }
+]

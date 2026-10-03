@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Refractive index value",
+    "description": "Essential Criteria: The response must state the correct numerical or symbolic expression for the refractive index, n = 2√3/3 or approximately 1.155.",
+    "weight": 5
+  },
+  {
+    "title": "Total internal reflection condition",
+    "description": "Important Criteria: The solution must correctly apply Snell's law for total internal reflection, relating the critical angle C to the refractive index via n = 1/sin C.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric angle analysis",
+    "description": "Important Criteria: The reasoning must correctly identify the geometric relationships (e.g., triangle angles) to determine the critical angle C = 30° from the quarter-circle arc geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Propagation time expression",
+    "description": "Essential Criteria: The final answer for the propagation time must be correctly given as t = (2√3 R)/c or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Path length calculation",
+    "description": "Important Criteria: The solution must correctly calculate the total optical path length inside the brick, s = 3R, using geometry (e.g., sum of segments).",
+    "weight": 3
+  },
+  {
+    "title": "Speed in medium",
+    "description": "Important Criteria: The speed of light in the material must be derived from the refractive index using v = c/n.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect critical angle",
+    "description": "Pitfall Criteria: Penalize if the critical angle is incorrectly identified from the geometry (e.g., not 30°), leading to a wrong refractive index.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall Criteria: Penalize if the final time answer has incorrect units, missing the factor of R/c, or a sign error in the geometric construction.",
+    "weight": -1
+  }
+]

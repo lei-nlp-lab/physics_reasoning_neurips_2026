@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at third quadrant",
+    "description": "Essential: Correctly applies work-energy theorem to find speed from electric field work: v = sqrt(2qEa/m).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field motion time",
+    "description": "Essential: Correctly calculates time from entry to point B as half the cyclotron period: t = π(a+b) / (2 sqrt(2qEa/m)).",
+    "weight": 5
+  },
+  {
+    "title": "Highest point velocity",
+    "description": "Essential: States that speed at highest point in first quadrant equals speed entering first quadrant: v = sqrt(2qEa/m).",
+    "weight": 5
+  },
+  {
+    "title": "Highest point coordinates",
+    "description": "Essential: Correctly computes coordinates from kinematics in first quadrant: (b + sqrt(2)a, sqrt(2)a).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic force analysis",
+    "description": "Important: Recognizes semicircular path in magnetic field and relates radius to given geometry: R = (a+b)/2.",
+    "weight": 4
+  },
+  {
+    "title": "First quadrant kinematics",
+    "description": "Important: Correctly decomposes electric force at 45° and applies kinematics to find parabolic trajectory peak.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Optional: Explicitly notes conservation of energy in electric fields or work-energy steps.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Misidentifies direction of magnetic force, electric force components, or velocity vectors.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or expression mishandling",
+    "description": "Pitfall: Omits units, misplaces constants, or makes algebraic errors in final expressions.",
+    "weight": -1
+  }
+]

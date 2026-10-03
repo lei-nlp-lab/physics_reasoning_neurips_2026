@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer for J/psi",
+    "description": "Essential Criteria: Provide the mass and decay width of the J/psi particle accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Neutrino Types",
+    "description": "Essential Criteria: Clearly state that the two types of neutrinos are different particles.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Dipole Moment",
+    "description": "Essential Criteria: Report the measured value of the neutron's electric dipole moment correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Fermi Theory Equation",
+    "description": "Important Criteria: Include the correct equation for the Fermi theory of beta decay.",
+    "weight": 4
+  },
+  {
+    "title": "Abnormal Magnetic Moment",
+    "description": "Important Criteria: Mention the theoretical and experimental values of the muon's abnormal magnetic moment.",
+    "weight": 4
+  },
+  {
+    "title": "Associated Production Concept",
+    "description": "Important Criteria: Explain the concept of associated production and its significance in particle physics.",
+    "weight": 4
+  },
+  {
+    "title": "Units and Notation",
+    "description": "Optional Criteria: Use correct units and notation throughout the response.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as misreporting values or confusing particle types.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Details",
+    "description": "Pitfall Criteria: Ensure that no critical details about particle properties or experimental results are omitted.",
+    "weight": -2
+  }
+]

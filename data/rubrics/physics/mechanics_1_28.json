@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Angle",
+    "description": "Essential Criteria: The student must correctly identify the angle theta at which the particle leaves the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Final Speed",
+    "description": "Essential Criteria: The student must correctly calculate the speed v of the particle at the moment it leaves the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should apply the conservation of energy principle to relate potential and kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Radial Force Equation",
+    "description": "Important Criteria: The student must derive the radial force equation correctly to find when the particle leaves the sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Parabolic Trajectory",
+    "description": "Optional Criteria: The student should describe the particle's motion after leaving the sphere as a parabolic trajectory.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations of motion or energy.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

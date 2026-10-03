@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct wavelength ratio",
+    "description": "Essential: The student must state the ratio λ_left/λ_right = 1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity ratio reasoning",
+    "description": "Important: The student should relate wave velocities to distances OA and OB using equal travel times.",
+    "weight": 3
+  },
+  {
+    "title": "Correct period formula",
+    "description": "Essential: The student must derive or state T = 2Δt/(2n+1) with n as a non-negative integer.",
+    "weight": 5
+  },
+  {
+    "title": "Phase condition application",
+    "description": "Important: The student must apply the opposite-vibration condition to establish the half-wavelength path difference condition Δx = (2n+1)λ/2.",
+    "weight": 4
+  },
+  {
+    "title": "Path difference expression",
+    "description": "Important: The student should correctly express the path difference between A and B as Δx = vΔt.",
+    "weight": 3
+  },
+  {
+    "title": "Integer parameter inclusion",
+    "description": "Optional: The student explicitly states that n = 0, 1, 2, ... in the period formula.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or integer error",
+    "description": "Pitfall: Using even integer (2n) instead of odd integer (2n+1) in the half-wavelength condition.",
+    "weight": -2
+  },
+  {
+    "title": "Ratio inversion",
+    "description": "Pitfall: Incorrectly inverting the wavelength or velocity ratio (e.g., stating 2 instead of 1/2).",
+    "weight": -1
+  }
+]

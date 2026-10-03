@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Normal force at O",
+    "description": "Essential: Correctly calculates the normal force at point O as 5mg using Newton's second law and energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly determines the electric field strength as mg/(5q) using force balance and energy conservation at point B.",
+    "weight": 5
+  },
+  {
+    "title": "Final kinetic energy",
+    "description": "Essential: Correctly computes the kinetic energy upon return to the parabola as (68/45)mgR using projectile motion and energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies conservation of mechanical energy correctly for the first quadrant to find speed at O.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance at B",
+    "description": "Important: Sets up Newton's second law at point B (mg - qE = mv_B^2/R) recognizing the electric force direction.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: Correctly models the motion from B as projectile motion, relating horizontal and vertical displacements to time.",
+    "weight": 3
+  },
+  {
+    "title": "Parabola coordinate relation",
+    "description": "Important: Uses the parabolic equation y = x^2/(2R) to relate coordinates when the ball returns to the track.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in electric force",
+    "description": "Pitfall: Incorrectly assigns direction to the electric force (e.g., qE added to mg) at point B, leading to wrong E or v_B.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force misapplication",
+    "description": "Pitfall: Uses wrong radius or misapplies centripetal force formula at O or B (e.g., forgetting normal force or weight).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or algebraic mistake",
+    "description": "Pitfall: Makes algebraic errors in solving simultaneous equations or omits units in final answers where required.",
+    "weight": -1
+  }
+]

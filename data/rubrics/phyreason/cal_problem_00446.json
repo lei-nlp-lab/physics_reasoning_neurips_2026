@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final ratio",
+    "description": "Essential: The student's final answer for the ratio k must be exactly 3/5.",
+    "weight": 5
+  },
+  {
+    "title": "System acceleration analysis",
+    "description": "Important: The student correctly determines the common acceleration of the three-block system using Newton's second law for the entire system (F - μ(6m)g = 6ma).",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagram for R",
+    "description": "Important: The student applies Newton's second law to block R alone, relating the force F1, friction on R, and the common acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram for Q and R",
+    "description": "Important: The student applies Newton's second law to the combined system of blocks Q and R, relating the force F2, total friction on Q&R, and their combined acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic solution",
+    "description": "Important: The student correctly solves the system of equations to eliminate the unknowns F, μ, m, and a, isolating the ratio F1/F2.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student notes that the final ratio is dimensionless, confirming the analysis is dimensionally consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect system isolation",
+    "description": "Pitfall: The student incorrectly applies Newton's second law by not using the correct combined masses when analyzing subsystems (e.g., using wrong mass for friction or inertia).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error on friction",
+    "description": "Pitfall: The student makes a sign mistake in the friction force terms within the equations of motion.",
+    "weight": -1
+  }
+]

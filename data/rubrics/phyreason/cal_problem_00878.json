@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity v1 expression",
+    "description": "Essential Criteria: The answer must give v1 = 2qBL / ((2+√3)m) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Time t expression",
+    "description": "Essential Criteria: The answer must give t = 5πm / (3qB) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity v3 expression",
+    "description": "Essential Criteria: The answer must give v3 = 2√3 qBL / (3m) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for critical trajectory",
+    "description": "Important Criteria: For part (1), the solution must correctly relate the chord length L to the radius r1 and the 30° angle, leading to r1 = L / (1 + cos 30°).",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force relation",
+    "description": "Important Criteria: The solution must apply qvB = mv²/r to relate velocity, radius, and magnetic field for all parts.",
+    "weight": 4
+  },
+  {
+    "title": "Time-angle-period relation",
+    "description": "Important Criteria: For parts (2) and (3), the solution must correctly calculate the time from t = (θ/2π) * T, where T = 2πm/(qB).",
+    "weight": 4
+  },
+  {
+    "title": "Angle for v2 trajectory",
+    "description": "Important Criteria: For part (2), the solution must correctly find the central angle (e.g., 300°) subtended by the arc within the field for velocity v2.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student uses the wrong sign for the charge in the Lorentz force law or misidentifies the direction of deflection.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The final expressions for v1, t, and v3 should have correct units (e.g., m/s for velocity, seconds for time).",
+    "weight": 1
+  }
+]

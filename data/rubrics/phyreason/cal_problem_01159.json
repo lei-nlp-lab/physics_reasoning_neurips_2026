@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum separation time",
+    "description": "Essential: Correctly calculates the time after the player starts moving when the distance between them is greatest, which should be 3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum separation distance",
+    "description": "Essential: Correctly calculates the maximum distance between the player and the ball, which should be 11.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up time",
+    "description": "Essential: Correctly calculates the total time from the player's start until catching the ball, which should be 7 s.",
+    "weight": 5
+  },
+  {
+    "title": "Ball speed at catch-up",
+    "description": "Essential: Correctly calculates the speed of the ball at the moment the player catches it, which should be 1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Relative velocity condition",
+    "description": "Important: Applies the condition that maximum separation occurs when the player's speed equals the ball's speed relative to the ground.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equations setup",
+    "description": "Important: Sets up correct displacement equations for both the ball (decelerating) and the player (accelerating then constant speed) to find catch-up time.",
+    "weight": 4
+  },
+  {
+    "title": "Player's motion phases",
+    "description": "Important: Correctly accounts for the player's acceleration phase (0 to 6 s) and constant-speed phase (after 6 s).",
+    "weight": 3
+  },
+  {
+    "title": "Ball's stopping time",
+    "description": "Optional: Calculates the time it would take for the ball to stop on its own (10 s) as a check.",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring the 1s delay",
+    "description": "Pitfall: Fails to account for the 1-second delay between the kick and the player starting the chase in time variables.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Uses incorrect sign for the ball's deceleration in kinematic equations (e.g., treating it as acceleration).",
+    "weight": -2
+  }
+]

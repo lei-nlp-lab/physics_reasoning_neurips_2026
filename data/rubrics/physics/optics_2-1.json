@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the largest path difference as 3 x 10^-4 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Coherence Length Calculation",
+    "description": "Important Criteria: The student should correctly calculate the coherence length using the formula lambda_c = lambda^2 / delta_lambda.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Interference",
+    "description": "Important Criteria: The student must demonstrate an understanding of how path difference relates to the visibility of interference fringes.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent, particularly converting nanometers to centimeters correctly.",
+    "weight": 2
+  },
+  {
+    "title": "Path Difference Justification",
+    "description": "Optional Criteria: The student may provide a rationale for using a quarter of the coherence length for clear fringe visibility.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect calculations or misinterpretation of the coherence length.",
+    "weight": -2
+  }
+]

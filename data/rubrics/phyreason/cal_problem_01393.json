@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct height difference",
+    "description": "Essential: The student must correctly identify the vertical distance from A to C as h = l - OD = l - (2/3)l = (1/3)l.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational potential energy change",
+    "description": "Essential: The final answer for the decrease in gravitational potential energy must be ΔE_p = - (1/3) mgl or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Work done by gravity",
+    "description": "Essential: The final answer for the work done by gravity must be W_G = (1/3) mgl.",
+    "weight": 5
+  },
+  {
+    "title": "Relationship between work and energy",
+    "description": "Important: The student must correctly apply the relationship ΔE_p = -W_G for a conservative force.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention clarity",
+    "description": "Important: The reasoning should clearly distinguish the decrease in potential energy (negative change) from the positive work done by gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Irrelevance of intermediate path",
+    "description": "Optional: The student may note that the work done by gravity is path-independent, depending only on the vertical displacement.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect height calculation",
+    "description": "Pitfall: Using OD = (2/3)l as the height difference instead of l - OD.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in relationship",
+    "description": "Pitfall: Stating ΔE_p = W_G instead of ΔE_p = -W_G, leading to a sign error in one answer.",
+    "weight": -2
+  }
+]

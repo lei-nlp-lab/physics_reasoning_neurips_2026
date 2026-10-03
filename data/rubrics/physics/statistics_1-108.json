@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature of the mixture must be correctly calculated as T = 48.57°C.",
+    "weight": 5
+  },
+  {
+    "title": "Heat of Fusion",
+    "description": "Important Criteria: The heat of fusion of ice must be correctly applied in the energy balance equation.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Values",
+    "description": "Important Criteria: The masses of ice and water must be correctly identified and used in calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Balance Equation",
+    "description": "Important Criteria: The energy balance equation must be correctly set up to relate heat lost and gained.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, ensuring clarity in the energy balance.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the energy balance or incorrect application of the heat of fusion.",
+    "weight": -2
+  }
+]

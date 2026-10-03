@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Entropy Expression",
+    "description": "Essential Criteria: The student must correctly express the entropy σ in terms of n and N.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy as Function of U",
+    "description": "Essential Criteria: The student must correctly express the entropy σ as a function of total energy U and N.",
+    "weight": 5
+  },
+  {
+    "title": "Planck Distribution Derivation",
+    "description": "Important Criteria: The student must show the derivation of the total energy U at temperature τ leading to the Planck distribution.",
+    "weight": 4
+  },
+  {
+    "title": "Counting Method Explanation",
+    "description": "Important Criteria: The student should explain the counting method used to derive the multiplicity function g(N, n).",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the entropy expressions.",
+    "weight": -2
+  }
+]

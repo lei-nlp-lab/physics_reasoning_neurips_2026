@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: Correctly calculates wavelength using λ = vT with given wave speed and period from graph.",
+    "weight": 5
+  },
+  {
+    "title": "Wave propagation time",
+    "description": "Important: Calculates time for wave to travel from P to Q using t = Δx/v with correct distance.",
+    "weight": 4
+  },
+  {
+    "title": "SHM phase timing",
+    "description": "Important: Determines time for Q to reach first positive maximum from its starting phase (T/4).",
+    "weight": 4
+  },
+  {
+    "title": "Total time sum",
+    "description": "Essential: Correctly adds propagation time and SHM phase time to get final answer 0.55s.",
+    "weight": 5
+  },
+  {
+    "title": "Period extraction",
+    "description": "Important: Correctly reads period T = 0.2s from the vibration graph of point P.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Uses negative time or incorrect sign for propagation direction.",
+    "weight": -2
+  },
+  {
+    "title": "Phase confusion",
+    "description": "Pitfall: Misinterprets starting phase of Q or uses wrong fraction of period (e.g., 3T/4 instead of T/4).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Equilibrium length",
+    "description": "Essential: Correctly states the spring length at equilibrium as L + (mg sin α)/k.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum elongation",
+    "description": "Essential: Correctly states the maximum elongation as L/4 + (2mg sin α)/k.",
+    "weight": 5
+  },
+  {
+    "title": "Friction condition",
+    "description": "Essential: Correctly states the condition for the inclined plane to remain stationary as μ ≥ ((kL + 4mg sin α) cos α) / (4Mg + 4mg cos² α - kL sin α).",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium force balance",
+    "description": "Important: Applies Newton's second law to the block along the incline to find the equilibrium extension.",
+    "weight": 3
+  },
+  {
+    "title": "SHM amplitude calculation",
+    "description": "Important: Correctly calculates the amplitude of oscillation from the initial compression and equilibrium position.",
+    "weight": 3
+  },
+  {
+    "title": "Incline force analysis",
+    "description": "Important: Sets up force balance equations (horizontal and vertical) for the inclined plane, identifying the spring force and normal forces.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum static friction",
+    "description": "Important: Applies the condition for impending motion, relating the required static friction to the maximum available (μ * N).",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in spring force",
+    "description": "Pitfall: Uses an incorrect sign for the spring force (compression vs. extension) in the force balance equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing normal force component",
+    "description": "Pitfall: Omits the vertical component of the spring force when calculating the normal force from the ground (FN2).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of the final expressions for length and the friction condition.",
+    "weight": 1
+  }
+]

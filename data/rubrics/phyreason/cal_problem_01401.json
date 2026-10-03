@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electrostatic work A→B",
+    "description": "Essential: Correctly calculates the work done by the electrostatic force from A to B using the work-energy theorem, arriving at W = 0.5mgh.",
+    "weight": 5
+  },
+  {
+    "title": "Electrostatic work B→C",
+    "description": "Important: Recognizes that B and C lie on the same equipotential surface, so the electrostatic force does zero work between them.",
+    "weight": 4
+  },
+  {
+    "title": "Total work A→C",
+    "description": "Essential: Correctly sums the work from A→B and B→C to find the total work done by the electrostatic force from A to C as 0.5mgh.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference formula",
+    "description": "Important: Applies the definition of potential difference U_AC = W_AC / (-q) correctly, accounting for the test charge's sign.",
+    "weight": 4
+  },
+  {
+    "title": "Final numerical answers",
+    "description": "Essential: Provides both final answers in the correct form: (1) 0.5mgh or mgh/2, and (2) -mgh/(2q).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: Forgets the negative sign in the potential difference formula (U = W/(-q)) or misplaces the sign of the charge q, leading to an incorrect sign for U_AC.",
+    "weight": -2
+  },
+  {
+    "title": "Equipotential reasoning",
+    "description": "Optional: Explains that B and C are equidistant from charge Q, thus on the same equipotential, justifying zero work from B to C.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Expresses final answers with correct implied units (Joules for work, Volts for potential difference).",
+    "weight": 1
+  }
+]

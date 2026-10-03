@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Force Expression",
+    "description": "Essential Criteria: The final expression for the force F must be correctly derived and presented as F = (Qqr)/(2πε₀R²γ²)e_r.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The application of Gauss' law to find the electric field E' within the beam must be correctly utilized.",
+    "weight": 4
+  },
+  {
+    "title": "Transformation of Fields",
+    "description": "Important Criteria: The transformation of electric and magnetic fields from the rest frame to the laboratory frame must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Inclusion of Velocity Factor",
+    "description": "Important Criteria: The factor involving the velocity v and its relation to the Lorentz factor γ must be correctly included in the final force expression.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units of the final expression for force should be checked for consistency.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the force expression, particularly in the terms involving v²/c².",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Case Analysis",
+    "description": "Optional Criteria: The limiting case where v << c should be correctly analyzed and compared to the stationary case.",
+    "weight": 1
+  }
+]

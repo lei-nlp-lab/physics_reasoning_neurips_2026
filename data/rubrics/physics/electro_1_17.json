@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the electrostatic energy W.",
+    "weight": 5
+  },
+  {
+    "title": "Final Potential Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the potential at the center, phi(0).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student should correctly apply Gauss' law to find the electric field inside the spherical shell.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The student must correctly set up the integral for calculating the electrostatic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the expressions for electric field and potential.",
+    "weight": -2
+  },
+  {
+    "title": "Charge Density Usage",
+    "description": "Important Criteria: The student must correctly incorporate the uniform charge density rho in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios to validate their results.",
+    "weight": 1
+  }
+]

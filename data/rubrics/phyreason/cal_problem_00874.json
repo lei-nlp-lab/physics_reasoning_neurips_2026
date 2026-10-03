@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Trajectory radius",
+    "description": "Essential: Correctly states the final answer for the radius of the particle's circular path as r = 2a.",
+    "weight": 5
+  },
+  {
+    "title": "Entry velocity magnitude",
+    "description": "Essential: Correctly states the final answer for the particle's entry velocity as v = 2kBa.",
+    "weight": 5
+  },
+  {
+    "title": "Motion time from P to Q",
+    "description": "Essential: Correctly states the final answer for the transit time as t = π/(3kB).",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of exit condition",
+    "description": "Important: Applies geometry (e.g., 30-60-90 triangles) to relate the trajectory radius r, the offset a, and the 60° exit angle.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force centripetal condition",
+    "description": "Important: Applies Newton's second law with the magnetic Lorentz force providing centripetal acceleration: qvB = mv²/r.",
+    "weight": 4
+  },
+  {
+    "title": "Period in magnetic field",
+    "description": "Important: Recognizes and uses the formula for the period of circular motion in a uniform magnetic field: T = 2πm/(qB) = 2π/(kB).",
+    "weight": 3
+  },
+  {
+    "title": "Fraction of period traveled",
+    "description": "Important: Correctly identifies the angular displacement from P to Q as 60° and relates the travel time to the period via t = (60°/360°) * T.",
+    "weight": 3
+  },
+  {
+    "title": "Charge-to-mass ratio usage",
+    "description": "Optional: Explicitly substitutes k = q/m to express final answers in terms of the given parameter k.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Makes an error in the sign/direction of the velocity or force, or misinterprets the geometry (e.g., using the wrong angle).",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Presents an answer with incorrect or inconsistent units, or omits units where they are implied.",
+    "weight": -1
+  }
+]

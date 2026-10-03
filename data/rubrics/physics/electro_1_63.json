@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer Inside",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field inside the sphere (E1).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Outside",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field outside the sphere (E2).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Dielectric Constant",
+    "description": "Important Criteria: The student should correctly apply the dielectric constant in the equations for both regions.",
+    "weight": 4
+  },
+  {
+    "title": "Vector Notation",
+    "description": "Important Criteria: The student must use proper vector notation throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Optional Criteria: The student may discuss the boundary conditions at the surface of the sphere.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the expressions for E1 and E2.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

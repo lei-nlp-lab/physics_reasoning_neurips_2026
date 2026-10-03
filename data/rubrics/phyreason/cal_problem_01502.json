@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct fall time",
+    "description": "Essential: The response must correctly calculate the fall time as 2 s using free-fall kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Correct horizontal distance",
+    "description": "Essential: The response must correctly calculate the horizontal distance as 4 m using horizontal motion.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal velocity maintained",
+    "description": "Important: The response must state or apply that the ball retains the drone's horizontal velocity (2 m/s) after release.",
+    "weight": 3
+  },
+  {
+    "title": "Free-fall vertical motion",
+    "description": "Important: The response must use correct vertical kinematics (e.g., h = ½gt²) to find the fall time.",
+    "weight": 3
+  },
+  {
+    "title": "Units included",
+    "description": "Optional: The final numerical answers should include correct units (s and m).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect horizontal acceleration",
+    "description": "Pitfall: Penalize if the response assumes horizontal acceleration or deceleration after release.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or formula error",
+    "description": "Pitfall: Penalize if the response uses an incorrect kinematic formula (e.g., v = gt for distance) or sign error in vertical motion.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Critical angle calculation",
+    "description": "Essential Criteria: Student must correctly compute the critical angle for total internal reflection using sin C = 1/n, yielding C = 45°.",
+    "weight": 5
+  },
+  {
+    "title": "Refraction at outer surface",
+    "description": "Important Criteria: Student must apply Snell's law or geometry to find the refraction angle r at the outer surface, obtaining r = 30°.",
+    "weight": 4
+  },
+  {
+    "title": "Incidence angle determination",
+    "description": "Important Criteria: Student must correctly determine the angle of incidence i at the outer surface, obtaining i = 45° through Snell's law or geometric reasoning.",
+    "weight": 4
+  },
+  {
+    "title": "Final shield radius",
+    "description": "Essential Criteria: Student must compute the shield radius d = R' sin i = √2R × sin45° = R.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important Criteria: Student must correctly apply geometric relationships (law of sines, triangle properties) to connect angles and lengths in the hemispherical shell.",
+    "weight": 3
+  },
+  {
+    "title": "Total internal reflection condition",
+    "description": "Important Criteria: Student must recognize that the condition 'no light exits from inner surface' requires rays to strike inner surface at or above critical angle.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or unit errors",
+    "description": "Pitfall Criteria: Penalize sign errors in Snell's law, incorrect angle relationships, or mixing degrees/radians without conversion.",
+    "weight": -2
+  },
+  {
+    "title": "Alternative approach",
+    "description": "Optional Criteria: Student may use alternative geometric or trigonometric methods to arrive at the same shield radius.",
+    "weight": 1
+  }
+]

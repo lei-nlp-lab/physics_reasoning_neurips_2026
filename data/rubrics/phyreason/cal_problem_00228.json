@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Temperature at state B",
+    "description": "Essential: Correctly calculates T_B = 330 K using the isobaric volume-temperature relation.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at state C",
+    "description": "Essential: Correctly calculates p_C = 1.1 × 10^5 Pa using the isochoric pressure-temperature relation.",
+    "weight": 5
+  },
+  {
+    "title": "Total heat absorbed Q",
+    "description": "Essential: Correctly calculates Q = 188 J using the first law of thermodynamics and given ΔU.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at state B",
+    "description": "Important: Applies force equilibrium on the piston to find p_B = p_0 + mg/S.",
+    "weight": 4
+  },
+  {
+    "title": "Work from A to B",
+    "description": "Important: Calculates work W = p_B * S * d for the isobaric expansion.",
+    "weight": 3
+  },
+  {
+    "title": "First law application",
+    "description": "Important: Correctly relates Q, ΔU, and W with the sign convention Q = ΔU + W (or equivalent).",
+    "weight": 4
+  },
+  {
+    "title": "Ideal gas law use",
+    "description": "Optional: Explicitly uses the ideal gas law to relate states or verify intermediate steps.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities (area, distance, pressure) to consistent SI units.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in first law",
+    "description": "Pitfall: Uses incorrect sign for work (e.g., Q = ΔU - W when W is work done by gas).",
+    "weight": -2
+  },
+  {
+    "title": "Pressure equilibrium mistake",
+    "description": "Pitfall: Omits the piston's weight (mg) when calculating the gas pressure in state B.",
+    "weight": -2
+  }
+]

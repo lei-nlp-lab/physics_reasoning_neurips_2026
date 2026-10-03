@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Definition of Diffraction",
+    "description": "Essential Criteria: Clearly distinguish between Fraunhofer and Fresnel diffraction based on experimental arrangements.",
+    "weight": 5
+  },
+  {
+    "title": "Experimental Setup",
+    "description": "Essential Criteria: Provide a correct schematic of the experimental arrangement for observing Fraunhofer diffraction.",
+    "weight": 5
+  },
+  {
+    "title": "Single-Slit Pattern",
+    "description": "Important Criteria: Describe the intensity distribution and key features of the single-slit diffraction pattern.",
+    "weight": 4
+  },
+  {
+    "title": "Double-Slit Pattern",
+    "description": "Important Criteria: Explain the intensity distribution and key features of the double-slit diffraction pattern, including the effect of single-slit diffraction.",
+    "weight": 4
+  },
+  {
+    "title": "Three-Slit Calculation",
+    "description": "Essential Criteria: Correctly derive the intensity pattern for three equally spaced slits in Young's experiment.",
+    "weight": 5
+  },
+  {
+    "title": "Missing Orders Explanation",
+    "description": "Optional Criteria: Discuss the concept of missing orders in the context of the double-slit and single-slit patterns.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Factors",
+    "description": "Optional Criteria: Ensure that all equations and calculations include appropriate units and factors.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Identify and avoid common mistakes such as sign errors or incorrect application of diffraction conditions.",
+    "weight": -2
+  }
+]

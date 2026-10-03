@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Heat Input Expression",
+    "description": "Essential Criteria: The expression for heat input dQ must correctly relate dQ to dM and dB.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Differential",
+    "description": "Essential Criteria: The expression for the differential of entropy dS must accurately reflect its dependence on dM and dB.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Expression",
+    "description": "Essential Criteria: The derived expression for entropy S must be complete and correctly formulated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Important Criteria: The response must correctly apply the variables M, B, and T in the context of thermodynamic relationships.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The response should avoid common sign mistakes in the expressions for dQ and dS.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should check that all terms have consistent units throughout the derivations.",
+    "weight": 2
+  }
+]

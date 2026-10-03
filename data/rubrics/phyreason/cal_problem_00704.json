@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: Student correctly calculates wave speed as 20 m/s using distance from first to fifth buoy (40 m) and time interval (2 s).",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: Student correctly calculates wavelength as 6 m using λ = vT with proper v and T values.",
+    "weight": 5
+  },
+  {
+    "title": "Period determination",
+    "description": "Important: Student correctly determines period T = 0.3 s from the 10 oscillations in 3 seconds.",
+    "weight": 4
+  },
+  {
+    "title": "Distance interpretation",
+    "description": "Important: Student correctly interprets that the wave travels from buoy 1 to buoy 5, covering 4 intervals (40 m total).",
+    "weight": 3
+  },
+  {
+    "title": "Wave equation application",
+    "description": "Important: Student applies the fundamental wave relationship v = λ/T or λ = vT correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations and includes units in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect distance count",
+    "description": "Pitfall: Student mistakenly uses 5 intervals (50 m) instead of 4 intervals (40 m) for wave travel distance.",
+    "weight": -2
+  },
+  {
+    "title": "Period calculation error",
+    "description": "Pitfall: Student incorrectly calculates period (e.g., using 2+3=5 seconds instead of 3 seconds for oscillation time).",
+    "weight": -2
+  }
+]

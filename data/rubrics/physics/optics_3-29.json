@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct final answers for the beam candle-power ratio and the angular size of the star disk.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Principles",
+    "description": "Important Criteria: Clearly describe the physical principles involved in lens/mirror arrangements and polarization methods.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric Relationships",
+    "description": "Important Criteria: Derive and explain the geometric relationships used to find the distance between the source and the focal point.",
+    "weight": 3
+  },
+  {
+    "title": "Polarization Process",
+    "description": "Important Criteria: Explain the process of producing and analyzing circularly polarized light using polarizers and wave plates.",
+    "weight": 3
+  },
+  {
+    "title": "Interferometer Explanation",
+    "description": "Important Criteria: Describe how the Michelson interferometer works to estimate the size of distant stellar sources.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units used in calculations and descriptions are consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes or incorrect application of formulas in the derivations.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: Clearly state any assumptions made regarding the light source or optical components.",
+    "weight": 1
+  }
+]

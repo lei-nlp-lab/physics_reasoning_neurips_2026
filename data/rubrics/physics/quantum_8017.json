@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the minimum energy approximation.",
+    "weight": 5
+  },
+  {
+    "title": "Normalization Condition",
+    "description": "Important Criteria: The student should correctly derive and apply the normalization condition for the trial function.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Expectation Value",
+    "description": "Important Criteria: The student must correctly compute the expectation value of the Hamiltonian using the trial function.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Integrals",
+    "description": "Important Criteria: The student should appropriately utilize the provided integrals in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Inequality Application",
+    "description": "Important Criteria: The student must correctly apply the inequality to derive the minimum energy condition.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign errors in the Hamiltonian expectation value calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should check for any missing factors in the final expression for energy.",
+    "weight": -2
+  }
+]

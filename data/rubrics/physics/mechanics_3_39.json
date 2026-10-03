@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for B",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for B in terms of q, R, m, and omega.",
+    "weight": 5
+  },
+  {
+    "title": "Final Expression for u'_0",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the zero component of the particle's 4-velocity as measured by the observer.",
+    "weight": 5
+  },
+  {
+    "title": "Final Expression for du'_0/dtau",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the derivative of the zero component of the 4-velocity with respect to proper time.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Change Explanation",
+    "description": "Important Criteria: The student must explain how the energy of the particle can change in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Lorentz Factor",
+    "description": "Important Criteria: The student must correctly apply the Lorentz factor in the context of relativistic velocities.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the expressions for velocities and forces.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivations.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may explore alternative methods or checks to reinforce their solution.",
+    "weight": 2
+  }
+]

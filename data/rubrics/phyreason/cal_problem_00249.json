@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct displacement magnitude",
+    "description": "Essential: Student must calculate displacement as 4 m (straight-line distance from A to C).",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance traveled",
+    "description": "Essential: Student must calculate total path length as 2πR ≈ 6.28 m.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity calculation",
+    "description": "Important: Student applies definition v_avg = displacement/time to obtain 0.8 m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Average speed calculation",
+    "description": "Important: Student applies definition speed_avg = distance/time to obtain 1.256 m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Direction consideration",
+    "description": "Optional: Student notes displacement direction (rightward) or includes vector notation.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (m, m/s) in all final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing distance with displacement",
+    "description": "Pitfall: Student incorrectly uses circumference (2πR) for displacement or diameter (4R) for distance.",
+    "weight": -2
+  },
+  {
+    "title": "Mixing velocity and speed formulas",
+    "description": "Pitfall: Student swaps formulas, calculating velocity as distance/time or speed as displacement/time.",
+    "weight": -2
+  }
+]

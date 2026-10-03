@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Sandpaper friction coefficient",
+    "description": "Essential: Correctly calculates μ₀ = a₂/g = 0.1 from the deceleration on the sandpaper.",
+    "weight": 5
+  },
+  {
+    "title": "Incline acceleration",
+    "description": "Essential: Correctly determines the acceleration a₁ = 2 m/s² on segment AB from the velocity-time data.",
+    "weight": 5
+  },
+  {
+    "title": "Applied force magnitude",
+    "description": "Essential: Correctly solves F = ma₁ + μmg cos α + mg sin α to find F = 14.4 N.",
+    "weight": 5
+  },
+  {
+    "title": "Total stopping distance",
+    "description": "Essential: Correctly sums distances s₁ (AB), s₂ (BC), and s₃ (after C) to find the total distance, rounded to two decimals (2.81 m).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on incline",
+    "description": "Important: Applies Newton's second law on the incline, identifying all forces (F, gravity, friction).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic analysis phases",
+    "description": "Important: Correctly segments the motion into accelerated (AB), constant velocity (BC), and decelerated (after C) phases using the data.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at point B",
+    "description": "Important: Correctly identifies v_B = 1.5 m/s from the data as the transition velocity between segments.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (m, s, kg, N) throughout all calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses wrong sign for acceleration on the incline or during deceleration, leading to incorrect force or distance.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force miscalculation",
+    "description": "Pitfall: Incorrectly calculates the friction force on the incline (e.g., uses sin instead of cos for the normal component).",
+    "weight": -2
+  }
+]

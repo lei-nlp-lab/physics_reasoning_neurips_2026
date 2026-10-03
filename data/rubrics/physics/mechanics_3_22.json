@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Angle Equation",
+    "description": "Essential Criteria: The student must correctly state the equation for tan(theta) in terms of beta and gamma.",
+    "weight": 5
+  },
+  {
+    "title": "Angle Calculation",
+    "description": "Essential Criteria: The student must calculate the angle theta for the case where bar(theta) = 90 degrees accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Angle Derivation",
+    "description": "Important Criteria: The student should derive the condition for the maximum angle observed in the laboratory.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Application",
+    "description": "Important Criteria: The student must apply the given momentum to find the corresponding beta value for the meson.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the transformation equations.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Essential Criteria: The student must present the final answers clearly and in the correct format.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Cases Discussion",
+    "description": "Optional Criteria: The student could discuss limiting cases for theta when bar(theta) approaches 0 or 180 degrees.",
+    "weight": 1
+  }
+]

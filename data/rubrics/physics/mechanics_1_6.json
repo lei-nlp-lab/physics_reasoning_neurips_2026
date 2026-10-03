@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Force Calculation",
+    "description": "Essential Criteria: The final force on the legs must be correctly calculated as 8080g N.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The use of energy conservation principles to relate mechanical energy before landing and work done during deceleration must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Variables",
+    "description": "Important Criteria: The correct identification and use of variables such as mass, height, and deceleration distance must be evident.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The response should include consistent units throughout the calculations, particularly for force and energy.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the calculations, particularly in the force direction, will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to include gravitational acceleration (g) in the final force calculation will lead to a deduction.",
+    "weight": -1
+  }
+]

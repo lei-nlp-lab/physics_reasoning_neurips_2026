@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Essential final answer (1)",
+    "description": "Essential Criteria: The student's answer for part (1) must be 1.8 × 10⁵ N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Essential final answer (2)",
+    "description": "Essential Criteria: The student's answer for part (2) must be approximately 11.58 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy on horizontal deck",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem for segment AB to relate traction force, distance, and kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Power and energy on incline",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem for segment BC, accounting for work done by constant power and work against gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct unit conversions",
+    "description": "Important Criteria: The student must correctly convert the aircraft's mass from tons to kg and the takeoff speed from km/h to m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Minimum speed at B",
+    "description": "Important Criteria: The student must correctly calculate the minimum speed at point B as 60% of the final takeoff speed.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculation for AB",
+    "description": "Optional Criteria: The student may correctly calculate the time for segment AB using kinematics for uniform acceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error for gravity",
+    "description": "Pitfall Criteria: The student incorrectly assigns the sign for the work done by gravity on the incline (e.g., adds it instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing power with force",
+    "description": "Pitfall Criteria: The student treats the maximum power on the incline as a constant force, failing to use P = Fv or the work-energy theorem with power.",
+    "weight": -2
+  }
+]

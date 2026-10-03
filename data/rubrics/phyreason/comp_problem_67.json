@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimal angular velocity",
+    "description": "Essential: Correctly states the final answer ω_min = 2qB/m.",
+    "weight": 5
+  },
+  {
+    "title": "Distance to asymptote",
+    "description": "Essential: Correctly states the final answer D = d.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of angular momentum",
+    "description": "Important: Applies the conserved quantity L_O + B(R·p) to relate initial and final states.",
+    "weight": 4
+  },
+  {
+    "title": "Translational velocity expression",
+    "description": "Important: Derives or uses v_x = (qBd/(2m)) sinθ from the equations of motion.",
+    "weight": 3
+  },
+  {
+    "title": "Rotational equation integration",
+    "description": "Important: Integrates the equation of motion (e.g., θ̈ ∝ -sinθ) to find ∫ sinθ dt.",
+    "weight": 3
+  },
+  {
+    "title": "Energy or torque analysis",
+    "description": "Optional: Uses energy conservation or torque analysis to find the condition for orientation reversal.",
+    "weight": 2
+  },
+  {
+    "title": "Final velocity direction",
+    "description": "Optional: Correctly identifies the asymptotic velocity direction (e.g., along +y).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force/torque",
+    "description": "Pitfall: Makes a sign mistake in the Lorentz force or cross products for the dipole.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect moment of inertia",
+    "description": "Pitfall: Uses an incorrect moment of inertia (I ≠ m d²/2) for the dipole.",
+    "weight": -1
+  },
+  {
+    "title": "Misinterpreting asymptote condition",
+    "description": "Pitfall: Assumes the center of mass stops or incorrectly sets θ(∞) for the asymptote.",
+    "weight": -2
+  }
+]

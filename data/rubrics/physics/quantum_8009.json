@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Probability",
+    "description": "Essential Criteria: The student must provide the correct probability P_1 for the molecule being in the first excited vibrational state.",
+    "weight": 5
+  },
+  {
+    "title": "Final Ratio",
+    "description": "Essential Criteria: The student must provide the correct ratio of N(J = 0) to N(J = 1) for the rotational states.",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Setup",
+    "description": "Important Criteria: The student should correctly set up the Hamiltonian for both vibrational and rotational motion.",
+    "weight": 4
+  },
+  {
+    "title": "Energy State Equations",
+    "description": "Important Criteria: The student must derive the correct energy state equations for vibrational and rotational states.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Estimates",
+    "description": "Important Criteria: The student should accurately estimate and define all necessary parameters such as reduced mass and spring constant.",
+    "weight": 3
+  },
+  {
+    "title": "Exponential Factor",
+    "description": "Optional Criteria: The student should show the correct use of the exponential factor in calculating probabilities.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the Boltzmann factor.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any critical factors in the calculations, such as the degeneracy factor in rotational states.",
+    "weight": -2
+  }
+]

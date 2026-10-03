@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Expression for B",
+    "description": "Essential Criteria: The expression for the magnetic field B must be correctly derived and presented in terms of E, e, and R.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Calculation of B",
+    "description": "Important Criteria: The numerical value of B must be accurately calculated using the provided values for E and R.",
+    "weight": 4
+  },
+  {
+    "title": "Final Expression for Delta E/E",
+    "description": "Essential Criteria: The expression for the energy loss ratio Delta E/E must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Calculation of Delta E/E",
+    "description": "Important Criteria: The numerical value of Delta E/E must be accurately calculated using the provided values for E and R.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Optional Criteria: The student should correctly recall and use universal constants in their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign and Unit Consistency",
+    "description": "Pitfall Criteria: The response must avoid common errors related to sign mistakes or unit inconsistencies in calculations.",
+    "weight": -2
+  }
+]

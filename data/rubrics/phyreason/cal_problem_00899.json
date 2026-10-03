@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum magnetic flux",
+    "description": "Essential: The student must correctly calculate the maximum magnetic flux as Φ_m = B * A * N, where A is the coil area, yielding 0.048 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum induced EMF",
+    "description": "Essential: The student must correctly calculate the maximum induced EMF as E_m = N * B * A * ω, yielding 480π V.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF expression",
+    "description": "Important: The student must provide the correct time-dependent expression e = E_m cos(ωt), with the correct numerical values substituted.",
+    "weight": 4
+  },
+  {
+    "title": "Average EMF for 30° rotation",
+    "description": "Essential: The student must correctly apply Faraday's law for the average EMF over the given angular displacement, yielding 1440 V.",
+    "weight": 5
+  },
+  {
+    "title": "Area and unit conversion",
+    "description": "Important: The student must correctly compute the coil area from the given side lengths, converting cm to m.",
+    "weight": 3
+  },
+  {
+    "title": "Application of Faraday's law",
+    "description": "Important: The student must recognize that the instantaneous EMF is the negative time derivative of flux, leading to the sinusoidal form.",
+    "weight": 4
+  },
+  {
+    "title": "Cosine vs sine function",
+    "description": "Pitfall: The student incorrectly uses a sine function for the instantaneous EMF, not matching the initial condition from the diagram.",
+    "weight": -2
+  },
+  {
+    "title": "Flux change calculation for average",
+    "description": "Important: The student must correctly calculate the change in magnetic flux for the 30° rotation, using the initial and final angles.",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity in time calculation",
+    "description": "Pitfall: The student incorrectly calculates the time interval for the 30° rotation, leading to a wrong average EMF.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency and presentation",
+    "description": "Optional: The student's final answers include correct SI units (Wb, V) and the expression is clearly presented.",
+    "weight": 1
+  }
+]

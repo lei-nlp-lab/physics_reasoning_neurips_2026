@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Collision time",
+    "description": "Essential Criteria: The student must correctly state the collision time as 2 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum safe distance",
+    "description": "Essential Criteria: The student must correctly state the minimum safe distance as 2 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocities identified",
+    "description": "Important Criteria: The student must correctly extract the initial velocities from the graph and equation (4 m/s for motorcycle, 3 m/s for car).",
+    "weight": 3
+  },
+  {
+    "title": "Accelerations determined",
+    "description": "Important Criteria: The student must correctly calculate the decelerations from the slope and equation (0.5 m/s² for motorcycle, 0.25 m/s² for car).",
+    "weight": 3
+  },
+  {
+    "title": "Correct kinematic equations",
+    "description": "Important Criteria: The student must set up the correct displacement equations for both vehicles under uniform deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Relative displacement condition",
+    "description": "Important Criteria: The student must apply the condition that the motorcycle's extra displacement equals the initial gap L for collision.",
+    "weight": 4
+  },
+  {
+    "title": "Physical root selection",
+    "description": "Important Criteria: The student must discard the non-physical solution (e.g., t=6s) from the quadratic equation for collision time.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity equality analysis",
+    "description": "Optional Criteria: The student may find the time (4s) when the vehicles' speeds become equal as part of the safe distance reasoning.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: The student incorrectly uses positive acceleration values in the kinematic equations instead of negative for deceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall Criteria: The student provides final answers without proper units (s, m) or uses inconsistent units in calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity after 3s",
+    "description": "Essential: The response must correctly calculate and state the final velocity as 7 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Time for speed 21 m/s",
+    "description": "Essential: The response must correctly calculate and state the required time as 10 s.",
+    "weight": 5
+  },
+  {
+    "title": "Apply velocity-time equation",
+    "description": "Important: The solution must correctly apply the kinematic equation v = v0 + a*t for both parts.",
+    "weight": 4
+  },
+  {
+    "title": "Correct sign handling",
+    "description": "Important: The solution must consistently treat westward as the positive direction for velocity and acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should include proper units (m/s, s) in calculations and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear algebraic steps to solve for the unknown time in part (2).",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Penalize if the solution incorrectly uses negative signs for acceleration or velocity, leading to wrong magnitude or sign.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Penalize if the solution uses an incorrect kinematic equation (e.g., displacement equation) for these velocity-time problems.",
+    "weight": -1
+  }
+]

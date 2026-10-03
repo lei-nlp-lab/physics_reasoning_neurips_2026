@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Braking time correct",
+    "description": "Essential: The student's answer for the braking time must be 4 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Resistance force magnitude",
+    "description": "Essential: The student's answer for the magnitude of the resistance force must be 2.5 × 10³ N.",
+    "weight": 5
+  },
+  {
+    "title": "Waiting time calculation",
+    "description": "Essential: The student's answer for the waiting time must be 20 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Final speed at crosswalk",
+    "description": "Essential: The student's answer for the car's speed at the crosswalk in part (3) must be 5√5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion applied",
+    "description": "Important: The solution correctly converts velocities from km/h to m/s for use in kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Correct kinematic equations",
+    "description": "Important: The solution uses appropriate uniformly accelerated motion equations (e.g., v² = u² + 2as) for parts (1) and (3).",
+    "weight": 4
+  },
+  {
+    "title": "Child crossing time logic",
+    "description": "Important: For part (2), the solution correctly calculates the total time for the line of children to cross as (road width + line length) / child's speed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: The solution incorrectly uses a positive sign for the braking acceleration or force when it should be negative (deceleration).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect distance in part (3)",
+    "description": "Pitfall: The solution incorrectly uses the braking distance or acceleration from part (1) in the calculation for part (3), without recalculating for the new initial speed.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution demonstrates unit analysis or includes units consistently in intermediate steps.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Bound-State Energy",
+    "description": "Essential Criteria: The student must provide the correct expression for the modification of the bound-state energy caused by the wall.",
+    "weight": 5
+  },
+  {
+    "title": "Far Away Condition",
+    "description": "Essential Criteria: The student must correctly explain the condition for the wall being 'far away' in terms of d and k.",
+    "weight": 5
+  },
+  {
+    "title": "Existence Condition",
+    "description": "Essential Criteria: The student must state the correct condition on V0 and d for the existence of at least one bound state.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Continuity",
+    "description": "Important Criteria: The student should demonstrate understanding of the continuity of the wave function and its derivative at x = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of k",
+    "description": "Important Criteria: The student must correctly define and use the variable k in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Exponential Approximation",
+    "description": "Optional Criteria: The student may provide an approximation for k when d is large, showing understanding of limiting cases.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations, particularly in the energy expression.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

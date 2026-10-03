@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Horizontal acceleration correct",
+    "description": "Essential: Student correctly computes the acceleration on the horizontal plane using Newton's second law, accounting for applied force and kinetic friction.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at B correct",
+    "description": "Essential: Student correctly calculates the speed at point B using kinematics (e.g., v² = 2aL) with the proper horizontal acceleration and distance L.",
+    "weight": 5
+  },
+  {
+    "title": "Incline deceleration correct",
+    "description": "Important: Student correctly determines the deceleration on the incline using forces, including both gravity and kinetic friction components.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum distance correct",
+    "description": "Essential: Student correctly computes the maximum distance up the incline using kinematics (e.g., 0 - v_B² = 2(-a₁)x) with the proper deceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Force diagram reasoning",
+    "description": "Important: Student's solution shows clear application of Newton's second law on both the horizontal and inclined segments, identifying all relevant forces.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student's work maintains consistent units (m, s, kg, N) and includes them in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Student uses an incorrect sign for acceleration on the incline in the kinematic equation for stopping distance.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force mistake",
+    "description": "Pitfall: Student incorrectly calculates the friction force on the horizontal plane or on the incline (e.g., omitting the normal force component).",
+    "weight": -2
+  }
+]

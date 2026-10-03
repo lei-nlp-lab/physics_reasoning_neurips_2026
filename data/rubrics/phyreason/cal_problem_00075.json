@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force calculation",
+    "description": "Essential: Correctly calculates the normal force at point Q using Newton's second law and centripetal acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision velocity",
+    "description": "Essential: Correctly determines block a's speed at Q using conservation of mechanical energy.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocities",
+    "description": "Important: Correctly applies conservation of momentum and kinetic energy for the elastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Block a's rebound height",
+    "description": "Essential: Correctly calculates the maximum height block a reaches after the collision using energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Block b's motion analysis",
+    "description": "Important: Correctly analyzes block b's motion on the conveyor belt, identifying deceleration and uniform motion phases.",
+    "weight": 4
+  },
+  {
+    "title": "Total time for block b",
+    "description": "Essential: Correctly sums the time intervals for block b to travel the length of the conveyor belt.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in velocities",
+    "description": "Pitfall: Uses incorrect sign for post-collision velocity of block a (should be negative for rebound).",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction confusion",
+    "description": "Pitfall: Misidentifies the direction of friction on block b relative to the conveyor belt's motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows consistent use of SI units (kg, m, s, N) throughout the solution.",
+    "weight": 1
+  }
+]

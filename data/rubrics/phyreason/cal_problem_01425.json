@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Open-circuit temperature",
+    "description": "Essential: Correctly calculates the thermistor temperature when S is open, yielding the final answer of 10°C.",
+    "weight": 5
+  },
+  {
+    "title": "Closed-circuit motor current",
+    "description": "Important: Applies the motor's power equation (P = UI_motor - I_motor²r) to solve for the motor current.",
+    "weight": 4
+  },
+  {
+    "title": "Closed-circuit thermistor current",
+    "description": "Important: Uses Kirchhoff's Current Law at the junction to find the current through the thermistor (I_t = I_2 - I_motor).",
+    "weight": 4
+  },
+  {
+    "title": "Closed-circuit thermistor resistance",
+    "description": "Important: Correctly applies Ohm's Law to find the thermistor resistance (R_t2 = U / I_t) using the motor terminal voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Closed-circuit temperature",
+    "description": "Essential: Correctly calculates the thermistor temperature when S is closed, yielding the final answer of 50°C.",
+    "weight": 5
+  },
+  {
+    "title": "Motor terminal voltage",
+    "description": "Important: Calculates the voltage across the motor using U = E - I_2 * R_0.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (Volts, Amps, Ohms, Watts, °C) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect power formula",
+    "description": "Pitfall: Uses the incorrect formula for motor power (e.g., P = I²R or P = UI) instead of P = UI_motor - I_motor²r.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or current error",
+    "description": "Pitfall: Makes a sign error in Kirchhoff's law or misinterprets the relationship R_t = 70 - t.",
+    "weight": -1
+  }
+]

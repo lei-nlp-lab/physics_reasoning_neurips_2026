@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Normal force on B",
+    "description": "Essential: The student must correctly compute the normal force on object B (or the pressure from B on the ground) as 4mg in part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Tension in rope",
+    "description": "Important: The student must correctly determine the tension in the rope as 5mg when C has mass 5m and is in equilibrium.",
+    "weight": 4
+  },
+  {
+    "title": "Spring force equilibrium",
+    "description": "Important: The student must apply force balance on object A in the new equilibrium to find the spring force as 3mg.",
+    "weight": 4
+  },
+  {
+    "title": "Spring elongation calculation",
+    "description": "Important: The student must use Hooke's law to find the new elongation x1 = 3mg/k and the initial compression x2 = mg/k.",
+    "weight": 3
+  },
+  {
+    "title": "Total height risen",
+    "description": "Essential: The student must correctly sum the spring length changes to find the height A rises as h = x1 + x2 = 4mg/k in part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Forgetting initial compression",
+    "description": "Pitfall: The student might only consider the new elongation and omit the initial compression of the spring, leading to an answer of 3mg/k.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: The student might incorrectly assign directions for spring force, tension, or weight, leading to wrong equilibrium equations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student may verify that the final expression 4mg/k has correct dimensions of length.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states the magnitude of the electric field as E = 2mv₀²/(qR).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Essential: Correctly identifies the direction of the electric field as downward (negative y-axis).",
+    "weight": 5
+  },
+  {
+    "title": "Coordinates of point C",
+    "description": "Essential: Correctly gives one or both sets of coordinates for point C: ((2±√3)R/2, -R/2).",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity for part (3)",
+    "description": "Essential: Correctly gives one or both initial velocities: (2√2 ± √6)v₀/2.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Applies the work-energy theorem (ΔK = qE·Δy) to relate kinetic energy gain to vertical displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic decomposition",
+    "description": "Important: Separates motion into horizontal (uniform) and vertical (uniformly accelerated) components.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of circular path",
+    "description": "Important: Uses the circle equation (x-R)² + y² = R² to relate coordinates of exit points.",
+    "weight": 3
+  },
+  {
+    "title": "Time-of-flight consistency",
+    "description": "Important: Recognizes that horizontal and vertical motions share the same time variable for a given trajectory.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall: Uses incorrect sign for vertical displacement (e.g., positive instead of negative for downward field).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or dimension check",
+    "description": "Optional: Performs a unit/dimensional analysis to verify expressions for E or velocity.",
+    "weight": 1
+  }
+]

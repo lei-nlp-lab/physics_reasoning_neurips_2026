@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Probability (a)",
+    "description": "Essential Criteria: The student must correctly calculate the probability P1 for the particle in the ground state of the expanded box as 32/(9π^2).",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability (b)",
+    "description": "Essential Criteria: The student must determine that the first excited state has a probability P2 of 1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Final Distribution (c)",
+    "description": "Essential Criteria: The student must derive the momentum probability distribution correctly as 2πħ^3L/((ħ^2π^2 - p^2L^2)^2)(1 + cos(pL/ħ)).",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Setup",
+    "description": "Important Criteria: The student should correctly set up the initial and final wave functions for the particle in the box.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show the correct integration steps for calculating probabilities from the wave functions.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student may include a check for the normalization of the wave functions used in the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the integration process.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

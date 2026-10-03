@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The final answer for the coefficient of kinetic friction μ must be (qE cosθ - mg sinθ) / (mg cosθ + qE sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance along plane",
+    "description": "Important: The student must state or apply that the net force along the incline is zero, leading to the equation: friction + mg sinθ = qE cosθ.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance normal to plane",
+    "description": "Important: The student must correctly resolve forces perpendicular to the incline, giving the normal force as N = mg cosθ + qE sinθ.",
+    "weight": 4
+  },
+  {
+    "title": "Friction law application",
+    "description": "Important: The student must correctly apply the kinetic friction law, stating f = μN, and substitute the normal force into it.",
+    "weight": 3
+  },
+  {
+    "title": "Correct force directions",
+    "description": "Pitfall: Penalize if the direction of the electric force component along the incline (qE cosθ) or the friction force is reversed, or if gravity/mg sinθ is misplaced.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Award if the student shows clear, logical steps in solving the simultaneous equations to isolate μ.",
+    "weight": 1
+  },
+  {
+    "title": "Physical condition stated",
+    "description": "Optional: The student explicitly notes that constant velocity implies zero net force (Newton's first law) as the starting point.",
+    "weight": 1
+  }
+]

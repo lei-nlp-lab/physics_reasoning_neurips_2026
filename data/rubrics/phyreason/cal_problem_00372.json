@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ball b post-collision speed",
+    "description": "Essential Criteria: The final numerical answer for part (1) must be 6 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Ball a maximum speed",
+    "description": "Essential Criteria: The final numerical answer for part (2) must be 4.9 m/s (or √(2g(L+R))).",
+    "weight": 5
+  },
+  {
+    "title": "v0 range endpoints",
+    "description": "Essential Criteria: The final answer for part (3) must state the range 5 m/s < v0 ≤ 9.8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for ball b",
+    "description": "Important Criteria: Applies conservation of mechanical energy from point B to P, relating v_b1 to v_b2 and the height gain (2R+L).",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal condition at P",
+    "description": "Important Criteria: States the condition for circular motion at the top point P: m_b*g ≤ m_b*v_b2²/R, leading to v_b2 ≥ √(gR).",
+    "weight": 4
+  },
+  {
+    "title": "Elastic collision equations",
+    "description": "Important Criteria: Correctly applies both momentum and kinetic energy conservation for the 1D elastic collision between balls a and b.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy on rough track",
+    "description": "Important Criteria: Applies the work-energy theorem for ball a on AQ, relating v_a1 to friction: v_a1² > 2μgs.",
+    "weight": 3
+  },
+  {
+    "title": "Energy limit for ball a",
+    "description": "Optional Criteria: Recognizes the upper limit for v_a1 from converting all kinetic energy to potential at the top of the arc: v_a1max = √(2g(L+R)).",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Uses an incorrect sign in the 1D momentum equation (e.g., adding velocities for same direction post-collision).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or inequality mistake",
+    "description": "Pitfall Criteria: Presents final range with incorrect inequality signs (e.g., using ≤ instead of < for the lower bound from friction).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct height H",
+    "description": "Essential Criteria: The final answer for part (1) must be H = 60 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct voltage U",
+    "description": "Essential Criteria: The final answer for part (2) must be U = 1000√2 V or its numerical equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: The solution must correctly apply the horizontal displacement equation L = v₀cosθ * t.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conversion relation",
+    "description": "Important Criteria: The solution must equate the projectile's kinetic energy (½mv₀²) to the converted capacitor energy (η * ½CU²).",
+    "weight": 4
+  },
+  {
+    "title": "Time of flight calculation",
+    "description": "Important Criteria: The solution must solve for the time of flight t from the horizontal motion equation.",
+    "weight": 2
+  },
+  {
+    "title": "Vertical displacement calculation",
+    "description": "Important Criteria: The solution must correctly calculate the height H using the vertical motion equation H = v₀sinθ * t - ½gt².",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should correctly handle unit conversions, especially for microfarads (μF) in the capacitance.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in vertical motion",
+    "description": "Pitfall Criteria: Penalize if the vertical displacement equation uses +½gt² (incorrect sign for gravity) instead of -½gt².",
+    "weight": -2
+  },
+  {
+    "title": "Efficiency misapplication",
+    "description": "Pitfall Criteria: Penalize if the efficiency η is applied incorrectly (e.g., ηE_k = E_capacitor instead of E_k = ηE_capacitor).",
+    "weight": -1
+  }
+]

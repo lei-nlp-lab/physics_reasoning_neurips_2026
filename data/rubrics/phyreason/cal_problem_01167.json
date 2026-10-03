@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final answer",
+    "description": "Essential: The response must give the correct final expression for the rate of change of the shadow length, which is Lv/(h-L).",
+    "weight": 5
+  },
+  {
+    "title": "Similar triangles setup",
+    "description": "Important: The solution must correctly apply similar triangles to relate the person's position to the tip of the shadow.",
+    "weight": 4
+  },
+  {
+    "title": "Shadow length expression",
+    "description": "Important: The solution must derive an expression for the shadow length (SM) as a function of time before differentiating.",
+    "weight": 3
+  },
+  {
+    "title": "Differentiation step",
+    "description": "Important: The solution must correctly differentiate the shadow length expression with respect to time.",
+    "weight": 3
+  },
+  {
+    "title": "Person's position",
+    "description": "Optional: The solution may explicitly state the person's horizontal distance from the pole as vt.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect triangle ratio",
+    "description": "Pitfall: Deduct points if the similar triangles ratio is set up incorrectly (e.g., h/(h-L) inverted).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebra error",
+    "description": "Pitfall: Deduct points for algebraic mistakes in combining terms to find SM or its derivative.",
+    "weight": -1
+  }
+]

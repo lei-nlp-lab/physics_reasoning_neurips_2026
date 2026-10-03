@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Eigenvalues Correct",
+    "description": "Essential Criteria: The eigenvalues of the operator must be correctly identified as 1 and 2.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenstates Correct",
+    "description": "Essential Criteria: The eigenstates corresponding to the eigenvalues must be correctly derived as (1, 0) and (0, 1).",
+    "weight": 5
+  },
+  {
+    "title": "Hermitian Proof",
+    "description": "Important Criteria: The proof that the operator is Hermitian must be clearly stated and justified.",
+    "weight": 4
+  },
+  {
+    "title": "Quadratic Equation Usage",
+    "description": "Important Criteria: The correct application of the quadratic equation to find eigenvalues must be shown.",
+    "weight": 3
+  },
+  {
+    "title": "Matrix Representation",
+    "description": "Optional Criteria: The representation of the operator as a matrix should be included for clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Any sign mistakes in the eigenvalue calculation or eigenstate derivation will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any inconsistencies in the units of the eigenstates or eigenvalues will result in a deduction.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Resistance Formula",
+    "description": "Essential Criteria: The student must provide the correct final expression for resistance R.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ohm's Law",
+    "description": "Important Criteria: The student should correctly apply Ohm's law in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Gauss' Law Application",
+    "description": "Important Criteria: The student must demonstrate the use of Gauss' law to derive the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Assumptions Stated",
+    "description": "Important Criteria: The student should clearly state the assumptions made about the conductors and material.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: The student may show the integration steps used to find the potential difference.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the integration.",
+    "weight": -2
+  },
+  {
+    "title": "Spherical Symmetry",
+    "description": "Optional Criteria: The student may mention the importance of spherical symmetry in the problem.",
+    "weight": 1
+  }
+]

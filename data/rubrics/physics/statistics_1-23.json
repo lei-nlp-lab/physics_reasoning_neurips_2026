@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The student must correctly calculate the temperature of the shell as T_1 = T / (2^(1/4)).",
+    "weight": 5
+  },
+  {
+    "title": "Power Reduction Explanation",
+    "description": "Essential Criteria: The student must explain that the total power radiated is reduced by half due to the heat shield's radiation back to the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Radiative Equilibrium Concept",
+    "description": "Important Criteria: The student should demonstrate understanding of radiative equilibrium and the relationship between the sphere and the shell.",
+    "weight": 4
+  },
+  {
+    "title": "Impact of Additional Shields",
+    "description": "Important Criteria: The student should discuss how adding more heat shields continues to reduce the total power radiated.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs in the equations for power or temperature.",
+    "weight": -2
+  }
+]

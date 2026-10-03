@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct expression for the surface charge density induced on the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Transformation",
+    "description": "Important Criteria: The student correctly transforms the electric field from the laboratory frame to the rest frame of the sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Transformation",
+    "description": "Important Criteria: The student accurately transforms the magnetic field from the laboratory frame to the rest frame of the sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Condition Application",
+    "description": "Important Criteria: The student applies the boundary condition for the electric displacement field correctly to find the surface charge density.",
+    "weight": 5
+  },
+  {
+    "title": "Neglecting Higher Order Terms",
+    "description": "Optional Criteria: The student appropriately neglects higher order terms in the approximation of gamma.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student fails to maintain the correct signs when calculating the surface charge density.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student does not check for consistency of units in the final expression for surface charge density.",
+    "weight": -1
+  }
+]

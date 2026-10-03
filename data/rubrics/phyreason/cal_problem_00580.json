@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct color identification",
+    "description": "Essential Criteria: The response must correctly identify the perceived color as green based on the calculated wavelength.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength calculation",
+    "description": "Important Criteria: The response should show the correct calculation of wavelength using λ = c/v with the given frequency and speed of light.",
+    "weight": 4
+  },
+  {
+    "title": "Unit conversion to nanometers",
+    "description": "Important Criteria: The response should convert the calculated wavelength from meters to nanometers (500 nm) for color identification.",
+    "weight": 3
+  },
+  {
+    "title": "Physics relationship application",
+    "description": "Important Criteria: The response must correctly apply the relationship between wave speed, frequency, and wavelength.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect color from wavelength",
+    "description": "Pitfall Criteria: Penalize if the student calculates the correct wavelength but misidentifies the corresponding color (e.g., says blue or yellow instead of green).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect formula (e.g., λ = v/c instead of λ = c/v) for wavelength calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The response may demonstrate proper unit handling throughout the calculation process.",
+    "weight": 1
+  }
+]

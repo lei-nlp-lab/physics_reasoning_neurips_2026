@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct expression for c_1 as derived from entropy considerations.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Important Criteria: The student correctly applies the relationship between heat capacity and entropy, C = T dS/dT.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Setup",
+    "description": "Important Criteria: The student sets up the integral for the total change in entropy correctly, S(infinity) - S(0) = integral of C/T dT.",
+    "weight": 4
+  },
+  {
+    "title": "Limits of Integration",
+    "description": "Important Criteria: The student correctly identifies the limits of integration for the entropy calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that the units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student makes a sign mistake or miscalculates the integral leading to an incorrect final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Understanding of Concepts",
+    "description": "Optional Criteria: The student demonstrates a clear understanding of the physical concepts of entropy and heat capacity.",
+    "weight": 1
+  }
+]

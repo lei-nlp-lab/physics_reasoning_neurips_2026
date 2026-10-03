@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tube acceleration after first collision",
+    "description": "Essential: Correctly states the tube's acceleration magnitude as 2g immediately after the first collision.",
+    "weight": 5
+  },
+  {
+    "title": "Ball acceleration after first collision",
+    "description": "Essential: Correctly states the ball's acceleration magnitude as 3g immediately after the first collision.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum height after first rebound",
+    "description": "Essential: Correctly calculates the maximum height the tube reaches after the first bounce as (13/25)H.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum tube length condition",
+    "description": "Essential: Correctly derives the condition for the tube length L as L ≥ (152/125)H.",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's second law",
+    "description": "Important: Applies Newton's second law separately to the tube and ball after the first collision, using the given frictional force.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity before first impact",
+    "description": "Important: Correctly uses kinematics (v₀ = √(2gH)) to find the speed of tube and ball just before the first ground collision.",
+    "weight": 3
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Analyzes the relative motion between ball and tube after a bounce to find the relative displacement (e.g., x₁ = 4H/5).",
+    "weight": 4
+  },
+  {
+    "title": "Energy or kinematics for height",
+    "description": "Important: Uses energy methods or kinematics correctly to find the tube's maximum height after the first rebound.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in accelerations",
+    "description": "Pitfall: Assigns incorrect signs or directions to the accelerations of the tube or ball after the collision.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring relative displacement sum",
+    "description": "Pitfall: Fails to sum the relative displacements from the first and second rebounds (x₁ + x₂) for the length condition.",
+    "weight": -2
+  }
+]

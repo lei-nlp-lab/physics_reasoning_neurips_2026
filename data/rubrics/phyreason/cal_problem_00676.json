@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electrical energy consumed",
+    "description": "Essential: The final answer for part (1) must be correctly calculated as 1.08 × 10⁵ J.",
+    "weight": 5
+  },
+  {
+    "title": "Output power calculation",
+    "description": "Essential: The final answer for part (2) must be correctly calculated as 350 W.",
+    "weight": 5
+  },
+  {
+    "title": "Internal resistance value",
+    "description": "Essential: The final answer for part (3) must be correctly calculated as 0.1 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium at max speed",
+    "description": "Important: The solution must apply Newton's first law, stating traction force equals the total resistive force at maximum speed.",
+    "weight": 4
+  },
+  {
+    "title": "Resistive force calculation",
+    "description": "Important: The resistive force must be correctly calculated as 0.05 times the total weight of the rider and bicycle.",
+    "weight": 4
+  },
+  {
+    "title": "Power balance for motor",
+    "description": "Important: The solution must use the conservation of power: electrical input power equals output mechanical power plus thermal power loss.",
+    "weight": 4
+  },
+  {
+    "title": "Joule heating formula",
+    "description": "Important: The thermal power loss must be correctly expressed as I²r.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent SI units (kg, m, s, J, W, Ω).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force or power formula",
+    "description": "Pitfall: Using P = Fv with an incorrect force (e.g., using weight instead of resistive force) or incorrect speed.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or factor error in resistance",
+    "description": "Pitfall: Misapplying the 0.05 factor (e.g., using 0.5) or miscalculating the total mass (rider + bicycle).",
+    "weight": -1
+  }
+]

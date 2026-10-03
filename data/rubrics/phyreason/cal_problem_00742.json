@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Secondary voltage effective value",
+    "description": "Essential: The student must correctly calculate the effective voltage across the secondary coil as 22 V.",
+    "weight": 5
+  },
+  {
+    "title": "Primary current reading",
+    "description": "Essential: The student must correctly calculate the ammeter reading in the primary coil as approximately 0.273 A.",
+    "weight": 5
+  },
+  {
+    "title": "Primary voltage effective value",
+    "description": "Important: The student must correctly compute the effective voltage of the primary source from its given peak value.",
+    "weight": 4
+  },
+  {
+    "title": "Transformer voltage ratio",
+    "description": "Important: The student must correctly apply the turns ratio to relate primary and secondary effective voltages.",
+    "weight": 4
+  },
+  {
+    "title": "Power conservation application",
+    "description": "Important: The student must apply power conservation (P_in = P_out) for the ideal transformer to find the primary current.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's final answers should include correct units (V and A).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing peak with effective",
+    "description": "Pitfall: Using the primary peak voltage (311 V) directly in the transformer ratio or power equation without converting to effective value.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect power equation",
+    "description": "Pitfall: Using an incorrect formula (e.g., I1 = P2 / U2) to find the primary current, reversing the voltage transformation.",
+    "weight": -2
+  }
+]

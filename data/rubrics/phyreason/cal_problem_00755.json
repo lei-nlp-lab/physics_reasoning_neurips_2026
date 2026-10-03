@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Velocity of A",
+    "description": "Essential: The student must state that the speed of block A when it separates from the spring is 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity of B",
+    "description": "Essential: The student must state that the speed of block B when it separates from the spring is 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Spring Potential Energy",
+    "description": "Essential: The student must calculate and state the initial elastic potential energy as 50 J.",
+    "weight": 5
+  },
+  {
+    "title": "A's Circular Motion Condition",
+    "description": "Important: The solution must correctly apply Newton's second law for circular motion at the highest point to find the minimum speed.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation for A",
+    "description": "Important: The solution must apply conservation of mechanical energy from the launch point to the top of the semicircle for block A.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation for B",
+    "description": "Important: The solution must apply conservation of linear momentum to find the common velocity of block B and the plank.",
+    "weight": 4
+  },
+  {
+    "title": "Work-Energy for Sliding",
+    "description": "Important: The solution must apply the work-energy theorem or energy conservation to find the relative displacement or energy loss for block B on the plank.",
+    "weight": 4
+  },
+  {
+    "title": "Conclusion on Sliding Off",
+    "description": "Important: The solution must correctly conclude, with reasoning, that block B slides off the plank because the required relative displacement exceeds the plank's length.",
+    "weight": 3
+  },
+  {
+    "title": "Internal Energy Calculation",
+    "description": "Important: The student must correctly calculate the internal energy generated (Q) as 10 J.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or Unit Error",
+    "description": "Pitfall: Deduct for sign errors in velocity directions, incorrect unit usage, or forgetting to square velocities in energy terms.",
+    "weight": -2
+  },
+  {
+    "title": "Friction Force Mistake",
+    "description": "Pitfall: Deduct for using the wrong mass (e.g., M instead of m) in the kinetic friction force formula (μmg).",
+    "weight": -1
+  }
+]

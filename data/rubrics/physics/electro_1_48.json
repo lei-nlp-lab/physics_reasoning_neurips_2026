@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Capacitance Expression",
+    "description": "Essential Criteria: The final expression for the new capacitance C' must be correctly stated as C' = (ε + ε0)/(2ε0)C.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The application of Gauss' law to derive the relationship between electric fields before and after introducing the dielectric must be correctly demonstrated.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Relationship",
+    "description": "Important Criteria: The relationship between the electric fields E and E' must be correctly stated as E' = K E, with K defined appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Difference Calculation",
+    "description": "Important Criteria: The calculation of the potential difference V and its modification to V' after introducing the dielectric must be clearly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units of capacitance and dielectric constant should be checked for consistency throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the dielectric constant in the final expression will result in a deduction.",
+    "weight": -2
+  }
+]

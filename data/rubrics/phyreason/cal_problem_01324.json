@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ball A speed",
+    "description": "Essential: The final answer for part (1) must be √(gL) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Ball B force magnitude",
+    "description": "Essential: The final answer for part (2) must be 3mg or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Condition at highest point",
+    "description": "Important: Correctly applies the condition that the normal force on ball A is zero at the highest point to find its speed.",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity consistency",
+    "description": "Important: Recognizes that both balls share the same angular velocity ω, and correctly relates it to the linear speeds v_A and v_B.",
+    "weight": 3
+  },
+  {
+    "title": "Force analysis for ball B",
+    "description": "Important: Applies Newton's second law to ball B at the highest point, identifying all forces (gravity, rod force) and centripetal acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Optional: Explicitly states that the force of ball B on the rod is equal and opposite to the force of the rod on ball B.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns the direction of the net force on ball B (e.g., setting F_B + mg = mω²(2L)) or misinterprets the force exerted by ball B on the rod as upward.",
+    "weight": -2
+  },
+  {
+    "title": "Radius confusion",
+    "description": "Pitfall: Uses an incorrect radius (e.g., L instead of 2L) for calculating the centripetal force on ball B.",
+    "weight": -2
+  }
+]

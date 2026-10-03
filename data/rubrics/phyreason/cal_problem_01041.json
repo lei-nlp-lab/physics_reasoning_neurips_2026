@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Total energy calculation",
+    "description": "Essential: Student correctly calculates total solar energy converted using Q = 0.2 × E₀ × time × area with proper unit handling.",
+    "weight": 5
+  },
+  {
+    "title": "Final temperature determination",
+    "description": "Essential: Student obtains correct final temperature using t = t₀ + Q/(c·m) with c = 4200 J/(kg·°C) for water.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conversion reasoning",
+    "description": "Important: Student identifies that only 20% of incident solar energy is converted to water's internal energy.",
+    "weight": 3
+  },
+  {
+    "title": "Time unit conversion",
+    "description": "Important: Student converts 4 hours to seconds (14400 s) for consistent SI units in energy calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Specific heat application",
+    "description": "Important: Student applies Q = mcΔt formula correctly to relate energy to temperature change.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student verifies all units are consistent (J, m², s, kg, °C) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: Student reports answers with appropriate significant figures (3.02×10⁷ J, 56°C).",
+    "weight": 1
+  },
+  {
+    "title": "Forgot efficiency factor",
+    "description": "Pitfall: Student uses 100% instead of 20% efficiency, calculating energy as 5× too large.",
+    "weight": -2
+  },
+  {
+    "title": "Time unit error",
+    "description": "Pitfall: Student uses hours instead of seconds in energy calculation, getting wrong energy by factor of 3600.",
+    "weight": -2
+  },
+  {
+    "title": "Specific heat confusion",
+    "description": "Pitfall: Student uses wrong specific heat value or confuses Q = mcΔt with other heat formulas.",
+    "weight": -1
+  }
+]

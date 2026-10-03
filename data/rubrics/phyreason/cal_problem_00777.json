@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time interval formula",
+    "description": "Essential Criteria: The student must derive or state the final expression Δt' = (v_p - v_s)/(v_p - v_A) * Δt.",
+    "weight": 5
+  },
+  {
+    "title": "Correct frequency formula",
+    "description": "Essential Criteria: The student must derive or state the final expression f' = (v_p - v_A)/(v_p - v_s) * f.",
+    "weight": 5
+  },
+  {
+    "title": "Proper wave propagation analysis",
+    "description": "Important Criteria: The solution must correctly set up equations for the distances traveled by the sound signals and the moving source/observer.",
+    "weight": 4
+  },
+  {
+    "title": "Relates period to time interval",
+    "description": "Important Criteria: The solution must correctly connect the received time interval Δt' to the received period T' and the emitted period T.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent sign convention",
+    "description": "Important Criteria: The derivation must use a consistent sign convention for velocities along the positive x-axis.",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis or check",
+    "description": "Optional Criteria: The student may perform a dimensional analysis to verify the formulas are dimensionally consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect relative velocity",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses v_p + v_s or v_p + v_A in the numerator or denominator.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses period and frequency",
+    "description": "Pitfall Criteria: Penalize if the student inverts the relationship between period and frequency when deriving f'.",
+    "weight": -1
+  }
+]

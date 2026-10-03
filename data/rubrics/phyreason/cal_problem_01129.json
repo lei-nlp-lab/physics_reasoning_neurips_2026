@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field horizontal coordinate",
+    "description": "Essential: The student's final answer for part (1) must be expressed as a multiple of L, specifically (24/7)L.",
+    "weight": 5
+  },
+  {
+    "title": "E to B ratio",
+    "description": "Essential: The student's final answer for part (2) must be expressed as a multiple of v0, specifically (5/8)v0.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity component analysis",
+    "description": "Important: The solution must correctly state that the horizontal velocity component is constant in the electric field, leading to v cos(53°) = v0 sin(53°).",
+    "weight": 4
+  },
+  {
+    "title": "Momentum change in E-field",
+    "description": "Important: The solution must apply the impulse-momentum theorem vertically in the electric field, relating qEt to the change in vertical momentum (mv sin53° + mv0 cos53°).",
+    "weight": 4
+  },
+  {
+    "title": "Energy change in E-field",
+    "description": "Important: The solution must apply the work-energy theorem in the electric field, relating qEL to the change in kinetic energy (1/2 mv^2 - 1/2 mv0^2).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion",
+    "description": "Important: The solution must apply Newton's second law for circular motion in the magnetic field, stating Bqv = mv^2 / R.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of magnetic path",
+    "description": "Important: The solution must correctly relate the radius R of the circular arc to the horizontal coordinate x1 using the geometry of the chord, yielding 2R sin(53°) = x1.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Penalize if the impulse-momentum equation incorrectly handles the sign/direction of the initial vertical velocity component (v0 cos53°).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect velocity relation",
+    "description": "Pitfall: Penalize if the student incorrectly assumes the speed v is unchanged in the electric field or misidentifies the constant velocity component.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer 1",
+    "description": "Essential Criteria: The probability of finding He+ in the ground state must be correctly calculated as 512/729.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer 2",
+    "description": "Essential Criteria: The probability of finding He+ in the 2s state must be correctly calculated as 1/4.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer 3",
+    "description": "Essential Criteria: The probability of finding He+ in the 2p state must be correctly calculated as 0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Integrals",
+    "description": "Important Criteria: The integrals used to calculate the coefficients a1, a2, and a3 must be set up correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: A check for the normalization of the wave functions involved in the calculations is beneficial.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the coefficients a2 and a3.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

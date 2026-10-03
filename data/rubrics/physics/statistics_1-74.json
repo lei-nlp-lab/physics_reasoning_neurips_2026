@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers for c_v",
+    "description": "Essential Criteria: The student must correctly identify and state c_v as (5/2)nR.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for c_p",
+    "description": "Essential Criteria: The student must correctly identify and state c_p as (7/2)nR.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Density Comparison",
+    "description": "Essential Criteria: The student must correctly express the energy density U/V in terms of pressure p.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Derivation Steps",
+    "description": "Important Criteria: The student must show the correct derivation of U from the entropy equation.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Ideal Gas Law",
+    "description": "Important Criteria: The student must correctly apply the ideal gas law in the context of energy density.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Optional Criteria: The student may convert temperatures from Fahrenheit to Kelvin or Celsius for clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the derivation of specific heats.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that units are consistent throughout the calculations.",
+    "weight": -2
+  }
+]

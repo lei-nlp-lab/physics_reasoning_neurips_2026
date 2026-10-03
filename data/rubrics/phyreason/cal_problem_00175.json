@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct blue distance formula",
+    "description": "Essential Criteria: The response must provide the expression $h_{blue} = h_{red} \\sqrt{\\frac{n_{red}^2 - 1}{n_{blue}^2 - 1}}$ for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Correct relative position",
+    "description": "Essential Criteria: The response must state that the blue light source is above the red light source for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Applies critical angle condition",
+    "description": "Important Criteria: The solution must apply Snell's law to derive the critical angle condition $\\sin C = 1/n$ for each color.",
+    "weight": 4
+  },
+  {
+    "title": "Relates geometry to critical angle",
+    "description": "Important Criteria: The reasoning must correctly relate the critical angle to the geometry, setting $\\sin C = h / \\sqrt{R^2 + h^2}$.",
+    "weight": 4
+  },
+  {
+    "title": "Compares refractive indices",
+    "description": "Important Criteria: The solution must note that $n_{blue} > n_{red}$ for visible light and use this to compare $h_{blue}$ and $h_{red}$.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional Criteria: The work should show clear algebraic steps to solve for $h_{blue}$ from the two critical angle equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or inequality error",
+    "description": "Pitfall Criteria: Penalize if the final comparison of positions (above/below) is reversed or if an incorrect inequality is derived from the formula.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies critical angle",
+    "description": "Pitfall Criteria: Penalize if the critical angle condition is written incorrectly, e.g., using $\\sin C = n$ instead of $1/n$.",
+    "weight": -2
+  }
+]

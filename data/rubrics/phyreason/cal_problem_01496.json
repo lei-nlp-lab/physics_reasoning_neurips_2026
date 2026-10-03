@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final magnitude",
+    "description": "Essential Criteria: The response must state the magnitude of the force as 2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final direction",
+    "description": "Essential Criteria: The response must state the direction of the force as vertically upward.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important Criteria: The solution must apply conservation of mechanical energy to find the ball's speed at the highest point.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law at P",
+    "description": "Important Criteria: The solution must correctly apply Newton's second law (F_net = m v^2/L) to the ball at the highest point.",
+    "weight": 4
+  },
+  {
+    "title": "Force identification and third law",
+    "description": "Important Criteria: The solution must correctly identify the rod-on-ball force from the net force and apply Newton's third law to find the ball-on-rod force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent use of SI units (kg, m, s, N) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error for force",
+    "description": "Pitfall Criteria: Penalize if the direction of the force (e.g., stating downward) is incorrect or if the sign in the force balance equation (F + mg = mv^2/L) is wrong.",
+    "weight": -2
+  },
+  {
+    "title": "Energy or centripetal formula misuse",
+    "description": "Pitfall Criteria: Penalize major errors such as omitting potential energy in conservation or using incorrect centripetal acceleration (e.g., v^2/r vs. other).",
+    "weight": -1
+  }
+]

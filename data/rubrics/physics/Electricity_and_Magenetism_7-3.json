@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Magnetic Field",
+    "description": "Essential Criteria: The expression for the magnetic field B(s) must be correctly derived and presented for both cases of s relative to a.",
+    "weight": 5
+  },
+  {
+    "title": "Bound Current Density",
+    "description": "Essential Criteria: The bound current density J_b must be correctly expressed in terms of susceptibility and free current density.",
+    "weight": 5
+  },
+  {
+    "title": "Surface Current Density",
+    "description": "Important Criteria: The surface bound current density K_b must be correctly derived and presented.",
+    "weight": 4
+  },
+  {
+    "title": "Net Bound Current",
+    "description": "Essential Criteria: The net bound current I_b must be correctly calculated and shown to be zero.",
+    "weight": 5
+  },
+  {
+    "title": "Free Current Density",
+    "description": "Important Criteria: The free current density J_f must be correctly identified and used in calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry Argument",
+    "description": "Optional Criteria: A clear explanation of the symmetry argument leading to the form of H(s) should be included.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing the correct factors or signs in the expressions for B(s) or J_b will result in significant deductions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Failure to maintain consistent units throughout the derivation will result in deductions.",
+    "weight": -1
+  }
+]

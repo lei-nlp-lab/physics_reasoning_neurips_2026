@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Bohr's Postulate",
+    "description": "Essential Criteria: Clearly state the quantization condition mvr = nħ.",
+    "weight": 5
+  },
+  {
+    "title": "De Broglie Relationship",
+    "description": "Essential Criteria: Derive and state the relationship 2πr = nλ.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Definition",
+    "description": "Important Criteria: Explain the relationship between momentum and energy levels derived from the quantization condition.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength Explanation",
+    "description": "Important Criteria: Discuss how the de Broglie wavelength relates to the circular orbits in Bohr's model.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check that units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes or misinterpretation of the quantization condition.",
+    "weight": -2
+  }
+]

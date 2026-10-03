@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Work done by student",
+    "description": "Essential Criteria: The response must correctly compute the work done as the initial kinetic energy, yielding 7.5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision horizontal velocity",
+    "description": "Essential Criteria: The response must correctly compute the horizontal velocity just before collision as v1*sin(53°) = 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision horizontal velocity",
+    "description": "Essential Criteria: The response must correctly compute the post-collision horizontal velocity v3 from the projectile motion to the basket, yielding 3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Average horizontal force",
+    "description": "Essential Criteria: The response must correctly apply the impulse-momentum theorem to find the average horizontal force, yielding 420 N.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The solution should correctly apply the work-energy theorem to relate the work done to the initial kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important Criteria: The solution should correctly analyze the projectile motion after the collision to relate h, L, g, and v3.",
+    "weight": 3
+  },
+  {
+    "title": "Impulse-momentum setup",
+    "description": "Important Criteria: The solution should correctly set up the impulse-momentum equation for the horizontal collision with the backboard.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in impulse",
+    "description": "Pitfall Criteria: Penalize if the student makes a sign error in the impulse-momentum equation (e.g., incorrect direction for v3).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution demonstrates consistent use of SI units (J, m/s, N) throughout the calculations.",
+    "weight": 1
+  }
+]

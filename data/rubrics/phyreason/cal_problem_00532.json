@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Internal resistance calculation",
+    "description": "Essential: Correctly calculates internal resistance r = 0.5 Ω using E = U + Ir or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Parallel equivalent resistance",
+    "description": "Important: Correctly computes equivalent resistance of parallel combination (2.0 Ω).",
+    "weight": 3
+  },
+  {
+    "title": "Terminal voltage with parallel load",
+    "description": "Essential: Correctly calculates U₁ = 3.6 V using Ohm's law with new circuit parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Series circuit current",
+    "description": "Important: Correctly determines total current (0.5 A) with series resistor R₂ added.",
+    "weight": 3
+  },
+  {
+    "title": "Joule heat calculation",
+    "description": "Essential: Correctly computes Q = 67.5 J using P = I²R with proper time conversion.",
+    "weight": 5
+  },
+  {
+    "title": "Time unit conversion",
+    "description": "Pitfall: Fails to convert 1 minute to 60 seconds in Joule heat formula.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in voltage equation",
+    "description": "Pitfall: Uses E = U - Ir instead of E = U + Ir for internal resistance calculation.",
+    "weight": -1
+  },
+  {
+    "title": "Parallel/series confusion",
+    "description": "Pitfall: Treats parallel resistor as series in part (2) or vice versa in part (3).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis for all calculations to verify dimensional consistency.",
+    "weight": 1
+  }
+]

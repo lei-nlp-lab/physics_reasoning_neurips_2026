@@ -1,0 +1,47 @@
+[
+  {
+    "title": "First Law Application",
+    "description": "Essential: Student must correctly apply ΔU = Q + W (or Q = ΔU - W) for both processes.",
+    "weight": 5
+  },
+  {
+    "title": "Isothermal Process Recognition",
+    "description": "Important: Student must recognize that for the ascent, constant temperature implies ΔU = 0 for an ideal gas.",
+    "weight": 4
+  },
+  {
+    "title": "Work Sign Convention",
+    "description": "Important: Student must correctly interpret the sign of work (W negative when system does work on surroundings).",
+    "weight": 4
+  },
+  {
+    "title": "Ascent Heat Calculation",
+    "description": "Essential: Final answer for part (1) must be 0.6 J.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Essential: Final answer for part (2) must be 0.2 J.",
+    "weight": 5
+  },
+  {
+    "title": "Process Separation",
+    "description": "Important: Student must treat the ascent and surface heating as distinct processes with separate First Law applications.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Student maintains consistent energy units (Joules) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign Error Penalty",
+    "description": "Pitfall: Incorrect sign for work (e.g., using W = +0.6J for ascent) leading to wrong Q or ΔU.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Conservation Violation",
+    "description": "Pitfall: Applying First Law in a form that violates energy conservation (e.g., ΔU = Q - W with wrong sign convention).",
+    "weight": -2
+  }
+]

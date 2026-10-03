@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct f2 magnitude",
+    "description": "Essential: Student must state that the friction force from ground on B equals the applied force F1 = 14 N because the system is at rest and F1 is less than maximum static friction.",
+    "weight": 5
+  },
+  {
+    "title": "Correct f1 magnitude",
+    "description": "Essential: Student must state that the friction force B exerts on A is 0 N, as A experiences no net horizontal force when at rest relative to B.",
+    "weight": 5
+  },
+  {
+    "title": "Correct F2 magnitude",
+    "description": "Essential: Student must calculate F2 = 2μmg = 16 N for constant velocity motion, equaling the total kinetic friction on both blocks.",
+    "weight": 5
+  },
+  {
+    "title": "Correct elastic force",
+    "description": "Essential: Student must calculate the elastic (contact) force A exerts on B as μmg = 8 N, balancing the friction on B.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's First Law",
+    "description": "Important: Student correctly applies Newton's First Law (zero net force) to analyze equilibrium or constant velocity for each block.",
+    "weight": 4
+  },
+  {
+    "title": "Use friction formulas",
+    "description": "Important: Student correctly uses kinetic friction formula f = μN and identifies when static friction equals applied force.",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Optional: Student uses free-body diagrams or explicitly identifies forces on each block to set up equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (N) with numerical answers or shows unit analysis in steps.",
+    "weight": 1
+  },
+  {
+    "title": "Confuse static/kinetic friction",
+    "description": "Pitfall: Student incorrectly uses kinetic friction for part (1) when blocks are stationary, or misapplies maximum static friction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student makes a sign error in force equations, or incorrectly assumes internal friction between A and B in part (1).",
+    "weight": -1
+  }
+]

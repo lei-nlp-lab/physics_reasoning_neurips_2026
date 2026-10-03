@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Resistance force magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly calculated as 4000 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration time",
+    "description": "Essential: The final answer for part (2) must be correctly calculated as 5 s.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous power",
+    "description": "Essential: The final answer for part (3) must be correctly calculated as 48000 W (or 48 kW).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration at given speed",
+    "description": "Essential: The final answer for part (4) must be correctly calculated as 0.5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Applying power-velocity relation",
+    "description": "Important: The solution must correctly use the relation P = F * v to find forces at maximum speed and other instants.",
+    "weight": 4
+  },
+  {
+    "title": "Applying Newton's second law",
+    "description": "Important: The solution must apply F_net = m*a to relate traction force, resistance, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Identifying motion phases",
+    "description": "Important: The solution must recognize that constant acceleration occurs only until the car's power limit is reached.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent SI units (kW to W, etc.).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Penalize if the resistance force is incorrectly assumed to be zero or if the net force is miscalculated.",
+    "weight": -2
+  },
+  {
+    "title": "Power misuse",
+    "description": "Pitfall: Penalize if rated power is incorrectly used during constant acceleration without considering the changing traction force.",
+    "weight": -2
+  }
+]

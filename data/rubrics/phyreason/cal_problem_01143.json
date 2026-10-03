@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Effective voltage calculation",
+    "description": "Essential: The student must correctly compute the RMS voltage from the given sinusoidal expression, yielding 220 V.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer voltage ratio",
+    "description": "Important: The student must apply the turns ratio to relate the primary and secondary coil voltages (U1/U2 = 4).",
+    "weight": 4
+  },
+  {
+    "title": "Transformer current ratio",
+    "description": "Important: The student must apply the turns ratio to relate the primary and secondary coil currents (I1/I2 = 1/4).",
+    "weight": 4
+  },
+  {
+    "title": "Primary loop equation",
+    "description": "Important: The student must apply Kirchhoff's law to the primary circuit: supply voltage equals voltage drop across R1 plus primary coil voltage (U = I1*R1 + U1).",
+    "weight": 4
+  },
+  {
+    "title": "Secondary Ohm's Law",
+    "description": "Important: The student must apply Ohm's law to the secondary circuit: U2 = I2 * R2.",
+    "weight": 3
+  },
+  {
+    "title": "Correct final current I1",
+    "description": "Essential: The student's final answer for the magnitude of current I1 must be 1 A.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final voltage U2",
+    "description": "Essential: The student's final answer for the magnitude of voltage U2 must be 30 V.",
+    "weight": 5
+  },
+  {
+    "title": "Confusing peak with RMS",
+    "description": "Pitfall: Using the peak voltage (220√2 V) as the effective value in calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Inverting transformer ratios",
+    "description": "Pitfall: Incorrectly applying the turns ratio for voltage or current (e.g., U1/U2 = 1/4 or I1/I2 = 4).",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Final answers lack proper units (V, A) or use incorrect units.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Dominant Multipole",
+    "description": "Essential Criteria: Identify the correct dominant multipole for each transition based on angular momentum and parity conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Transition Rate Equation",
+    "description": "Essential Criteria: Provide the correct formula for the transition rate A_{E1} for the specified transition.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Estimate",
+    "description": "Important Criteria: Calculate a rough numerical estimate for the transition rate using given parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Rate Ratios",
+    "description": "Important Criteria: Estimate the ratios of transition rates for the other transitions relative to the first one correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as incorrect multipole assignments or miscalculating transition rates.",
+    "weight": -2
+  }
+]

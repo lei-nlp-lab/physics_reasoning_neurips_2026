@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer Constant Pressure",
+    "description": "Essential Criteria: The correct fraction of work to heat for constant pressure must be provided as 2/7.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Constant Temperature",
+    "description": "Essential Criteria: The correct fraction of work to heat for constant temperature must be provided as 1.",
+    "weight": 5
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The calculation of work done during expansion at constant pressure must be shown correctly as W = p(V2 - V1).",
+    "weight": 4
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Important Criteria: The change in internal energy must be correctly expressed as ΔU = Cv ΔT.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Transfer Relation",
+    "description": "Important Criteria: The relationship between heat, work, and internal energy must be correctly applied in the fraction W/Q.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units for pressure, volume, and temperature should be consistent throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the calculations of work and internal energy.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as n and R, are included in the final expressions.",
+    "weight": -1
+  }
+]

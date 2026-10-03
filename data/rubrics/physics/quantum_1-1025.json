@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must provide the correct form of the ground-state wave function, including its dependence on the parameters a and k.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Eigenvalue Relation",
+    "description": "Essential Criteria: The student must derive and present the equation relating k to the parameters g, m, and h-bar.",
+    "weight": 5
+  },
+  {
+    "title": "Parity Consideration",
+    "description": "Important Criteria: The student should mention that the wave function has even parity due to the symmetry of the potential.",
+    "weight": 3
+  },
+  {
+    "title": "Continuity Condition",
+    "description": "Important Criteria: The student must state the continuity condition at x = a for the wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Normalization Step",
+    "description": "Optional Criteria: The student may include the normalization condition for the wave function and how it leads to determining the constant B.",
+    "weight": 2
+  },
+  {
+    "title": "Discontinuity Condition",
+    "description": "Important Criteria: The student should mention the discontinuity condition for the derivative of the wave function at x = a.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when deriving the energy eigenvalue relation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all terms in the equations are dimensionally consistent.",
+    "weight": -1
+  }
+]

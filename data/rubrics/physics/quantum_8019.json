@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide a final expression for the ground state energy E_g in terms of B, m_q, and hbar.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Constants",
+    "description": "Important Criteria: The student should correctly evaluate the numerical constant in the final energy expression.",
+    "weight": 4
+  },
+  {
+    "title": "Trial Function Justification",
+    "description": "Important Criteria: The student must justify the choice of the trial wave function used in the calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Minimization Process",
+    "description": "Important Criteria: The student should clearly outline the process of minimizing the energy expectation value with respect to the variational parameter.",
+    "weight": 4
+  },
+  {
+    "title": "Handling A = 0 Case",
+    "description": "Essential Criteria: The student must correctly handle the case when A = 0 and derive the corresponding expressions.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check for consistency of units in the final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the variational principle.",
+    "weight": -2
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student may mention alternative methods or approaches to estimate the ground state energy.",
+    "weight": 1
+  }
+]

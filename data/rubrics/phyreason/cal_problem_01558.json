@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total circuit current",
+    "description": "Essential: The student's final answer for part (1) must be approximately 0.67 A (or 2/3 A).",
+    "weight": 5
+  },
+  {
+    "title": "Capacitor charge value",
+    "description": "Essential: The student's final answer for part (2) must be approximately 1.6 × 10⁻³ C (or 1.6 mC).",
+    "weight": 5
+  },
+  {
+    "title": "Correct series resistance",
+    "description": "Important: The student must correctly sum R₁, R₂, and r to find the total resistance for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Voltage across capacitor",
+    "description": "Important: The student must recognize that the stable capacitor voltage equals the voltage across R₂.",
+    "weight": 4
+  },
+  {
+    "title": "Apply Q = CV",
+    "description": "Important: The student must correctly use the capacitance equation Q = C U₂ with consistent units.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student converts μF to F correctly and maintains consistent SI units throughout.",
+    "weight": 2
+  },
+  {
+    "title": "Misidentifying capacitor voltage",
+    "description": "Pitfall: The student incorrectly uses the source EMF or voltage across R₁ as the capacitor voltage.",
+    "weight": -2
+  },
+  {
+    "title": "Internal resistance omission",
+    "description": "Pitfall: The student forgets to include the internal resistance r in the total series resistance.",
+    "weight": -2
+  }
+]

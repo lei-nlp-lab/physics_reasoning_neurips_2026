@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF",
+    "description": "Essential: Correctly calculates the motional EMF using the formula E = B L v, yielding 6 V.",
+    "weight": 5
+  },
+  {
+    "title": "Induced Current",
+    "description": "Essential: Correctly applies Ohm's law (I = E / R) to find the current of 2 A for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Force Balance",
+    "description": "Important: Recognizes that for constant velocity, the pulling force F equals the magnetic force BIL.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Essential: Correctly calculates the work done by the pulling force using W = F v Δt, yielding 1.2 J for part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Circuit with Internal Resistance",
+    "description": "Important: For part (4), correctly finds the total current using I' = E / (R + r).",
+    "weight": 4
+  },
+  {
+    "title": "Rod Terminal Voltage",
+    "description": "Essential: Correctly calculates the voltage across the rod using U = I' r, yielding 4.5 V for part (4).",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent SI units (V, A, J, Ω, T, m, s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall: Misapplies Lenz's law or assigns incorrect sign to induced current/EMF direction.",
+    "weight": -1
+  },
+  {
+    "title": "Ohm's Law Misapplication",
+    "description": "Pitfall: For part (4), incorrectly uses U = E or U = I' R instead of U = I' r for the rod's voltage.",
+    "weight": -2
+  }
+]

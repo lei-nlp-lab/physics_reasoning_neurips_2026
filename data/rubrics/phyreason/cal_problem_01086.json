@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total time correct",
+    "description": "Essential Criteria: The final answer for total motion time must be 11.2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at B correct",
+    "description": "Essential Criteria: The final answer for speed at point B must be 16 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration magnitude identified",
+    "description": "Important Criteria: The student must correctly calculate the deceleration magnitude on the horizontal section from the given data.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration magnitude identified",
+    "description": "Important Criteria: The student must correctly calculate the acceleration magnitude on the incline from the given data.",
+    "weight": 3
+  },
+  {
+    "title": "Time split equation",
+    "description": "Important Criteria: The student must set up the correct equation relating the acceleration and deceleration phases using the velocity at a known time (e.g., 9 s).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity-time relation used",
+    "description": "Important Criteria: The student must correctly apply the kinematic equation v = u + at for both motion segments.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign for the deceleration in equations, treating it as positive acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student's working shows consistent use of SI units (m/s, s, m/s²).",
+    "weight": 1
+  }
+]

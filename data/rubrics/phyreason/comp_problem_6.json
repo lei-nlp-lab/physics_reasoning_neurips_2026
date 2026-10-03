@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Equilibrium Position",
+    "description": "Essential: Correctly solves for y_e by balancing vertical forces: QE(y_e) = Mg.",
+    "weight": 5
+  },
+  {
+    "title": "Force on Incline",
+    "description": "Essential: Provides the correct expression for the net force along the incline, F(y) = (Mg - Qβ(y0 - y)) sin(α).",
+    "weight": 5
+  },
+  {
+    "title": "Oscillation Frequency",
+    "description": "Essential: States the final oscillation frequency as f = (1/(2π))√(βQ/M).",
+    "weight": 5
+  },
+  {
+    "title": "SHM Recognition",
+    "description": "Important: Identifies the net restoring force after leaving the incline is proportional to displacement, leading to SHM.",
+    "weight": 4
+  },
+  {
+    "title": "Effective Spring Constant",
+    "description": "Important: Correctly derives the effective spring constant k = Qβ from the force expression.",
+    "weight": 3
+  },
+  {
+    "title": "Force Component Analysis",
+    "description": "Important: Correctly resolves gravitational and electric forces into components parallel to the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Error in Force",
+    "description": "Pitfall: Uses an incorrect sign for the electric force component or the net force on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Explicitly includes or checks units in the final expressions.",
+    "weight": 1
+  }
+]

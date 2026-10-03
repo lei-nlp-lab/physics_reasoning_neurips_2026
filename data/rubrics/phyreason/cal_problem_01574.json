@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force expression",
+    "description": "Essential: The student's answer for part (1) must give the correct sinusoidal function F_A = -(BlU_m/R) sin(2πt/T).",
+    "weight": 5
+  },
+  {
+    "title": "Impulse of external force",
+    "description": "Essential: The student's answer for part (2) must provide the correct impulse expression I_F = (B²l²x₀/R) + (mU_m)/(Bl).",
+    "weight": 5
+  },
+  {
+    "title": "Work done by force",
+    "description": "Essential: The student's answer for part (2) must provide the correct work expression W_F = (U_m²T)/(8R) + (mU_m²)/(2B²l²).",
+    "weight": 5
+  },
+  {
+    "title": "Relationship for x₀",
+    "description": "Essential: The student's answer for part (3) must give the correct relationship x₀ = (T U_m) / (2π B l).",
+    "weight": 5
+  },
+  {
+    "title": "Applying motional EMF",
+    "description": "Important: The solution should correctly relate the maximum voltage U_m to the maximum speed v_m via U_m = Blv_m.",
+    "weight": 4
+  },
+  {
+    "title": "Using SHM energy conservation",
+    "description": "Important: The solution should apply energy conservation in SHM, equating maximum potential energy (½kx₀²) to maximum kinetic energy (½mv_m²).",
+    "weight": 4
+  },
+  {
+    "title": "Applying impulse-momentum theorem",
+    "description": "Important: For part (2), the solution should correctly apply the impulse-momentum theorem, accounting for the impulse of the Ampere force.",
+    "weight": 4
+  },
+  {
+    "title": "Calculating Joule heat",
+    "description": "Important: The solution should correctly calculate the heat dissipated in the resistor over 0-0.25T using Q = (U_m²/(2R)) * (T/4).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Penalize if the Ampere force expression in part (1) has an incorrect sign (e.g., missing the negative sign indicating direction).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or dimensional inconsistency",
+    "description": "Pitfall: Penalize if final answers are presented without units or show clear dimensional inconsistency in the derived formulas.",
+    "weight": -1
+  }
+]

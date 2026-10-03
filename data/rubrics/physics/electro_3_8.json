@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student correctly identifies the final answer as (c).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Filters",
+    "description": "Important Criteria: The student demonstrates knowledge of the function of low-pass and high-pass filters.",
+    "weight": 4
+  },
+  {
+    "title": "Explanation of Compensation",
+    "description": "Important Criteria: The student provides reasoning for why a high-pass filter compensates for a low-pass filter.",
+    "weight": 4
+  },
+  {
+    "title": "Consideration of Alternatives",
+    "description": "Optional Criteria: The student discusses the implications of using RC versus LC filters in compensation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student incorrectly states that an infinite series of RC filters can achieve compensation.",
+    "weight": -2
+  }
+]

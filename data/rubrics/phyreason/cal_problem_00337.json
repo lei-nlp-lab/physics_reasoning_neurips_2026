@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates E = U_ac / (2L) = 1500 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Potential at point C",
+    "description": "Essential: Correctly calculates φ_C = -30 V using the given zero potential at B and the field.",
+    "weight": 5
+  },
+  {
+    "title": "Work A to C",
+    "description": "Essential: Correctly calculates W_AC = q * U_AC = -6.0 × 10⁻⁹ J for the given charge.",
+    "weight": 5
+  },
+  {
+    "title": "Total work B-C-D-P",
+    "description": "Essential: Correctly states the total work is 0 J, as the path starts and ends on the same equipotential surface (B and P).",
+    "weight": 5
+  },
+  {
+    "title": "Uses potential difference correctly",
+    "description": "Important: Applies the formula for uniform field E = ΔV/Δd, correctly identifying Δd_ac = 2L.",
+    "weight": 3
+  },
+  {
+    "title": "Applies work-energy principle",
+    "description": "Important: Uses W = qΔV for work done by the electric field, with correct sign for the charge.",
+    "weight": 3
+  },
+  {
+    "title": "Recognizes equipotential surfaces",
+    "description": "Important: Identifies that B, C, D, and P lie on equipotential surfaces and understands work along/back to an equipotential is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses W = |q||ΔV| or misapplies the sign of the charge relative to the potential difference.",
+    "weight": -2
+  },
+  {
+    "title": "Distance misinterpretation",
+    "description": "Pitfall: Uses d_ac = L instead of 2L when calculating the electric field strength.",
+    "weight": -2
+  },
+  {
+    "title": "Path dependence misconception",
+    "description": "Pitfall: Attempts to sum work for each leg (B→C, C→D, D→P) individually, failing to recognize the conservative nature and equipotential endpoints.",
+    "weight": -1
+  }
+]

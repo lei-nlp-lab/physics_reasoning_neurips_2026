@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum potential difference",
+    "description": "Essential: Correctly derives and states the maximum potential difference as U_m = (m d² v₀²)/(q L²).",
+    "weight": 5
+  },
+  {
+    "title": "Exit velocity magnitude",
+    "description": "Essential: Correctly calculates the final speed as v = (v₀/(3L))√(81L² + d²).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics perpendicular to plates",
+    "description": "Important: Applies kinematics (y = ½at²) to relate vertical displacement to plate geometry (y ≤ d/2).",
+    "weight": 4
+  },
+  {
+    "title": "Force and acceleration relation",
+    "description": "Important: Uses Newton's second law with electric force (F = qE = qU/d) to find acceleration a = qU/(md).",
+    "weight": 3
+  },
+  {
+    "title": "Time of flight calculation",
+    "description": "Important: Correctly computes time to traverse plates using horizontal motion (t = L/v_horizontal).",
+    "weight": 3
+  },
+  {
+    "title": "Velocity vector composition",
+    "description": "Important: Combines horizontal and vertical velocity components via Pythagorean theorem for final speed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of derived expressions for potential difference and velocity.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for charge or misidentifies direction of acceleration/deflection.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry constraint mistake",
+    "description": "Pitfall: Sets vertical displacement equal to d instead of d/2, or misapplies the inequality condition.",
+    "weight": -2
+  },
+  {
+    "title": "Time of flight confusion",
+    "description": "Pitfall: Uses incorrect horizontal velocity (v₀ instead of 3v₀) in part (2) when calculating time.",
+    "weight": -1
+  }
+]

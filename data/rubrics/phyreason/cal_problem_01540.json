@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Stiffness coefficient k",
+    "description": "Essential: Correctly applies Hooke's law to the equilibrium at point B to derive k = 4mg/(5L₀).",
+    "weight": 5
+  },
+  {
+    "title": "Friction force constancy",
+    "description": "Essential: Correctly states that the kinetic friction force remains constant during downward motion.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction coefficient μ",
+    "description": "Essential: Correctly calculates the coefficient μ = 0.25 using energy conservation or force balance between C and D.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum velocity v_m",
+    "description": "Essential: Correctly determines the maximum speed during first ascent as v_m = √(5gL₀)/5.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium at B",
+    "description": "Important: Identifies point B as a frictionless equilibrium and resolves tension components to relate T, mg, and geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies energy conservation (or work-energy theorem) between points C and D, accounting for elastic potential and work done by friction.",
+    "weight": 4
+  },
+  {
+    "title": "Net force zero at max speed",
+    "description": "Important: Recognizes that maximum speed occurs when net force is zero (acceleration zero) and sets up the correct force balance equation.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Optional: Correctly calculates the constant normal force from the horizontal component of rope tension as F' = kL₀.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly signs the work done by friction in the energy equation (should be negative for descent).",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifies equilibrium points",
+    "description": "Pitfall: Assumes maximum speed is at the bottom D or confuses the position of zero net force.",
+    "weight": -1
+  }
+]

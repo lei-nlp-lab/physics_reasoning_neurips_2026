@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Solar power expression",
+    "description": "Essential: Correctly states the solar power received by the bright side as P = π σ T_s⁴ (R² R_s² / R₀²).",
+    "weight": 5
+  },
+  {
+    "title": "Wind power expression",
+    "description": "Essential: Correctly expresses wind power in terms of P and x as P_w = [x³(1-x)/(1+x³)] P.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum wind power estimate",
+    "description": "Essential: Provides a numerical estimate for the maximum of P_w/P to one significant figure (e.g., 0.08).",
+    "weight": 5
+  },
+  {
+    "title": "Energy balance setup",
+    "description": "Important: Applies energy conservation to relate received solar power P, wind power P_w, and radiated powers from both sides.",
+    "weight": 4
+  },
+  {
+    "title": "Reversible engine condition",
+    "description": "Important: Uses the condition Q₁/T₁ = Q₂/T₂ for the heat transfers driving the atmospheric heat engine.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic derivation",
+    "description": "Important: Shows correct algebraic manipulation to derive the expression for P_w in terms of P and x.",
+    "weight": 3
+  },
+  {
+    "title": "Optimization reasoning",
+    "description": "Optional: Briefly explains the method (e.g., derivative, numerical) to find the maximum of the function in x.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect area factor",
+    "description": "Pitfall: Uses the planet's full surface area (4πR²) instead of the projected area (πR²) for received solar power.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or definition error",
+    "description": "Pitfall: Misinterprets heat flows (Q₁, Q₂) or writes an energy balance that violates conservation.",
+    "weight": -1
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Pitfall: Fails to include necessary constants (σ, π) in final expressions for P or P_w.",
+    "weight": -1
+  }
+]

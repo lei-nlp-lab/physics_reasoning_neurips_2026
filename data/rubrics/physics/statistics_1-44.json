@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the change of entropy as 0.61 cal/K.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student should correctly apply the formula for change of entropy, including the integral of Cv/T.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Important Criteria: The student must correctly convert temperatures from Celsius to Kelvin.",
+    "weight": 3
+  },
+  {
+    "title": "Use of Cv",
+    "description": "Important Criteria: The student should correctly utilize the given constant Cv value of 5.85 cal/deg·mole.",
+    "weight": 3
+  },
+  {
+    "title": "Natural Log Calculation",
+    "description": "Important Criteria: The student must accurately compute the natural logarithm of the temperature ratio.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect temperature conversions.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or assumptions made during the calculation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lagrangian Expression",
+    "description": "Essential Criteria: The student must correctly write the Lagrangian for the system, including all kinetic and potential energy terms.",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Essential Criteria: The student must derive the correct equations of motion using Lagrange's equations.",
+    "weight": 5
+  },
+  {
+    "title": "Normal Modes Description",
+    "description": "Important Criteria: The student must accurately describe the normal modes for small oscillations in the limits m >> M and m << M.",
+    "weight": 4
+  },
+  {
+    "title": "Frequency Calculation",
+    "description": "Essential Criteria: The student must find the correct frequencies of the normal modes for general m and M.",
+    "weight": 5
+  },
+  {
+    "title": "Matrix Equation Setup",
+    "description": "Important Criteria: The student should set up the matrix equation correctly for the normal modes analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases Analysis",
+    "description": "Optional Criteria: The student may provide a clear analysis of limiting cases for m >> M and m << M.",
+    "weight": 2
+  }
+]

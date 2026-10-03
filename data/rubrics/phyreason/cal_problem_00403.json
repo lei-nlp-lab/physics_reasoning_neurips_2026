@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity expression",
+    "description": "Essential Criteria: The response must provide the correct final expression for velocity: v = 2(2-√3)qdB/m.",
+    "weight": 5
+  },
+  {
+    "title": "Length expression",
+    "description": "Essential Criteria: The response must provide the correct final expression for the hit region length: L = 2(2-√3)d.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important Criteria: The solution must correctly apply qvB = mv²/r to relate velocity, magnetic field, and orbit radius.",
+    "weight": 4
+  },
+  {
+    "title": "Critical orbit geometry",
+    "description": "Important Criteria: The reasoning must establish the geometric condition r + r sin60° = d for the particle that first hits the moving plate.",
+    "weight": 4
+  },
+  {
+    "title": "Impact range geometry",
+    "description": "Important Criteria: The solution must correctly determine the minimum (x_min = r) and maximum (x_max = 2r) impact distances from point P on the screen.",
+    "weight": 3
+  },
+  {
+    "title": "Correct trigonometric value",
+    "description": "Important Criteria: The calculation must correctly use sin60° = √3/2 and simplify the resulting expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Direction of force",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly determines the direction of the Lorentz force for a negative charge, leading to wrong curvature.",
+    "weight": -2
+  },
+  {
+    "title": "Geometric misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the student misinterprets the r + r sin60° = d condition or the x_min/x_max relationships from the circular orbits.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may include a verification that the final expressions have correct physical dimensions.",
+    "weight": 1
+  }
+]

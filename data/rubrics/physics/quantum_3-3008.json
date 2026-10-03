@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final State Expressions",
+    "description": "Essential Criteria: The student must correctly express the states |j, m> for m = l - 1/2 and m = l + 1/2 in terms of |l, m_l; s, m_s>.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Angular Momentum Coupling",
+    "description": "Important Criteria: The student should demonstrate understanding of angular momentum coupling and the relationship between j and l.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Conditions",
+    "description": "Important Criteria: The student must correctly apply normalization conditions for the coefficients a and b in the state expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Application of Operators",
+    "description": "Important Criteria: The student should accurately apply the lowering operator J_- and its effects on the states.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in the final expressions.",
+    "weight": -2
+  }
+]

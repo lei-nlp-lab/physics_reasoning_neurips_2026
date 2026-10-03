@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field expression",
+    "description": "Essential: Correctly derives and states the final expression for magnetic induction intensity B = mv₀/(qd).",
+    "weight": 5
+  },
+  {
+    "title": "Time expression",
+    "description": "Essential: Correctly derives and states the final expression for time in field t = 3πd/(4v₀).",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of trajectory",
+    "description": "Important: Identifies that the particle travels a circular arc of 135° (3π/4 rad) between entry and exit points.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important: Applies Newton's second law with Lorentz force: qvB = mv²/R, using the correct velocity magnitude.",
+    "weight": 4
+  },
+  {
+    "title": "Radius determination",
+    "description": "Important: Uses geometric relationship (R sin(π/4) = d or equivalent) to relate radius R to given distance d.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculation method",
+    "description": "Important: Calculates time as arc length divided by speed, or using angular displacement divided by angular velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity magnitude error",
+    "description": "Pitfall: Uses incorrect velocity magnitude (e.g., v₀ instead of √2v₀) in force or time equations.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Uses wrong angular displacement (e.g., 90° instead of 135°) for arc length or time calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions for B and t.",
+    "weight": 1
+  }
+]

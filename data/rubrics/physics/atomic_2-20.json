@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct maximum and minimum values for the elastic scattering cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Phase Shift Understanding",
+    "description": "Important Criteria: Explain the significance of the phase shift in determining the elastic and inelastic cross sections.",
+    "weight": 4
+  },
+  {
+    "title": "Reduced Mass Calculation",
+    "description": "Important Criteria: Correctly calculate the reduced mass of the neutron-carbon system.",
+    "weight": 3
+  },
+  {
+    "title": "Wavelength Calculation",
+    "description": "Important Criteria: Accurately compute the de Broglie wavelength using the given kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Cross Section Relationships",
+    "description": "Important Criteria: Derive the relationship between elastic and inelastic cross sections using the phase shift.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes when calculating the elastic cross section from the phase shift.",
+    "weight": -2
+  },
+  {
+    "title": "Final Value Range",
+    "description": "Optional Criteria: Discuss the physical implications of the calculated limits on the elastic scattering cross section.",
+    "weight": 1
+  }
+]

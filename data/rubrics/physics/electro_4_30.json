@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Magnetic Field Expressions",
+    "description": "Essential Criteria - Provide correct expressions for the incident, reflected, and transmitted magnetic fields based on the given electric fields.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria - Correctly apply boundary conditions at z = 0 for electric and magnetic fields, including Snell's law.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Equation Derivation",
+    "description": "Essential Criteria - Derive the wave equation for the transmitted electric field E^T_y using Maxwell's equations and the given relationships.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Parameters",
+    "description": "Important Criteria - Accurately incorporate the parameters chi and sigma in the wave equation derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria - Avoid common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  }
+]

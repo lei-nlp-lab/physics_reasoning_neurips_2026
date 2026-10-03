@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct path difference expression",
+    "description": "Essential Criteria: The response must correctly state the path difference as Δx = |(10 - x) - x| or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Constructive interference condition",
+    "description": "Important Criteria: The response must apply the condition for constructive interference (maximum amplitude) as Δx = (2n+1)λ/2, correctly noting the waves have opposite initial vibration directions.",
+    "weight": 4
+  },
+  {
+    "title": "Destructive interference condition",
+    "description": "Important Criteria: The response must apply the condition for destructive interference (minimum amplitude) as Δx = nλ, correctly noting the waves have opposite initial vibration directions.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum amplitude positions",
+    "description": "Essential Criteria: The final answer for part (1) must list the equilibrium positions x = 3 m and x = 7 m within the figure's range.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum amplitude positions",
+    "description": "Essential Criteria: The final answer for part (2) must list the equilibrium positions x = 1 m, 5 m, and 9 m within the figure's range.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in phase",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses the standard constructive condition Δx = nλ, ignoring the π phase difference from opposite initial vibration directions.",
+    "weight": -2
+  },
+  {
+    "title": "Range and integer selection",
+    "description": "Important Criteria: The response must correctly solve for integer n such that the resulting x values lie within the visible range of the figure (implied to be 0 to 10 m).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The working shows consistent use of units (meters, seconds) and correctly uses the given wavelength (8 m) and wave speed.",
+    "weight": 1
+  }
+]

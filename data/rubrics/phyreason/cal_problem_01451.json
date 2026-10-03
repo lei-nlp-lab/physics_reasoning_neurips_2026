@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct normal force",
+    "description": "Essential: The student must correctly calculate the normal force from the ground on the sled using vertical force equilibrium (N = mg - F sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Pressure magnitude answer",
+    "description": "Essential: The final answer for part (1) must be 340 N, correctly identified as equal to the normal force via Newton's third law.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal force equilibrium",
+    "description": "Important: The student must apply horizontal force equilibrium (constant speed) to relate friction to the horizontal component of the pulling force (f = F cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient calculation",
+    "description": "Important: The student must correctly calculate the kinetic friction coefficient using μ = f/N = (F cosθ) / (mg - F sinθ).",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient answer",
+    "description": "Essential: The final answer for part (2) must be 0.24.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Penalize if the student incorrectly adds the vertical component of the pulling force to the weight (N = mg + F sinθ).",
+    "weight": -2
+  },
+  {
+    "title": "Free-body diagram or system identification",
+    "description": "Optional: Award credit if the student clearly identifies the system (child + sled) and/or draws a correct free-body diagram.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award credit if the student explicitly shows unit analysis or maintains consistent units throughout.",
+    "weight": 1
+  }
+]

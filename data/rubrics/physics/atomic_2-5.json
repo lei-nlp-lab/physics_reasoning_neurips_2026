@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct precession frequency of 10^3 sec^-1 is provided.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The formula for precession frequency, ω = geB/(2m_Nc), is correctly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Values",
+    "description": "Important Criteria: The values for g, e, B, m_N, and c are correctly identified and used in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The calculation leading to the final answer is clearly shown and logically follows from the formula.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units are consistently applied throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect substitutions in the formula result in a deduction.",
+    "weight": -2
+  }
+]

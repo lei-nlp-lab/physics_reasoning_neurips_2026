@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final mass difference in amu must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Q-value Equation",
+    "description": "Important Criteria: The correct application of the Q-value equation for the reaction must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The reasoning involving energy conservation in the decay of tritium must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Conversion",
+    "description": "Optional Criteria: The conversion from MeV to amu should be correctly performed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in the equations or calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary mass terms are included in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Intermediate Steps",
+    "description": "Optional Criteria: Clear intermediate steps leading to the final answer should be provided.",
+    "weight": 2
+  }
+]

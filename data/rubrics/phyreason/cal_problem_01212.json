@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Unit Conversion",
+    "description": "Essential Criteria: The response must correctly convert the initial speed from 36 km/h to 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration Calculation",
+    "description": "Essential Criteria: The response must correctly apply the average acceleration formula a = (v_f - v_i)/Δt, yielding approximately -8300 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Lethal Threshold",
+    "description": "Essential Criteria: The response must correctly calculate the lethal acceleration threshold as 500g = 5000 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Comparison and Conclusion",
+    "description": "Important Criteria: The response must compare the calculated acceleration magnitude (8300 m/s²) to the lethal threshold (5000 m/s²) and conclude the acceleration is life-threatening.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Important Criteria: The response must correctly interpret the negative sign in acceleration as indicating deceleration/direction and compare magnitudes.",
+    "weight": 3
+  },
+  {
+    "title": "Physics Model Application",
+    "description": "Optional Criteria: The response may explicitly state the assumption of constant acceleration and post-collision zero velocity as given in the problem.",
+    "weight": 1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Penalize if calculations mix units (e.g., km/h with m/s²) without proper conversion.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Error in Comparison",
+    "description": "Pitfall Criteria: Penalize if the conclusion is based on the signed acceleration value (-8300 < 5000) instead of comparing magnitudes.",
+    "weight": -2
+  }
+]

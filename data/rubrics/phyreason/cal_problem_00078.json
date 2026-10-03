@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential Criteria: The student's final numerical answer for the water's expulsion speed must be 28 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important Criteria: The solution must correctly apply the law of conservation of momentum to the isolated squid-water system.",
+    "weight": 4
+  },
+  {
+    "title": "Correct mass identification",
+    "description": "Important Criteria: The solution must correctly identify the squid's mass (1.4 kg) and the expelled water's mass (0.1 kg).",
+    "weight": 3
+  },
+  {
+    "title": "Initial system at rest",
+    "description": "Important Criteria: The solution must state or use the condition that the total initial momentum of the system is zero.",
+    "weight": 3
+  },
+  {
+    "title": "Direction/sign consistency",
+    "description": "Pitfall Criteria: Deduct points if the solution mishandles the signs of velocities (forward/backward) leading to an incorrect equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inclusion",
+    "description": "Optional Criteria: The final answer should include the correct unit (m/s).",
+    "weight": 1
+  }
+]

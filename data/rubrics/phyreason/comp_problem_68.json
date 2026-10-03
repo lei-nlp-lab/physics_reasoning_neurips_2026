@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mass fraction freezing",
+    "description": "Essential: Correctly computes the mass fraction η = A'/A = 4.0/5.0 = 0.80.",
+    "weight": 5
+  },
+  {
+    "title": "Heat transfer relation",
+    "description": "Important: Applies energy balance linking area under T-h curve to latent heat (Q = -κA/v = mL).",
+    "weight": 4
+  },
+  {
+    "title": "Droplet temperature differential equation",
+    "description": "Important: Sets up correct convection equation: mc_water v (dT_d/dx) = κ(T - T_d) for the linear profile.",
+    "weight": 4
+  },
+  {
+    "title": "Characteristic distance use",
+    "description": "Important: Identifies and uses the characteristic distance x_0 = (c_water * A) / L or equivalent to solve the ODE.",
+    "weight": 3
+  },
+  {
+    "title": "Final temperature calculation",
+    "description": "Essential: Arrives at a final droplet temperature near 8°C, accounting for the small ΔT from the linear profile.",
+    "weight": 5
+  },
+  {
+    "title": "Viscous heating correction",
+    "description": "Optional: Includes the temperature correction ΔT* = gA/L due to viscous dissipation.",
+    "weight": 1
+  },
+  {
+    "title": "Constant melting temperature",
+    "description": "Important: Recognizes droplet temperature remains at 0°C during phase change in the inversion layer.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in heat transfer",
+    "description": "Pitfall: Misinterprets sign of heat transfer (dQ = -κ(T - T_d) dh/v) leading to incorrect energy balance.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing areas A and A'",
+    "description": "Pitfall: Swaps or misapplies the given areas A (melting) and A' (freezing) in the fraction calculation.",
+    "weight": -1
+  }
+]

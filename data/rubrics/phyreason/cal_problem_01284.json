@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct v0 calculation",
+    "description": "Essential: Student must compute v0 = 3 m/s using energy conservation for the combined system sliding down the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Correct x1 calculation",
+    "description": "Essential: Student must compute x1 = 0.125 m as the distance the board moves up after collision until relative rest.",
+    "weight": 5
+  },
+  {
+    "title": "Correct relative displacement x",
+    "description": "Essential: Student must compute total relative displacement x = 1.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision accelerations",
+    "description": "Important: Student must correctly set up Newton's second law for board (a1 = 11 m/s² up incline) and block (a2 = 1 m/s² down incline) after collision.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Student must analyze kinematics to find common velocity v = 2.5 m/s and displacements x1, x2 during relative motion phase.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Student must properly apply work-energy theorem to initial sliding phase with correct system mass.",
+    "weight": 3
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Pitfall: Student may confuse sign conventions for velocities/accelerations after collision reversal, leading to incorrect kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction error",
+    "description": "Pitfall: Student may incorrectly assign friction direction on block or board after collision, reversing acceleration signs.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates unit analysis throughout calculations, confirming dimensional consistency.",
+    "weight": 1
+  }
+]

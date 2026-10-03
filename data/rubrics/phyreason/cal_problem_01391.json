@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Resistance force calculation",
+    "description": "Essential: Correctly calculates resistance force using f = P/v_max with proper unit conversion from km/h to m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Traction force determination",
+    "description": "Important: Applies Newton's second law (F - f = ma) to find traction force during acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum velocity during acceleration",
+    "description": "Important: Recognizes that during acceleration, power limits velocity via v = P/F before uniform motion begins.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement calculation",
+    "description": "Important: Correctly uses kinematic equations (v² = 2ax) to find distance traveled during acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Work done by resistance",
+    "description": "Essential: Calculates work as W = -f·x with correct sign indicating negative work.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout all calculations (kW→W, km/h→m/s).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Fails to include negative sign for work done by resistance force (opposite to displacement).",
+    "weight": -2
+  },
+  {
+    "title": "Power misconception",
+    "description": "Pitfall: Assumes maximum power is delivered throughout acceleration rather than using P = F·v.",
+    "weight": -1
+  }
+]

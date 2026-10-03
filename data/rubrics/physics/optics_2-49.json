@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Diffraction Minimum",
+    "description": "Essential Criteria: The correct angle for the first diffraction minimum must be provided as theta = ±sin^(-1)(λ/a).",
+    "weight": 5
+  },
+  {
+    "title": "Interference Minimum",
+    "description": "Essential Criteria: The correct angle for the first interference minimum must be provided as theta = ±sin^(-1)(λ/6d).",
+    "weight": 5
+  },
+  {
+    "title": "Interference Maximum",
+    "description": "Essential Criteria: The correct angle for the first interference maximum must be provided as theta = ±sin^(-1)(λ/2d).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Equations",
+    "description": "Important Criteria: The student should demonstrate proper application of the Huygens-Fresnel principle and relevant equations.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Change Consideration",
+    "description": "Important Criteria: The response should acknowledge the effect of the 180° phase change introduced by the filter on the middle slit.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the angles or sine functions, which can lead to incorrect answers.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent, particularly when relating wavelength, slit width, and distances.",
+    "weight": -1
+  }
+]

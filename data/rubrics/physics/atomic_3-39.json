@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final decay rate must be correctly calculated as 1.19 x 10^7 s^-1.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The maximum energy of the decay neutrino must be correctly determined for both decay processes.",
+    "weight": 4
+  },
+  {
+    "title": "Proportionality Setup",
+    "description": "Important Criteria: The relationship between the decay rates of the two processes must be correctly established using the ratio of energies.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Element Consistency",
+    "description": "Important Criteria: The assumption that the matrix elements for both decays are the same must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations, particularly in energy and decay rates.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes or incorrect energy values that could lead to an incorrect final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Lifetime Reference",
+    "description": "Optional Criteria: The lifetime of the neutron should be correctly referenced as approximately 10^3 seconds.",
+    "weight": 1
+  },
+  {
+    "title": "Final Expression Clarity",
+    "description": "Optional Criteria: The final expression for the decay rate should be clearly presented and easy to follow.",
+    "weight": 1
+  }
+]

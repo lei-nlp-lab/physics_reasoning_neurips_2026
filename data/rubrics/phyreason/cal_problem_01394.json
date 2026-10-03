@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration during pulling",
+    "description": "Essential: Correctly calculates the net force during the first 2 seconds (applied force minus kinetic friction) and divides by mass to find acceleration (6 m/s²).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at t=2s",
+    "description": "Important: Uses kinematic equation (v = a₁t) with the correct acceleration and time to find the velocity at the moment the force is removed (12 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic energy calculation",
+    "description": "Essential: Correctly applies the kinetic energy formula (½mv²) using the mass and the velocity found at t=2s to obtain the final value (144 J).",
+    "weight": 5
+  },
+  {
+    "title": "Post-force acceleration",
+    "description": "Important: Recognizes that after the force is removed, the only horizontal force is kinetic friction, and correctly calculates the deceleration (a₂ = μ g = 2 m/s²).",
+    "weight": 4
+  },
+  {
+    "title": "Sliding distance calculation",
+    "description": "Essential: Correctly uses a kinematic equation (v_f² = v_i² + 2a x) with final velocity zero, initial velocity from part (2), and deceleration from part (4) to find the sliding distance (36 m).",
+    "weight": 5
+  },
+  {
+    "title": "Friction force error",
+    "description": "Pitfall: Uses the wrong coefficient (static instead of kinetic) or incorrectly calculates the friction force (e.g., forgetting g or mass).",
+    "weight": -2
+  },
+  {
+    "title": "Sign/vector confusion",
+    "description": "Pitfall: Mishandles signs in the kinematic equations for the deceleration phase, leading to a negative or incorrect distance.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Demonstrates consistent use of SI units (kg, m, s, N, J) throughout the solution without conversion errors.",
+    "weight": 1
+  }
+]

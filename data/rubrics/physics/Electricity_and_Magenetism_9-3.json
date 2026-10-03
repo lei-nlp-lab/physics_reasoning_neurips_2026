@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Focal Lengths",
+    "description": "Essential Criteria: The student must provide the correct expressions for the focal lengths f_y and f_x, indicating their relationship and signs.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse Approximation",
+    "description": "Important Criteria: The student should correctly apply the impulse approximation to relate the transverse forces to the changes in momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Important Criteria: The student must derive the magnetic field B from the given magnetic scalar potential correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Focal Length Calculation",
+    "description": "Essential Criteria: The student must calculate the focal length f for the given parameters of the quadrupole and the energy of the electrons.",
+    "weight": 5
+  },
+  {
+    "title": "Direction of Focusing",
+    "description": "Important Criteria: The student should explain the difference in focusing behavior in the x and y directions, including the nature of the lens.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: The student should include appropriate units and constants in their calculations to ensure clarity and correctness.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the forces or incorrect application of the Lorentz force.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Justification",
+    "description": "Optional Criteria: The student should justify the assumptions made in the impulse approximation and the neglect of transverse speeds.",
+    "weight": 1
+  }
+]

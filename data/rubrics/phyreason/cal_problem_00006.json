@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct time expression",
+    "description": "Essential: The response must give the time of flight as t = sqrt(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity expression",
+    "description": "Essential: The response must give the initial speed as v0 = d * sqrt(g/(2h)).",
+    "weight": 5
+  },
+  {
+    "title": "Correct flow rate expression",
+    "description": "Essential: The response must give the volume flow rate as Q = S * v0 = Sd * sqrt(g/(2h)).",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion reasoning",
+    "description": "Important: The solution must apply independent vertical (h = 1/2 gt^2) and horizontal (d = v0 t) motion equations.",
+    "weight": 4
+  },
+  {
+    "title": "Interpretation of given variables",
+    "description": "Important: The solution must correctly identify h as vertical drop and d as horizontal range in the projectile equations.",
+    "weight": 3
+  },
+  {
+    "title": "Definition of volume flow rate",
+    "description": "Important: The solution must state or correctly use Q = (cross-sectional area) * (fluid speed).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers should have or imply correct units (s, m/s, m³/s).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect time formula",
+    "description": "Pitfall: Using t = d/v0 without solving the system, or using t = sqrt(h/g) (missing factor of 2).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic sign error",
+    "description": "Pitfall: Making a sign error when combining equations, e.g., inverting the ratio g/h or h/g.",
+    "weight": -1
+  },
+  {
+    "title": "Misapplying flow rate formula",
+    "description": "Pitfall: Using an incorrect formula for Q, such as Q = S/t or Q = v0/h.",
+    "weight": -2
+  }
+]

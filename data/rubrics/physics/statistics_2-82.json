@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer High T",
+    "description": "Essential Criteria - The expression for specific heat at high temperature must be correctly stated as C_v approximately N k_B.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Low T",
+    "description": "Essential Criteria - The expression for specific heat at low temperature must be correctly stated as C_v approximately (pi^2/3)(Nk_B T/Theta_D).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Frequencies",
+    "description": "Important Criteria - The derivation must correctly utilize the normal mode frequencies omega_k in the context of the Debye model.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Limits",
+    "description": "Important Criteria - The response should clearly address the two temperature limits T to infinity and T to zero.",
+    "weight": 3
+  },
+  {
+    "title": "Physical Constants",
+    "description": "Optional Criteria - The response should appropriately define and use physical constants such as k_B and Theta_D.",
+    "weight": 2
+  },
+  {
+    "title": "Mathematical Derivations",
+    "description": "Important Criteria - The derivation should include necessary mathematical steps leading to the final expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in the derivation of the specific heat expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria - Ensure that units are consistent throughout the derivation and final answers.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly expressed as B = (2a m v0) / (q (a² + b²)).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: The final answer for part (2) must be correctly expressed as E = (2b m v0²) / (q a²).",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important Criteria: The student must correctly relate the radius R to point P's coordinates using the geometry of the circular path, such as (a - R)² + b² = R².",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force centripetal",
+    "description": "Important Criteria: The student must apply the Lorentz force law for circular motion, stating q v0 B = m v0² / R.",
+    "weight": 4
+  },
+  {
+    "title": "Electric motion kinematics",
+    "description": "Important Criteria: The student must correctly set up the kinematic equations for the electric field case: a = v0 t for horizontal motion and b = (1/2) a_m t² for vertical motion.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law",
+    "description": "Important Criteria: The student must apply Newton's second law to relate the electric force and acceleration: qE = m a_m.",
+    "weight": 3
+  },
+  {
+    "title": "Sign of charge",
+    "description": "Pitfall Criteria: The student incorrectly uses the sign of the charge in the force equations, forgetting it is negative and the magnetic field is inward, leading to an incorrect force direction or radius formula.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student includes correct SI units (Tesla, N/C) with the final answers or demonstrates dimensional analysis.",
+    "weight": 1
+  }
+]

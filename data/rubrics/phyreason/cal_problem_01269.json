@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final velocity",
+    "description": "Essential Criteria: The student must correctly calculate the velocity at t=3 s as 15 m/s using kinematic equations.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential Criteria: The student must correctly calculate the kinetic friction coefficient as 0.75 using Newton's second law.",
+    "weight": 5
+  },
+  {
+    "title": "Correct stopping distance",
+    "description": "Essential Criteria: The student must correctly calculate the additional distance moved after force removal as 15 m.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration from kinematics",
+    "description": "Important Criteria: The student should determine the constant acceleration (5 m/s²) from the given displacement and time.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram setup",
+    "description": "Important Criteria: The student must correctly resolve forces and write Newton's second law in both x and y directions.",
+    "weight": 4
+  },
+  {
+    "title": "Post-removal deceleration",
+    "description": "Important Criteria: The student should calculate the deceleration after force removal using only friction.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Optional Criteria: The student may show proper use of v² = u² + 2as or equivalent for the deceleration phase.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Penalize if the student uses incorrect sign for friction force or misapplies Newton's second law.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force mistake",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly calculates the normal force (e.g., ignoring vertical component of applied force).",
+    "weight": -2
+  }
+]

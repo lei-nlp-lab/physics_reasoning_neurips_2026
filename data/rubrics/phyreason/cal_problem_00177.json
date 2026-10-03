@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final tanθ value",
+    "description": "Essential Criteria: The response must state or derive the final numerical answer tanθ = 4/3.",
+    "weight": 5
+  },
+  {
+    "title": "Final H value",
+    "description": "Essential Criteria: The response must state or derive the final numerical answer H = 4d/27.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: The solution must correctly apply kinematic equations for horizontal and vertical motion to relate d, v0, t, and g.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity vector decomposition",
+    "description": "Important Criteria: The solution must correctly find tanθ from the vertical and horizontal velocity components (gt and v0) at the water entry point.",
+    "weight": 4
+  },
+  {
+    "title": "Snell's law application",
+    "description": "Important Criteria: The solution must apply Snell's law (n sin α = sin β) to relate the light ray's angles of incidence and refraction at the water surface.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric ray diagram",
+    "description": "Important Criteria: The solution must use geometry (tangents of angles) to relate H, d, and the given heights, connecting the light path to the projectile result.",
+    "weight": 3
+  },
+  {
+    "title": "Angle identification",
+    "description": "Optional Criteria: The solution may explicitly identify the angles (e.g., 37°, 53°) from the Snell's law and geometry steps.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or angle confusion",
+    "description": "Pitfall Criteria: Penalize if the student confuses the angle θ with its complement or misidentifies the incident/refracted ray angles in Snell's law.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or variable misuse",
+    "description": "Pitfall Criteria: Penalize if the student treats d as a variable with units incorrectly or omits it in the final expression for H.",
+    "weight": -1
+  }
+]

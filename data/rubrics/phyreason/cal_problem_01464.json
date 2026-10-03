@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly calculates the block's speed at point C using energy conservation, accounting for friction on BC.",
+    "weight": 5
+  },
+  {
+    "title": "Heat on BC Segment",
+    "description": "Important: Correctly computes the heat generated on the frictional BC segment using the work done by friction.",
+    "weight": 4
+  },
+  {
+    "title": "Conveyor Belt Analysis",
+    "description": "Important: Correctly analyzes the two-phase motion on the conveyor belt (deceleration to belt speed, then acceleration with it).",
+    "weight": 4
+  },
+  {
+    "title": "Total Heat on Belt",
+    "description": "Important: Correctly calculates the total heat generated on the conveyor belt using the total relative displacement and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Final Ratio",
+    "description": "Essential: Correctly states the final numerical ratio of heat generated in BC to heat generated on the conveyor belt.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/Direction Error",
+    "description": "Pitfall: Misapplies signs in kinematic equations for relative motion on the moving conveyor belt.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Accounting",
+    "description": "Pitfall: Fails to account for the initial kinetic energy of the block relative to the belt when calculating heat on the belt.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (J, m/s, m) throughout all calculations.",
+    "weight": 1
+  }
+]

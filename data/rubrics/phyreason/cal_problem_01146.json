@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Primary coil voltage",
+    "description": "Essential: Correctly calculates the voltage across the primary coil as 110 V.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum flux change rate",
+    "description": "Essential: Correctly calculates the maximum rate of change of magnetic flux as 0.5√2 Wb/s.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer voltage ratio",
+    "description": "Important: Applies the transformer turns ratio correctly to relate primary and secondary voltages.",
+    "weight": 3
+  },
+  {
+    "title": "Series circuit analysis",
+    "description": "Important: Correctly analyzes the series circuit to determine the normal operating voltage of a single bulb.",
+    "weight": 4
+  },
+  {
+    "title": "Faraday's law application",
+    "description": "Important: Applies Faraday's law (U = n·ΔΦ/Δt) to relate voltage to rate of flux change.",
+    "weight": 4
+  },
+  {
+    "title": "RMS vs. peak voltage",
+    "description": "Important: Correctly distinguishes between RMS and peak voltage values from the given waveform.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect turns ratio",
+    "description": "Pitfall: Uses current ratio instead of voltage ratio for transformer analysis.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong bulb voltage",
+    "description": "Pitfall: Incorrectly assumes bulb voltage is 220 V or fails to account for series connection.",
+    "weight": -2
+  },
+  {
+    "title": "Peak vs. RMS confusion",
+    "description": "Pitfall: Uses RMS voltage where peak voltage is required in Faraday's law calculation.",
+    "weight": -1
+  }
+]

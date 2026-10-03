@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct tension in OB",
+    "description": "Essential: The student's answer for part (1) must give the tension in string OB as 3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension in OA",
+    "description": "Essential: The student's answer for part (1) must give the tension in string OA as 3√2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum weight calculation",
+    "description": "Essential: The student's answer for part (2) must give the maximum gravitational force as 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution must correctly resolve forces at point O, establishing equilibrium in horizontal and vertical directions.",
+    "weight": 4
+  },
+  {
+    "title": "Limiting condition analysis",
+    "description": "Important: For part (2), the solution must identify that OB reaches its maximum tension (6 N) before OA does.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric application",
+    "description": "Important: The solution must correctly apply trigonometric functions (tan 45°, sin 45°) to relate the tensions and the weight.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final numerical answers should be presented with the correct unit (N).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect limiting string",
+    "description": "Pitfall: Penalize if the solution incorrectly assumes string OA (with a 10 N limit) breaks first, leading to a wrong maximum weight.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: Penalize sign errors or misuse of sin/cos/tan when relating the weight and tensions.",
+    "weight": -1
+  }
+]

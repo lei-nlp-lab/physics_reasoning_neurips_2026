@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct wave speed expression",
+    "description": "Essential Criteria: The response must provide a correct expression for the wave speed, such as (40 + 160n) m/s or (120 + 160n) m/s, accounting for direction and integer n.",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum time",
+    "description": "Essential Criteria: The response must give the correct numerical answer for the minimum time, which is 1/420 s.",
+    "weight": 5
+  },
+  {
+    "title": "Wave propagation direction analysis",
+    "description": "Important Criteria: The solution must consider both possible directions of wave propagation (positive and negative x-axis) to determine possible speeds.",
+    "weight": 4
+  },
+  {
+    "title": "Particle motion equation",
+    "description": "Important Criteria: The solution must correctly derive the simple harmonic motion equation for particle P at x=8 m, including its amplitude and angular frequency.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength and travel distance",
+    "description": "Important Criteria: The reasoning must correctly relate the observed waveform shift to the distance traveled, using the wavelength (8 m) and integer multiples.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric solution for time",
+    "description": "Important Criteria: The solution must correctly solve the trigonometric equation (e.g., sin(ωt) = 1/2) to find the minimum positive time for the specified displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All quantities (displacement, speed, time) should be expressed with correct and consistent units (e.g., cm vs. m).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the solution assumes only one propagation direction without justification, or misinterprets the waveform shift direction.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect wave period or frequency",
+    "description": "Pitfall Criteria: Penalize if the angular frequency or period is calculated incorrectly from the speed and wavelength, leading to an error in the particle motion equation.",
+    "weight": -1
+  }
+]

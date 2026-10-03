@@ -1,0 +1,57 @@
+[
+  {
+    "title": "First collision velocities",
+    "description": "Essential: Correctly states the magnitudes of velocities after the first elastic collision: v_P1 = (3/5)v_0 and v_Q1 = (2/5)v_0.",
+    "weight": 5
+  },
+  {
+    "title": "Height after nth collision",
+    "description": "Essential: Correctly states the general expression for the height Q rises after the nth collision: h_n = (7/25)^(n-1) * (v_0^2/(25g)).",
+    "weight": 5
+  },
+  {
+    "title": "Total height H",
+    "description": "Essential: Correctly states the total height Q rises from point A: H = v_0^2/(18g).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum distance s",
+    "description": "Essential: Correctly states the minimum distance s between point A and the bumper: s = (8√7 - 13)v_0^2/(200g sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation laws application",
+    "description": "Important: Applies both conservation of momentum and conservation of kinetic energy correctly for each elastic collision between P and Q.",
+    "weight": 4
+  },
+  {
+    "title": "Q's motion with friction",
+    "description": "Important: Correctly applies Newton's second law or work-energy theorem for block Q's motion, incorporating the given friction (μ_k = tanθ) to find deceleration or energy loss.",
+    "weight": 4
+  },
+  {
+    "title": "P's motion without friction",
+    "description": "Important: Correctly analyzes P's motion under gravity (only) on the incline, including its rebound from the elastic bumper with no energy loss.",
+    "weight": 3
+  },
+  {
+    "title": "Pattern recognition for h_n",
+    "description": "Important: Identifies the geometric progression in the velocities or heights after successive collisions to derive the general term h_n.",
+    "weight": 3
+  },
+  {
+    "title": "Condition for no re-collision",
+    "description": "Important: Sets up the kinematic or timing condition that ensures P does not meet Q before Q stops, leading to the inequality for distance s.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Makes a sign error in velocities (e.g., direction along incline) or in the work done by friction/gravity.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force mistake",
+    "description": "Pitfall: Incorrectly calculates the frictional force on Q (e.g., uses normal force as 4mg instead of 4mg cosθ) or its work.",
+    "weight": -2
+  }
+]

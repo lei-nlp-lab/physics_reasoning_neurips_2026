@@ -1,0 +1,42 @@
+[
+  {
+    "title": "G-operator Definition",
+    "description": "Essential Criteria: The definition of the G-operator must be correctly stated as G = C e^(i pi I_2).",
+    "weight": 5
+  },
+  {
+    "title": "G-parity Explanation",
+    "description": "Important Criteria: The explanation of why G-parity was introduced in particle physics should be clear and include its relation to isospin and charge conjugation.",
+    "weight": 4
+  },
+  {
+    "title": "Eigenvalues for Pions",
+    "description": "Essential Criteria: The eigenvalue of G for pions must be correctly identified as G = -1 for pi mesons and G(n pi) = (-1)^n for n pions.",
+    "weight": 5
+  },
+  {
+    "title": "G-values for Mesons",
+    "description": "Essential Criteria: The G-parity values for rho, omega, phi, and eta mesons must be accurately provided.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Relation",
+    "description": "Important Criteria: The relationship between G-parity and decay processes for rho, omega, and phi mesons should be correctly explained.",
+    "weight": 3
+  },
+  {
+    "title": "C-value for eta",
+    "description": "Important Criteria: The charge conjugation value for eta meson must be correctly stated as C(eta^0) = +1.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any incorrect sign or factor in the G-parity calculations or definitions will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Notation",
+    "description": "Optional Criteria: Proper use of units and notation throughout the response should be maintained.",
+    "weight": 2
+  }
+]

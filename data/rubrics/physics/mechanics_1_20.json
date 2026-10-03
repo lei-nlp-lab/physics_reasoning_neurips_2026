@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum Density Calculation",
+    "description": "Essential Criteria: The student must correctly derive the minimum density of the Crab pulsar using the relationship between centripetal and gravitational forces.",
+    "weight": 5
+  },
+  {
+    "title": "Final Density Value",
+    "description": "Essential Criteria: The student must provide a numerical value for the minimum density, approximately 1.3 x 10^14 kg/m^3.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Radius Derivation",
+    "description": "Important Criteria: The student must correctly apply the density relationship to derive the maximum possible radius of the pulsar.",
+    "weight": 4
+  },
+  {
+    "title": "Final Radius Value",
+    "description": "Essential Criteria: The student must provide a numerical value for the maximum radius, approximately 150 km.",
+    "weight": 5
+  },
+  {
+    "title": "Nuclear Density Calculation",
+    "description": "Important Criteria: The student must correctly calculate the nuclear density and relate it to the radius of the pulsar.",
+    "weight": 4
+  },
+  {
+    "title": "Final Nuclear Radius Value",
+    "description": "Essential Criteria: The student must provide a numerical value for the radius when using nuclear density, approximately 17 km.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of gravitational equations.",
+    "weight": -2
+  }
+]

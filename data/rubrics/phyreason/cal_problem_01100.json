@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tension in rope OD",
+    "description": "Essential: Correctly calculates F_OD = m_B g / cos37° = 40 N.",
+    "weight": 5
+  },
+  {
+    "title": "Tension in rope OE",
+    "description": "Essential: Correctly calculates F_OE = m_B g tan37° = 24 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on block A",
+    "description": "Essential: Correctly calculates f_A = F_OD - m_A g sin37° = 9.6 N and states direction down incline.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at knot",
+    "description": "Important: Applies equilibrium at point O/D to relate tensions and weight of B.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on block A",
+    "description": "Important: Analyzes forces parallel to incline (tension, gravity component, friction) for equilibrium.",
+    "weight": 4
+  },
+  {
+    "title": "System horizontal equilibrium",
+    "description": "Important: Considers horizontal forces on combined system (A+C+pulley) to find ground friction.",
+    "weight": 3
+  },
+  {
+    "title": "Ground friction magnitude",
+    "description": "Essential: Correctly concludes f_ground = F_OE = 24 N from horizontal equilibrium.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Misassigns direction of friction on A or sign in incline force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Component mistakes",
+    "description": "Pitfall: Uses wrong trig functions (sin/cos) for tension or gravity components.",
+    "weight": -2
+  },
+  {
+    "title": "Isolation errors",
+    "description": "Pitfall: Fails to properly isolate subsystems (knot, block A, whole system) for equilibrium.",
+    "weight": -1
+  }
+]

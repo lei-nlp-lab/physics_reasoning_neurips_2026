@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Radial Component Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the radial component B_r(r, z) as -nu B_0 r z.",
+    "weight": 5
+  },
+  {
+    "title": "Current Density Calculation",
+    "description": "Essential Criteria: The student must derive the current density j(r, z) as -1/mu_0 nu B_0 r e_theta.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Maxwell's Equation",
+    "description": "Important Criteria: The student should correctly apply Maxwell's equation to relate the magnetic field components.",
+    "weight": 4
+  },
+  {
+    "title": "Assumption Justification",
+    "description": "Important Criteria: The student must justify the assumption that B_z(r, z) approximates B_z(0, z) for small r.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the calculations of B_r and j.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios for the magnetic field.",
+    "weight": 1
+  }
+]

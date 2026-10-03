@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct normal force at C",
+    "description": "Essential Criteria: The response must correctly calculate the normal force at point C using Newton's second law for circular motion, yielding 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final horizontal distance",
+    "description": "Essential Criteria: The response must correctly compute the horizontal throw distance from point D, yielding 1.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy or work analysis on AB",
+    "description": "Important Criteria: The response must correctly apply the work-energy theorem or equivalent to find the speed at B, accounting for friction on the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on conveyor belt",
+    "description": "Important Criteria: The response must correctly determine the slider's acceleration on the belt using friction and find its speed at D.",
+    "weight": 4
+  },
+  {
+    "title": "Free-fall time calculation",
+    "description": "Important Criteria: The response must correctly calculate the time to fall from height H - L1 sinθ to the ground using kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity continuity at B-C",
+    "description": "Optional Criteria: The response should note that speed is conserved from B to C due to the smooth, negligible-length arc.",
+    "weight": 2
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Optional Criteria: The response should explicitly state that the pressure on the track equals the normal force by Newton's third law.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in circular motion",
+    "description": "Pitfall Criteria: The response incorrectly sets up the force balance at C (e.g., mg - FN = mv²/R) leading to a wrong normal force.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect fall height",
+    "description": "Pitfall Criteria: The response uses the wrong height (e.g., H instead of H - L1 sinθ) to calculate the free-fall time.",
+    "weight": -2
+  }
+]

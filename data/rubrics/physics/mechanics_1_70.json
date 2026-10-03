@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must correctly state the condition for circular motion as ∂V/∂r = J^2/(mr^3).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly express the stability condition as 3J^2/(mr^4) - ∂f/∂r > 0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria: The student must conclude that n < 3 for stability of the circular orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning for (a)",
+    "description": "Important Criteria: The student should explain the concept of effective potential and its role in circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Key Reasoning for (b)",
+    "description": "Important Criteria: The student must derive the condition for stability involving the second derivative of the effective potential.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Analysis",
+    "description": "Optional Criteria: The student may discuss the effects of small perturbations on the circular orbit.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the stability condition derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all terms in the equations have consistent units.",
+    "weight": 2
+  }
+]

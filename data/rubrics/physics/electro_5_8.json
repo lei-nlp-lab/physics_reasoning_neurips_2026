@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must correctly identify that E^2 - B^2 and E · B are invariant under Lorentz transformations.",
+    "weight": 5
+  },
+  {
+    "title": "Decomposition of Fields",
+    "description": "Important Criteria: The student should correctly decompose the electric and magnetic fields into parallel and perpendicular components.",
+    "weight": 4
+  },
+  {
+    "title": "Transformation Equations",
+    "description": "Important Criteria: The student must accurately apply the Lorentz transformation equations for the electric and magnetic fields.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Expression",
+    "description": "Important Criteria: The student should derive and show that the expressions for E^2 - B^2 and E · B remain unchanged after transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as incorrect application of the Lorentz transformation or sign errors.",
+    "weight": -2
+  }
+]

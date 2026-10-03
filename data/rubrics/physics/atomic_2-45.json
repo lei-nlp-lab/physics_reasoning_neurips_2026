@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Energy Release (Sun)",
+    "description": "Essential Criteria: The student must provide the correct energy release of approximately 26.9 MeV for the proton-proton chain reaction in the sun.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Release (H Bomb)",
+    "description": "Essential Criteria: The student must provide the correct energy release of approximately 22.4 MeV for the H bomb reaction.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Release (Controlled Fusion)",
+    "description": "Essential Criteria: The student must provide the correct energy release of approximately 17.65 MeV for the controlled fusion reaction.",
+    "weight": 5
+  },
+  {
+    "title": "Nuclear Forces Characteristic",
+    "description": "Essential Criteria: The student must correctly identify 'saturation' as the key characteristic of nuclear forces in these reactions.",
+    "weight": 5
+  },
+  {
+    "title": "Reaction Examples",
+    "description": "Important Criteria: The student should include relevant examples of thermonuclear reactions in the sun, H bomb, and controlled fusion.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation Method",
+    "description": "Important Criteria: The student should demonstrate understanding of the energy calculation method using mass-energy equivalence.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should use consistent units throughout their calculations and explanations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect mass values or sign mistakes in energy calculations.",
+    "weight": -2
+  }
+]

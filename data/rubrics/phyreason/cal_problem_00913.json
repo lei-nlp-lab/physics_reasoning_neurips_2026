@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Period calculation",
+    "description": "Essential: The response must correctly compute the period using T = 2π√(LC) and give the numerical value with units.",
+    "weight": 5
+  },
+  {
+    "title": "Charge polarity at t",
+    "description": "Essential: The response must state that the upper plate is negatively charged at t = 2.0 ms.",
+    "weight": 5
+  },
+  {
+    "title": "Current direction at t",
+    "description": "Essential: The response must state the current direction is counterclockwise at t = 2.0 ms.",
+    "weight": 5
+  },
+  {
+    "title": "Average current magnitude",
+    "description": "Essential: The response must correctly compute the average current as I_avg = Q_max / (T/4) and give the numerical value with units.",
+    "weight": 5
+  },
+  {
+    "title": "Physics of LC oscillation",
+    "description": "Important: The response must correctly relate the given time to the phase of the oscillation (e.g., t = 2.0 ms is between T/4 and T/2).",
+    "weight": 3
+  },
+  {
+    "title": "Maximum charge from voltage",
+    "description": "Important: The response must use Q_max = C * V_max to find the maximum charge on the capacitor.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the charge polarity or current direction is reversed, or if units are missing/incorrect in final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Penalize if the wrong formula is used for period (e.g., forgetting 2π) or average current (e.g., using I_max).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Charge sign identification",
+    "description": "Essential: Student must correctly state that the ball carries positive charge, based on the direction of electric field and equilibrium geometry.",
+    "weight": 5
+  },
+  {
+    "title": "Charge magnitude calculation",
+    "description": "Essential: Student must derive and present the final expression for charge: q = (mg tanθ)/E.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student must resolve forces (gravity, tension, electric) and apply equilibrium conditions in horizontal and vertical directions.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Student must correctly apply the work-energy theorem, accounting for work done by gravity and electric force, to find the speed.",
+    "weight": 4
+  },
+  {
+    "title": "Final speed expression",
+    "description": "Essential: Student must derive and present the final expression for speed: v = √[2gL(1/cosθ - 1)].",
+    "weight": 5
+  },
+  {
+    "title": "Geometry and displacement",
+    "description": "Important: Student must correctly relate the vertical height change (L - L cosθ) to the gravitational potential energy change.",
+    "weight": 3
+  },
+  {
+    "title": "Electric force work",
+    "description": "Optional: Student may note that the electric force is conservative and its work depends on horizontal displacement (L sinθ).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns negative charge, or misplaces the direction of the electric force in the force diagram.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric mistake",
+    "description": "Pitfall: Student makes an error in resolving forces (e.g., using sin instead of tan) or in the work-energy geometry.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Mass of B",
+    "description": "Essential: Correctly calculates m = 3 kg from force balance on ball B using tension symmetry and geometry.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force magnitude",
+    "description": "Essential: Correctly determines f = 10 N from horizontal force balance on block C.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force on C",
+    "description": "Important: Correctly computes normal force N from vertical force balance on block C, accounting for tension's vertical component.",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient",
+    "description": "Essential: Correctly calculates μ = f/N, yielding μ = 2√3/9 ≈ 0.385.",
+    "weight": 5
+  },
+  {
+    "title": "Tension relationships",
+    "description": "Important: Recognizes equal tensions in ribbon segments from A to B and from B to C due to smooth pulleys and equilibrium.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance on B",
+    "description": "Important: Applies vector force balance on ball B with correct 60° geometry to relate tensions to m·g.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal balance on C",
+    "description": "Important: Sets up horizontal equilibrium for block C including tension component, friction, and D's weight.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Assigns wrong direction to friction force (e.g., opposing wrong motion tendency) in C's equilibrium.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misuse",
+    "description": "Pitfall: Uses incorrect angles (e.g., 30° vs 60°) when resolving tension components on B or C.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (kg, N) and uses g = 10 m/s² correctly throughout.",
+    "weight": 1
+  }
+]

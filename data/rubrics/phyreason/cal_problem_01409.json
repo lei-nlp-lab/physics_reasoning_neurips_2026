@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct work expression",
+    "description": "Essential Criteria: The student's final answer for part (1) must be W = mg(h + R/2) - (1/2)mv² or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential difference",
+    "description": "Essential Criteria: The student's final answer for part (2) must be U_AB = [mv² - mg(2h+R)]/(2q) or an equivalent simplified form with correct sign.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The solution must apply the work-energy theorem to relate gravitational work, electric work, and kinetic energy change from A to C.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric height calculation",
+    "description": "Important Criteria: The solution must correctly calculate the vertical height difference between A and C as H = h + R sin30° = h + R/2.",
+    "weight": 3
+  },
+  {
+    "title": "Equipotential surface recognition",
+    "description": "Important Criteria: The solution must recognize that B and C are on the same equipotential surface (same distance from O), giving φ_B = φ_C.",
+    "weight": 3
+  },
+  {
+    "title": "Potential difference relationship",
+    "description": "Important Criteria: The solution must correctly relate U_AB to U_AC using the equipotential condition, establishing U_AB = U_AC.",
+    "weight": 3
+  },
+  {
+    "title": "Work-potential relationship",
+    "description": "Important Criteria: The solution must correctly use the relationship between electric work and potential difference: W_elec = -qU or equivalent.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work definition",
+    "description": "Pitfall Criteria: Penalize if the student confuses 'work done by the ball to overcome electric force' with 'work done by electric field', missing the sign reversal.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect equipotential reasoning",
+    "description": "Pitfall Criteria: Penalize if the student assumes B and C have different potentials or incorrectly relates U_AB to other potential differences.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution shows dimensional analysis or unit verification for both final expressions.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Photon energy calculation",
+    "description": "Essential: Correctly computes photon energy using ε = hc/λ, obtaining approximately 1.06×10⁻²⁷ J.",
+    "weight": 5
+  },
+  {
+    "title": "Quanta emitted per second",
+    "description": "Essential: Calculates N = P/ε to find approximately 9.4×10³⁰ quanta/s from the 10 kW power.",
+    "weight": 5
+  },
+  {
+    "title": "Spherical spreading model",
+    "description": "Important: Recognizes that quanta spread uniformly over sphere of radius R = 2.5 km, using area ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Received quanta calculation",
+    "description": "Essential: Correctly computes n = N × (πr²)/(4πR²) = N × r²/(4R²) with r=1 m, R=2500 m, yielding ≈3.76×10²³ quanta/s.",
+    "weight": 5
+  },
+  {
+    "title": "Received power determination",
+    "description": "Essential: Computes received power as P_rec = nε, obtaining ≈4×10⁻⁴ W.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: Maintains consistent SI units (kW→W, km→m) throughout calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Area ratio misinterpretation",
+    "description": "Pitfall: Uses wrong area ratio (e.g., r/R instead of (r/R)²/4) for received quanta.",
+    "weight": -2
+  },
+  {
+    "title": "Power-quanta confusion",
+    "description": "Pitfall: Confuses power with energy or misapplies P = Nε/t relationship.",
+    "weight": -1
+  }
+]

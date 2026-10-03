@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Energy Plot Description",
+    "description": "Essential Criteria: The student must accurately describe the energy-versus-separation plot and its relation to the liquid-drop model.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Release Explanation",
+    "description": "Essential Criteria: The student must provide the correct equation for the energy released during fission.",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb Barrier Explanation",
+    "description": "Essential Criteria: The student must explain why elements heavier than iron but lighter than lead do not fission spontaneously.",
+    "weight": 5
+  },
+  {
+    "title": "Binding Energy Concept",
+    "description": "Important Criteria: The student should discuss the concept of binding energy and its significance in nuclear fission.",
+    "weight": 4
+  },
+  {
+    "title": "Liquid-Drop Model Reference",
+    "description": "Important Criteria: The student should reference the liquid-drop model in relation to binding energy behavior.",
+    "weight": 4
+  },
+  {
+    "title": "Equation Clarity",
+    "description": "Optional Criteria: The student may include a clear explanation of the terms in the energy release equation.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that units are consistent and correctly applied throughout the response.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in equations.",
+    "weight": -2
+  }
+]

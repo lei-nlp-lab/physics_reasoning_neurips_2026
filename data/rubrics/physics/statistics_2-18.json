@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must state that the angular momentum vector is nearly perpendicular to the long axis of the grain.",
+    "weight": 5
+  },
+  {
+    "title": "Inertia Relationship",
+    "description": "Important Criteria: The student should explain the relationship between the principal moments of inertia and the angular velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Thermal Equilibrium",
+    "description": "Important Criteria: The student must mention that the system is in thermal equilibrium and how it affects angular momentum.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Justification",
+    "description": "Important Criteria: The student should provide a mathematical justification for the relationship between angular momentum and the moments of inertia.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the angular momentum calculations.",
+    "weight": -2
+  }
+]

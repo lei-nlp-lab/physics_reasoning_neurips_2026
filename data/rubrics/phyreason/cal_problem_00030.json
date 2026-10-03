@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Lowest point velocity",
+    "description": "Essential: Correctly calculates the ball's speed at the lowest point using conservation of energy and momentum.",
+    "weight": 5
+  },
+  {
+    "title": "Groove displacement",
+    "description": "Essential: Correctly determines the groove's horizontal displacement when the ball reaches the lowest point.",
+    "weight": 5
+  },
+  {
+    "title": "Trajectory equation",
+    "description": "Essential: Correctly derives the equation of the ball's trajectory in the ground-fixed frame.",
+    "weight": 5
+  },
+  {
+    "title": "Specific condition velocity",
+    "description": "Essential: Correctly calculates the ball's speed relative to ground at height b/2 given the mass ratio condition.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: Applies conservation of horizontal momentum to relate ball and groove velocities/displacements.",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of energy",
+    "description": "Important: Applies conservation of mechanical energy correctly, accounting for both masses' kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric constraint",
+    "description": "Important: Uses the ellipse geometry or the constraint that relative horizontal displacement sums to 'a'.",
+    "weight": 3
+  },
+  {
+    "title": "Coordinate transformation",
+    "description": "Optional: Correctly transforms from the moving groove frame to the ground-fixed frame for the trajectory.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Uses incorrect sign in horizontal momentum conservation equation (e.g., adding instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Energy omission",
+    "description": "Pitfall: Omits the groove's kinetic energy in the energy conservation equation.",
+    "weight": -2
+  }
+]

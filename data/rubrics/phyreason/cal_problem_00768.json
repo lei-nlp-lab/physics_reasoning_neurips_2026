@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Equilibrium compression calculation",
+    "description": "Essential Criteria: Student correctly calculates the spring compression at equilibrium using l₁ = m_A g / k.",
+    "weight": 5
+  },
+  {
+    "title": "Height from ground",
+    "description": "Essential Criteria: Student correctly computes the height h = natural length - l₁, yielding 8 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum compression relation",
+    "description": "Important Criteria: Student recognizes that maximum downward compression is twice the equilibrium compression (l₂ = 2l₁) due to SHM symmetry.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum pressure calculation",
+    "description": "Essential Criteria: Student correctly calculates maximum pressure using N = m_B g + k l₂, yielding 4 N.",
+    "weight": 5
+  },
+  {
+    "title": "Spring force work calculation",
+    "description": "Essential Criteria: Student correctly computes work done by spring force using W = (k l₁ + k l₂)/2 × l₁, yielding 0.03 J.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important Criteria: Student converts masses to kg and lengths to m to maintain consistent SI units in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important Criteria: Student applies Newton's laws correctly to analyze forces on objects A and B at different positions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Student incorrectly assigns positive sign to spring force work when it's actually negative (spring does negative work as A moves downward).",
+    "weight": -1
+  },
+  {
+    "title": "Ignoring B's mass in pressure",
+    "description": "Pitfall Criteria: Student omits m_B g term when calculating maximum pressure on ground, using only k l₂.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing compression signs",
+    "description": "Pitfall Criteria: Student treats compression as negative displacement or misinterprets the direction of spring force.",
+    "weight": -1
+  }
+]

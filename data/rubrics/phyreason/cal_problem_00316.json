@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Earth-Moon mass ratio",
+    "description": "Essential: Correctly states the mass ratio as 6R² : R₁² or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Parking orbit velocity",
+    "description": "Essential: Correctly gives the linear velocity as R√(g/r) or equivalent derived form.",
+    "weight": 5
+  },
+  {
+    "title": "Working orbit period",
+    "description": "Essential: Correctly gives the period as (2πr₁/R₁)√(6r₁/g) or equivalent derived form.",
+    "weight": 5
+  },
+  {
+    "title": "Apply golden substitution",
+    "description": "Important: Uses GM = gR² for Earth and/or g_Moon R₁² for Moon in relevant derivations.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Important: Applies Newton's second law (F_grav = m v²/r or m ω²r) for orbital motion.",
+    "weight": 4
+  },
+  {
+    "title": "Interpret lunar gravity",
+    "description": "Important: Correctly identifies given g_Moon = g/6 and uses it in ratio or period calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Final answers are presented with correct or implied units, or dimensional analysis is shown.",
+    "weight": 1
+  },
+  {
+    "title": "Confuse orbit radii",
+    "description": "Pitfall: Uses Earth radius R or Moon radius R₁ incorrectly in place of orbit radii r or r₁.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or ratio error",
+    "description": "Pitfall: Inverts the mass ratio (e.g., writes R₁² : 6R²) or makes algebraic sign errors in velocity/period.",
+    "weight": -1
+  }
+]

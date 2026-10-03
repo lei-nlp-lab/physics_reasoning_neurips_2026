@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric force magnitude",
+    "description": "Essential Criteria: The final numerical answer for the electric force must be correct, approximately 6.0 × 10⁻³ N.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: The final numerical answer for the electric field strength must be correct, approximately 0.6 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance diagram",
+    "description": "Important Criteria: The solution must correctly identify the three forces (gravity, tension, electric) and set up a free-body diagram or equivalent force balance.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric force resolution",
+    "description": "Important Criteria: The solution must correctly resolve forces to relate the electric force to gravity using the tangent of the given angle (Fe = mg tan 37°).",
+    "weight": 4
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Important Criteria: The solution must state the direction of the electric field as horizontal and to the left, consistent with the negative charge and equilibrium position.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should correctly handle units (Newtons, Coulombs) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize stating the electric field direction as right, or incorrectly using sine/cosine instead of tangent in the force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall Criteria: Penalize using E = F/q before finding Fe, or incorrectly calculating tan 37°.",
+    "weight": -1
+  }
+]

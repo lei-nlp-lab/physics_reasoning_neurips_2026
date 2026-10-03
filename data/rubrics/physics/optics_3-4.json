@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Laser Definition",
+    "description": "Essential Criteria: The student must correctly define the acronym laser as 'Light Amplification by Stimulated Emission of Radiation'.",
+    "weight": 5
+  },
+  {
+    "title": "Laser Output",
+    "description": "Essential Criteria: The student must accurately describe the output of a laser as a highly coherent and directional beam.",
+    "weight": 5
+  },
+  {
+    "title": "FEL Mechanism",
+    "description": "Important Criteria: The student should explain how the output is produced in the FEL, including the role of high energy electrons and the undulating magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "FEL Advantage",
+    "description": "Important Criteria: The student must identify a specific advantage of the FEL over previous types of lasers, such as tunability or high peak power.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Transfer",
+    "description": "Optional Criteria: The student may discuss the synchronism condition and energy transfer between electrons and waves in detail.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect definitions or missing key components of the FEL mechanism.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Threshold Kinetic Energy",
+    "description": "Essential Criteria: The student must correctly derive the expression for the threshold kinetic energy T_K.",
+    "weight": 5
+  },
+  {
+    "title": "Invariant Mass Condition",
+    "description": "Important Criteria: The student should demonstrate understanding of the invariant mass condition S = (E_K + m_p)^2 - p_K^2 = (m_Ω + 2m_K)^2.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student must apply energy conservation principles to relate the energies of the particles involved.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum Angle Calculation",
+    "description": "Essential Criteria: The student must find the maximum angle theta_1 that the pions can make with the K^0 line of flight.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Transformation",
+    "description": "Important Criteria: The student should correctly apply Lorentz transformations to relate the momenta and energies of the pions in different frames.",
+    "weight": 4
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: The student should express final answers clearly and in the correct format, including units where applicable.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of relativistic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the energy required for the muon to reach the earth's surface as 3.3 GeV.",
+    "weight": 5
+  },
+  {
+    "title": "Deflection Formula",
+    "description": "Important Criteria: The student should derive the formula for the radius of curvature R in the magnetic field and relate it to the deflection distance a.",
+    "weight": 4
+  },
+  {
+    "title": "Threshold Energy Calculation",
+    "description": "Essential Criteria: The student must accurately determine the threshold energy for the proton in the reaction as 1.82 x 10^11 GeV.",
+    "weight": 5
+  },
+  {
+    "title": "Direction of Deflection",
+    "description": "Important Criteria: The student should correctly identify the direction of deflection for the muon in the earth's magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of relativistic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Loss Mechanism",
+    "description": "Optional Criteria: The student may discuss the mechanism of energy loss for protons interacting with 3-K radiation.",
+    "weight": 1
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Important Criteria: The student should justify the zeroth approximation used for the earth's magnetic field.",
+    "weight": 3
+  }
+]

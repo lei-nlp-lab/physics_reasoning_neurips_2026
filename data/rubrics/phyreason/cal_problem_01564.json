@@ -1,0 +1,47 @@
+[
+  {
+    "title": "F-h relation derivation",
+    "description": "Essential Criteria: The response must derive the linear relationship F = 20h - 100 using energy conservation and Newton's second law at point B.",
+    "weight": 5
+  },
+  {
+    "title": "Graph intercept a",
+    "description": "Essential Criteria: The response must correctly identify the vertical intercept a = -100 N from the derived F-h relation.",
+    "weight": 5
+  },
+  {
+    "title": "Graph slope b",
+    "description": "Essential Criteria: The response must correctly identify the slope b = 20 N/m from the derived F-h relation.",
+    "weight": 5
+  },
+  {
+    "title": "Collision analysis",
+    "description": "Important Criteria: The response must apply both momentum conservation and kinetic energy conservation for the elastic collision between P and Q.",
+    "weight": 4
+  },
+  {
+    "title": "Variable friction work",
+    "description": "Important Criteria: The response must correctly integrate the work done by the position-dependent friction force on Q over distance L.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for h",
+    "description": "Important Criteria: The response must apply energy conservation from release height h to the pre-collision speed of P at A.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Optional Criteria: The response may discuss the physical meaning of negative F values (block losing contact) in the F-h graph.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall Criteria: Deduct points if the student writes F - mg = mv²/r instead of F + mg = mv²/r for the normal force at the top of the circle.",
+    "weight": -2
+  },
+  {
+    "title": "Friction work miscalculation",
+    "description": "Pitfall Criteria: Deduct points if the student uses average friction force instead of integrating μ(x) = 2x/5 over the distance.",
+    "weight": -2
+  }
+]

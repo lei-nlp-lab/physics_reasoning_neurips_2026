@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Potential at D",
+    "description": "Essential: Correctly calculates φ_D = -E * d_DB, yielding -0.6 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Difference C-D",
+    "description": "Essential: Correctly calculates U_CD = φ_C - φ_D, yielding -4.8 V.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance Value",
+    "description": "Essential: Correctly calculates C = Q / U_AB, yielding 1 × 10⁻⁸ F.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ground Reference",
+    "description": "Important: Recognizes plate B is grounded (φ_B = 0) and applies it consistently for potentials.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for Distances",
+    "description": "Important: Correctly determines distances d_DB, d_CB, and plate separation d for calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Uniform Field Relation",
+    "description": "Important: Applies Δφ = -E * Δx (with sign) for potential differences in the uniform field.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Converts all distances to meters before calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign Error in Potential",
+    "description": "Pitfall: Uses Δφ = +E * Δx (incorrect sign convention relative to ground/direction).",
+    "weight": -2
+  },
+  {
+    "title": "Plate Voltage Miscalculation",
+    "description": "Pitfall: Fails to find U_AB = E*d = 6 V before calculating capacitance.",
+    "weight": -2
+  }
+]

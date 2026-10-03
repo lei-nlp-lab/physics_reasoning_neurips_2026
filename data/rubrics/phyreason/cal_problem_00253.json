@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Kick acceleration magnitude",
+    "description": "Essential: Correctly calculates the magnitude of acceleration during the kick as 300 m/s² using a = Δv/Δt.",
+    "weight": 5
+  },
+  {
+    "title": "Catch acceleration magnitude",
+    "description": "Essential: Correctly calculates the magnitude of acceleration during the catch as 200 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Velocity change for catch",
+    "description": "Important: Correctly computes the change in velocity for the catch (Δv = v_final - v_initial), accounting for opposite directions.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration definition application",
+    "description": "Important: Applies the average acceleration formula (a = Δv/Δt) to both interaction intervals.",
+    "weight": 3
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Optional: Maintains consistent sign convention for velocity directions throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Unit inclusion",
+    "description": "Optional: Includes correct units (m/s²) with both final acceleration values.",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring uniform motion",
+    "description": "Pitfall: Incorrectly uses the 1s flight time in acceleration calculations instead of the contact times.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in Δv",
+    "description": "Pitfall: Makes a sign error when calculating Δv for the catch, e.g., adding instead of subtracting velocities.",
+    "weight": -2
+  },
+  {
+    "title": "Magnitude vs. vector confusion",
+    "description": "Pitfall: Confuses acceleration magnitude with vector acceleration (e.g., omitting negative sign for vector or including it for magnitude).",
+    "weight": -1
+  }
+]

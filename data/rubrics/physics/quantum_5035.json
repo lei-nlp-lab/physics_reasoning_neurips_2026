@@ -1,0 +1,42 @@
+[
+  {
+    "title": "First Order Energy",
+    "description": "Essential Criteria: The student must correctly state that E^(1) = 0 due to parity considerations.",
+    "weight": 5
+  },
+  {
+    "title": "Second Order Energy",
+    "description": "Essential Criteria: The student must provide the correct expression for E^(2) involving the summation over states.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The student should demonstrate understanding of applying perturbation theory to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Parity Consideration",
+    "description": "Important Criteria: The student must explain the significance of parity in determining the first-order energy correction.",
+    "weight": 3
+  },
+  {
+    "title": "Matrix Element Evaluation",
+    "description": "Optional Criteria: The student may discuss the evaluation of matrix elements and their contributions to the second-order correction.",
+    "weight": 2
+  },
+  {
+    "title": "Sign of Energy Correction",
+    "description": "Important Criteria: The student should mention that E^(2) is negative and its implications regarding the electric field strength.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid errors related to incorrect assumptions about degeneracy or neglecting terms in the perturbation expansion.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

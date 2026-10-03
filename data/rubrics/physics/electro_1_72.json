@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must correctly explain the difference in charge density behavior between the insulating and conducting cylinders, including the condition for similarity.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for sigma(theta) and the applicable range for E_a.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should correctly state the boundary conditions applied to the potentials inside and outside the cylinder.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student must apply Gauss' law correctly to derive the relationship between charge density and electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Conductors",
+    "description": "Important Criteria: The student should demonstrate understanding of the electrostatic properties of conductors compared to insulators.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expressions for electric fields and charge densities.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all quantities are expressed in consistent units throughout the solution.",
+    "weight": -1
+  },
+  {
+    "title": "Mathematical Derivations",
+    "description": "Optional Criteria: The student may include clear and correct mathematical derivations leading to the final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student could provide a physical interpretation of the results, discussing implications of the charge distribution.",
+    "weight": 2
+  }
+]

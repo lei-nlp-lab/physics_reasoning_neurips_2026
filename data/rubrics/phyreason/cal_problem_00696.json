@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Post-collision speed",
+    "description": "Essential: The student must correctly compute the speed of the combined block-pellet system after the inelastic collision as 7 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Total time",
+    "description": "Essential: The student must correctly compute the total time for the block to travel from A to B as 4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Friction and acceleration",
+    "description": "Important: The student must correctly apply Newton's second law to find the deceleration magnitude (3 m/s²) due to kinetic friction.",
+    "weight": 4
+  },
+  {
+    "title": "Two-stage motion analysis",
+    "description": "Important: The student must recognize the motion consists of a deceleration phase until the block matches the belt's speed, followed by a constant velocity phase.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration phase kinematics",
+    "description": "Important: The student must correctly calculate the time (t1) and displacement (x) during the deceleration phase using kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Constant velocity phase",
+    "description": "Optional: The student may explicitly calculate the remaining distance traveled at the belt's speed and the corresponding time (t2).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in relative motion",
+    "description": "Pitfall: The student incorrectly assigns the direction of friction or the sign in the kinematic equation for deceleration relative to the belt's motion.",
+    "weight": -2
+  },
+  {
+    "title": "Mass or unit mistake",
+    "description": "Pitfall: The student makes an error in the combined mass, the friction force calculation, or fails to use consistent units.",
+    "weight": -1
+  }
+]

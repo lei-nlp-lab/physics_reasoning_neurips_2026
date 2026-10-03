@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Displacement magnitude A→O",
+    "description": "Essential: The displacement magnitude from A to O must be correctly stated as R.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement direction A→O",
+    "description": "Essential: The direction of the displacement from A to O must be correctly identified (e.g., West or along the negative x-axis).",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude A→D",
+    "description": "Essential: The displacement magnitude from A to D must be correctly calculated as √2 R.",
+    "weight": 5
+  },
+  {
+    "title": "Path length calculation",
+    "description": "Important: The total distance traveled along the specified curve ABCOADC to point D must be correctly summed, accounting for the full and partial circular arcs.",
+    "weight": 4
+  },
+  {
+    "title": "Distance A→D",
+    "description": "Essential: The final distance traveled from A to D must be correctly stated (e.g., 2.5πR or 5πR/2).",
+    "weight": 5
+  },
+  {
+    "title": "Vector vs. scalar confusion",
+    "description": "Pitfall: Confusing displacement (vector) with distance traveled (scalar) in either part of the answer.",
+    "weight": -2
+  },
+  {
+    "title": "Path geometry interpretation",
+    "description": "Important: Correctly interpreting the Bagua diagram geometry to identify the coordinates or straight-line paths for displacement calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Arc length formula application",
+    "description": "Optional: Explicitly showing the use of the arc length formula (s = rθ) for the curved sections of the path.",
+    "weight": 1
+  }
+]

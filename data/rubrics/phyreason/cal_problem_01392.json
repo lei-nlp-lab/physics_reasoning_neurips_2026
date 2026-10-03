@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates k = F/Δl with proper unit conversion from cm to m.",
+    "weight": 5
+  },
+  {
+    "title": "Work by elastic force",
+    "description": "Essential: Correctly computes W = -½FΔl or equivalent, obtaining -10 J.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy change",
+    "description": "Essential: Correctly states ΔEp = -W, obtaining +10 J.",
+    "weight": 5
+  },
+  {
+    "title": "Hooke's law application",
+    "description": "Important: Recognizes that F = kΔl applies for spring elongation under tension.",
+    "weight": 3
+  },
+  {
+    "title": "Work integration reasoning",
+    "description": "Important: Uses work formula for variable force (linear spring) rather than constant force assumption.",
+    "weight": 3
+  },
+  {
+    "title": "Energy-work relationship",
+    "description": "Important: Correctly relates elastic potential energy change to work done by elastic force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations (N, m, J).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Forgets negative sign in work formula or misinterprets direction of elastic force.",
+    "weight": -2
+  },
+  {
+    "title": "Length unit mistake",
+    "description": "Pitfall: Uses centimeters without converting to meters in spring constant calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Constant force assumption",
+    "description": "Pitfall: Incorrectly uses W = FΔl instead of W = -½FΔl for variable spring force.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must correctly derive and present the equation ρ- = -γ²ρ+.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ampère's Law",
+    "description": "Important Criteria: The student should apply Ampère's law correctly to find the magnetic field inside the wire.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student must correctly apply Gauss' law to determine the electric field within the wire.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium Condition",
+    "description": "Important Criteria: The student should explain the equilibrium condition where the electric and magnetic forces cancel each other.",
+    "weight": 3
+  },
+  {
+    "title": "Neutrality Explanation",
+    "description": "Optional Criteria: The student should describe how the wire remains neutral despite the charge distribution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the derivation of the charge densities.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

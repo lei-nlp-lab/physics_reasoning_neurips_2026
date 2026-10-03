@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct minimum length",
+    "description": "Essential Criteria: The student must correctly calculate the minimum conveyor belt length l₀ = 3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct scratch length",
+    "description": "Essential Criteria: The student must correctly calculate the scratch length s = 6 m.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration analysis",
+    "description": "Important Criteria: The student must correctly analyze the two acceleration phases, distinguishing between upward and downward motion relative to the belt.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic application",
+    "description": "Important Criteria: The student must correctly apply kinematic equations to find times and displacements for each phase of motion.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion concept",
+    "description": "Important Criteria: The student must correctly interpret the scratch length as a relative motion problem between the block and the moving belt.",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction",
+    "description": "Pitfall Criteria: The student incorrectly assumes friction direction remains constant throughout both sliding phases.",
+    "weight": -2
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: The student makes sign errors in acceleration equations or kinematic calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units throughout calculations and presents final answers with correct units.",
+    "weight": 1
+  }
+]

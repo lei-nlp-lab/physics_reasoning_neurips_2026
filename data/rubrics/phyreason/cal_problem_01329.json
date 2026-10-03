@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Orbital velocity expression",
+    "description": "Essential: The final answer for part (1) must be v = 2π(R+H)/T.",
+    "weight": 5
+  },
+  {
+    "title": "Moon mass expression",
+    "description": "Essential: The final answer for part (2) must be M = 4π²(R+H)³/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Surface orbital velocity",
+    "description": "Essential: The final answer for part (3) must be v' = (2π(R+H)/T)√((R+H)/R) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's law",
+    "description": "Important: The solution must correctly set centripetal force equal to gravitational force for parts (2) and (3).",
+    "weight": 4
+  },
+  {
+    "title": "Correct orbital radius",
+    "description": "Important: The solution must use (R+H) as the orbital radius for Chang'e-1, not just R.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The derivation shows clear algebraic steps to solve for the required quantities.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions are dimensionally consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Radius confusion error",
+    "description": "Pitfall: Using the lunar radius R instead of (R+H) for Chang'e-1's orbit.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Using the surface gravity formula g=GM/R² incorrectly without centripetal acceleration for part (3).",
+    "weight": -1
+  }
+]

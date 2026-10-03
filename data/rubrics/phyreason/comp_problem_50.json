@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct radial force expression",
+    "description": "Essential: The final answer for part (1) must be $F_r = mg\\cos\\theta_0 - \\frac{m v^2}{R}$ or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum angle expression",
+    "description": "Essential: The final answer for part (2) must be $\\alpha_{\\max} = \\frac{r}{R \\sin \\theta_0} \\sqrt{1 - \\frac{mgR(1-\\cos\\theta_0) - \\frac{1}{2}mgR\\theta_0\\sin\\theta_0}{K}}$ or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Radial force balance reasoning",
+    "description": "Important: The solution must identify the radial components of gravity ($mg\\cos\\theta_0$) and the centripetal/centrifugal force ($-mv^2/R$) from motion along a latitude.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: For part (2), the solution must apply energy conservation, equating initial energy (gravitational, spring potential, launch kinetic) to final energy at the cylinder (gravitational and kinetic).",
+    "weight": 4
+  },
+  {
+    "title": "Angular momentum conservation",
+    "description": "Important: For part (2), the solution must apply angular momentum conservation about the vertical axis to relate the launch conditions to the tangential speed at the cylinder ($m v \\sin\\alpha (R\\sin\\theta_0) = m u r$).",
+    "weight": 4
+  },
+  {
+    "title": "Spring equilibrium substitution",
+    "description": "Important: The solution must use the given equilibrium condition (spring force balances gravity component) to substitute $\\frac{1}{2}kR^2\\theta_0^2$ with $\\frac{1}{2}mgR\\theta_0\\sin\\theta_0$ in the energy equation.",
+    "weight": 3
+  },
+  {
+    "title": "Small-angle approximation for kinetic energy",
+    "description": "Optional: The solution may note the use of the approximation $\\sin\\alpha \\approx \\alpha$ and $K = \\frac{1}{2}mv^2$ when expressing the final rotational kinetic energy term.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in radial force",
+    "description": "Pitfall: Deduct points if the sign of the centripetal term is incorrect (e.g., written as $+\\frac{mv^2}{R}$) in the radial force expression.",
+    "weight": -2
+  },
+  {
+    "title": "Missing energy or momentum term",
+    "description": "Pitfall: Deduct points if the energy conservation or angular momentum conservation equation omits a major term (e.g., spring potential, gravitational potential difference, or tangential velocity relation).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect trigonometric component",
+    "description": "Pitfall: Deduct points for an incorrect trigonometric factor in the centripetal force (e.g., using $\\sin\\theta_0$ or $\\cos\\theta_0$ incorrectly) or in the angular momentum arm ($R\\sin\\theta_0$).",
+    "weight": -1
+  }
+]

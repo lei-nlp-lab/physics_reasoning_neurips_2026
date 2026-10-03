@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Electric Potential",
+    "description": "Essential Criteria: The student must correctly express the scalar potential phi_omega in terms of the charge density rho_omega and the integral provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Potential",
+    "description": "Essential Criteria: The student must correctly express the vector potential A_omega in terms of the current density J_omega and the integral provided.",
+    "weight": 5
+  },
+  {
+    "title": "Charge-Current Conservation",
+    "description": "Important Criteria: The student must accurately state the continuity equation relating rho_omega and J_omega in Fourier space.",
+    "weight": 4
+  },
+  {
+    "title": "Far Zone Fields",
+    "description": "Important Criteria: The student must derive the expressions for the electric field E_omega and magnetic field B_omega in the far zone.",
+    "weight": 4
+  },
+  {
+    "title": "Current Density Expression",
+    "description": "Optional Criteria: The student should correctly identify and express the current density J_omega as r f(r) for the given problem.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expressions for the potentials or fields derived.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivations and final expressions.",
+    "weight": -1
+  }
+]

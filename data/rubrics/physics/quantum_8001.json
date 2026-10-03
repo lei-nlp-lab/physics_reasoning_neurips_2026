@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Matrix Form",
+    "description": "Essential Criteria: The final matrix must be expressed correctly as a 2x2 matrix with the appropriate trigonometric functions.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Matrix A",
+    "description": "Important Criteria: The student should correctly define and utilize the matrix A = [[0, 1], [-1, 0]] in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Series Expansion",
+    "description": "Important Criteria: The student should demonstrate understanding of the series expansion for the matrix exponential.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should apply the correct boundary conditions to find the constants in the general solution.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of matrix multiplication.",
+    "weight": -2
+  }
+]

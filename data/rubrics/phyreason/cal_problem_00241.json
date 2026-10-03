@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Charge sign determination",
+    "description": "Essential: Student must correctly identify the particle as positively charged, based on the direction of forces in the velocity selector.",
+    "weight": 5
+  },
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential: Student must derive and present the final expression for q/m, which is E₁²/(2UB₁²).",
+    "weight": 5
+  },
+  {
+    "title": "OP distance calculation",
+    "description": "Essential: Student must correctly calculate the distance OP as 4UB₁/(E₁B₂).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at O'",
+    "description": "Essential: Student must determine the final velocity at point O' as (2E₂ - E₁)/B₁.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity selector equilibrium",
+    "description": "Important: Student must apply the force balance condition (qvB₁ = qE₁) to find the velocity v₀ entering the selector.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation in accelerator",
+    "description": "Important: Student must use the work-energy theorem (qU = ½mv₀²) to relate acceleration voltage to initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion in separator",
+    "description": "Important: Student must apply the Lorentz force as centripetal force (qv₀B₂ = mv₀²/r) to find the radius of curvature.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity superposition analysis",
+    "description": "Important: For part (3), student must correctly analyze the superposition of velocities when the electric field changes to E₂.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Student incorrectly determines charge polarity or misapplies right-hand rule for force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates dimensional analysis or unit verification of final expressions.",
+    "weight": 1
+  }
+]

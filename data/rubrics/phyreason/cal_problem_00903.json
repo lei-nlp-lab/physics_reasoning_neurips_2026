@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum EMF",
+    "description": "Essential: Correctly calculates the maximum induced EMF using the formula Em = n B S ω, with the correct area S = L1 * L2.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Current",
+    "description": "Important: Applies Ohm's law for the full circuit to find the maximum current, Im = Em / (R + r).",
+    "weight": 4
+  },
+  {
+    "title": "Effective Current Reading",
+    "description": "Essential: Correctly converts the maximum current to the effective (RMS) value for the ammeter reading using I_eff = Im / √2.",
+    "weight": 5
+  },
+  {
+    "title": "Resistor Power",
+    "description": "Essential: Calculates the average power dissipated in the external resistor using P = (I_eff)^2 * R.",
+    "weight": 5
+  },
+  {
+    "title": "Area Calculation",
+    "description": "Important: Identifies and uses the correct rectangular area (L1 * L2) in the EMF formula.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit Resistance",
+    "description": "Important: Uses the total circuit resistance (R + r) in the current calculation, not just the external R.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent SI units throughout the calculation (e.g., meters for length, Tesla for B).",
+    "weight": 1
+  },
+  {
+    "title": "Peak vs. RMS Confusion",
+    "description": "Pitfall: Uses the maximum current Im (or maximum EMF) directly as the ammeter reading, failing to divide by √2.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Coil Resistance",
+    "description": "Pitfall: Omits the internal resistance r of the coil when calculating the circuit current.",
+    "weight": -2
+  }
+]

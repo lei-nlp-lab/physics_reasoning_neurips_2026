@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Tension in rope",
+    "description": "Essential Criteria: Correctly calculates the tension T = 10 N from the equilibrium of block A on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Height B rises",
+    "description": "Essential Criteria: Correctly calculates the total height h = 0.24 m that block B rises.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for B",
+    "description": "Important Criteria: Applies vector addition to find the total upward force on B from the rope tensions (2T cos(α/2)).",
+    "weight": 3
+  },
+  {
+    "title": "Spring compressions/extensions",
+    "description": "Important Criteria: Correctly applies Hooke's Law to find the initial compression of spring 2 (Δx₁) and the extensions of springs 1 and 2 (Δx₂, Δx₃) in the final state.",
+    "weight": 4
+  },
+  {
+    "title": "Displacement addition",
+    "description": "Important Criteria: Recognizes that the total rise of B is the sum of the changes in length of all connected springs (Δx₁ + Δx₂ + Δx₃).",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect friction direction",
+    "description": "Pitfall Criteria: Uses the wrong sign for the friction force when setting up the equilibrium equation for block A.",
+    "weight": -2
+  },
+  {
+    "title": "Rope force composition error",
+    "description": "Pitfall Criteria: Incorrectly calculates the total upward force on block B (e.g., using T instead of 2T cos(α/2)).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent units (N, m, kg) throughout the calculation.",
+    "weight": 1
+  }
+]

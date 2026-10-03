@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Frequency",
+    "description": "Essential Criteria: The final peak frequency omega_f must be correctly expressed in terms of omega_i.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Relation",
+    "description": "Important Criteria: The relationship between initial and final temperatures must be derived correctly using the adiabatic condition.",
+    "weight": 4
+  },
+  {
+    "title": "Volume Expansion",
+    "description": "Important Criteria: The effect of volume expansion on the system must be correctly applied to derive the final state.",
+    "weight": 4
+  },
+  {
+    "title": "Density of States",
+    "description": "Optional Criteria: The derivation of the density of states for the photon gas should be included to support the reasoning.",
+    "weight": 2
+  },
+  {
+    "title": "Adiabatic Process",
+    "description": "Important Criteria: The understanding of the adiabatic process and its implications for energy density must be demonstrated.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of constants in the equations will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Failure to maintain consistent units throughout the calculations will lead to errors in the final answer.",
+    "weight": -1
+  }
+]

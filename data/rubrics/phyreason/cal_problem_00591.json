@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Tension on A",
+    "description": "Essential: Correctly states the tension on block A as T = mg (or equivalent expression mg(sinθ + μ cosθ) with correct numerical substitution).",
+    "weight": 5
+  },
+  {
+    "title": "External Force F",
+    "description": "Essential: Correctly states the magnitude of the external force as F = 4mg (or equivalent expression with correct numerical substitution).",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance on A",
+    "description": "Important: Applies equilibrium to block A, balancing tension against the sum of the component of gravity down the incline and the static friction force (which acts down the incline).",
+    "weight": 4
+  },
+  {
+    "title": "Force Balance on B",
+    "description": "Important: Applies equilibrium to block B, setting the component of F up the incline equal to the sum of gravity down the incline, friction down the incline, and tension down the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Normal Force on B",
+    "description": "Important: Correctly calculates the normal force on block B as N_B = mg cosθ + F sinθ.",
+    "weight": 3
+  },
+  {
+    "title": "Friction Direction",
+    "description": "Pitfall: Incorrectly assigns the direction of the friction forces on A or B as up the incline instead of down (since motion is impending upwards).",
+    "weight": -2
+  },
+  {
+    "title": "Sign/Substitution Error",
+    "description": "Pitfall: Makes a numerical or algebraic error when substituting sin37°=0.6, cos37°=0.8, or μ=0.5 into the equilibrium equations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Expresses final answers in terms of mg with correct units implied, or explicitly includes the gravitational acceleration g.",
+    "weight": 1
+  }
+]

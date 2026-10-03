@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Moon mass",
+    "description": "Essential: Final answer for part (1) must be M = 4π²(R+h)³/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct surface gravity",
+    "description": "Essential: Final answer for part (2) must be g = 4π²(R+h)³/(T²R²).",
+    "weight": 5
+  },
+  {
+    "title": "Orbital force balance",
+    "description": "Important: Applies Newton's law of gravitation equals centripetal force for the circular orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Correct orbital radius",
+    "description": "Important: Uses R+h as the orbital radius from Moon's center, not just h.",
+    "weight": 4
+  },
+  {
+    "title": "Derivation of surface g",
+    "description": "Important: Correctly substitutes M into g = GM/R² to obtain final expression.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows dimensional analysis or mentions units for M and g.",
+    "weight": 1
+  },
+  {
+    "title": "Wrong radius usage",
+    "description": "Pitfall: Uses h instead of R+h as orbital radius, or uses R instead of R+h.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic error",
+    "description": "Pitfall: Makes algebraic mistake when solving for M or substituting into g formula.",
+    "weight": -1
+  }
+]

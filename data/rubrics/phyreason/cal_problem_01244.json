@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lowest point speed",
+    "description": "Essential: Correctly calculates speed at lowest point using tension and centripetal force.",
+    "weight": 5
+  },
+  {
+    "title": "Highest point speed",
+    "description": "Essential: Correctly determines minimum speed at highest point using centripetal force condition.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Applies work-energy theorem including gravity, air resistance, and kinetic energy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Gravity work calculation",
+    "description": "Important: Correctly accounts for gravitational potential energy change over full vertical circle.",
+    "weight": 3
+  },
+  {
+    "title": "Air resistance work sign",
+    "description": "Important: Distinguishes between work done by air resistance and work done to overcome it.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Confuses work done by air resistance with work done against air resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect centripetal condition",
+    "description": "Pitfall: Uses wrong condition at highest point (e.g., tension ≠ 0 instead of minimum speed condition).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Static equilibrium force",
+    "description": "Essential: Correctly calculates N₁ = (m+M)g = 8 N when slider is at rest.",
+    "weight": 5
+  },
+  {
+    "title": "Dynamic equilibrium force",
+    "description": "Important: Applies Newton's third law to identify frictional force on rod and calculates N₂ = Mg - f = 5 N during slider motion.",
+    "weight": 4
+  },
+  {
+    "title": "Pre-collision velocity",
+    "description": "Essential: Correctly applies work-energy theorem with gravity and friction to find v₁ = 8 m/s before collision.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocity",
+    "description": "Important: Uses conservation of momentum for perfectly inelastic collision to find combined velocity v.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum height calculation",
+    "description": "Essential: Applies work-energy theorem or kinematics to find maximum height h = 0.2 m after collision.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Uses incorrect sign for work done by gravity or friction in work-energy theorem for slider motion.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting friction force",
+    "description": "Pitfall: Omits frictional force in either the dynamic equilibrium (N₂) or work-energy calculation for v₁.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations and includes units in final answers.",
+    "weight": 1
+  }
+]

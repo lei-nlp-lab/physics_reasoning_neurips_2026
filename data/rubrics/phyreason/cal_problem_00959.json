@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct induced EMF",
+    "description": "Essential: Student correctly calculates the induced EMF in the coil using Faraday's law with the given slope from the graph.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total circuit current",
+    "description": "Essential: Student obtains the final current through the metal rod (2.5 A) using Ohm's law with the correct total resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Ampere force expression",
+    "description": "Important: Student correctly relates the magnetic force on the rod to B₂, the current, and the length L.",
+    "weight": 4
+  },
+  {
+    "title": "Correct force balance setup",
+    "description": "Important: Student sets up the equilibrium condition where the total magnetic force equals the total spring force (2kΔx).",
+    "weight": 4
+  },
+  {
+    "title": "Correct B₂ calculation",
+    "description": "Essential: Student correctly solves for the magnitude of magnetic field B₂ (4 T) from the force balance equation.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Student fails to convert area from cm² to m² or length from cm to m, leading to incorrect numerical results.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance combination mistake",
+    "description": "Pitfall: Student incorrectly calculates the total circuit resistance, e.g., omitting the coil's internal resistance or mishandling the parallel/series combination.",
+    "weight": -2
+  },
+  {
+    "title": "Spring force oversight",
+    "description": "Pitfall: Student uses only one spring's force (kΔx) instead of the total force from both springs (2kΔx) in the balance equation.",
+    "weight": -2
+  },
+  {
+    "title": "Graph slope interpretation",
+    "description": "Important: Student correctly identifies the rate of change of B₁ (5 T/s) from the provided linear graph pattern.",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis or check",
+    "description": "Optional: Student includes dimensional analysis or a reasonableness check for the final answers (e.g., T is a plausible field strength).",
+    "weight": 1
+  }
+]

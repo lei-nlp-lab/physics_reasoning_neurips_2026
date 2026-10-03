@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct expressions for F(q^2) and Delta E as related to nuclear size.",
+    "weight": 5
+  },
+  {
+    "title": "Measured Quantities",
+    "description": "Important Criteria: Identify the physical quantities measured in electron scattering and muonic atoms.",
+    "weight": 4
+  },
+  {
+    "title": "Relation to Radius",
+    "description": "Important Criteria: Explain how the measured quantities relate to the nuclear radius.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Differences",
+    "description": "Optional Criteria: Discuss the significance of energy differences in muonic atoms for determining nuclear size.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid incorrect assumptions about the nucleus being a point charge without justification.",
+    "weight": -2
+  }
+]

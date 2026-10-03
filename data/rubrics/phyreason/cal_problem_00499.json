@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the electric field intensity as E = (3mg)/(4q) or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium force analysis",
+    "description": "Important Criteria: The solution must resolve forces in equilibrium, relating tension, weight, and electric force using the given angle.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important Criteria: The solution must apply the work-energy theorem or conservation of energy to find the speed at the lowest point.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion tension",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion at the lowest point to relate tension, weight, and centripetal force.",
+    "weight": 4
+  },
+  {
+    "title": "Final tension magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the final tension as T = (3mg)/2 or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall Criteria: Penalize sign errors in force components, incorrect work done by electric force, or wrong direction of acceleration in circular motion.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional Criteria: The solution shows clear algebraic steps to derive the final expressions from the governing equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution maintains dimensional consistency or mentions units for physical quantities.",
+    "weight": 1
+  }
+]

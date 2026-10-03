@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Kinetic energy at G",
+    "description": "Essential: Final expression for kinetic energy at grid G must be correct: either E_k = ½mv₀² + (2φqh)/d or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal displacement to G",
+    "description": "Essential: Final expression for horizontal displacement l must be correct: l = v₀√(mdh/(qφ)).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field identification",
+    "description": "Important: Recognizes electric field magnitude between P and G (or Q and G) is E = 2φ/d, not φ/d.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies work-energy theorem correctly: work done by electric force = qEh = change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical motion time",
+    "description": "Important: Uses kinematics (h = ½at²) to find time to fall from initial height h to G, with a = qE/m.",
+    "weight": 3
+  },
+  {
+    "title": "Minimum plate length",
+    "description": "Essential: Final expression for minimum plate length L must be correct: L = 2l = 2v₀√(mdh/(qφ)).",
+    "weight": 5
+  },
+  {
+    "title": "Symmetry reasoning",
+    "description": "Important: Recognizes that trajectory from G to exit point below G is symmetric to first half, doubling horizontal displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Uses wrong sign for work (e.g., negative when positive) or misidentifies acceleration direction.",
+    "weight": -2
+  },
+  {
+    "title": "Field magnitude mistake",
+    "description": "Pitfall: Uses E = φ/d (full separation) instead of E = 2φ/d (half separation to grounded mid-grid).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis confirming final expressions have correct dimensions (energy, length).",
+    "weight": 1
+  }
+]

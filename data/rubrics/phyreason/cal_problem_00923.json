@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Current for natural springs",
+    "description": "Essential: Correctly calculates I = mg/(BL) = 0.4 A for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates k = (mg - BI₁L)/(2Δx) = 24.5 N/m for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Stretch for reversed current",
+    "description": "Essential: Correctly calculates Δx' = (mg + BI₂L)/(2k) = 0.003 m for part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Sets up proper force balance equations considering gravity, magnetic force, and spring forces.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force direction",
+    "description": "Important: Correctly determines magnetic force direction relative to current direction and field orientation.",
+    "weight": 4
+  },
+  {
+    "title": "Spring force distribution",
+    "description": "Important: Recognizes that spring forces are equal and each supports half the net force when symmetric.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities to consistent SI units (m, kg, s, A, T, N/m).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Uses wrong sign for magnetic force in equations (adding when should subtract or vice versa).",
+    "weight": -2
+  },
+  {
+    "title": "Spring force miscalculation",
+    "description": "Pitfall: Forgets to divide by 2 when calculating individual spring forces or constants.",
+    "weight": -1
+  }
+]

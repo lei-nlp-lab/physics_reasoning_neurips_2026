@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct a₁ value",
+    "description": "Essential: The answer must state a₁ = 10 m/s², derived from the slope of the v² vs. x graph for 0–3.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct a₂ value",
+    "description": "Essential: The answer must state a₂ = 2 m/s², derived from the slope of the v² vs. x graph for 3.2–12.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct μ value",
+    "description": "Essential: The answer must state the coefficient of kinetic friction μ = 0.5, obtained from applying Newton's second law to both motion phases.",
+    "weight": 5
+  },
+  {
+    "title": "Graph interpretation",
+    "description": "Important: The solution must correctly apply the kinematic relation v² = v₀² + 2aΔx to interpret the slopes in Figure B.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law setup",
+    "description": "Important: The solution must set up force equations for both acceleration phases, considering gravity, normal force, and kinetic friction along the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Simultaneous equation solving",
+    "description": "Important: The solution must solve the two force equations simultaneously to eliminate unknowns like the incline angle and find μ.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final answers should include correct SI units (m/s² for accelerations, dimensionless for μ).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction direction",
+    "description": "Pitfall: Penalize if friction direction is incorrectly assigned relative to the belt's motion or the slider's velocity, leading to wrong force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misreading graph slopes",
+    "description": "Pitfall: Penalize if the acceleration is calculated from v vs. x instead of v² vs. x, or if the graph segments are misidentified.",
+    "weight": -1
+  }
+]

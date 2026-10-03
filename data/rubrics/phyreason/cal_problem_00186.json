@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final pressure",
+    "description": "Essential: The student's final answer for the pressure at depth must be 2.0 × 10⁵ Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final depth",
+    "description": "Essential: The student's final answer for the water depth must be 10 m.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Boyle's Law",
+    "description": "Important: The student correctly applies Boyle's Law (p₀V₀ = pV) to relate surface and underwater gas pressures and volumes.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies gas volumes",
+    "description": "Important: The student correctly identifies the initial gas volume (300 mL) and final gas volume (150 mL) from the given total and water volumes.",
+    "weight": 3
+  },
+  {
+    "title": "Uses hydrostatic pressure relation",
+    "description": "Important: The student correctly uses the relation p = p₀ + ρgh to solve for the depth h.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student demonstrates consistent use of SI units (Pa, m, kg/m³) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Misinterprets gas volume",
+    "description": "Pitfall: The student incorrectly uses the total bottle volume or water volume as the gas volume in Boyle's Law.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: The student makes a sign error in the hydrostatic relation, e.g., using p = p₀ - ρgh.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Differential Cross Section",
+    "description": "Essential Criteria: The student must correctly derive the expression for the differential cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Total Cross Section",
+    "description": "Essential Criteria: The student must correctly derive the expression for the total cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Imaginary Part of Amplitude",
+    "description": "Essential Criteria: The student must correctly apply the optical theorem to find the imaginary part of the forward scattering amplitude.",
+    "weight": 5
+  },
+  {
+    "title": "Fourier Transform Steps",
+    "description": "Important Criteria: The student must show the correct steps in performing the Fourier transform of the Yukawa potential.",
+    "weight": 4
+  },
+  {
+    "title": "Variable Definitions",
+    "description": "Important Criteria: The student must clearly define all variables used in the calculations, such as q and k.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Integration Limits",
+    "description": "Pitfall Criteria: The student must ensure the correct limits are used during integration for the total cross section.",
+    "weight": -1
+  }
+]

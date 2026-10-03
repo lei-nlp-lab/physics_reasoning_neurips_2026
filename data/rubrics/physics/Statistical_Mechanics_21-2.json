@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Pressure Expression",
+    "description": "Essential Criteria: The expression for the lowest pressure p_p must be correctly derived as p_p = (Q R T_R) / (L V).",
+    "weight": 5
+  },
+  {
+    "title": "Final Temperature Expression",
+    "description": "Essential Criteria: The expression for the corresponding temperature T_He must be correctly derived as T_He = (1 + (R T_0 / L) ln(p_0 / p_p))^(-1) T_0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Numerical Estimates",
+    "description": "Important Criteria: The numerical estimates for p_p and T_He must be calculated correctly using the provided values.",
+    "weight": 4
+  },
+  {
+    "title": "Clausius-Clapeyron Application",
+    "description": "Important Criteria: The application of the Clausius-Clapeyron equation must be correctly stated and integrated to find T_He.",
+    "weight": 4
+  },
+  {
+    "title": "Assumptions Justification",
+    "description": "Optional Criteria: The assumptions made regarding the constancy of boiling temperature and neglecting v_l should be clearly justified.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the ideal gas law or Clausius-Clapeyron equation will result in a deduction.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total internal reflection determination",
+    "description": "Essential Criteria: Student must correctly determine whether total internal reflection occurs at side BC.",
+    "weight": 5
+  },
+  {
+    "title": "Final sine value",
+    "description": "Essential Criteria: Student must provide the correct numerical value for sin(r') = (2√2 - √3)/4.",
+    "weight": 5
+  },
+  {
+    "title": "Snell's law application at D",
+    "description": "Important Criteria: Student must apply Snell's law correctly at the first refraction point D with i=30°.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry at point E",
+    "description": "Important Criteria: Student must correctly analyze the geometry to find the angle of incidence at point E on side BC.",
+    "weight": 4
+  },
+  {
+    "title": "Snell's law application at F",
+    "description": "Important Criteria: Student must apply Snell's law correctly at the final refraction point F on side AC.",
+    "weight": 4
+  },
+  {
+    "title": "Angle relationship derivation",
+    "description": "Important Criteria: Student must derive the relationship between the exiting ray and initial ray angles.",
+    "weight": 3
+  },
+  {
+    "title": "Critical angle comparison",
+    "description": "Optional Criteria: Student may explicitly calculate and compare the critical angle with the incidence angle at E.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in geometry",
+    "description": "Pitfall Criteria: Student incorrectly calculates the angle of incidence at point E using wrong geometric relationships.",
+    "weight": -2
+  },
+  {
+    "title": "Snell's law inversion",
+    "description": "Pitfall Criteria: Student incorrectly inverts Snell's law (e.g., uses n sin r = sin i instead of sin i = n sin r).",
+    "weight": -1
+  }
+]

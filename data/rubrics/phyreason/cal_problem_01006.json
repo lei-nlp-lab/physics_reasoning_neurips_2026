@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct static gas pressure",
+    "description": "Essential: The student's final numerical answer for part (1) must be 85 cmHg.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final air column length",
+    "description": "Essential: The student's final numerical answer for part (2) must be 17 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Static force balance reasoning",
+    "description": "Important: The solution must apply a force balance at the mercury-air interface, relating gas pressure to atmospheric pressure plus the hydrostatic pressure of the mercury column.",
+    "weight": 4
+  },
+  {
+    "title": "Accelerating frame pressure calculation",
+    "description": "Important: For part (2), the solution must correctly modify the force balance for the accelerating frame, adding the inertial term to find the new pressure p2.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Boyle's Law",
+    "description": "Important: The solution must apply Boyle's Law (p1V1 = p2V2) for the isothermal compression to find the new length of the air column.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should demonstrate consistent use of units (e.g., cmHg, cm) or correct conversion between pressure units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect hydrostatic pressure",
+    "description": "Pitfall: Penalize if the student omits the hydrostatic pressure from the mercury column in the static force balance, leading to p1 = p0.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in acceleration term",
+    "description": "Pitfall: Penalize if the student incorrectly handles the sign of the acceleration 'a' in the dynamic force balance (e.g., subtracting it when it should be added for upward acceleration).",
+    "weight": -2
+  }
+]

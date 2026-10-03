@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Index of Refraction",
+    "description": "Essential Criteria: The correct calculation of the index of refraction n must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Reflective Efficiency",
+    "description": "Essential Criteria: The calculation of the retro-reflectance efficiency eta must be included.",
+    "weight": 5
+  },
+  {
+    "title": "Focal Length Derivation",
+    "description": "Important Criteria: The derivation of the focal length f and its relation to the radius r should be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Qualitative Discussion",
+    "description": "Important Criteria: A qualitative discussion of factors affecting reflective efficiency should be included.",
+    "weight": 3
+  },
+  {
+    "title": "Transparency Calculation",
+    "description": "Optional Criteria: The calculation of transparency T should be presented as part of the efficiency derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in calculations should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

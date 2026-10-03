@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Hole C x-coordinate",
+    "description": "Essential: Correctly calculates the x-coordinate of hole C as x_0 = 2mv_0/(qB) from the given reference ion's motion.",
+    "weight": 5
+  },
+  {
+    "title": "Length L on plate N",
+    "description": "Essential: Correctly determines the length L on plate N where ions impinge, which is 2d.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage U_0 for zero current",
+    "description": "Essential: Correctly calculates the voltage U_0 = mv_0^2/(2q) that results in zero ammeter reading.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage U_x vs. x relation",
+    "description": "Essential: Correctly states the relationship U_x = qB^2 x^2/(8m) for the translated analyzer, including the valid x-range.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion radius",
+    "description": "Important: Applies Lorentz force as centripetal force (Bqv = mv^2/r) to find the radius for any ion velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity decomposition geometry",
+    "description": "Important: Correctly uses geometry (2r cosθ = x) to relate ion trajectory parameters to the hole position.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: Uses kinematics (v_y^2 = 2ad) under uniform electric acceleration (a = qU/(md)) to relate voltage to vertical velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical velocity condition",
+    "description": "Important: Identifies that the vertical velocity component for an ion reaching the hole must equal v_0, based on the reference ion.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity range application",
+    "description": "Optional: Correctly applies the given velocity range (v_0/2 to √2 v_0) and angular range to determine the valid x-range for part (4).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in the Lorentz force direction or electric field direction, or omits units in final answers.",
+    "weight": -2
+  }
+]

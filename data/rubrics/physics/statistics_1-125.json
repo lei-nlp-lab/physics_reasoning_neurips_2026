@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final relation between Delta p, phi, and r.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Minimization",
+    "description": "Important Criteria: The student should explain the principle of minimum free energy applied to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure Difference",
+    "description": "Important Criteria: The student must correctly express the pressure difference in terms of the internal and external pressures.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Derivation",
+    "description": "Important Criteria: The student should show the steps leading to the derivation of the final equation.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the pressure difference.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: The student should clarify any assumptions made regarding the phases of air inside and outside the bubble.",
+    "weight": 1
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may mention alternative methods to derive the same relation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct T2 calculation",
+    "description": "Essential: Student must compute T2 = 800 K using the isochoric pressure-temperature relation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct p3 calculation",
+    "description": "Essential: Student must compute p3 = (4/3)×10^5 Pa using Boyle's law for the isothermal process.",
+    "weight": 5
+  },
+  {
+    "title": "Identify process 1→2",
+    "description": "Important: Recognize that process 1→2 is isochoric (constant volume) and apply p/T = constant.",
+    "weight": 3
+  },
+  {
+    "title": "Identify process 2→3",
+    "description": "Important: Recognize that the hyperbola in p-V diagram indicates an isothermal process and apply pV = constant.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintain consistent units (Pa, L, K) throughout calculations without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Volume recognition for 2→3",
+    "description": "Important: Use V2 = V1 = 2 L when applying Boyle's law for the 2→3 process.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect process assumption",
+    "description": "Pitfall: Mistaking the 1→2 process as isobaric or isothermal instead of isochoric.",
+    "weight": -2
+  },
+  {
+    "title": "Significant figure handling",
+    "description": "Optional: Express final answers with appropriate significant figures (800 K, 1.33×10^5 Pa).",
+    "weight": 1
+  }
+]

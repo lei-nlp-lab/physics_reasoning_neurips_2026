@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed at point B",
+    "description": "Essential: Correctly applies centripetal force equation at B using given normal force to find v_B = 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at point D",
+    "description": "Important: Correctly calculates acceleration on conveyor belt and uses kinematics to find v_D = 5 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile landing speed",
+    "description": "Essential: Correctly computes time of flight and combines velocity components to find landing speed magnitude as (5√13)/2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision speed along plane",
+    "description": "Essential: Correctly resolves pre-collision velocity into components along the incline to find initial sliding speed = 8.5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Average normal force",
+    "description": "Important: Correctly applies impulse-momentum or kinematics perpendicular to incline to find average normal force = 7 N.",
+    "weight": 4
+  },
+  {
+    "title": "Energy or friction sign error",
+    "description": "Pitfall: Misapplies work-energy on conveyor belt (e.g., ignoring relative motion) or uses wrong sign for friction acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Projectile geometry mistake",
+    "description": "Pitfall: Incorrectly relates horizontal displacement to vertical drop using the incline angle (tan θ = y/x).",
+    "weight": -1
+  },
+  {
+    "title": "Vector resolution error",
+    "description": "Pitfall: Makes error in resolving velocity components parallel/perpendicular to the incline before or after collision.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent SI units throughout and includes units in final answers.",
+    "weight": 1
+  }
+]

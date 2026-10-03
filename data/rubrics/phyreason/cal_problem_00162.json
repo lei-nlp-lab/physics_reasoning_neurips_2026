@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Nuclear reaction equation",
+    "description": "Essential: The student must correctly write the beta decay equation, conserving nucleon and charge numbers.",
+    "weight": 5
+  },
+  {
+    "title": "Total kinetic energy",
+    "description": "Essential: The student must calculate the total kinetic energy of the electron and antineutrino as approximately 0.7468 MeV, using mass-energy equivalence and energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Proton motion radius",
+    "description": "Important: The student must correctly apply the formula for the radius of circular motion in a magnetic field, R = p/(eB).",
+    "weight": 4
+  },
+  {
+    "title": "Geometric acceptance angle",
+    "description": "Important: The student must determine the range of emission angles (relative to the vertical) for which the proton hits the detector, using the geometry of the circular arc and the detector placement.",
+    "weight": 4
+  },
+  {
+    "title": "Counting rate calculation",
+    "description": "Essential: The student must correctly compute the counting rate (fraction of protons hitting the detector) from the determined angular range, yielding 2/3 for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "B-a relationship derivation",
+    "description": "Important: The student must derive the condition for a constant counting rate (R' = 2a) and the resulting relationship B = p/(2ae).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field range",
+    "description": "Important: The student must find the range of B by applying the geometric condition for the proton to just hit the edge of the detector, leading to the maximum radius and minimum B.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student should maintain consistent units (MeV, m, T) throughout the calculations or correctly convert between them.",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring neutrino mass",
+    "description": "Pitfall: The student incorrectly assigns mass or kinetic energy to the antineutrino, contrary to the problem statement that its mass is negligible.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or geometry error",
+    "description": "Pitfall: The student makes an error in the geometric setup (e.g., misidentifying the center of the circular arc, the emission angle, or the condition R' = 2a) leading to an incorrect angular range or B-a relation.",
+    "weight": -2
+  }
+]

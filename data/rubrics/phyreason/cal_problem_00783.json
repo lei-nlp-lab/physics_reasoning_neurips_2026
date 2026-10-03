@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct mast height",
+    "description": "Essential: The final answer for h₂ must be 3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct travel time",
+    "description": "Essential: The final answer for t must be (20/9) × 10⁻⁸ s.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry setup",
+    "description": "Important: The solution must correctly split the total horizontal distance (7 m) into two segments using the given angles (37° and 53°).",
+    "weight": 4
+  },
+  {
+    "title": "Snell's Law application",
+    "description": "Important: The solution must apply Snell's law (n = sin θ_air / sin θ_water) to find the refractive index of water.",
+    "weight": 4
+  },
+  {
+    "title": "Speed in medium",
+    "description": "Important: The solution must correctly calculate the speed of light in water using v = c / n.",
+    "weight": 3
+  },
+  {
+    "title": "Path length calculation",
+    "description": "Important: The solution must calculate the distance traveled in water using the geometry (h₁ / cos 37°).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers should include correct units (m and s).",
+    "weight": 1
+  },
+  {
+    "title": "Angle confusion",
+    "description": "Pitfall: Penalize if the incident/refracted angles are swapped in Snell's law (e.g., using sin 37°/sin 53°).",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: Penalize if tan 37° or tan 53° is misused (e.g., using the wrong opposite/adjacent sides).",
+    "weight": -1
+  }
+]

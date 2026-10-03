@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must provide the correct equation c = sqrt(1/(epsilon_0 * mu_0)).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Relationships",
+    "description": "Important Criteria: The student should demonstrate understanding of the relationship between c, epsilon_0, and mu_0.",
+    "weight": 4
+  },
+  {
+    "title": "Justification of Choice",
+    "description": "Important Criteria: The student should explain why option (c) is the correct choice over (a) and (b).",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student may check that the units are consistent in the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student should avoid selecting incorrect options (a) or (b) as these are common errors.",
+    "weight": -2
+  }
+]

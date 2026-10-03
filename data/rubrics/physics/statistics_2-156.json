@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the time taken must be correctly stated as t = 10^4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Equation Use",
+    "description": "Important Criteria: The student should correctly apply the equation L^2 = nl^2 to relate displacement, mean free path, and number of collisions.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution",
+    "description": "Important Criteria: The student must correctly substitute the values for l and v into the derived equation for time.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as miscalculating the mean free path or the velocity.",
+    "weight": -2
+  }
+]

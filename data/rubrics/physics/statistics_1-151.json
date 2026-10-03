@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ozone Explanation",
+    "description": "Essential Criteria - The response must explain how ozone concentration affects temperature in the stratosphere.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equilibrium",
+    "description": "Essential Criteria - The answer should describe the role of ozone and carbon dioxide in maintaining energy equilibrium in the stratosphere.",
+    "weight": 5
+  },
+  {
+    "title": "Sound Wave Behavior",
+    "description": "Essential Criteria - The response must clarify how sound waves behave in relation to temperature changes in the tropopause.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Gradient",
+    "description": "Important Criteria - The explanation should include the significance of the temperature gradient in the stratosphere.",
+    "weight": 3
+  },
+  {
+    "title": "Refractive Index",
+    "description": "Important Criteria - The response should mention how sound waves refract towards lower temperatures.",
+    "weight": 3
+  },
+  {
+    "title": "Intensity Decrease",
+    "description": "Important Criteria - The answer must correctly state the relationship of sound intensity decrease with distance.",
+    "weight": 3
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria - The response should avoid incorrect statements about the behavior of sound waves in different temperature regions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - The answer must ensure that any units used are consistent and appropriate for the context.",
+    "weight": -1
+  }
+]

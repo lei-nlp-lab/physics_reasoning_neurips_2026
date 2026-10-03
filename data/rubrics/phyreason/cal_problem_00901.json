@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum emf calculation",
+    "description": "Essential: The student must correctly calculate the maximum induced emf using E_m = nBSω, obtaining 314 V.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous emf expression",
+    "description": "Essential: The student must provide the correct instantaneous emf as a function of time, e = 314 sin(100πt) V.",
+    "weight": 5
+  },
+  {
+    "title": "Average emf calculation",
+    "description": "Essential: The student must correctly calculate the average emf from t=0 to T/4, obtaining 200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's law",
+    "description": "Important: The student must apply Faraday's law for a rotating coil, recognizing the sinusoidal dependence on ωt.",
+    "weight": 4
+  },
+  {
+    "title": "Flux change reasoning",
+    "description": "Important: For the average emf, the student must correctly compute the change in magnetic flux ΔΦ from the neutral plane to the perpendicular position.",
+    "weight": 4
+  },
+  {
+    "title": "Area calculation",
+    "description": "Optional: The student calculates the coil area S = l_AB * l_BC = 0.1 m².",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's final answers include correct units (Volts) and the argument of the sine function is dimensionless.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or phase error",
+    "description": "Pitfall: The student uses cosine instead of sine for the instantaneous emf, given the timing starts when the coil passes through the neutral plane.",
+    "weight": -2
+  },
+  {
+    "title": "Average emf formula misuse",
+    "description": "Pitfall: The student incorrectly uses (E_m/√2) or (2/π)E_m in the wrong context for the average over a quarter period.",
+    "weight": -2
+  }
+]

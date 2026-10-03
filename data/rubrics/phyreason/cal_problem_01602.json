@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum resistance of R2",
+    "description": "Essential: Correctly identifies the maximum resistance of R2 as 10 Ω, based on the graph and circuit analysis when the slider is at end b.",
+    "weight": 5
+  },
+  {
+    "title": "Power supply voltage U",
+    "description": "Essential: Correctly calculates the power supply voltage U as 6 V, using conditions from the graph and given power consumption.",
+    "weight": 5
+  },
+  {
+    "title": "Resistance R0 value",
+    "description": "Essential: Correctly determines the fixed resistance R0 as 2 Ω, by solving simultaneous equations from circuit conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Power function for R2",
+    "description": "Important: Derives the correct expression for power P consumed by R2 as a function of x, P = 36x / (10 + x)^2, incorporating the linear resistance change.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum power of R2",
+    "description": "Important: Correctly finds the maximum power consumed by R2 as 0.9 W, through analysis (e.g., derivative or completing the square) of the power function.",
+    "weight": 4
+  },
+  {
+    "title": "Applying series circuit laws",
+    "description": "Important: Correctly applies Ohm's law and Kirchhoff's voltage law to relate voltages, currents, and resistances in the series circuit.",
+    "weight": 3
+  },
+  {
+    "title": "Interpreting the graph data",
+    "description": "Important: Correctly extracts key data points (e.g., currents, voltages) from the provided Figure B to set up equations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (Volts, Ohms, Amperes, Watts) throughout all calculations and in the final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Makes a sign error in voltage equations or an algebraic mistake when solving simultaneous equations, leading to incorrect U or R0.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting R2's resistance",
+    "description": "Pitfall: Incorrectly relates the slider position x to the resistance of R2 (e.g., not using R2 = x Ω) or misidentifies the maximum resistance condition.",
+    "weight": -2
+  }
+]

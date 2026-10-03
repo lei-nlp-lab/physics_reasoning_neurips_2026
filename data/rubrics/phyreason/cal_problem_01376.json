@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct coupling force",
+    "description": "Essential: The answer must give the force between the 5th and 6th cars during acceleration as 3.6 × 10⁴ N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration time",
+    "description": "Essential: The answer must give the time of uniform acceleration as 25 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum speed",
+    "description": "Essential: The answer must give the maximum speed as 75 m/s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Important: The solution must correctly isolate cars 6-8 and apply Newton's second law (F_net = ma) to find the coupling force.",
+    "weight": 4
+  },
+  {
+    "title": "Power balance at max speed",
+    "description": "Important: The solution must equate the total motor power (2P₀) to the total resistive power (8F_f * v_max) to find the maximum speed.",
+    "weight": 4
+  },
+  {
+    "title": "Resistance force calculation",
+    "description": "Important: The solution must correctly calculate the resistance per car as f = 0.01mg.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration phase power use",
+    "description": "Optional: The solution may correctly relate motor power, traction force, and instantaneous velocity during acceleration to find the acceleration time.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in coupling force",
+    "description": "Pitfall: Penalize if the calculated coupling force is a compressive force (negative) or incorrectly treats the direction of the force.",
+    "weight": -2
+  },
+  {
+    "title": "Power or force unit mismatch",
+    "description": "Pitfall: Penalize if there is a unit inconsistency (e.g., not converting kW to W, or kg to N) leading to an incorrect numerical factor.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect system isolation",
+    "description": "Pitfall: Penalize if the wrong set of cars (e.g., 1-5 instead of 6-8) is used to analyze the coupling force between the 5th and 6th cars.",
+    "weight": -2
+  }
+]

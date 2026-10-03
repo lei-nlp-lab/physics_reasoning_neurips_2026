@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Steady State Explanation",
+    "description": "Essential Criteria: Clearly explain how the diameter D influences the physical process of gas exchange at steady state.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Free Path Ratio",
+    "description": "Essential Criteria: Provide the correct ratio of mean free paths l1/l2 for the case when D is much smaller than both l1 and l2.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure Condition Ratio",
+    "description": "Essential Criteria: Provide the correct ratio of mean free paths l1/l2 for the case when D is much larger than both l1 and l2.",
+    "weight": 5
+  },
+  {
+    "title": "Key Conditions Identified",
+    "description": "Important Criteria: Identify the conditions under which the steady state occurs for both cases of D relative to l1 and l2.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all physical quantities are expressed with appropriate units where applicable.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as incorrect assumptions about the relationship between D, l1, and l2.",
+    "weight": -2
+  }
+]

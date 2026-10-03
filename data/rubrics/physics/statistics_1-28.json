@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Temperature Estimate",
+    "description": "Essential Criteria: The student must provide a final estimate for the sun's surface temperature T_S.",
+    "weight": 5
+  },
+  {
+    "title": "Glass House Explanation",
+    "description": "Essential Criteria: The student must explain why the temperature inside a glass house is greater than T_0.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium Condition",
+    "description": "Important Criteria: The student should derive or reference the equilibrium condition relating solar and terrestrial radiation.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Stefan-Boltzmann Law",
+    "description": "Important Criteria: The student must correctly apply the Stefan-Boltzmann law to both the sun and the earth.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Values",
+    "description": "Optional Criteria: The student should substitute reasonable values for all parameters in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature Formula",
+    "description": "Essential Criteria: The student must provide the formula for the temperature T in the glass house.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in their equations, particularly in the equilibrium condition.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

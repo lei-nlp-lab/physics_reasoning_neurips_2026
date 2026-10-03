@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Frequency Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the frequency of the radiation emitted during the transition.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the wavelength of the radiation emitted during the transition.",
+    "weight": 5
+  },
+  {
+    "title": "Ratio of Wavelengths",
+    "description": "Important Criteria: The student must provide the correct ratio of the wavelengths for helium and hydrogen radiation.",
+    "weight": 4
+  },
+  {
+    "title": "Explanation of Difficulty",
+    "description": "Important Criteria: The student must explain why observing this transition in the laboratory is challenging.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Level Equation",
+    "description": "Optional Criteria: The student may include the energy level equation for hydrogen atoms in their response.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the energy calculations.",
+    "weight": -2
+  }
+]

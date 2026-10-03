@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mean Distance",
+    "description": "Essential Criteria: The mean distance traveled by the pions before they decay must be correctly calculated as 11.2 km.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Angle",
+    "description": "Essential Criteria: The maximum angle of the muons relative to the pion direction must be correctly calculated as 0.0112 degrees.",
+    "weight": 5
+  },
+  {
+    "title": "Neutrino Momenta",
+    "description": "Essential Criteria: The minimum and maximum momenta of the neutrinos must be correctly calculated as 1.04 x 10^-2 MeV/c and 8.54 x 10^4 MeV/c respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Time Dilation",
+    "description": "Important Criteria: The application of time dilation to find the laboratory lifetime of the pion must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The use of conservation of energy in the decay process must be correctly applied to find the energy of the muon.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Transformation",
+    "description": "Important Criteria: The transformation of momentum from the pion rest frame to the laboratory frame must be correctly addressed.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in momentum calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors in the energy or momentum calculations must be checked to avoid incorrect results.",
+    "weight": -2
+  }
+]

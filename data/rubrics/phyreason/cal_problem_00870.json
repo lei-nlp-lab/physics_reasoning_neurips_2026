@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Specific charge expression",
+    "description": "Essential: Correctly derives and states the final expression for q/m = (√3 v)/(3 B R).",
+    "weight": 5
+  },
+  {
+    "title": "Time in field expression",
+    "description": "Essential: Correctly derives and states the final expression for t = (√3 π R)/(3 v).",
+    "weight": 5
+  },
+  {
+    "title": "Shift distance expression",
+    "description": "Essential: Correctly derives and states the final expression for d = (√3 / 3) R.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for trajectory radius",
+    "description": "Important: Uses the 60° deflection to relate the trajectory radius r to the region radius R (e.g., r = R / tan30° or equivalent).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance application",
+    "description": "Important: Applies Newton's second law with the magnetic Lorentz force providing centripetal force: qvB = mv²/r.",
+    "weight": 4
+  },
+  {
+    "title": "Time from motion fraction",
+    "description": "Important: Recognizes the time in the field is a fraction (1/6) of the full cyclotron period T = 2πm/(qB).",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for maximum deflection",
+    "description": "Important: For part (3), establishes the condition for maximum deflection (e.g., sin θ = R/r or equivalent chord geometry).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns the sign of the charge in the force law or misinterprets the deflection direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or algebraic mistake",
+    "description": "Pitfall: Makes an algebraic error in combining the geometric relation with the force law, or omits/drops constants like π or √3.",
+    "weight": -1
+  }
+]

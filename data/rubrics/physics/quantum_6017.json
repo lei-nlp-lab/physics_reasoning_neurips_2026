@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Differential Cross Section",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the differential cross section sigma(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Total Cross Section",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the total cross section sigma_t.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Born Approximation",
+    "description": "Important Criteria: The student should demonstrate understanding of the Born approximation and its application to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Integration with Delta Function",
+    "description": "Important Criteria: The student must correctly handle the integration involving the delta function in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units of the final answers are consistent and correct.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or misapplication of the delta function.",
+    "weight": -2
+  }
+]

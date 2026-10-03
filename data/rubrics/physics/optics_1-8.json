@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly identify the nature and position of the image as a virtual point image 1.75 cm off the optical axis.",
+    "weight": 5
+  },
+  {
+    "title": "Angle Calculation",
+    "description": "Important Criteria: The student should correctly apply the tangent function to calculate the height of the image based on the angle of incidence.",
+    "weight": 4
+  },
+  {
+    "title": "Focal Length Usage",
+    "description": "Important Criteria: The student must correctly utilize the focal length of the diverging lens in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Pitfall Criteria: The student should avoid errors related to the sign of the focal length for a diverging lens.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all measurements and calculations are consistent in terms of units.",
+    "weight": 2
+  }
+]

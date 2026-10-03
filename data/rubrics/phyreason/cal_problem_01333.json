@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct work for part (1)",
+    "description": "Essential: The final answer for part (1) is 54 J, derived from the work done by kinetic friction over the acceleration distance.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work for part (2)",
+    "description": "Essential: The final answer for part (2) is 90 J, recognizing the object accelerates over a distance less than L1 before moving at constant speed.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work for part (3)",
+    "description": "Essential: The final answer for part (3) is 30 J, based on the object not reaching the belt speed before point N, so friction acts over the full distance L1.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Important: Correctly calculates the object's acceleration as a = μg for each given coefficient.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for slip distance",
+    "description": "Important: Applies kinematics (v²=2as or s=½at²) to find the distance over which the object slips relative to the belt.",
+    "weight": 4
+  },
+  {
+    "title": "Work over correct distance",
+    "description": "Important: Multiplies the kinetic friction force (μmg) by the correct displacement (slip distance or L1) to find work.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of distances",
+    "description": "Important: Correctly compares the calculated slip distance to L1 to determine if the object reaches belt speed before point N.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly uses the belt's displacement or a negative sign for work, or misinterprets the work done by friction on the object.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (kg, m, s, J) throughout the calculation.",
+    "weight": 1
+  }
+]

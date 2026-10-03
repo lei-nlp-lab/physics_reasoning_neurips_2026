@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Motor resistance calculation",
+    "description": "Essential Criteria: Student must correctly calculate the motor resistance as 1.6 Ω using appropriate formulas.",
+    "weight": 5
+  },
+  {
+    "title": "Total electrical power",
+    "description": "Important Criteria: Student must calculate total electrical power from battery using P = UI.",
+    "weight": 3
+  },
+  {
+    "title": "Traction force determination",
+    "description": "Important Criteria: Student must calculate the traction force needed to overcome resistance using F = kmg.",
+    "weight": 3
+  },
+  {
+    "title": "Mechanical output power",
+    "description": "Important Criteria: Student must calculate mechanical power output using P_out = Fv.",
+    "weight": 3
+  },
+  {
+    "title": "Power balance application",
+    "description": "Important Criteria: Student must apply energy conservation to find thermal power as difference between electrical and mechanical power.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Student demonstrates consistent use of units throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect resistance formula",
+    "description": "Pitfall Criteria: Student incorrectly uses R = U/I instead of R = P_heat/I² for motor resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or factor error",
+    "description": "Pitfall Criteria: Student makes sign error in power balance or uses incorrect factor for resistance force.",
+    "weight": -1
+  }
+]

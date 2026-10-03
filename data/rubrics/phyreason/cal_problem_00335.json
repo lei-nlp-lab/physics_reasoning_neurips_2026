@@ -1,0 +1,47 @@
+[
+  {
+    "title": "AB potential difference",
+    "description": "Essential: Correctly calculates U_AB = W_AB/q, obtaining 100 V.",
+    "weight": 5
+  },
+  {
+    "title": "BC potential difference",
+    "description": "Essential: Correctly calculates U_BC = W_BC/q, obtaining -300 V.",
+    "weight": 5
+  },
+  {
+    "title": "AC potential difference",
+    "description": "Essential: Correctly sums U_AB + U_BC to obtain -200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential at C",
+    "description": "Important: Uses φ_A = 0 and U_AC = φ_A - φ_C to find φ_C = 200 V.",
+    "weight": 4
+  },
+  {
+    "title": "Potential energy at C",
+    "description": "Essential: Calculates E_C = qφ_C, obtaining -4×10⁻⁷ J.",
+    "weight": 5
+  },
+  {
+    "title": "Sign handling",
+    "description": "Pitfall: Misinterprets sign of work or charge, leading to wrong potential signs.",
+    "weight": -2
+  },
+  {
+    "title": "Potential difference definition",
+    "description": "Important: Applies ΔV = W/q consistently for both segments.",
+    "weight": 3
+  },
+  {
+    "title": "Additivity reasoning",
+    "description": "Important: Recognizes that potential differences add: U_AC = U_AB + U_BC.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains correct units (V for potential, J for energy) throughout.",
+    "weight": 1
+  }
+]

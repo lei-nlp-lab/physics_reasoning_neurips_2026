@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct magnitude for part (1)",
+    "description": "Essential: The answer must state the magnitude of the surface force as $(m_1 + m_2)g_0$.",
+    "weight": 5
+  },
+  {
+    "title": "Correct direction for part (1)",
+    "description": "Essential: The answer must state the direction of the surface force is vertically upward (or normal to the surface).",
+    "weight": 5
+  },
+  {
+    "title": "Forces on ascent vehicle",
+    "description": "Important: The solution must apply Newton's second law to the ascent vehicle, identifying the thrust force components relative to the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Component resolution",
+    "description": "Important: The solution must correctly resolve gravitational and thrust forces into components parallel and perpendicular to the inclined surface.",
+    "weight": 4
+  },
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The final answer for part (2) must be $m_1\\sqrt{g_0^2 + a^2 + 2g_0 a \\cos\\theta}$ or its equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Vector combination",
+    "description": "Important: The solution must correctly combine the perpendicular and parallel thrust components using the Pythagorean theorem to find the magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Neglects fuel mass",
+    "description": "Optional: The solution should note that the mass of ejected fuel is negligible, so $m_1$ is constant.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in components",
+    "description": "Pitfall: Penalize if the component of gravity along the incline or the normal direction has an incorrect sign relative to the thrust.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses combined mass",
+    "description": "Pitfall: Penalize if part (2) incorrectly uses the total mass $(m_1+m_2)$ instead of just the ascent vehicle mass $m_1$.",
+    "weight": -2
+  }
+]

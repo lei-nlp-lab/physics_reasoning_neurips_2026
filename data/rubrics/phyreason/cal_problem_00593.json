@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct magnitude expression",
+    "description": "Essential: Student must provide the final magnitude as f = (1+√3)/2 μmg or its decimal equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct direction statement",
+    "description": "Essential: Student must state the frictional force is perpendicular to the paper plane, pointing outward.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force decomposition",
+    "description": "Important: Student must correctly resolve gravity into components perpendicular to both AB and BC surfaces.",
+    "weight": 4
+  },
+  {
+    "title": "Friction on each surface",
+    "description": "Important: Student must calculate kinetic friction separately for each contact surface using f = μN.",
+    "weight": 4
+  },
+  {
+    "title": "Force superposition",
+    "description": "Important: Student must sum the two frictional forces as vectors along the same direction.",
+    "weight": 3
+  },
+  {
+    "title": "Angle identification",
+    "description": "Optional: Student correctly identifies the relevant angles (60° and 30°) from the geometry.",
+    "weight": 2
+  },
+  {
+    "title": "Direction misinterpretation",
+    "description": "Pitfall: Student incorrectly states direction as along groove, upward, or inward rather than outward perpendicular.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong normal force",
+    "description": "Pitfall: Student uses mg directly as normal force on one or both surfaces without proper decomposition.",
+    "weight": -2
+  },
+  {
+    "title": "Vector addition error",
+    "description": "Pitfall: Student attempts to add frictional forces as perpendicular vectors instead of parallel ones.",
+    "weight": -1
+  }
+]

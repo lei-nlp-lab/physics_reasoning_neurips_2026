@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Generator output voltage",
+    "description": "Essential: The student must correctly calculate the effective output voltage of the generator as 1100 V.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer turns ratio",
+    "description": "Essential: The student must correctly determine the primary-to-secondary turns ratio as 5:1.",
+    "weight": 5
+  },
+  {
+    "title": "Primary coil current",
+    "description": "Essential: The student must correctly calculate the ammeter reading (primary coil current) as 20 A.",
+    "weight": 5
+  },
+  {
+    "title": "Apply generator EMF formula",
+    "description": "Important: The student must correctly apply the formula for the maximum EMF (E_m = NBSω) and relate it to the effective voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Apply transformer voltage ratio",
+    "description": "Important: The student must correctly apply the ideal transformer voltage ratio (U1/U2 = n1/n2) using the generator voltage and the motor operating voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Apply power conservation",
+    "description": "Important: The student must recognize and apply power conservation for the ideal transformer (P_in = P_out), where the output power is the total power of the two motors.",
+    "weight": 4
+  },
+  {
+    "title": "Relate power, voltage, current",
+    "description": "Important: The student must correctly use the relationship P = UI to find the primary coil current from the primary voltage and input power.",
+    "weight": 3
+  },
+  {
+    "title": "Confuse peak and RMS voltage",
+    "description": "Pitfall: The student incorrectly uses the peak generator EMF as the output voltage without dividing by √2.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect motor total power",
+    "description": "Pitfall: The student uses the power of a single motor (11 kW) instead of the total power for both motors (22 kW) in power conservation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student demonstrates unit analysis for angular frequency, EMF, or power calculations.",
+    "weight": 1
+  }
+]

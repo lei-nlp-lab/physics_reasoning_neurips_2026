@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The expression for the electric field E at point p must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Final Surface Charge Density",
+    "description": "Essential Criteria: The bound surface charge density sigma_b must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The application of boundary conditions for electric fields at the surface of the sphere must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Polar Coordinates Usage",
+    "description": "Important Criteria: The use of polar coordinates in expressing the electric field must be correctly implemented.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Constants",
+    "description": "Optional Criteria: The constants epsilon, epsilon_0, and K_e should be correctly defined and used throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the components of the electric field or surface charge density must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the calculations for electric field and charge density.",
+    "weight": -1
+  }
+]

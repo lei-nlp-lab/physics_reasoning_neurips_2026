@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Pressure increase factor",
+    "description": "Essential: Correctly states that pressure increases by a factor of 8 when radius halves under isothermal, uniform-density conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Small contraction time",
+    "description": "Essential: Derives or states the approximate time for contraction from r0 to 0.95r0 using constant surface gravity and kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall collapse time",
+    "description": "Essential: Applies Kepler's Third Law to a radial orbit to find the free-fall time from r0 to a much smaller radius.",
+    "weight": 5
+  },
+  {
+    "title": "Heat radiated isothermally",
+    "description": "Important: Correctly calculates the heat radiated away during the isothermal collapse from r0 to r3 using the first law of thermodynamics.",
+    "weight": 4
+  },
+  {
+    "title": "Adiabatic temperature relation",
+    "description": "Important: Derives the correct power-law dependence of temperature on radius for the adiabatic phase (r < r3).",
+    "weight": 4
+  },
+  {
+    "title": "Final radius and temperature",
+    "description": "Important: Sets up and solves the energy balance (gravitational vs. thermal) to estimate the final equilibrium radius r4 and temperature T4.",
+    "weight": 4
+  },
+  {
+    "title": "Process identification",
+    "description": "Important: Correctly identifies the collapse phases as isothermal (for r > r3) and adiabatic (for r < r3).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Makes a sign error in the work done by gravity or the first law when calculating radiated heat Q.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect exponent",
+    "description": "Pitfall: Uses an incorrect exponent (e.g., from isothermal instead of adiabatic relation) for the T(r) dependence or the final equilibrium scaling.",
+    "weight": -2
+  },
+  {
+    "title": "Missing volume scaling",
+    "description": "Pitfall: Fails to correctly relate density or volume (∝ r^3) to pressure or temperature in the scaling laws.",
+    "weight": -1
+  }
+]

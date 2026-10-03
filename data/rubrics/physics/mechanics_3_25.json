@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (1)",
+    "description": "Essential Criteria: The student must provide the correct minimum energy E_0 = 2.225 GeV for reaction (1) when the target dissociates into a proton and 4 pions.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (2)",
+    "description": "Essential Criteria: The student must provide the correct minimum energy E_0 = 2.225 GeV for reaction (1) when the projectile dissociates into a proton and 4 pions.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (3)",
+    "description": "Essential Criteria: The student must provide the correct minimum energy E_0 = 3.847 GeV for reaction (2) when both protons dissociate into a proton and 4 pions.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Invariants",
+    "description": "Important Criteria: The student should correctly apply the invariant mass condition E^2 - p^2 = m^2 in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-Momentum Conservation",
+    "description": "Important Criteria: The student must demonstrate an understanding of energy and momentum conservation in the context of the reactions.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy-momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the equations derived from the invariant mass condition.",
+    "weight": -2
+  }
+]

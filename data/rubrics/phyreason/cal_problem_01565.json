@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity after acceleration",
+    "description": "Essential: The final answer for part (1) correctly states the speed as v_0 = sqrt(2eU_1/m).",
+    "weight": 5
+  },
+  {
+    "title": "Displacement in field",
+    "description": "Essential: The final answer for part (2) correctly states the vertical displacement as y = (U_2 * L_1^2) / (4 * d * U_1).",
+    "weight": 5
+  },
+  {
+    "title": "Total screen displacement",
+    "description": "Essential: The final answer for part (3) correctly states the total distance PO as (U_2 * L_1 * (L_1 + 2L_2)) / (4 * d * U_1).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem (or conservation of energy) to relate the accelerating voltage U_1 to the electron's kinetic energy and initial speed.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics in field",
+    "description": "Important: Correctly calculates the vertical acceleration (a = eE/m = eU_2/(md)) and uses kinematics (y = 1/2 a t^2) to find the displacement inside the plates.",
+    "weight": 4
+  },
+  {
+    "title": "Post-field motion analysis",
+    "description": "Important: Correctly analyzes the motion after the deflection plates, calculating the additional displacement y_2 using the vertical velocity at exit and the travel time to the screen.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal velocity constant",
+    "description": "Important: Recognizes that the horizontal component of velocity remains constant after acceleration, as no horizontal force acts.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Demonstrates or implicitly maintains consistent units (e.g., SI) throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misapplies the sign of the electron's charge in the force calculation (F = eE) or confuses the direction of deflection.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics misapplication",
+    "description": "Pitfall: Incorrectly uses kinematics formulas (e.g., using v = at for displacement inside the plates instead of y = 1/2 at^2, or misidentifying the time of flight).",
+    "weight": -2
+  }
+]

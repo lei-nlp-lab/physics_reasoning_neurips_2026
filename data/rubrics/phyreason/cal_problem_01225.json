@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Friction direction",
+    "description": "Essential: Student correctly identifies the static friction force on the lower surface of D points to the right, opposing the tendency of motion.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force magnitude",
+    "description": "Essential: Student provides the correct expression for the normal force N = 2kx/(1 - 2√3μ - μ²).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum μ condition",
+    "description": "Essential: Student states that self-locking requires the denominator to be zero, leading to μ_min = 2 - √3 ≈ 0.27.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Student sets up correct force balance equations for latch D in both horizontal and vertical directions.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force expressions",
+    "description": "Important: Student correctly expresses both friction forces (f₁ and f₂) in terms of normal forces and μ.",
+    "weight": 4
+  },
+  {
+    "title": "Spring force inclusion",
+    "description": "Important: Student includes the spring force kx in the force balance equations.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry/trigonometry",
+    "description": "Optional: Student correctly resolves forces along the inclined surface using θ = 30°.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Student makes sign errors when resolving forces along the inclined surface or in force balance equations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction direction",
+    "description": "Pitfall: Student incorrectly assigns the direction of friction forces (e.g., left instead of right for lower surface).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Student makes algebraic errors when solving simultaneous equations for N or μ_min.",
+    "weight": -1
+  }
+]

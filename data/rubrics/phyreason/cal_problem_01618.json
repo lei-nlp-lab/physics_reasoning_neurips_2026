@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: The student must correctly compute the wave speed using v = x_OP / t_1, yielding 20 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength determination",
+    "description": "Important: The student must correctly interpret the figure to establish that the distance OP corresponds to 3/2 wavelengths, leading to λ = 4 m.",
+    "weight": 4
+  },
+  {
+    "title": "Period calculation",
+    "description": "Essential: The student must correctly compute the period using T = λ / v, yielding 0.2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Wave propagation to C",
+    "description": "Important: The student must reason that point C starts moving after the wave front reaches it, and correctly calculate the additional travel time from P to C.",
+    "weight": 4
+  },
+  {
+    "title": "Time to first crest for C",
+    "description": "Essential: The student must correctly compute the total time t_2 = t_1 + (λ/4 + x_PC) / v, yielding 0.8 s.",
+    "weight": 5
+  },
+  {
+    "title": "Misinterpreting wavelength",
+    "description": "Pitfall: Flag if the student incorrectly relates the distance OP to the wavelength (e.g., assuming it is one full wavelength).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Flag if the final answers have incorrect units (e.g., m/s for period) or sign errors in time calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Phase consideration for C",
+    "description": "Optional: The student may explicitly state that point C must oscillate from its starting position to its first crest, requiring an additional λ/4 travel of the wave pattern.",
+    "weight": 2
+  }
+]

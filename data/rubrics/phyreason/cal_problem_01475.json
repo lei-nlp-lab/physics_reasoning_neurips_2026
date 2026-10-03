@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Horizontal distance s",
+    "description": "Essential: Correctly calculates the horizontal distance s from the platform to point A using projectile motion kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity magnitude at A",
+    "description": "Essential: Correctly determines the speed at point A by combining horizontal and vertical velocity components.",
+    "weight": 5
+  },
+  {
+    "title": "Central angle theta",
+    "description": "Important: Correctly relates the landing angle to the geometry of the circular track to find the central angle.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force at A",
+    "description": "Important: Correctly applies Newton's second law and centripetal force at point A to find the normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at O",
+    "description": "Important: Correctly applies Newton's second law and centripetal force at the lowest point O to find the normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile time calculation",
+    "description": "Important: Correctly calculates the time of flight from the platform to the ground using vertical displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity direction at A",
+    "description": "Optional: Correctly determines the angle of the velocity vector relative to the horizontal at point A.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Uses an incorrect sign (e.g., mg + N = mv^2/R) in the centripetal force equation at points A or O.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or value oversight",
+    "description": "Pitfall: Omits units in final answers, uses incorrect g, or misapplies the given trigonometric values.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Ampere force magnitude (smooth)",
+    "description": "Essential: Correctly calculates the Ampere force as 0.1 N from the equilibrium condition for the stationary rod on smooth rails.",
+    "weight": 5
+  },
+  {
+    "title": "R2 resistance value",
+    "description": "Essential: Correctly solves for the resistance R2 as 4 Ω using the circuit current derived from the Ampere force and Ohm's law.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Applies Newton's first law, setting the Ampere force equal to the component of gravity along the rails for the smooth case.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: Correctly uses Ohm's law for the complete series circuit (E, r, R1, R2) to relate current to resistance.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force law application",
+    "description": "Important: Applies F = BIL correctly, using the given rod length (0.15 m) and magnetic field (0.6 T).",
+    "weight": 3
+  },
+  {
+    "title": "Friction magnitude (rough)",
+    "description": "Essential: For part (2), correctly calculates the frictional force magnitude (0.034 N) from the force balance with the new circuit current.",
+    "weight": 5
+  },
+  {
+    "title": "Friction direction",
+    "description": "Important: Correctly states the direction of the frictional force (along the incline upwards) based on the net force analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities (mass, length) to SI units consistently before calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: Retains one significant figure in the final answer for R2 as requested.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect angle assumption",
+    "description": "Pitfall: Incorrectly uses a non-zero incline angle or trigonometric components when the rails are horizontal, leading to wrong force values.",
+    "weight": -2
+  },
+  {
+    "title": "Circuit resistance error",
+    "description": "Pitfall: Omits the internal resistance (r) or rod resistance (R1) in the total circuit resistance calculation.",
+    "weight": -2
+  }
+]

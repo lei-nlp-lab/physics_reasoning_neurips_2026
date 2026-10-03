@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct final values for x, y, and z based on the calculations.",
+    "weight": 5
+  },
+  {
+    "title": "Isospin Coupling",
+    "description": "Important Criteria: Correctly apply isospin coupling to derive the transition amplitudes for the hyperons.",
+    "weight": 4
+  },
+  {
+    "title": "Transition Amplitudes",
+    "description": "Important Criteria: Accurately calculate the transition amplitudes for each decay process involved.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Clebsch-Gordan",
+    "description": "Important Criteria: Appropriately utilize Clebsch-Gordan coefficients in the calculations of amplitudes.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the calculations of the transition amplitudes.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Final Ratio Derivations",
+    "description": "Important Criteria: Correctly derive the ratios for x, y, and z from the transition amplitudes.",
+    "weight": 4
+  },
+  {
+    "title": "Logical Flow",
+    "description": "Optional Criteria: Maintain a clear and logical flow in the presentation of the solution.",
+    "weight": 2
+  }
+]

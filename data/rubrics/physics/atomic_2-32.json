@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for S_p - S_n as approximately 5.5 x 10^-3 A^(4/3).",
+    "weight": 5
+  },
+  {
+    "title": "Binding Energy Concept",
+    "description": "Important Criteria: The student should explain the concept of binding energy and how it relates to the stability of nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Liquid-Drop Model",
+    "description": "Important Criteria: The student must reference the liquid-drop model and its parameters that influence binding energy.",
+    "weight": 4
+  },
+  {
+    "title": "Neutron vs Proton Energy",
+    "description": "Important Criteria: The student should discuss the difference in energy required to remove protons versus neutrons in heavy nuclei.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the binding energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: The student should clarify the assumptions made regarding the equality of nuclear forces between nucleons.",
+    "weight": 1
+  }
+]

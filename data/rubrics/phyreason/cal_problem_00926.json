@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly solves for B in part (1) as B = √2 mv₀ / (2qd).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly solves for E in part (2) as E = √2 mv₀² / (2qd).",
+    "weight": 5
+  },
+  {
+    "title": "Total return time",
+    "description": "Essential: Correctly expresses the total time in part (3) as t = n(10√2π + 8√2)d/v₀, including the integer n.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: Correctly relates the geometry (e.g., chord length 2d) to the radius of circular motion using the 45° injection angle.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force centripetal condition",
+    "description": "Important: Applies qvB = mv²/r to relate B, v₀, m, q, and the radius for all parts.",
+    "weight": 4
+  },
+  {
+    "title": "Collision kinematics",
+    "description": "Important: Correctly models the velocity component reversal (horizontal) and constancy (vertical) upon collision with the insulating plate.",
+    "weight": 3
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: For part (2), correctly applies kinematics under constant electric force to relate displacement, time, and acceleration (a = Eq/m).",
+    "weight": 3
+  },
+  {
+    "title": "Time segment summation",
+    "description": "Optional: Correctly sums the times spent in magnetic field arcs and in straight-line motion between collisions for the periodic motion in part (3).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misapplies sign for reversed velocity component after collision or direction of electric force.",
+    "weight": -2
+  },
+  {
+    "title": "Radius confusion",
+    "description": "Pitfall: Uses diameter instead of radius in geometric relations (e.g., chord = 2r sinθ) or in the centripetal force equation.",
+    "weight": -1
+  }
+]

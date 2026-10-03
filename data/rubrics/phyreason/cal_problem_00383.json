@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave speed magnitude",
+    "description": "Essential: The response must state the correct wave speed of 100 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Propagation direction",
+    "description": "Essential: The response must correctly identify the wave's propagation direction as to the right.",
+    "weight": 5
+  },
+  {
+    "title": "Time to equilibrium",
+    "description": "Essential: The response must give the correct time for particle P to first pass equilibrium downward as 0.05 s.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity magnitude",
+    "description": "Essential: The response must give the correct magnitude of P's average velocity as (2√2)/5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength identification",
+    "description": "Important: The solution must correctly identify the wavelength from the figure as 8 m.",
+    "weight": 3
+  },
+  {
+    "title": "Applying frequency constraint",
+    "description": "Important: The solution must apply the condition f < 30 Hz to select the correct wave speed from possible solutions.",
+    "weight": 4
+  },
+  {
+    "title": "Particle motion analysis",
+    "description": "Important: The solution must correctly analyze the phase of particle P to determine its initial displacement and subsequent motion to equilibrium.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize incorrect sign for propagation direction or omission of units in final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Wave equation confusion",
+    "description": "Pitfall: Penalize confusing particle velocity with wave speed, or misapplying the relationship v = fλ.",
+    "weight": -1
+  }
+]

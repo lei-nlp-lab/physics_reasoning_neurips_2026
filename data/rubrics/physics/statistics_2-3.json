@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct expressions for the reduced density matrices in both position and momentum spaces and the diagonal elements of the position density matrix.",
+    "weight": 5
+  },
+  {
+    "title": "Density Operator Definition",
+    "description": "Important Criteria: Clearly define the density operator and its role in calculating expectation values.",
+    "weight": 4
+  },
+  {
+    "title": "Orthogonal States",
+    "description": "Important Criteria: Identify the orthogonal complete sets of states used in position and momentum spaces.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Derivation",
+    "description": "Important Criteria: Show the steps in deriving the relationship between the reduced density matrices and the diagonal elements.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Delta Function",
+    "description": "Optional Criteria: Explain the significance of the delta function in the context of the momentum density matrix.",
+    "weight": 2
+  },
+  {
+    "title": "Summation Over States",
+    "description": "Optional Criteria: Discuss the implications of summing over momentum states in the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for mistakes in the application of the delta function or incorrect summation limits.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that units are consistent throughout the derivation and final expressions.",
+    "weight": -1
+  }
+]

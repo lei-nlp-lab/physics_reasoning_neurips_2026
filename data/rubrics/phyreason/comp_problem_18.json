@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final speed in region II",
+    "description": "Essential: Correctly applies energy conservation to derive v2 = sqrt(v1^2 - 2V0/m).",
+    "weight": 5
+  },
+  {
+    "title": "Snell's law for refraction",
+    "description": "Essential: Derives or states the law n1 sin(i1) = n2 sin(i2) from Fermat's principle.",
+    "weight": 5
+  },
+  {
+    "title": "Action-phase relationship",
+    "description": "Important: Correctly relates phase change to action change: Δφ = (2π/h) ΔA.",
+    "weight": 4
+  },
+  {
+    "title": "Path slope derivation",
+    "description": "Important: Correctly derives dy/dx = -sqrt((n(y)/(n0 sin(i0)))^2 - 1) using the constant from Snell's law.",
+    "weight": 3
+  },
+  {
+    "title": "Beam trajectory integration",
+    "description": "Important: Correctly integrates to find x = (n0/k) ln((n0 - ky)/n0 + sqrt(((n0 - ky)/n0)^2 - 1)).",
+    "weight": 3
+  },
+  {
+    "title": "Phase difference calculation",
+    "description": "Important: Correctly calculates β from given geometry and de Broglie wavelength, yielding a numerical value (~5.13).",
+    "weight": 4
+  },
+  {
+    "title": "Null detection distance",
+    "description": "Important: Correctly applies approximation to find Δy for destructive interference (~ -16.2 μm).",
+    "weight": 3
+  },
+  {
+    "title": "Minimum flux density",
+    "description": "Important: Correctly calculates I_min from volume, speed, and one-electron condition (~4e19 m^-2 s^-1).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign in slope expression dy/dx or in the integrated trajectory for x.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Makes an error in relating v2 to angles (v2 = v1 sinθ1 / sinθ2) or in energy conservation.",
+    "weight": -1
+  }
+]

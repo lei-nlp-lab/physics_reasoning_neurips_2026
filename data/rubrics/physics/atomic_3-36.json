@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for sigma_{II}(W) in terms of sigma_I(W).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly identify the threshold value W_thresh as m + mu.",
+    "weight": 5
+  },
+  {
+    "title": "Detailed Balance Application",
+    "description": "Important Criteria: The student should correctly apply the principle of detailed balance to relate the two cross sections.",
+    "weight": 4
+  },
+  {
+    "title": "Threshold Energy Calculation",
+    "description": "Important Criteria: The student must show the correct reasoning and calculations leading to the threshold energy E_gamma.",
+    "weight": 4
+  },
+  {
+    "title": "Behavior Above Threshold",
+    "description": "Optional Criteria: The student should describe how sigma_{II}(W) varies with W just above threshold, including any relevant physical concepts.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum Relations",
+    "description": "Important Criteria: The student should correctly derive and relate the momenta P_alpha and P_beta for both reactions.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect application of the detailed balance formula or sign mistakes.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

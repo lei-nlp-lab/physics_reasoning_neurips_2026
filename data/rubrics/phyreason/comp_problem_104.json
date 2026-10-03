@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Larmor Frequency",
+    "description": "Essential: Final answer for part (1) is ω₀ = γB₀.",
+    "weight": 5
+  },
+  {
+    "title": "Rotating Frame Frequency",
+    "description": "Essential: Final answer for part (2) is Δ = γB₀ - ω or (ω₀ - ω).",
+    "weight": 5
+  },
+  {
+    "title": "Effective Field Expression",
+    "description": "Important: For part (3), correctly constructs B_eff in the rotating frame with the given b(t), including the double-frequency oscillating terms.",
+    "weight": 4
+  },
+  {
+    "title": "Time-Averaged Field",
+    "description": "Important: Correctly states that the time average of the oscillating terms is zero, leaving B_eff_avg = (B₀ - ω/γ)k'.",
+    "weight": 3
+  },
+  {
+    "title": "Rotating Wave Approximation",
+    "description": "Important: For part (4), applies the approximation to drop the high-frequency (2ω) terms, yielding B_eff ≈ b i'.",
+    "weight": 4
+  },
+  {
+    "title": "Rabi Frequency",
+    "description": "Essential: Final answer for part (4) is the precession frequency Ω = γb.",
+    "weight": 5
+  },
+  {
+    "title": "Spin Population Functions",
+    "description": "Essential: Final answers for part (5) are P↑ = cos²(Ωt/2) and P↓ = sin²(Ωt/2).",
+    "weight": 5
+  },
+  {
+    "title": "Sign Error in b(t)",
+    "description": "Pitfall: Uses the wrong sign for the b(t) component in part (3), leading to incorrect phase in the rotating frame transformation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Gyromagnetic Ratio",
+    "description": "Pitfall: Omits the factor of γ in the relationship between torque, angular momentum, and precession frequency.",
+    "weight": -2
+  },
+  {
+    "title": "Frame Confusion",
+    "description": "Pitfall: Fails to distinguish between lab frame and rotating frame vectors (i, j, k vs. i', j', k') in expressions for B_eff.",
+    "weight": -1
+  }
+]

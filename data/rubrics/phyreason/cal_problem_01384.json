@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Binary system period",
+    "description": "Essential Criteria: Must derive or state the correct period formula T = 2π√[L³/(G(M+m))] for the two-body system.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force equality",
+    "description": "Important Criteria: Must apply Newton's second law to both masses, showing mω²r = Mω²R or equivalent force balance.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric constraint",
+    "description": "Important Criteria: Must use the condition r + R = L relating the orbital radii to the separation distance.",
+    "weight": 3
+  },
+  {
+    "title": "Simplified Earth-Moon period",
+    "description": "Essential Criteria: Must correctly state the approximate period T₂ = 2π√(L³/(GM)) where M is Earth's mass.",
+    "weight": 5
+  },
+  {
+    "title": "Ratio of squared periods",
+    "description": "Essential Criteria: Must compute (T₂/T₁)² = (M+m)/M and obtain the numerical value 1.012 (or 1.01 when rounded).",
+    "weight": 5
+  },
+  {
+    "title": "Mass ratio derivation",
+    "description": "Important Criteria: Must solve for the individual orbital radii r and R in terms of m, M, and L.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Should verify dimensional consistency in period formulas (e.g., √[L³/(GM)] has time units).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force expression",
+    "description": "Pitfall Criteria: Penalize using F = GmM/r² or F = GmM/R² instead of F = GmM/L² for gravitational force.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong center assumption",
+    "description": "Pitfall Criteria: Penalize assuming one body is stationary or that both orbit the center of the heavier mass.",
+    "weight": -2
+  }
+]

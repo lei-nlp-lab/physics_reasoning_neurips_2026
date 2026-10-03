@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct threshold energy for the gamma ray must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of Energy",
+    "description": "Important Criteria: The student should demonstrate understanding of energy conservation in the context of the reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Calculation",
+    "description": "Important Criteria: The calculation of invariant mass and its relation to the threshold condition must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Mass Values",
+    "description": "Important Criteria: The student must use the correct mass of the electron in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The response should maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in energy or momentum calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as the number of particles created, are included.",
+    "weight": -1
+  }
+]

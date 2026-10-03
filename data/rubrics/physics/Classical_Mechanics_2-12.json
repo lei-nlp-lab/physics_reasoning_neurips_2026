@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Eccentricity",
+    "description": "Essential Criteria: The student must correctly state that the eccentricity epsilon' equals 1 for a parabolic orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student should demonstrate the calculation of the total energy before and after the change in k, showing that E' equals 0.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Energy Change",
+    "description": "Important Criteria: The student must explain how the potential energy is affected by the change in k, specifically that U' equals U/2.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic Energy Consistency",
+    "description": "Important Criteria: The student should clarify that the kinetic energy remains unchanged immediately after k is halved.",
+    "weight": 3
+  },
+  {
+    "title": "Eccentricity Formula Reference",
+    "description": "Optional Criteria: The student may reference the eccentricity formula and how it applies to the situation, even if not crucial for the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid errors related to miscalculating the relationship between kinetic and potential energy or misunderstanding the implications of the eccentricity value.",
+    "weight": -2
+  }
+]

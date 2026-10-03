@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct μ₁ value",
+    "description": "Essential: Student must state μ₁ = 0.4 (or equivalent fraction) as the coefficient between block and plate.",
+    "weight": 5
+  },
+  {
+    "title": "Correct μ₂ value",
+    "description": "Essential: Student must state μ₂ = 0.2 (or equivalent fraction) as the coefficient between plate and surface.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total displacement",
+    "description": "Essential: Student must state the plate's total displacement as 2.625 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Uses graph for accelerations",
+    "description": "Important: Student correctly extracts block accelerations from the given v-t graph slopes for both time intervals.",
+    "weight": 4
+  },
+  {
+    "title": "Applies Newton's second law",
+    "description": "Important: Student sets up force equations for the block and plate separately, especially for the first interval where they move relative to each other.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies relative motion phase",
+    "description": "Important: Student recognizes that from t=0 to t1, the block slips on the plate, so friction is kinetic.",
+    "weight": 3
+  },
+  {
+    "title": "Calculates plate's initial velocity",
+    "description": "Optional: Student calculates the plate's initial velocity (v0 = 4.5 m/s) using kinematic relations from the graph.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student makes a sign error in acceleration directions or friction force directions in equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall: Student incorrectly uses masses (M, m, M+m) in normal force calculations for friction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Final answers lack proper units or have inconsistent units (e.g., missing 'm' for displacement).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Heat of Vaporization",
+    "description": "Essential Criteria: The correct calculation of the heat of vaporization using the formula L = T * ΔS.",
+    "weight": 5
+  },
+  {
+    "title": "Enthalpy of Water",
+    "description": "Essential Criteria: The correct determination of the enthalpy of water using the relationship dH = TdS + Vdp.",
+    "weight": 5
+  },
+  {
+    "title": "Gibbs Free Energy",
+    "description": "Essential Criteria: The accurate calculation of the Gibbs free energy for both water and steam.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria: Proper use of units throughout the calculations, ensuring consistency and correctness.",
+    "weight": 3
+  },
+  {
+    "title": "Thermodynamic Relationships",
+    "description": "Important Criteria: Appropriate application of thermodynamic relationships in deriving enthalpy and Gibbs free energy.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors related to sign mistakes in calculations, particularly in thermodynamic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failure to include necessary factors or terms in the equations, leading to incorrect final answers.",
+    "weight": -2
+  }
+]

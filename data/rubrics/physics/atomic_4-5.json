@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the minimum energy required for the muon to circumnavigate the Earth.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field Calculation",
+    "description": "Essential Criteria: The student must correctly determine the minimum magnetic field strength required to keep the muon in orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lorentz Factor",
+    "description": "Important Criteria: The student should correctly apply the Lorentz factor gamma in the context of relativistic motion.",
+    "weight": 4
+  },
+  {
+    "title": "Time-Distance Relationship",
+    "description": "Important Criteria: The student must establish the relationship between the muon's lifetime and the time required for the journey.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Final Answer Approximation",
+    "description": "Optional Criteria: The student should provide a reasonable approximation for the final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors in calculations, such as sign mistakes or missing factors.",
+    "weight": -2
+  },
+  {
+    "title": "Magnetic Field Misunderstanding",
+    "description": "Pitfall Criteria: The student should not underestimate the strength of the Earth's magnetic field in relation to the required value.",
+    "weight": -2
+  }
+]

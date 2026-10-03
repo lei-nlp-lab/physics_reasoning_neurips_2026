@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Table friction force",
+    "description": "Essential: Correctly calculates the kinetic friction force between table and cardboard as μ(m₁+m₂)g = 1 N.",
+    "weight": 5
+  },
+  {
+    "title": "Sliding condition derivation",
+    "description": "Important: Applies Newton's second law to both objects to derive the critical force F > 2μg(m₁+m₂) = 2 N.",
+    "weight": 4
+  },
+  {
+    "title": "Object acceleration calculation",
+    "description": "Important: Correctly determines the object's acceleration during contact as a₂ = μg = 2 m/s².",
+    "weight": 3
+  },
+  {
+    "title": "Total displacement check",
+    "description": "Essential: Calculates total displacement s = x₁ + x₂ = 0.18 m and compares it to table edge distance d = 0.15 m.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: Uses kinematic equations correctly for both acceleration and deceleration phases of the object's motion.",
+    "weight": 3
+  },
+  {
+    "title": "Final conclusion",
+    "description": "Essential: Concludes correctly that the object falls off the table since 0.18 m > 0.15 m.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect friction assignment",
+    "description": "Pitfall: Uses wrong mass when calculating friction forces (e.g., uses only m₁ for table friction).",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Makes sign errors in force equations or incorrectly assigns friction directions.",
+    "weight": -1
+  }
+]

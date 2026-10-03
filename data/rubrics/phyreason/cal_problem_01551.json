@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct flux change for A",
+    "description": "Essential: Student correctly calculates the change in magnetic flux for coil A as (B_initial - B_final) * π * r_A^2, yielding approximately 1.256 × 10⁻⁴ Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change for B",
+    "description": "Essential: Student correctly calculates the change in magnetic flux for coil B, using only the area within the magnetic field boundary (radius 1 cm), not the coil's full area, yielding approximately 1.256 × 10⁻⁴ Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change for C",
+    "description": "Essential: Student correctly calculates the change in magnetic flux for coil C due to rotation, using ΔΦ = B * π * r_C² * (1 - cos 30°), yielding approximately 8.4 × 10⁻⁶ Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Applies flux definition correctly",
+    "description": "Important: Student uses the formula for magnetic flux Φ = B * A * cosθ and correctly identifies the relevant area and angle for each scenario.",
+    "weight": 3
+  },
+  {
+    "title": "Handles boundary condition for B",
+    "description": "Important: Student recognizes that for coil B, the effective area for flux calculation is limited by the circular boundary of the magnetic field, not the coil's larger radius.",
+    "weight": 4
+  },
+  {
+    "title": "Includes unit analysis",
+    "description": "Optional: Student shows consistent unit conversion (cm to m) and reports final answers in webers (Wb).",
+    "weight": 1
+  },
+  {
+    "title": "Uses absolute change",
+    "description": "Optional: Student correctly interprets 'how much does the magnetic flux change' as the magnitude of the change, |ΔΦ|.",
+    "weight": 2
+  },
+  {
+    "title": "Misinterprets area for coil B",
+    "description": "Pitfall: Student incorrectly uses the full area of coil B (radius 2 cm) to calculate the flux change, rather than the area within the 1 cm magnetic field boundary.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or angle error for C",
+    "description": "Pitfall: Student makes an error in the angle dependence for coil C, e.g., using sin 30° instead of (1 - cos 30°) or misapplying the dot product.",
+    "weight": -2
+  }
+]

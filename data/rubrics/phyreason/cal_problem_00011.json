@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Linear velocity expression",
+    "description": "Essential: The student must provide the correct formula for the Moon's orbital speed, v = 2πr / T.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational force expression",
+    "description": "Essential: The student must provide the correct formula for the gravitational force, F = 4π²mr / T².",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force reasoning",
+    "description": "Important: The student must identify that the gravitational force provides the centripetal force for circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Period and velocity relation",
+    "description": "Important: The student must correctly relate the orbital period T to the circumference and speed for uniform circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student's final expressions should have dimensionally consistent units (e.g., length/time for velocity).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect centripetal formula",
+    "description": "Pitfall: Using an incorrect centripetal force formula (e.g., mv²/r instead of mω²r) without proper substitution for ω.",
+    "weight": -1
+  },
+  {
+    "title": "Missing force identification",
+    "description": "Pitfall: Stating the centripetal force formula without explicitly identifying it as the gravitational force.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for Part (a)",
+    "description": "Essential Criteria - The student must provide the correct lower bound for the elastic center-of-mass forward differential cross-section as 2.6 b.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Part (b)",
+    "description": "Essential Criteria - The student must accurately describe the implications of violating the optical theorem and unitarity of the S-matrix.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Optical Theorem",
+    "description": "Important Criteria - The student should correctly apply the optical theorem to relate the total cross-section to the forward differential cross-section.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria - The student must ensure that all units are consistent and correctly converted, particularly in the final answer for part (a).",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Derivation",
+    "description": "Important Criteria - The student should show clear steps in deriving the lower bound using the given equations and relationships.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria - The student should avoid common sign mistakes in calculations related to the cross-section.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - The student should be cautious of missing factors in the derivation, particularly in the application of the optical theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Interpretation of Results",
+    "description": "Optional Criteria - The student may provide additional insights into the implications of the results beyond the required answers.",
+    "weight": 2
+  }
+]

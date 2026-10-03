@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify option (b) as the correct reason for the blue sky.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Scattering",
+    "description": "Important Criteria: The student should demonstrate an understanding of Rayleigh scattering and its role in the color of the sky.",
+    "weight": 4
+  },
+  {
+    "title": "Elimination of Incorrect Options",
+    "description": "Important Criteria: The student should explain why options (a) and (c) are incorrect.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Optional Criteria: The response should be clearly articulated, showing logical reasoning.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid stating that reflection from the sea or cobalt vapors cause the blue sky.",
+    "weight": -2
+  }
+]

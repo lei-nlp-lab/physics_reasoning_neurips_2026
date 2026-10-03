@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed of rod b",
+    "description": "Essential: The student must correctly calculate the speed of rod b as 3 m/s using the momentum conservation principle (m_a v_a = m_b v_b).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration of rod b",
+    "description": "Essential: The student must correctly calculate the acceleration of rod b as 3 m/s², applying Newton's second law and the relationship between the rods' accelerations (m_a a_a = m_b a_b).",
+    "weight": 5
+  },
+  {
+    "title": "Time for rod a",
+    "description": "Essential: The student must correctly calculate the time for rod a to reach 1.0 m/s as 0.768 s, using the impulse-momentum theorem and accounting for the Ampere force impulse.",
+    "weight": 5
+  },
+  {
+    "title": "Apply momentum conservation",
+    "description": "Important: The student must correctly apply the principle that the total momentum of the system along the rails is conserved (m_a v_a = m_b v_b) to relate the velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Analyze electromagnetic induction",
+    "description": "Important: The student must correctly calculate the induced EMF as BL(v_a + v_b), the induced current, and the resulting Ampere force on each rod.",
+    "weight": 4
+  },
+  {
+    "title": "Apply impulse-momentum theorem",
+    "description": "Important: The student must correctly set up and solve the impulse-momentum equation for rod a, integrating the net force (F, gravity, Ampere force) over time.",
+    "weight": 4
+  },
+  {
+    "title": "Use energy or displacement relation",
+    "description": "Optional: The student may use the energy-work-heat relationship or the displacement relation (m_a x_a = m_b x_b) to find a needed variable like total displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error in forces",
+    "description": "Pitfall: Penalize if the student makes a sign error in the components of gravity (mg sinθ) or in the direction of the Ampere force on each rod.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect EMF or current formula",
+    "description": "Pitfall: Penalize if the student uses an incorrect formula for the total induced EMF (e.g., using v_a - v_b instead of v_a + v_b) or misapplies Ohm's law for the circuit.",
+    "weight": -2
+  }
+]

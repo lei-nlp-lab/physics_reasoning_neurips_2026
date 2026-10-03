@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must provide the correct wave function after photon emission.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Expression",
+    "description": "Important Criteria: The student should derive the expression for the relative probability P_1/P_0 correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical Estimate",
+    "description": "Essential Criteria: The student must calculate the numerical value of P_1/P_0 accurately using the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Operators",
+    "description": "Important Criteria: The student should correctly apply creation and annihilation operators in their derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in their calculations.",
+    "weight": -2
+  }
+]

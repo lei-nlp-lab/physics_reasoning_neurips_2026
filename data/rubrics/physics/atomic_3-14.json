@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria requires correct identification of conservation laws violated for each decay process.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Laws",
+    "description": "Important Criteria includes accurate conservation laws related to angular momentum, lepton number, baryon number, energy, and electric charge.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria involves clear and concise explanations of why each conservation law is violated.",
+    "weight": 3
+  },
+  {
+    "title": "Specificity",
+    "description": "Optional Criteria should specify which conservation laws apply to each decay without ambiguity.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria includes potential mistakes such as misidentifying conservation laws or omitting necessary details.",
+    "weight": -2
+  }
+]

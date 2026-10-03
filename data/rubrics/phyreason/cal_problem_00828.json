@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Spot AM Color",
+    "description": "Essential Criteria: Student must correctly identify that the bright spot at AM is red.",
+    "weight": 5
+  },
+  {
+    "title": "Spot AN Color",
+    "description": "Essential Criteria: Student must correctly identify that the bright spot at AN is a mixture of red and violet.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Angle Analysis",
+    "description": "Important Criteria: Student must calculate or compare the critical angles for both colors to determine which undergoes total internal reflection at the curved interface.",
+    "weight": 4
+  },
+  {
+    "title": "Refraction at AB",
+    "description": "Important Criteria: Student must correctly apply Snell's law to find the refraction angle for red light at the initial interface AB.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for Distances",
+    "description": "Important Criteria: Student must use correct geometric relationships (right triangle trigonometry) to relate the refraction angle to the distance AP₁.",
+    "weight": 3
+  },
+  {
+    "title": "Final Distance Calculation",
+    "description": "Essential Criteria: Student must correctly calculate the final distance between the two bright spots as P₁P₂ = AP₁ + AP₂.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/Unit Error",
+    "description": "Pitfall Criteria: Penalize if the final distance is missing units (cm) or has incorrect units.",
+    "weight": -1
+  },
+  {
+    "title": "Total Internal Reflection Misapplication",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly applies the total internal reflection condition (e.g., using the wrong interface or comparing angles incorrectly).",
+    "weight": -2
+  }
+]

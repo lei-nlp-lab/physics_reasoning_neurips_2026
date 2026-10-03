@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Time to origin",
+    "description": "Essential: Correctly calculates the time for ball A to reach O using kinematics under constant acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity before collision",
+    "description": "Essential: Correctly calculates ball A's speed at O using kinematics or work-energy.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocity",
+    "description": "Important: Applies momentum conservation to find the speed of combined object D.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates B using Lorentz force and centripetal force for D's circular motion.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field direction",
+    "description": "Important: Correctly determines the magnetic field direction using the left-hand rule.",
+    "weight": 3
+  },
+  {
+    "title": "Second y-axis velocity",
+    "description": "Essential: Correctly calculates the speed of D when it crosses the y-axis a second time.",
+    "weight": 5
+  },
+  {
+    "title": "Second y-axis position",
+    "description": "Essential: Correctly determines the coordinates where D crosses the y-axis a second time.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry and kinematics",
+    "description": "Important: Correctly relates given displacements and angles to motion parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in vector components or reports an answer with incorrect units.",
+    "weight": -2
+  },
+  {
+    "title": "Force law misapplication",
+    "description": "Pitfall: Incorrectly applies Lorentz force (e.g., wrong charge, mass, or radius) or Newton's second law.",
+    "weight": -2
+  }
+]

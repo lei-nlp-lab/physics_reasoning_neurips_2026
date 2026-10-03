@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Electric Field",
+    "description": "Essential Criteria: The expression for the electric field E in both reference frames must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Magnetic Field",
+    "description": "Essential Criteria: The expression for the magnetic field B in both reference frames must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Lorentz Force",
+    "description": "Essential Criteria: The expression for the Lorentz force F in both reference frames must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Acceleration",
+    "description": "Essential Criteria: The expression for the acceleration a in both reference frames must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Relativistic Factors Explanation",
+    "description": "Important Criteria: A clear explanation of the relativistic factors affecting the results must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Frame Transformation Understanding",
+    "description": "Important Criteria: The student must demonstrate understanding of how fields transform between frames.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All expressions must include correct units where applicable.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors Check",
+    "description": "Pitfall Criteria: The response must avoid common errors such as sign mistakes or missing factors.",
+    "weight": -2
+  }
+]

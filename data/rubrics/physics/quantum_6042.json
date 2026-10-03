@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature T must be correctly calculated as 1.71 x 10^5 K.",
+    "weight": 5
+  },
+  {
+    "title": "Induced Emission Equation",
+    "description": "Important Criteria: The equation for the induced transition probability w_{12} must be correctly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Spontaneous Emission Equation",
+    "description": "Important Criteria: The equation for the spontaneous transition probability A_{12} must be correctly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Equal Transition Probabilities",
+    "description": "Important Criteria: The condition for equal probabilities of spontaneous and induced emissions must be derived correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Black Body Radiation Density",
+    "description": "Optional Criteria: The expression for the density of states rho(omega) in black body radiation should be included.",
+    "weight": 2
+  },
+  {
+    "title": "Temperature Derivation",
+    "description": "Important Criteria: The derivation leading to the expression for temperature T must be shown clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any mistakes in units or dimensional analysis should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in equations should be checked and corrected.",
+    "weight": -1
+  }
+]

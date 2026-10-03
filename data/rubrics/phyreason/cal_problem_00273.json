@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct fall time",
+    "description": "Essential: The response must correctly calculate the time to reach the ground as 3 seconds, using the appropriate kinematic equation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct impact velocity",
+    "description": "Essential: The response must correctly calculate the magnitude of the velocity upon impact as 30 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct last-second distance",
+    "description": "Essential: The response must correctly calculate the distance fallen in the last second as 25 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Applies kinematic equations",
+    "description": "Important: The solution must correctly apply constant-acceleration kinematic equations (e.g., s = ut + ½at², v = u + at) for free fall from rest.",
+    "weight": 4
+  },
+  {
+    "title": "Strategy for part (3)",
+    "description": "Important: For the last-second distance, the solution must find the distance fallen in the total time minus the distance fallen in the time preceding the last second.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be presented with correct units (s, m/s, m).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Using an incorrect sign for gravitational acceleration (e.g., using +10 m/s² for downward motion) in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterprets last-second distance",
+    "description": "Pitfall: Incorrectly calculating the last-second distance (e.g., using the formula for distance in the nth second without adjustment, or using the total distance as the answer).",
+    "weight": -2
+  }
+]

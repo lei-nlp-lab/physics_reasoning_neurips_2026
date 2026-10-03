@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Zeroth Order Energy",
+    "description": "Essential Criteria: Correctly relate positronium energies to hydrogen energies using the appropriate formula.",
+    "weight": 5
+  },
+  {
+    "title": "Spin Degeneracy",
+    "description": "Important Criteria: Acknowledge the 4-fold degeneracy of energy levels due to spin considerations.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: Properly express the Hamiltonian including spin-spin interactions and external magnetic field effects.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Level Effects",
+    "description": "Essential Criteria: Provide correct expressions for the energy levels after considering spin interactions and magnetic field effects.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid mistakes in the application of the reduced mass or incorrect signs in energy expressions.",
+    "weight": -2
+  }
+]

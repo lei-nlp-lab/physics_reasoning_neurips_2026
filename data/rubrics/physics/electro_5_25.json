@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for the time taken for the radius to decrease to zero must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Loss Rate",
+    "description": "Important Criteria: The expression for the rate of energy loss per revolution must be correctly stated and derived.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration Expression",
+    "description": "Important Criteria: The expression for the acceleration of the electron in the Coulomb field must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The setup of the integral for calculating the total time must be correctly formulated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units used throughout the derivation should be consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing negative signs or incorrect limits in the integration process can lead to incorrect results.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Assumptions",
+    "description": "Optional Criteria: The assumptions made regarding nonrelativistic motion and small energy loss should be clearly stated.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct landing speed",
+    "description": "Essential: The final answer for part (1) must be 20 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct window height difference",
+    "description": "Essential: The final answer for part (2) must be 2.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Use of kinematic equations",
+    "description": "Important: The solution must correctly apply the constant-acceleration kinematic equations (e.g., v² = u² + 2as, s = ut + ½at²) for free fall.",
+    "weight": 4
+  },
+  {
+    "title": "Time calculation for window passage",
+    "description": "Important: The solution must correctly use the given 0.3 s passage time to find the time to reach the bottom edge of the window.",
+    "weight": 4
+  },
+  {
+    "title": "Consistent sign convention",
+    "description": "Important: The solution must use a consistent sign convention for displacement and acceleration due to gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis or inclusion",
+    "description": "Optional: The final answers should include correct units (m/s and m).",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect total fall time",
+    "description": "Pitfall: Penalize if the student incorrectly calculates the total time to fall 20 m (e.g., using t = h/v instead of t = √(2h/g)).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting window passage",
+    "description": "Pitfall: Penalize if the student treats the 0.3 s as the time to fall from the top edge of the window to the ground, or otherwise misapplies this time interval.",
+    "weight": -2
+  }
+]

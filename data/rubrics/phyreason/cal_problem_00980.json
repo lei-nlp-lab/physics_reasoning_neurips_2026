@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ratio of Ampere forces",
+    "description": "Essential: The final answer for part (1) must be expressed as the ratio I1/I2.",
+    "weight": 5
+  },
+  {
+    "title": "Expression for I3",
+    "description": "Essential: The final answer for part (2) must be expressed as I3 = (a - g)T0 * I1 / ((T0 - T1)g).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium analysis",
+    "description": "Important: The solution must correctly apply force equilibrium to relate tension, weight, and Ampere force for the I1 case (2T1 + F1 = G).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: For the breaking case with I3, the solution must apply F_net = ma correctly, resulting in F3 + G = (G/g)*a.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force proportionality",
+    "description": "Important: The solution must recognize that the Ampere force on the coil is proportional to the current in the long wire (F ∝ I).",
+    "weight": 3
+  },
+  {
+    "title": "Weight identification",
+    "description": "Optional: The solution may explicitly state that the coil's weight is G = 2T0 from the initial no-current condition.",
+    "weight": 2
+  },
+  {
+    "title": "Direction of Ampere force",
+    "description": "Pitfall: The solution must not confuse the direction of the Ampere force; for I1 it is upward (reducing tension), for I2 it is downward (increasing tension).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in acceleration equation",
+    "description": "Pitfall: The solution must not make a sign error in the net force equation when the threads break, incorrectly writing F3 - G = ma or similar.",
+    "weight": -2
+  }
+]

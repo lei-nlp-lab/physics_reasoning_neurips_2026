@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential: The final numerical answer for part (1) is μ ≈ 0.52.",
+    "weight": 5
+  },
+  {
+    "title": "Correct spring energy",
+    "description": "Essential: The final numerical answer for part (2) is E_pm ≈ 24.4 J.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy setup for μ",
+    "description": "Important: Applies the work-energy theorem correctly for the full A→D path, accounting for initial kinetic energy, gravitational work, and friction work over the total sliding distance.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for E_pm",
+    "description": "Important: Applies energy conservation (or work-energy) for the A→C path to relate initial energy, gravitational potential change, friction work, and the final spring energy.",
+    "weight": 4
+  },
+  {
+    "title": "Correct total distance for friction",
+    "description": "Important: Correctly calculates the total sliding distance for friction in part (1) as l_AB + 2*l_BC + (l_AB - l_AD) for the A→D trip.",
+    "weight": 3
+  },
+  {
+    "title": "Correct AC distance for part (2)",
+    "description": "Important: Uses the correct distance l_AC = l_AB + l_BC when calculating energy changes up to maximum compression (point C).",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric function application",
+    "description": "Optional: Correctly uses sinθ for gravitational potential changes and cosθ for the normal force (and thus friction) on the incline.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy terms",
+    "description": "Pitfall: Makes a sign error when setting up the work-energy equation, e.g., incorrectly adding/subtracting friction work or gravitational work.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction distance",
+    "description": "Pitfall: Uses an incorrect sliding distance for friction work (e.g., omitting the double compression distance l_BC or the return distance l_AB - l_AD).",
+    "weight": -2
+  }
+]

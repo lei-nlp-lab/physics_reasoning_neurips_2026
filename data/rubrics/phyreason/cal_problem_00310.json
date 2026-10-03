@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration for B",
+    "description": "Essential Criteria: The answer for part (1) must be 0.24 cm/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration for C",
+    "description": "Essential Criteria: The answer for part (2) must be 0.04 cm/s².",
+    "weight": 5
+  },
+  {
+    "title": "Uses common linear velocity",
+    "description": "Important Criteria: The solution must state or correctly apply that points A and B have the same linear speed because the rollers roll without slipping.",
+    "weight": 4
+  },
+  {
+    "title": "Applies centripetal formula",
+    "description": "Important Criteria: The solution must correctly apply the formula a = v²/r or a = ω²r for the relevant points.",
+    "weight": 3
+  },
+  {
+    "title": "Relates radii correctly",
+    "description": "Important Criteria: The solution must correctly use the given relationship R = 2r to connect the accelerations of A and B.",
+    "weight": 3
+  },
+  {
+    "title": "Uses common angular velocity",
+    "description": "Important Criteria: For part (2), the solution must state or correctly apply that points A and C have the same angular velocity because they are on the same rigid roller.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The final answers should have the correct units (cm/s²) and be consistent with the given data.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses linear and angular",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assumes the same angular velocity for A and B, or the same linear velocity for A and C.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall Criteria: Penalize for incorrect manipulation of ratios (e.g., a_B = a_A/2 instead of a_B = 2a_A) or basic arithmetic mistakes.",
+    "weight": -1
+  }
+]

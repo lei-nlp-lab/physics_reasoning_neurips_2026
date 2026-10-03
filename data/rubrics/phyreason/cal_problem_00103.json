@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Mass ratio",
+    "description": "Essential: The final answer for part (1) correctly states the mass ratio as 8:1.",
+    "weight": 5
+  },
+  {
+    "title": "Charge signs",
+    "description": "Essential: The final answer for part (2) correctly identifies droplet a as negative and droplet b as positive.",
+    "weight": 5
+  },
+  {
+    "title": "Charge magnitude ratio",
+    "description": "Essential: The final answer for part (3) correctly states the ratio of the absolute charges as 4:1.",
+    "weight": 5
+  },
+  {
+    "title": "Terminal velocity force balance",
+    "description": "Important: Applies Newton's first law to relate gravitational, drag, and electric forces when velocity is constant.",
+    "weight": 4
+  },
+  {
+    "title": "Drag force model application",
+    "description": "Important: Correctly uses the given drag force model (f = k r v) to relate radius, speed, and force.",
+    "weight": 4
+  },
+  {
+    "title": "Radius from free-fall condition",
+    "description": "Important: Derives the relationship between droplet radius and terminal velocity from the initial free-fall force balance (mg = k r v).",
+    "weight": 3
+  },
+  {
+    "title": "Direction analysis from velocity change",
+    "description": "Optional: Correctly infers the direction of net force (acceleration) from the change in terminal velocity after the field is applied.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect drag force scaling",
+    "description": "Pitfall: Incorrectly scales the drag force with velocity when applying the force balance with the electric field present (e.g., assuming f ∝ v without accounting for the changed radius).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Assigns the wrong sign to a charge based on an incorrect analysis of the electric force direction relative to gravity.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or ratio error",
+    "description": "Pitfall: Makes an algebraic mistake in solving the system of equations or calculating the final ratios (mass or charge).",
+    "weight": -1
+  }
+]

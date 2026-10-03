@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct speed at C",
+    "description": "Essential Criteria: The student must correctly calculate v = 10√2 m/s (or approximately 14.14 m/s) for the speed at point C after the flat section.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total time",
+    "description": "Essential Criteria: The student must correctly calculate the total sliding time on the right slope as t = (1 + √5) s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy or kinematics on flat",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem or kinematics with friction to find the speed at C from the speed at B and the flat section parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Two-phase slope analysis",
+    "description": "Important Criteria: The student must recognize that motion on the right slope involves an upward decelerating phase followed by a downward accelerating phase.",
+    "weight": 4
+  },
+  {
+    "title": "Forces on the slope",
+    "description": "Important Criteria: The student must correctly resolve forces and apply Newton's second law to find the accelerations for both phases on the inclined plane.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic linking",
+    "description": "Important Criteria: The student must correctly link the two phases on the slope using the common displacement x_AB or the condition that velocity is zero at the turnaround point.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's final answers should include correct units (m/s and s) and intermediate calculations should maintain dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: Deduct points if the student uses the wrong sign for the acceleration during either the upward or downward phase on the slope.",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction mistake",
+    "description": "Pitfall Criteria: Deduct points if the student misidentifies the direction of the friction force during either phase of motion on the inclined plane.",
+    "weight": -2
+  },
+  {
+    "title": "Omits flat section energy loss",
+    "description": "Pitfall Criteria: Deduct points if the student attempts to solve part (1) without accounting for energy loss due to friction on the 10m flat section.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field strength",
+    "description": "Essential Criteria: The final answer for part (1) must be E = 3mg/(2q) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration of ball A",
+    "description": "Essential Criteria: The final answer for part (2) must include magnitude a_A = g/2 and direction upward.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration of ball B",
+    "description": "Essential Criteria: The final answer for part (3) must include magnitude a_B = g/2 and direction downward.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-break force balance",
+    "description": "Important Criteria: The solution must apply Newton's second law to the two-ball system before the string breaks to relate electric force, weight, and constant velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Post-break free-body analysis",
+    "description": "Important Criteria: The solution must apply Newton's second law separately to each ball after the string breaks, considering only electric force and weight.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction consistency",
+    "description": "Pitfall Criteria: Deduct points if signs for forces or accelerations are inconsistent with chosen coordinate system or if directions are mislabeled.",
+    "weight": -2
+  },
+  {
+    "title": "Mass or charge mix-up",
+    "description": "Pitfall Criteria: Deduct points if the masses (m vs 2m) or the charges are incorrectly substituted into the force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consideration",
+    "description": "Optional Criteria: The solution may include correct units (N/C, m/s²) for the final answers.",
+    "weight": 1
+  }
+]

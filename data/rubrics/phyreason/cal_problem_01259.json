@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration magnitude a₁",
+    "description": "Essential: Correctly calculates a₁ = v/t = 2 m/s² from the acceleration phase data.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude a₂",
+    "description": "Essential: Correctly calculates a₂ = v²/(2x) = 5 m/s² from the braking phase data.",
+    "weight": 5
+  },
+  {
+    "title": "Correct kinematic equation selection",
+    "description": "Important: Applies v = u + at for acceleration phase and v² = u² + 2as (or equivalent) for braking phase.",
+    "weight": 3
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important: Handles signs correctly for acceleration/deceleration, recognizing braking acceleration opposes motion.",
+    "weight": 2
+  },
+  {
+    "title": "Unit inclusion and consistency",
+    "description": "Optional: Expresses final answers with correct units (m/s²) and maintains unit consistency throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect equation mixing",
+    "description": "Pitfall: Uses the same equation for both phases without adjusting for different known variables (e.g., tries to use v = u + at for braking without time).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in braking calculation",
+    "description": "Pitfall: Forgets that final velocity is zero during braking or mishandles the negative sign in v² = u² + 2as, leading to incorrect a₂.",
+    "weight": -2
+  }
+]

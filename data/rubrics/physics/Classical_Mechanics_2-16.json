@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer Clockwise",
+    "description": "Essential Criteria: The student must state that the length of the unwound string increases at the rate of Rω for the clockwise direction.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Counterclockwise",
+    "description": "Essential Criteria: The student must state that the length of the unwound string increases at the rate of Rω for the counterclockwise direction.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning for Clockwise",
+    "description": "Important Criteria: The student should explain that the mass moves tangentially at speed Rω when the glue breaks.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning for Counterclockwise",
+    "description": "Important Criteria: The student should discuss the fictitious forces in the rotating frame and how they lead to the same unwinding rate.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Forces",
+    "description": "Optional Criteria: The student may include the roles of centrifugal and Coriolis forces in their explanation.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that the units of the final answer are consistent and correctly expressed.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid incorrectly stating that the unwinding rate differs between clockwise and counterclockwise directions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit the factor of R in their final answer for the unwinding rate.",
+    "weight": -1
+  }
+]

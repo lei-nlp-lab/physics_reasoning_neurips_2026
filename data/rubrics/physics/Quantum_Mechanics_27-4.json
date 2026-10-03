@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Eigenvalues",
+    "description": "Essential Criteria: The student must correctly state the energy eigenvalues for the Hamiltonian.",
+    "weight": 5
+  },
+  {
+    "title": "Ground State Wavefunction",
+    "description": "Essential Criteria: The student must provide the correct wavefunction for the ground state of the system.",
+    "weight": 5
+  },
+  {
+    "title": "Two-Particle Ground State Energy",
+    "description": "Essential Criteria: The student must calculate the correct ground state energy for the two-particle system.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Energy Correction",
+    "description": "Important Criteria: The student must derive the first-order correction to the ground state energy due to the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Wavefunction",
+    "description": "Important Criteria: The student must write down the correct wavefunction for the ground state to lowest order in the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Form of Hamiltonian",
+    "description": "Optional Criteria: The student may present the Hamiltonian in matrix form to clarify the problem setup.",
+    "weight": 3
+  },
+  {
+    "title": "Completing the Square",
+    "description": "Optional Criteria: The student may show the process of completing the square for the Hamiltonian.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

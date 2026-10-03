@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answers",
+    "description": "Essential Criteria: Student must provide the three numerical answers: 0.8 Wb, 5.6 Wb, and 13.6 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Part 1 area calculation",
+    "description": "Important Criteria: Student must correctly calculate the triangular area from the rod's displacement (x = vt = 4 m) using S = ½ x².",
+    "weight": 3
+  },
+  {
+    "title": "Part 2 flux change",
+    "description": "Important Criteria: Student must compute the initial flux (Φ = B₀S) and final flux (Φ₁ = B'S) before finding ΔΦ₂ = Φ₁ - Φ.",
+    "weight": 3
+  },
+  {
+    "title": "Part 3 combined change",
+    "description": "Important Criteria: Student must compute the final flux with both new B and new S (Φ₂ = BₜSₜ) and subtract the initial flux.",
+    "weight": 3
+  },
+  {
+    "title": "Magnetic flux formula",
+    "description": "Essential Criteria: Student must apply the formula Φ = B⋅S (or ΔΦ = Δ(B⋅S)) for each part, recognizing perpendicular field.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student should maintain correct units (T, m², Wb) throughout and express final answers in webers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if student incorrectly treats flux change as negative or confuses initial/final values in subtraction.",
+    "weight": -1
+  },
+  {
+    "title": "Area misinterpretation",
+    "description": "Pitfall Criteria: Penalize if student uses wrong geometry (e.g., rectangle instead of triangle) in part 1 or misapplies given areas in parts 2/3.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field at surface",
+    "description": "Essential: Correctly calculates the electric field at the dome's surface using E = V/a.",
+    "weight": 5
+  },
+  {
+    "title": "Dome time constant",
+    "description": "Essential: Correctly calculates the time constant τ = RC, using the dome's capacitance and the total resistance of the resistor chain.",
+    "weight": 5
+  },
+  {
+    "title": "Belt charge density",
+    "description": "Essential: Correctly calculates the required surface charge density on the belt, accounting for both the resistor chain current and the proton beam current.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field strength",
+    "description": "Essential: Correctly calculates the magnetic field strength from the given deflection angle, using the appropriate relativistic or non-relativistic circular motion formula.",
+    "weight": 5
+  },
+  {
+    "title": "Pipe length and resistance",
+    "description": "Important: Correctly calculates the length of copper pipe in one spiral and its electrical resistance using the given geometry and resistivity.",
+    "weight": 4
+  },
+  {
+    "title": "Cooling water flow rate",
+    "description": "Important: Correctly calculates the required water flow rate by equating the electrical power dissipated to the thermal power carried away by the water.",
+    "weight": 4
+  },
+  {
+    "title": "Distance of closest approach",
+    "description": "Important: Correctly calculates the distance of closest approach for the proton to the fluorine nucleus using conservation of energy for electrostatic repulsion.",
+    "weight": 4
+  },
+  {
+    "title": "Incorrect current summation",
+    "description": "Pitfall: Fails to sum the resistor chain current and the proton beam current when calculating the required belt charge density for part (c).",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion errors",
+    "description": "Pitfall: Makes errors in unit conversions (e.g., microamperes, megohms, millimeters to meters) leading to incorrect numerical answers.",
+    "weight": -1
+  },
+  {
+    "title": "Geometry for pipe length",
+    "description": "Optional: Correctly derives or applies the formula for the length of a flat spiral coil based on the given inner and outer diameters and pipe diameter.",
+    "weight": 2
+  }
+]

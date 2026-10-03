@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Displacement magnitude",
+    "description": "Essential: Correctly calculates displacement magnitude as √2 × R ≈ 70.7 m.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement direction",
+    "description": "Important: States displacement direction is from A to B, or describes it as 45° southwest/down-left.",
+    "weight": 3
+  },
+  {
+    "title": "Distance calculation",
+    "description": "Essential: Correctly calculates distance as (3/4) × 2πR ≈ 235.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Arc length reasoning",
+    "description": "Important: Recognizes distance equals arc length for 3/4 of circumference.",
+    "weight": 2
+  },
+  {
+    "title": "Units included",
+    "description": "Optional: Includes correct units (meters) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing distance/displacement",
+    "description": "Pitfall: Treats displacement as arc length or uses wrong fraction of circle.",
+    "weight": -2
+  },
+  {
+    "title": "Direction omission",
+    "description": "Pitfall: Gives displacement magnitude without stating direction.",
+    "weight": -1
+  }
+]

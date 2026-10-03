@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed at bottom",
+    "description": "Essential: Correctly calculates the block's speed at point P as 6 m/s using energy or dynamics on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Reach point Q",
+    "description": "Essential: Correctly determines the block cannot reach point Q, based on the stopping distance (4.5 m) being less than the belt length (10 m).",
+    "weight": 5
+  },
+  {
+    "title": "Friction work on belt",
+    "description": "Important: Correctly calculates the work done by friction on the conveyor belt as -32 J, using the belt's displacement and friction force.",
+    "weight": 4
+  },
+  {
+    "title": "Friction work on block",
+    "description": "Important: Correctly calculates the work done by friction on the block as -32 J, using the work-energy theorem for the belt segment.",
+    "weight": 4
+  },
+  {
+    "title": "Total incline distance",
+    "description": "Essential: Correctly calculates the total distance traveled by the block on the inclined plane as 9.5 m, accounting for the return trip.",
+    "weight": 5
+  },
+  {
+    "title": "Belt deceleration analysis",
+    "description": "Important: Correctly applies Newton's second law to find the block's deceleration (4 m/s²) on the belt due to kinetic friction.",
+    "weight": 3
+  },
+  {
+    "title": "Two-stage kinematics",
+    "description": "Optional: Correctly analyzes the two-stage motion on the belt (deceleration to rest, then acceleration left to match belt speed).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses incorrect sign for work done by friction (e.g., positive instead of negative).",
+    "weight": -2
+  },
+  {
+    "title": "Incline friction mistake",
+    "description": "Pitfall: Incorrectly calculates the net force or acceleration on the incline, leading to wrong speed at P.",
+    "weight": -2
+  }
+]

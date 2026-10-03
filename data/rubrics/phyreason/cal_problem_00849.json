@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum deflection voltage",
+    "description": "Essential: The student must state the correct voltage U = 400 V for maximum deflection angle.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: The solution must apply kinematics in the electric field to relate vertical acceleration, plate length, and initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity after electric field",
+    "description": "Important: The solution must correctly calculate the final speed v after acceleration, using v = v0 / cosθ or energy methods.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force balance",
+    "description": "Important: The solution must apply Newton's second law with the Lorentz force (qvB = mv²/r) to find cyclotron radius.",
+    "weight": 4
+  },
+  {
+    "title": "PQ width for n=1",
+    "description": "Essential: The student must correctly derive the width of the impact region on PQ, likely as 2(r2 - r1) or similar.",
+    "weight": 5
+  },
+  {
+    "title": "Time for infinite n",
+    "description": "Essential: The student must state the correct time t = 2 × 10⁻⁵ s for the particle traversing the magnetic field region.",
+    "weight": 5
+  },
+  {
+    "title": "Path length geometry",
+    "description": "Important: For part (3), the solution must recognize the effective path length s' = s / cosθ in the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student confuses the direction of electric/magnetic forces or misassigns charge polarity.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if final answers lack correct units (Volts, seconds) or have major unit conversion errors.",
+    "weight": -1
+  }
+]

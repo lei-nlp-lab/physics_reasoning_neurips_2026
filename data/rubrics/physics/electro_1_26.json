@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct expression for the work done in changing the separation of the capacitor plates must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance Equation",
+    "description": "Important Criteria: The student should correctly derive the capacitance of the parallel-plate capacitor as C = ε0 π r^2 / d.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student must correctly calculate the initial and final stored energy in the capacitor.",
+    "weight": 4
+  },
+  {
+    "title": "Change in Energy",
+    "description": "Important Criteria: The student should correctly find the change in energy stored in the capacitor as a function of d and d'.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the final expression for work done.",
+    "weight": -2
+  }
+]

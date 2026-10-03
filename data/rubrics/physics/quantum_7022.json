@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 2:1 for the intensity ratio.",
+    "weight": 5
+  },
+  {
+    "title": "Nuclear Spin Explanation",
+    "description": "Important Criteria: The student should explain the significance of the nitrogen nucleus having spin I = 1 and its implications for the total nuclear spin of the molecule.",
+    "weight": 4
+  },
+  {
+    "title": "Degeneracy Calculation",
+    "description": "Important Criteria: The student must correctly derive the degeneracy ratios for the adjacent rotational levels based on the nuclear spin states.",
+    "weight": 4
+  },
+  {
+    "title": "Transition Rule Mention",
+    "description": "Optional Criteria: The student should mention the transition rule of ΔJ = 2 and its relevance to the spectral lines.",
+    "weight": 2
+  },
+  {
+    "title": "Bose-Einstein Statistics",
+    "description": "Important Criteria: The student should discuss how the N2 molecule obeys Bose-Einstein statistics and its effect on the wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as miscalculating the degeneracy or misunderstanding the implications of nuclear spin.",
+    "weight": -2
+  },
+  {
+    "title": "Heat Distribution Consideration",
+    "description": "Optional Criteria: The student may discuss the neglect of heat distribution effects at room temperature in the context of spectral line intensities.",
+    "weight": 1
+  }
+]

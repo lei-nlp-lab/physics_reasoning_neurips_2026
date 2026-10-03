@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum EMF correct",
+    "description": "Essential: The student's answer for part (1) must be 314 V (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Effective EMF correct",
+    "description": "Essential: The student's answer for part (2) must be 157√2 V (or approximately 222 V).",
+    "weight": 5
+  },
+  {
+    "title": "Average EMF correct",
+    "description": "Essential: The student's answer for part (3) must be 200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF correct",
+    "description": "Essential: The student's answer for part (4) must be 157√3 V (or approximately 272 V).",
+    "weight": 5
+  },
+  {
+    "title": "Applies Faraday's Law",
+    "description": "Important: The solution correctly uses the formula for maximum EMF (Em = n B A ω) or Faraday's law for the average EMF.",
+    "weight": 3
+  },
+  {
+    "title": "Uses sinusoidal relationships",
+    "description": "Important: The solution correctly relates maximum, effective (RMS), and instantaneous values for a sinusoidal AC voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Calculates time interval",
+    "description": "Important: For the average EMF, the solution correctly calculates the time for a quarter rotation (Δt = π/(2ω)).",
+    "weight": 2
+  },
+  {
+    "title": "Correct flux change",
+    "description": "Important: For the average EMF, the solution correctly identifies the change in magnetic flux (ΔΦ = B * A) for a quarter turn.",
+    "weight": 2
+  },
+  {
+    "title": "Pitfall: Wrong angular argument",
+    "description": "Pitfall: Using sin(ωt) instead of cos(ωt) for the instantaneous EMF, given the initial position, or mis-evaluating the cosine of 30 degrees.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Unit omission",
+    "description": "Pitfall: Final answers are provided without the correct SI unit (Volts).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer Neutrino Types",
+    "description": "Essential Criteria: Provide the correct final answer for the two kinds of neutrinos.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Interaction Cross Section",
+    "description": "Essential Criteria: Provide the correct final answer for the interaction cross section of neutrinos.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Pion Reactions",
+    "description": "Essential Criteria: Write down the correct reactions for neutrino interactions producing pions with protons and neutrons.",
+    "weight": 5
+  },
+  {
+    "title": "Define Helicity",
+    "description": "Important Criteria: Accurately define helicity and state its values for neutrinos and antineutrinos.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Mode Analysis",
+    "description": "Important Criteria: Explain why the given decay modes of muon cannot proceed naturally.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors in Reactions",
+    "description": "Pitfall Criteria: Watch for incorrect reactions or missing particles in neutrino interactions.",
+    "weight": -2
+  },
+  {
+    "title": "Units in Cross Section",
+    "description": "Optional Criteria: Ensure the correct units are used for the interaction cross section.",
+    "weight": 2
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Optional Criteria: Reference conservation laws relevant to the decay modes discussed.",
+    "weight": 2
+  }
+]

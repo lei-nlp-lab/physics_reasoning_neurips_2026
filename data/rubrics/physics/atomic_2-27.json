@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maximum Binding Energy",
+    "description": "Essential Criteria: Identify the maximum of the binding energy per nucleon curve accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Release Calculation",
+    "description": "Essential Criteria: Estimate the energy release per fission of 235U correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb Repulsion",
+    "description": "Essential Criteria: State that Coulomb repulsion is the force responsible for the curve's form in the upper mass region.",
+    "weight": 5
+  },
+  {
+    "title": "Curve Description",
+    "description": "Important Criteria: Explain the behavior of the binding energy curve as mass number increases.",
+    "weight": 4
+  },
+  {
+    "title": "Fission Explanation",
+    "description": "Important Criteria: Describe how nuclear fission relates to the binding energy curve.",
+    "weight": 4
+  },
+  {
+    "title": "Units and Accuracy",
+    "description": "Optional Criteria: Use appropriate units and provide accurate values in MeV.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as incorrect mass number or energy calculations.",
+    "weight": -2
+  }
+]

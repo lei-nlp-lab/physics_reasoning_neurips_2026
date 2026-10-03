@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the ground state energy E.",
+    "weight": 5
+  },
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must provide the correct normalized wave function psi(r).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Boundary Conditions",
+    "description": "Important Criteria: The student must correctly apply the boundary conditions at r = a and r = b.",
+    "weight": 4
+  },
+  {
+    "title": "K Value Derivation",
+    "description": "Important Criteria: The student must derive the correct values for K based on the boundary conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Condition",
+    "description": "Important Criteria: The student must correctly apply the normalization condition to find the constant A.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the expressions for K or E.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must ensure that all factors in the wave function and energy expressions are included.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios for additional insight.",
+    "weight": 1
+  }
+]

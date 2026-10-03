@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Fall time calculation",
+    "description": "Essential: Correctly calculates the time to fall using t = √(2h/g) or equivalent kinematic equation.",
+    "weight": 5
+  },
+  {
+    "title": "Impact speed calculation",
+    "description": "Essential: Correctly calculates the final speed using v = gt or v = √(2gh).",
+    "weight": 5
+  },
+  {
+    "title": "Last-second displacement",
+    "description": "Important: Correctly finds the displacement during the last second by subtracting the distance fallen in (t-1) seconds from the total height.",
+    "weight": 4
+  },
+  {
+    "title": "Average speed in last second",
+    "description": "Essential: Correctly computes the average speed as the last-second displacement divided by 1 second.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: Uses consistent units (e.g., meters, seconds, m/s) and converts mass correctly if needed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Uses incorrect sign for acceleration due to gravity in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting last second",
+    "description": "Pitfall: Attempts to calculate average speed in the last second using (initial+final)/2 without correct displacement.",
+    "weight": -1
+  }
+]

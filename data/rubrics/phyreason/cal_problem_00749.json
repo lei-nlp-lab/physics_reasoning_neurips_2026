@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at tightening",
+    "description": "Essential: Correctly calculates the speed when the harness begins to tighten, using energy conservation or kinematics (v = sqrt(2gL) = 10 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Total fall time",
+    "description": "Important: Identifies the total time gravity acts as the sum of free-fall time (t0 = v/g) and the tightening time (t).",
+    "weight": 4
+  },
+  {
+    "title": "Gravitational impulse magnitude",
+    "description": "Essential: Correctly computes the impulse due to gravity as I = mg(t + t0) = 1200 N·s.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum application",
+    "description": "Important: Applies the impulse-momentum theorem to relate the net impulse to the change in momentum during the tightening phase.",
+    "weight": 3
+  },
+  {
+    "title": "Average force calculation",
+    "description": "Essential: Correctly determines the average impulsive force on the belt using F = I / t = 1200 N, where I is the impulse from tension.",
+    "weight": 5
+  },
+  {
+    "title": "Force pair recognition",
+    "description": "Optional: Notes that the average force on the belt equals the average tension force on the worker by Newton's third law.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misinterprets impulse or force as a scalar without consistent sign convention for direction.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect time interval",
+    "description": "Pitfall: Uses only the tightening time (t) for the gravitational impulse, omitting the free-fall time.",
+    "weight": -2
+  }
+]

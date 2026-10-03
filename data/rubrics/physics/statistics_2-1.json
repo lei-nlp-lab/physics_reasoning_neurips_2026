@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Probability Function",
+    "description": "Essential Criteria: The final expression for p(x) must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Equation",
+    "description": "Important Criteria: The student must correctly state and use the energy conservation equation for the harmonic oscillator.",
+    "weight": 4
+  },
+  {
+    "title": "Period Calculation",
+    "description": "Important Criteria: The calculation of the period T must be correctly derived from the integral involving the potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Probability Density Form",
+    "description": "Important Criteria: The form of the probability density function must be consistent with the derived expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Integration Limits",
+    "description": "Pitfall Criteria: The student must ensure that the integration limits for the period calculation are correctly set from -l to l.",
+    "weight": -1
+  }
+]

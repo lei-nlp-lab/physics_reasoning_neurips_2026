@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Electric Field Inside",
+    "description": "Essential Criteria: The student must correctly derive the electric field inside the sphere as E1 = (3*epsilon2/(epsilon1 + 2*epsilon2)) * E.",
+    "weight": 5
+  },
+  {
+    "title": "Final Electric Field Outside",
+    "description": "Essential Criteria: The student must correctly derive the electric field outside the sphere as E2 = E + ((epsilon1 - epsilon2)/(epsilon1 + 2*epsilon2)) * a^3 * [3*(E . r)*r/r^5 - E/r^3].",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should apply the correct boundary conditions at r = a and as r approaches infinity.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Functions",
+    "description": "Important Criteria: The student should express the potentials Phi1 and Phi2 correctly using Legendre polynomials.",
+    "weight": 3
+  },
+  {
+    "title": "Symmetry Consideration",
+    "description": "Important Criteria: The student should recognize the symmetry of the problem and use it to simplify the analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the derivation of electric fields and potentials.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as dielectric constants, are included in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may explore alternative methods or approximations to verify the results.",
+    "weight": 1
+  }
+]

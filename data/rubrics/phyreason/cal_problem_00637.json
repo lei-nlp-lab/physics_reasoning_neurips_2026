@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct distance expression",
+    "description": "Essential: The final answer for part (1) must be x = vt - (mv³)/(2P).",
+    "weight": 5
+  },
+  {
+    "title": "Correct radius expression",
+    "description": "Essential: The final answer for part (2) must be r = v²/(g tan θ).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem, relating the net work (Pt - fx) to the change in kinetic energy (½mv²).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on banked curve",
+    "description": "Important: The solution must correctly resolve forces on the banked track, showing the centripetal force is provided by the horizontal component of the normal force (mg tan θ).",
+    "weight": 4
+  },
+  {
+    "title": "Constant power and force relation",
+    "description": "Important: The solution must identify that at maximum speed v, the traction force equals the resistance force, both equal to P/v.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear algebraic steps to solve the simultaneous equations for x and r.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes a check that the units of the final expressions are correct (meters).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly stating the work done by resistance as positive work, or omitting it from the work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect centripetal force expression",
+    "description": "Pitfall: Using sin θ or cos θ incorrectly in the force balance for the banked curve (e.g., writing N sin θ = mv²/r without establishing N cos θ = mg).",
+    "weight": -2
+  }
+]

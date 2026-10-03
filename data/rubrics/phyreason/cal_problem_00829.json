@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential Criteria: The student's final answer for part (1) must be n = 4/3 (or equivalent decimal).",
+    "weight": 5
+  },
+  {
+    "title": "Correct propagation time",
+    "description": "Essential Criteria: The student's final answer for part (2) must be t = 5R/(3c) (or equivalent simplified form).",
+    "weight": 5
+  },
+  {
+    "title": "Applies Snell's Law correctly",
+    "description": "Important Criteria: The solution must correctly apply Snell's law at point F to relate the incident angle (53°) to the refracted angle α.",
+    "weight": 4
+  },
+  {
+    "title": "Determines angle α geometrically",
+    "description": "Important Criteria: The solution must use the right triangle OEF to find tan α = OF/OE = 3/4, leading to α = 37°.",
+    "weight": 3
+  },
+  {
+    "title": "Analyzes path for ray 2",
+    "description": "Important Criteria: The solution must correctly trace ray 2's symmetric path inside the cylinder, identifying points of refraction/reflection and using geometry to find the total internal path length.",
+    "weight": 4
+  },
+  {
+    "title": "Checks for total internal reflection",
+    "description": "Optional Criteria: The solution may verify that ray 2 undergoes total internal reflection at point D by comparing the incident angle β with the critical angle.",
+    "weight": 2
+  },
+  {
+    "title": "Uses speed relation v=c/n",
+    "description": "Important Criteria: The solution must correctly relate the speed of light in the medium to the refractive index for calculating the propagation time.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or angle misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses θ=37° as the angle of incidence for Snell's law at point F, instead of its complement (53°).",
+    "weight": -2
+  },
+  {
+    "title": "Geometric length error",
+    "description": "Pitfall Criteria: Penalize if the student makes an error in the geometric calculation of the internal path length (e.g., misidentifying triangles OGB or OEH).",
+    "weight": -1
+  }
+]

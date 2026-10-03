@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must correctly identify and state the final answer as (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Conservation",
+    "description": "Important Criteria: The response should demonstrate an understanding of conservation of momentum in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Explanation of Helicity",
+    "description": "Optional Criteria: The student may provide reasoning regarding helicity and its implications in elastic collisions.",
+    "weight": 2
+  },
+  {
+    "title": "Spherical Symmetry Insight",
+    "description": "Optional Criteria: The student could discuss the implications of angular distribution in elastic collisions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misinterpretation",
+    "description": "Pitfall Criteria: The student should avoid misinterpreting the conditions of the collision, such as assuming non-planar trajectories.",
+    "weight": -2
+  }
+]

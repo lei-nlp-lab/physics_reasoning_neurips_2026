@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must provide the correct final answer of approximately 1 ton per cm^3.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Density Equation",
+    "description": "Important Criteria: The student should correctly state and apply the radiant energy density equation u = 4σT^4/c.",
+    "weight": 4
+  },
+  {
+    "title": "Mass-Energy Relation",
+    "description": "Important Criteria: The student must correctly use the mass-energy relation to derive the mass of black body radiation per unit volume.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Conversion",
+    "description": "Optional Criteria: The student should convert units correctly from kg/m^3 to ton/cm^3.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation Accuracy",
+    "description": "Important Criteria: The calculations leading to the final answer must be accurate and correctly executed.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The response should not contain sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors in the calculations.",
+    "weight": -2
+  }
+]

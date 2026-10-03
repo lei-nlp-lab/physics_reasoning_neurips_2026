@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Refractive Index Calculation",
+    "description": "Essential: Correctly calculates the refractive index as √3 (≈1.732) using Snell's law with i=60° and r=30° at point A.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Angle Determination",
+    "description": "Important: Correctly determines the critical angle C using sin C = 1/n, where n is the refractive index from part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Exit Radius Geometry",
+    "description": "Important: Correctly identifies the relevant geometry for the exit radius, relating the horizontal distance from the axis to the critical angle via tangent.",
+    "weight": 4
+  },
+  {
+    "title": "Final Radius Expression",
+    "description": "Essential: Provides the final radius in the requested form: R = (√2 + √6)/2 cm or its decimal equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Angle Identification Error",
+    "description": "Pitfall: Confuses the angles of incidence and refraction at point A (e.g., using 30° for i and 60° for r).",
+    "weight": -2
+  },
+  {
+    "title": "Geometry Setup",
+    "description": "Important: Correctly uses the given lengths (OA=2cm, AB=1cm, BC=√3 cm) to establish the geometric relationships for both parts.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (cm) throughout the calculation and presents the final answer with correct units.",
+    "weight": 1
+  }
+]

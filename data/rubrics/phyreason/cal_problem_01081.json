@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Constant speed distance",
+    "description": "Essential Criteria: The student must correctly calculate the distance traveled by car 1 at constant speed as 5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Time saved",
+    "description": "Essential Criteria: The student must correctly calculate the time saved by car 1 compared to car 2 as 13 s.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration distance calculation",
+    "description": "Important Criteria: The student must correctly apply the kinematic equation v² - u² = 2as to find the deceleration distances for both cars.",
+    "weight": 4
+  },
+  {
+    "title": "Time component breakdown",
+    "description": "Important Criteria: The student must correctly calculate and sum the deceleration, constant speed, and acceleration times for each car's complete journey.",
+    "weight": 4
+  },
+  {
+    "title": "Inclusion of toll time",
+    "description": "Important Criteria: The student must account for the 10 s toll payment time for car 2 in the total time comparison.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's calculations should maintain consistent units (m, s, m/s²) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: The student incorrectly uses positive acceleration for deceleration phases in the kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Distance misinterpretation",
+    "description": "Pitfall Criteria: The student confuses the total distance to the toll station with the distance traveled during deceleration for car 1.",
+    "weight": -1
+  }
+]

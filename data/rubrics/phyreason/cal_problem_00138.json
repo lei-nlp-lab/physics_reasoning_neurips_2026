@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Accelerating voltage",
+    "description": "Essential Criteria: Must state or derive U = mv²/(2q) using energy conservation or work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: Must state or derive E = vB from force balance in the velocity selector.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Important Criteria: Must correctly determine the electric field direction (downward) using right-hand rule or force analysis for a positive charge.",
+    "weight": 3
+  },
+  {
+    "title": "Kinetic energy expression",
+    "description": "Essential Criteria: Must derive or state Ek = ½(2m)v² + qBvd or equivalent, accounting for both initial kinetic energy and work done by magnetic force.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important Criteria: Must apply work-energy theorem correctly to the second particle's trajectory through the velocity selector.",
+    "weight": 4
+  },
+  {
+    "title": "Mass substitution",
+    "description": "Important Criteria: Must correctly substitute mass 2m into kinetic energy term while keeping charge q unchanged.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if work done by magnetic force has wrong sign (magnetic force does no work, but electric force from induced field does).",
+    "weight": -2
+  },
+  {
+    "title": "Direction confusion",
+    "description": "Pitfall Criteria: Penalize if electric field direction is stated as upward or if force directions are reversed.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Check that final expressions have consistent units or include proper units in answers.",
+    "weight": 1
+  }
+]

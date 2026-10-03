@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Formula Derivation",
+    "description": "Essential Criteria: The correct derivation of the formula for W must be shown.",
+    "weight": 5
+  },
+  {
+    "title": "Black Body Calculation",
+    "description": "Essential Criteria: The calculation of W for black bodies at given temperatures must be correctly performed.",
+    "weight": 5
+  },
+  {
+    "title": "General Case for n Plates",
+    "description": "Important Criteria: The derivation for W with n identical black body plates must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Stefan-Boltzmann Law",
+    "description": "Important Criteria: The application of the Stefan-Boltzmann law in calculations must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the final expressions must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors in the equations derived must be checked.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates v_B = 4 m/s using kinematics on the incline with proper acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly determines v_C = 0 m/s from kinematics on BC with friction.",
+    "weight": 5
+  },
+  {
+    "title": "Time CD calculation",
+    "description": "Essential: Correctly computes total time t_CD = (2√7 - 4) s, matching the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Incline acceleration",
+    "description": "Important: Applies Newton's second law on AB to find a₁ = 1 m/s² from F, gravity, and no friction.",
+    "weight": 3
+  },
+  {
+    "title": "BC friction analysis",
+    "description": "Important: Identifies kinetic friction as the sole horizontal force on BC, giving a₂ = 5 m/s².",
+    "weight": 3
+  },
+  {
+    "title": "Two-phase CD motion",
+    "description": "Important: Recognizes two distinct acceleration phases on CD: before and after matching belt speed.",
+    "weight": 4
+  },
+  {
+    "title": "CD accelerations",
+    "description": "Important: Correctly computes a₃ = 10 m/s² (up incline) and a₄ = 2 m/s² (up incline) using forces with belt motion.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Misapplies sign of friction or gravity on CD when belt direction changes, or confuses relative motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s, m/s²) throughout calculations.",
+    "weight": 1
+  }
+]

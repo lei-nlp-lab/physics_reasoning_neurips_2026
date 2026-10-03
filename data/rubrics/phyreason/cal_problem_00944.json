@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Peak emf calculation",
+    "description": "Essential: The student must correctly calculate the peak induced emf using the formula E_m = N B S ω, yielding 50 V.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous emf expression",
+    "description": "Essential: The student must provide the correct instantaneous expression e = 50 cos(10πt) V, including the correct argument for the cosine function.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current effective value",
+    "description": "Essential: The student must calculate the ammeter reading (effective current) as I = E_m / [√2 (R+r)], yielding approximately 1.41 A.",
+    "weight": 5
+  },
+  {
+    "title": "Application of Ohm's Law",
+    "description": "Important: The student must correctly apply Ohm's Law to the total circuit resistance (R + r) when finding the current.",
+    "weight": 3
+  },
+  {
+    "title": "Cosine function argument",
+    "description": "Important: The student must correctly identify that the emf is a cosine function of ωt, given the coil starts parallel to the field.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should demonstrate consistent use of SI units throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect trigonometric function",
+    "description": "Pitfall: Using sine instead of cosine for the instantaneous emf expression, given the stated initial condition.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance omission error",
+    "description": "Pitfall: Forgetting to include the coil's internal resistance 'r' when calculating the total circuit resistance for the current.",
+    "weight": -2
+  }
+]

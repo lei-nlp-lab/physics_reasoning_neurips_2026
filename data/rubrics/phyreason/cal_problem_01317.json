@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum time calculation",
+    "description": "Essential: The final answer for part (1) must be 25 s.",
+    "weight": 5
+  },
+  {
+    "title": "Brushed distance calculation",
+    "description": "Essential: The final answer for part (2) must be 10 m.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration from friction",
+    "description": "Important: Correctly applies Newton's second law to find the deceleration as a = μ₁g for the unbrushed section.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for stopping time",
+    "description": "Important: Uses the correct constant-acceleration kinematics (v = v₀ + at) to solve for the time to stop.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem correctly, accounting for work done by friction over both brushed and unbrushed segments.",
+    "weight": 4
+  },
+  {
+    "title": "Distance variable definition",
+    "description": "Important: Clearly defines the brushed distance (d) and the total distance (s = 30 m) in the work-energy equation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigns positive work to the friction force instead of negative work, leading to a wrong distance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout the calculation and presents final answers with correct units.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum current expression",
+    "description": "Essential: The student must provide the correct formula for the maximum induced current, I_m = nπ²a²B / (R+r).",
+    "weight": 5
+  },
+  {
+    "title": "Average EMF for quarter-turn",
+    "description": "Essential: The student must correctly calculate the average induced EMF during a quarter-turn rotation as 2nπBa².",
+    "weight": 5
+  },
+  {
+    "title": "Charge through load resistor",
+    "description": "Essential: The student must correctly derive the charge passing through R during a quarter-turn as πBa² / (2(R+r)).",
+    "weight": 5
+  },
+  {
+    "title": "External work for full rotation",
+    "description": "Essential: The student must correctly compute the work done by the external force in one full rotation as n²B²π⁴a⁴ / (4(R+r)).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Faraday's Law",
+    "description": "Important: The student must use Faraday's law (Ē = ΔΦ/Δt) correctly to find the average EMF, identifying the correct ΔΦ for the quarter-turn.",
+    "weight": 4
+  },
+  {
+    "title": "Use flux change for charge",
+    "description": "Important: The student must apply the relationship q = ΔΦ / (R_total) for the induced charge, using the total resistance (R+r).",
+    "weight": 4
+  },
+  {
+    "title": "Relate rotation to EMF",
+    "description": "Important: The student must correctly relate rotational speed (n) to angular velocity (ω = 2πn) and maximum EMF (E_m = BSω).",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation for work",
+    "description": "Important: The student must equate the external work to the Joule heat over one period, using the effective EMF (E = E_m/√2).",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect resistance sum",
+    "description": "Pitfall: The student uses only R or only r instead of the total resistance (R+r) in current, charge, or work formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Confuse average and maximum",
+    "description": "Pitfall: The student uses the maximum EMF formula where the average EMF is required, or vice-versa.",
+    "weight": -1
+  }
+]

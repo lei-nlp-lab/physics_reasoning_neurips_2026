@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Equation Derivation",
+    "description": "Essential Criteria: The student must derive the orbit equation in the form given in the question.",
+    "weight": 5
+  },
+  {
+    "title": "Expression for r_0",
+    "description": "Essential Criteria: The student must correctly express r_0 in terms of fundamental constants.",
+    "weight": 5
+  },
+  {
+    "title": "Expression for alpha",
+    "description": "Essential Criteria: The student must correctly express alpha in terms of fundamental constants.",
+    "weight": 5
+  },
+  {
+    "title": "Precession Calculation",
+    "description": "Important Criteria: The student must calculate the precession of Mercury's orbit accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Important Criteria: The student must correctly identify and use the constants involved in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factor usage.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: The student should present final answers in a clear and appropriate format.",
+    "weight": 1
+  }
+]

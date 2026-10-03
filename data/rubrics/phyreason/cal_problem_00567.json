@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Angular velocity calculation",
+    "description": "Essential: Student correctly calculates angular velocity ω = 2πn from given rotational speed (300 rpm).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum EMF expression",
+    "description": "Essential: Student derives maximum EMF Em = NBSω with correct numerical value (50 V).",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF function",
+    "description": "Essential: Student provides correct sinusoidal expression e = 50sin(10πt) V with proper phase (starting from neutral plane).",
+    "weight": 5
+  },
+  {
+    "title": "Time substitution",
+    "description": "Important: Student correctly substitutes t = 1/60 s into instantaneous EMF expression to obtain 25 V.",
+    "weight": 4
+  },
+  {
+    "title": "RMS voltage calculation",
+    "description": "Important: Student correctly computes effective voltage E = Em/√2 (25√2 V).",
+    "weight": 4
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Essential: Student applies Ohm's law I = E/(r+R) to find ammeter reading (3.54 A with 3 sig figs).",
+    "weight": 5
+  },
+  {
+    "title": "Voltmeter reading",
+    "description": "Essential: Student calculates voltage across external resistor U = IR to obtain 31.8 V with 3 sig figs.",
+    "weight": 5
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: Student maintains three significant figures in final numerical answers as requested.",
+    "weight": 2
+  },
+  {
+    "title": "Confusing peak with RMS",
+    "description": "Pitfall: Student uses peak EMF (50 V) instead of RMS value in Ohm's law calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Phase error",
+    "description": "Pitfall: Student uses cosine function or incorrect phase shift instead of sine for neutral plane start.",
+    "weight": -1
+  }
+]

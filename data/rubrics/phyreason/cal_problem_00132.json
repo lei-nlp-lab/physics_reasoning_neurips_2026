@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct EMF formula",
+    "description": "Essential: Student must apply the formula for effective EMF in a rotating coil: E = NBSω/√2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct EMF calculation",
+    "description": "Essential: Student must compute the numerical value of E correctly, obtaining approximately 6.4 × 10² V.",
+    "weight": 5
+  },
+  {
+    "title": "Output voltage relationship",
+    "description": "Important: Student must recognize that output voltage U equals induced EMF minus internal voltage drop: U = E - Ir.",
+    "weight": 4
+  },
+  {
+    "title": "Output power formula",
+    "description": "Important: Student must correctly apply the power formula P = IU or its equivalent P = I(E - Ir).",
+    "weight": 4
+  },
+  {
+    "title": "Correct power calculation",
+    "description": "Essential: Student must compute the numerical value of P correctly, obtaining approximately 3.1 × 10⁴ W.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent SI units throughout the calculation and includes correct units in final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Confusing peak with effective",
+    "description": "Pitfall: Student incorrectly uses peak EMF (NBSω) instead of effective value, forgetting the √2 factor.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in voltage drop",
+    "description": "Pitfall: Student incorrectly writes U = E + Ir, adding instead of subtracting the internal voltage drop.",
+    "weight": -1
+  }
+]

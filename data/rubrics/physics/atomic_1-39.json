@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Neutrino Energy",
+    "description": "Essential Criteria: The response must include the correct energy of the neutrino in beta decay, approximately 1 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Lifetime Dependence",
+    "description": "Essential Criteria: The response must correctly state the dependence of the lifetime on atomic number Z as tau proportional to Z^-4.",
+    "weight": 5
+  },
+  {
+    "title": "Electron Configuration",
+    "description": "Essential Criteria: The response must provide the correct electron configuration for atomic oxygen as 1s^2 2s^2 2p^4.",
+    "weight": 5
+  },
+  {
+    "title": "Total Spin and Angular Momentum",
+    "description": "Important Criteria: The response should include the correct values for total spin S, total orbital angular momentum L, and total angular momentum J.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Derivations",
+    "description": "Important Criteria: The response should demonstrate understanding of the derivation of the lifetime dependence on Z, including relevant equations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as incorrect signs or misinterpretation of the relationship between A and tau.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should check for consistency in units when discussing energy and lifetime.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Routes",
+    "description": "Optional Criteria: The response may include alternative methods or reasoning for arriving at the final answers.",
+    "weight": 1
+  }
+]

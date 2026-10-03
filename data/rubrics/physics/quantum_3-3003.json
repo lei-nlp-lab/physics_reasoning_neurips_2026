@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Eigenvalues",
+    "description": "Essential Criteria: The student must correctly list the eigenvalues of M^2 with their corresponding multiplicities.",
+    "weight": 5
+  },
+  {
+    "title": "Commutation Justification",
+    "description": "Important Criteria: The student should explain that M^2 commutes with M_x, allowing for the selection of common eigenstates.",
+    "weight": 4
+  },
+  {
+    "title": "Eigenvalue Calculation",
+    "description": "Important Criteria: The student must derive the eigenvalues of M^2 from the eigenvalues of M_x using the relation M^2 = m(m + 1).",
+    "weight": 4
+  },
+  {
+    "title": "Multiplicity Count",
+    "description": "Important Criteria: The student should accurately count and state the multiplicities of each eigenvalue for M^2.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that the units of the eigenvalues are consistent with the physical context of the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating eigenvalues from M_x.",
+    "weight": -2
+  },
+  {
+    "title": "Total Count Verification",
+    "description": "Optional Criteria: The student should verify that the total number of eigenvalues sums to 256.",
+    "weight": 1
+  }
+]

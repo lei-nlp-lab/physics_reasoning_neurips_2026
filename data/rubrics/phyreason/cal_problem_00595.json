@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential Criteria: Student must calculate μ = 0.5 from the first scenario using equilibrium conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final friction force",
+    "description": "Essential Criteria: Student must determine the friction force is 20 N in the second scenario, recognizing it equals the horizontal component.",
+    "weight": 5
+  },
+  {
+    "title": "First scenario equilibrium analysis",
+    "description": "Important Criteria: Student must apply Newton's first law to both horizontal (F = friction) and vertical (N = mg) directions for constant velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Second scenario normal force",
+    "description": "Important Criteria: Student must correctly calculate the new normal force including the vertical component of the applied force (N = mg + Fsinθ).",
+    "weight": 4
+  },
+  {
+    "title": "Force component decomposition",
+    "description": "Important Criteria: Student must resolve the angled force into horizontal (Fcosθ) and vertical (Fsinθ) components using given trigonometric values.",
+    "weight": 3
+  },
+  {
+    "title": "Static vs kinetic friction check",
+    "description": "Important Criteria: Student must compare the required friction (Fcosθ) to maximum static friction to confirm motion type.",
+    "weight": 2
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional Criteria: Student should include proper units (no units for μ, N for force) in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Using wrong friction type",
+    "description": "Pitfall Criteria: Penalize if student uses kinetic friction formula without checking if horizontal force exceeds maximum static friction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall Criteria: Penalize if student subtracts the vertical force component when calculating normal force (N = mg - Fsinθ).",
+    "weight": -1
+  }
+]

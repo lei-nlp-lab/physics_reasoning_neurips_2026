@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity change direction",
+    "description": "Essential: The answer must state that the satellite's speed decreases from perigee A to apogee B.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration at perigee",
+    "description": "Essential: The final expression for acceleration at A must be correct: a_A = gR²/(R+h)².",
+    "weight": 5
+  },
+  {
+    "title": "Period ratio expression",
+    "description": "Essential: The final ratio T1/T2 must be correctly expressed in terms of given variables ω, g, R, h.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Kepler's second law",
+    "description": "Important: The reasoning for part (1) should correctly invoke conservation of angular momentum or Kepler's second law.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's law at Earth's surface",
+    "description": "Important: The solution must use GM = gR² to eliminate the gravitational constant G.",
+    "weight": 4
+  },
+  {
+    "title": "Circular orbit radius",
+    "description": "Important: For part (3), the radius L of the circular orbit must be derived from ω²L = GM/L².",
+    "weight": 4
+  },
+  {
+    "title": "Semi-major axis identification",
+    "description": "Important: For the elliptical orbit, the semi-major axis must be correctly identified as (r_A + r_B)/2.",
+    "weight": 3
+  },
+  {
+    "title": "Apply Kepler's third law",
+    "description": "Important: The ratio of periods must be derived using Kepler's third law relating T² to a³.",
+    "weight": 4
+  },
+  {
+    "title": "Confuse radius and distance",
+    "description": "Pitfall: Using R instead of (R+h) for the distance from Earth's center at perigee A.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Stating speed increases from A to B, or confusing tangential/centripetal acceleration.",
+    "weight": -1
+  }
+]

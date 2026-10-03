@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct final answer for the distance is provided as R^2/(2λ).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Diffraction",
+    "description": "Important Criteria: The response demonstrates an understanding of the diffraction pattern created by the circular hole.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Parameters",
+    "description": "Important Criteria: The response correctly identifies and uses the parameters λ and R in the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Important Criteria: The response includes key reasoning steps leading to the final answer, such as applying the small angle approximation.",
+    "weight": 3
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: The response checks that the final answer has the correct units for distance.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response avoids common errors such as incorrect application of the diffraction formula or sign mistakes.",
+    "weight": -2
+  }
+]

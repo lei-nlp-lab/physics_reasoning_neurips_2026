@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Boundary Conditions",
+    "description": "Essential Criteria - The response must correctly state the boundary conditions for the wave function at x = na.",
+    "weight": 5
+  },
+  {
+    "title": "Transcendental Equation",
+    "description": "Essential Criteria - The student must provide the correct transcendental equation relating k and K.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Form",
+    "description": "Important Criteria - The wave function for the region 0 <= x <= a must be correctly expressed and normalized.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Behavior",
+    "description": "Important Criteria - The response should explain the behavior of the wave function in the region between x = a and x = a + b.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Gap Identification",
+    "description": "Important Criteria - The student must identify the energy at which the first gap begins and provide the correct expression.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in the boundary conditions or wave function expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Normalization Issues",
+    "description": "Pitfall Criteria - Look for errors in normalization of the wave function, particularly at x = 0.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - Ensure that all necessary factors, such as constants or coefficients, are included in the equations.",
+    "weight": -2
+  }
+]

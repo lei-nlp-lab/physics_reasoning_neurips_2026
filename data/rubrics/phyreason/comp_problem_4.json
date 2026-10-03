@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final answer (a)",
+    "description": "Essential: The pin distance for part (a) is correctly stated as 15 cm from the silvered surface.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final answer (b)",
+    "description": "Essential: The shift distance for part (b) is correctly stated as approximately 1.15 cm or 1.16 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Effective focal length",
+    "description": "Important: Correctly calculates the effective focal length of the silvered lens system using the lens maker's formula and mirror formula.",
+    "weight": 4
+  },
+  {
+    "title": "Refraction at water interface",
+    "description": "Important: For part (b), correctly accounts for the apparent shift of the pin's position due to the water layer using the concept of apparent depth.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention application",
+    "description": "Important: Applies a consistent sign convention for object and image distances and radii of curvature throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "System equivalence reasoning",
+    "description": "Optional: Recognizes the system as a combination of a refracting surface and a mirror, and sets up the condition for the image to coincide with the object.",
+    "weight": 2
+  },
+  {
+    "title": "Algebraic solving",
+    "description": "Optional: Shows clear algebraic steps to solve for the unknown object distances in parts (a) and (b).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or radius error",
+    "description": "Pitfall: Uses an incorrect sign for the concave radius of curvature (R2 = -60 cm) or for the image distance after refraction.",
+    "weight": -2
+  },
+  {
+    "title": "Apparent depth mistake",
+    "description": "Pitfall: Incorrectly applies the apparent depth formula (e.g., using real depth over refractive index) when accounting for the water layer in part (b).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Period for Orbit",
+    "description": "Essential Criteria: The student must provide the correct expression for the period tau in the presence of dust perturbation.",
+    "weight": 5
+  },
+  {
+    "title": "Final Period for Oscillations",
+    "description": "Essential Criteria: The student must provide the correct expression for the period of radial oscillations tau_osc.",
+    "weight": 5
+  },
+  {
+    "title": "Effective Potential",
+    "description": "Important Criteria: The student should derive or mention the effective potential V_eff and its significance in the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Conservation",
+    "description": "Important Criteria: The student should correctly apply the conservation of angular momentum in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Analysis",
+    "description": "Important Criteria: The student must correctly analyze the perturbation due to the dust and its effect on the orbital period.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student may incorrectly handle signs in the equations, particularly in the perturbation terms.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student might omit necessary factors when deriving the final expressions for tau and tau_osc.",
+    "weight": -2
+  }
+]

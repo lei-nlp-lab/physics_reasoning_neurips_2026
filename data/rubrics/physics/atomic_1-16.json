@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Temperature Estimate",
+    "description": "Essential Criteria: The student provides a correct numerical estimate for the temperature T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of k",
+    "description": "Important Criteria: The student correctly derives the de Broglie wave number k in terms of temperature T.",
+    "weight": 4
+  },
+  {
+    "title": "Condition Application",
+    "description": "Important Criteria: The student correctly applies the condition ka <= 1 to derive the temperature limit.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Constants",
+    "description": "Important Criteria: The student uses the correct values for the mass of hydrogen, Boltzmann constant, and Planck's constant.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student makes a sign mistake in any of the equations leading to the final result.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student omits any necessary factors or constants in the calculations.",
+    "weight": -2
+  }
+]

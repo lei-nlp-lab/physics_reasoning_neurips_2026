@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final velocity",
+    "description": "Essential Criteria: The student's final numerical answer for the car's speed must be 30 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler equations setup",
+    "description": "Important Criteria: The student must correctly write the Doppler effect equations for the approaching (f_approach = f_source * (c/(c - v_s))) and receding (f_recede = f_source * (c/(c + v_s))) scenarios, identifying 1200 Hz and 1000 Hz as the observed frequencies.",
+    "weight": 4
+  },
+  {
+    "title": "Source frequency elimination",
+    "description": "Important Criteria: The student must demonstrate eliminating the unknown source frequency (or wavelength) by taking the ratio of the two Doppler equations or solving a system.",
+    "weight": 3
+  },
+  {
+    "title": "Correct algebraic manipulation",
+    "description": "Important Criteria: The student must correctly solve the resulting equation for the source speed v_s, showing clear algebraic steps.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's work should use consistent units (m/s for speed, Hz for frequency) and the final answer should include the correct unit.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in Doppler formula",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly swaps the signs in the Doppler formula denominators (e.g., using c+v for approaching).",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying observed frequencies",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns 1200 Hz and 1000 Hz to the wrong scenario (approaching vs. receding).",
+    "weight": -2
+  }
+]

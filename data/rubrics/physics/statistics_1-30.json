@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature of Neptune must be correctly calculated as 52 K.",
+    "weight": 5
+  },
+  {
+    "title": "Assumptions Stated",
+    "description": "Important Criteria: The student should clearly state reasonable assumptions about Neptune's surface and atmosphere.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Equations",
+    "description": "Important Criteria: The student must use the correct equations for radiation flux and equilibrium conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The student should show all necessary steps in the calculation leading to the final answer.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of constants.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or alternative methods for estimating temperature.",
+    "weight": 1
+  }
+]

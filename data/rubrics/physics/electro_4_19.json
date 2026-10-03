@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Polarization",
+    "description": "Essential Criteria: The student must correctly identify the polarization of the reflected light as elliptically polarized.",
+    "weight": 5
+  },
+  {
+    "title": "Final Intensity Ratio",
+    "description": "Essential Criteria: The student must provide the correct expression for the intensity ratio I''/I.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Maxwell's Equations",
+    "description": "Important Criteria: The student should demonstrate the application of Maxwell's equations to derive the boundary conditions for E and H fields.",
+    "weight": 4
+  },
+  {
+    "title": "Component Decomposition",
+    "description": "Important Criteria: The student must correctly decompose the incident light into left-hand and right-hand circularly polarized components.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection Coefficients",
+    "description": "Optional Criteria: The student may derive the reflection coefficients for left and right circularly polarized light.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Accuracy",
+    "description": "Pitfall Criteria: The student should avoid common errors in algebraic manipulation or sign mistakes in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Free Energy",
+    "description": "Essential Criteria: The expression for the free energy F must be correctly derived and include the dependence on volume V1.",
+    "weight": 5
+  },
+  {
+    "title": "Total Entropy Expression",
+    "description": "Essential Criteria: The total entropy S must be correctly expressed in terms of P1, P2, T, and N.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Change Calculation",
+    "description": "Important Criteria: The change in entropy ΔS must be explicitly calculated after mixing and should reflect the correct physical principles.",
+    "weight": 4
+  },
+  {
+    "title": "Special Case Check",
+    "description": "Optional Criteria: The response should include a check for the special case where V1 equals V2, confirming that ΔS equals zero.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Units",
+    "description": "Pitfall Criteria: Ensure that all terms in the final expressions have consistent units; any unit mistakes will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign errors in the derivation of ΔS; incorrect signs will lead to a deduction.",
+    "weight": -2
+  }
+]

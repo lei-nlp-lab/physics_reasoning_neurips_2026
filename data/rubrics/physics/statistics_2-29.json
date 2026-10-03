@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Probabilities",
+    "description": "Essential Criteria: The student must provide the correct ratio of probabilities for H+, H0, and H- as 1 : 2e^371 : e^240.",
+    "weight": 5
+  },
+  {
+    "title": "Work Function Value",
+    "description": "Essential Criteria: The student must correctly identify the work function value that gives equal probabilities to H0 and H- as 0.6 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Chemical Equilibrium Conditions",
+    "description": "Important Criteria: The student should demonstrate understanding of the chemical equilibrium conditions involving chemical potentials.",
+    "weight": 4
+  },
+  {
+    "title": "Statistical Mechanics Application",
+    "description": "Important Criteria: The student must correctly apply statistical mechanics principles to derive the probabilities of H+, H0, and H-.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all energy values are expressed in consistent units (eV).",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the chemical potential calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Significant Figures",
+    "description": "Pitfall Criteria: The student must provide answers with the correct number of significant figures, specifically one significant figure.",
+    "weight": -1
+  }
+]

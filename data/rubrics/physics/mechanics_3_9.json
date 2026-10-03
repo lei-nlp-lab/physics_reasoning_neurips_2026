@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lorentz Transformation",
+    "description": "Essential Criteria: Provide the correct Lorentz transformation for the position 4-vector.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Transformation",
+    "description": "Essential Criteria: Derive the transformation for the momentum 4-vector correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Effect Approaching",
+    "description": "Important Criteria: Show the correct expression for the Doppler effect when the source and observer are approaching.",
+    "weight": 4
+  },
+  {
+    "title": "Doppler Effect Receding",
+    "description": "Important Criteria: Show the correct expression for the Doppler effect when the source and observer are receding.",
+    "weight": 4
+  },
+  {
+    "title": "Doppler Effect Perpendicular",
+    "description": "Important Criteria: Show the correct expression for the Doppler effect when the source and observer are in perpendicular directions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the transformations and final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as gamma, are included in the final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check that units are consistent throughout the derivations and final expressions.",
+    "weight": 2
+  }
+]

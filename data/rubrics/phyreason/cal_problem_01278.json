@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity calculation",
+    "description": "Essential: The response must give the final velocity as 5100 m/s (or equivalent in scientific notation).",
+    "weight": 5
+  },
+  {
+    "title": "Final height calculation",
+    "description": "Essential: The response must give the final height as 2.655 × 10⁵ m (or 265500 m).",
+    "weight": 5
+  },
+  {
+    "title": "First-stage kinematics",
+    "description": "Important: Correctly calculates the velocity (600 m/s) and displacement (9000 m) at the end of the first 30-second burn.",
+    "weight": 3
+  },
+  {
+    "title": "Second-stage kinematics",
+    "description": "Important: Correctly applies v = v₀ + at and an appropriate displacement formula (e.g., average velocity method) for the 60-second second-stage burn.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement summation",
+    "description": "Important: Adds the displacement from the first and second stages to find the total height.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (m/s, m) with final answers and maintains unit consistency in intermediate steps.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses a negative value for the upward acceleration, or incorrectly treats the motion as deceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Stage time confusion",
+    "description": "Pitfall: Uses the wrong time interval (e.g., 90 s instead of 60 s) for the second-stage acceleration calculation.",
+    "weight": -2
+  }
+]

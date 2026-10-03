@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer, which is (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Strangeness",
+    "description": "Important Criteria: The student should explain the conservation of strangeness in strong interactions and its violation in weak interactions.",
+    "weight": 4
+  },
+  {
+    "title": "Explanation of Decay",
+    "description": "Important Criteria: The student must clarify that strange particles decay via weak interactions.",
+    "weight": 3
+  },
+  {
+    "title": "Creation Process",
+    "description": "Optional Criteria: The student may discuss how strange particles can be created from zero strangeness states through strong interactions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid stating that strange particles cannot exist, as this is incorrect.",
+    "weight": -2
+  }
+]

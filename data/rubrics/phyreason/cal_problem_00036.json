@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Linear acceleration magnitude",
+    "description": "Essential: The final answer for part (1) must be 4 m/s², derived from kinematic equations for uniformly accelerated motion from rest.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force magnitude",
+    "description": "Essential: The final answer for part (2) must be approximately 1430.8 N, calculated correctly using F = m v² / r.",
+    "weight": 5
+  },
+  {
+    "title": "Body angle magnitude",
+    "description": "Essential: The final answer for part (3) must be 27°, obtained from the inverse tangent of the ratio mg / F_centripetal.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Important: For part (1), the student must correctly apply the equation s = (1/2) a t² for motion starting from rest.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: For part (3), the student must recognize that tan θ = (gravitational force) / (centripetal force) for the described equilibrium condition.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be presented with correct SI units (m/s², N, degrees).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect kinematic equation",
+    "description": "Pitfall: Using v = a t or s = v t for part (1) without accounting for starting from rest, leading to a wrong acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Confusing the angle or its trigonometric function (e.g., using sin or cos instead of tan, or inverting the force ratio).",
+    "weight": -1
+  }
+]

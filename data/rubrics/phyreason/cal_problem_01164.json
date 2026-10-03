@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension in rope OA",
+    "description": "Essential: Correctly calculates the tension F_T1 as 10 N from equilibrium of slider A.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on E",
+    "description": "Essential: Correctly calculates the kinetic friction force F_f5 between E and the ground as 5.2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Applied force F",
+    "description": "Essential: Correctly calculates the magnitude of the applied horizontal force F as 28 N.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force chain",
+    "description": "Important: Correctly builds the chain of normal forces from A down to E using vertical equilibrium for each block or group.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal equilibrium",
+    "description": "Important: Applies horizontal force equilibrium correctly for each block, relating tensions and friction forces.",
+    "weight": 4
+  },
+  {
+    "title": "Friction law application",
+    "description": "Important: Correctly applies the kinetic friction law (f = μN) for each interface using the appropriate normal force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Reverses the direction of a friction force or tension in an equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force mistake",
+    "description": "Pitfall: Fails to account for the weight of all blocks above when calculating a normal force between two specific blocks.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows consistent use of units (N, kg, m/s²) and trigonometric values (sin37°, cos37°).",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Projectile time correct",
+    "description": "Essential Criteria: Student correctly uses vertical displacement H and gravitational acceleration g to find the time of flight t.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity magnitude",
+    "description": "Essential Criteria: Student correctly calculates the initial horizontal velocity v0 from the horizontal displacement x and the time of flight t.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force relation",
+    "description": "Important Criteria: Student identifies that the friction force provides the centripetal force at the point of slipping, setting μmg = m(v0^2)/R.",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient calculation",
+    "description": "Essential Criteria: Student correctly solves for the coefficient of kinetic friction μ using the relation μ = v0^2/(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Correct value substitution",
+    "description": "Important Criteria: Student correctly substitutes the given numerical values (R, H, x, g) into the derived equations.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional Criteria: Student includes correct units (m/s for velocity, dimensionless for μ) with their final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses vertical/horizontal motion",
+    "description": "Pitfall Criteria: Student incorrectly uses the vertical height H in the horizontal displacement equation (x = v0*t) or vice-versa.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in projectile time",
+    "description": "Pitfall Criteria: Student uses an incorrect kinematic equation for vertical fall (e.g., H = gt^2 instead of H = (1/2)gt^2).",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifies centripetal force",
+    "description": "Pitfall Criteria: Student incorrectly states the centripetal force formula (e.g., uses angular velocity incorrectly) or misidentifies the force causing it.",
+    "weight": -1
+  }
+]

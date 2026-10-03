@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final answer length",
+    "description": "Essential Criteria: The response must state the correct length of the black mark as 8 m.",
+    "weight": 5
+  },
+  {
+    "title": "Block acceleration correct",
+    "description": "Important Criteria: The response must correctly calculate the block's acceleration as a = μg = 2 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Belt kinematics phases",
+    "description": "Important Criteria: The response must correctly analyze the belt's motion in two phases: accelerated (until v0) and constant velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion condition",
+    "description": "Important Criteria: The response must identify that slipping stops when the block's velocity equals the belt's constant velocity v0.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement difference method",
+    "description": "Important Criteria: The response must calculate the mark length as the difference in displacements (belt minus block) during the slipping period.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculations",
+    "description": "Optional Criteria: The response may show correct calculations for the time the belt accelerates (2 s) and the additional time for the block to catch up (2 s).",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The response may demonstrate consistent use of SI units (m, s, m/s²) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the relative displacement is incorrectly calculated (e.g., block displacement greater than belt's) or if acceleration directions are confused.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction force",
+    "description": "Pitfall Criteria: Penalize if the kinetic friction force is miscalculated (e.g., using static coefficient or wrong normal force).",
+    "weight": -2
+  }
+]

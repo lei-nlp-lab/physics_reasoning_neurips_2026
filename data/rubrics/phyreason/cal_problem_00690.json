@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct magnetic flux formula",
+    "description": "Essential Criteria: Student must correctly apply Φ = B·A·sinθ for the square loop.",
+    "weight": 5
+  },
+  {
+    "title": "Square loop area calculation",
+    "description": "Important Criteria: Student must compute the area of the square as (L/4)² = L²/16.",
+    "weight": 4
+  },
+  {
+    "title": "Final answer for part (1)",
+    "description": "Essential Criteria: Student must arrive at Φ = (B L² sinθ)/16.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum area recognition",
+    "description": "Important Criteria: Student must recognize that maximum flux occurs when the loop is a circle (maximum area for given perimeter).",
+    "weight": 4
+  },
+  {
+    "title": "Circle area calculation",
+    "description": "Important Criteria: Student must correctly compute the circle's radius from L = 2πr and area A = πr² = L²/(4π).",
+    "weight": 4
+  },
+  {
+    "title": "Final answer for part (2)",
+    "description": "Essential Criteria: Student must arrive at Φ_m = B L²/(4π).",
+    "weight": 5
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall Criteria: Using cosθ instead of sinθ for the flux through the inclined plane.",
+    "weight": -2
+  },
+  {
+    "title": "Perimeter-area confusion",
+    "description": "Pitfall Criteria: Incorrectly relating wire length to side length (e.g., using L as side length instead of perimeter).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Explicitly verifying that both final expressions have correct units of magnetic flux (Wb).",
+    "weight": 1
+  }
+]

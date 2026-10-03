@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocities at t₀",
+    "description": "Essential: Correctly calculates the block's velocity (2 m/s) and the plank's velocity (3 m/s) at t=1.0 s.",
+    "weight": 5
+  },
+  {
+    "title": "Total motion times",
+    "description": "Essential: Correctly states the total motion time for the block (2.2 s) and for the plank (1.65 s).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum plank length",
+    "description": "Essential: Correctly calculates the minimum length L of the plank as 0.605 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis and accelerations",
+    "description": "Important: Correctly applies Newton's second law to determine accelerations during different phases (e.g., initial sliding, post-force deceleration).",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Correctly analyzes the relative motion between block and plank to find the time they move together and the relative displacements.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic calculations",
+    "description": "Important: Correctly uses kinematic equations to find velocities, displacements, and times for both objects in each phase.",
+    "weight": 3
+  },
+  {
+    "title": "Friction force identification",
+    "description": "Important: Correctly identifies and applies the kinetic friction forces between block-plank and plank-ground, including their directions.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Makes sign errors in acceleration equations or relative velocity calculations, especially after force removal.",
+    "weight": -2
+  },
+  {
+    "title": "Friction confusion",
+    "description": "Pitfall: Confuses when friction is kinetic vs. static, or misapplies friction coefficients to wrong surfaces.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s, m/s², N) throughout all calculations.",
+    "weight": 1
+  }
+]

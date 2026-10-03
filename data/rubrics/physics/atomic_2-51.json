@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The energy of the emitted photon is correctly calculated as approximately 2.234 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Recoil Importance Assessment",
+    "description": "Important Criteria: The analysis correctly concludes that the recoil of the deuteron is negligible compared to the photon energy.",
+    "weight": 4
+  },
+  {
+    "title": "Final Neutron Energy",
+    "description": "Essential Criteria: The energy required for the neutron to undergo capture is accurately determined as 10.32 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Center of Mass Treatment",
+    "description": "Important Criteria: The use of the center-of-mass frame and reduced mass in the calculations is correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Relationship",
+    "description": "Important Criteria: The relationship between the momenta of the neutron and the captured state is correctly established.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units are consistently used throughout the calculations, enhancing clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in energy calculations are avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The approximations made during calculations are clearly justified and reasonable.",
+    "weight": 2
+  }
+]

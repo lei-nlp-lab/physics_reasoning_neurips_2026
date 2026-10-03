@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Force Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the total force on charge +q.",
+    "weight": 5
+  },
+  {
+    "title": "Final Work Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the work done against electrostatic forces.",
+    "weight": 5
+  },
+  {
+    "title": "Final Surface Charge Density",
+    "description": "Essential Criteria: The student must provide the correct expression for the surface charge density at the specified point.",
+    "weight": 5
+  },
+  {
+    "title": "Method of Images",
+    "description": "Important Criteria: The student should correctly apply the method of images to find the forces acting on the charges.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation Steps",
+    "description": "Important Criteria: The student must show the correct integration steps for calculating the work done in assembling the charges.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria: The student should correctly calculate the electric field at the point just above the conducting plane.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in force and work calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

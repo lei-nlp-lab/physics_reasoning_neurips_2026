@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct time for part (1)",
+    "description": "Essential: The final answer for the traversal time when v=4.0 m/s is 2.75 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct extreme velocities",
+    "description": "Essential: The final answers for part (2) are maximum velocity = 4√3 m/s (≈6.928 m/s) and minimum velocity = √2 m/s (≈1.414 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Correct impulse magnitude",
+    "description": "Essential: The final answer for part (3) impulse magnitude is 208.3 N·s.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse direction stated",
+    "description": "Important: The impulse direction is correctly identified as vertically upward.",
+    "weight": 3
+  },
+  {
+    "title": "Friction force analysis",
+    "description": "Important: Correctly identifies the kinetic friction force magnitude as μmg and its direction relative to the relative motion between box and belt.",
+    "weight": 4
+  },
+  {
+    "title": "Multi-stage kinematics",
+    "description": "Important: For parts (1) and (3), correctly segments the motion into acceleration/deceleration phases and constant velocity phases based on relative speeds.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: For part (2), correctly applies the work-energy theorem to find the extreme velocities, considering friction doing positive or negative work.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse-momentum application",
+    "description": "Important: For part (3), correctly applies the impulse-momentum theorem separately for horizontal and vertical components, summing vertical impulse from normal force over time.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error in friction",
+    "description": "Pitfall: Incorrectly assigns the direction of the friction force (e.g., always opposing initial motion, not relative motion between surfaces).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or calculation slip",
+    "description": "Pitfall: Arithmetic or algebraic error in solving kinematic or energy equations, or omitting units in final answers.",
+    "weight": -1
+  }
+]

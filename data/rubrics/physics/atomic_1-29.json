@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer must correctly state the hyperfine splitting energy as 10^{-5} eV.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student must use the correct formula for energy, Delta E = h * nu.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical Calculation",
+    "description": "Important Criteria: The student must correctly calculate the energy using the given frequency value.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect multiplication or unit conversion mistakes.",
+    "weight": -2
+  }
+]

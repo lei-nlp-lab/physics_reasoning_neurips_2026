@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum height for D",
+    "description": "Essential: The release height h must be correctly given as 3R/2 for the ball to just pass point D.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force at C",
+    "description": "Essential: The frictional force exerted by the ground when the ball is at point C must be identified as 3mg (or equivalent) with correct direction.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: The solution must apply conservation of mechanical energy (or work-energy theorem) correctly between release and points C or D.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Important: For part (1), the condition for circular motion at the top (point D) must be stated or used (e.g., N ≥ 0 leading to v_D² ≥ gR).",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at C",
+    "description": "Important: For part (2), the calculation of the normal force from the ball on the block at point C using Newton's second law for circular motion must be shown.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: For part (3), the analysis of projectile motion from D to the incline AE must be set up correctly with horizontal and vertical components.",
+    "weight": 3
+  },
+  {
+    "title": "Height range for landing",
+    "description": "Essential: For part (3), the final answer must correctly state the range of release heights (3R/2 ≤ h ≤ 3R/2 + √3 R/4).",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect sign in energy equation (e.g., wrong potential energy reference) or wrong direction for friction/normal force.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry oversight",
+    "description": "Pitfall: Failing to use the correct geometry (e.g., the 30° incline, horizontal distance from D to E) in the projectile motion calculation for part (3).",
+    "weight": -1
+  }
+]

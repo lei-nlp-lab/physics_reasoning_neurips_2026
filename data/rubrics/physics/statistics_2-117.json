@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Helmholtz Free Energy",
+    "description": "Essential Criteria: Provide the correct thermodynamic definition of the Helmholtz free energy F and define all symbols used.",
+    "weight": 3
+  },
+  {
+    "title": "Partition Function",
+    "description": "Essential Criteria: Provide the correct classical statistical mechanical definition of the partition function Z and define all symbols used.",
+    "weight": 3
+  },
+  {
+    "title": "Relationship Between F and Z",
+    "description": "Essential Criteria: Clearly state the relationship between F and Z as F = -kT ln Z.",
+    "weight": 2
+  },
+  {
+    "title": "Heat Capacity Derivation",
+    "description": "Important Criteria: Correctly derive the expression for heat capacity at constant volume c_v using thermodynamic arguments.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Expression for Z",
+    "description": "Important Criteria: Correctly calculate the partition function Z for the two discrete energy states.",
+    "weight": 3
+  },
+  {
+    "title": "Final Expression for c_v",
+    "description": "Important Criteria: Correctly derive the final expression for c_v in terms of the energy states.",
+    "weight": 4
+  },
+  {
+    "title": "Symbol Definitions",
+    "description": "Optional Criteria: Define all symbols used in the expressions clearly and accurately.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the derivation of c_v and related expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer Part (a)",
+    "description": "Essential Criteria: The student must provide the correct final time for nitrogen to heat up to boiling temperature, approximately 0.22 s.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Part (b)",
+    "description": "Essential Criteria: The student must provide the correct final time for nitrogen with heat shields, approximately 22 s.",
+    "weight": 5
+  },
+  {
+    "title": "Mass Calculation",
+    "description": "Important Criteria: The student should correctly calculate the mass of the nitrogen using the given density and volume formula.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity Calculation",
+    "description": "Important Criteria: The student must compute the heat capacity of the nitrogen accurately using the mass and specific heat.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Flux Equation",
+    "description": "Important Criteria: The student should derive the correct expression for the radiant energy flux from the outer casing to the inner casing.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Equation Setup",
+    "description": "Important Criteria: The student must set up the differential equation relating temperature change to heat transfer correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations, particularly in the heat transfer terms.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Heat Shield Analysis",
+    "description": "Optional Criteria: The student may discuss the impact of the heat shields on the heat transfer rate and time taken.",
+    "weight": 2
+  }
+]

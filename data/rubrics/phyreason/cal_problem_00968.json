@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The response must correctly state the induced electromotive force as E = BLv.",
+    "weight": 5
+  },
+  {
+    "title": "Power of pulling force",
+    "description": "Essential: The response must correctly derive and state the power as P = (B²L²v²)/R.",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat in side ab",
+    "description": "Essential: The response must correctly calculate the Joule heat generated in side ab as Q = (B²L³v)/(4R).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must apply Newton's first law, equating the pulling force to the Ampere force on side ad for constant velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Current and resistance analysis",
+    "description": "Important: The solution must correctly use Ohm's law to find the current and identify the resistance of side ab as R/4.",
+    "weight": 3
+  },
+  {
+    "title": "Time interval identification",
+    "description": "Important: The solution must correctly identify the relevant time interval as t = L/v for the motion described.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect motional EMF formula",
+    "description": "Pitfall: Using an incorrect formula for motional EMF, such as E = Bv or E = BL, should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Introducing an incorrect sign for the induced EMF or current direction, though the magnitude is often the focus, is a common conceptual error.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: A check for dimensional or unit consistency in the final expressions demonstrates deeper understanding.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed at highest point",
+    "description": "Essential Criteria: Correctly calculates the speed at point C using the condition for circular motion at the top (mg = mv_C²/R).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation B to C",
+    "description": "Important Criteria: Applies conservation of mechanical energy between points B and C, accounting for the 2R height difference.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at B",
+    "description": "Important Criteria: Correctly uses Newton's second law at point B to find the normal force from the track (F_N - mg = mv_B²/R).",
+    "weight": 4
+  },
+  {
+    "title": "Pressure at B (Newton's third law)",
+    "description": "Essential Criteria: States that the pressure exerted by the slider on the track equals the normal force calculated at point B.",
+    "weight": 5
+  },
+  {
+    "title": "Spring energy with friction",
+    "description": "Essential Criteria: Correctly applies energy conservation from A to B, equating spring potential energy to kinetic energy at B plus work done against friction.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent units throughout calculations and presents final answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall Criteria: Incorrectly signs the work done by friction or gravitational potential energy terms in energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting friction work",
+    "description": "Pitfall Criteria: Omits the work done against friction (μmgL) when calculating the spring's potential energy.",
+    "weight": -2
+  }
+]

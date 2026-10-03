@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Kinetic energy at A",
+    "description": "Essential: Correct calculation of kinetic energy using E_k = ½mv² with given m=70kg and v=10m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy at A",
+    "description": "Important: Correct calculation of gravitational potential energy using E_p = mgh with h=10m and g=10m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Total mechanical energy",
+    "description": "Essential: Correct sum of kinetic and potential energies at point A (E_A = E_k + E_p).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Recognition that mechanical energy is conserved from A to B (E_A = E_k at B).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correct calculation of v_B from conservation: v_B = √(2E_A/m).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Proper use of SI units (J for energy, m/s for velocity) throughout solution.",
+    "weight": 2
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Optional: Correct simplification to exact form v_B = 10√3 m/s rather than decimal approximation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Using negative potential energy or incorrect sign in energy summation.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity formula error",
+    "description": "Pitfall: Using v_B = √(2gh) instead of v_B = √(2E_A/m), forgetting initial kinetic energy.",
+    "weight": -2
+  }
+]

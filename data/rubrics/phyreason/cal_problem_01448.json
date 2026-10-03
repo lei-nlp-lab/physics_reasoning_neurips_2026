@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct coefficient of friction",
+    "description": "Essential: The student's answer for part (1) must be μ = 0.5.",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity at C",
+    "description": "Essential: The student's answer for part (2) must be v_C = 6 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total time",
+    "description": "Essential: The student's answer for part (3) must be t_total = 3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration on conveyor belt",
+    "description": "Important: The solution must correctly apply kinematics (v² = u² + 2as) or Newton's second law to find the block's acceleration on the belt as 5 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration on the slope",
+    "description": "Important: The solution must correctly apply Newton's second law on the incline, resolving forces to find the net acceleration as 2 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Time on each segment",
+    "description": "Important: The solution must correctly calculate the time for each segment (belt, slope, ground) using appropriate kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Energy or sign error",
+    "description": "Pitfall: Penalize if the student incorrectly assumes energy conservation where friction is present, or misassigns the sign/direction of acceleration on any segment.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution demonstrates consistent use of SI units (m, s, m/s²) throughout the calculation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Period Calculation",
+    "description": "Essential: Correctly calculates the period using T = 2π√(LC) and obtains approximately 6.28×10⁻⁴ s.",
+    "weight": 5
+  },
+  {
+    "title": "Current Trend Analysis",
+    "description": "Essential: Correctly determines whether the current is increasing or decreasing at t=9.0×10⁻³ s.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitor State Analysis",
+    "description": "Essential: Correctly identifies whether the capacitor is charging or discharging at t=9.0×10⁻³ s.",
+    "weight": 5
+  },
+  {
+    "title": "Phase Relationship Application",
+    "description": "Important: Applies the correct phase relationship between capacitor voltage and inductor current in an LC circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Time-Period Comparison",
+    "description": "Important: Correctly compares the given time to the period to determine the phase of oscillation.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Transfer Understanding",
+    "description": "Optional: Demonstrates understanding of energy transfer between capacitor and inductor during oscillation.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional: Shows proper unit conversion (mH to H, μF to F) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/Phase Confusion",
+    "description": "Pitfall: Confuses the phase relationship between voltage and current, leading to incorrect trend analysis.",
+    "weight": -2
+  },
+  {
+    "title": "Charging/Discharging Misinterpretation",
+    "description": "Pitfall: Misinterprets what constitutes charging versus discharging of the capacitor.",
+    "weight": -1
+  }
+]

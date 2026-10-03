@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly applies Hooke's law to compute k = F_spring / Δx, yielding 250 N/m.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on A from B",
+    "description": "Essential: Correctly identifies the static friction force on block A as equal to the rope tension, giving 5√3 N with correct direction.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on B from ground",
+    "description": "Essential: Correctly computes the ground friction on B from horizontal force balance, giving (5√3)/2 N with correct direction.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for C",
+    "description": "Important: Sets up correct equilibrium equations for ball C to find spring force (5 N) and rope tension (5√3 N).",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for A",
+    "description": "Important: Recognizes that the only horizontal force on A is the friction from B, balancing the rope tension.",
+    "weight": 3
+  },
+  {
+    "title": "Force equilibrium for B",
+    "description": "Important: Applies horizontal equilibrium to B, considering friction from ground and horizontal components from rope/spring.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts Δx from cm to m correctly and maintains consistent units throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Assigns incorrect sign or direction to friction forces (e.g., wrong horizontal component).",
+    "weight": -2
+  },
+  {
+    "title": "Angle misuse",
+    "description": "Pitfall: Uses incorrect trigonometric functions (sin vs cos) for force components from given angles.",
+    "weight": -1
+  }
+]

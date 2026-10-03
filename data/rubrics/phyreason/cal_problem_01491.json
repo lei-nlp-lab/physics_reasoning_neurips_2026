@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed at B",
+    "description": "Essential: Correctly calculates the block's speed at point B using conservation of mechanical energy (mgr = 1/2 mv_B^2).",
+    "weight": 5
+  },
+  {
+    "title": "Force ratio at B",
+    "description": "Essential: Correctly determines the ratio F_N/(mg) at point B by applying Newton's second law for circular motion (F_N - mg = mv_B^2/r).",
+    "weight": 5
+  },
+  {
+    "title": "Energy to reach C",
+    "description": "Important: Correctly applies conservation of mechanical energy to find the speed (v) the block must have when leaving the belt to just reach point C.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on belt",
+    "description": "Important: Correctly applies kinematic equations for uniformly accelerated motion to find displacements and times for deceleration and acceleration phases on the conveyor belt.",
+    "weight": 4
+  },
+  {
+    "title": "Total trip time",
+    "description": "Essential: Correctly sums the individual time intervals (deceleration, acceleration, constant speed) to find the total time for the first round trip.",
+    "weight": 5
+  },
+  {
+    "title": "Friction work calculation",
+    "description": "Important: Correctly calculates the total heat generated using the work-energy theorem (Q = μmg * total relative displacement).",
+    "weight": 4
+  },
+  {
+    "title": "Relative displacement",
+    "description": "Important: Correctly computes the relative displacement between the block and the belt for both directions of motion to find the friction work.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns signs to velocities, accelerations, or displacements for the different motion phases on the belt.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, J) throughout the calculation and presents final answers with correct units.",
+    "weight": 1
+  }
+]

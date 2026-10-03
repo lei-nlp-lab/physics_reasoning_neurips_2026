@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly identify the final answer as (b).",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning for Choice",
+    "description": "Important Criteria: The student should explain how the electron energy spectrum relates to the neutrino mass.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Beta Decay",
+    "description": "Important Criteria: The student should demonstrate knowledge of beta decay and its relation to neutrinos.",
+    "weight": 3
+  },
+  {
+    "title": "Alternative Options",
+    "description": "Optional Criteria: The student may briefly discuss why options (a) and (c) are less suitable for measuring neutrino mass.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid confusion between the different methods of measuring neutrino properties.",
+    "weight": -2
+  }
+]

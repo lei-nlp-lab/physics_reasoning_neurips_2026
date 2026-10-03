@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum F1 condition",
+    "description": "Essential: The student must state or derive the condition F1 > 20 N for the plank to move upward.",
+    "weight": 5
+  },
+  {
+    "title": "Relative sliding condition",
+    "description": "Essential: For part (2), the student must state or derive the condition F2 > 13.2 N for relative sliding.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction force",
+    "description": "Important: The student correctly identifies the kinetic friction force as f = μF₁.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The student applies Newton's second law correctly to both the plank and the block, setting up equations for their accelerations.",
+    "weight": 4
+  },
+  {
+    "title": "Simultaneous kinematic solution",
+    "description": "Important: For part (3), the student correctly calculates the block's acceleration and uses kinematics to find the required time and corresponding plank height.",
+    "weight": 4
+  },
+  {
+    "title": "Final success determination",
+    "description": "Essential: For part (3), the student must correctly conclude whether the game is successful by comparing the calculated plank height to 0.75 m.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: The student makes a sign error when writing the net force equations (e.g., for the block: F₂ - μF₁ - mg).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student maintains consistent units (kg, m, s, N) throughout the calculation.",
+    "weight": 1
+  }
+]

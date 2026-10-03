@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Correct final answer (1)",
+    "description": "Essential: The student's answer for part (1) must be exactly 2.5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final answer (2)",
+    "description": "Essential: The student's answer for part (2) must be v0 ≥ 1.5√6 m/s (or equivalent numerical form).",
+    "weight": 5
+  },
+  {
+    "title": "Projectile kinematics for (1)",
+    "description": "Important: The solution for part (1) correctly applies the vertical displacement equation H - R = (1/2)gt² to find the time of flight.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal motion for (1)",
+    "description": "Important: The solution for part (1) correctly relates the horizontal displacement R to the initial velocity and time via R = v0 t.",
+    "weight": 4
+  },
+  {
+    "title": "Tangency condition for (2)",
+    "description": "Important: The solution for part (2) establishes the condition that the projectile's trajectory is tangent to the hemisphere's surface.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of tangency",
+    "description": "Important: The solution correctly relates the projectile's coordinates (x, y) at the tangency point to the circle's geometry (x = R + R cosθ, y = R sinθ).",
+    "weight": 3
+  },
+  {
+    "title": "Velocity direction at tangency",
+    "description": "Important: The solution correctly uses the projectile's velocity components to state tanθ = v0 / (gt) at the point of tangency.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic/trigonometric solution",
+    "description": "Optional: The solution successfully solves the system of equations from the geometry and kinematics to find the critical velocity.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All working and final answers include correct SI units (m, s, m/s).",
+    "weight": 1
+  },
+  {
+    "title": "Misinterpreting vertical drop",
+    "description": "Pitfall: Using H = 1.8 m instead of (H - R) = 0.8 m for the vertical displacement in part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect range condition",
+    "description": "Pitfall: Stating the range for part (2) as v0 ≤ (some value) instead of v0 ≥ (some value).",
+    "weight": -2
+  }
+]

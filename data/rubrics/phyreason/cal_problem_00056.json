@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Common velocity correct",
+    "description": "Essential: The final common velocity for part (1) is correctly stated as \\(\\frac{2v_0}{3}\\).",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation applied",
+    "description": "Important: Uses conservation of linear momentum for the system to relate initial and final velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Relative velocity condition",
+    "description": "Important: Correctly interprets and applies the condition that the plank's velocity is twice the slider's for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy or kinematics",
+    "description": "Important: Applies the work-energy theorem or kinematics with friction to find the relative displacement in part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance for plank",
+    "description": "Important: Recognizes that for uniform plank motion in parts (3) and (4), the external force balances the kinetic friction force \\(\\mu mg\\).",
+    "weight": 4
+  },
+  {
+    "title": "Slider kinematics correct",
+    "description": "Essential: Correctly calculates the time for the slider to stop relative to the plank as \\(\\frac{v_0}{\\mu g}\\) for part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Work calculation correct",
+    "description": "Essential: Correctly calculates the work done by the external force as \\(m v_0^2\\) for part (4).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in friction work",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction in the work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect system isolation",
+    "description": "Pitfall: Fails to use conservation of momentum for the isolated system or incorrectly includes external forces.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Demonstrates unit analysis for final answers (velocity, distance, time, work).",
+    "weight": 1
+  }
+]

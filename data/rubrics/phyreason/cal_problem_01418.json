@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Correct formula application",
+    "description": "Essential Criteria: Student must use the magnetic flux formula Φ = B·S·cosθ with the correct angle interpretation.",
+    "weight": 5
+  },
+  {
+    "title": "Angle interpretation",
+    "description": "Important Criteria: Student must correctly identify that θ is the angle between the magnetic field direction and the normal to the coil plane.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical calculation",
+    "description": "Essential Criteria: Student must compute Φ = 0.6 × 0.4 × cos(60°) = 0.12 Wb as the final answer.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student should include proper units (Wb or T·m²) in the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Angle confusion error",
+    "description": "Pitfall Criteria: Using sinθ instead of cosθ, or misinterpreting the 60° as the complement.",
+    "weight": -2
+  },
+  {
+    "title": "Sign consideration",
+    "description": "Optional Criteria: Student may discuss that flux is a scalar quantity, though sign indicates direction through surface.",
+    "weight": 1
+  }
+]

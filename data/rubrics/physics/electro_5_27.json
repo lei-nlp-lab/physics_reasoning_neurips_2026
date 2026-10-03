@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for p_phi",
+    "description": "Essential Criteria: The expression for the canonical momentum p_phi must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Constant of Motion",
+    "description": "Essential Criteria: The justification that p_phi is a constant of motion must be clearly stated and supported by reasoning.",
+    "weight": 5
+  },
+  {
+    "title": "Change in p_phi",
+    "description": "Important Criteria: The change in the expression for p_phi when the vector potential is modified must be accurately described.",
+    "weight": 4
+  },
+  {
+    "title": "Constant of Motion Explanation",
+    "description": "Important Criteria: The explanation regarding whether the modified p_phi is a constant of motion must be clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Variables",
+    "description": "Optional Criteria: The correct use of variables such as r, theta, and phi in the derivation should be evident.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Clarity",
+    "description": "Optional Criteria: The mathematical steps taken to derive the expressions should be clear and logically structured.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the expressions for momentum or derivatives must be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any inconsistencies in units throughout the derivation should be noted and penalized.",
+    "weight": -2
+  }
+]

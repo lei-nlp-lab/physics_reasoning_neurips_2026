@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct refraction angle",
+    "description": "Essential: The student's final answer for part (1) must be 45°.",
+    "weight": 5
+  },
+  {
+    "title": "Correct vertical displacement",
+    "description": "Essential: The student's final answer for part (2) must be a numerical multiple of r, approximately 0.73r.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Snell's Law correctly",
+    "description": "Important: The solution correctly applies Snell's law (n = sin(i)/sin(r)) to relate the incident and refracted angles at the edge of the board.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies critical angle condition",
+    "description": "Important: The solution identifies that the limiting condition for part (2) is total internal reflection, and correctly calculates the critical angle sin(C)=1/n.",
+    "weight": 4
+  },
+  {
+    "title": "Correct geometric setup",
+    "description": "Important: The solution establishes the correct right-triangle geometry relating the source depth, board radius, and the critical angle.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution maintains consistent units (e.g., expressing the final displacement in terms of r) and may include a diagram.",
+    "weight": 1
+  },
+  {
+    "title": "Misidentifies limiting ray",
+    "description": "Pitfall: The solution incorrectly assumes the limiting ray for part (2) is the edge ray from part (1), rather than the ray at the critical angle.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: The solution makes an error in applying the tangent function (tan(θ) = opposite/adjacent) to the geometry of the problem.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct final temperature of the inner surface t_1 must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Equation Setup",
+    "description": "Important Criteria: The student must correctly set up the heat transfer equations for convection and conduction.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Difference",
+    "description": "Important Criteria: The student should accurately calculate the temperature difference between the inner and outer surfaces.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in temperature differences.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Position Answer",
+    "description": "Essential Criteria: The position of the earth when the pulse bounces off must be correctly calculated as -6 x 10^9 m.",
+    "weight": 5
+  },
+  {
+    "title": "Final Velocity Answer",
+    "description": "Essential Criteria: The velocity of the spaceship relative to the earth must be correctly determined as 10^8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Final Ship Position Answer",
+    "description": "Essential Criteria: The position of the ship in the earth frame at the time of signal reception must be correctly calculated as 8.5 x 10^9 m.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Effect Application",
+    "description": "Important Criteria: The application of the Doppler effect and the use of the frequency relationship must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Time Calculation",
+    "description": "Important Criteria: The calculation of time taken for the radar pulse to reach the earth must be accurately performed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent and correctly applied throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in the calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as gamma, are included in the calculations.",
+    "weight": -2
+  }
+]

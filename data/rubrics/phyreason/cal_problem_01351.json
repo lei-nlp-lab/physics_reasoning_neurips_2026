@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimum speed at A",
+    "description": "Essential: Student must state or use that at the highest point of the first loop (A), the critical condition for staying on track is mg = mv_A²/R₁.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for part (1)",
+    "description": "Important: Student must apply conservation of mechanical energy from O to A to relate v₀ and v_A, correctly accounting for the 2R₁ height gain.",
+    "weight": 4
+  },
+  {
+    "title": "Final answer for part (1)",
+    "description": "Essential: Student must obtain v₀_min = 6 m/s for the ball to stay on the OAB track.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for part (2)",
+    "description": "Important: Student must apply conservation of mechanical energy from O to B to find the speed at B, given v₀ = 6 m/s and the height difference R₂.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis at B",
+    "description": "Important: Student must apply Newton's second law at point B (lowest point of second loop) to find the normal force from the track: F_N - mg = mv_B²/R₂.",
+    "weight": 4
+  },
+  {
+    "title": "Final answer for part (2)",
+    "description": "Essential: Student must state the pressure magnitude on the track at B as 6 N (equal to the normal force by Newton's third law).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy for part (3)",
+    "description": "Important: Student must apply the work-energy theorem from O to C, accounting for friction on BC and the change in gravitational potential energy from O to B.",
+    "weight": 4
+  },
+  {
+    "title": "Final answer for part (3)",
+    "description": "Essential: Student must obtain v₀_min = 8 m/s for the ball to reach and fall into the pit at C.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns sign to work done by friction or misapplies the direction of normal force at point B.",
+    "weight": -1
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Student fails to include units in final answers or uses inconsistent units (e.g., cm instead of m) in calculations.",
+    "weight": -1
+  }
+]

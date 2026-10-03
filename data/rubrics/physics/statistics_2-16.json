@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Statistics for He",
+    "description": "Essential Criteria - Identify Maxwell-Boltzmann statistics for He gas and provide a semi-quantitative explanation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Statistics for Copper",
+    "description": "Essential Criteria - Identify Fermi-Dirac statistics for electrons in copper and explain the reasoning related to degeneracy.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Statistics for Ge",
+    "description": "Essential Criteria - Identify Maxwell-Boltzmann statistics for Ge and explain the energy considerations regarding the band-gap.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning Clarity",
+    "description": "Important Criteria - Provide clear reasoning for the choice of statistics in each case, linking to physical principles.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Consideration",
+    "description": "Important Criteria - Mention the significance of temperature in determining the appropriate statistics for each scenario.",
+    "weight": 3
+  },
+  {
+    "title": "Common Misinterpretations",
+    "description": "Pitfall Criteria - Avoid misclassifying the statistics for any of the three cases, particularly confusing fermions and bosons.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria - Use appropriate units and constants in explanations where relevant, enhancing clarity.",
+    "weight": 2
+  }
+]

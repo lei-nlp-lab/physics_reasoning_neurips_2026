@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration a1 magnitude",
+    "description": "Essential: Correctly calculates a1 = 1 m/s² from the given initial motion data (v=20 m/s at t=20 s).",
+    "weight": 5
+  },
+  {
+    "title": "Speed at slope bottom",
+    "description": "Important: Correctly finds the speed v2 at t=50 s using v2 = a1 * t2, yielding 50 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration a2 magnitude",
+    "description": "Essential: Correctly calculates a2 = -2 m/s² (magnitude 2 m/s²) from v2, stopping time, and v=0.",
+    "weight": 5
+  },
+  {
+    "title": "Speed after 6 seconds",
+    "description": "Essential: Correctly computes the speed 6 s after reaching the bottom using v = v2 + a2*t, yielding 38 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal distance traveled",
+    "description": "Essential: Correctly calculates the distance on the horizontal plane using kinematic equations, yielding 625 m.",
+    "weight": 5
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important: Maintains consistent sign convention for acceleration and velocity in both motion stages.",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional: Includes correct units (m/s, m/s², m, s) in intermediate steps and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect acceleration sign",
+    "description": "Pitfall: Reports a2 as +2 m/s² instead of -2 m/s², ignoring the deceleration direction.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting time intervals",
+    "description": "Pitfall: Uses incorrect time intervals (e.g., 50 s for a1 or 25 s for the 6-second speed) in calculations.",
+    "weight": -2
+  }
+]

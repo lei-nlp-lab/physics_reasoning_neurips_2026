@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct EMF magnitude (1)",
+    "description": "Essential: The answer for part (1) must be 0.6 V, calculated via Faraday's law for the changing magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Correct EMF magnitude (2)",
+    "description": "Essential: The answer for part (2) must be 0.45 V, calculated via the motional EMF formula for the coil exiting the field.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Faraday's law",
+    "description": "Important: For part (1), the student must correctly use Faraday's law (E = -dΦ/dt) and calculate the flux change through the effective area (two-thirds of the coil).",
+    "weight": 4
+  },
+  {
+    "title": "Apply motional EMF",
+    "description": "Important: For part (2), the student must correctly use the formula E = B L v, identifying the correct length L (the side length of the coil) for the conductor cutting the field.",
+    "weight": 4
+  },
+  {
+    "title": "Identify effective area",
+    "description": "Important: For part (1), the student must correctly identify that only two-thirds of the coil's area is within the magnetic field and contributes to the changing flux.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent SI units (meters, tesla, seconds, volts) without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Penalize if the student incorrectly uses the full coil area for the flux calculation in part (1), or uses an incorrect length (e.g., perimeter) in the motional EMF formula for part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Penalize if the student uses the motional EMF formula for part (1) or Faraday's law for part (2), confusing the two distinct induction mechanisms.",
+    "weight": -2
+  }
+]

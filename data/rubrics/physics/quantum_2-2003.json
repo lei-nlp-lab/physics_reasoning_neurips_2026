@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Wavelength",
+    "description": "Essential Criteria: The student must provide the correct numerical value for the longest wavelength, which is approximately 110 Å.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Level Calculation",
+    "description": "Important Criteria: The student should correctly calculate the energy levels for the ground state and the first excited state using the provided formula.",
+    "weight": 4
+  },
+  {
+    "title": "Transition Energy",
+    "description": "Important Criteria: The student must correctly determine the energy difference between the ground state and the first excited state.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Optional Criteria: The student should correctly use physical constants such as h (Planck's constant) and c (speed of light) in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should avoid unit mistakes, particularly in converting energy units to wavelength units.",
+    "weight": -2
+  },
+  {
+    "title": "Assumption Justification",
+    "description": "Optional Criteria: The student may provide justification for assuming the electrons are in the ground state at room temperature.",
+    "weight": 2
+  }
+]

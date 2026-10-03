@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for ε",
+    "description": "Essential Criteria: The student must correctly derive and state the expression for ε in terms of λ.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Estimate",
+    "description": "Essential Criteria: The student must provide a correct numerical estimate of ε for Earth.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium Condition",
+    "description": "Important Criteria: The student should clearly state the condition for equilibrium of the planet's surface.",
+    "weight": 4
+  },
+  {
+    "title": "Centrifugal Force Calculation",
+    "description": "Important Criteria: The student must correctly derive the expression for the centrifugal force acting on a mass element.",
+    "weight": 3
+  },
+  {
+    "title": "Gravitational Force Derivation",
+    "description": "Important Criteria: The student should derive the expression for the gravitational force acting on a mass element.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the equilibrium condition.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors are included in the final expressions.",
+    "weight": -1
+  }
+]

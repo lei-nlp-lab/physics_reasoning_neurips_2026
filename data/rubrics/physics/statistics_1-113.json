@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Energy Expelled Rate",
+    "description": "Essential Criteria: The correct calculation of the energy expelled to the room must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Power Supplied",
+    "description": "Essential Criteria: The correct rate of electrical energy supplied must be calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Coefficient of Performance",
+    "description": "Essential Criteria: The coefficient of performance must be accurately determined.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Extraction Calculation",
+    "description": "Important Criteria: The calculation of the heat extracted from the water must be shown correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Important Criteria: The temperatures must be converted to Kelvin correctly for calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: Final answers should be presented clearly and in the correct format.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors in the calculations, such as conversion factors, should be checked.",
+    "weight": -2
+  }
+]

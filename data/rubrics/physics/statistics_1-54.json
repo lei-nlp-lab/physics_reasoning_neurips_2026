@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Entropy Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the change in entropy, Delta S, as given in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature at x",
+    "description": "Important Criteria: The student should derive the temperature distribution T_x in the bar as a function of distance x from the cold end.",
+    "weight": 4
+  },
+  {
+    "title": "Average Temperature",
+    "description": "Important Criteria: The student must correctly identify and calculate the average temperature T_f as (T_H + T_C) / 2.",
+    "weight": 3
+  },
+  {
+    "title": "Entropy Integral Setup",
+    "description": "Important Criteria: The student should set up the integral for the change in entropy correctly, relating it to the temperature distribution.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect limits of integration or sign mistakes in the entropy calculation.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: Correctly calculates the wave speed using the wavelength and period of wave A.",
+    "weight": 5
+  },
+  {
+    "title": "Time for B to M",
+    "description": "Essential: Correctly determines the time for wave B to first reach point M, resulting in 0.5 s.",
+    "weight": 5
+  },
+  {
+    "title": "Period of wave B",
+    "description": "Important: Correctly determines the period of wave B from its wavelength and the wave speed.",
+    "weight": 3
+  },
+  {
+    "title": "Superposition condition",
+    "description": "Important: Recognizes that maximum displacement occurs when crests from both waves arrive at M simultaneously.",
+    "weight": 4
+  },
+  {
+    "title": "Times for maximum displacement",
+    "description": "Essential: Correctly lists the times (0.8 s, 1.6 s, 2.4 s) within the interval when M's displacement is maximum.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength extraction",
+    "description": "Important: Correctly reads the wavelengths of waves A and B from the provided diagram.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns wave propagation direction, leading to wrong travel distance or phase.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout the calculation.",
+    "weight": 1
+  }
+]

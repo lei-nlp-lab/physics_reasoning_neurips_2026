@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final density answer",
+    "description": "Essential: The student's final answer for part (1) must be ρ = ρ₀/8.",
+    "weight": 5
+  },
+  {
+    "title": "Final energy answer",
+    "description": "Essential: The student's final answer for part (2) must be ΔE_k = -(2/3)Gπρ₀ m r₀².",
+    "weight": 5
+  },
+  {
+    "title": "Mass conservation reasoning",
+    "description": "Important: The student must apply mass conservation within a co-moving volume to relate densities at different radii.",
+    "weight": 4
+  },
+  {
+    "title": "Shell theorem application",
+    "description": "Important: The student must correctly apply the shell theorem to equate the gravitational force to that from the enclosed mass at the center.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: The student must set up the energy conservation equation using the given gravitational potential energy formula.",
+    "weight": 4
+  },
+  {
+    "title": "Hubble constant trend",
+    "description": "Important: The student must conclude that H decreases with increasing time t, based on the sign of ΔE_k and the universe's expansion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student's work shows consistent units throughout the derivation, especially in the energy expression.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: The student incorrectly calculates a positive ΔE_k, missing that kinetic energy decreases as the body moves away.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect mass scaling",
+    "description": "Pitfall: The student incorrectly scales mass or density, e.g., using ρ ∝ 1/r² instead of ρ ∝ 1/r³.",
+    "weight": -2
+  }
+]

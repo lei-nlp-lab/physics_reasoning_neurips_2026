@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for s_z(t).",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Derivation",
+    "description": "Important Criteria: The student should correctly derive the expression for d(s)/dt using the Hamiltonian.",
+    "weight": 4
+  },
+  {
+    "title": "Commutator Calculation",
+    "description": "Important Criteria: The student must correctly compute the commutator [s, H] and its implications.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Cross Product",
+    "description": "Important Criteria: The student should recognize and apply the cross product in the context of the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Optional Criteria: The student may specify initial conditions for s_z(0) and s_x(0) if relevant.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the equations derived.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

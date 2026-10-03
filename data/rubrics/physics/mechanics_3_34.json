@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Neutrino Energy",
+    "description": "Essential Criteria: The student must correctly calculate the kinetic energy of the neutrino as 235.6 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Final Muon Energy",
+    "description": "Essential Criteria: The student must correctly calculate the kinetic energy of the muon as 152.4 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate the application of conservation of energy in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student should correctly apply momentum conservation principles to relate the momenta of the muon and neutrino.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Rest Energies",
+    "description": "Important Criteria: The student must correctly use the rest energies of the K meson and muon in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all energies are expressed in consistent units (MeV).",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors when applying conservation laws.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors when calculating kinetic energies from momentum.",
+    "weight": -2
+  }
+]

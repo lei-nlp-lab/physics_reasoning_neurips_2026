@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential criteria include providing the correct final answer for the ratio of reaction cross sections.",
+    "weight": 5
+  },
+  {
+    "title": "Reaction (a) Analysis",
+    "description": "Important criteria involve correctly identifying the conservation laws and explaining why the reaction is forbidden.",
+    "weight": 4
+  },
+  {
+    "title": "Reaction (b) Analysis",
+    "description": "Important criteria require stating the conservation of isospin and explaining why this reaction is forbidden.",
+    "weight": 4
+  },
+  {
+    "title": "Reaction (c) Analysis",
+    "description": "Important criteria include correctly stating that the reaction is allowed and identifying the conserved quantities.",
+    "weight": 4
+  },
+  {
+    "title": "Cross Section Ratio Derivation",
+    "description": "Important criteria involve correctly deriving the ratio of cross sections based on isospin conservation.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall criteria include failing to account for conservation laws or miscalculating the isospin values.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must correctly express E/A in terms of the total spin operator S.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenvalues and Degeneracy",
+    "description": "Essential Criteria: The student must accurately state the eigenvalues of E/A and their corresponding degeneracies.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Spin Operators",
+    "description": "Important Criteria: The student should demonstrate understanding of how to manipulate spin operators in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Correctness of Calculations",
+    "description": "Important Criteria: The student must show correct calculations leading to the final expressions for E/A.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Presentation",
+    "description": "Optional Criteria: The student should present their work clearly and logically, making it easy to follow their reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the expressions for E/A and its eigenvalues.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all terms are dimensionally consistent throughout their solution.",
+    "weight": -1
+  }
+]

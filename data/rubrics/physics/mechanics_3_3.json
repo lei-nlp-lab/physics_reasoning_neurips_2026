@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Time Expression",
+    "description": "Essential Criteria: The correct expression for the time interval t' between the reception of the pulses must be derived as tau' = tau sqrt((1 + beta)/(1 - beta)).",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Effect Expression",
+    "description": "Essential Criteria: The relationship for the longitudinal Doppler effect must be correctly expressed as lambda' = lambda sqrt((1 + beta)/(1 - beta)).",
+    "weight": 5
+  },
+  {
+    "title": "First Order Shift",
+    "description": "Important Criteria: The calculation of the first order Doppler shift must be correctly derived as Delta lambda_1 = lambda beta.",
+    "weight": 4
+  },
+  {
+    "title": "Second Order Shift",
+    "description": "Important Criteria: The calculation of the second order Doppler shift must be correctly derived as Delta lambda_2 = (1/2) lambda beta^2.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Important Criteria: The calculation of beta from the proton energy must be correctly applied as beta = sqrt(2E/mc^2).",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations, particularly for wavelengths and energy.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the expressions for time and wavelength shifts.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors such as gamma in the time transformation can lead to incorrect results.",
+    "weight": -2
+  }
+]

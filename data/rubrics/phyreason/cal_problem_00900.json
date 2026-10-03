@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum EMF",
+    "description": "Essential Criteria: The student must correctly calculate the maximum electromotive force (200 V) using the formula E_m = nφ_mω, with correct values from the graph.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous Current at 60°",
+    "description": "Essential Criteria: The student must correctly calculate the instantaneous induced current (1 A) when the coil has rotated 60 degrees from t=0.",
+    "weight": 5
+  },
+  {
+    "title": "Voltmeter Reading",
+    "description": "Essential Criteria: The student must correctly calculate the AC voltmeter reading (90√2 V) as the RMS voltage across the external resistor R.",
+    "weight": 5
+  },
+  {
+    "title": "Current Direction",
+    "description": "Important Criteria: The student must correctly apply Lenz's law or the generator rule to determine the direction of the induced current (e.g., abcda) at the specified rotation.",
+    "weight": 3
+  },
+  {
+    "title": "Charge Calculation",
+    "description": "Important Criteria: The student must correctly apply the formula q = nΔΦ/(R+r) to find the charge (0.02 C) passing through the coil during a 90° rotation.",
+    "weight": 4
+  },
+  {
+    "title": "Joule Heat Calculation",
+    "description": "Important Criteria: The student must correctly calculate the Joule heat (3.14 J) generated in the entire circuit for the relevant time interval, using RMS values or integration.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Frequency Use",
+    "description": "Important Criteria: The student must correctly determine the angular frequency ω from the graph's period and use it in EMF and instantaneous value formulas.",
+    "weight": 3
+  },
+  {
+    "title": "RMS vs. Peak Confusion",
+    "description": "Pitfall Criteria: Penalize if the student confuses RMS and peak values, e.g., using peak EMF for voltmeter reading or average power calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Total Resistance Omission",
+    "description": "Pitfall Criteria: Penalize if the student uses only R or only r instead of the total resistance (R+r) in Ohm's law for the closed circuit.",
+    "weight": -2
+  },
+  {
+    "title": "Phase Error",
+    "description": "Pitfall Criteria: Penalize if the student uses a sine function instead of cosine for the instantaneous EMF, given the initial condition (coil parallel to B at t=0).",
+    "weight": -1
+  }
+]

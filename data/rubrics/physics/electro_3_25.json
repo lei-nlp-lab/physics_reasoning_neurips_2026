@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Values",
+    "description": "Essential Criteria: The correct values for R, L, and C must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit Configuration",
+    "description": "Important Criteria: The student must correctly identify the configuration of R, L, and C in the circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Impedance Calculation",
+    "description": "Important Criteria: The student should demonstrate understanding of how to calculate impedance in the circuit.",
+    "weight": 3
+  },
+  {
+    "title": "Resonance Explanation",
+    "description": "Important Criteria: The explanation of resonance and its effect on current must be included.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as miscalculating impedance or resonance frequency.",
+    "weight": -2
+  },
+  {
+    "title": "Voltage and Current Relationship",
+    "description": "Important Criteria: The relationship between voltage and current in the DC and AC cases must be correctly analyzed.",
+    "weight": 3
+  },
+  {
+    "title": "Derivation Clarity",
+    "description": "Optional Criteria: The clarity and correctness of any derivations used to find L and C should be assessed.",
+    "weight": 2
+  }
+]

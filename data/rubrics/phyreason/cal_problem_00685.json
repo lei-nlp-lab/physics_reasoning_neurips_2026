@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Bulb normal parameters",
+    "description": "Essential: Correctly identifies bulb's normal voltage (2V) and calculates normal current (0.2A) from given power rating.",
+    "weight": 5
+  },
+  {
+    "title": "Internal resistance calculation",
+    "description": "Essential: Applies closed-circuit equation E = U_L + I_L(r+R) to solve for internal resistance r, obtaining 1Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Motor voltage determination",
+    "description": "Essential: Uses circuit equation for switch position 2, E = U_L + U_M + I_Lr, to find motor voltage of 0.8V.",
+    "weight": 5
+  },
+  {
+    "title": "Efficiency calculation",
+    "description": "Important: Correctly computes efficiency as useful output power divided by total power, yielding approximately 93.3%.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit analysis consistency",
+    "description": "Important: Maintains consistent current value (0.2A) throughout both circuit configurations, recognizing bulb operates normally in both.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in voltage sums",
+    "description": "Pitfall: Incorrectly adds or subtracts voltage drops in circuit equations, especially forgetting internal resistance drop.",
+    "weight": -2
+  },
+  {
+    "title": "Current assumption error",
+    "description": "Pitfall: Assumes different current through bulb when motor is connected, despite problem stating bulb operates normally.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis for resistance, voltage, and efficiency calculations to verify dimensional consistency.",
+    "weight": 1
+  }
+]

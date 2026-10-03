@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct Ampere Force",
+    "description": "Essential: The final answer for part (1) must be 0.6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Friction Force",
+    "description": "Essential: The final answer for part (2) must be 0 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Resistance Range",
+    "description": "Essential: The final answer for part (3) must be a range from 3.5 Ω to 21.5 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit Current Calculation",
+    "description": "Important: The student must correctly calculate the circuit current using Ohm's Law (I = E/(R1+R2)).",
+    "weight": 4
+  },
+  {
+    "title": "Ampere Force Application",
+    "description": "Important: The student must correctly apply F = BIL to find the magnetic force on the rod.",
+    "weight": 4
+  },
+  {
+    "title": "Force Balance Analysis",
+    "description": "Important: The student must set up a correct force balance equation along the incline, including gravity, Ampere force, and friction components.",
+    "weight": 4
+  },
+  {
+    "title": "Friction Direction Logic",
+    "description": "Important: For part (2), the student must recognize that the net force along the incline is zero, leading to zero friction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Error in Force Components",
+    "description": "Pitfall: Penalize if the student misassigns the direction of the Ampere force component or friction along the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: The student should correctly convert mass to kg and maintain consistent SI units throughout.",
+    "weight": 1
+  }
+]

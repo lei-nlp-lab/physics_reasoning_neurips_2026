@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocity expression",
+    "description": "Essential: Correctly states the relativistic expression for final velocity v as a function of accelerating voltage V, proton mass, and fundamental constants.",
+    "weight": 5
+  },
+  {
+    "title": "First-order deviation approximation",
+    "description": "Important: Derives or states the first-order approximation for Δ = (c-v)/c as ½(m_ec²/(m_ec²+Ve))² for the electron case.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field derivation",
+    "description": "Essential: Derives the expression B = 2πE/(e c L) from balancing Lorentz and centripetal forces, using v≈c and relativistic energy.",
+    "weight": 5
+  },
+  {
+    "title": "Total radiated power calculation",
+    "description": "Important: Correctly calculates total radiated power using the Larmor formula, approximating γ = E/(m_pc²) and using given parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration time calculation",
+    "description": "Important: Calculates time T for proton acceleration through the linac using relativistic dynamics and the given homogeneous field.",
+    "weight": 3
+  },
+  {
+    "title": "Mass from ToF parameters",
+    "description": "Essential: Expresses particle mass m in terms of momentum p, flight length l, and flight time t, assuming v≈c, resulting in m = (p/(lc))√(t²c² - l²).",
+    "weight": 5
+  },
+  {
+    "title": "ToF detector minimal length",
+    "description": "Essential: Calculates the minimal length l for pion/kaon separation using Δt > 3*(150 ps) and relativistic time-of-flight expressions.",
+    "weight": 5
+  },
+  {
+    "title": "Significant figures and units",
+    "description": "Pitfall: Fails to report final numerical answers with correct significant figures or consistent SI units (e.g., T in tesla, l in meters).",
+    "weight": -2
+  },
+  {
+    "title": "Non-relativistic approximation",
+    "description": "Pitfall: Uses non-relativistic formulas (e.g., v=√(2Ve/m)) where relativistic expressions are required, especially for high energies.",
+    "weight": -2
+  },
+  {
+    "title": "Approximation justification",
+    "description": "Optional: Explicitly justifies approximations used (e.g., v≈c, γ>>1) where their effect is smaller than the given precision.",
+    "weight": 1
+  }
+]

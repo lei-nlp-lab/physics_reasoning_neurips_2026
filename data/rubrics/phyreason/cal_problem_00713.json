@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct magnetic field magnitude (1)",
+    "description": "Essential: The student's final answer for part (1) must be numerically equivalent to B = (2√3)/3 T or approximately 1.155 T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum magnitude (2)",
+    "description": "Essential: The student's final answer for part (2) must be B_min = 1 T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct field direction (2)",
+    "description": "Essential: The student must state the direction of the magnetic field in part (2) as along the suspension line (or equivalent) and downward.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for part (1)",
+    "description": "Important: The solution must resolve forces horizontally and vertically, applying equilibrium to relate magnetic force to weight via tan(30°).",
+    "weight": 3
+  },
+  {
+    "title": "Ampere's law application",
+    "description": "Important: The student must correctly apply the formula F = BIL to relate magnetic force, field, current, and length for both parts.",
+    "weight": 3
+  },
+  {
+    "title": "Force triangle for minimum B",
+    "description": "Important: For part (2), the solution must construct a force triangle/vector diagram and identify that the minimum magnetic force is mg sin(30°).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The working should demonstrate consistent use of SI units (kg, m, s, A, T) without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error in force",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the direction of the magnetic force (e.g., using wrong hand rule) leading to an incorrect field direction.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: Penalize a clear misuse of sine/cosine/tangent in the force balance (e.g., using sin(30°) instead of tan(30°) for part (1)).",
+    "weight": -1
+  }
+]

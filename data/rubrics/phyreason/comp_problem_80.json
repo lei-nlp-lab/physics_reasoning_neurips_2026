@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The answer must be exactly or equivalently written as d⟨I²⟩/df = 4kTR / (R² + 4π²f²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Impedance magnitude squared",
+    "description": "Important: The solution must correctly compute |Z|² = R² + (2πfL)² for the series RL circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Apply AC Ohm's law",
+    "description": "Important: The relationship ⟨I²⟩ = ⟨V²⟩ / |Z|² must be stated or correctly used.",
+    "weight": 4
+  },
+  {
+    "title": "Substitute spectral density",
+    "description": "Important: The given spectral density d⟨V²⟩/df = 4kTR must be substituted into the current expression.",
+    "weight": 3
+  },
+  {
+    "title": "Units or dimensional check",
+    "description": "Optional: A check that the final expression has correct dimensions (A²/Hz) can be included.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect impedance handling",
+    "description": "Pitfall: Using Z = R + iωL without taking the magnitude squared, leading to an expression like 4kTR/(R + iωL)².",
+    "weight": -2
+  },
+  {
+    "title": "Missing frequency dependence",
+    "description": "Pitfall: Omitting the inductive reactance term, resulting in a constant d⟨I²⟩/df = 4kT/R.",
+    "weight": -2
+  }
+]

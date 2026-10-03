@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Surface gravitational acceleration",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as g = v²/(2h).",
+    "weight": 5
+  },
+  {
+    "title": "Mars mass derivation",
+    "description": "Important: The solution must apply Newton's law of gravitation (g = GM/R²) to relate g to M.",
+    "weight": 4
+  },
+  {
+    "title": "Mars mass answer",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as M = (v²R²)/(2Gh).",
+    "weight": 5
+  },
+  {
+    "title": "Density calculation",
+    "description": "Important: The solution must correctly use the spherical volume formula V = (4/3)πR³ to find density ρ = M/V.",
+    "weight": 4
+  },
+  {
+    "title": "Mars density answer",
+    "description": "Essential: The final answer for part (3) must be correctly expressed as ρ = (3v²)/(8πGhR).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Important: The solution must correctly use the kinematic equation v² = 2gh to find g from the drop.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers should have correct and consistent units for acceleration, mass, and density.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or formula misuse",
+    "description": "Pitfall: Penalize using an incorrect kinematic equation (e.g., v = gt) or misapplying the gravitational law (e.g., using R+h instead of R).",
+    "weight": -2
+  }
+]

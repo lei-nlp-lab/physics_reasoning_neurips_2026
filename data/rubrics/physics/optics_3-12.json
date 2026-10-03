@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Doppler Broadening Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for the frequency distribution due to Doppler broadening.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Broadening Calculation",
+    "description": "Important Criteria: The student must correctly calculate the magnitude of the Doppler broadening in Angstroms.",
+    "weight": 5
+  },
+  {
+    "title": "Collision Broadening Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for the collision broadening.",
+    "weight": 5
+  },
+  {
+    "title": "Collision Broadening Calculation",
+    "description": "Important Criteria: The student must correctly calculate the magnitude of the collision broadening in Angstroms.",
+    "weight": 5
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: The student should use appropriate units and constants throughout the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect unit conversions.",
+    "weight": -2
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student should show clear reasoning in the integration steps leading to the frequency distribution.",
+    "weight": 4
+  },
+  {
+    "title": "Assumptions Justification",
+    "description": "Optional Criteria: The student should justify any assumptions made during the calculations.",
+    "weight": 2
+  }
+]

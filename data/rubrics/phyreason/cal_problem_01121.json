@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct fall time",
+    "description": "Essential: The final answer for part (1) must be 8.2 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct board velocity",
+    "description": "Essential: The final answer for part (2) must be 3.3 m/s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Three-stage time analysis",
+    "description": "Important: The solution must correctly identify and calculate the three time intervals: deceleration to rest, acceleration until block detaches, and free-fall time.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force calculation",
+    "description": "Important: The friction force must be correctly calculated using μ(M+m)g when the block is on the board and μMg after it detaches.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration stages",
+    "description": "Important: The three distinct accelerations of the board (deceleration, leftward acceleration, post-detachment acceleration) must be correctly determined using Newton's second law.",
+    "weight": 4
+  },
+  {
+    "title": "Block detachment condition",
+    "description": "Important: The solution must recognize that the block detaches when the board returns to its original stopping position (9 m displacement to the left).",
+    "weight": 3
+  },
+  {
+    "title": "Free-fall kinematics",
+    "description": "Optional: The free-fall time calculation (t₃ = 0.2 s) using h = ½gt² should be clearly shown.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Incorrect sign handling for forces, accelerations, or velocities (left/right directions).",
+    "weight": -2
+  },
+  {
+    "title": "Friction oversight",
+    "description": "Pitfall: Using incorrect normal force for friction (e.g., forgetting to include the block's mass when it's on the board).",
+    "weight": -2
+  }
+]

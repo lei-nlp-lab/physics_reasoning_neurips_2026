@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Equation",
+    "description": "Essential Criteria: The internal energy U must be correctly stated as U = 3NkT.",
+    "weight": 5
+  },
+  {
+    "title": "Final Pressure Equation",
+    "description": "Essential Criteria: The pressure P must be correctly stated as P = NkT/V.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison with Ordinary Gas",
+    "description": "Important Criteria: The internal energy comparison with an ordinary gas must be correctly articulated as U_monoatomic = (3/2)NkT.",
+    "weight": 4
+  },
+  {
+    "title": "Partition Function Calculation",
+    "description": "Important Criteria: The calculation of the single particle partition function Z_1 must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure Derivation",
+    "description": "Important Criteria: The derivation of pressure from free energy must be correctly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the equations, particularly in energy and pressure derivations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

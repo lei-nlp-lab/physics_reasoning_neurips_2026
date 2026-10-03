@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Energy Calculation",
+    "description": "Essential Criteria: The correct expression for the energy of the particle in the ground state must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Probability",
+    "description": "Essential Criteria: The correct probability expression for the momentum of the particle must be given.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Explanation",
+    "description": "Important Criteria: A clear explanation of how energy conservation is maintained during the wall separation must be included.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Understanding",
+    "description": "Important Criteria: The response should demonstrate an understanding of how the wave function behaves when the walls are removed.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Optional Criteria: The setup for integrating to find the average energy after wall separation should be correctly outlined.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any inconsistencies in units throughout the calculations will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the expressions for energy or probability will lead to a deduction.",
+    "weight": -2
+  }
+]

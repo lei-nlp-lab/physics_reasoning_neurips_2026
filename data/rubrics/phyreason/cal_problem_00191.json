@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates spring constant k = 40mg/l from force equilibrium on piston I or II using initial spring extension.",
+    "weight": 5
+  },
+  {
+    "title": "Final gas pressure",
+    "description": "Essential: Correctly determines final gas pressure p₂ = p₀ + 3mg/S, matching initial pressure due to unchanged force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Final gas temperature",
+    "description": "Essential: Correctly calculates final temperature T₂ = (4/3)T₀ using isobaric process relation with volume change.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Sets up proper force equilibrium equations for both pistons, accounting for gas pressure, atmospheric pressure, spring force, and weights.",
+    "weight": 4
+  },
+  {
+    "title": "Volume calculation",
+    "description": "Important: Correctly computes initial and final gas volumes using given geometry and piston positions.",
+    "weight": 3
+  },
+  {
+    "title": "Process identification",
+    "description": "Important: Recognizes the heating process as isobaric since force balance remains unchanged until piston II reaches junction.",
+    "weight": 4
+  },
+  {
+    "title": "Spring length determination",
+    "description": "Optional: Notes that final spring length equals 1.1l when piston II reaches junction, maintaining same extension.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Incorrect sign for spring force or pressure forces in equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong process assumption",
+    "description": "Pitfall: Assumes adiabatic or isothermal process instead of isobaric for the heating.",
+    "weight": -2
+  },
+  {
+    "title": "Area confusion",
+    "description": "Pitfall: Uses wrong piston areas when calculating forces or volumes (mixing up 2S and S).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final speed of A",
+    "description": "Essential Criteria: The student must state or calculate the correct speed of block A immediately after the collision as 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Final time for B",
+    "description": "Essential Criteria: The student must state or calculate the correct time for block B to reach the ground after the collision as 0.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision speed of C",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem to find the speed of ring C just before collision (4 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision velocity",
+    "description": "Important Criteria: The student must correctly apply conservation of linear momentum to find the common velocity of the system (A, B, C) after the inelastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision acceleration",
+    "description": "Important Criteria: The student must correctly apply Newton's second law to find the acceleration of the combined B+C mass relative to A after the collision (5 m/s²).",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic equation setup",
+    "description": "Important Criteria: The student must correctly set up the kinematic equation relating displacement (h), initial velocity, acceleration, and time for the motion of B after the collision.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall Criteria: The student incorrectly assigns signs to velocity or acceleration in the kinematic equation, leading to an incorrect quadratic solution.",
+    "weight": -2
+  },
+  {
+    "title": "Momentum conservation error",
+    "description": "Pitfall Criteria: The student incorrectly includes block A in the momentum conservation for the collision, or uses an incorrect mass for the system.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student demonstrates unit analysis throughout the calculation, confirming dimensional consistency.",
+    "weight": 1
+  }
+]

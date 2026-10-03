@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total distance calculation",
+    "description": "Essential Criteria: Student must correctly calculate the total displacement from A to B as 16 m using the v-t graph areas.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force magnitude",
+    "description": "Essential Criteria: Student must determine the friction force magnitude during 1-2 s as 4 N using Newton's second law.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force direction",
+    "description": "Important Criteria: Student must correctly identify the friction force direction as upward along the conveyor belt during 1-2 s.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration from v-t graph",
+    "description": "Important Criteria: Student must correctly extract the acceleration during 1-2 s from the v-t graph slope.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic friction coefficient",
+    "description": "Essential Criteria: Student must calculate the coefficient of kinetic friction as 0.5 using the friction force and normal force.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important Criteria: Student must correctly apply Newton's second law to the inclined plane with both gravity and friction components.",
+    "weight": 4
+  },
+  {
+    "title": "Area under v-t graph",
+    "description": "Important Criteria: Student must correctly calculate displacements by finding areas under the v-t graph for both time intervals.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Student incorrectly assigns signs to friction or gravity components in the force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force confusion",
+    "description": "Pitfall Criteria: Student uses mg instead of mgcos37° for the normal force in the friction formula.",
+    "weight": -1
+  }
+]

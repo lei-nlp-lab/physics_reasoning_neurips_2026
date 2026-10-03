@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electron Lorentz force direction",
+    "description": "Essential: Student must state that the Lorentz force on a free electron is along the +z direction.",
+    "weight": 5
+  },
+  {
+    "title": "Net force expression",
+    "description": "Essential: Student must derive or present the correct expression F_{nz} = e(I_n B/(n e a b) + E).",
+    "weight": 5
+  },
+  {
+    "title": "Particle count derivation",
+    "description": "Important: Student must correctly derive N_n = n a c v_{nz} Δt and N_p = p a c v_{pz} Δt using density and volume swept.",
+    "weight": 4
+  },
+  {
+    "title": "Current balance condition",
+    "description": "Important: Student must state that the z-direction currents from electrons and holes must be equal in magnitude and opposite in direction (or N_n = N_p).",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force reasoning",
+    "description": "Important: Student must correctly apply the right-hand rule (or left-hand rule for electrons) to determine force direction from given v_x and B_y.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity-current relation",
+    "description": "Optional: Student uses I_n = n e a b v_{nx} to relate current to drift velocity for substitution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Student incorrectly assigns the direction of the Lorentz force (e.g., -z) or misapplies sign for electron charge.",
+    "weight": -2
+  },
+  {
+    "title": "Area confusion",
+    "description": "Pitfall: Student uses incorrect cross-sectional area (e.g., b×c instead of a×b) when calculating particle count or substituting for v_{nx}.",
+    "weight": -1
+  }
+]

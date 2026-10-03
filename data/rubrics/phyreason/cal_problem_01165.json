@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Displacement at t=1s",
+    "description": "Essential: Correctly calculates B's displacement in the first second as 1 m using kinematics for constant acceleration from rest.",
+    "weight": 5
+  },
+  {
+    "title": "Time of maximum distance",
+    "description": "Essential: Correctly identifies the time when the distance between A and B is greatest as 4.5 s, based on comparing velocities.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance value",
+    "description": "Essential: Correctly calculates the maximum distance between the particles as 18.61 m, using displacements of A and B up to the critical time.",
+    "weight": 5
+  },
+  {
+    "title": "Total catch-up time",
+    "description": "Essential: Correctly determines the total time for B to catch A as 10.6 s, accounting for the periodic acceleration pattern and initial separation.",
+    "weight": 5
+  },
+  {
+    "title": "B's displacement pattern",
+    "description": "Important: Recognizes that B's displacement in each second forms an arithmetic series (1m, 2m, 3m,...) due to the given acceleration profile.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity comparison step",
+    "description": "Important: Applies the condition that maximum separation occurs when B's instantaneous velocity equals A's constant velocity (5 m/s).",
+    "weight": 3
+  },
+  {
+    "title": "Post-10s kinematics",
+    "description": "Important: Correctly sets up and solves the kinematic equation for the final 0.6 s interval after the 10-second periodic pattern ends.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds) throughout all calculations and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in separation",
+    "description": "Pitfall: Incorrectly formulates the separation distance as x_B - x_A - Δx instead of Δx + x_A - x_B, leading to a sign mistake.",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic series misapplication",
+    "description": "Pitfall: Misapplies the formula for the sum of an arithmetic series (e.g., using n(n-1)/2 instead of n(n+1)/2) for B's total displacement.",
+    "weight": -1
+  }
+]

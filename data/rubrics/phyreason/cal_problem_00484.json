@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Potential at A",
+    "description": "Essential: Correctly calculates the electric potential at point A as 6 V, using the work done from infinity and the given charge.",
+    "weight": 5
+  },
+  {
+    "title": "Potential at B",
+    "description": "Essential: Correctly calculates the electric potential at point B as 2 V, using the potential at A and the work done from A to B.",
+    "weight": 5
+  },
+  {
+    "title": "Sign for Infinity to A",
+    "description": "Important: Recognizes that work done by the field from infinity to A gives a negative potential difference, correctly relating it to the potential at infinity being zero.",
+    "weight": 3
+  },
+  {
+    "title": "Sign for A to B",
+    "description": "Important: Recognizes that work done against the field from A to B gives a positive potential difference and subtracts it from the potential at A.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Explicitly shows unit analysis (J/C = V) for both potential calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign Error in U_∞A",
+    "description": "Pitfall: Incorrectly uses a positive sign for the potential difference from infinity to A, leading to a wrong potential at A.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong Operation for U_AB",
+    "description": "Pitfall: Adds the potential difference U_AB to φ_A instead of subtracting it, leading to an incorrect potential at B.",
+    "weight": -2
+  }
+]

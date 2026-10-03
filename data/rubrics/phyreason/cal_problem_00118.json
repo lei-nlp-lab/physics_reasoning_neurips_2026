@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocity of P",
+    "description": "Essential: The answer must state the final speed of rod P when it leaves the track as v0/2.",
+    "weight": 5
+  },
+  {
+    "title": "Heat generated in P",
+    "description": "Essential: The answer must state the heat generated as m * v0^2.",
+    "weight": 5
+  },
+  {
+    "title": "Time for Q on track",
+    "description": "Essential: The answer must state the time for rod Q's motion as (2mR)/(B^2 l^2).",
+    "weight": 5
+  },
+  {
+    "title": "Collision velocity analysis",
+    "description": "Important: The solution must apply conservation of momentum and energy to find post-collision velocities (P: 1.5v0, Q: 0.5v0).",
+    "weight": 4
+  },
+  {
+    "title": "EMF and current analysis",
+    "description": "Important: The solution must apply Faraday's law and Ohm's law to relate induced EMF, current, and magnetic force on rod P.",
+    "weight": 4
+  },
+  {
+    "title": "Force and impulse on P",
+    "description": "Important: The solution must apply the impulse-momentum theorem to rod P, linking magnetic force to its change in momentum.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for Q's time",
+    "description": "Optional: The solution may explicitly calculate the distance rod P travels on the track to find the time for Q's uniform motion.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force/velocity",
+    "description": "Pitfall: Penalize if the direction of the magnetic force (retarding) or the sign in the impulse equation is incorrect.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Penalize if final answers have incorrect units, missing factors (like 1/2), or misplace mass/resistance/field terms.",
+    "weight": -1
+  }
+]

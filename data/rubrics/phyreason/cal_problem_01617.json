@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension at equilibrium",
+    "description": "Essential: The final answer for part (1) must be expressed as T = √2 mg or an equivalent numerical form.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force relation",
+    "description": "Important: The solution must correctly relate the electric field force to the weight using the equilibrium condition at 45°, establishing qE = mg.",
+    "weight": 4
+  },
+  {
+    "title": "Potential energy change sign",
+    "description": "Essential: For part (2), the answer must state the electric potential energy increases and provide the correct magnitude, e.g., (2-√2)mgL/2.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application (A to P)",
+    "description": "Important: The calculation for part (2) must correctly apply the work done by the electric force over the horizontal displacement from A to P.",
+    "weight": 3
+  },
+  {
+    "title": "Final speed at P",
+    "description": "Essential: The final answer for part (3) must provide the speed at point P in a correct form, such as √(2√2 gL).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation from B",
+    "description": "Important: For part (3), the solution must use energy conservation (work-energy theorem) from release point B to the lowest point C, accounting for both gravity and the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity component analysis",
+    "description": "Important: After finding the speed at C, the solution must correctly resolve the velocity component perpendicular to the string to find the speed at P.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Penalize if the electric force direction is reversed in the force balance or energy equations, leading to incorrect signs or magnitudes.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or expression omission",
+    "description": "Pitfall: Penalize if final answers are given as pure numbers without the required physical quantities (mg, gL, etc.) or necessary square roots.",
+    "weight": -1
+  }
+]

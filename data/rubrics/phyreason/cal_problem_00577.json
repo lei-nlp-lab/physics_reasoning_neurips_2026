@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Bulb resistance calculation",
+    "description": "Essential: Correctly calculates the resistance of a single bulb using R = U²/P with given 220V and 60W.",
+    "weight": 5
+  },
+  {
+    "title": "Primary voltage determination",
+    "description": "Essential: Correctly applies transformer turns ratio (3:1) to find primary voltage from secondary voltage of 220V.",
+    "weight": 5
+  },
+  {
+    "title": "Secondary current calculation",
+    "description": "Important: Correctly computes total secondary current by summing power of all bulbs (100 × 60W) and dividing by secondary voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Primary current determination",
+    "description": "Important: Correctly applies transformer current ratio (inverse of turns ratio) to find primary current from secondary current.",
+    "weight": 4
+  },
+  {
+    "title": "Parallel circuit understanding",
+    "description": "Important: Recognizes that all bulbs operate at rated voltage when connected in parallel to transformer secondary.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains proper units throughout calculations and presents final answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect ratio application",
+    "description": "Pitfall: Uses turns ratio directly (instead of inversely) for current calculation, or voltage ratio inversely.",
+    "weight": -2
+  },
+  {
+    "title": "Power calculation error",
+    "description": "Pitfall: Fails to multiply by 100 bulbs when calculating total power or current in secondary circuit.",
+    "weight": -2
+  }
+]

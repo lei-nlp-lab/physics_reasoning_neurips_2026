@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Normalized Eigenfunctions",
+    "description": "Essential Criteria: The student must provide the correct normalized one-particle energy eigenfunctions for the system.",
+    "weight": 5
+  },
+  {
+    "title": "Electron Configuration",
+    "description": "Essential Criteria: The student must correctly describe the electron configuration in the ground state according to Pauli's exclusion principle.",
+    "weight": 5
+  },
+  {
+    "title": "Excitation Energy",
+    "description": "Essential Criteria: The student must calculate the lowest electronic excitation energy correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Absorption Wavelength",
+    "description": "Essential Criteria: The student must provide the correct numerical value for the absorption wavelength.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Level Derivation",
+    "description": "Important Criteria: The student should show the derivation of the energy levels from the Schrödinger equation.",
+    "weight": 4
+  },
+  {
+    "title": "Pauli Exclusion Principle",
+    "description": "Important Criteria: The student should explain the application of the Pauli exclusion principle in determining electron occupancy.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of quantum principles.",
+    "weight": -2
+  }
+]

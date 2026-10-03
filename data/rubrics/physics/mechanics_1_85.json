@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Distance",
+    "description": "Essential Criteria: The correct expression for the distance d between the particles must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Center of Mass Acceleration",
+    "description": "Essential Criteria: The acceleration of the center of mass must be correctly derived and stated.",
+    "weight": 5
+  },
+  {
+    "title": "Oscillation Frequency",
+    "description": "Essential Criteria: The frequency of small oscillations around the equilibrium position must be accurately calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: The general solution of the equations of motion for the particles must be correctly formulated.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb Force Inclusion",
+    "description": "Important Criteria: The inclusion of the Coulomb force in the equations of motion must be correctly addressed.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Constants",
+    "description": "Optional Criteria: The constants of integration in the general solution should be mentioned, indicating awareness of initial conditions.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any unit mistakes or inconsistencies in the final answers must be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the equations of motion or final expressions should be noted.",
+    "weight": -2
+  }
+]

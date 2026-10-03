@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Estimate",
+    "description": "Essential Criteria: Provide the correct final estimate for the ground state energy E_0.",
+    "weight": 5
+  },
+  {
+    "title": "Trial Function Justification",
+    "description": "Important Criteria: Explain why the trial function x^p e^{-ax} is appropriate for the variational method.",
+    "weight": 4
+  },
+  {
+    "title": "Optimal p Value",
+    "description": "Important Criteria: Identify and justify the optimal value of p for minimizing the energy.",
+    "weight": 4
+  },
+  {
+    "title": "Orthogonality Condition",
+    "description": "Essential Criteria: State the condition under which the variational theorem can be applied to the first excited state.",
+    "weight": 5
+  },
+  {
+    "title": "Trial Function for Excited State",
+    "description": "Important Criteria: Explain why the function phi_1 = x phi_0 is suitable for the first excited state.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Identify any common errors related to normalization or incorrect assumptions about p.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Check for consistency in units throughout the calculations.",
+    "weight": -1
+  }
+]

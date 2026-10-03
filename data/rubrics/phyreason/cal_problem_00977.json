@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Period Calculation",
+    "description": "Essential Criteria: Student correctly calculates the period T = 2.0 s from the given time to the second trough.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Speed Determination",
+    "description": "Important Criteria: Student correctly determines the wave speed using v = λ/T, with λ = 4 m from the diagram.",
+    "weight": 4
+  },
+  {
+    "title": "Time Delay to N",
+    "description": "Important Criteria: Student calculates the time for the wave to travel from M to N using Δt = Δx/v, finding Δt = 3.5 s.",
+    "weight": 4
+  },
+  {
+    "title": "N's Vibration Time",
+    "description": "Important Criteria: Student correctly finds the time particle N has been vibrating by subtracting the delay from the total time (10 s - Δt = 6.5 s).",
+    "weight": 4
+  },
+  {
+    "title": "Particle Distance Formula",
+    "description": "Important Criteria: Student applies the correct relationship s = 4A × n for total distance traveled by a particle in SHM over n complete cycles plus partial cycles.",
+    "weight": 3
+  },
+  {
+    "title": "Final Distance Answer",
+    "description": "Essential Criteria: Student correctly calculates the total distance traveled by particle N as 26 cm (or 0.26 m).",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect Trough Timing",
+    "description": "Pitfall Criteria: Student incorrectly relates the time to the second trough (e.g., using t₁ = T or t₁ = 2T) leading to a wrong period.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing Distance with Displacement",
+    "description": "Pitfall Criteria: Student calculates the net displacement (which is zero after complete cycles) instead of the total path length traveled by particle N.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Student maintains consistent units throughout (e.g., converting cm to m appropriately) and includes units in final answers.",
+    "weight": 1
+  }
+]

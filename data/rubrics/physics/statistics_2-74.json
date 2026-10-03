@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for N",
+    "description": "Essential Criteria: The student must provide the correct expression for N including the numerical constant.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for C_v",
+    "description": "Essential Criteria: The student must correctly state that C_v is proportional to T^3.",
+    "weight": 5
+  },
+  {
+    "title": "Density of States",
+    "description": "Important Criteria: The student should derive or reference the density of states for the photon gas correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The student must set up the integrals for N and energy density correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Beta",
+    "description": "Important Criteria: The student should correctly define and use beta in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect limits of integration or sign mistakes.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Qualitative Explanation",
+    "description": "Optional Criteria: The student should provide a qualitative explanation for the heat capacity result.",
+    "weight": 2
+  }
+]

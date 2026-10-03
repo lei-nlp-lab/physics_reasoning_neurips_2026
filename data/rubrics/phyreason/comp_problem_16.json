@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Axis potential formula",
+    "description": "Essential: Correctly states the electrostatic potential along the z-axis as Φ(z) = q/(4πε₀√(R²+z²)).",
+    "weight": 5
+  },
+  {
+    "title": "Small-z expansion",
+    "description": "Important: Applies binomial/Taylor expansion to obtain the potential approximation Φ(z) ≈ (q/(4πε₀R))(1 - z²/(2R²)) for z ≪ R.",
+    "weight": 4
+  },
+  {
+    "title": "Oscillation force and sign",
+    "description": "Essential: Derives the axial force F(z) = -(qe/(4πε₀R³))z and identifies q > 0 for restoring harmonic motion.",
+    "weight": 5
+  },
+  {
+    "title": "Angular frequency derivation",
+    "description": "Important: Relates force to SHM to find ω = √(qe/(4πε₀mR³)).",
+    "weight": 3
+  },
+  {
+    "title": "Off-axis potential constant β",
+    "description": "Important: Uses series expansion or Gauss's law to determine β = 1/(16πε₀R³).",
+    "weight": 4
+  },
+  {
+    "title": "Off-axis radial force",
+    "description": "Important: Calculates the radial force on an electron at point B as F(r) = (qe/(8πε₀R³))r.",
+    "weight": 3
+  },
+  {
+    "title": "Capacitance calculation",
+    "description": "Important: Integrates or uses logarithmic potential to find C = 4π²ε₀R / ln(8R/a).",
+    "weight": 3
+  },
+  {
+    "title": "Focal length for static charge",
+    "description": "Essential: Derives focal length f = -E/(e q d β) from kinematics under constant radial force.",
+    "weight": 5
+  },
+  {
+    "title": "Focal length for time-varying charge",
+    "description": "Essential: Derives focal length f = -E/(e C V₀ d β) and identifies effective charge q_eff = C V₀.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit errors",
+    "description": "Pitfall: Makes sign mistakes in force direction, oscillation condition, or focal length expression.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied approximation",
+    "description": "Pitfall: Incorrectly applies the Taylor expansion or small-parameter approximations (z≪R, r≪R).",
+    "weight": -1
+  }
+]

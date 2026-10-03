@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric Field Expression",
+    "description": "Essential Criteria: The student must correctly derive the electric field expression from the dipole potential.",
+    "weight": 5
+  },
+  {
+    "title": "Force Expression",
+    "description": "Essential Criteria: The student must correctly express the force on the charge in terms of the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Mass Expression",
+    "description": "Essential Criteria: The student must derive the expression for mass in terms of charge, dipole moment, and gravitational acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Gradient Application",
+    "description": "Important Criteria: The student must correctly apply the gradient operator to the potential to find the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Pendulum Analogy",
+    "description": "Important Criteria: The student must clearly relate the motion of the charge to the motion of a pendulum.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating forces and fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  },
+  {
+    "title": "Spherical Coordinates",
+    "description": "Optional Criteria: The student may include a clear explanation of how spherical coordinates are used in the derivation.",
+    "weight": 2
+  }
+]

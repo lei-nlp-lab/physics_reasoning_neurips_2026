@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial velocity magnitude",
+    "description": "Essential: The response must correctly state the initial horizontal velocity as √(3gL).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity after taut",
+    "description": "Essential: The response must correctly state the ball's velocity immediately after the rope becomes taut as 0.",
+    "weight": 5
+  },
+  {
+    "title": "Tension at lowest point",
+    "description": "Essential: The response must correctly state the tension at the lowest point as 2mg.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: The solution must correctly relate the given horizontal and vertical displacements to the initial velocity and time of flight before the rope becomes taut.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: The solution must apply conservation of mechanical energy correctly to find the speed at the lowest point after the rope becomes taut.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law at lowest point",
+    "description": "Important: The solution must apply Newton's second law (centripetal force) at the lowest point to relate tension, weight, and speed.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse consideration",
+    "description": "Optional: The solution may note that the velocity component perpendicular to the rope is eliminated by an impulse when the rope becomes taut.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect taut velocity",
+    "description": "Pitfall: Penalize if the student incorrectly uses the velocity just before the rope becomes taut (2√(gL)) as the velocity just after it becomes taut.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the final answers have incorrect signs, missing square roots, or incorrect units/dimensions.",
+    "weight": -1
+  }
+]

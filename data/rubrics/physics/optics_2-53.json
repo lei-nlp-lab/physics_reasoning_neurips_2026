@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Grating Equation",
+    "description": "Essential Criteria: Correctly apply the grating equation d sin(theta) = k lambda.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength Calculation",
+    "description": "Essential Criteria: Calculate the wavelengths for k values that yield visible light.",
+    "weight": 5
+  },
+  {
+    "title": "Color Identification",
+    "description": "Important Criteria: Identify the correct colors corresponding to the calculated wavelengths.",
+    "weight": 4
+  },
+  {
+    "title": "Correct d Value",
+    "description": "Important Criteria: Use the correct value for d derived from the grating lines per mm.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure all wavelengths are reported in consistent units (Ångströms).",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes in the application of the grating equation.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Wavelengths",
+    "description": "Pitfall Criteria: Ensure all possible wavelengths for k values are calculated and reported.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Force Expression",
+    "description": "Essential Criteria: The student must correctly derive the expression for the force acting on the electron as a function of distance r.",
+    "weight": 5
+  },
+  {
+    "title": "Motion Type",
+    "description": "Essential Criteria: The student must accurately identify the type of motion executed by the electron.",
+    "weight": 5
+  },
+  {
+    "title": "Frequency Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the frequency of the electron's motion.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Charge Density",
+    "description": "Important Criteria: The student should correctly apply the concept of charge density in deriving the force expression.",
+    "weight": 4
+  },
+  {
+    "title": "Harmonic Motion Justification",
+    "description": "Important Criteria: The student must explain why the force indicates simple harmonic motion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student may make sign mistakes in the force expression or frequency derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student might omit necessary factors in the force or frequency expressions.",
+    "weight": -2
+  }
+]

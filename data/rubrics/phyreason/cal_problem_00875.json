@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct velocity expression",
+    "description": "Essential Criteria: Student must provide the correct maximum velocity expression(s) for the given charge scenario.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important Criteria: Student must correctly apply the Lorentz force law to derive the cyclotron radius formula R = mv/(|q|B).",
+    "weight": 4
+  },
+  {
+    "title": "Geometric constraint setup",
+    "description": "Important Criteria: Student must establish the correct geometric relationship between the orbit radius R, the field width d, and the injection point relative to the boundaries.",
+    "weight": 4
+  },
+  {
+    "title": "Charge sign consideration",
+    "description": "Important Criteria: Student must recognize that the maximum velocity differs for positive and negative charges due to opposite deflection directions.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional Criteria: Student should show clear algebraic steps to solve for v from the geometric constraint and radius formula.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Student may verify that the final velocity expression has correct units (m/s).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius formula",
+    "description": "Pitfall Criteria: Student incorrectly states the cyclotron radius (e.g., R = Bq/(mv) or missing absolute value).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong geometric relationship",
+    "description": "Pitfall Criteria: Student uses an incorrect geometric constraint (e.g., d = R, d = 2R, or wrong trigonometric relationship).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in final answer",
+    "description": "Pitfall Criteria: Student provides a negative velocity magnitude or confuses the (2±√2) factors between charge signs.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct period expression",
+    "description": "Essential Criteria: The final answer for part (1) must be T = (3π/2)√(l/g).",
+    "weight": 5
+  },
+  {
+    "title": "Correct planet mass",
+    "description": "Essential Criteria: The final answer for part (2) must be M = (4gR²)/G.",
+    "weight": 5
+  },
+  {
+    "title": "Period as composite motion",
+    "description": "Important Criteria: The solution must treat the full oscillation as two half-periods from two different pendulum lengths (l and l/4).",
+    "weight": 4
+  },
+  {
+    "title": "Relating periods to gravity",
+    "description": "Important Criteria: The solution must correctly relate the measured period on planet X to its surface gravity g' using the formula from part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Applying Newton's law of gravitation",
+    "description": "Important Criteria: The solution must apply g' = GM/R² to solve for the planet's mass M.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The final answers should have correct dimensional units for period and mass.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect half-period sum",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly sums the half-periods, e.g., using the full period for each segment or misidentifying the lengths.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or ratio error",
+    "description": "Pitfall Criteria: Penalize sign errors, incorrect inversion of the period ratio, or algebraic mistakes when solving for g' or M.",
+    "weight": -1
+  }
+]

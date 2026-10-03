@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer Outside",
+    "description": "Essential Criteria: The expression for the electric field outside the sphere must be correctly stated as E = Q/(4 pi epsilon_0 r^2).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Inside",
+    "description": "Essential Criteria: The expression for the electric field inside the sphere must be correctly stated as E = Qr/(4 pi epsilon_0 R^3).",
+    "weight": 5
+  },
+  {
+    "title": "Charge Density Calculation",
+    "description": "Important Criteria: The volume charge density must be correctly calculated as rho = Q/(4/3 pi R^3).",
+    "weight": 4
+  },
+  {
+    "title": "Application of Gauss's Law",
+    "description": "Important Criteria: The application of Gauss's law must be correctly shown, including the integral setup.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry Argument",
+    "description": "Important Criteria: The reasoning about the symmetry of the electric field must be clearly articulated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units of the electric field should be checked for consistency throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: Any sign mistakes in the final expressions for the electric field will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors such as 4 pi in the electric field equations will result in a deduction.",
+    "weight": -2
+  }
+]

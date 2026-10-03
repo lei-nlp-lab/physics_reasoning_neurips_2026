@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates a₁ = 2 m/s² using kinematic equations with given distance and final speed.",
+    "weight": 5
+  },
+  {
+    "title": "Braking force magnitude",
+    "description": "Essential: Correctly calculates resistance force = 9000 N using Newton's second law with bus mass and deceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Seat force magnitude",
+    "description": "Essential: Correctly calculates F = 60√26 N as vector sum of horizontal (ma₁) and vertical (mg) components.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic reasoning",
+    "description": "Important: Applies v² = 2a₁x₁ for acceleration phase and v² = 2a₂x₃ for braking phase with consistent units.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law application",
+    "description": "Important: Uses F = ma correctly for both bus braking force and student horizontal force components.",
+    "weight": 4
+  },
+  {
+    "title": "Force decomposition",
+    "description": "Important: Recognizes seat force has both horizontal (acceleration-related) and vertical (weight-related) components.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts 43.2 km/h to 12 m/s before calculations and maintains consistent SI units throughout.",
+    "weight": 2
+  },
+  {
+    "title": "Vector combination",
+    "description": "Optional: Uses Pythagorean theorem to combine force components into magnitude correctly.",
+    "weight": 2
+  },
+  {
+    "title": "Speed conversion error",
+    "description": "Pitfall: Fails to convert 43.2 km/h to m/s, leading to incorrect acceleration values.",
+    "weight": -2
+  },
+  {
+    "title": "Component omission",
+    "description": "Pitfall: Calculates only horizontal or only vertical component of seat force, missing vector nature.",
+    "weight": -1
+  }
+]

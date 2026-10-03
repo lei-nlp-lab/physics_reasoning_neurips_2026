@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocity after collision",
+    "description": "Essential: The student must correctly compute v₀ = 5 m/s for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Normal force expression",
+    "description": "Essential: The student must derive the linear relationship F_N = 0.1h - 0.14 N (for h ≥ 1.2 m) for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Range of x for h intervals",
+    "description": "Essential: The student must provide both correct intervals for x in part (3): 2.6 m < x ≤ 3 m for 0.9 < h < 1.2 m, and (3 + √3/5) m ≤ x ≤ (3.6 + √3/5) m for 1.2 m ≤ h ≤ 1.65 m.",
+    "weight": 5
+  },
+  {
+    "title": "Elastic collision setup",
+    "description": "Important: The student must apply both momentum and kinetic energy conservation correctly for the elastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-work analysis on CD",
+    "description": "Important: The student must use the work-energy theorem with friction to find stopping distances on segment CD for different scenarios.",
+    "weight": 4
+  },
+  {
+    "title": "Condition to reach point E",
+    "description": "Important: The student must identify the minimum height h₁ = 1.2 m required for block a to reach the highest point E of the pipe.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance at highest point",
+    "description": "Important: The student must apply Newton's second law at point E, relating normal force, weight, and centripetal force.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile motion from E",
+    "description": "Optional: The student may calculate the time of fall from E to FG and the corresponding horizontal displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error for F_N",
+    "description": "Pitfall: The student incorrectly states the direction of the normal force (should be downward at the top if needed) or mishandles signs in the force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Friction work miscalculation",
+    "description": "Pitfall: The student uses an incorrect friction force or distance when applying the work-energy theorem on MN/CD.",
+    "weight": -1
+  }
+]

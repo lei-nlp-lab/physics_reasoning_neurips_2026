@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct drift velocity of 10^{-2} cm/sec must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Formula",
+    "description": "Important Criteria: The student should apply the formula for drift velocity, which relates current, charge density, and cross-sectional area.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The student must show clear calculations leading to the final answer, including any necessary conversions.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect unit conversions or miscalculating the area of the wire.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mass ratio calculation",
+    "description": "Essential: The final answer for part (1) must be the correct mass ratio, 19/36 or its decimal equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Initial pressure of B",
+    "description": "Important: The student must correctly calculate the initial pressure of gas B as 90 cmHg by adding the mercury column pressure to gas A's pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Boyle's law for masses",
+    "description": "Important: The student must apply Boyle's law to relate the initial pressures and volumes of A and B to find the ratio of their masses.",
+    "weight": 4
+  },
+  {
+    "title": "Final piston displacement",
+    "description": "Essential: The final answer for part (2) must be the correct displacement, approximately 3.35 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Post-compression pressures",
+    "description": "Important: The student must correctly find the new pressures for gases A and B after the piston is moved, using the given final pressure for B.",
+    "weight": 4
+  },
+  {
+    "title": "Boyle's law for compression",
+    "description": "Important: The student must apply Boyle's law separately to gases A and B to find their new lengths after the piston is moved.",
+    "weight": 4
+  },
+  {
+    "title": "Displacement from geometry",
+    "description": "Important: The student must correctly combine the changes in lengths of columns A and B to find the total piston displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Pressure sign error",
+    "description": "Pitfall: Penalize if the student incorrectly sets the pressure relationship between A and B, e.g., subtracting the mercury column when they should add it.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student maintains consistent use of cmHg for pressure and cm for length throughout the calculation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) is correctly derived as E = mv₀²/(2ed).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: The final answer for part (2) is correctly derived as B = mv₀/(ed).",
+    "weight": 5
+  },
+  {
+    "title": "Total time A to D",
+    "description": "Essential: The final answer for part (3) is correctly derived as t = 3d(4 + π)/(2v₀).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: Correctly applies projectile motion to find the acceleration and time from A to C using given distances d and 2d.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at boundary",
+    "description": "Important: Correctly calculates the speed and 45° entry angle of the electron as it enters the magnetic field region.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion in B-field",
+    "description": "Important: Applies Newton's second law with Lorentz force (evB = mv²/r) and uses geometry to relate the circular path radius to distance d.",
+    "weight": 4
+  },
+  {
+    "title": "Time composition",
+    "description": "Important: Correctly sums the time spent in the electric field (three equal segments) and the 3/4 period spent in the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns sign to the electron's charge in force equations (e.g., using +e instead of -e, or mishandling vector directions).",
+    "weight": -2
+  },
+  {
+    "title": "Geometric radius mistake",
+    "description": "Pitfall: Incorrectly identifies the radius of the circular arc in the magnetic field, failing to derive r = √2 d from the path through the origin.",
+    "weight": -1
+  }
+]

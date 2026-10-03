@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates the magnetic induction B for part (1) as B = 6√(mE/(qd)).",
+    "weight": 5
+  },
+  {
+    "title": "Changed electric field",
+    "description": "Essential: Correctly calculates the changed electric field strength E' for part (2) as E' = 36E.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity",
+    "description": "Essential: Correctly calculates the initial velocity v0 for part (2) as v0 = 9√(qEd/m).",
+    "weight": 5
+  },
+  {
+    "title": "Third entry determination",
+    "description": "Essential: Correctly concludes that the particle will not enter the electric field for a third time from point P in part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem to relate electric field work to changes in kinetic energy for acceleration within the field.",
+    "weight": 3
+  },
+  {
+    "title": "Lorentz force geometry",
+    "description": "Important: Uses the Lorentz force as centripetal force (qvB = mv²/R) and solves for trajectory radii using geometric constraints in the magnetic field region.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion kinematics",
+    "description": "Important: Correctly sets up and solves kinematic equations for the particle's motion in the electric field, treating it as a projectile.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of the Lorentz force, magnetic field, or velocity components, leading to incorrect geometry or equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or root inconsistency",
+    "description": "Pitfall: Makes algebraic errors in solving simultaneous equations, resulting in incorrect numerical factors or dimensional inconsistencies in final expressions.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative approach check",
+    "description": "Optional: Verifies answers through energy conservation or symmetry arguments for the cyclic motion between electric and magnetic fields.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Velocities BC",
+    "description": "Essential Criteria: The student must provide the correct final velocity of the center of mass of rod BC as (0, -P/(4m)).",
+    "weight": 5
+  },
+  {
+    "title": "Final Velocities AB",
+    "description": "Essential Criteria: The student must provide the correct final velocity of the center of mass of rod AB as (0, 5P/(4m)).",
+    "weight": 5
+  },
+  {
+    "title": "Angular Velocities",
+    "description": "Essential Criteria: The student must correctly derive and state the angular velocities as theta1_dot = 3P/(2ma) and theta2_dot = -9P/(2ma).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Impulse",
+    "description": "Important Criteria: The student should correctly apply the impulse and its effects on the system's motion.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic Energy Expression",
+    "description": "Important Criteria: The student should derive the correct expression for the total kinetic energy of the system.",
+    "weight": 4
+  },
+  {
+    "title": "Lagrange's Equations",
+    "description": "Important Criteria: The student must correctly set up and apply Lagrange's equations for impulsive motion.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the equations derived from Lagrange's equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

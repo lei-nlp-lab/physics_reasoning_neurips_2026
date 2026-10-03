@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must provide the correct eigenvalue of the operator CQ + QC, which is 0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly state that there are no common eigenstates unless q = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Application of Operators",
+    "description": "Important Criteria: The student should correctly apply the operators CQ and QC to the eigenstate |psi_q\u0000a.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding Anticommutation",
+    "description": "Important Criteria: The student must explain the anticommutation relation between C and Q accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Reasoning",
+    "description": "Optional Criteria: The student should present their reasoning clearly and logically throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes when applying the charge conjugation operator.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Eigenvalue Explanation",
+    "description": "Pitfall Criteria: The student should not neglect to explain why the eigenvalue is zero for part (a).",
+    "weight": -1
+  }
+]

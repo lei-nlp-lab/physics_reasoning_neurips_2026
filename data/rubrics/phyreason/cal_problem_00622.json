@@ -1,0 +1,52 @@
+[
+  {
+    "title": "X-direction motion type",
+    "description": "Essential: Correctly identifies motion in x-direction as uniform linear motion from displacement-time graph.",
+    "weight": 5
+  },
+  {
+    "title": "Y-direction motion type",
+    "description": "Essential: Correctly identifies motion in y-direction as uniformly accelerated linear motion from velocity-time graph.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity magnitude calculation",
+    "description": "Essential: Correctly computes velocity magnitude using Pythagorean theorem with x and y components at t=2s.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude calculation",
+    "description": "Essential: Correctly computes displacement magnitude using Pythagorean theorem with x and y displacements at t=2s.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity components extraction",
+    "description": "Important: Correctly reads v_x from x-displacement graph slope and v_y from y-velocity graph at t=2s.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement components extraction",
+    "description": "Important: Correctly reads x-displacement from graph and calculates y-displacement from velocity-time graph area at t=2s.",
+    "weight": 3
+  },
+  {
+    "title": "Graph interpretation reasoning",
+    "description": "Optional: Explains how graph shapes indicate uniform vs. accelerated motion.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes proper units (m/s, m) in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing displacement with velocity",
+    "description": "Pitfall: Misinterpreting x-displacement graph as velocity graph or vice versa.",
+    "weight": -2
+  },
+  {
+    "title": "Vector addition error",
+    "description": "Pitfall: Adding velocity/displacement components linearly instead of using Pythagorean theorem.",
+    "weight": -2
+  }
+]

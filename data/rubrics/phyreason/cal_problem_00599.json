@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Component along incline",
+    "description": "Essential: The student must correctly state the component of the pulling force along the incline as F cos β.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force magnitude",
+    "description": "Essential: The student must correctly state the magnitude of the normal force as G cos α - F sin β.",
+    "weight": 5
+  },
+  {
+    "title": "Frictional force magnitude",
+    "description": "Essential: The student must correctly state the magnitude of the frictional force as F cos β - G sin α.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: The solution must apply Newton's first law (equilibrium) for constant velocity, resolving forces parallel and perpendicular to the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Correct force decomposition",
+    "description": "Important: The solution must correctly decompose the applied force F into components parallel (F cos β) and perpendicular (F sin β) to the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Weight component identification",
+    "description": "Important: The solution must correctly decompose the weight G into components parallel (G sin α) and perpendicular (G cos α) to the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Friction direction consistency",
+    "description": "Important: The solution must correctly identify that friction acts down the incline, opposing the upward motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: A common error is to incorrectly add F sin β in the normal force equation, writing G cos α + F sin β.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in friction force",
+    "description": "Pitfall: A common error is to incorrectly add the weight component, writing F cos β + G sin α, or reverse the subtraction order.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inclusion or clarity",
+    "description": "Optional: The final answers explicitly include units (N) or clearly state the quantities are forces.",
+    "weight": 1
+  }
+]

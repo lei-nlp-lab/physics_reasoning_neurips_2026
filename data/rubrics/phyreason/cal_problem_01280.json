@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force magnitude",
+    "description": "Essential: The student's final answer for part (1) must correctly state the normal force as 35 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Frictional force magnitude",
+    "description": "Essential: The student's final answer for part (1) must correctly state the static friction force as 5√3 N (or equivalent decimal).",
+    "weight": 5
+  },
+  {
+    "title": "Vertical force balance reasoning",
+    "description": "Important: The solution must apply Newton's first law in the vertical direction, correctly resolving F into components (N = mg - F sin θ).",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal force balance reasoning",
+    "description": "Important: The solution must apply Newton's first law in the horizontal direction, equating friction to the horizontal component of F (f = F cos θ).",
+    "weight": 3
+  },
+  {
+    "title": "Friction at impending motion",
+    "description": "Important: For part (2), the solution must state that at the point of sliding, the horizontal force component equals the maximum static friction (F₀ cos θ = μ N₀).",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at increased F",
+    "description": "Important: For part (2), the solution must correctly calculate the new normal force when F=20 N using vertical equilibrium (N₀ = mg - F₀ sin θ).",
+    "weight": 3
+  },
+  {
+    "title": "Coefficient of friction",
+    "description": "Essential: The student's final answer for part (2) must correctly give the coefficient of kinetic friction as √3/3 (or equivalent decimal/numeric form).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Penalize if the student incorrectly adds the vertical component of F to the weight when calculating the normal force (e.g., N = mg + F sin θ).",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or misuse",
+    "description": "Pitfall: Penalize if final numerical answers for forces lack units (N) or if the coefficient is given with incorrect units.",
+    "weight": -1
+  }
+]

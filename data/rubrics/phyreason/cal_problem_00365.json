@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Square flux calculation",
+    "description": "Essential: Student correctly calculates Φ₁ = BL² using the area of the square.",
+    "weight": 5
+  },
+  {
+    "title": "Perimeter conservation",
+    "description": "Important: Student states or uses that the perimeter of the square (4L) equals the circumference of the circle.",
+    "weight": 4
+  },
+  {
+    "title": "Circle radius derivation",
+    "description": "Important: Student correctly derives the circle's radius as r = 2L/π from the conserved perimeter.",
+    "weight": 4
+  },
+  {
+    "title": "Circle flux calculation",
+    "description": "Essential: Student correctly calculates Φ₂ = Bπr² and simplifies to 4BL²/π.",
+    "weight": 5
+  },
+  {
+    "title": "Flux formula application",
+    "description": "Important: Student correctly applies the magnetic flux formula Φ = B⋅A for both geometries, noting field is perpendicular.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes or verifies correct units (T·m² or Wb) for magnetic flux.",
+    "weight": 1
+  },
+  {
+    "title": "Perimeter misuse",
+    "description": "Pitfall: Student incorrectly assumes area is conserved instead of perimeter when finding the circle's dimensions.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic error",
+    "description": "Pitfall: Student makes an algebraic mistake in deriving the radius or area of the circle (e.g., r = L/π, r = 4L/π).",
+    "weight": -1
+  }
+]

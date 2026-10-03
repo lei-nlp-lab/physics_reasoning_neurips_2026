@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Historical Problem",
+    "description": "Essential Criteria: Clearly state the need for a mechanism to prevent atoms from emitting light before Quantum Mechanics.",
+    "weight": 5
+  },
+  {
+    "title": "Quantum Explanation",
+    "description": "Essential Criteria: Explain how Quantum Mechanics allows atoms in excited states to remain stable without emitting light.",
+    "weight": 5
+  },
+  {
+    "title": "Emission Mechanism",
+    "description": "Essential Criteria: Describe the role of the single-photon creation operator in the emission of light from excited atoms.",
+    "weight": 5
+  },
+  {
+    "title": "Classical Electrodynamics",
+    "description": "Important Criteria: Discuss the implications of classical electrodynamics on atomic stability and light emission.",
+    "weight": 4
+  },
+  {
+    "title": "Spontaneous Transition",
+    "description": "Important Criteria: Mention the concept of spontaneous transition in excited states leading to light emission.",
+    "weight": 4
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: Avoid stating that atoms in excited states do not emit light at all, as spontaneous emission occurs.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Terminology",
+    "description": "Optional Criteria: Use appropriate terminology related to quantum mechanics and atomic structure throughout the explanation.",
+    "weight": 2
+  }
+]

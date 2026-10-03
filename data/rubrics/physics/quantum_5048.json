@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave Functions",
+    "description": "Essential Criteria: The student must correctly identify the wave functions for the three lowest states of the two-dimensional harmonic oscillator.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Values",
+    "description": "Essential Criteria: The student must provide the correct energy values corresponding to the identified wave functions.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Calculation",
+    "description": "Important Criteria: The student must correctly compute the first order energy corrections due to the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Degeneracy Handling",
+    "description": "Important Criteria: The student must recognize and appropriately handle the degeneracy of the states when calculating perturbation effects.",
+    "weight": 3
+  },
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the corrected energies after applying perturbation theory.",
+    "weight": 5
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Optional Criteria: The student may include a correct evaluation of the integrals involved in the perturbation calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the calculations of energy corrections.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

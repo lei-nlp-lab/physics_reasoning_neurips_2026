@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must correctly express S as a function of H/T, indicating S = f(H/T).",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic Process Explanation",
+    "description": "Important Criteria: The student should explain how adiabatic demagnetization leads to cooling by maintaining the ratio H/T constant.",
+    "weight": 4
+  },
+  {
+    "title": "Low Temperature Requirement",
+    "description": "Important Criteria: The student must discuss why adiabatic demagnetization is effective only at very low temperatures.",
+    "weight": 3
+  },
+  {
+    "title": "Negative Temperature Concept",
+    "description": "Important Criteria: The student should clarify the concept of negative temperature and its implications for achieving T = 0.",
+    "weight": 3
+  },
+  {
+    "title": "Partition Function Derivation",
+    "description": "Optional Criteria: The student may derive the partition function correctly, showing understanding of the system's energy levels.",
+    "weight": 2
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors related to signs or factors in the equations for S and E.",
+    "weight": -2
+  },
+  {
+    "title": "Thermodynamic Consistency",
+    "description": "Optional Criteria: The student should check that the derived expressions are consistent with thermodynamic principles.",
+    "weight": 1
+  }
+]

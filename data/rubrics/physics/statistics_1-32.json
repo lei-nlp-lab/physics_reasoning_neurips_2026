@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Definition of Carnot Cycle",
+    "description": "Essential Criteria: The student must correctly define what a Carnot cycle is.",
+    "weight": 5
+  },
+  {
+    "title": "pV and ST Diagrams",
+    "description": "Important Criteria: The student should provide accurate illustrations of the Carnot cycle on both pV and ST diagrams.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency Derivation",
+    "description": "Essential Criteria: The student must derive the efficiency formula for the Carnot engine correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ideal Gas Law",
+    "description": "Important Criteria: The student should apply the ideal gas law appropriately in the derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Final Efficiency Expression",
+    "description": "Essential Criteria: The student must present the final expression for efficiency as eta = 1 - T2/T1.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect signs or missing factors in the efficiency calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Reversibility Consideration",
+    "description": "Optional Criteria: The student may mention the impact of reversibility on the efficiency of the Carnot cycle.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  }
+]

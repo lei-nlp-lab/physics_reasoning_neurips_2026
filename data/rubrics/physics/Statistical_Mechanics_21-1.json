@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Gibbs Relation",
+    "description": "Essential Criteria: The student must correctly state that g_l = g_g for equilibrium between phases.",
+    "weight": 5
+  },
+  {
+    "title": "Clausius-Clapeyron Equation",
+    "description": "Essential Criteria: The student must express dP/dT in terms of s_l, s_g, v_l, and v_g.",
+    "weight": 5
+  },
+  {
+    "title": "Triple Point Values",
+    "description": "Essential Criteria: The student must provide the correct final values for T and P at the triple point of ammonia.",
+    "weight": 5
+  },
+  {
+    "title": "Thermodynamic Principles",
+    "description": "Important Criteria: The student should explain the thermodynamic principles leading to ΔG = 0 clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Chemical Potential Changes",
+    "description": "Important Criteria: The student should discuss how chemical potentials change with temperature and pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Transfer Understanding",
+    "description": "Optional Criteria: The student may mention the role of heat transfer in maintaining temperature during phase changes.",
+    "weight": 2
+  },
+  {
+    "title": "Ideal Gas Assumption",
+    "description": "Optional Criteria: The student may note the assumption that the vapor behaves as an ideal gas.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the derivation of relationships between g_l and g_g.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

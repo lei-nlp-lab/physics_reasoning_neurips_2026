@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electrostatic constant value",
+    "description": "Essential: Student must provide the correct numerical value for k: 9.0 × 10⁹.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational constant unit",
+    "description": "Essential: Student must correctly write the SI unit for G: N·m²/kg².",
+    "weight": 5
+  },
+  {
+    "title": "Mass calculation",
+    "description": "Essential: Student must provide the final mass value: 1.2 × 10¹⁰ kg.",
+    "weight": 5
+  },
+  {
+    "title": "Force equation setup",
+    "description": "Important: Student must set up both force equations (Coulomb's law and Newton's law) and equate them.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Important: Student must correctly solve the equation m = √(k/G) from the equality of forces.",
+    "weight": 3
+  },
+  {
+    "title": "Significant figures",
+    "description": "Important: Student must present all final answers with exactly two significant figures.",
+    "weight": 2
+  },
+  {
+    "title": "Unit omission in mass",
+    "description": "Pitfall: Student provides the numerical value for mass without the correct unit (kg).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect square root handling",
+    "description": "Pitfall: Student makes an algebraic error, such as writing m = k/G instead of m = √(k/G).",
+    "weight": -2
+  },
+  {
+    "title": "Given constant misuse",
+    "description": "Pitfall: Student incorrectly uses the provided value √(1/6.67) = 0.387, perhaps by substituting it for G or k directly.",
+    "weight": -1
+  }
+]

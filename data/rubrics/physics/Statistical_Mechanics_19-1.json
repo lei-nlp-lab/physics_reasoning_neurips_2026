@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Distribution Function",
+    "description": "Essential Criteria: The expression for the distribution function f(ε, T=0) must be correctly identified as a step function.",
+    "weight": 5
+  },
+  {
+    "title": "Total Energy Expression",
+    "description": "Essential Criteria: The total ground state kinetic energy U must be expressed as U = (3/5) N ε_F.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure Relation",
+    "description": "Essential Criteria: The relationship between pressure and volume must be derived as p = (2/5) (N/V) ε_F.",
+    "weight": 5
+  },
+  {
+    "title": "Compressibility Derivation",
+    "description": "Essential Criteria: The expression for compressibility K must be correctly derived in terms of N, V, and ε_F.",
+    "weight": 5
+  },
+  {
+    "title": "Integration Check",
+    "description": "Important Criteria: The integral of the density of states must correctly count the number of particles, confirming the relationship between A and B.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the pressure calculation or misinterpretation of the derivatives.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all derived expressions maintain consistent units throughout the calculations.",
+    "weight": 2
+  }
+]

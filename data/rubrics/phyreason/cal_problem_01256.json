@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Conveyor belt acceleration time",
+    "description": "Essential: The student must correctly compute the time for the block to accelerate to the belt's speed (t₁ = 1 s).",
+    "weight": 5
+  },
+  {
+    "title": "Conveyor belt constant speed time",
+    "description": "Essential: The student must correctly compute the time for the block to travel the remaining belt length at constant speed (t₂ = 0.5 s).",
+    "weight": 5
+  },
+  {
+    "title": "Total time on belt",
+    "description": "Essential: The student must correctly sum the acceleration and constant speed times to find the total time for part (1) (t = 1.5 s).",
+    "weight": 5
+  },
+  {
+    "title": "Incline acceleration analysis",
+    "description": "Important: The student must correctly apply Newton's second law to find the block's deceleration on the incline (a₂ = 6 m/s²).",
+    "weight": 4
+  },
+  {
+    "title": "Maximum incline distance",
+    "description": "Important: The student must correctly use kinematics to find the maximum distance the block rises on the incline (sₘ = 1/3 m).",
+    "weight": 4
+  },
+  {
+    "title": "Return conveyor belt analysis",
+    "description": "Important: The student must correctly analyze the block's motion back onto the belt, finding the leftward deceleration (a₃ = 2 m/s²) and displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Total distance calculation",
+    "description": "Essential: The student must correctly compute the total distance traveled in 4.5 seconds (s = 5 m).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Penalize if the student uses the wrong sign for friction during acceleration on the belt or return motion.",
+    "weight": -2
+  },
+  {
+    "title": "Energy conservation misuse",
+    "description": "Pitfall: Penalize if the student incorrectly applies energy conservation, ignoring the non-conservative work done by friction on the belt.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award if the student explicitly shows unit analysis or converts all quantities to consistent SI units.",
+    "weight": 1
+  }
+]

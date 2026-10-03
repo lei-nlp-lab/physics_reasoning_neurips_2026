@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Radius formula correct",
+    "description": "Essential: Student correctly states or derives r1 = mv0/(eB).",
+    "weight": 5
+  },
+  {
+    "title": "Time t1 correct",
+    "description": "Essential: Student correctly states or derives t1 = πm/(eB).",
+    "weight": 5
+  },
+  {
+    "title": "Time t2 correct",
+    "description": "Essential: Student correctly states or derives t2 = πm/(3eB).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force reasoning",
+    "description": "Important: Student applies F = evB = mv0^2/r to relate force to circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Period calculation",
+    "description": "Important: Student correctly finds the period T = 2πm/(eB) from the radius and velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Central angle for electron 2",
+    "description": "Important: Student identifies the correct central angle (60°) for electron 2's arc based on geometry (ac as midpoint of chord ab).",
+    "weight": 4
+  },
+  {
+    "title": "Time fraction from period",
+    "description": "Important: Student correctly relates motion time to period via t = (θ/360°)T or t = (θ/(2π))T.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student uses incorrect sign for electron charge (e as positive) in force/motion equations.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Student incorrectly determines the central angle for electron 2 (e.g., 90°, 120°, 180°).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows unit analysis for final answers (mass, charge, B, time).",
+    "weight": 1
+  }
+]

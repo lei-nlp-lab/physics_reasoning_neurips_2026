@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct final expression for the partial derivative of heat emitted with respect to pressure at constant temperature must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Maxwell's Relation",
+    "description": "Important Criteria: The application of Maxwell's relation to relate entropy and volume must be correctly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Derivation",
+    "description": "Important Criteria: The derivation leading from Maxwell's relation to the final answer must be logically sound and clearly presented.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units for heat emitted, pressure, and temperature should be consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in applying the Maxwell's relation or in the final expression will result in a deduction.",
+    "weight": -2
+  }
+]

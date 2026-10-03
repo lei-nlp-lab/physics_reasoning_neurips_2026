@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential: The student must correctly calculate the acceleration as 4 m/s² using kinematic equations.",
+    "weight": 5
+  },
+  {
+    "title": "Correct normal force value",
+    "description": "Essential: The student must correctly calculate the normal force/pressure on snow as 650 N using mg cosθ.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Important: The student must correctly apply the uniformly accelerated motion equation (x = v₀t + ½at² or equivalent) to find acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Force decomposition on incline",
+    "description": "Important: The student must correctly resolve gravitational force into components parallel and perpendicular to the slope.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The student must apply Newton's second law along the slope (mg sinθ - f = ma) to find resistance.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's third law recognition",
+    "description": "Optional: The student should recognize that the pressure on snow equals the normal force by Newton's third law.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student should include correct units (m/s², N) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Using incorrect sign convention in kinematic equations leading to wrong acceleration sign or magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing force components",
+    "description": "Pitfall: Using sinθ instead of cosθ for normal force, or vice versa for parallel component.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting Newton's third law",
+    "description": "Pitfall: Stating the normal force (650 N) as the snow's force but not identifying it as the pressure on snow.",
+    "weight": -1
+  }
+]

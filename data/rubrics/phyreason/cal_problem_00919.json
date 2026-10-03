@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct round-trip time",
+    "description": "Essential: The student must correctly identify the round-trip time from the emission interval and the ab=bc condition.",
+    "weight": 5
+  },
+  {
+    "title": "Distance formula application",
+    "description": "Essential: The student must apply the formula s = (c * t) / 2 to calculate the distance to the obstacle.",
+    "weight": 5
+  },
+  {
+    "title": "Final numerical answer",
+    "description": "Essential: The student must provide the correct final distance of 7.5 × 10³ m.",
+    "weight": 5
+  },
+  {
+    "title": "Interpretation of timing diagram",
+    "description": "Important: The student must correctly relate the ab=bc condition on the indicator to the emission interval and pulse travel time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: The student must maintain consistent units (e.g., converting μs to s) in the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Explanation of reasoning",
+    "description": "Optional: The student provides a clear step-by-step explanation of how the round-trip time is determined from the given conditions.",
+    "weight": 1
+  },
+  {
+    "title": "Forgetting factor of 1/2",
+    "description": "Pitfall: The student calculates distance using s = c * t (one-way time) instead of s = (c * t) / 2 (round-trip time).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting ab=bc",
+    "description": "Pitfall: The student misinterprets the ab=bc condition, leading to an incorrect round-trip time (e.g., using 100 μs or 1 μs).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity after collision",
+    "description": "Essential Criteria: Student must correctly calculate the velocity of the plank-block system after the elastic collision with the barrier using momentum conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Relative displacement calculation",
+    "description": "Important Criteria: Student must apply the work-energy theorem correctly to find the relative displacement between block and plank after collision.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum length derivation",
+    "description": "Essential Criteria: Student must determine the minimum plank length to prevent the block from falling off when M < m using energy considerations.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important Criteria: Student must properly set up the momentum conservation equation accounting for direction changes after the elastic collision.",
+    "weight": 3
+  },
+  {
+    "title": "Friction work calculation",
+    "description": "Important Criteria: Student must correctly calculate work done by friction in both the relative displacement and minimum length scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall Criteria: Student incorrectly assigns signs to velocities after the elastic collision with the barrier.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student maintains consistent units throughout calculations and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Condition recognition",
+    "description": "Important Criteria: Student recognizes and applies different conditions for M > m and M < m scenarios appropriately.",
+    "weight": 3
+  }
+]

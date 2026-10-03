@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Differential Equation",
+    "description": "Essential Criteria: The student must correctly derive the equation for dr/dtheta in terms of E0, L, G(r), r, and m.",
+    "weight": 5
+  },
+  {
+    "title": "Final Closest Approach Equation",
+    "description": "Essential Criteria: The student must correctly express r_min in terms of E0, L, G(r_min), and m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Application",
+    "description": "Important Criteria: The student should correctly apply the conservation of energy to relate kinetic and potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Application",
+    "description": "Important Criteria: The student should correctly apply the conservation of angular momentum in the derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Sign Usage",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the equations derived.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all terms in the equations have consistent units.",
+    "weight": -1
+  },
+  {
+    "title": "Clear Derivation Steps",
+    "description": "Optional Criteria: The student should provide clear and logical steps in their derivation process.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios relevant to the problem.",
+    "weight": 2
+  }
+]

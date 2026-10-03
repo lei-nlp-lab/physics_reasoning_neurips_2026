@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Free-fall displacement",
+    "description": "Essential: Correctly calculates h₁ = ½gt₁² = 180 m.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall velocity",
+    "description": "Essential: Correctly calculates v = gt₁ = 60 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration displacement",
+    "description": "Important: Uses h₂ = H - h₁ = 120 m to find remaining distance.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration time",
+    "description": "Important: Applies h₂ = ½vt₂ to solve for t₂ = 4 s.",
+    "weight": 4
+  },
+  {
+    "title": "Total time",
+    "description": "Essential: Correctly sums t = t₁ + t₂ = 10 s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for acceleration during deceleration phase.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, m/s, s) throughout solution.",
+    "weight": 1
+  }
+]

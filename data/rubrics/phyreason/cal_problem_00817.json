@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave speed values",
+    "description": "Essential: The response must state at least one correct wave speed (8 m/s, 4 m/s, or 8/3 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Time for B's peak",
+    "description": "Essential: The response must state at least one correct time for B to first reach a peak (0.05 s or 0.15 s).",
+    "weight": 5
+  },
+  {
+    "title": "Period from graph",
+    "description": "Important: The student correctly extracts the wave period (T = 0.2 s) from the provided vibration graph.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength determination",
+    "description": "Important: The student correctly relates the distance d and the condition 'one trough between A and B' to find possible wavelengths (e.g., d = λ/2, λ, 3λ/2).",
+    "weight": 4
+  },
+  {
+    "title": "Phase relationship analysis",
+    "description": "Important: The student considers whether particles A and B are in phase or out of phase to determine the correct time for B to reach a crest.",
+    "weight": 3
+  },
+  {
+    "title": "Wave speed calculation",
+    "description": "Important: The student correctly applies the formula v = λ / T for each determined wavelength.",
+    "weight": 3
+  },
+  {
+    "title": "Multiple scenario recognition",
+    "description": "Optional: The student identifies that the 'one trough between' condition leads to multiple possible wavelengths and thus multiple answers.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect phase assumption",
+    "description": "Pitfall: Penalize if the student assumes only one specific phase relationship (in-phase or out-of-phase) without considering the other, leading to missing a valid time answer.",
+    "weight": -2
+  },
+  {
+    "title": "Wavelength misinterpretation",
+    "description": "Pitfall: Penalize if the student incorrectly interprets 'one trough between A and B' (e.g., assumes d = λ, ignoring other harmonic possibilities).",
+    "weight": -1
+  }
+]

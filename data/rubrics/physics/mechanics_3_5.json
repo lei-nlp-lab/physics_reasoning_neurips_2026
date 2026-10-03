@@ -1,0 +1,42 @@
+[
+  {
+    "title": "4-vector Justification",
+    "description": "Essential Criteria: The student must correctly justify that (c k, omega) is a relativistic 4-vector by relating it to the transformation properties of the components.",
+    "weight": 5
+  },
+  {
+    "title": "Frequency Derivation",
+    "description": "Essential Criteria: The student must derive the correct formulas for the observed frequency when the atom is moving towards and away from the observer.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Lorentz Transform",
+    "description": "Important Criteria: The student should correctly apply the Lorentz transformation to relate the frequencies in different frames.",
+    "weight": 4
+  },
+  {
+    "title": "Clear Presentation",
+    "description": "Important Criteria: The student should present the solution in a clear and logical manner, making it easy to follow the reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors when applying the Lorentz transformation, especially in the context of velocities.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation, particularly when dealing with frequency and wave vectors.",
+    "weight": -1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases, such as low velocities compared to the speed of light, to validate the results.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may explore alternative methods or approaches to derive the frequency transformations, demonstrating deeper understanding.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the local rate of entropy generation per unit volume.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Conduction Law",
+    "description": "Important Criteria: The student should correctly apply Fourier's law of heat conduction in their solution.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Flow Concept",
+    "description": "Important Criteria: The student must demonstrate an understanding of the concept of entropy flow in relation to heat conduction.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature Gradient",
+    "description": "Essential Criteria: The student must correctly identify and utilize the temperature gradient in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes when applying the equations related to heat flow and entropy.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout their calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Irreversible Entropy Increase",
+    "description": "Important Criteria: The student should explain the role of irreversible entropy increase due to temperature inhomogeneity.",
+    "weight": 3
+  }
+]

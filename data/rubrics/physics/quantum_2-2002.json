@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer of 461 MeV is correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Level Equation",
+    "description": "Important Criteria: The energy level equation for a particle in a box is correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Ground State Energy",
+    "description": "Important Criteria: The calculation of the ground state energy E_{111} is correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "First Excited State Energy",
+    "description": "Important Criteria: The calculation of the first excited state energy E_{211} is correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units throughout the calculations are consistent and correctly converted.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the calculations are identified.",
+    "weight": -2
+  }
+]

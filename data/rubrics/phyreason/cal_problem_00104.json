@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocity v0",
+    "description": "Essential: Correctly states the uniform velocity of rod a as v0 = (2mgR sinθ)/(B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Final acceleration a0",
+    "description": "Essential: Correctly states the initial acceleration of rod b as a0 = 2g sinθ.",
+    "weight": 5
+  },
+  {
+    "title": "Final common velocity v",
+    "description": "Essential: Correctly states the common velocity as v = g sinθ * t0 + (mgR sinθ)/(B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Relative distance Δx",
+    "description": "Essential: Correctly states the relative distance as Δx = (2m²R²g sinθ)/(B⁴L⁴).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for rod a",
+    "description": "Important: Applies equilibrium (mg sinθ = BIL) to rod a when it moves uniformly.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis for current",
+    "description": "Important: Uses Ohm's law and Faraday's law to find the induced current I = (BLv)/(2R).",
+    "weight": 4
+  },
+  {
+    "title": "Momentum theorem application",
+    "description": "Important: Applies the impulse-momentum theorem separately to each rod during the time t0.",
+    "weight": 4
+  },
+  {
+    "title": "Average induced EMF",
+    "description": "Optional: Correctly relates average EMF to the relative displacement (E_avg = BLΔx/t0).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Uses wrong sign for magnetic force in Newton's second law for either rod.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect circuit resistance",
+    "description": "Pitfall: Uses R instead of 2R for the total circuit resistance in current calculations.",
+    "weight": -2
+  }
+]

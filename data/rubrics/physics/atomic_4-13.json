@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Mass Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the rest mass of the composite particle as M = sqrt(17) m_0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Velocity Calculation",
+    "description": "Essential Criteria: The student must correctly determine the velocity of the composite particle as v = 1.7 x 10^10 cm/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate understanding of energy conservation by calculating the total energy of the moving particle as 3m_0.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student must apply momentum conservation correctly to relate the momentum of the moving particle to the composite.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Calculation",
+    "description": "Important Criteria: The student should correctly compute the invariant mass squared S = 17m_0^2.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the momentum or energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Gamma Factor Calculation",
+    "description": "Optional Criteria: The student may show the calculation of the gamma factor and its relation to velocity.",
+    "weight": 2
+  },
+  {
+    "title": "Beta Calculation",
+    "description": "Optional Criteria: The student may provide a clear derivation of beta from the gamma factor.",
+    "weight": 2
+  }
+]

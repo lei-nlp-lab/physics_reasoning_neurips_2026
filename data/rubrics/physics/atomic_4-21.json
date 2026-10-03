@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final energy value for the proton.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Important Criteria: The student should correctly apply the invariant mass equation relating the energies and momenta of the colliding protons.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Consideration",
+    "description": "Important Criteria: The student must account for the momentum of the moving proton in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all energy values are expressed in consistent units, such as GeV.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors in calculations, such as sign mistakes or incorrect factor usage.",
+    "weight": -2
+  }
+]

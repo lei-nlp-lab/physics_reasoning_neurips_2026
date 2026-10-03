@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Angle Relation",
+    "description": "Essential Criteria: The relationship between particle velocity, index of refraction, and emission angle must be correctly derived.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Kinetic Energy",
+    "description": "Essential Criteria: The minimum kinetic energy required for Čerenkov radiation must be accurately calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Fractional Error Calculation",
+    "description": "Essential Criteria: The fractional error in the determination of the rest mass must be correctly derived and calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Relativistic Relations",
+    "description": "Important Criteria: Correct application of relativistic energy and momentum relations in the calculations is necessary.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Čerenkov Condition",
+    "description": "Important Criteria: The condition for Čerenkov radiation (v > c/n) must be correctly identified and applied.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations, particularly in energy and momentum.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the derivation or calculation must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Any missing factors in the kinetic energy or fractional error calculations will lead to significant deductions.",
+    "weight": -2
+  }
+]

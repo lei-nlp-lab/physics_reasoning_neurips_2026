@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the upper bound of the lowest s-state energy.",
+    "weight": 5
+  },
+  {
+    "title": "Trial Wave Function",
+    "description": "Important Criteria: The student should correctly identify and use the hydrogenic wave function as the trial function.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation Steps",
+    "description": "Important Criteria: The student must show the correct steps in calculating the expectation value of the Hamiltonian using the trial wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Critical Point Derivation",
+    "description": "Important Criteria: The student should derive the condition for the minimum energy by taking the derivative of the energy with respect to k.",
+    "weight": 3
+  },
+  {
+    "title": "Disregarding k=0",
+    "description": "Important Criteria: The student must correctly identify and discard the solution k=0 as non-physical.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms in the energy expression have consistent units.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the energy calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the final expression for energy.",
+    "weight": -1
+  }
+]

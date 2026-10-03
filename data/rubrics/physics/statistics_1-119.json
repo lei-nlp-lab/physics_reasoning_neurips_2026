@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must provide the correct true or false answers for each statement.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Phases",
+    "description": "Important Criteria: The student should demonstrate understanding of phase behavior at absolute zero and critical temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Boiling Point Comparison",
+    "description": "Important Criteria: The student should correctly compare the boiling points of oxygen and nitrogen.",
+    "weight": 4
+  },
+  {
+    "title": "Thermodynamic Concepts",
+    "description": "Important Criteria: The student should show knowledge of the coefficient of performance and its implications.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors in determining the truth values of the statements.",
+    "weight": -2
+  }
+]

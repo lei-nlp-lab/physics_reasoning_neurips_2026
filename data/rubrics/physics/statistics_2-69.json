@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must correctly state that p = U/3V.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly derive that u = gamma T^4.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Density of States",
+    "description": "Important Criteria: The student should correctly reference the density of states in their derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Thermodynamic Relationships",
+    "description": "Important Criteria: The student must apply the First and Second Laws of thermodynamics appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student should show correct integration steps leading to the pressure expression.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in thermodynamic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as constants, are included in their final answers.",
+    "weight": -1
+  }
+]

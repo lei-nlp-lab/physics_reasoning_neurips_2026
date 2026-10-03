@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ball linear velocity",
+    "description": "Essential: The final answer for part (1) must be v = 2Rω.",
+    "weight": 5
+  },
+  {
+    "title": "Force magnitude on ball",
+    "description": "Essential: The final answer for part (2) must be F = m√(4R²ω⁴ + g²).",
+    "weight": 5
+  },
+  {
+    "title": "Height of falling weight",
+    "description": "Essential: The final answer for part (3) must be h = (M + 16m)R²ω² / (2Mg).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: The solution must apply conservation of mechanical energy (Mgh = ½Mv₁² + ½(4m)v²) for the system.",
+    "weight": 4
+  },
+  {
+    "title": "Force components analysis",
+    "description": "Important: For part (2), the solution must resolve the rod force into centripetal (mv²/(2R)) and gravitational (mg) components at the horizontal position.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity relationships",
+    "description": "Important: The solution must correctly relate the linear velocities (v₁ = Rω for the weight, v = 2Rω for the ball) using the no-slip condition.",
+    "weight": 4
+  },
+  {
+    "title": "Incorrect moment of inertia",
+    "description": "Pitfall: Penalize if the student incorrectly calculates the rotational kinetic energy, e.g., by using a wrong moment of inertia for the four-ball system.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the final answers have incorrect units, sign errors in vector components, or missing square roots/operations.",
+    "weight": -1
+  },
+  {
+    "title": "Free-body diagram clarity",
+    "description": "Optional: Award credit if the solution includes a clear free-body diagram for the ball at position A, aiding the force analysis.",
+    "weight": 1
+  }
+]

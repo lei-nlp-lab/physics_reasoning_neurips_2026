@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Equations of Motion",
+    "description": "Essential Criteria: The student must correctly write the equations of motion for each particle in the system.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Frequency",
+    "description": "Essential Criteria: The student must derive the correct expression for the angular frequency of rotation given the distance d.",
+    "weight": 5
+  },
+  {
+    "title": "Stability Condition",
+    "description": "Important Criteria: The student must identify and explain the stability condition for the motion of mass m3 about the stationary position.",
+    "weight": 4
+  },
+  {
+    "title": "Force Direction",
+    "description": "Important Criteria: The student should indicate that the forces acting on the particles are attractive and point towards the center of mass.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Masses",
+    "description": "Pitfall Criteria: The student should not neglect the contributions of m1 and m2 when analyzing the forces on m3.",
+    "weight": -1
+  }
+]

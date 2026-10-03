@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric force magnitude",
+    "description": "Essential: The response must correctly calculate the magnitude of the electric force using F = qE, yielding 2 × 10⁻⁴ N.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force direction",
+    "description": "Essential: The response must correctly state the direction of the force on the positive charge is along the electric field (e.g., to the right).",
+    "weight": 4
+  },
+  {
+    "title": "Work calculation",
+    "description": "Important: The response must correctly apply the work formula W = F * d * cosθ or W = qE * L_AB * cosθ, yielding 2 × 10⁻⁵ J.",
+    "weight": 4
+  },
+  {
+    "title": "Potential energy change",
+    "description": "Important: The response must correctly relate work and change in potential energy using W = -ΔE_p, yielding ΔE_p = -2 × 10⁻⁵ J.",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference",
+    "description": "Essential: The response must correctly calculate the potential difference using U_AB = W/q or U_AB = E * L_AB * cosθ, yielding 2 × 10³ V.",
+    "weight": 5
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Penalize if the work calculation incorrectly uses the angle (e.g., uses sinθ or 0° instead of 60°).",
+    "weight": -2
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: Penalize if the sign relationship between work and potential energy change (W = -ΔE_p) is reversed or omitted.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award credit for explicitly showing unit analysis or correctly stating units (N, J, V) with answers.",
+    "weight": 1
+  }
+]

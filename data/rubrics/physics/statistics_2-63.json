@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Expression for n(E)",
+    "description": "Essential Criteria: The student must provide the correct expression for n(E) in terms of the relevant variables.",
+    "weight": 5
+  },
+  {
+    "title": "Limit Condition Derivation",
+    "description": "Important Criteria: The student should correctly derive the condition d >> lambda and relate it to the classical distribution.",
+    "weight": 4
+  },
+  {
+    "title": "Average Energy Calculation",
+    "description": "Essential Criteria: The student must calculate the average energy difference correctly for both systems.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Variables",
+    "description": "Important Criteria: The student should appropriately use and define all relevant variables such as mass, temperature, and chemical potential.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the expressions for energy and chemical potential.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases Discussion",
+    "description": "Optional Criteria: The student may discuss limiting cases or alternative approaches to reinforce understanding.",
+    "weight": 2
+  }
+]

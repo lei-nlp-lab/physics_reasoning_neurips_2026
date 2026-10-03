@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct angle calculation",
+    "description": "Essential Criteria: Student must correctly calculate the inclination angle of plane AB as 30° from the acceleration and gravitational acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total distance",
+    "description": "Essential Criteria: Student must determine the total distance traveled from start to stop as 180 m.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration on AB",
+    "description": "Important Criteria: Student should correctly compute the acceleration on inclined plane AB from the velocity-time data.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration on CD",
+    "description": "Important Criteria: Student should correctly compute the deceleration on inclined plane CD from the velocity-time data.",
+    "weight": 4
+  },
+  {
+    "title": "Time allocation",
+    "description": "Important Criteria: Student should correctly allocate the total time (13 s) among the three segments using kinematics equations.",
+    "weight": 3
+  },
+  {
+    "title": "Segment distance calculation",
+    "description": "Important Criteria: Student should correctly calculate distances for each segment (AB, BC, CD) and sum them.",
+    "weight": 3
+  },
+  {
+    "title": "Physics relationship application",
+    "description": "Optional Criteria: Student may explicitly relate the acceleration on AB to gravity using sinα = a/g.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall Criteria: Student incorrectly uses sign for deceleration on CD (should be positive magnitude or negative with consistent kinematics).",
+    "weight": -2
+  },
+  {
+    "title": "Time misinterpretation",
+    "description": "Pitfall Criteria: Student misinterprets the time data or fails to subtract times correctly between segments.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final acceleration value",
+    "description": "Essential Criteria: The student must state the correct numerical acceleration of block A (5 m/s²) when block B is about to leave the ground.",
+    "weight": 5
+  },
+  {
+    "title": "Final displacement value",
+    "description": "Essential Criteria: The student must state the correct numerical displacement of block A (0.125 m) from the initial position to the moment block B leaves the ground.",
+    "weight": 5
+  },
+  {
+    "title": "Spring force condition",
+    "description": "Important Criteria: The student must correctly identify that when block B is about to leave the ground, the spring force equals the weight of block B (30 N).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important Criteria: The student must correctly apply Newton's second law to block A, accounting for the applied force, spring force, and gravity to find acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Initial spring compression",
+    "description": "Important Criteria: The student must calculate the initial compression of the spring from the equilibrium of block A's weight (0.05 m).",
+    "weight": 3
+  },
+  {
+    "title": "Final spring extension",
+    "description": "Important Criteria: The student must calculate the spring extension when block B is about to leave the ground using Hooke's Law and the spring force (0.075 m).",
+    "weight": 3
+  },
+  {
+    "title": "Displacement from spring lengths",
+    "description": "Important Criteria: The student must correctly sum the initial compression and final extension to find the total displacement of block A.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns signs to forces (e.g., treating upward spring force as negative when applying Newton's law) or miscalculates displacement direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall Criteria: Penalize if final answers lack correct units (m/s², m) or if intermediate calculations use inconsistent units (e.g., cm instead of m).",
+    "weight": -1
+  }
+]

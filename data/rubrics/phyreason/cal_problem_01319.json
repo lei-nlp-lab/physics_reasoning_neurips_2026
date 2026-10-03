@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Initial speed conversion",
+    "description": "Essential: Student correctly converts 36 km/h to 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Accelerated motion speed",
+    "description": "Essential: Student calculates final speed after acceleration as 15 m/s using v = v0 + a1*t1.",
+    "weight": 5
+  },
+  {
+    "title": "Braking time calculation",
+    "description": "Important: Student determines braking time using t = v/a2, yielding 1.5 s.",
+    "weight": 3
+  },
+  {
+    "title": "Braking distance formula",
+    "description": "Important: Student applies correct kinematics formula (e.g., x = (v/2)*t or v²/(2a)) for braking distance.",
+    "weight": 4
+  },
+  {
+    "title": "Final braking distance",
+    "description": "Essential: Student obtains correct braking distance of 11.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent SI units throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Student uses wrong sign for deceleration in kinematics equations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect unit conversion",
+    "description": "Pitfall: Student fails to convert km/h to m/s or makes arithmetic error in conversion.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial velocities",
+    "description": "Essential: Correctly states the magnitudes of the velocities of A and B immediately after spring release (4.0 m/s and 1.0 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation application",
+    "description": "Important: Applies conservation of momentum and energy (or equivalent) to relate the initial velocities and total kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Which stops first",
+    "description": "Essential: Correctly identifies block B as the one that comes to rest first.",
+    "weight": 5
+  },
+  {
+    "title": "Stopping time analysis",
+    "description": "Important: Uses kinematics or impulse to compare stopping times, correctly finding B's time is shorter.",
+    "weight": 3
+  },
+  {
+    "title": "Distance at first stop",
+    "description": "Essential: Correctly calculates the distance between A and B when B first stops (0.50 m).",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocities",
+    "description": "Important: Correctly applies elastic collision equations to find velocities after A rebounds from the wall and collides with B.",
+    "weight": 4
+  },
+  {
+    "title": "Final separation distance",
+    "description": "Essential: Correctly calculates the final distance between A and B after both stop (0.91 m).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy for displacements",
+    "description": "Important: Uses the work-energy theorem or kinematics with friction to find stopping distances.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns signs for velocities or displacements, especially after collisions or wall rebound.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force mistake",
+    "description": "Pitfall: Uses an incorrect frictional force (e.g., omits mass or uses static coefficient).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Highest point speed",
+    "description": "Essential: Correctly calculates the speed at the highest point using v = √(gL) or equivalent energy/tension reasoning.",
+    "weight": 5
+  },
+  {
+    "title": "Lowest point velocity",
+    "description": "Essential: Correctly calculates the velocity magnitude at the lowest point when the rope breaks using T_max - mg = mv²/L.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal range",
+    "description": "Essential: Correctly calculates the horizontal range using projectile motion after the rope breaks.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile time calculation",
+    "description": "Important: Correctly determines the time of flight after the break using vertical free-fall from height (h-L).",
+    "weight": 3
+  },
+  {
+    "title": "Tension-force balance",
+    "description": "Important: Applies Newton's second law correctly at both highest and lowest points of circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Optional: Uses energy conservation between highest and lowest points as an alternative or check.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Makes sign errors in force balance (e.g., T + mg at lowest point) or confuses centripetal force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Height misinterpretation",
+    "description": "Pitfall: Uses incorrect vertical drop distance (h instead of h-L) for projectile time calculation.",
+    "weight": -2
+  }
+]

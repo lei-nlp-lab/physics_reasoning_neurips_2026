@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Charge Density",
+    "description": "Essential Criteria: The student must provide the correct expression for the induced charge density on the conductor.",
+    "weight": 5
+  },
+  {
+    "title": "Image Dipole Concept",
+    "description": "Important Criteria: The student should correctly identify and utilize the concept of the image dipole in their solution.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Calculation",
+    "description": "Important Criteria: The student must derive the potential due to both the dipole and its image correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Partial Derivative",
+    "description": "Important Criteria: The student should correctly compute the partial derivative of the potential with respect to z.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes when calculating the induced charge density.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that units are consistent throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios to validate their results.",
+    "weight": 1
+  }
+]

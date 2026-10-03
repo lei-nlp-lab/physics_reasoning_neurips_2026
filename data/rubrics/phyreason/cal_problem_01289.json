@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct fall time",
+    "description": "Essential: The response must correctly calculate the time to fall as 4 s using free-fall kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Correct landing velocity",
+    "description": "Essential: The response must correctly calculate the magnitude of the landing velocity as 40 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct last-second displacement",
+    "description": "Essential: The response must correctly calculate the displacement in the last second as 35 m.",
+    "weight": 5
+  },
+  {
+    "title": "Proper kinematic reasoning",
+    "description": "Important: The solution should apply correct free-fall equations (e.g., h = ½gt², v = gt) or equivalent energy methods.",
+    "weight": 3
+  },
+  {
+    "title": "Last-second method",
+    "description": "Important: For part (3), the solution should correctly find displacement by subtracting distance fallen in first 3 seconds from total height.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Using incorrect sign for acceleration due to gravity or confusing displacement with distance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Including proper units (s, m/s, m) in final answers and showing unit analysis in steps.",
+    "weight": 1
+  }
+]

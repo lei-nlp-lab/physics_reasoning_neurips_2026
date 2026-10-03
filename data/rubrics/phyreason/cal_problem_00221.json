@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total work answer",
+    "description": "Essential Criteria: The final numerical answer for total work done by the gas must be 1500 J.",
+    "weight": 5
+  },
+  {
+    "title": "Isobaric work expression",
+    "description": "Important Criteria: The work for the isobaric process A→B must be correctly expressed as W₁ = -P(V_B - V_A) or equivalent.",
+    "weight": 3
+  },
+  {
+    "title": "Adiabatic work from ΔU",
+    "description": "Important Criteria: The work for the adiabatic process B→C must be correctly identified as equal to the change in internal energy, W₂ = ΔU.",
+    "weight": 4
+  },
+  {
+    "title": "Sign for work on surroundings",
+    "description": "Important Criteria: The total work done *by the gas on the surroundings* must be calculated with correct sign convention (e.g., W_total = -(W₁ + W₂) if W₁ and W₂ are defined as work done *on* the gas).",
+    "weight": 4
+  },
+  {
+    "title": "Use of given ΔU",
+    "description": "Important Criteria: The given decrease in internal energy (-900 J) for process B→C must be correctly substituted into the adiabatic work relation.",
+    "weight": 3
+  },
+  {
+    "title": "Units included",
+    "description": "Optional Criteria: The final answer should include the correct unit (Joules).",
+    "weight": 1
+  },
+  {
+    "title": "Sign confusion in ΔU",
+    "description": "Pitfall Criteria: Incorrectly using ΔU = +900 J instead of -900 J for the adiabatic process.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting work direction",
+    "description": "Pitfall Criteria: Confusing work done *by* the gas with work done *on* the gas in the final summation, leading to a sign error.",
+    "weight": -2
+  }
+]

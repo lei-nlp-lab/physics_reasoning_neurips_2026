@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The student's answer for part (1) must be 3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final force",
+    "description": "Essential: The student's answer for part (2) must be 12800 N.",
+    "weight": 5
+  },
+  {
+    "title": "Total force calculation",
+    "description": "Important: The solution must correctly sum the four external forces to find the total upward force of 1800 N.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy for launch",
+    "description": "Important: For part (1), the solution must apply the work-energy theorem from launch to the moment the force stops, equating the work done by the total force to the gain in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy for impact",
+    "description": "Important: For part (2), the solution must apply the work-energy theorem during the impact, considering work done by gravity and the average impact force over the stopping distance h2.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in impact",
+    "description": "Pitfall: Penalize if the student incorrectly assigns signs to the work done by the impact force or gravity during the stopping phase.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should correctly convert heights from cm to m for use in energy calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Force direction clarity",
+    "description": "Optional: The solution clearly distinguishes between the force on the object by the ground and the force on the ground by the object (Newton's third law).",
+    "weight": 1
+  }
+]

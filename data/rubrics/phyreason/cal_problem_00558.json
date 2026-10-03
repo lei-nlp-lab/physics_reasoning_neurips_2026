@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct force magnitude",
+    "description": "Essential: The final numerical answer for the force must be correctly calculated as approximately 4.8 × 10⁻¹⁴ N.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Lorentz force law",
+    "description": "Important: The response must correctly state or apply the formula F = |q|vB for a charge moving perpendicular to a magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Identify charge and values",
+    "description": "Important: The response must correctly identify the electron's charge (q = -1.6 × 10⁻¹⁹ C or its magnitude) and plug in the given v and B.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answer should be presented with the correct SI unit (Newtons, N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the answer incorrectly includes a negative sign for the force magnitude or confuses direction with magnitude.",
+    "weight": -2
+  }
+]

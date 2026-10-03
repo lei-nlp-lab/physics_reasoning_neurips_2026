@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Heat Calculation",
+    "description": "Essential Criteria: The correct calculation of heat required at constant pressure must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Essential Criteria: The increase in internal energy must be accurately calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Work Done Calculation",
+    "description": "Important Criteria: The calculation of external work done must be shown and correctly derived from Q and ΔU.",
+    "weight": 4
+  },
+  {
+    "title": "Constant Volume Heat",
+    "description": "Essential Criteria: The heat required at constant volume must be calculated correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Mole Calculation",
+    "description": "Important Criteria: The conversion of grams to moles must be correctly performed using the molar mass of nitrogen.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent and correctly used throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as specific heat and temperature change, are included in calculations.",
+    "weight": -2
+  }
+]

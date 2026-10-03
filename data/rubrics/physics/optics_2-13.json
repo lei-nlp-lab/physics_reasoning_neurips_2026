@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must provide the correct wavelengths for maximum reflection in the visible spectrum.",
+    "weight": 5
+  },
+  {
+    "title": "Constructive Interference",
+    "description": "Important Criteria: The student should correctly identify the condition for constructive interference in thin films.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Equation",
+    "description": "Essential Criteria: The student must use the correct equation relating thickness, refractive index, and wavelength.",
+    "weight": 5
+  },
+  {
+    "title": "Integer Values",
+    "description": "Important Criteria: The student should correctly apply integer values for k to find valid wavelengths.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of the equation.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or alternative methods for finding wavelengths.",
+    "weight": 1
+  }
+]

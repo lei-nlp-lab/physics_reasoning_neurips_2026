@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Car minimum acceleration",
+    "description": "Essential: Correctly calculates the sedan's minimum acceleration to pass the crosswalk before the pedestrian reaches B, obtaining 8/3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Truck minimum acceleration",
+    "description": "Important: Applies the correct condition for the truck to completely pass the crosswalk before the pedestrian reaches B, finding the required acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Cargo-truck relative motion",
+    "description": "Important: Analyzes the relative motion between the cargo and truck during acceleration, setting up equations for their displacements.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum d2 calculation",
+    "description": "Essential: Correctly computes the minimum distance d2 from the cargo to the rear of the truck to avoid collision, obtaining 20/9 m.",
+    "weight": 5
+  },
+  {
+    "title": "Pedestrian crossing times",
+    "description": "Important: Correctly identifies and uses the pedestrian's travel times to points B and across the full crosswalk.",
+    "weight": 3
+  },
+  {
+    "title": "Truck deceleration range lower bound",
+    "description": "Essential: Determines the minimum deceleration for the truck to stop exactly at the stop line before the pedestrian finishes crossing.",
+    "weight": 5
+  },
+  {
+    "title": "Cargo displacement constraint",
+    "description": "Important: Applies the condition that the cargo's stopping distance relative to the truck's front must not exceed d1 for the maximum deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Truck deceleration range upper bound",
+    "description": "Essential: Correctly calculates the maximum deceleration such that the cargo does not collide with the truck's front, obtaining 5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for acceleration/deceleration in kinematic equations, leading to wrong direction of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to maintain consistent units (meters, seconds) throughout calculations, leading to numerical errors.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic induction magnitude",
+    "description": "Essential: The final answer for part (1) must correctly state B = 0.5 T.",
+    "weight": 5
+  },
+  {
+    "title": "Specific charge value",
+    "description": "Essential: The final answer for part (1) must correctly state q/m = 10 C/kg.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance in third quadrant",
+    "description": "Important: The solution must apply force equilibrium (gravity, electric, magnetic) for the constant-velocity motion along PO.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of exit point",
+    "description": "Important: The solution must correctly combine the straight-line segments and the circular arc to find the final x-coordinate (1.6 m).",
+    "weight": 4
+  },
+  {
+    "title": "Time breakdown calculation",
+    "description": "Important: The solution must correctly calculate the three time intervals (two straight, one quarter-circle) and sum them for the total time (0.714 s).",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion in magnetic field",
+    "description": "Important: The solution must recognize the quarter-circular motion in the first quadrant's upper magnetic field and apply qvB = mv²/r.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the direction of a force (e.g., Lorentz force, electric force) leading to wrong equilibrium or motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution demonstrates consistent use of SI units throughout the calculation.",
+    "weight": 1
+  }
+]

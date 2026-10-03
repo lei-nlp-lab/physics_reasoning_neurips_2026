@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Existence Conditions",
+    "description": "Essential Criteria: The conditions E <= cB and cB <= E must be correctly stated for the existence of Lorentz frames.",
+    "weight": 5
+  },
+  {
+    "title": "Motion Description",
+    "description": "Important Criteria: The description of the particle's motion in the frame where E = 0 must include the correct equations and indicate circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Function",
+    "description": "Essential Criteria: The momentum as a function of time must be correctly derived and expressed for the frame with B = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Circular Motion Radius",
+    "description": "Optional Criteria: The radius of circular motion R must be correctly derived and presented.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the equations or misinterpretation of the direction of forces.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations, particularly in the momentum equations.",
+    "weight": -1
+  }
+]

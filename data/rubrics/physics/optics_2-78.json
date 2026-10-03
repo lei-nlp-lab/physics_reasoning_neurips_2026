@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Intensity Equation",
+    "description": "Essential Criteria: The student must correctly derive the intensity equation I(theta) = 1.5 I_0 cos^2(theta) + I_0 sin^2(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Intensity",
+    "description": "Essential Criteria: The student must determine the maximum transmitted intensity as I_max = 1.75 I_0 when theta = 30 degrees.",
+    "weight": 5
+  },
+  {
+    "title": "Unpolarised Fraction",
+    "description": "Essential Criteria: The student must correctly calculate the unpolarised fraction of the incident intensity as 0.60.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning Steps",
+    "description": "Important Criteria: The student should show clear reasoning in deriving the relationship between the components of the polarized light and the unpolarized light.",
+    "weight": 4
+  },
+  {
+    "title": "Angle Dependency",
+    "description": "Important Criteria: The student must explain that the intensity I(theta) does not depend on the fraction of unpolarized light.",
+    "weight": 3
+  },
+  {
+    "title": "Phase Change Explanation",
+    "description": "Important Criteria: The student should explain the effect of the quarter-wave plate on the polarization state of the light.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of the intensity equations or miscalculating the unpolarized fraction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all intensities are expressed consistently in terms of I_0.",
+    "weight": -1
+  }
+]

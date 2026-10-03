@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Linear velocity expression",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as v = 2π(R+h)/T.",
+    "weight": 5
+  },
+  {
+    "title": "Density expression",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as ρ = 3π(R+h)³/(GT²R³).",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important: The solution must apply Newton's second law, equating gravitational force to the required centripetal force for circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Period-velocity relationship",
+    "description": "Important: The solution must correctly relate orbital period T to linear velocity v and orbital radius (R+h).",
+    "weight": 3
+  },
+  {
+    "title": "Mass elimination",
+    "description": "Important: The solution must correctly eliminate the satellite mass m from the force equation.",
+    "weight": 3
+  },
+  {
+    "title": "Lunar volume substitution",
+    "description": "Important: The solution must substitute the lunar mass M using the definition of density and the volume of a sphere.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear, logical algebraic steps to derive the final density expression from the combined equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes or implies a check that the final density expression has correct units (mass/volume).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius usage",
+    "description": "Pitfall: Using R instead of (R+h) for the orbital radius in the centripetal acceleration or gravitational force.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or constant error",
+    "description": "Pitfall: Misplacing factors of 2, π, or 3 in the final expressions, or omitting the gravitational constant G.",
+    "weight": -1
+  }
+]

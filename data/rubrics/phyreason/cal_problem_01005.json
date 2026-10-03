@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final volume",
+    "description": "Essential: The final answer for part (1) must be expressed as V = p₀V₀/(p - p₀).",
+    "weight": 5
+  },
+  {
+    "title": "Boyle's law application",
+    "description": "Important: The solution must correctly apply Boyle's law to the isothermal transfer of gas from the cylinder to the bottle.",
+    "weight": 4
+  },
+  {
+    "title": "Qualification determination",
+    "description": "Essential: The final answer for part (2) must state that the bottle is unqualified (or that leakage > 1%).",
+    "weight": 5
+  },
+  {
+    "title": "Leakage calculation",
+    "description": "Important: The solution must calculate the fractional volume change or mass loss, correctly using the ideal gas law with the given temperature and pressure changes.",
+    "weight": 4
+  },
+  {
+    "title": "Constant temperature assumption",
+    "description": "Important: The reasoning for part (1) must note that the process is isothermal due to the bottle's conductivity and constant ambient temperature.",
+    "weight": 3
+  },
+  {
+    "title": "Interpretation of gas state",
+    "description": "Optional: The solution may explicitly relate the volume ratio V/V₁ to the mass ratio of gas remaining, using the ideal gas law.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or algebra error",
+    "description": "Pitfall: Incorrectly solving the Boyle's law equation (e.g., inverting the pressure difference) for the bottle volume.",
+    "weight": -2
+  },
+  {
+    "title": "Leakage rate misinterpretation",
+    "description": "Pitfall: Confusing the volume/mass fraction remaining with the fraction leaked, or incorrectly comparing the calculated percentage to the 1% threshold.",
+    "weight": -1
+  }
+]

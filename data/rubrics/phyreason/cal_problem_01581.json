@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Charge polarity determination",
+    "description": "Essential: Student must correctly identify the ball as positively charged based on the equilibrium position in the given electric field direction.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force calculation",
+    "description": "Essential: Student must compute F = qE = 3.0 × 10⁻³ N with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Student must resolve forces (tension, gravity, electric) and apply tanθ = F/(mg) or equivalent equilibrium condition.",
+    "weight": 4
+  },
+  {
+    "title": "Mass calculation",
+    "description": "Essential: Student must derive m = qE/(g tanθ) = 4.0 × 10⁻⁴ kg from equilibrium, with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Student must apply mgl(1 - cosθ) = ½mv² after field removal, canceling mass correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Final velocity calculation",
+    "description": "Essential: Student must compute v = √[2gl(1 - cosθ)] = 2.0 m/s with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Penalize if student incorrectly assigns negative sign to charge or reverses electric force direction in equilibrium setup.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric confusion",
+    "description": "Pitfall: Penalize if student uses sin/cos incorrectly in force components (e.g., mixing horizontal/vertical components).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award if student explicitly verifies unit consistency in calculations (N, kg, m/s).",
+    "weight": 1
+  }
+]

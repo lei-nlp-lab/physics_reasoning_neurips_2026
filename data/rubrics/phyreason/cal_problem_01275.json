@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct μ₁ value",
+    "description": "Essential Criteria: The student must correctly compute μ₁ = 11/12 or approximately 0.92 using the acceleration from the incline and Newton's second law.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total time",
+    "description": "Essential Criteria: The student must find the total time on the conveyor belt as 1.5 s, summing the acceleration and constant velocity phases.",
+    "weight": 5
+  },
+  {
+    "title": "Correct scratch length",
+    "description": "Essential Criteria: The student must calculate the length of the scratch (relative displacement) as 2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Incline acceleration analysis",
+    "description": "Important Criteria: The student should correctly determine the block's deceleration on the incline using kinematics or energy, leading to a₁.",
+    "weight": 3
+  },
+  {
+    "title": "Conveyor acceleration phase",
+    "description": "Important Criteria: The student must apply Newton's second law on the belt to find a₂ = μ₂g and analyze the time/distance until speeds match.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion concept",
+    "description": "Important Criteria: The student must recognize that the scratch length equals the belt's displacement minus the block's displacement during slippage.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units (m, s, m/s²) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign for friction force on the incline or conveyor, leading to wrong acceleration direction.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring uniform motion phase",
+    "description": "Pitfall Criteria: Penalize if the student assumes the block stops accelerating upon matching the belt's speed and neglects the remaining distance L₂ - x₁.",
+    "weight": -2
+  }
+]

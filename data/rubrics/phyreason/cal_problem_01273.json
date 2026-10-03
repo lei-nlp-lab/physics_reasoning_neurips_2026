@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum acceleration calculation",
+    "description": "Essential: The student must correctly compute the maximum acceleration as 4 m/s², using the worker's weight as the maximum tension and applying Newton's second law to the object.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity after 2 seconds",
+    "description": "Important: The student must correctly calculate the object's velocity (8 m/s) at the moment the rope breaks using kinematics with the previously found acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Height during acceleration phase",
+    "description": "Important: The student must correctly compute the distance (8 m) the object travels upward during the 2-second period of constant acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Height after rope breaks",
+    "description": "Important: The student must correctly compute the additional height (3.2 m) the object rises after the rope breaks, treating it as free fall under gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Total maximum height",
+    "description": "Essential: The student must correctly sum the two height contributions to obtain the final answer of 11.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum tension identification",
+    "description": "Important: The student must recognize that the maximum force the worker can exert equals their weight (Mg), which becomes the rope tension.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Optional: The student should clearly write the force balance equation (T - mg = ma) for the object, showing the direction of forces.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Deduct points if the student uses incorrect signs for acceleration or velocity in the kinematic equations after the rope breaks.",
+    "weight": -2
+  },
+  {
+    "title": "Confusion about maximum force",
+    "description": "Pitfall: Deduct points if the student incorrectly assumes the maximum pulling force is (M+m)g or another incorrect value.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct identification of reactions that violate conservation laws and state the specific laws violated.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: Clearly explain the conservation laws relevant to each reaction, including lepton number, charge, baryon number, and energy.",
+    "weight": 4
+  },
+  {
+    "title": "Allowed Reactions",
+    "description": "Important Criteria: Correctly identify which reactions are allowed without violations.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Optional Criteria: Provide clear and concise reasoning for each violation or allowance, enhancing understanding.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid misidentifying allowed reactions as violating conservation laws.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Force Expression",
+    "description": "Essential Criteria: The student must correctly state the final expression for the force dF = (1/2) Edq.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria: The student should derive the electric field E at the surface of the sphere correctly as E = Q/(4πε0r^2).",
+    "weight": 4
+  },
+  {
+    "title": "Surface Charge Density",
+    "description": "Important Criteria: The student must define the surface charge density σ = Q/(4πr^2) accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Direction of Force",
+    "description": "Important Criteria: The student should explain that the force on the charge element dq is radial and outward.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs in the force expression or electric field.",
+    "weight": -2
+  }
+]

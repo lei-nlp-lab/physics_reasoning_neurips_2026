@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity of b after collision",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as √(2μgs).",
+    "weight": 5
+  },
+  {
+    "title": "Length of the rope",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as 4μs.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy for block b",
+    "description": "Important: Applies the work-energy theorem to block b's slide, relating friction, distance s, and its post-collision kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for swing",
+    "description": "Important: Uses conservation of mechanical energy for block a's swing to find its speed at the lowest point (v₀² = 2gL).",
+    "weight": 4
+  },
+  {
+    "title": "Collision momentum conservation",
+    "description": "Important: Applies conservation of linear momentum to the elastic collision (m v₀ = m v_a + 3m v_b).",
+    "weight": 4
+  },
+  {
+    "title": "Collision energy conservation",
+    "description": "Important: Applies conservation of kinetic energy for the elastic collision (½m v₀² = ½m v_a² + ½(3m) v_b²).",
+    "weight": 4
+  },
+  {
+    "title": "Correct mass ratio use",
+    "description": "Important: Correctly incorporates the given mass relationship (m_b = 3 m_a) into all momentum and energy equations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Incorrectly signs the work done by friction (should be negative) in the work-energy equation for block b.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Makes an error in solving the simultaneous momentum and energy equations for the elastic collision.",
+    "weight": -2
+  }
+]

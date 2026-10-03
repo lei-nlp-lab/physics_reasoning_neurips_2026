@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric Field Expression",
+    "description": "Essential Criteria: The total electric field expression must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Maxima and Minima Positions",
+    "description": "Essential Criteria: The positions of the maxima and minima of <E^2> must be accurately determined.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Field Phase Change",
+    "description": "Important Criteria: The reasoning for the phase change of the magnetic field upon reflection must be clearly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Expression",
+    "description": "Essential Criteria: The expression for the total magnetic field B(z, t) must be correctly derived.",
+    "weight": 5
+  },
+  {
+    "title": "Average Magnetic Field",
+    "description": "Important Criteria: The average value <B^2> must be correctly calculated and presented.",
+    "weight": 4
+  },
+  {
+    "title": "Darkening Explanation",
+    "description": "Important Criteria: The explanation for the cause of darkening on the photographic plate must be logically concluded.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common sign mistakes in the derivation of electric and magnetic fields must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the derivations and final expressions.",
+    "weight": -1
+  }
+]

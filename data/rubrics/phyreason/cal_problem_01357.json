@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct height calculation",
+    "description": "Essential Criteria: The student must correctly compute h = 2.5R = 1 m for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction work",
+    "description": "Essential Criteria: The student must correctly compute W_f = -0.8 J for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important Criteria: The student must apply the work-energy theorem correctly, relating initial potential energy to kinetic energy at C minus work done by friction.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force condition",
+    "description": "Important Criteria: The student must set up the correct force balance at point C using Newton's second law and centripetal acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important Criteria: The student must consistently treat work done by friction as negative when it removes mechanical energy.",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional Criteria: The student should include proper units (meters, joules) in intermediate steps and final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall Criteria: Penalize if the student uses mg - N = mv²/R instead of N + mg = mv²/R for part (2) at point C.",
+    "weight": -2
+  },
+  {
+    "title": "Missing friction work term",
+    "description": "Pitfall Criteria: Penalize if the student omits the work done by friction in the energy equation for part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if the student reports W_f as positive 0.8 J instead of -0.8 J.",
+    "weight": -1
+  }
+]

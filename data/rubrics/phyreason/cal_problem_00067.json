@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Braking time",
+    "description": "Essential: The response must correctly calculate the braking time as 4 s, using the average velocity or appropriate kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Resistance force magnitude",
+    "description": "Essential: The response must correctly calculate the resistance force as 2.5 × 10³ N, applying Newton's second law after finding acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Children crossing time",
+    "description": "Important: The response must correctly calculate the total time for the children to cross as 24 s, using the total distance (l+L) and their walking speed.",
+    "weight": 4
+  },
+  {
+    "title": "Required waiting time",
+    "description": "Essential: The response must correctly determine the waiting time before the crosswalk as 20 s, subtracting the braking time from the children's crossing time.",
+    "weight": 5
+  },
+  {
+    "title": "Final speed for higher initial speed",
+    "description": "Essential: The response must correctly calculate the car's speed when reaching the crossing for part (4) as 5√5 m/s, using kinematics with the previously found acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Use of constant acceleration kinematics",
+    "description": "Important: The solution must correctly apply kinematics for constant acceleration (e.g., v² = u² + 2as) to relate distance, initial speed, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Penalize if the student fails to convert velocity from km/h to m/s before performing calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the student incorrectly assigns a positive sign to the deceleration in force or kinematic equations, leading to a nonsensical result.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative solution check",
+    "description": "Optional: Award credit if the student verifies an answer using a different valid method or performs a unit analysis on the final force.",
+    "weight": 1
+  }
+]

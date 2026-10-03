@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final pressure at room temperature",
+    "description": "Essential: The student must state the correct numerical pressure after injection, approximately 3.2 × 10⁷ Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Final pressure at high temperature",
+    "description": "Essential: The student must state the correct numerical pressure after heating, approximately 1.6 × 10⁸ Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Correct gas transfer model",
+    "description": "Important: The student must correctly model the gas transfer using the ideal gas law, accounting for the gas remaining in the bottles.",
+    "weight": 4
+  },
+  {
+    "title": "Effective transferred volume",
+    "description": "Important: The student must calculate the volume of gas transferred from each bottle based on the pressure drop and bottle volume.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature conversion and use",
+    "description": "Important: The student must correctly convert Celsius temperatures to Kelvin for use in the ideal gas law.",
+    "weight": 3
+  },
+  {
+    "title": "Application of Gay-Lussac's law",
+    "description": "Optional: The student may explicitly state or correctly apply Gay-Lussac's law (p/T constant at constant volume) for the heating stage.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student demonstrates consistent use of SI units (m³, Pa, K) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect temperature scaling",
+    "description": "Pitfall: The student incorrectly uses Celsius instead of Kelvin in the ideal gas law for the heating calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring bottle residual pressure",
+    "description": "Pitfall: The student assumes all gas from the bottles is transferred, ignoring the final pressure in the bottles.",
+    "weight": -2
+  }
+]

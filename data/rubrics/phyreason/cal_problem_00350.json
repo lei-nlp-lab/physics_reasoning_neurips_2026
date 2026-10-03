@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Fraction of ions hitting B",
+    "description": "Essential: The final answer for part (1) must be 1/2 (or 0.5).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage for full landing",
+    "description": "Essential: The final answer for part (2) must be 3.2 × 10⁵ V (or 320,000 V).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage for one-third fraction",
+    "description": "Essential: The final answer for part (3) must be -1400 V.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for angular fraction",
+    "description": "Important: Correctly identifies the angular range (e.g., 90°) for ions hitting plate B when U_AB=0.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for electric acceleration",
+    "description": "Important: Applies constant-acceleration kinematics correctly in the horizontal direction for parts (2) and (3).",
+    "weight": 4
+  },
+  {
+    "title": "Force and acceleration relation",
+    "description": "Important: Uses a = qE/m = qU/(mL) to relate voltage to horizontal acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention for voltage",
+    "description": "Pitfall: Confuses the sign of U_AB (e.g., gives +1400 V instead of -1400 V for part (3)).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows unit analysis or confirms units of final voltages are in volts.",
+    "weight": 1
+  }
+]

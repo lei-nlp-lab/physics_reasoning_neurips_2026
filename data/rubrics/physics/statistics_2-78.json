@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Photon Count",
+    "description": "Essential Criteria: The total number of photons must be correctly calculated as approximately 2.5 x 10^87.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Essential Criteria: The total energy content in photons must be accurately determined as approximately 2.6 x 10^72 ergs.",
+    "weight": 5
+  },
+  {
+    "title": "Fermi Momentum",
+    "description": "Essential Criteria: The Fermi momentum of the electrons must be calculated as approximately 2 x 10^-26 g cm/s.",
+    "weight": 5
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: Key integration steps for calculating the number of photons and energy must be shown and correctly executed.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Dependency",
+    "description": "Important Criteria: The dependence of photon number and energy on temperature must be correctly identified and applied.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All units must be consistent throughout the calculations, particularly in energy and momentum.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or incorrect factors in the equations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Optional Criteria: Final answers should be clearly presented and labeled with appropriate units.",
+    "weight": 1
+  }
+]

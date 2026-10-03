@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed expression",
+    "description": "Essential Criteria: The final expression for the particle's speed upon entering the magnetic field must be correct, e.g., v = qB(d² + L²)/(2mL).",
+    "weight": 5
+  },
+  {
+    "title": "Voltage expression",
+    "description": "Essential Criteria: The final expression for the accelerating voltage U must be correct, e.g., U = qB²(L² + d²)²/(8mL²).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic force centripetal",
+    "description": "Important Criteria: The student must apply Newton's second law to the circular motion, stating qvB = mv²/r.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry in field",
+    "description": "Important Criteria: The student must correctly relate the radius r, width d, and deviation L using the Pythagorean theorem: r² = (r - L)² + d².",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important Criteria: The student must apply the work-energy theorem to the electric field acceleration, stating qU = ½mv².",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic solving",
+    "description": "Optional Criteria: The solution shows clear algebraic steps to solve the simultaneous equations for v and U.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The final answers are presented with correct implied units (m/s and V).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or geometry error",
+    "description": "Pitfall Criteria: A common error is misidentifying the geometric relationship, e.g., using r² = L² + d² instead of the correct chord geometry.",
+    "weight": -2
+  },
+  {
+    "title": "Force balance mistake",
+    "description": "Pitfall Criteria: Incorrectly stating the magnetic force law, e.g., using F = qvB sinθ with wrong angle, or misapplying centripetal acceleration.",
+    "weight": -1
+  }
+]

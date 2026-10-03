@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Correct voltage calculation",
+    "description": "Essential: Student must correctly apply Ohm's Law (V = IR) to obtain 400 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct heat calculation",
+    "description": "Essential: Student must correctly apply Joule's Law (Q = I²Rt) to obtain 48000 J.",
+    "weight": 5
+  },
+  {
+    "title": "Proper time conversion",
+    "description": "Important: Student must convert 1 minute to 60 seconds before using it in the Joule's Law formula.",
+    "weight": 3
+  },
+  {
+    "title": "Correct unit usage",
+    "description": "Optional: Student includes proper units (V and J) with their final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect time unit",
+    "description": "Pitfall: Student uses 1 minute directly in the formula without converting to seconds, leading to an incorrect heat value.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong power formula",
+    "description": "Pitfall: Student uses P = IV or P = V²/R for heat calculation without properly accounting for time, or confuses energy with power.",
+    "weight": -1
+  }
+]

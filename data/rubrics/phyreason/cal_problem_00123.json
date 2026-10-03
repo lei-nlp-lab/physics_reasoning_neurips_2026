@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Essential: E0 expression",
+    "description": "Essential Criteria: The student's final answer for part (1) must be E0 = mgd(R1+R2)/(qR2).",
+    "weight": 5
+  },
+  {
+    "title": "Essential: B expression",
+    "description": "Essential Criteria: The student's final answer for part (2) must be B = mv/(2dq).",
+    "weight": 5
+  },
+  {
+    "title": "Essential: E' expression",
+    "description": "Essential Criteria: The student's final answer for part (3) must be E' = mg/(2q).",
+    "weight": 5
+  },
+  {
+    "title": "Important: Force balance in capacitor",
+    "description": "Important Criteria: The solution must apply vertical force balance (qE = mg) to relate the capacitor's electric field to the ball's weight.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Circuit analysis",
+    "description": "Important Criteria: The solution must correctly use Ohm's Law and voltage division to find the potential difference across R2 and relate it to the capacitor's electric field (Ed).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Circular motion geometry",
+    "description": "Important Criteria: The solution must use the geometry of the circular trajectory (Pythagorean theorem with radius r, plate length √3d, and plate separation d) to find the radius r = 2d.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Magnetic centripetal force",
+    "description": "Important Criteria: The solution must apply the Lorentz force as the centripetal force (qvB = mv²/r) to relate B to m, v, q, and the radius r.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Post-exit force balance",
+    "description": "Important Criteria: For part (3), the solution must set up a force balance where the new electric force qE' balances the component of gravity along the ball's velocity direction after exit.",
+    "weight": 3
+  },
+  {
+    "title": "Pitfall: Incorrect radius",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly determines the radius of the circular motion (e.g., using r = d or ignoring the geometry).",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student makes a sign or vector direction error in force balances, especially for the electric field in part (3).",
+    "weight": -1
+  }
+]

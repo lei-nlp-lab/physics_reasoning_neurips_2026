@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct formula application",
+    "description": "Essential Criteria: Student must apply the formula F = BIL for part (1) with correct values.",
+    "weight": 5
+  },
+  {
+    "title": "Part (1) numerical answer",
+    "description": "Essential Criteria: Student must obtain 0.25 N (or equivalent) as the force magnitude for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Angle consideration",
+    "description": "Important Criteria: Student must recognize that force depends on angle between current and magnetic field, using sinθ.",
+    "weight": 4
+  },
+  {
+    "title": "Part (2) zero force",
+    "description": "Essential Criteria: Student must state that force becomes zero when wire is parallel to field (θ=0°).",
+    "weight": 5
+  },
+  {
+    "title": "Units included",
+    "description": "Optional Criteria: Student includes correct units (N) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Missing angle factor",
+    "description": "Pitfall Criteria: Student incorrectly uses F = BIL without sinθ for non-perpendicular cases.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction confusion",
+    "description": "Pitfall Criteria: Student confuses magnitude with direction or introduces incorrect signs.",
+    "weight": -1
+  }
+]

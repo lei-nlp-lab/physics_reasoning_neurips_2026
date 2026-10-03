@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct initial velocity",
+    "description": "Essential: The answer for v₀ must be √(2eU₁/m) or equivalent, derived from work-energy or kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Correct plate length",
+    "description": "Essential: The final answer for L must be d√(2U₁/U₂) or equivalent, derived from combining horizontal and vertical motions.",
+    "weight": 5
+  },
+  {
+    "title": "Apply work-energy theorem",
+    "description": "Important: Uses work-energy (eU₁ = ½mv₀²) or kinematics to relate acceleration voltage to entry speed.",
+    "weight": 4
+  },
+  {
+    "title": "Analyze projectile motion",
+    "description": "Important: Recognizes horizontal motion is uniform (L = v₀t) and vertical motion is uniformly accelerated (d/2 = ½at²).",
+    "weight": 4
+  },
+  {
+    "title": "Correct electric force",
+    "description": "Important: Uses a = F/m = (eE)/m with E = U₂/d to find vertical acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Simultaneous equation solving",
+    "description": "Important: Eliminates time t correctly to express L in terms of given parameters.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Checks that final expressions for v₀ and L have correct physical dimensions.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies vertical displacement (e.g., uses d instead of d/2) or confuses acceleration direction.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force or field",
+    "description": "Pitfall: Uses wrong expression for electric field (E ≠ U₂) or force (F ≠ eU₂).",
+    "weight": -2
+  }
+]

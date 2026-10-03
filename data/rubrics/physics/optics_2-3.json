@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for the thickness of the film.",
+    "weight": 5
+  },
+  {
+    "title": "Optical Path Difference",
+    "description": "Important Criteria: The student correctly identifies the relationship between optical path difference and thickness of the film.",
+    "weight": 4
+  },
+  {
+    "title": "Fringe Shift Calculation",
+    "description": "Important Criteria: The student accurately calculates the change in fringe order due to the film insertion.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Index of Refraction",
+    "description": "Important Criteria: The student correctly applies the index of refraction in the optical path difference equation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that the units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student fails to account for the correct sign in the optical path difference calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student neglects to include the factor (n - 1) in the final equation for thickness.",
+    "weight": -2
+  }
+]

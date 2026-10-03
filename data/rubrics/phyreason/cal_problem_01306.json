@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Normal force at C",
+    "description": "Essential: The final answer for the pressure magnitude at point C is correctly stated as 3mg.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient",
+    "description": "Essential: The final answer for the kinetic friction coefficient μ is correctly stated as 0.2.",
+    "weight": 5
+  },
+  {
+    "title": "Initial kinetic energy",
+    "description": "Essential: The final answer for the required initial kinetic energy at D is correctly stated as 3.5mgR.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to C",
+    "description": "Important: Applies conservation of mechanical energy from B to C to find the speed at C.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal force at C",
+    "description": "Important: Applies Newton's second law at point C to relate normal force, weight, and centripetal acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy for friction",
+    "description": "Important: Applies the work-energy theorem from B to D to relate gravitational work and friction work.",
+    "weight": 3
+  },
+  {
+    "title": "Minimum speed at A",
+    "description": "Important: Recognizes that just passing the top point A requires the centripetal force to be provided solely by gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy for return trip",
+    "description": "Important: Applies the work-energy theorem from D to A, accounting for friction and gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction or gravity in the energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or expression error",
+    "description": "Pitfall: Provides a final answer with incorrect units or an expression not simplified to the required form (e.g., mgR).",
+    "weight": -1
+  }
+]

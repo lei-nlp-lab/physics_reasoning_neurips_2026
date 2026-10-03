@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial velocity magnitude",
+    "description": "Essential Criteria: Student must correctly calculate v₀ = 2 m/s from the horizontal component of v_A.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile displacement calculation",
+    "description": "Important Criteria: Student must compute both horizontal (≈0.69 m) and vertical (0.6 m) displacements from P to A using projectile equations.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at point C",
+    "description": "Important Criteria: Student must apply energy conservation between A and C to find v_C = √7 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Post-C projectile analysis",
+    "description": "Important Criteria: Student must set up equations for motion from C to A and compare required vs. possible horizontal travel.",
+    "weight": 3
+  },
+  {
+    "title": "Correct conclusion about hitting A",
+    "description": "Essential Criteria: Student must conclude the ball cannot hit point A after flying from C.",
+    "weight": 5
+  },
+  {
+    "title": "Angle interpretation at A",
+    "description": "Important Criteria: Student must recognize that the velocity at A is tangent to the circle, making 60° with horizontal.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All quantities should carry correct units throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy equation",
+    "description": "Pitfall Criteria: Penalize if gravitational potential energy difference (A to C) has wrong sign in energy conservation.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing horizontal components",
+    "description": "Pitfall Criteria: Penalize if student incorrectly assumes v₀ = v_A or misidentifies the horizontal component at A.",
+    "weight": -1
+  }
+]

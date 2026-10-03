@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for E_K in terms of the rest masses.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate the application of energy conservation in the reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student must correctly apply momentum conservation principles to relate the momenta of the particles.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Substitutions",
+    "description": "Important Criteria: The student should make appropriate substitutions for energies and momenta in the equations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy and momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all terms are consistent in units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios to validate their solution.",
+    "weight": 1
+  }
+]

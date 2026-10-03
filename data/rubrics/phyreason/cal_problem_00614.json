@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct tension expression",
+    "description": "Essential: The final answer for part (1) must be F_T = (m1*m2*g)/(m1+m2) or an equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct mass ratio",
+    "description": "Essential: The final answer for part (2) must be the ratio m1:m2 = 1:2.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's law for B",
+    "description": "Important: The solution must apply Newton's second law to mass m2, resulting in m2*g - T = m2*a.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law for A",
+    "description": "Important: The solution must apply Newton's second law to mass m1 on the table, resulting in T = m1*a.",
+    "weight": 4
+  },
+  {
+    "title": "System with added mass",
+    "description": "Important: For part (2), the solution must correctly set up equations for the modified system: m2*g - T2 = m2*a2 and T2 = (2*m1)*a2.",
+    "weight": 4
+  },
+  {
+    "title": "Relating the tensions",
+    "description": "Important: The solution must use the given condition T2 = (3/2)*T to relate the two scenarios and solve for the mass ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the acceleration signs are inconsistent between the two equations of motion (e.g., both objects assumed to accelerate in the same direction without a net force).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Award credit for clear, logical algebraic steps leading from the system of equations to the final answers.",
+    "weight": 2
+  }
+]

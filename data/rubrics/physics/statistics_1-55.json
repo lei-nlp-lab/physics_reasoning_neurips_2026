@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature T_f must be correctly calculated as 302 K.",
+    "weight": 5
+  },
+  {
+    "title": "Final Pressure",
+    "description": "Essential Criteria: The final pressure p_f must be correctly calculated as 2.0 x 10^5 N/m^2.",
+    "weight": 5
+  },
+  {
+    "title": "Intermediate Gamma",
+    "description": "Important Criteria: The intermediate value of gamma must be correctly derived as 1.46.",
+    "weight": 4
+  },
+  {
+    "title": "Adiabatic Process",
+    "description": "Important Criteria: The relationship between temperature and volume in an adiabatic process must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Optional Criteria: The initial conditions of the system (moles, temperature, volume) should be clearly stated.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any unit mistakes in pressure or temperature calculations will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the equations for temperature or pressure changes will lead to a deduction.",
+    "weight": -2
+  }
+]

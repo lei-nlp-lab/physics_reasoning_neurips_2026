@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocity value",
+    "description": "Essential Criteria: The response must state or correctly calculate the final constant velocity as 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important Criteria: The response must apply the condition for constant velocity, equating gravitational force to the magnetic damping force (mg = B²L²v/R).",
+    "weight": 4
+  },
+  {
+    "title": "Joule heat value",
+    "description": "Essential Criteria: The response must state or correctly calculate the total Joule heat generated as 12 J.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important Criteria: The response must apply energy conservation, stating that the loss in gravitational potential energy mg(h+L) equals the gain in kinetic energy plus the heat dissipated.",
+    "weight": 4
+  },
+  {
+    "title": "Fall time value",
+    "description": "Essential Criteria: The response must state or correctly calculate the total fall time as 1.1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum/impulse method",
+    "description": "Important Criteria: The response must use the impulse-momentum theorem or equivalent (mg t - BIL Δt = mv) and relate the current-time integral to the change in magnetic flux.",
+    "weight": 3
+  },
+  {
+    "title": "Correct displacement for energy",
+    "description": "Pitfall Criteria: Penalise if the gravitational potential energy change is incorrectly calculated using only height h, instead of the correct total distance (h+L) the center of mass falls.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall Criteria: Penalise if the direction of the magnetic force (retarding) is incorrectly stated or if the signs in the force balance or impulse equation are wrong.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Award credit if the response demonstrates unit analysis for key equations (e.g., force, energy, impulse).",
+    "weight": 1
+  }
+]

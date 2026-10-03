@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: The final numerical answer for the maximum speed must be 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Resistor power value",
+    "description": "Essential: The final numerical answer for the electrical power consumed by R must be 0.5 W.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at terminal velocity",
+    "description": "Important: The solution must state that at maximum speed, the net force is zero, so the applied force equals the sum of friction and the magnetic (Ampere) force.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Ampere force expression",
+    "description": "Important: The Ampere force on the rod must be correctly derived as F_a = (B^2 * l^2 * v) / (R_total).",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: The solution must correctly apply Ohm's law to find the induced current, using the total resistance (R + r) and motional EMF (Blv).",
+    "weight": 3
+  },
+  {
+    "title": "Power calculation method",
+    "description": "Important: The power in resistor R must be calculated using P = I^2 * R, with the correct current from the terminal velocity condition.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: Penalize if the force balance equation incorrectly adds the Ampere force to the applied force, or misplaces the friction force.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance or EMF mistake",
+    "description": "Pitfall: Penalize if the total circuit resistance is incorrectly summed (e.g., using only R or r) or if the motional EMF formula (E = Blv) is misapplied.",
+    "weight": -1
+  }
+]

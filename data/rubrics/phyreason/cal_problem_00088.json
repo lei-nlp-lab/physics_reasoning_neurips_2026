@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at highest point",
+    "description": "Essential: Correctly states or derives the condition for circular motion at point F, leading to v_F = sqrt(g r) = 1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force at E",
+    "description": "Essential: Correctly calculates the normal force at point E using Newton's second law for circular motion, yielding F_N ≈ 0.14 N.",
+    "weight": 5
+  },
+  {
+    "title": "Spring energy for given h",
+    "description": "Essential: Correctly calculates the initial spring potential energy E_p0 using energy conservation including friction on OE, yielding 0.008 J.",
+    "weight": 5
+  },
+  {
+    "title": "Energy relation derivation",
+    "description": "Important: Derives the general relationship E_p = mg h + μ mg (L1 + L2) using energy conservation from launch to point B.",
+    "weight": 4
+  },
+  {
+    "title": "Height range condition",
+    "description": "Important: Identifies the valid range for h (0.05 m ≤ h ≤ 0.2 m) from the conditions of clearing point F and geometry of AB.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy on incline",
+    "description": "Important: Applies the work-energy theorem correctly on the inclined track AB, accounting for gravity and friction.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Important: Recognizes that for successful passage, the normal force at F must be ≥ 0, leading to the minimum speed condition.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Incorrectly assigns signs to the work done by gravity or friction on the inclined track AB.",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion mistake",
+    "description": "Pitfall: Fails to convert mass from grams to kilograms consistently, leading to incorrect numerical answers.",
+    "weight": -1
+  },
+  {
+    "title": "Forgetting friction on OE",
+    "description": "Pitfall: Omits the work done by friction on the horizontal segment OE in the energy conservation equations.",
+    "weight": -2
+  }
+]

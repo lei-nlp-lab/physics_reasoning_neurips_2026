@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial stored energy",
+    "description": "Essential: The answer must give the total energy stored in the capacitor before fluid rise as U = (π ε₀ l / log(b/a)) V².",
+    "weight": 5
+  },
+  {
+    "title": "Fluid rise height",
+    "description": "Essential: The answer must give the equilibrium fluid height as h = ε₀ (κ-1) V² / [log(b/a) ρ g (b² - a²)].",
+    "weight": 5
+  },
+  {
+    "title": "Pressure difference",
+    "description": "Essential: The answer must give the pressure difference as P = (ρ g l / 2) - [ε₀ V² (κ-1) / ((b² - a²) log(b/a))].",
+    "weight": 5
+  },
+  {
+    "title": "Energy minimization reasoning",
+    "description": "Important: The solution must apply an energy minimization principle, setting the derivative of total energy with respect to fluid height to zero.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitance with dielectric",
+    "description": "Important: The solution must correctly model the capacitance as a function of the fluid height y, combining vacuum and dielectric-filled parts.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy equivalence",
+    "description": "Important: For part (c), the solution must equate the work done by the pressure difference to the change in total system energy.",
+    "weight": 3
+  },
+  {
+    "title": "Gravitational potential energy",
+    "description": "Optional: The solution may explicitly calculate the gravitational potential energy of the fluid column as (1/2)ρg y² π(b² - a²).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy terms",
+    "description": "Pitfall: A common error is mishandling the signs of battery work and field energy in the total energy expression.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect field or capacitance",
+    "description": "Pitfall: A common error is using the wrong expression for the electric field or capacitance of a cylindrical capacitor.",
+    "weight": -2
+  }
+]

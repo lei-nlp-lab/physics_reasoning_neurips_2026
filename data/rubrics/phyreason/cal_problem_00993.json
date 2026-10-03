@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Surface gravitational acceleration",
+    "description": "Essential: Correctly states or derives the final expression for gravitational acceleration on Mars: g = v²/(2h).",
+    "weight": 5
+  },
+  {
+    "title": "Mass of Mars",
+    "description": "Essential: Correctly states or derives the final expression for the mass of Mars: M = v²R²/(2Gh).",
+    "weight": 5
+  },
+  {
+    "title": "Density of Mars",
+    "description": "Essential: Correctly states or derives the final expression for the density of Mars: ρ = 3v²/(8πGhR).",
+    "weight": 5
+  },
+  {
+    "title": "Use of kinematic equation",
+    "description": "Important: Applies the constant acceleration kinematic equation (v² = u² + 2gh) correctly, recognizing u=0 and g is constant near the surface.",
+    "weight": 3
+  },
+  {
+    "title": "Application of Newton's Law",
+    "description": "Important: Correctly applies Newton's Law of Universal Gravitation (g = GM/R²) to relate surface gravity to planetary mass.",
+    "weight": 4
+  },
+  {
+    "title": "Density derivation",
+    "description": "Important: Correctly uses the definition of density (ρ = M/V) with the volume of a sphere (V = 4πR³/3).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows awareness of unit dimensions or performs a unit analysis for the final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or constant error",
+    "description": "Pitfall: Makes sign errors in kinematic equations, misplaces constants (like π or factors of 2/3), or confuses radius/diameter.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect g assumption",
+    "description": "Pitfall: Incorrectly assumes Earth's g or treats g as variable over the small drop height h.",
+    "weight": -1
+  }
+]

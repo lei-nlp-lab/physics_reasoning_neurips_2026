@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct flow rate expression",
+    "description": "Essential: The student's expression for Q_i must match the reference solution, Q_i = ΔP π r₀⁴ / (2^{i+3} N ℓ₀ η), or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct numerical Q₀ value",
+    "description": "Essential: The student must calculate Q₀ ≈ 1.44 ml/h (or 1.5 ml/h) after correct unit conversions from the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum thickness expression",
+    "description": "Important: The student must derive the inequality h < (64 η² ℓ₀²) / (3 E ρ r₀³) from the condition in part A.3.",
+    "weight": 4
+  },
+  {
+    "title": "Correct tumour volume ratio",
+    "description": "Essential: The student must derive the expression v = [1+μ - √((1+μ)² - 4μ(1-κ))] / [2(1-κ)] from mass and density relationships.",
+    "weight": 5
+  },
+  {
+    "title": "Correct central temperature expression",
+    "description": "Important: The student must derive T(0) = T_body + (𝒫 R_T²)/(2k) from solving the heat balance equations with proper boundary conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Correct minimum power per volume",
+    "description": "Essential: The student must calculate 𝒫_min = 18k / R_T² and obtain the numerical value of 4320 W/m³ (or 4.32 kW/m³).",
+    "weight": 5
+  },
+  {
+    "title": "Correct relative flow drop expression",
+    "description": "Important: The student must derive the final expression for δQ_{N-1}/Q_{N-1} as a function of v, K_N, and other parameters, using the linearized pressure-radius relation.",
+    "weight": 4
+  },
+  {
+    "title": "Unit conversion errors",
+    "description": "Pitfall: Penalise incorrect conversion of pressure (mmHg to Pa) or volumetric flow rate (m³/s to ml/h).",
+    "weight": -2
+  },
+  {
+    "title": "Misapplication of series resistance",
+    "description": "Pitfall: Penalise incorrectly summing resistances across the branching network or misusing the geometric scaling of vessel dimensions.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation errors",
+    "description": "Pitfall: Penalise significant algebraic mistakes in deriving expressions, such as mishandling the quadratic equation for v or the heat balance constants.",
+    "weight": -1
+  }
+]

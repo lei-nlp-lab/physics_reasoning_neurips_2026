@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Football's final speed",
+    "description": "Essential: The answer must state the football's speed after 2 seconds as 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Football's deceleration calculation",
+    "description": "Important: The solution must correctly apply Newton's second law to find the football's deceleration as 2 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Catch-up conclusion",
+    "description": "Essential: The answer must conclude that the forward can catch up with the ball.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up time",
+    "description": "Essential: The answer must state the catch-up time as 7 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Forward's motion phases",
+    "description": "Important: The solution must analyze the forward's motion in two phases: acceleration to max speed and constant speed.",
+    "weight": 3
+  },
+  {
+    "title": "Football's stopping analysis",
+    "description": "Important: The solution must calculate the football's total displacement (49 m) and time to stop (7 s).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the football's deceleration is incorrectly treated as an acceleration (positive sign).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Check that all calculations maintain consistent SI units (m, s, m/s, m/s²).",
+    "weight": 1
+  }
+]

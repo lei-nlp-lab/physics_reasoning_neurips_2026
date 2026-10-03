@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers for N",
+    "description": "Essential Criteria: The student must correctly identify the two possible values for the index of refraction N in terms of epsilon and g.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for E0",
+    "description": "Essential Criteria: The student must provide the correct expressions for the polarization vectors E0 corresponding to each value of N.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Maxwell's Equations",
+    "description": "Important Criteria: The student should demonstrate proper use of Maxwell's equations to derive the relationships needed for the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Determinant Calculation",
+    "description": "Important Criteria: The student must correctly set up and solve the determinant condition to find the relationship between N, epsilon, and g.",
+    "weight": 4
+  },
+  {
+    "title": "Transverse Wave Condition",
+    "description": "Important Criteria: The student should recognize and state that E_z = 0, confirming the transverse nature of the wave.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors in signs or factors when manipulating equations, particularly in the determinant step.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all quantities are consistent in terms of units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may provide alternative methods or reasoning to arrive at the same conclusions, enhancing the robustness of their solution.",
+    "weight": 2
+  }
+]

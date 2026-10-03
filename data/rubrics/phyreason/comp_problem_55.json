@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct first fringe distance",
+    "description": "Essential: The answer for part (1) must be y = λL/(8d).",
+    "weight": 5
+  },
+  {
+    "title": "Correct modified fringe distance",
+    "description": "Essential: The answer for part (2) must include the floor function and be equivalent to y = (L/(4d))[(n-1)s - λ⌊(n-1)s/λ - 1/2⌋ - λ/2].",
+    "weight": 5
+  },
+  {
+    "title": "Correct total fringe count",
+    "description": "Essential: The answer for part (3) must be the integer nearest to 2 * (2d/λ)(1 - 2/√5).",
+    "weight": 5
+  },
+  {
+    "title": "Path difference derivation",
+    "description": "Important: The solution must correctly derive the path difference for the right wall as Δr ≈ 4dy/L + λ/2, accounting for the π phase shift.",
+    "weight": 4
+  },
+  {
+    "title": "Shell optical path treatment",
+    "description": "Important: For part (2), the solution must correctly add the extra optical path (n-1)s for the direct ray and not for the reflected ray.",
+    "weight": 4
+  },
+  {
+    "title": "Top wall geometry setup",
+    "description": "Important: For part (3), the solution must set up the path difference on the top wall using the correct geometry and the π phase shift.",
+    "weight": 3
+  },
+  {
+    "title": "Use of small-angle approximations",
+    "description": "Optional: The solution correctly applies approximations like λ << y << L and d << L to simplify square roots or trigonometric relations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in phase shift",
+    "description": "Pitfall: Incorrectly adding or omitting the λ/2 term from the mirror's 180° phase change in the path difference.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplication of floor function",
+    "description": "Pitfall: In part (2), incorrectly determining the integer m for the closest fringe, e.g., not using the floor function as specified.",
+    "weight": -1
+  },
+  {
+    "title": "Unit or dimensional inconsistency",
+    "description": "Pitfall: Final answers lack correct units or have dimensional inconsistencies from incorrect algebraic manipulation.",
+    "weight": -1
+  }
+]

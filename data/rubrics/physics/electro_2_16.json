@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct average random speed of electrons is provided.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concept",
+    "description": "Important Criteria: The student demonstrates understanding of the average speed of electrons in conductors.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The answer includes the correct units (cm/sec) for the speed.",
+    "weight": 2
+  },
+  {
+    "title": "Comparison with Options",
+    "description": "Important Criteria: The student correctly identifies the answer from the provided options.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student does not confuse the average speed with other values or units.",
+    "weight": -2
+  }
+]

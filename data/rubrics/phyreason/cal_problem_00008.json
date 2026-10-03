@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final answer (1)",
+    "description": "Essential Criteria: The response must provide the correct expression for tanα, specifically μg/(ω₁²r₁).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for (1)",
+    "description": "Important Criteria: The solution must correctly apply Newton's second law radially (Tcosα = mω₁²r₁) and balance friction tangentially (Tsinα = μmg).",
+    "weight": 4
+  },
+  {
+    "title": "Tension decomposition for (2)",
+    "description": "Important Criteria: The solution must correctly resolve the rope tension T' into horizontal (T'sinθ) and vertical (T'cosθ) components relative to the vertical.",
+    "weight": 4
+  },
+  {
+    "title": "3D force analysis for (2)",
+    "description": "Important Criteria: The solution must correctly project the horizontal tension component (T'sinθ) along and perpendicular to the radial direction O₁B using angle β.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical force equilibrium",
+    "description": "Important Criteria: The solution must establish the vertical force balance: Normal force + vertical tension = mg (i.e., Fₙ + T'cosθ = mg).",
+    "weight": 3
+  },
+  {
+    "title": "Final answer (2)",
+    "description": "Essential Criteria: The response must provide the correct final expression for ω₂: √[ (μg sinθ cosβ) / ((sinθ sinβ + μ cosθ) r₂) ].",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Deduct points if the friction force in part (2) is incorrectly aligned (e.g., set opposite to the T₁sinβ component).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Award points if the student explicitly checks or notes the dimensional consistency of their final expressions.",
+    "weight": 1
+  }
+]

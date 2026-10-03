@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates E = 25 N/C from the projectile motion constraints.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly calculates v_C = 5 m/s using energy conservation or kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy at 4 m/s",
+    "description": "Essential: Correctly calculates E_p = 4.5 × 10⁻⁴ J from total energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Applies kinematics to relate horizontal uniform motion and vertical accelerated motion under electric force.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Uses work-energy theorem or energy conservation to relate electric potential difference to kinetic energy change.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important: Uses the quarter-circle geometry (R=0.5 m, OD=0.3 m) to find vertical displacement DC=0.4 m.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration from force",
+    "description": "Optional: Correctly derives a = qE/m for the vertical motion.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: Uses wrong sign for electric potential energy change (e.g., forgetting negative charge or downward field direction).",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to maintain consistent SI units throughout calculations, leading to incorrect numerical results.",
+    "weight": -1
+  }
+]

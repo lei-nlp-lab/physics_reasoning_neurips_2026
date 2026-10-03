@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Perturbation Parameter",
+    "description": "Essential Criteria: Identify the dimensionless parameter |q gamma_12 alpha / hbar| as small for perturbation theory.",
+    "weight": 5
+  },
+  {
+    "title": "Excitation Probability",
+    "description": "Essential Criteria: Calculate the probability P_2 = (q r_{12} alpha / hbar)^2 for the atom to be in the excited state.",
+    "weight": 5
+  },
+  {
+    "title": "Dipole Moment Expectation",
+    "description": "Important Criteria: Derive the expectation value of the dipole moment as <r> = -2 alpha q r_{12}^2 / hbar sin(omega_0 (t - t_1)).",
+    "weight": 4
+  },
+  {
+    "title": "Multiple Particle Probability",
+    "description": "Important Criteria: Find the probability P_2(N tau) = (N alpha q r_{12} / hbar)^2 for the atom after N particles.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign errors in the calculations of coefficients and probabilities.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure all terms are dimensionally consistent, particularly in the final expressions.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final answer correctness",
+    "description": "Essential Criteria: The student's final answer for the time from radius 2r to 3r must be (5/3)T or an equivalent expression.",
+    "weight": 5
+  },
+  {
+    "title": "Proportionality principle application",
+    "description": "Important Criteria: The solution must correctly state or apply that the time taken is proportional to the increase in cross-sectional area of the steel plate roll.",
+    "weight": 4
+  },
+  {
+    "title": "Area difference calculation",
+    "description": "Important Criteria: The student must correctly calculate the area differences for the two intervals (e.g., π(2r)^2 - πr^2 and π(3r)^2 - π(2r)^2).",
+    "weight": 3
+  },
+  {
+    "title": "Ratio setup and simplification",
+    "description": "Important Criteria: The solution must set up the correct ratio of times based on the proportional area increases and simplify it to find the unknown time.",
+    "weight": 3
+  },
+  {
+    "title": "Constant speed recognition",
+    "description": "Optional Criteria: The solution may explicitly note that the linear rolling speed is constant, linking length rolled to time.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect area formula",
+    "description": "Pitfall Criteria: Penalize if the student uses circumference or perimeter instead of cross-sectional area in the proportionality.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall Criteria: Penalize for mistakes in squaring radii, subtracting areas, or simplifying the ratio (e.g., 9-4=5 and 4-1=3 leading to 5/3).",
+    "weight": -1
+  }
+]

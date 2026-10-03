@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Primary turns calculation",
+    "description": "Essential: Correctly applies the transformer voltage ratio to compute n1 from given voltages and n2.",
+    "weight": 5
+  },
+  {
+    "title": "Secondary II power via conservation",
+    "description": "Essential: Correctly states the final output power P2 using power conservation (P_input = P1 + P2).",
+    "weight": 5
+  },
+  {
+    "title": "Power in resistor R1",
+    "description": "Important: Calculates the power dissipated in R1 using the correct formula with V2 and R1.",
+    "weight": 3
+  },
+  {
+    "title": "Input power from primary",
+    "description": "Important: Calculates the total input power using the primary voltage and current readings.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (Volts, Amps, Ohms, Watts) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or ratio reversal",
+    "description": "Pitfall: Incorrectly inverts the transformer turns ratio (e.g., n1/n2 = V2/V1).",
+    "weight": -2
+  },
+  {
+    "title": "Power arithmetic error",
+    "description": "Pitfall: Makes an error in the final subtraction (P_input - P1) for P2.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression for c_p - c_v",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for c_p - c_v in terms of p, U, and V.",
+    "weight": 5
+  },
+  {
+    "title": "Van der Waals Derivation",
+    "description": "Important Criteria: The student must correctly apply the Van der Waals equation to derive the expression for c_p - c_v.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Case Analysis",
+    "description": "Important Criteria: The student must show that as V approaches infinity, the result converges to the ideal gas result for c_p - c_v.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Thermodynamic Relations",
+    "description": "Important Criteria: The student must correctly use the first law of thermodynamics and the definitions of c_p and c_v in their derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors related to signs or missing factors in their calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout their derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Clarity of Presentation",
+    "description": "Optional Criteria: The student should present their work clearly and logically, making it easy to follow their reasoning.",
+    "weight": 1
+  }
+]

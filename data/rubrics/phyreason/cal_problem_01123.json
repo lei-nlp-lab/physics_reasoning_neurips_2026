@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Free-fall speed",
+    "description": "Essential: Correctly computes the speed just before parachute opens using v1 = g t1.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration magnitude",
+    "description": "Essential: Correctly calculates the acceleration magnitude after parachute opens using a = (v1 - v2) / t2.",
+    "weight": 5
+  },
+  {
+    "title": "Total height",
+    "description": "Essential: Correctly sums the free-fall and deceleration displacements to find the total height.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall displacement",
+    "description": "Important: Correctly calculates the displacement during free fall using h1 = (1/2) g t1^2.",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration displacement",
+    "description": "Important: Correctly calculates the displacement during deceleration using a kinematic equation (e.g., h2 = (v2^2 - v1^2)/(-2a)).",
+    "weight": 3
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: Uses incorrect sign for acceleration or velocity change in deceleration phase (e.g., a = (v2 - v1)/t2 without magnitude).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s, m/s^2) throughout calculations.",
+    "weight": 1
+  }
+]

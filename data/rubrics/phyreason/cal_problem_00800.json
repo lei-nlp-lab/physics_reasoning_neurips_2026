@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final bullet velocity expression",
+    "description": "Essential: The response must provide the final expression for the bullet's initial velocity in terms of M, m, s, h, and g.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: The solution must apply momentum conservation to relate the bullet's initial velocity to the combined post-collision velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: The solution must correctly analyze the horizontal and vertical projectile motion of the combined mass after the collision to find its velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct algebra",
+    "description": "Important: The derivation must correctly combine the momentum and projectile equations to solve for the bullet's initial velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expression should be dimensionally consistent, having units of velocity.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect momentum assumption",
+    "description": "Pitfall: Penalize if the solution assumes energy conservation for the inelastic collision instead of momentum conservation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or factor error",
+    "description": "Pitfall: Penalize for algebraic errors in the final expression, such as incorrect factors (e.g., missing 1/2, misplaced square root).",
+    "weight": -1
+  }
+]

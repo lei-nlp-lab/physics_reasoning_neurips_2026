@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for T_2 must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The application of the conservation of energy principle must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity Usage",
+    "description": "Important Criteria: The heat capacities C_1 and C_2 must be correctly utilized in the equation.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Algebra",
+    "description": "Important Criteria: The algebraic manipulation leading to T_2 must be accurate without errors.",
+    "weight": 3
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: The response should include a check for consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the heat transfer terms must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Assumption Clarity",
+    "description": "Optional Criteria: The assumptions made regarding the systems should be clearly stated.",
+    "weight": 1
+  }
+]

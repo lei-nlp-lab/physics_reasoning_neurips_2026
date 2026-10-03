@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct angle value",
+    "description": "Essential: The response must state that the angle between initial velocity and positive x-axis is 45°.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: The response must give the potential difference U_PQ as -mgL/q.",
+    "weight": 5
+  },
+  {
+    "title": "Correct time in first quadrant",
+    "description": "Essential: The response must state the time in the first quadrant as √2 v₀/g.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance in second quadrant",
+    "description": "Important: The solution must recognize that uniform motion in the second quadrant requires qE = mg.",
+    "weight": 4
+  },
+  {
+    "title": "Net force in first quadrant",
+    "description": "Important: The solution must correctly compute the net force magnitude as √2 mg in the first quadrant.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The solution must apply work-energy theorem or equivalent to relate electric work and gravitational work from P to Q.",
+    "weight": 3
+  },
+  {
+    "title": "Symmetry recognition",
+    "description": "Optional: The solution may note the symmetry of motion about the y-axis to determine round-trip time.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: Penalize if the sign of U_PQ is incorrect (should be negative for negative charge moving against field).",
+    "weight": -2
+  },
+  {
+    "title": "Angle miscalculation",
+    "description": "Pitfall: Penalize if tanθ is set incorrectly or if θ is not derived as 45° from qE = mg.",
+    "weight": -1
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Penalize if units are missing or inconsistent in final answers (especially for U_PQ).",
+    "weight": -1
+  }
+]

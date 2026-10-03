@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Partition Function",
+    "description": "Essential Criteria: The partition function Z_1 must be correctly stated as Z_1 = 2 cosh(mu B / tau).",
+    "weight": 5
+  },
+  {
+    "title": "Probabilities",
+    "description": "Essential Criteria: The probabilities P(epsilon_+) and P(epsilon_-) must be correctly derived from the partition function.",
+    "weight": 5
+  },
+  {
+    "title": "Total Moment",
+    "description": "Important Criteria: The total magnetic moment M must be expressed correctly as M = N_s mu tanh(mu B / tau).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Susceptibility",
+    "description": "Important Criteria: The expression for magnetic susceptibility chi = N_s mu^2 / tau must be derived correctly under the high temperature approximation.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Expression",
+    "description": "Essential Criteria: The entropy expression sigma_s = N_s (log 2 - mu^2 B^2 / (2 tau^2)) must be correctly shown.",
+    "weight": 5
+  },
+  {
+    "title": "Final Temperature",
+    "description": "Important Criteria: The final temperature tau_f must be computed correctly based on the entropy changes when the magnetic field is reduced to zero.",
+    "weight": 4
+  },
+  {
+    "title": "High Temperature Definition",
+    "description": "Optional Criteria: A clear definition of what constitutes 'high temperature' should be provided.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the expressions for M, chi, or sigma_s will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Any unit inconsistencies in the final expressions will result in a deduction.",
+    "weight": -1
+  }
+]

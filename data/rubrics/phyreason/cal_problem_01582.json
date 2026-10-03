@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states the final answer for part (1) as E = √3 mg / q.",
+    "weight": 5
+  },
+  {
+    "title": "Ball B charge",
+    "description": "Essential: Correctly states the final answer for part (2) as Q = 2mgR² / (kq).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at point a",
+    "description": "Important: Applies static equilibrium to ball A at point a, relating electric force, gravity, and normal force (or using geometry to find tan 60°).",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb's law application",
+    "description": "Important: Uses Coulomb's law correctly to express the force between balls A and B in terms of their charges and distance R.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at point b",
+    "description": "Important: Applies static equilibrium to ball B at point b, relating the Coulomb force component, gravity, and possibly normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and angle identification",
+    "description": "Important: Correctly identifies the 60° angle from the geometry of the circle (e.g., relating height R/2 to radius R).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Explicitly includes or checks units in the final answers (N/C for E, C for Q).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Makes an error with the sign/direction of forces (e.g., electric force on A, component of Coulomb force on B) leading to incorrect equations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect distance or angle",
+    "description": "Pitfall: Uses an incorrect distance between charges (not R) or misidentifies the angle (not 60°) for force components.",
+    "weight": -2
+  }
+]

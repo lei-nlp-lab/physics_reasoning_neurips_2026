@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum angular velocity",
+    "description": "Essential: Correctly states or derives the final answer ω₀ = √(μg/R).",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force balance",
+    "description": "Important: Applies Newton's second law for circular motion, equating maximum static friction to the required centripetal force.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum friction coefficient",
+    "description": "Essential: Correctly states or derives the final answer μ' = (2/3)μ.",
+    "weight": 5
+  },
+  {
+    "title": "Post-slip kinematics",
+    "description": "Important: Uses kinematics (v² = 2ax) for constant deceleration on the table after the object leaves the disk.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry of displacement",
+    "description": "Important: Correctly calculates the radial displacement on the table as x = √((1.25R)² - R²) = 0.75R.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at disk edge",
+    "description": "Important: Relates the angular velocity at slipping to the linear velocity using v = ω₀R.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect force direction",
+    "description": "Pitfall: Misidentifies the direction of the frictional force on the table (should be opposite to velocity, providing deceleration).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes an algebraic sign error in combining equations or omits/drops necessary units (g, R).",
+    "weight": -1
+  }
+]

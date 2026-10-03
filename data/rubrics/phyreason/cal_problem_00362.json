@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Motor current correct",
+    "description": "Essential: The student's answer for part (1) must be 1.5 A.",
+    "weight": 5
+  },
+  {
+    "title": "Motor output power correct",
+    "description": "Essential: The student's answer for part (2) must be 3.375 W.",
+    "weight": 5
+  },
+  {
+    "title": "Bulb current from rating",
+    "description": "Important: The solution correctly uses the bulb's normal operating power and voltage (P=4.5W, U=3V) to find the circuit current.",
+    "weight": 4
+  },
+  {
+    "title": "Apply loop rule",
+    "description": "Important: The solution applies Kirchhoff's voltage law to find the voltage across the motor, accounting for the supply EMF, internal resistance drop, and bulb voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Motor power balance",
+    "description": "Important: The solution calculates the motor's output power correctly as the difference between its electrical input power (UI) and its resistive heating loss (I²R).",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations maintain consistent units (Volts, Amps, Ohms, Watts).",
+    "weight": 1
+  },
+  {
+    "title": "Misinterpret bulb rating",
+    "description": "Pitfall: Using the bulb's power or voltage incorrectly (e.g., using P=U²/R without the correct current) to find the circuit current.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or term error in KVL",
+    "description": "Pitfall: Incorrectly summing voltage rises/drops in the loop rule, omitting a term or using the wrong sign.",
+    "weight": -2
+  },
+  {
+    "title": "Confuse motor power forms",
+    "description": "Pitfall: Stating the motor's output power as simply UI or I²R, confusing input, output, or thermal power.",
+    "weight": -2
+  }
+]

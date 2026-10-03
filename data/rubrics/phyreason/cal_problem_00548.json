@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct fringe width formula",
+    "description": "Essential Criteria: Student must apply the fringe width formula Δx = λL/d for each wavelength.",
+    "weight": 5
+  },
+  {
+    "title": "Third-order fringe positions",
+    "description": "Important Criteria: Student must correctly compute positions as x₁ = 3Δx₁ and x₂ = 3Δx₂ for the third-order fringes.",
+    "weight": 4
+  },
+  {
+    "title": "Distance between fringes",
+    "description": "Essential Criteria: Student must subtract the two positions to find the final distance, yielding 6.0×10⁻⁵ m.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important Criteria: Student must convert all quantities to consistent SI units (mm to m, nm to m) before calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in subtraction",
+    "description": "Pitfall Criteria: Student incorrectly subtracts Δx₁ - Δx₂ instead of Δx₂ - Δx₁, giving a negative or incorrect magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Order misinterpretation",
+    "description": "Pitfall Criteria: Student uses n=3 incorrectly (e.g., multiplies by n after finding fringe separation instead of before).",
+    "weight": -1
+  },
+  {
+    "title": "Alternative geometric reasoning",
+    "description": "Optional Criteria: Student clearly explains that the separation grows linearly with order n.",
+    "weight": 1
+  }
+]

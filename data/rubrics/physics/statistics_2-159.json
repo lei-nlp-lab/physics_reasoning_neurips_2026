@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: Provide the correct final temperature estimate T < 1 K.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Inequality",
+    "description": "Important Criteria: State the condition Ka < 2π correctly using the potential range.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Important Criteria: Derive the relationship between kinetic energy and wave number correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution Accuracy",
+    "description": "Important Criteria: Accurately substitute values into the derived equation for temperature.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes or incorrect factors in the calculations.",
+    "weight": -2
+  }
+]

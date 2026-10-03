@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Stern-Gerlach Description",
+    "description": "Essential Criteria: The student must accurately describe the Stern-Gerlach experiment and its significance in quantum theory.",
+    "weight": 5
+  },
+  {
+    "title": "Compton Effect Description",
+    "description": "Essential Criteria: The student must accurately describe the Compton Effect and its contribution to quantum theory.",
+    "weight": 5
+  },
+  {
+    "title": "Approximate Dates",
+    "description": "Important Criteria: The student should provide the correct approximate dates for both experiments.",
+    "weight": 3
+  },
+  {
+    "title": "Key Concepts",
+    "description": "Important Criteria: The student must mention key concepts such as space quantization for Stern-Gerlach and light quanta for Compton.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity and Conciseness",
+    "description": "Optional Criteria: The response should be clear and concise, effectively communicating the main ideas without unnecessary detail.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect dates or misrepresenting the significance of the experiments.",
+    "weight": -2
+  }
+]

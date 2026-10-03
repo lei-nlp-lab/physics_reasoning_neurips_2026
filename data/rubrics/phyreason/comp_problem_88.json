@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Static equilibrium condition",
+    "description": "Essential: Correctly identifies that the spring force at the onset of motion equals the maximum static friction, leading to s = μ₀mg/k.",
+    "weight": 5
+  },
+  {
+    "title": "Equation of motion",
+    "description": "Important: Applies Newton's second law during sliding, relating acceleration to spring extension and kinetic friction.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity zero condition",
+    "description": "Important: Sets the derived velocity function v(t) to zero to find the first stopping time t₀.",
+    "weight": 4
+  },
+  {
+    "title": "Stopping time solution",
+    "description": "Essential: Correctly solves the transcendental equation for t₀, expressing it in terms of ω and α = arctan[(1-r)sω/v₀].",
+    "weight": 5
+  },
+  {
+    "title": "Spring stretch at stop",
+    "description": "Important: Calculates the spring extension when the box stops, showing it simplifies to Δℓ = (2r-1)s.",
+    "weight": 3
+  },
+  {
+    "title": "Static friction re-engagement",
+    "description": "Important: Determines the additional stretch needed after stopping for static friction to be overcome again, which is 2(1-r)s.",
+    "weight": 3
+  },
+  {
+    "title": "Rest time calculation",
+    "description": "Essential: Correctly computes the subsequent rest time as the distance to re-stretch divided by the constant pulling speed, yielding 2(1-r)s/v₀.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Uses the wrong sign for the friction force or spring force in the equation of motion during sliding.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing friction coefficients",
+    "description": "Pitfall: Uses μ (kinetic) instead of μ₀ (static) when calculating the initial stretch s, or vice versa in the equation of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions for s, a, t₀, and rest time.",
+    "weight": 1
+  }
+]

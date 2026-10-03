@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum velocity expression",
+    "description": "Essential Criteria: The final answer for v_m must be correctly expressed as mg(R+r)sinθ/(B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important Criteria: The solution must apply Newton's second law at equilibrium, equating the gravitational force component to the magnetic damping force.",
+    "weight": 4
+  },
+  {
+    "title": "Induced EMF and current",
+    "description": "Important Criteria: The solution must correctly apply Faraday's law to find the induced EMF (BLv) and Ohm's law for the total circuit resistance (R+r).",
+    "weight": 4
+  },
+  {
+    "title": "Total Joule heat expression",
+    "description": "Essential Criteria: The final answer for Q must be derived from energy conservation: mgx sinθ minus the final kinetic energy, or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important Criteria: The solution must state that the loss in gravitational potential energy equals the gain in kinetic energy plus the total Joule heat.",
+    "weight": 3
+  },
+  {
+    "title": "Time expression",
+    "description": "Essential Criteria: The final answer for t must be correctly expressed as m(R+r)/(B²L²) + (B²L²x)/(mg(R+r)sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Differential equation solution",
+    "description": "Important Criteria: The solution for time must involve setting up and solving the equation of motion (F_net = m dv/dt) or using an integrated form.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall Criteria: Penalize if the magnetic force (BIL) is given the same direction as the gravitational component, accelerating the rod.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect circuit resistance",
+    "description": "Pitfall Criteria: Penalize if the total resistance in Ohm's law is taken as only R or only r, instead of the series sum (R+r).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may demonstrate that the final expressions for v_m, Q, and t have correct physical dimensions.",
+    "weight": 1
+  }
+]

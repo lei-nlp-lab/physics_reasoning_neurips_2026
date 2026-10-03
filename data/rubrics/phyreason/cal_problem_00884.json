@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field B1 magnitude",
+    "description": "Essential: Correctly calculates B1 = 0.2 T using the radius of motion in the second quadrant and the Lorentz force.",
+    "weight": 5
+  },
+  {
+    "title": "Time in rectangular field",
+    "description": "Essential: Correctly calculates the time t = 3.9e-8 s for the quarter-circular motion in the B2 region.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum area S",
+    "description": "Essential: Correctly calculates the minimum area S = 4.14e-3 m² for the rectangular magnetic field region.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude E",
+    "description": "Essential: Correctly calculates the magnitude of the electric field E = 1.2e6 N/C from its vector components.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for radii",
+    "description": "Important: Correctly determines the radii r1 and r2 from geometric constraints and the Lorentz force.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field components",
+    "description": "Important: Correctly applies the work-energy theorem to find the horizontal (Ex) and vertical (Ey) components of the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Path symmetry analysis",
+    "description": "Important: Recognizes the symmetry of the particle's full path and the velocity conditions at key points (Q, M, return to P).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (meters, seconds, Teslas, N/C) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in components",
+    "description": "Pitfall: Incorrectly assigns signs to the electric field components (Ex, Ey) relative to the particle's velocity changes.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Misinterprets the 30° angle or the entry/exit conditions, leading to an incorrect radius r1 or rectangle dimensions.",
+    "weight": -2
+  }
+]

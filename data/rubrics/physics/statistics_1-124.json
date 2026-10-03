@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct numerical ratio of pV/RT at the critical point.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Point Conditions",
+    "description": "Important Criteria: The student correctly identifies and applies the conditions for the critical point involving the first and second derivatives of pressure with respect to volume.",
+    "weight": 4
+  },
+  {
+    "title": "Equation of State Application",
+    "description": "Important Criteria: The student correctly uses Dieterici's equation to derive necessary relationships for the critical point.",
+    "weight": 4
+  },
+  {
+    "title": "Intermediate Steps",
+    "description": "Optional Criteria: The student shows clear intermediate steps leading to the determination of V and RT at the critical point.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks and confirms the consistency of units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to correctly apply the conditions for the critical point, leading to an incorrect value for V or RT.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student makes sign mistakes in the derivatives or in the application of the equation of state.",
+    "weight": -1
+  }
+]

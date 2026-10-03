@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Neutrino Properties",
+    "description": "Essential Criteria: The response must list the general properties of neutrinos and antineutrinos, including their classification as leptons and weakly interacting particles.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Motivation",
+    "description": "Essential Criteria: The response must explain the physical motivation for the postulate of the neutrino's existence, specifically relating to the energy spectrum in beta decay.",
+    "weight": 5
+  },
+  {
+    "title": "Detection Method",
+    "description": "Essential Criteria: The response must describe the method used for the first direct detection of neutrinos, including the experiment by Reines and Cowan.",
+    "weight": 5
+  },
+  {
+    "title": "Quantum Numbers",
+    "description": "Important Criteria: The response should mention the specific types of neutrinos and their antiparticles, such as electron, muon, and tau neutrinos.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Process",
+    "description": "Important Criteria: The response should include the decay process involved in the detection of neutrinos, specifically the neutron decay reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as misidentifying the types of neutrinos or incorrectly stating the detection method.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Spectrum",
+    "description": "Optional Criteria: The response could discuss the significance of the continuous energy spectrum in beta decay and its implications for neutrino physics.",
+    "weight": 2
+  },
+  {
+    "title": "Historical Context",
+    "description": "Optional Criteria: The response could provide additional historical context regarding the development of neutrino theory and its implications in particle physics.",
+    "weight": 2
+  }
+]

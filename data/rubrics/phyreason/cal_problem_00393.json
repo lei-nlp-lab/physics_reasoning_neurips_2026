@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Current magnitude",
+    "description": "Essential: Correct calculation of current through ab using Ohm's law with all resistances in series.",
+    "weight": 5
+  },
+  {
+    "title": "Current direction",
+    "description": "Essential: Correct identification that current flows from a to b (or equivalent direction specification).",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correct calculation of Ampere force using F = BIL with given values.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Correct application of static equilibrium conditions for both horizontal and vertical forces on ab.",
+    "weight": 4
+  },
+  {
+    "title": "Friction direction cases",
+    "description": "Important: Consideration of both cases where friction acts left or right to determine G range.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: Correct determination of normal force from vertical equilibrium including magnetic force component.",
+    "weight": 3
+  },
+  {
+    "title": "Tension-G relationship",
+    "description": "Important: Recognition that rope tension equals gravitational force G on hanging mass.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Incorrect sign for friction force in equilibrium equations (direction confusion).",
+    "weight": -2
+  },
+  {
+    "title": "Magnetic force components",
+    "description": "Pitfall: Failure to resolve magnetic force into horizontal (sinα) and vertical (cosα) components.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Consistent use of SI units throughout calculations without conversion errors.",
+    "weight": 1
+  }
+]

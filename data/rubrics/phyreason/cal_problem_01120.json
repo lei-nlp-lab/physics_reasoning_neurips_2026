@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Friction magnitude and direction",
+    "description": "Essential: Correctly calculates the kinetic friction force as 4 N and identifies its direction as opposing the block's motion (left).",
+    "weight": 5
+  },
+  {
+    "title": "Block acceleration",
+    "description": "Essential: Correctly calculates the block's deceleration magnitude as 2 m/s² and states its direction is left.",
+    "weight": 5
+  },
+  {
+    "title": "Board acceleration",
+    "description": "Essential: Correctly calculates the board's acceleration magnitude as 4 m/s² and states its direction is right.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Applies kinematics to find the time and common velocity (2 m/s) when relative motion stops.",
+    "weight": 4
+  },
+  {
+    "title": "Displacement calculation",
+    "description": "Important: Correctly calculates the displacements of the block and board relative to the ground using kinematics.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum board length",
+    "description": "Essential: Correctly computes the minimum length L as 0.75 m from the relative displacement.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Important: Recognizes the friction force on the board is equal in magnitude and opposite in direction to that on the block.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Confuses the direction of accelerations or assigns friction to the wrong object.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect relative displacement",
+    "description": "Pitfall: Uses the sum of displacements instead of their difference to find L.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field direction",
+    "description": "Essential Criteria: The response must state that the magnetic field is perpendicular to the inclined plane and points upward.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the magnetic induction B as 1.2 T using the equilibrium condition BIL = mg sin θ.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important Criteria: The response must apply Newton's first law, balancing the component of gravity down the incline with the magnetic force for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Modified equilibrium setup",
+    "description": "Important Criteria: For part (2), the response must set up the correct force balance: F + BIL cos θ = mg sin θ, accounting for the new magnetic force component.",
+    "weight": 4
+  },
+  {
+    "title": "External force magnitude",
+    "description": "Essential Criteria: The response must correctly calculate the external force F as 0.24 N from the part (2) equilibrium equation.",
+    "weight": 5
+  },
+  {
+    "title": "External force direction",
+    "description": "Essential Criteria: The response must state that the external force F acts upward along the rail to maintain equilibrium in part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Correct use of trigonometry",
+    "description": "Important Criteria: The response must correctly use sin 37° and cos 37° to resolve weight and magnetic force components along the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly adds or subtracts the magnetic force term in the part (2) equilibrium equation, leading to a wrong F.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall Criteria: Penalize if final answers for B or F are given without correct units (T, N) or with incorrect unit conversions.",
+    "weight": -1
+  }
+]

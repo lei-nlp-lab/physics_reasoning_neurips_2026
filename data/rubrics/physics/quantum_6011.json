@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Phase Shift Relation",
+    "description": "Essential Criteria: The response must correctly relate the phase shift delta to the solution of the Schrödinger equation.",
+    "weight": 5
+  },
+  {
+    "title": "Differential Cross Section",
+    "description": "Essential Criteria: The formula for the differential scattering cross section must be accurately provided in terms of delta and k.",
+    "weight": 5
+  },
+  {
+    "title": "No Scattering Explanation",
+    "description": "Important Criteria: The explanation of how a purely attractive potential can lead to no scattering must be clear and include a relevant diagram.",
+    "weight": 4
+  },
+  {
+    "title": "Resonance Scattering Explanation",
+    "description": "Important Criteria: The explanation of resonance scattering due to a potential that is attractive at short distances and repulsive at large distances must be clear and include a relevant diagram.",
+    "weight": 4
+  },
+  {
+    "title": "Total Cross Section Value",
+    "description": "Essential Criteria: The maximum value of the total cross section at the center of the resonance must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Phase Shift Conditions",
+    "description": "Pitfall Criteria: The response must avoid errors in stating conditions under which delta leads to no scattering, such as incorrect phase shift values.",
+    "weight": -2
+  },
+  {
+    "title": "Dimensional Reasoning",
+    "description": "Optional Criteria: The use of dimensional reasoning to derive the differential cross section formula is encouraged but not required.",
+    "weight": 2
+  }
+]

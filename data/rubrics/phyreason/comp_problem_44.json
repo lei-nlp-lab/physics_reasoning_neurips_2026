@@ -1,0 +1,52 @@
+[
+  {
+    "title": "CO mass balance equation",
+    "description": "Essential: The student must derive the correct differential equation dC/dt + (u/W)C = M/(LWH) for the pollutant concentration.",
+    "weight": 5
+  },
+  {
+    "title": "CO concentration solution",
+    "description": "Essential: The student must provide the correct solution C(t) = (M/(LHu))[1 - exp(-ut/W)].",
+    "weight": 5
+  },
+  {
+    "title": "Numerical CO concentration",
+    "description": "Essential: The student must calculate the correct numerical value for C at 8:00 a.m. (approx. 2.3 mg/m³).",
+    "weight": 5
+  },
+  {
+    "title": "Parcel temperature derivation",
+    "description": "Important: The student must correctly derive T_parcel(z) = T_parcel(0)[(T(0)-Λz)/T(0)]^(Γ/Λ) using adiabatic and hydrostatic principles.",
+    "weight": 4
+  },
+  {
+    "title": "Maximal altitude expression",
+    "description": "Important: The student must derive the correct expression for the maximal altitude h in terms of Λ and Γ from the condition T_parcel(h)=T(h).",
+    "weight": 4
+  },
+  {
+    "title": "Lapse rate calculations",
+    "description": "Important: The student must correctly calculate the parcel temperatures at 96 m and 119 m using the given lapse rates and adiabatic expansion.",
+    "weight": 4
+  },
+  {
+    "title": "Mixing height determination",
+    "description": "Important: The student must correctly determine the total maximal elevation H (mixing height) and the parcel temperature T_parcel(H).",
+    "weight": 4
+  },
+  {
+    "title": "Pressure profile derivation",
+    "description": "Optional: The student should derive the correct pressure expressions p(z) for both uniform and linear temperature profiles.",
+    "weight": 2
+  },
+  {
+    "title": "Free convection condition",
+    "description": "Optional: The student should identify the correct condition for free convection (Λ > μg/R).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Deduct points for sign errors in differential equations, incorrect unit conversions, or misapplication of the adiabatic lapse rate.",
+    "weight": -2
+  }
+]

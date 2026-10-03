@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct final answer for l",
+    "description": "Essential: The student's final expression for the water height l must be algebraically equivalent to l = (ρgH / (p₀ + ρgH)) * h.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final answer for V",
+    "description": "Essential: The student's final expression for the pumped air volume V must be algebraically equivalent to V = (ρg S H h) / p₀.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Boyle's Law correctly",
+    "description": "Important: The solution correctly applies Boyle's Law (pV constant) to relate the gas states in both parts of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Correct hydrostatic pressure relation",
+    "description": "Important: The solution correctly states that the gas pressure inside the bell equals atmospheric pressure plus ρg times the depth of the air-water interface below the surface.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies initial and final volumes",
+    "description": "Important: The solution clearly identifies the initial (V₀ = hS) and final gas volumes (e.g., V₁ = (h-l)S) for the first part.",
+    "weight": 3
+  },
+  {
+    "title": "Considers pressure for water expulsion",
+    "description": "Important: For part (2), the solution correctly identifies the required gas pressure as p₂ = p₀ + ρgH to expel all water.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation and solving",
+    "description": "Optional: The solution shows clear, logical algebraic steps to solve the simultaneous equations derived from Boyle's Law and the pressure condition.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes a check or statement that the units of the final answers (l and V) are correct (length and volume, respectively).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect pressure at gas interface",
+    "description": "Pitfall: The solution incorrectly uses the total depth H (instead of H-l) for the gas pressure in part (1), leading to p₁ = p₀ + ρgH.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall: The solution contains a fundamental sign error in the pressure equation or makes a critical arithmetic mistake in solving for l or V.",
+    "weight": -1
+  }
+]

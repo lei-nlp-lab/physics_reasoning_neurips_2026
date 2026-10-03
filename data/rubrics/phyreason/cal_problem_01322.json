@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Total time calculation",
+    "description": "Essential Criteria: The final answer for part (1) must be 12.5 s.",
+    "weight": 5
+  },
+  {
+    "title": "Mechanical energy calculation",
+    "description": "Essential Criteria: The final answer for part (2) must be 188 J.",
+    "weight": 5
+  },
+  {
+    "title": "Friction heat calculation",
+    "description": "Essential Criteria: The final answer for part (3) must be 128 J.",
+    "weight": 5
+  },
+  {
+    "title": "Motor energy calculation",
+    "description": "Essential Criteria: The final answer for part (4) must be 316 J.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration analysis",
+    "description": "Important Criteria: Correctly calculates the object's acceleration using net force from friction and gravity components.",
+    "weight": 4
+  },
+  {
+    "title": "Two-phase motion analysis",
+    "description": "Important Criteria: Identifies the two phases of motion: acceleration to belt speed and then uniform motion.",
+    "weight": 3
+  },
+  {
+    "title": "Relative displacement for heat",
+    "description": "Important Criteria: Uses the relative displacement between object and belt to calculate frictional heat generation.",
+    "weight": 4
+  },
+  {
+    "title": "Energy accounting",
+    "description": "Important Criteria: Correctly sums the object's final mechanical energy and frictional heat to find the motor's energy input.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: Uses an incorrect sign for the net force, leading to a wrong acceleration direction or magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent SI units throughout all calculations.",
+    "weight": 1
+  }
+]

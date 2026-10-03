@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Radius",
+    "description": "Essential Criteria: The correct radius of the sphere must be stated as r_0 = d/8.",
+    "weight": 5
+  },
+  {
+    "title": "Final Force",
+    "description": "Essential Criteria: The force on each charge must be correctly expressed as F = QV/(8d).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Symmetry",
+    "description": "Important Criteria: The reasoning should include the symmetry of the charge distribution and its effect on the forces.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Calculation",
+    "description": "Important Criteria: The calculation of the potential due to the sphere must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Direction",
+    "description": "Optional Criteria: The direction of the electric field created by the sphere should be mentioned.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any unit mistakes in the final answers will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the force calculation will result in a deduction.",
+    "weight": -2
+  }
+]

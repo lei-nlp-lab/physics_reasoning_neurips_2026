@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final potential energy difference",
+    "description": "Essential: The answer must be expressed as ΔE_p = (1/2) m v_0^2 cos²θ or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance condition",
+    "description": "Important: The solution must state or apply the equilibrium condition mg = Eq tanθ, relating gravity, electric force, and the angle.",
+    "weight": 4
+  },
+  {
+    "title": "Work by electric force",
+    "description": "Important: The solution must correctly calculate the work done by the constant electric force as W = -Eq * (horizontal displacement).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for stopping distance",
+    "description": "Important: The solution must use the correct kinematic equation (v_f² = v_0² + 2as) to find the distance 's' along the incline where the ball stops.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Important: The solution must correctly derive the deceleration along the line of motion as a = g/sinθ from the net force component.",
+    "weight": 3
+  },
+  {
+    "title": "Relation ΔE_p = -W",
+    "description": "Optional: The solution may explicitly state the fundamental relationship that the change in electric potential energy is the negative of the work done by the electric field.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work or ΔE_p",
+    "description": "Pitfall: A common error is to get the sign wrong in the relationship W = -ΔE_p, leading to an incorrect sign for the final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall: A common error is to incorrectly resolve the forces (gravity and electric) along the direction of motion, leading to a wrong expression for acceleration or force balance.",
+    "weight": -1
+  }
+]

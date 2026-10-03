@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for the electrostatic potential phi must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student must correctly apply the boundary conditions for the potentials at the surfaces of the hemispheres.",
+    "weight": 4
+  },
+  {
+    "title": "Legendre Expansion",
+    "description": "Important Criteria: The student should correctly expand the boundary condition function in terms of Legendre polynomials.",
+    "weight": 4
+  },
+  {
+    "title": "Laplace's Equation",
+    "description": "Important Criteria: The student must correctly set up and recognize the form of Laplace's equation in spherical coordinates.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: The student should show the integration steps for calculating the coefficients of the Legendre polynomials.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all terms in the final expression are dimensionally consistent.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect coefficients in the Legendre expansion.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Terms",
+    "description": "Pitfall Criteria: The student must correctly identify and neglect terms that fall off faster than 1/r^4.",
+    "weight": -1
+  }
+]

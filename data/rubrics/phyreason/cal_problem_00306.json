@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct horizontal motion",
+    "description": "Essential: Student correctly applies uniform linear motion to relate horizontal displacement R to initial velocity v₀ and flight time t.",
+    "weight": 5
+  },
+  {
+    "title": "Correct vertical motion",
+    "description": "Essential: Student correctly applies free-fall kinematics to relate height h to gravitational acceleration g and flight time t.",
+    "weight": 5
+  },
+  {
+    "title": "Final velocity condition",
+    "description": "Essential: Student derives and presents the final condition v₀ = R√(g/(2h)) from combining horizontal and vertical motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Angular displacement condition",
+    "description": "Important: Student recognizes that the disk must rotate by an integer multiple of 2π during the flight time for the ball to land at point B.",
+    "weight": 4
+  },
+  {
+    "title": "Final angular velocity condition",
+    "description": "Essential: Student derives and presents the final condition ω = 2nπ√(g/(2h)) with n = 0,1,2,... from combining angular motion with flight time.",
+    "weight": 5
+  },
+  {
+    "title": "Integer multiple recognition",
+    "description": "Important: Student explicitly states or correctly uses that n must be a non-negative integer (n = 0,1,2,...) in the angular velocity solution.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction errors",
+    "description": "Pitfall: Student incorrectly uses signs for gravitational acceleration or misinterprets direction of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Missing integer condition",
+    "description": "Pitfall: Student omits the integer multiple condition (n = 0,1,2,...) in the angular velocity solution.",
+    "weight": -1
+  }
+]

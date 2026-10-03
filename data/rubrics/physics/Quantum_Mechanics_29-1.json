@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Eigenfunctions and Eigenvalues",
+    "description": "Essential Criteria: The student must correctly derive the eigenfunctions and eigenvalues for the infinite square well potential.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The student should apply first-order perturbation theory correctly to find the energy shifts for excited states.",
+    "weight": 4
+  },
+  {
+    "title": "Probability Calculation",
+    "description": "Essential Criteria: The student must accurately calculate the probability of finding the particle in the first and second excited states at a later time.",
+    "weight": 5
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student should verify that the eigenfunctions are properly normalized.",
+    "weight": 2
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The student must correctly evaluate the integrals involved in the perturbation calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect limits in integrals.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Essential Criteria: The student must present final answers clearly and in the correct format.",
+    "weight": 3
+  }
+]

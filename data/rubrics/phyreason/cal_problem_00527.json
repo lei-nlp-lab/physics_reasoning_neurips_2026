@@ -1,0 +1,52 @@
+[
+  {
+    "title": "State identification",
+    "description": "Essential Criteria: The response must correctly identify the air conditioner is in fan mode during the first 5 minutes.",
+    "weight": 5
+  },
+  {
+    "title": "Current calculation",
+    "description": "Essential Criteria: The response must correctly calculate the current as 1 A using I = P/U with the fan-mode power.",
+    "weight": 5
+  },
+  {
+    "title": "Cycle energy calculation",
+    "description": "Essential Criteria: The response must correctly calculate the energy consumed in one 15-minute cycle as 0.385 kW·h (or degrees).",
+    "weight": 5
+  },
+  {
+    "title": "Hourly energy calculation",
+    "description": "Essential Criteria: The response must correctly calculate the energy consumed in one hour as 1.54 kW·h (or degrees).",
+    "weight": 5
+  },
+  {
+    "title": "Power-time interpretation",
+    "description": "Important Criteria: The solution must correctly interpret the power-time graph to determine the cycle structure and durations.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important Criteria: The solution must correctly convert between minutes and hours for energy calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Energy formula application",
+    "description": "Important Criteria: The solution must apply W = P*t separately for cooling and fan modes before summing.",
+    "weight": 4
+  },
+  {
+    "title": "Cycles per hour",
+    "description": "Optional Criteria: The solution may explicitly calculate the number of cycles in one hour (4 cycles).",
+    "weight": 2
+  },
+  {
+    "title": "Power mode confusion",
+    "description": "Pitfall Criteria: Penalize confusing cooling and fan mode powers when calculating current or energy.",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall Criteria: Penalize errors in converting time from minutes to hours for energy calculations.",
+    "weight": -1
+  }
+]

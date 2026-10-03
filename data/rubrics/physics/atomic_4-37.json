@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Energy Result",
+    "description": "Essential Criteria: The final energy of the back-scattered photons must be correctly calculated as 29.7 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The conservation of energy equation must be correctly applied to relate the energies before and after the collision.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The conservation of momentum must be correctly applied to relate the momenta before and after the collision.",
+    "weight": 4
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The justification for approximations made in the calculations should be clearly stated.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units used in the calculations must be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of relativistic equations will result in a deduction.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the electric field must be correctly stated as E >= 2 x 10^9 Z^3 V/cm.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The calculation of the ionization energy as 13.6 Z^2 eV must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Distance from Nucleus",
+    "description": "Important Criteria: The average distance a = a_0/Z must be correctly identified and used in the calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy from Electric Field",
+    "description": "Important Criteria: The relationship eEa must be correctly established to relate the electric field to the energy needed to eject the electron.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units must be consistent throughout the calculations, particularly for energy and electric field.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in energy calculations or misinterpretation of inequalities.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to include the factor of e in the energy from the electric field can lead to incorrect results.",
+    "weight": -2
+  }
+]

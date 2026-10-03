@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimum kinetic energy",
+    "description": "Essential Criteria: The student must correctly calculate the minimum kinetic energy as 5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum mechanical energy",
+    "description": "Essential Criteria: The student must correctly calculate the minimum mechanical energy as 17 J.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum potential sum",
+    "description": "Essential Criteria: The student must correctly calculate the minimum sum of gravitational and electric potential energies as -2 J.",
+    "weight": 5
+  },
+  {
+    "title": "Resultant force analysis",
+    "description": "Important Criteria: The student must identify the constant resultant force of gravity and electric force, and find its angle from vertical using tan α = qE/mg.",
+    "weight": 4
+  },
+  {
+    "title": "Critical point identification",
+    "description": "Important Criteria: The student must recognize that the minimum speed/energy occurs at the point where the resultant force points directly toward the center (the 'highest point' relative to the resultant field).",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force application",
+    "description": "Important Criteria: The student must apply Newton's second law at the critical point: F_resultant = mv²/R, where F_resultant = mg/cos α.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important Criteria: The student must use conservation of total energy (kinetic + gravitational potential + electric potential) to relate energies at different points.",
+    "weight": 3
+  },
+  {
+    "title": "Potential energy expressions",
+    "description": "Optional Criteria: The student correctly writes expressions for gravitational potential energy (mgh) and electric potential energy (-qEx) relative to the defined zero point.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in potentials",
+    "description": "Pitfall Criteria: The student makes a sign error in the electric potential energy term, using +qEx instead of -qEx for the defined zero point.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong critical point",
+    "description": "Pitfall Criteria: The student incorrectly assumes the minimum speed occurs at the top of the vertical circle relative to gravity alone.",
+    "weight": -2
+  }
+]

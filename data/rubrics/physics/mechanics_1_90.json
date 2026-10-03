@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Period Expression",
+    "description": "Essential Criteria: The correct expression for the period of small oscillations must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Stable Equilibrium Position",
+    "description": "Essential Criteria: The position of stable equilibrium must be identified as x = -a.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conditions for Oscillation",
+    "description": "Important Criteria: The condition for oscillation must correctly state v < sqrt(c/(ma)).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conditions for Escape",
+    "description": "Important Criteria: The conditions for escaping to -infinity and +infinity must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Second Derivative Check",
+    "description": "Optional Criteria: The second derivative of potential energy should be evaluated at equilibrium positions to confirm stability.",
+    "weight": 3
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign errors in the conditions for escape and oscillation.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that all expressions for velocity are dimensionally consistent.",
+    "weight": -1
+  }
+]

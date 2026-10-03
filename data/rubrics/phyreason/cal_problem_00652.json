@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final expression for the electric field at point P must be correctly derived as E = kQ/r².",
+    "weight": 5
+  },
+  {
+    "title": "Superposition at midpoint",
+    "description": "Essential: The final expression for the electric field at point C must be correctly derived as E_C = k(q₁ + q₂)/a².",
+    "weight": 5
+  },
+  {
+    "title": "Charge magnitude comparison",
+    "description": "Important: Based on the field line diagram, the student must correctly conclude that q₁ > q₂.",
+    "weight": 3
+  },
+  {
+    "title": "Nozzle velocity expression",
+    "description": "Essential: The final expression for the water velocity from a single nozzle must be correctly derived as v₁ = Q₁/(4πr²).",
+    "weight": 5
+  },
+  {
+    "title": "Superposed velocity expression",
+    "description": "Essential: The final expression for the water velocity at point C with both sources must be correctly derived as v₂ = (Q₁ + Q₂)/(4πa²).",
+    "weight": 5
+  },
+  {
+    "title": "Vector superposition principle",
+    "description": "Important: The solution must correctly apply vector superposition for both the electric field and the water velocity fields.",
+    "weight": 4
+  },
+  {
+    "title": "Analogy recognition",
+    "description": "Optional: The solution may explicitly note the analogy between electric field lines and incompressible fluid flow lines.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in superposition",
+    "description": "Pitfall: Penalize if the student incorrectly subtracts contributions at point C (e.g., E_C = k(q₁ - q₂)/a²) instead of adding them.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect geometric factor",
+    "description": "Pitfall: Penalize if the student uses an incorrect area (e.g., 4πr instead of 4πr²) in the fluid flow expressions.",
+    "weight": -2
+  }
+]

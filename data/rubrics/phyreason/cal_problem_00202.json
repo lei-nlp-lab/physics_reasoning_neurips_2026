@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pressure of B (first step)",
+    "description": "Essential: Correctly applies Boyle's Law to gas B to find its pressure after compression to V/2.",
+    "weight": 5
+  },
+  {
+    "title": "Volume of A (first step)",
+    "description": "Essential: Correctly solves for the volume of A using Boyle's Law for A and the pressure difference condition (p_A = p_B + 0.5p_0).",
+    "weight": 5
+  },
+  {
+    "title": "Boyle's Law application",
+    "description": "Important: Recognizes and correctly applies Boyle's Law (pV = constant) for both gases in all isothermal steps.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure difference condition",
+    "description": "Important: Correctly uses the condition that the partition slides when the pressure difference exceeds 0.5p_0 to relate p_A and p_B.",
+    "weight": 4
+  },
+  {
+    "title": "Volume constraint (return step)",
+    "description": "Important: Applies the total volume constraint (V_A' + V_B' = 2V) when the piston returns to its initial position.",
+    "weight": 3
+  },
+  {
+    "title": "Final A volume and B pressure",
+    "description": "Essential: Correctly solves the system of equations for the final volume of A and pressure of B after the piston returns.",
+    "weight": 5
+  },
+  {
+    "title": "Algebraic solution accuracy",
+    "description": "Optional: Correctly handles the algebra to obtain the exact forms (e.g., involving √5) or correct decimal equivalents.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure relation",
+    "description": "Pitfall: Uses the wrong sign in the pressure-difference relation (e.g., p_A = p_B - 0.5p_0) for the first or second step.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies partition condition",
+    "description": "Pitfall: Assumes the partition is always stationary or always sliding, failing to check the pressure difference condition correctly.",
+    "weight": -2
+  }
+]

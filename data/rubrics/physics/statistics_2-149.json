@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria - Provide a reasonable estimate for the number of molecules in the room.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria - Calculate the energy per mole of gas accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (c)",
+    "description": "Essential Criteria - Determine the heat required to warm one mole of air from 0°C to 20°C.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (d)",
+    "description": "Essential Criteria - Compute the minimum energy required for the refrigerator to cool the air.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning",
+    "description": "Important Criteria - Use appropriate equations and reasoning for each part of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - Ensure all units are consistent and correctly converted where necessary.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Avoid common mistakes such as incorrect use of constants or unit conversions.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria - Discuss any limiting cases or assumptions made in the calculations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Lightning distance",
+    "description": "Essential: Correctly calculates the distance for lightning using d = U/E, yielding 1000 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy released",
+    "description": "Essential: Correctly calculates the energy released using E = qU, yielding 1.5e12 J.",
+    "weight": 5
+  },
+  {
+    "title": "Average current",
+    "description": "Essential: Correctly calculates the average current using I = q/t, yielding 50000 A.",
+    "weight": 5
+  },
+  {
+    "title": "Uniform field assumption",
+    "description": "Important: Applies the formula for a uniform electric field (E = U/d) to relate potential difference and breakdown field.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (V, V/m, C, s) throughout calculations without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect field formula",
+    "description": "Pitfall: Misapplies the electric field relationship, e.g., using E = d/U or confusing it with Coulomb's law.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or power-of-ten error",
+    "description": "Pitfall: Makes arithmetic errors in powers of ten or misplaces decimal points in final answers.",
+    "weight": -1
+  }
+]

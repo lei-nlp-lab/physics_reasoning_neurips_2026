@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Kinetic energy expression",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as k*q^2/(2a) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Period expression",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as T = (2πm/q) * sqrt(b^3/(2km + B^2 b^3)) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must apply Newton's second law for circular motion, balancing Coulomb force with centripetal force for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force inclusion",
+    "description": "Important: For part (2), the solution must correctly incorporate the Lorentz force (Bqv) into the force balance equations for both charges, accounting for opposite directions.",
+    "weight": 4
+  },
+  {
+    "title": "Center of mass constraint",
+    "description": "Important: The solution must correctly apply the geometric constraint that the distances from the center of rotation to each charge sum to the separation (r1+r2=a or R1+R2=b).",
+    "weight": 3
+  },
+  {
+    "title": "Angular velocity relation",
+    "description": "Important: The solution must correctly relate the period T to the angular velocity ω via T = 2π/ω.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in Lorentz force",
+    "description": "Pitfall: Penalize if the signs for the magnetic force terms in the two force equations for part (2) are the same, rather than opposite for opposite charges.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions should have correct dimensional units for energy (Joules) and period (seconds).",
+    "weight": 1
+  }
+]

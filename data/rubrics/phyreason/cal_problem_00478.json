@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct force magnitude",
+    "description": "Essential: The response must correctly calculate F = Eq, yielding 2.0 × 10⁻⁴ N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work magnitude",
+    "description": "Essential: The response must correctly calculate W = Fd, yielding 4.0 × 10⁻⁵ J.",
+    "weight": 5
+  },
+  {
+    "title": "Force direction understanding",
+    "description": "Important: The response should indicate the force direction is along the field for a positive charge.",
+    "weight": 3
+  },
+  {
+    "title": "Work sign interpretation",
+    "description": "Important: The response should correctly relate the work sign to the direction of motion relative to the force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response includes correct units (N, J) and shows unit analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied work formula",
+    "description": "Pitfall: Using W = qEd without confirming constant force and straight-line motion, or misplacing the sign.",
+    "weight": -2
+  },
+  {
+    "title": "Exponent arithmetic error",
+    "description": "Pitfall: Making errors in multiplying powers of ten (e.g., 10⁴ × 10⁻⁸ ≠ 10⁻⁴).",
+    "weight": -1
+  }
+]

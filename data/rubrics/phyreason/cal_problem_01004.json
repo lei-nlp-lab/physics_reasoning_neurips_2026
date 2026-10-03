@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct basket mass",
+    "description": "Essential: The final answer for the mass in the basket must be m₀ = m + M.",
+    "weight": 5
+  },
+  {
+    "title": "Correct piston rise",
+    "description": "Essential: The final answer for the height increase must be Δh = (m+M)gh / (p₀S - Mg).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on piston",
+    "description": "Important: The solution must correctly apply force equilibrium to the piston to relate gas pressure, atmospheric pressure, and weights.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on system",
+    "description": "Important: The reasoning must include that for the cylinder to exert no ground pressure, the rope tension must balance the total weight of cylinder and piston.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Boyle's Law",
+    "description": "Important: The solution must state or apply that the gas undergoes an isothermal process (constant temperature) to relate initial and final pressures and volumes.",
+    "weight": 4
+  },
+  {
+    "title": "Correct initial gas pressure",
+    "description": "Optional: The initial gas pressure should be correctly identified as p₁ = p₀ + mg/S from the piston's initial equilibrium.",
+    "weight": 2
+  },
+  {
+    "title": "Correct final gas pressure",
+    "description": "Optional: The final gas pressure should be correctly identified as p₂ = p₀ - Mg/S from the piston's final equilibrium and the system's force balance.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Penalize if the final gas pressure is incorrectly written as p₀ + Mg/S, missing that the cylinder's weight reduces the force on the gas.",
+    "weight": -2
+  },
+  {
+    "title": "Volume expression",
+    "description": "Optional: The solution should correctly express initial and final volumes in terms of h, Δh, and the cross-sectional area S.",
+    "weight": 1
+  }
+]

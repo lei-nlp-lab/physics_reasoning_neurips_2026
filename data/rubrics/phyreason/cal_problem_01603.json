@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Current through resistor R",
+    "description": "Essential: Correctly calculates the current through the 5Ω resistor using Ohm's Law with the voltage drop across it.",
+    "weight": 5
+  },
+  {
+    "title": "Motor heating power",
+    "description": "Essential: Correctly calculates the motor's Joule heating power using its coil resistance and the current through it.",
+    "weight": 5
+  },
+  {
+    "title": "Stalled motor current",
+    "description": "Essential: Correctly calculates the current through the motor when its rotor is stuck, using the equivalent circuit resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Bulb normal operation analysis",
+    "description": "Important: Correctly determines the bulb's current and/or resistance from its rated voltage and power.",
+    "weight": 4
+  },
+  {
+    "title": "KCL at parallel junction",
+    "description": "Important: Applies Kirchhoff's Current Law correctly to find the motor's operating current from the resistor and bulb currents.",
+    "weight": 4
+  },
+  {
+    "title": "KVL for voltage drops",
+    "description": "Important: Applies Kirchhoff's Voltage Law correctly to find the voltage across the parallel branch (bulb and motor).",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent resistance for stalled case",
+    "description": "Important: Correctly calculates the equivalent resistance of the parallel bulb and motor coil when the motor is stalled.",
+    "weight": 3
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: Final answers are presented with two significant figures as requested.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing motor operating parameters",
+    "description": "Pitfall: Uses the motor's operating current (1A) to calculate the stalled current, ignoring the changed circuit conditions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect power formula application",
+    "description": "Pitfall: Attempts to calculate motor heating power using P=UI with the branch voltage, instead of P=I²r.",
+    "weight": -1
+  }
+]

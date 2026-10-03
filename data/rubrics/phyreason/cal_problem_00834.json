@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct exit angle",
+    "description": "Essential: The student must state the final refraction angle as 45° (or equivalent in radians).",
+    "weight": 5
+  },
+  {
+    "title": "Correct travel time",
+    "description": "Essential: The student must provide the final time expression as (5√2 a)/(√3 c) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Critical angle calculation",
+    "description": "Important: The student must correctly calculate the critical angle θ_c = arcsin(1/n) = 45° to determine that total internal reflection does not occur at the first glass-air interface.",
+    "weight": 4
+  },
+  {
+    "title": "Internal incidence angle",
+    "description": "Important: The student must correctly use geometry (e.g., prism angles and normal lines) to find the angle of incidence at the exit face (30°).",
+    "weight": 4
+  },
+  {
+    "title": "Snell's law application",
+    "description": "Important: The student must apply Snell's law (n sin(i) = sin(r)) correctly at the exit interface to find the refraction angle.",
+    "weight": 3
+  },
+  {
+    "title": "Path length determination",
+    "description": "Important: The student must correctly calculate the total optical path length inside the prism using geometry (e.g., distances along the two internal segments).",
+    "weight": 3
+  },
+  {
+    "title": "Speed in medium",
+    "description": "Optional: The student should explicitly state the speed of light in the prism as v = c/√2.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final time expression should have correct units (e.g., seconds) implied by the dimensional variables a and c.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied total internal reflection",
+    "description": "Pitfall: Penalize if the student incorrectly assumes total internal reflection occurs at the first glass-air interface (60° > 45° is true, but the light is not incident there in this geometry).",
+    "weight": -2
+  },
+  {
+    "title": "Geometry or Snell's law error",
+    "description": "Pitfall: Penalize for significant errors in prism geometry (e.g., wrong incidence angle at exit face) or misapplication of Snell's law (inverting n).",
+    "weight": -1
+  }
+]

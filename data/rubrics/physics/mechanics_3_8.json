@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer of approximately 2.2 x 10^-7 s.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Transformation",
+    "description": "Important Criteria: The student correctly applies the Lorentz transformation to relate the time intervals in different frames.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Important Criteria: The student accurately calculates the velocity of the jet plane in terms of beta.",
+    "weight": 3
+  },
+  {
+    "title": "Time Difference Derivation",
+    "description": "Important Criteria: The student derives the expression for the time difference between the two clocks correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Numerical Substitution",
+    "description": "Optional Criteria: The student correctly substitutes numerical values into the derived equations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to account for the small value of beta leading to incorrect approximations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student makes a sign mistake in calculating the time difference.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the gravitational mass of the galaxy in units of the sun's mass.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Equations",
+    "description": "Important Criteria: The student should correctly apply the gravitational force equations for both the sun and the galaxy.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculations",
+    "description": "Important Criteria: The student must derive the velocities of the sun and the earth using their respective periods and distances.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Ratio Setup",
+    "description": "Important Criteria: The student should set up the mass ratio correctly using the distances and velocities derived.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of gravitational equations.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss any limiting cases or assumptions made in the problem.",
+    "weight": 1
+  }
+]

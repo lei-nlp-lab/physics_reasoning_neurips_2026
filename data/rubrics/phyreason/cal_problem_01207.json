@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct total time",
+    "description": "Essential: The final answer for part (1) must be 3 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum speed",
+    "description": "Essential: The final answer for part (2) must be 3√2 m/s or approximately 4.24 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration from friction",
+    "description": "Important: The student must correctly calculate the block's acceleration as a = μg = 1.5 m/s².",
+    "weight": 4
+  },
+  {
+    "title": "Two-stage motion analysis",
+    "description": "Important: The solution must identify that the block first accelerates to match the belt's speed, then moves uniformly.",
+    "weight": 4
+  },
+  {
+    "title": "Condition for minimum time",
+    "description": "Important: For part (2), the student must recognize that minimum time occurs when the block just reaches speed v at point B (i.e., v² = 2aL).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for acceleration phase",
+    "description": "Optional: The student may show the calculation for the time (t1 = v/a) and distance (x1 = v²/(2a)) during acceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the direction of friction or uses the wrong sign in the force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if the final answer is missing units or uses incorrect units (e.g., m/s for time).",
+    "weight": -1
+  }
+]

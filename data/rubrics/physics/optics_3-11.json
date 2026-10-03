@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Doppler Line Width",
+    "description": "Essential Criteria - The response must define the Doppler line width and relate it to the temperature of the source.",
+    "weight": 5
+  },
+  {
+    "title": "Natural Line Width",
+    "description": "Essential Criteria - The response must define the natural line width and connect it to the uncertainty principle.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Free Method",
+    "description": "Important Criteria - The response should describe the double-photon absorption method and explain how it achieves Doppler-free measurements.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Relation",
+    "description": "Important Criteria - The response must include the energy relation for double-photon absorption and how it relates to Doppler shifts.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - The response should avoid common errors such as incorrect definitions or failing to mention the relationship between temperature and Doppler broadening.",
+    "weight": -2
+  }
+]

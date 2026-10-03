@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Radius Ratio",
+    "description": "Essential Criteria: The student must correctly derive and state the radius ratio R_i/R_f as 10^-3.",
+    "weight": 5
+  },
+  {
+    "title": "Decoupling Age Fraction",
+    "description": "Essential Criteria: The student must correctly conclude that decoupling occurred at 10^-3 of the present age of the universe.",
+    "weight": 5
+  },
+  {
+    "title": "Work Expression",
+    "description": "Essential Criteria: The student must correctly derive and present the work done by photons as W = (π^2/15ħ^3c^3)V_iτ_i^3(τ_i - τ_f).",
+    "weight": 5
+  },
+  {
+    "title": "Isentropic Process Understanding",
+    "description": "Important Criteria: The student should demonstrate understanding of the isentropic process and its implications for energy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Stefan-Boltzmann Law",
+    "description": "Important Criteria: The student must correctly apply the Stefan-Boltzmann law in the context of internal energy calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Volume-Temperature Relationship",
+    "description": "Important Criteria: The student should correctly relate volume and temperature in the context of the expansion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or misapplication of physical laws.",
+    "weight": -2
+  }
+]

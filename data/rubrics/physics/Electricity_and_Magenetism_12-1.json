@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field E' in the moving frame S1.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field",
+    "description": "Essential Criteria: The student must provide the correct expression for the magnetic field B' in the moving frame S1.",
+    "weight": 5
+  },
+  {
+    "title": "Transformation Process",
+    "description": "Important Criteria: The student should clearly outline the process of transforming the fields from S0 to S1 using the Lorentz transformation.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gamma Factor",
+    "description": "Important Criteria: The student must correctly apply the gamma factor in the expressions for E' and B'.",
+    "weight": 4
+  },
+  {
+    "title": "Coordinate Substitution",
+    "description": "Important Criteria: The student should correctly substitute the coordinates in the transformed fields.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the Lorentz transformation.",
+    "weight": -2
+  },
+  {
+    "title": "Field Direction",
+    "description": "Optional Criteria: The student should indicate the direction of the electric and magnetic fields in their final answers.",
+    "weight": 1
+  }
+]

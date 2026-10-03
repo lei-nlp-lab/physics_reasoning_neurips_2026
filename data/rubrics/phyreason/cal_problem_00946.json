@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Effective EMF Value",
+    "description": "Essential: The student's final answer for part (1) must be 50 V.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer Turns Ratio",
+    "description": "Essential: The student's final answer for part (2) must be 5:1 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Number of Lamps",
+    "description": "Essential: The student's final answer for part (3) must be 7.",
+    "weight": 5
+  },
+  {
+    "title": "Peak EMF Calculation",
+    "description": "Important: The solution must correctly calculate the peak EMF using the formula nBSω.",
+    "weight": 4
+  },
+  {
+    "title": "RMS Conversion",
+    "description": "Important: The solution must correctly convert the peak EMF to its effective (RMS) value by dividing by √2.",
+    "weight": 4
+  },
+  {
+    "title": "Transformer Voltage Ratio",
+    "description": "Important: The solution must apply the transformer voltage ratio U1/U2 = n1/n2 correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Power Conservation",
+    "description": "Important: The solution must apply power conservation (P1 = P2) for the ideal transformer to find the maximum output power.",
+    "weight": 4
+  },
+  {
+    "title": "Fuse Current Limit",
+    "description": "Important: The solution must use the fusing current's effective value (1.5 A) to calculate the maximum input power P1m.",
+    "weight": 3
+  },
+  {
+    "title": "Lamp Power Calculation",
+    "description": "Optional: The solution may explicitly note the lamp's rated power (10 W) is used to find the number of lamps.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing Peak and RMS",
+    "description": "Pitfall: Penalize if the student uses the peak EMF (50√2 V) as the primary voltage or confuses peak and RMS values in power calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Fuse Limit",
+    "description": "Pitfall: Penalize if the student calculates the number of lamps using the bulb's normal operating current instead of the maximum current set by the fuse.",
+    "weight": -2
+  }
+]

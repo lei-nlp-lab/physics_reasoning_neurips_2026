@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Pressure at point C",
+    "description": "Essential: Correctly calculates the normal force (pressure) at point C as 6mg, with correct direction.",
+    "weight": 5
+  },
+  {
+    "title": "Condition at highest point",
+    "description": "Essential: Applies the condition for circular motion at point E to find v_E = sqrt(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy from A to B",
+    "description": "Important: Correctly applies the work-energy theorem between points A and B, including friction and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy from B to C",
+    "description": "Important: Applies the work-energy theorem between points B and C to relate velocities and geometry.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy from C to E",
+    "description": "Important: Applies the work-energy theorem between points C and E to find v_C.",
+    "weight": 3
+  },
+  {
+    "title": "Power of gravity at B",
+    "description": "Important: Correctly calculates instantaneous power as P = mg * v_B * sin(theta).",
+    "weight": 4
+  },
+  {
+    "title": "Friction work result",
+    "description": "Essential: Correctly deduces that the work done by friction from A to B is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Uses incorrect sign for gravitational potential energy change or friction work.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies circular motion condition",
+    "description": "Pitfall: Applies the condition v=0 or incorrect force balance at the top of the loop (point E).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or vector oversight",
+    "description": "Optional: Explicitly states units for final answers or clarifies vector nature of pressure.",
+    "weight": 1
+  }
+]

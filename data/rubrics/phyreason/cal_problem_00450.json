@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct normal force",
+    "description": "Essential: Student correctly calculates the normal force as N = mg cos α = 16 N.",
+    "weight": 5
+  },
+  {
+    "title": "F at t=0 correct",
+    "description": "Essential: Student provides the correct final answer for the pulling force at t=0 (19 N).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important: Student sets up the equation of motion along the incline (F - mg sin α - μN = ma) for any time t.",
+    "weight": 4
+  },
+  {
+    "title": "Interpret acceleration graph",
+    "description": "Important: Student correctly extracts initial acceleration (a₀ = 1.9 m/s²) and final acceleration (a₄ = 5.9 m/s²) from the provided graph/data.",
+    "weight": 4
+  },
+  {
+    "title": "Find velocity at t=4s",
+    "description": "Important: Student correctly calculates the block's velocity at t=4s (v₄ = 18 m/s) using kinematic integration of the a-t graph.",
+    "weight": 4
+  },
+  {
+    "title": "Force-time relationship",
+    "description": "Important: Student derives the correct linear relationship F(t) = 19 + t (N) for 0 ≤ t ≤ 4 s.",
+    "weight": 3
+  },
+  {
+    "title": "Instantaneous power correct",
+    "description": "Essential: Student provides the correct final answer for the instantaneous power at t=4s (414 W).",
+    "weight": 5
+  },
+  {
+    "title": "Power formula application",
+    "description": "Optional: Student correctly applies the formula for instantaneous power P = F · v at t=4s.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Student makes a sign error in the equation of motion (e.g., adding friction when it should subtract).",
+    "weight": -2
+  },
+  {
+    "title": "Kinematic integration error",
+    "description": "Pitfall: Student incorrectly integrates the a-t graph to find the velocity at t=4s (e.g., using wrong formula for area under a linear graph).",
+    "weight": -2
+  }
+]

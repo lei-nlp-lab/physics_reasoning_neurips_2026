@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct empirical formula",
+    "description": "Essential: The response must state or correctly apply the empirical relationship F = (3m - 1.5) N, where m is the number of parts.",
+    "weight": 5
+  },
+  {
+    "title": "Force for 32 parts",
+    "description": "Essential: The final numerical answer for part (1) must be 94.5 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient value",
+    "description": "Essential: The final numerical answer for part (2) must be 0.3 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis for m=2",
+    "description": "Important: The solution must correctly identify and use the data point for m=2 (F=4.5 N) to solve for the friction coefficient.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: The reasoning must correctly account for the normal forces on each sliding interface when the books are interleaved (e.g., for m=2, weights of G/2, G, and G+G/2).",
+    "weight": 4
+  },
+  {
+    "title": "Friction force summation",
+    "description": "Important: The solution must sum the kinetic friction forces from all sliding interfaces to equate to the applied force F.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All forces should be expressed with correct units (Newtons) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Penalize if the normal force on any interface is miscalculated (e.g., using full book weight for all interfaces).",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied empirical formula",
+    "description": "Pitfall: Penalize if the empirical formula F = (3m - 1.5) is misapplied (e.g., incorrect arithmetic for m=32).",
+    "weight": -2
+  }
+]

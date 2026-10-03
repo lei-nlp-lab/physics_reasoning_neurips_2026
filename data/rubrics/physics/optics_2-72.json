@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the aperture D must be correctly calculated as 0.32 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Lens Formula",
+    "description": "Important Criteria: The application of the lens formula to find the image distance v must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Diffraction Blur Calculation",
+    "description": "Important Criteria: The calculation of the diffraction blur using the Rayleigh criterion must be correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Defocus Blur Calculation",
+    "description": "Important Criteria: The calculation of the defocus blur must be correctly derived from the geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Equality Condition",
+    "description": "Important Criteria: The condition for setting the diffraction blur equal to the defocus blur must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units must be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the lens formula will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to include the factor of 1.22 in the diffraction blur calculation will lead to a deduction.",
+    "weight": -2
+  }
+]

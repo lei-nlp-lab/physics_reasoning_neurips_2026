@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct downward velocity",
+    "description": "Essential: The student must correctly compute the speed just before impact using energy or kinematics, obtaining 8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct upward velocity",
+    "description": "Essential: The student must correctly compute the speed just after leaving the net using energy or kinematics, obtaining 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct net force magnitude",
+    "description": "Essential: The student must correctly apply the impulse-momentum theorem to find the constant net force magnitude, obtaining 1500 N.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum setup",
+    "description": "Important: The student must set up the impulse-momentum equation correctly, accounting for direction (signs) of velocities and including both the net force and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Consistent sign convention",
+    "description": "Important: The solution must use a consistent sign convention for velocity and force directions throughout the calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Includes gravity in force",
+    "description": "Important: The student must recognize that the impulse equation involves the net force (F_net = F_net - mg) or explicitly account for gravity when solving for the force from the net.",
+    "weight": 4
+  },
+  {
+    "title": "Unit analysis or check",
+    "description": "Optional: The student performs a unit check on the final force calculation or shows dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in momentum change",
+    "description": "Pitfall: The student incorrectly handles the sign of the initial or final velocity in the impulse equation, e.g., treating both as positive without accounting for direction.",
+    "weight": -2
+  },
+  {
+    "title": "Omits gravity in force",
+    "description": "Pitfall: The student solves for the force as if it were the net force alone, forgetting to add mg to find the actual force exerted by the net.",
+    "weight": -2
+  }
+]

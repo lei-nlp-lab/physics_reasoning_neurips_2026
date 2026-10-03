@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Isochoric pressure at 0°C",
+    "description": "Essential: Correctly calculates p0 using Charles's law for the isochoric process, yielding p0 = 273p1/(t1+273).",
+    "weight": 5
+  },
+  {
+    "title": "Isobaric volume at 0°C",
+    "description": "Essential: Correctly calculates V2 using the ideal gas law, yielding V2 = 273p1V1/(p2(t1+273)).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Charles's law",
+    "description": "Important: For part (1), identifies the isochoric process and correctly applies p/T = constant, converting Celsius to Kelvin.",
+    "weight": 3
+  },
+  {
+    "title": "Apply ideal gas law",
+    "description": "Important: For part (2), relates states using pV/T = constant, correctly incorporating given pressures p1 and p2 and volume V1.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature conversion",
+    "description": "Important: Consistently uses absolute temperature (Kelvin) in all gas law calculations, adding 273 to Celsius values.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Expresses final answers with appropriate units (Pa or N/m² for pressure, m³ for volume) or notes they are implied.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied process law",
+    "description": "Pitfall: Uses Boyle's law (pV=constant) for the isochoric process or misidentifies which process uses which law.",
+    "weight": -2
+  },
+  {
+    "title": "Celsius-Kelvin error",
+    "description": "Pitfall: Fails to convert Celsius to Kelvin in gas law ratios, e.g., using t1 directly instead of (t1+273).",
+    "weight": -2
+  }
+]

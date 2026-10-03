@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct path difference",
+    "description": "Essential Criteria: The response must correctly identify the path difference as |PS₁ - PS₂| = 7 m (12 m - 5 m = 7 m from S₂, so difference is |5 m - 7 m| = 2 m).",
+    "weight": 5
+  },
+  {
+    "title": "Destructive interference condition",
+    "description": "Important Criteria: The response must apply the condition for destructive interference: path difference = (2n+1)λ/2, where n is an integer.",
+    "weight": 4
+  },
+  {
+    "title": "Wave relationship application",
+    "description": "Important Criteria: The response must correctly use the relationship v = fλ to connect wavelength, frequency, and the given speed of sound (340 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Minimum frequency derivation",
+    "description": "Essential Criteria: The response must derive and state the final minimum frequency as 85 Hz, obtained by setting n=0 in f = (2n+1)v/(2Δl).",
+    "weight": 5
+  },
+  {
+    "title": "Integer n interpretation",
+    "description": "Important Criteria: The response must recognize that n=0 gives the smallest positive frequency satisfying the destructive interference condition.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in path difference",
+    "description": "Pitfall Criteria: Penalize if the path difference is incorrectly calculated (e.g., using 5 m + 7 m = 12 m instead of |5 m - 7 m| = 2 m).",
+    "weight": -2
+  },
+  {
+    "title": "Constructive interference misuse",
+    "description": "Pitfall Criteria: Penalize if the condition for constructive interference (path difference = nλ) is mistakenly used instead of the condition for destructive interference.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The response demonstrates unit analysis, ensuring final frequency is in Hz (s⁻¹) and consistent with v (m/s) and Δl (m).",
+    "weight": 1
+  }
+]

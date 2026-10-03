@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Intensity Equation",
+    "description": "Essential Criteria: The student must provide the correct intensity distribution equation I = I_0 (sin(β)/β)^2 cos^2(γ).",
+    "weight": 5
+  },
+  {
+    "title": "Definitions of β and γ",
+    "description": "Important Criteria: The student should define β and γ correctly in terms of the slit width a, slit separation d, wavelength λ, and angle θ.",
+    "weight": 4
+  },
+  {
+    "title": "Missing Orders Explanation",
+    "description": "Important Criteria: The student must explain why certain orders of interference are missing due to the ratio d/a = 5.",
+    "weight": 3
+  },
+  {
+    "title": "Sketch of Pattern",
+    "description": "Optional Criteria: A clear sketch of the interference pattern on the screen should be included to illustrate the concept.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all variables are expressed in consistent units, avoiding any unit mistakes.",
+    "weight": -1
+  }
+]

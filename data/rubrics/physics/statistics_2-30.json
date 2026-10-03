@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Rotational Temperature",
+    "description": "Essential Criteria: The student must correctly identify T_R as 75 K.",
+    "weight": 5
+  },
+  {
+    "title": "Vibrational Temperature",
+    "description": "Essential Criteria: The student must correctly identify T_V as 6250 K.",
+    "weight": 5
+  },
+  {
+    "title": "C_v at T1",
+    "description": "Essential Criteria: The student must correctly calculate C_v as 12.5 J/K/mol for T1.",
+    "weight": 5
+  },
+  {
+    "title": "C_p at T1",
+    "description": "Essential Criteria: The student must correctly calculate C_p as 20.8 J/K/mol for T1.",
+    "weight": 5
+  },
+  {
+    "title": "C_v at T2",
+    "description": "Important Criteria: The student should calculate C_v as 20.8 J/K/mol for T2.",
+    "weight": 4
+  },
+  {
+    "title": "C_p at T2",
+    "description": "Important Criteria: The student should calculate C_p as 29.1 J/K/mol for T2.",
+    "weight": 4
+  },
+  {
+    "title": "C_v at T3",
+    "description": "Important Criteria: The student should recognize that C_v remains 20.8 J/K/mol for T3.",
+    "weight": 4
+  },
+  {
+    "title": "C_p at T3",
+    "description": "Important Criteria: The student should recognize that C_p remains 29.1 J/K/mol for T3.",
+    "weight": 4
+  },
+  {
+    "title": "C_v at T4",
+    "description": "Important Criteria: The student should calculate C_v as 29.1 J/K/mol for T4.",
+    "weight": 4
+  },
+  {
+    "title": "C_p at T4",
+    "description": "Important Criteria: The student should calculate C_p as 37.4 J/K/mol for T4.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors in calculating specific heats or temperatures.",
+    "weight": -2
+  }
+]

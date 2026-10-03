@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Total fall time",
+    "description": "Essential: Correctly calculates the total time to fall using the free-fall equation from the given height.",
+    "weight": 5
+  },
+  {
+    "title": "First-second displacement",
+    "description": "Essential: Correctly calculates the displacement during the first second of motion.",
+    "weight": 4
+  },
+  {
+    "title": "Last-second displacement",
+    "description": "Important: Correctly calculates the displacement during the final second, using the difference in positions.",
+    "weight": 3
+  },
+  {
+    "title": "Half-time displacement",
+    "description": "Important: Correctly calculates the displacement after half the total fall time.",
+    "weight": 3
+  },
+  {
+    "title": "Free-fall equation application",
+    "description": "Important: Applies the correct kinematic equation for displacement under constant acceleration from rest.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (s, m) with all numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or conceptual error",
+    "description": "Pitfall: Uses incorrect equation (e.g., v=gt for displacement) or misinterprets 'last second' or 'half the time'.",
+    "weight": -2
+  }
+]

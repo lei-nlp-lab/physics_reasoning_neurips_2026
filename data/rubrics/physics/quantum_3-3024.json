@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Probabilities",
+    "description": "Essential Criteria: The student must provide the correct expressions for P(+) and P(-).",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The student should correctly derive the Hamiltonian for the system based on the magnetic moment and magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Schrodinger Equation Setup",
+    "description": "Important Criteria: The student must set up the Schrodinger equation for the spin wave function accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Time Evolution",
+    "description": "Important Criteria: The student should demonstrate the correct time evolution of the spin states a1(t) and a2(t).",
+    "weight": 4
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student may check that the probabilities sum to 1, confirming normalization of the wave function.",
+    "weight": 2
+  },
+  {
+    "title": "Correct Units",
+    "description": "Pitfall Criteria: The student must avoid unit mistakes, particularly in the expressions for angular frequency omega.",
+    "weight": -1
+  },
+  {
+    "title": "Common Algebra Errors",
+    "description": "Pitfall Criteria: The student should be cautious of sign mistakes or algebraic errors when calculating probabilities.",
+    "weight": -2
+  }
+]

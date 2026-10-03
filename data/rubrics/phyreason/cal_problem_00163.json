@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration of AB",
+    "description": "Essential: Correctly states the final expression for the acceleration of rod AB during its uniformly accelerated motion.",
+    "weight": 5
+  },
+  {
+    "title": "Speed of CD at t1",
+    "description": "Essential: Correctly states the final expression for the speed of rod CD at the instant the external force is removed.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity of AB at t2",
+    "description": "Essential: Correctly states the final expression for the velocity of rod AB at the instant rod CD comes to rest.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance at t0",
+    "description": "Important: Applies Newton's second law to rod CD at the instant it starts moving, equating magnetic and frictional forces.",
+    "weight": 4
+  },
+  {
+    "title": "Induced Current Relation",
+    "description": "Important: Correctly uses motional EMF and Ohm's law to relate the velocities of the rods to the induced current in the loop.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse-Momentum Application",
+    "description": "Important: Applies the impulse-momentum theorem separately to both rods for the interval between t1 and t2.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for AB",
+    "description": "Optional: Correctly uses kinematic equations for uniformly accelerated motion to find velocities v0 and v1 for rod AB.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Forces",
+    "description": "Pitfall: Makes a sign error in the direction of the magnetic force or friction when applying Newton's second law or impulse-momentum.",
+    "weight": -2
+  },
+  {
+    "title": "EMF Polarity Mistake",
+    "description": "Pitfall: Incorrectly calculates the net motional EMF in the loop (e.g., wrong relative sign between contributions from the two rods).",
+    "weight": -2
+  }
+]

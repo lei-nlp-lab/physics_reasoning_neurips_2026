@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tension in OA",
+    "description": "Essential: Correctly calculates the tension in rope OA as 250 N using vertical force equilibrium at point O.",
+    "weight": 5
+  },
+  {
+    "title": "Tension in OB",
+    "description": "Essential: Correctly calculates the tension in rope OB as 150 N using horizontal force equilibrium at point O.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Magnitude",
+    "description": "Essential: Correctly states the frictional force on the person is 150 N from horizontal equilibrium.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Direction",
+    "description": "Important: Correctly identifies the direction of the frictional force as to the left (or opposite the rope pull).",
+    "weight": 3
+  },
+  {
+    "title": "Force Equilibrium at O",
+    "description": "Important: Applies Newton's first law correctly to the junction point O, resolving forces into components.",
+    "weight": 4
+  },
+  {
+    "title": "Free-Body Diagram Logic",
+    "description": "Optional: Shows or implies correct free-body diagrams for point O and/or the person.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Uses consistent units (N, kg, m/s²) and includes them in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect Angle Resolution",
+    "description": "Pitfall: Misidentifies sine and cosine for the 37° angle when resolving the tension in OA.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting Friction Direction",
+    "description": "Pitfall: Omits or incorrectly states the direction of the frictional force.",
+    "weight": -1
+  },
+  {
+    "title": "Person Equilibrium Omission",
+    "description": "Pitfall: Fails to apply horizontal force equilibrium to the person to find the friction.",
+    "weight": -2
+  }
+]

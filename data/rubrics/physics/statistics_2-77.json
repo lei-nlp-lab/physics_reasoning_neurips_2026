@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Temperature Limit",
+    "description": "Essential Criteria: The student must provide the correct upper limit for the neutrino temperature as T < 10^6 K.",
+    "weight": 5
+  },
+  {
+    "title": "Neutrino Density Relation",
+    "description": "Important Criteria: The student should correctly relate the energy densities of neutrinos and photons to derive T_{nu} <= 0.1 K.",
+    "weight": 4
+  },
+  {
+    "title": "Expected Neutrino Temperature",
+    "description": "Essential Criteria: The student must state that T_{nu} < 3 K based on the thermal equilibrium with photons.",
+    "weight": 5
+  },
+  {
+    "title": "Experimental Context",
+    "description": "Important Criteria: The student should mention the relevant laboratory experiments and their confidence limits on neutrino interactions.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all temperatures and densities are expressed with appropriate units.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect application of the Stefan-Boltzmann law or miscalculating temperature limits.",
+    "weight": -2
+  }
+]

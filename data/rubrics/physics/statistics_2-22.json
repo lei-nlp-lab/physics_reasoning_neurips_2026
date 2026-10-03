@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The average energy per particle is correctly stated as E = kT/2.",
+    "weight": 5
+  },
+  {
+    "title": "Boltzmann Distribution",
+    "description": "Important Criteria: The student correctly identifies and uses the Boltzmann distribution function in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The integration for calculating the average energy is properly set up with the correct limits and integrand.",
+    "weight": 4
+  },
+  {
+    "title": "Equipartition Principle",
+    "description": "Essential Criteria: The principle of equipartition of energy is accurately stated and related to the average energy calculation.",
+    "weight": 5
+  },
+  {
+    "title": "Degree of Freedom",
+    "description": "Important Criteria: The student correctly identifies the number of degrees of freedom in the system.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to correctly apply the limits of integration or makes a sign mistake in the calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student discusses any alternative methods to arrive at the same conclusion.",
+    "weight": 2
+  }
+]

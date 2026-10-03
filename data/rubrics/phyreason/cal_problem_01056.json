@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Truck acceleration magnitude",
+    "description": "Essential: Correctly calculates truck's deceleration magnitude using v₁² = 2ax with given stopping distance.",
+    "weight": 5
+  },
+  {
+    "title": "Truck displacement before braking",
+    "description": "Important: Computes truck's displacement during (t + Δt) using kinematics for uniform deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Car displacement before braking",
+    "description": "Important: Computes car's displacement during (t + Δt) using uniform motion at v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Separation at braking start",
+    "description": "Essential: Correctly combines initial separation and displacements to find Δx when car begins braking.",
+    "weight": 5
+  },
+  {
+    "title": "Truck speed at braking start",
+    "description": "Important: Calculates truck's speed when car starts braking using v₂ = v₁ - a(t + Δt).",
+    "weight": 3
+  },
+  {
+    "title": "Equal speed condition",
+    "description": "Important: Sets up equation v₀ - a't' = v₂ - at' for time when speeds match.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum acceleration condition",
+    "description": "Essential: Applies equal-displacement-at-equal-speed condition to solve for minimum a'.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Uses wrong sign for accelerations (deceleration as positive/negative incorrectly).",
+    "weight": -2
+  },
+  {
+    "title": "Time interval errors",
+    "description": "Pitfall: Uses incorrect total time (t or t+Δt) in displacement/speed calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent SI units throughout calculations and final answers.",
+    "weight": 1
+  }
+]

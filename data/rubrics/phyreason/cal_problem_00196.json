@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Essential final answer (1)",
+    "description": "Essential Criteria: The response must provide a numerical refractive index for part (1), approximately 1.38.",
+    "weight": 5
+  },
+  {
+    "title": "Essential final answer (2)",
+    "description": "Essential Criteria: The response must provide a numerical refractive index for part (2), approximately 1.7.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for angle θ",
+    "description": "Important Criteria: The response must correctly calculate the angle of incidence θ using the geometry of the person, hole height, and distance (L=0.6m).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for angle α",
+    "description": "Important Criteria: The response must correctly relate the hole's diameter and depth to find the maximum allowed angle α inside the medium for complete imaging.",
+    "weight": 4
+  },
+  {
+    "title": "Apply Snell's Law (1)",
+    "description": "Important Criteria: The response must apply Snell's law (n = sinθ / sinα) correctly to find the refractive index for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Critical angle condition (2)",
+    "description": "Important Criteria: For part (2), the response must identify the condition for grazing exit (incidence angle = 90°) and apply n = 1 / sinα.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The working should demonstrate consistent use of units (meters, centimeters) or correct unitless ratios.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Confusing angles",
+    "description": "Pitfall Criteria: Penalize if the student confuses the incident angle θ with the internal angle α, or misidentifies which is the grazing angle.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Trigonometry error",
+    "description": "Pitfall Criteria: Penalize significant errors in trigonometric calculations (e.g., wrong ratio for tanθ or sinα).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct current calculation",
+    "description": "Essential: Student must correctly apply Ohm's Law (I = E/R) to find the circuit current of 0.015 A.",
+    "weight": 5
+  },
+  {
+    "title": "Charge calculation",
+    "description": "Essential: Student must correctly calculate the total charge using q = I × t, yielding 0.27 C.",
+    "weight": 5
+  },
+  {
+    "title": "Electron count calculation",
+    "description": "Essential: Student must correctly compute the number of electrons using n = q/e, obtaining approximately 1.7 × 10¹⁸.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: All numerical answers must include correct units (A, C, and unitless count for electrons).",
+    "weight": 3
+  },
+  {
+    "title": "Circuit model understanding",
+    "description": "Important: Solution must correctly treat the battery as ideal (ignoring internal resistance) and the resistor as the only load.",
+    "weight": 2
+  },
+  {
+    "title": "Scientific notation",
+    "description": "Optional: Expressing the electron count in proper scientific notation (e.g., 1.7e18) demonstrates additional precision.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect internal resistance",
+    "description": "Pitfall: Penalize if student incorrectly incorporates internal resistance despite problem stating it is not considered.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if student confuses charge flow direction or uses negative charge values without justification.",
+    "weight": -1
+  }
+]

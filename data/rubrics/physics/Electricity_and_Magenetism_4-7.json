@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Pressure Equation",
+    "description": "Essential Criteria: The student must provide the correct final expression for pressure as a function of position on the plane.",
+    "weight": 5
+  },
+  {
+    "title": "Image Charge Setup",
+    "description": "Important Criteria: The student should correctly describe the image charge method and its application to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Calculations",
+    "description": "Important Criteria: The student must accurately calculate the distances r and r' from the point on the plane to the sphere's center and the image charge.",
+    "weight": 4
+  },
+  {
+    "title": "Area Element Derivation",
+    "description": "Important Criteria: The student should derive the differential area element on the image sphere correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expressions for charge densities and forces.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Optional Criteria: The student should correctly identify and utilize constants such as epsilon_0 in their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios to validate their final expression.",
+    "weight": 2
+  }
+]

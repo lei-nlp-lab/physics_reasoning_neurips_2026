@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the time t_1.",
+    "weight": 5
+  },
+  {
+    "title": "Equation of Motion",
+    "description": "Important Criteria: The student should derive the correct equation of motion for the swing's angle.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The student must correctly apply the initial conditions to find constants A and B.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Approximation",
+    "description": "Important Criteria: The student should correctly apply the approximation sin(theta) ≈ theta for small angles.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Substitution",
+    "description": "Optional Criteria: The student may show correct substitution of omega and its relation to g and l.",
+    "weight": 2
+  },
+  {
+    "title": "Final Condition",
+    "description": "Important Criteria: The student must correctly determine the condition when theta equals zero.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student may check for consistency of units throughout the solution.",
+    "weight": 1
+  }
+]

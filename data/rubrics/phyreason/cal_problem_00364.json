@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct initial flux",
+    "description": "Essential: Student calculates Φ₁ = BS cosθ = 0.6 × 0.4 × cos60° = 0.12 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final flux",
+    "description": "Essential: Student calculates Φ₂ after 120° rotation, recognizing the new angle between B and the coil's normal is 0° (Φ₂ = BS = 0.24 Wb).",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change",
+    "description": "Essential: Student correctly computes ΔΦ = |Φ₂ - Φ₁| = 0.36 Wb (or equivalent signed magnitude).",
+    "weight": 5
+  },
+  {
+    "title": "Angle interpretation",
+    "description": "Important: Student correctly interprets the given θ = 60° as the angle between the coil plane and horizontal, and relates it to the angle between B and the coil's normal (initially 30° or 150°).",
+    "weight": 3
+  },
+  {
+    "title": "Rotation analysis",
+    "description": "Important: Student analyzes the 120° clockwise rotation to determine the new orientation of the coil relative to the vertical B-field.",
+    "weight": 3
+  },
+  {
+    "title": "Flux formula application",
+    "description": "Important: Student applies Φ = B·A = BA cosα correctly, where α is the angle between B and the area vector.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: Student uses wrong sign convention for flux change (e.g., subtracts in wrong order) or misinterprets 'change' as final value only.",
+    "weight": -2
+  },
+  {
+    "title": "Angle confusion",
+    "description": "Pitfall: Student incorrectly uses θ = 60° directly in cosθ for the initial flux, or misinterprets the rotation angle.",
+    "weight": -2
+  },
+  {
+    "title": "Units and symbols",
+    "description": "Optional: Student includes proper units (Wb) and shows clear symbolic working before substitution.",
+    "weight": 1
+  }
+]

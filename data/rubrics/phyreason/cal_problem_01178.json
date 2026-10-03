@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Truck acceleration magnitude",
+    "description": "Essential: Correctly calculates the truck's deceleration magnitude using kinematic equations with given stopping distance.",
+    "weight": 5
+  },
+  {
+    "title": "Initial separation distance",
+    "description": "Essential: Correctly computes the distance between vehicles when taxi braking begins, accounting for both motions during reaction period.",
+    "weight": 5
+  },
+  {
+    "title": "Taxi braking acceleration",
+    "description": "Essential: Determines taxi's deceleration such that it just reaches the truck as both stop, using relative motion analysis.",
+    "weight": 5
+  },
+  {
+    "title": "Truck motion during reaction",
+    "description": "Important: Correctly calculates truck's displacement and velocity during taxi's reaction time before braking.",
+    "weight": 4
+  },
+  {
+    "title": "Taxi motion during reaction",
+    "description": "Important: Correctly calculates taxi's displacement during looking and reaction phases before braking.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important: Establishes correct kinematic equations for both vehicles' positions relative to time.",
+    "weight": 3
+  },
+  {
+    "title": "Time coordination",
+    "description": "Important: Properly synchronizes time events: truck malfunction start, taxi reaction end, and both vehicles stopping.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses wrong sign for deceleration in kinematic equations (should be negative for slowing down).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring reaction time",
+    "description": "Pitfall: Fails to account for the 0.5-second reaction delay between noticing danger and applying brakes.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and presents final answers with proper units.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Critical Angle Formula",
+    "description": "Essential Criteria: The expression for the critical angle theta_0 must be correctly derived as a function of omega.",
+    "weight": 5
+  },
+  {
+    "title": "Reflection Coefficient",
+    "description": "Essential Criteria: The calculation of the reflection coefficient R must be accurately presented.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Polarization",
+    "description": "Important Criteria: The response should correctly address the polarization of the X-rays and its implications for the reflection calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Derivations",
+    "description": "Important Criteria: Key steps in the derivation of equations must be shown clearly and logically.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should check for consistent use of units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the equations or final answers should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Any missing factors in the reflection coefficient formula must be identified and corrected.",
+    "weight": -2
+  }
+]

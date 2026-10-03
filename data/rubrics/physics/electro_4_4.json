@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Constraints",
+    "description": "Essential Criteria: Provide the correct final constraints K = omega/c and K . A = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Interpretation of Constraints",
+    "description": "Important Criteria: Explain the physical significance of the constraints on K and A.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Maxwell's Equations",
+    "description": "Important Criteria: Correctly apply each of Maxwell's equations to derive the constraints.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Derivations",
+    "description": "Important Criteria: Show clear and correct mathematical steps in deriving the constraints.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check and confirm that units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as sign errors or misapplication of equations.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity of Presentation",
+    "description": "Optional Criteria: Present the solution in a clear and organized manner, making it easy to follow.",
+    "weight": 1
+  }
+]

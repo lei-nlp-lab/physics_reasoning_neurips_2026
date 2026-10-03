@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct initial pressure",
+    "description": "Essential: Student correctly calculates initial pressure of gas A as 100 cmHg using p₁ = p₀ + h + ΔL.",
+    "weight": 5
+  },
+  {
+    "title": "Isothermal process analysis",
+    "description": "Important: Student applies Boyle's law to the isothermal compression of gas A to find Δh, using p₁V₁ = p₂V₂.",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure calculation",
+    "description": "Important: Student correctly determines p₂ = p₀ + h + Δh = 130 cmHg after mercury injection.",
+    "weight": 4
+  },
+  {
+    "title": "Volume change relationship",
+    "description": "Important: Student recognizes that gas A's length decreases by ΔL/2 during mercury injection, giving V₂ = 10S.",
+    "weight": 3
+  },
+  {
+    "title": "Isochoric heating analysis",
+    "description": "Important: Student applies Gay-Lussac's law to the heating at constant volume: p₂/T₂ = p₃/T₃.",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure after heating",
+    "description": "Essential: Student calculates p₃ = p₀ + h + Δh + ΔL = 136 cmHg when gas A returns to original length.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (cmHg, cm, K) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Student incorrectly adds/subtracts pressure terms, especially confusing ΔL direction.",
+    "weight": -2
+  },
+  {
+    "title": "Volume change misunderstanding",
+    "description": "Pitfall: Student assumes wrong volume change during mercury injection (e.g., using ΔL instead of ΔL/2).",
+    "weight": -1
+  }
+]

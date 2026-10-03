@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Distance Calculation",
+    "description": "Essential: Correctly calculates S₂S distance using Pythagorean theorem (5 m).",
+    "weight": 5
+  },
+  {
+    "title": "Travel Time Computation",
+    "description": "Essential: Correctly computes both travel times (t₁=0.8 s, t₂=1 s) using v=5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Time Difference Answer",
+    "description": "Essential: States final time difference Δt = t₂ - t₁ = 0.2 s for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Elapsed Vibration Time",
+    "description": "Important: Correctly computes Δt₁ = t - t₁ and Δt₂ = t - t₂ at t=6 s (5.2 s and 5 s).",
+    "weight": 4
+  },
+  {
+    "title": "Phase Determination",
+    "description": "Important: Determines that both Δt₁ and Δt₂ correspond to integer multiples of periods (6.5T₁, 25T₂), leading to zero displacement from each source.",
+    "weight": 4
+  },
+  {
+    "title": "Superposition Application",
+    "description": "Important: Applies superposition principle to sum individual displacements (0 + 0 = 0 cm) for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Final Displacement Answer",
+    "description": "Essential: States final displacement magnitude = 0 cm for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (m, s, cm) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/Phase Confusion",
+    "description": "Pitfall: Incorrectly treats phase as non-integer multiple or misinterprets 'outward' oscillation at t=0.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry Error",
+    "description": "Pitfall: Uses incorrect geometry (e.g., assumes S is collinear) leading to wrong S₂S distance.",
+    "weight": -2
+  }
+]

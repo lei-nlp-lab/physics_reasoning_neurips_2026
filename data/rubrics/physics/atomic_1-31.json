@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer of 10^{-4} eV must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student must use the correct formula for spin-orbit coupling energy splitting.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Identification",
+    "description": "Important Criteria: The student should correctly identify and define the parameters n, l, s, j1, and j2.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The student must show clear and logical steps in the calculation leading to the final answer.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of constants.",
+    "weight": -2
+  }
+]

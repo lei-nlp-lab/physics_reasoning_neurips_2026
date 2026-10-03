@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct elastic force magnitude",
+    "description": "Essential: The final answer for part (1) must be 5000√3 N or its numerical equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct relative sliding distance",
+    "description": "Essential: The final answer for part (2) must be 1.8 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for static case",
+    "description": "Important: For part (1), the solution must apply force equilibrium to the top pipe, correctly resolving the normal force from the lower pipes.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force during braking",
+    "description": "Important: For part (2), the solution must correctly calculate the kinetic friction force on the top pipe as the net force causing its deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Relative acceleration analysis",
+    "description": "Important: For part (2), the solution must compare the decelerations of the truck and the top pipe to find their relative motion.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: For part (2), the solution must correctly apply kinematics equations (v² = u² + 2as) for both the truck and the sliding pipe.",
+    "weight": 3
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Optional: The solution should correctly convert the initial speed from km/h to m/s.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the student uses the wrong sign for deceleration in kinematics equations or misinterprets the direction of relative motion.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall: Penalize if, in part (1), the student incorrectly resolves the contact forces (e.g., using the wrong angle or omitting the 1/2 factor from symmetry).",
+    "weight": -1
+  }
+]

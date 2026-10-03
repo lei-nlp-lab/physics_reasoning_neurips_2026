@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at O",
+    "description": "Essential: The final answer for part (1) is correctly given as √(2μgL).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy on incline",
+    "description": "Important: Applies the work-energy theorem from the release height to point O, accounting for gravitational and frictional work.",
+    "weight": 4
+  },
+  {
+    "title": "PQ curve equation",
+    "description": "Essential: The final equation for the curve in part (2) is correctly derived and stated (e.g., x = 2√(2μLy - y²)).",
+    "weight": 5
+  },
+  {
+    "title": "Constant kinetic energy condition",
+    "description": "Important: Sets the kinetic energy at any landing point on PQ equal to a constant value (e.g., 2μmgL) using projectile and work-energy principles.",
+    "weight": 4
+  },
+  {
+    "title": "Collision velocities",
+    "description": "Important: Correctly applies momentum and energy conservation for the elastic collision to find post-collision velocities v1 and v2.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision motion constraints",
+    "description": "Important: Applies work-energy with friction for block A's rebound and projectile conditions to ensure both blocks land on curve PQ.",
+    "weight": 4
+  },
+  {
+    "title": "Height range expression",
+    "description": "Essential: The final compound inequality for the initial height h in part (3) is correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in rebound",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction on block A after the collision (it is negative).",
+    "weight": -2
+  },
+  {
+    "title": "Projectile kinematics link",
+    "description": "Optional: Correctly eliminates time to relate horizontal velocity (v0) to landing coordinates (x, y) via x² = (2v0²/g) y.",
+    "weight": 2
+  },
+  {
+    "title": "Domain for curve PQ",
+    "description": "Optional: States or implies the valid y-domain for the curve (e.g., μL ≤ y ≤ 2μL).",
+    "weight": 1
+  }
+]

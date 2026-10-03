@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Normalized Wave Functions",
+    "description": "Essential Criteria: The student must provide the correct normalized wave functions for n = 1 to 4.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Levels",
+    "description": "Essential Criteria: The student must compute and present the correct energy levels for n = 1 to 4.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Calculation",
+    "description": "Important Criteria: The student must correctly calculate the probabilities for finding the system in states n = 2, 3, and 4 after the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Element Evaluation",
+    "description": "Important Criteria: The student should derive the matrix elements correctly for the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Sketches",
+    "description": "Optional Criteria: The student should provide accurate sketches of the wave functions and energy levels.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy calculations.",
+    "weight": -2
+  }
+]

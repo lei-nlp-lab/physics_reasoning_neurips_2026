@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Δp_x",
+    "description": "Essential: Student states Δp_x = 0 with correct reasoning (x-component of velocity unchanged).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Δp_y",
+    "description": "Essential: Student states Δp_y = 2mv cos θ, showing correct handling of sign reversal for y-velocity components.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Theorem Application",
+    "description": "Important: Student correctly applies F_y = Δp_y / Δt to find force by board on ball.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's Third Law",
+    "description": "Important: Student uses Newton's third law to find force by ball on board as negative of board-on-ball force.",
+    "weight": 4
+  },
+  {
+    "title": "Vector Direction Specification",
+    "description": "Optional: Student explicitly states directions (e.g., along x, positive/negative y) for momentum changes and forces.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Δp_y",
+    "description": "Pitfall: Student incorrectly calculates Δp_y (e.g., omits sign change, gets 0 or mv cos θ).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing Action-Reaction",
+    "description": "Pitfall: Student incorrectly identifies or omits Newton's third law, giving force on board as same as force on ball.",
+    "weight": -1
+  }
+]

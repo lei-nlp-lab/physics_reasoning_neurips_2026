@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final expression for E_gamma - B.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate understanding of energy conservation principles in the context of the reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz Invariance",
+    "description": "Important Criteria: The student must correctly apply the concept of Lorentz invariance to relate energies and momenta.",
+    "weight": 4
+  },
+  {
+    "title": "Binding Energy Definition",
+    "description": "Essential Criteria: The student should correctly define the binding energy B in relation to the masses involved.",
+    "weight": 3
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Important Criteria: The student should justify the approximation B << Mc^2 used in the derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in the final expression.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms are consistent in units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or implications of the derived expression.",
+    "weight": 2
+  }
+]

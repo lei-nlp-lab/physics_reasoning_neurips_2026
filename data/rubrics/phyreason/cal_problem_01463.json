@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Accelerations after collision",
+    "description": "Essential: Student must state both accelerations correctly: small block = 6 m/s² (right), long board = 2 m/s² (left).",
+    "weight": 5
+  },
+  {
+    "title": "First relative distance",
+    "description": "Essential: Student must compute the maximum relative displacement after first collision as 9/4 m (or 2.25 m).",
+    "weight": 5
+  },
+  {
+    "title": "Nth relative distance pattern",
+    "description": "Important: Student must derive or state the pattern for the Nth interval: d_maxN = 9/4^N m.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum board length",
+    "description": "Essential: Student must sum the geometric series to find L_min = 3(1 - 1/4^N) m, and give the infinite-N limit as 3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity reversal analysis",
+    "description": "Important: Student must correctly apply that the block rebounds with same speed and analyze velocity changes for each collision interval.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic equations setup",
+    "description": "Important: Student must set up correct kinematic equations for both objects during each sliding phase until relative velocity becomes zero.",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction confusion",
+    "description": "Pitfall: Student may assign wrong friction direction on the board after the block rebounds (should oppose relative motion).",
+    "weight": -2
+  },
+  {
+    "title": "Sign errors in velocities",
+    "description": "Pitfall: Student may mishandle signs when the block's velocity reverses after collision, leading to incorrect simultaneous equations.",
+    "weight": -2
+  },
+  {
+    "title": "Series sum misapplication",
+    "description": "Pitfall: Student may incorrectly sum the geometric series for total length or misuse the given formula.",
+    "weight": -1
+  }
+]

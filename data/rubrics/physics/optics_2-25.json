@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state the conditions under which interference effects are observed or not observed.",
+    "weight": 5
+  },
+  {
+    "title": "Coherence Explanation",
+    "description": "Important Criteria: The response should explain the significance of coherence in observing interference effects.",
+    "weight": 4
+  },
+  {
+    "title": "Response Time",
+    "description": "Important Criteria: The response must mention the importance of the response time of human sense organs in sensing interference.",
+    "weight": 3
+  },
+  {
+    "title": "Power Comparison",
+    "description": "Important Criteria: The response should discuss the need for comparable power levels of the generators for interference to be sensed.",
+    "weight": 3
+  },
+  {
+    "title": "Common Emitters",
+    "description": "Optional Criteria: The response may include examples of common light and sound emitters that typically do not produce observable interference.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid stating that interference effects are always observable without the conditions being met.",
+    "weight": -2
+  }
+]

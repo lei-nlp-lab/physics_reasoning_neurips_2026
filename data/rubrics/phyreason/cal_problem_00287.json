@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force at B",
+    "description": "Essential: Correctly calculates the normal force at point B as 30 N using energy conservation and centripetal force.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for v_B",
+    "description": "Important: Applies conservation of mechanical energy to find the block's speed at B as 3 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy with variable friction",
+    "description": "Important: Correctly computes the work done by the linearly varying friction force to find the exit speed in part (2) as 1 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Sets up the relative displacement equation between block and flatcar equaling the car length for part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion time",
+    "description": "Important: Correctly calculates the time of fall from height h using t = sqrt(2h/g).",
+    "weight": 3
+  },
+  {
+    "title": "Final landing distance",
+    "description": "Essential: Determines the horizontal landing distance relative to the flatcar's end as 0.2 m in part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in relative velocity",
+    "description": "Pitfall: Uses wrong sign for relative velocity in the projectile distance calculation (should be v_block - v_car).",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting Newton's third law",
+    "description": "Pitfall: Fails to state that the normal force on the track equals the normal force on the block (action-reaction).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis for key equations (e.g., energy, force) to verify dimensional consistency.",
+    "weight": 1
+  }
+]

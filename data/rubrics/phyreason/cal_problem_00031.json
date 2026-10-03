@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Initial velocity magnitude",
+    "description": "Essential: Correctly states the magnitude of particle 1's velocity before the first collision as qBa/m.",
+    "weight": 5
+  },
+  {
+    "title": "Mass of particle 2",
+    "description": "Essential: Correctly states the mass of particle 2 as m/2.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocity magnitude",
+    "description": "Essential: Correctly states the magnitude of particle 2's velocity after the first collision as 3qBa/m.",
+    "weight": 5
+  },
+  {
+    "title": "Final position coordinates",
+    "description": "Essential: Correctly identifies the coordinates of particle 1 as (-6a, 0) and particle 2 as (0, 0) at the specified time.",
+    "weight": 5
+  },
+  {
+    "title": "Total path length",
+    "description": "Essential: Correctly calculates the total path length traversed by particle 2 as 67πa.",
+    "weight": 5
+  },
+  {
+    "title": "Period-mass relationship",
+    "description": "Important: Applies the relationship between cyclotron period and mass (T ∝ m) to deduce the mass of particle 2 from the given frequency ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Collision analysis",
+    "description": "Important: Applies conservation of momentum and kinetic energy correctly to the first elastic collision to find unknown velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: Correctly determines trajectory radii from Lorentz force and uses geometry to find collision times and positions.",
+    "weight": 4
+  },
+  {
+    "title": "Path length summation",
+    "description": "Optional: Demonstrates correct summation of partial arc lengths over multiple collision intervals to find the total path.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns signs to velocities in momentum conservation or misinterprets post-collision direction reversal.",
+    "weight": -2
+  },
+  {
+    "title": "Radius or period formula misuse",
+    "description": "Pitfall: Misapplies the formulas r = mv/(qB) or T = 2πm/(qB), leading to incorrect radii, times, or masses.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity of A",
+    "description": "Essential: The final answer for v_A must be √(5gR).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity of B",
+    "description": "Essential: The final answer for v_B must be 2√(5gR).",
+    "weight": 5
+  },
+  {
+    "title": "Spring Energy",
+    "description": "Essential: The final expression for E_p must be 2.5 m_A g R + 10 m_B g R.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation for A",
+    "description": "Important: Must apply energy conservation between the spring release and the top of the semicircle, correctly relating v_A to the speed at the top (√(gR)).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation for B",
+    "description": "Important: Must apply energy conservation for ball B's ascent on the incline, equating initial kinetic energy to potential energy gain m_B g (10R).",
+    "weight": 4
+  },
+  {
+    "title": "Spring Energy Summation",
+    "description": "Important: Must correctly sum the kinetic energies of both balls at release to find the total initial elastic potential energy.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal Condition",
+    "description": "Important: Must state or use the condition that at the top of the loop, the normal force is zero, leading to m_A g = m_A v_top² / R.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or Unit Error",
+    "description": "Pitfall: Incorrect sign in energy equations or missing/incorrect units (e.g., omitting 'g' or 'R') in final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied Energy Path",
+    "description": "Pitfall: Using the wrong height (e.g., 2R instead of 10R for B, or incorrect potential energy change for A on the semicircle).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The answer must be in the form Δt = √[2(h+b)/g] − √[2h/g] or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall to point C",
+    "description": "Important: Applies the kinematic equation h = (1/2)gt₁² to find the time for end B to reach the top of the cylinder.",
+    "weight": 4
+  },
+  {
+    "title": "Free-fall to point D",
+    "description": "Important: Applies the kinematic equation h+b = (1/2)gt₂² to find the time for end B to reach the bottom of the cylinder.",
+    "weight": 4
+  },
+  {
+    "title": "Time difference interpretation",
+    "description": "Important: Correctly identifies that the time to pass through the tube is the difference t₂ − t₁.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expression has correct dimensions of time (e.g., √(length/acceleration)).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or conceptual error",
+    "description": "Pitfall: Penalize if the answer incorrectly uses the length of the rod (a) instead of the cylinder length (b) in the displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic mistake",
+    "description": "Pitfall: Penalize if the expression for Δt is incorrectly derived, e.g., by subtracting under a single square root.",
+    "weight": -1
+  }
+]

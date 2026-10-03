@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Tension in rope OP",
+    "description": "Essential: Correctly calculates the tension in rope OP as 5000 N, using vertical force equilibrium (F_OP * cos 5° = mg).",
+    "weight": 5
+  },
+  {
+    "title": "Tension in rope OQ",
+    "description": "Essential: Correctly calculates the tension in rope OQ as 450 N, using horizontal force equilibrium (F_OP * sin 5° = F_OQ).",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal force on worker",
+    "description": "Important: Identifies that the horizontal pulling force on the worker equals the tension in rope OQ (450 N).",
+    "weight": 3
+  },
+  {
+    "title": "Friction force equilibrium",
+    "description": "Important: Applies static equilibrium to the worker, stating the friction force equals the horizontal pulling force.",
+    "weight": 3
+  },
+  {
+    "title": "Minimum friction coefficient",
+    "description": "Essential: Correctly calculates the minimum coefficient of kinetic friction as 0.75, using f = μ * (worker's weight).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent use of SI units (kg, N, m/s²) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Angle or component error",
+    "description": "Pitfall: Misplaces sine and cosine for the 5° angle, or incorrectly resolves force components.",
+    "weight": -2
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall: Uses the component's mass (500 kg) instead of the worker's mass (60 kg) when calculating the friction coefficient.",
+    "weight": -2
+  }
+]

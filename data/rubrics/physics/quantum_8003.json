@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Definitions",
+    "description": "Essential Criteria: Each pair must have an accurate and concise definition of their contributions to physics.",
+    "weight": 5
+  },
+  {
+    "title": "Key Concepts",
+    "description": "Important Criteria: Responses should include key concepts or principles related to the contributions of each pair.",
+    "weight": 4
+  },
+  {
+    "title": "Equation Inclusion",
+    "description": "Optional Criteria: If applicable, include relevant equations associated with the contributions.",
+    "weight": 2
+  },
+  {
+    "title": "Clarity of Expression",
+    "description": "Important Criteria: The response should be clearly articulated and easy to understand.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as misattributing contributions or omitting key details.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total number of electrons",
+    "description": "Essential: The response must correctly state N = nLS (or nSL).",
+    "weight": 5
+  },
+  {
+    "title": "Current magnitude expression",
+    "description": "Essential: The response must correctly state I = neSv (or n e S v).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force derivation",
+    "description": "Important: The response must derive the single-electron force by relating Ampere force (F = BIL) to the total number of electrons.",
+    "weight": 4
+  },
+  {
+    "title": "Final Lorentz force expression",
+    "description": "Essential: The response must correctly state the final result f = Bev (or B e v).",
+    "weight": 5
+  },
+  {
+    "title": "Correct use of definitions",
+    "description": "Important: The reasoning should correctly use the definitions of current (I = q/t) and charge (q = nSvte) in part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response may show awareness of unit analysis for the derived quantities.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing total vs. moving electrons",
+    "description": "Pitfall: Penalise if the student confuses the total number of electrons (N) with the number passing a cross-section in part (1) or the derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or vector error",
+    "description": "Pitfall: Penalise if the student incorrectly introduces a negative sign for electron charge in the final scalar magnitude expressions.",
+    "weight": -1
+  }
+]

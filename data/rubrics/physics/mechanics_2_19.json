@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lagrange's Equation",
+    "description": "Essential Criteria: Correctly derive Lagrange's equation from the given Lagrangian.",
+    "weight": 5
+  },
+  {
+    "title": "Constants of Motion",
+    "description": "Essential Criteria: Identify that there are no constants of motion in the original system.",
+    "weight": 5
+  },
+  {
+    "title": "Motion Description",
+    "description": "Important Criteria: Accurately describe the nature of the motion based on the derived equations.",
+    "weight": 4
+  },
+  {
+    "title": "Transformed Lagrangian",
+    "description": "Essential Criteria: Correctly express the Lagrangian in terms of the new generalized coordinate S.",
+    "weight": 5
+  },
+  {
+    "title": "New Lagrange's Equation",
+    "description": "Important Criteria: Derive the new Lagrange's equation for the transformed coordinate S.",
+    "weight": 4
+  },
+  {
+    "title": "New Constants of Motion",
+    "description": "Important Criteria: Identify the presence of a constant of motion in the transformed system.",
+    "weight": 4
+  },
+  {
+    "title": "Relationship Between Solutions",
+    "description": "Important Criteria: Describe the relationship between the solutions of the original and transformed systems.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for errors in sign or missing factors when deriving equations.",
+    "weight": -2
+  }
+]

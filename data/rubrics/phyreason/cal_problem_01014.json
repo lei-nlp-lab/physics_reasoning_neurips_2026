@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final height difference",
+    "description": "Essential Criteria: The response must provide the correct numerical value for the height difference h, which is 40 cm (or 0.4 m).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Boyle's Law",
+    "description": "Important Criteria: The solution must correctly apply Boyle's law (pV = constant) to both the left and right gas chambers separately under isothermal conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Relate initial volumes",
+    "description": "Important Criteria: The solution must correctly use the given initial condition that the left chamber volume is half the right chamber volume (V01 = V02/2).",
+    "weight": 3
+  },
+  {
+    "title": "Use final volume condition",
+    "description": "Important Criteria: The solution must correctly use the condition that the final volumes are equal and relate the sum of initial volumes to the final equal volumes.",
+    "weight": 3
+  },
+  {
+    "title": "Pressure difference from fluid",
+    "description": "Important Criteria: The solution must correctly relate the final pressure difference between the chambers to the liquid height difference using p2 - p1 = ρgh.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic solution setup",
+    "description": "Optional Criteria: The solution should clearly set up and solve the system of equations derived from the physical laws and conditions.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent use of SI units (Pa, m³, kg/m³, m/s²) leading to an answer in meters or centimeters.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall Criteria: Penalize if the pressure difference is incorrectly written as p1 - p2 = ρgh, reversing the relationship between the higher pressure side and the liquid column.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect volume relation",
+    "description": "Pitfall Criteria: Penalize if the relationship between initial volumes (V01 = V02/2) or the final equal volume condition is misapplied.",
+    "weight": -1
+  }
+]

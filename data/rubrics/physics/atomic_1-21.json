@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for the Doppler width as 10^9 Hz.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Equipartition",
+    "description": "Important Criteria: The student correctly applies the principle of equipartition of energy to relate temperature and velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation of Beta",
+    "description": "Important Criteria: The student accurately calculates the value of beta using the provided equations.",
+    "weight": 4
+  },
+  {
+    "title": "Doppler Width Relation",
+    "description": "Important Criteria: The student correctly uses the relationship between Doppler width and beta to find the final answer.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to account for the correct value of mc^2 or makes a sign mistake in calculations.",
+    "weight": -2
+  }
+]

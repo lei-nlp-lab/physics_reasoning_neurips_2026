@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly state that the mean free path is inversely proportional to temperature, lambda_ee ∝ 1/T.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Free Path Explanation",
+    "description": "Important Criteria: The student should explain that the mean free path is long due to the effective number density of electrons near the Fermi surface being low.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Dependence",
+    "description": "Important Criteria: The student must provide a qualitative argument that as temperature increases, more electrons are excited, leading to more collisions.",
+    "weight": 4
+  },
+  {
+    "title": "Effective Density Relation",
+    "description": "Optional Criteria: The student may mention the relationship n_eff = nkT/epsilon_F to support their explanation.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid incorrectly stating that the mean free path increases with temperature, which is a common misconception.",
+    "weight": -2
+  }
+]

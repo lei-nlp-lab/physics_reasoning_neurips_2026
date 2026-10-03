@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Threshold Energy",
+    "description": "Essential Criteria: The minimum energy E_0 must be correctly calculated as 12 M_p c^2.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Essential Criteria: The velocity v/c of the psi' particle must be correctly determined as 12/13.",
+    "weight": 5
+  },
+  {
+    "title": "Invariant Mass Equation",
+    "description": "Important Criteria: The use of the invariant mass equation must be correctly applied in the calculation of E_0.",
+    "weight": 4
+  },
+  {
+    "title": "Center of Mass Frame",
+    "description": "Important Criteria: The concept of the center of mass frame must be correctly understood and applied in part (b).",
+    "weight": 3
+  },
+  {
+    "title": "Energy-Momentum Conservation",
+    "description": "Important Criteria: The conservation of energy and momentum must be properly referenced in the context of the reaction.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units used in calculations should be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: The final answers should be clearly stated in the required format.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in energy calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors in the energy-momentum equations can lead to incorrect results.",
+    "weight": -2
+  }
+]

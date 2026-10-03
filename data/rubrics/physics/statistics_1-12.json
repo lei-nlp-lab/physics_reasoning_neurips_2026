@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Work at Constant Temp",
+    "description": "Essential Criteria: The work done during the isothermal expansion must be correctly calculated as W = RT_0 ln 2.",
+    "weight": 5
+  },
+  {
+    "title": "Heat at Constant Temp",
+    "description": "Essential Criteria: The heat absorbed during the isothermal process must equal the work done, Q = RT_0 ln 2.",
+    "weight": 5
+  },
+  {
+    "title": "Work at Constant Pressure",
+    "description": "Essential Criteria: The work done during the isobaric expansion must be correctly calculated as W = RT_0.",
+    "weight": 5
+  },
+  {
+    "title": "Heat at Constant Pressure",
+    "description": "Essential Criteria: The heat absorbed during the isobaric process must be calculated as Q = (5/2)RT_0.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Important Criteria: The change in internal energy must be correctly derived as ΔU = (3/2)RT_0.",
+    "weight": 4
+  },
+  {
+    "title": "Logarithm Mistake",
+    "description": "Pitfall Criteria: Watch for errors in calculating the logarithmic term in the isothermal work.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

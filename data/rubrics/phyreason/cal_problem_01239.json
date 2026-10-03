@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Force magnitude expression",
+    "description": "Essential: The final answer for part (1) is correctly stated as F = mg sinθ + (mv²)/(2x).",
+    "weight": 5
+  },
+  {
+    "title": "Distance expression",
+    "description": "Essential: The final answer for part (2) is correctly stated as x' = v²/(2g sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Net force equation",
+    "description": "Important: Applies Newton's second law correctly for the powered phase: F_net = F - mg sinθ = ma.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration from kinematics",
+    "description": "Important: Uses the correct kinematic equation (v² = u² + 2as) to find the initial acceleration a = v²/(2x).",
+    "weight": 4
+  },
+  {
+    "title": "Post-force acceleration",
+    "description": "Important: Identifies that after force removal, the acceleration down the incline is a' = g sinθ.",
+    "weight": 3
+  },
+  {
+    "title": "Post-force kinematics",
+    "description": "Important: Applies the kinematic equation (v_f² = v_i² + 2a's) correctly for the deceleration phase to solve for x'.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Uses an incorrect sign for acceleration in the kinematic equations for the deceleration phase (e.g., using +2a'x' instead of -2a'x').",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting gravity component",
+    "description": "Pitfall: Omits the mg sinθ component in the net force equation for the powered phase, using F = ma alone.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies that the derived expressions for F and x' have the correct physical dimensions (Force and Length).",
+    "weight": 1
+  }
+]

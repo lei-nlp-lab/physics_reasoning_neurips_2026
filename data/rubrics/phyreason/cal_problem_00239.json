@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct output power",
+    "description": "Essential: The final expression for the transformer's output power P must be correctly derived as U_m^2/(50R).",
+    "weight": 5
+  },
+  {
+    "title": "Correct heating time",
+    "description": "Essential: The final expression for the required time t must be correctly derived as 50 C T_0 R / U_m^2.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer voltage scaling",
+    "description": "Important: The solution must correctly apply the turns ratio to relate primary and secondary voltages, using RMS values.",
+    "weight": 4
+  },
+  {
+    "title": "Gas process analysis",
+    "description": "Important: The solution must identify the heating as an isochoric process and correctly relate the doubled pressure to a doubled temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Energy balance setup",
+    "description": "Important: The solution must equate the electrical energy delivered (P*t) to the heat absorbed by the gas (CΔT).",
+    "weight": 3
+  },
+  {
+    "title": "RMS voltage conversion",
+    "description": "Optional: The solution correctly converts the given peak supply voltage U_m to its RMS value.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers for power and time have correct and consistent units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect process assumption",
+    "description": "Pitfall: Penalize if the solution incorrectly assumes an isobaric or other process, leading to a wrong ΔT.",
+    "weight": -2
+  },
+  {
+    "title": "Peak vs. RMS error",
+    "description": "Pitfall: Penalize if power is calculated using the peak voltage U_m directly without converting to RMS.",
+    "weight": -1
+  }
+]

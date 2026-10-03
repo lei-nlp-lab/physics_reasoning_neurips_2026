@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Distance",
+    "description": "Essential Criteria: The student must correctly calculate the distance from the camera (u) as 297 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Final Resolution",
+    "description": "Essential Criteria: The student must correctly calculate the best resolution obtainable on the film (Delta x) as 3.1 x 10^-3 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Lens Formula",
+    "description": "Important Criteria: The student should apply the lens formula 1/u + 1/v = 1/f correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Magnification Calculation",
+    "description": "Important Criteria: The student should correctly derive the magnification (m) from the height of the object and image.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Resolution Formula",
+    "description": "Important Criteria: The student should use the angular resolving power formula Delta theta = 1.22 lambda / D appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the lens formula calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any factors when calculating Delta x from Delta theta.",
+    "weight": -2
+  }
+]

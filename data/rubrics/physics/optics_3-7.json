@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Frequency Relation",
+    "description": "Essential Criteria: The relation of f'/f to theta must be correctly derived as tan(theta) = f'/f.",
+    "weight": 5
+  },
+  {
+    "title": "Total Energy Expression",
+    "description": "Essential Criteria: The total energy of the electron must be expressed correctly in terms of f, f', and m.",
+    "weight": 5
+  },
+  {
+    "title": "Speed Calculation",
+    "description": "Important Criteria: The speed of the scattered electron must be calculated correctly as v = 0.53 c.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Expression for Observer",
+    "description": "Important Criteria: The expression for the observer's measure of the electron's energy must be correctly formulated in terms of m, v, u, and c.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Application",
+    "description": "Important Criteria: The application of energy conservation principles must be correctly utilized in part (c).",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the energy conservation equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the magnetic susceptibility of the He atom.",
+    "weight": 5
+  },
+  {
+    "title": "Paramagnetic or Diamagnetic",
+    "description": "Essential Criteria: The student must correctly identify the He atom as diamagnetic based on the sign of the susceptibility.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Hamiltonian",
+    "description": "Important Criteria: The student should correctly apply the Hamiltonian for the system, including the vector potential and external magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Differentiation Step",
+    "description": "Important Criteria: The student must show the correct differentiation of energy with respect to the magnetic field to find susceptibility.",
+    "weight": 4
+  },
+  {
+    "title": "Mean-Square Distance",
+    "description": "Optional Criteria: The student may include the calculation or estimation of the mean-square distance of electrons in the ground state.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the susceptibility calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must ensure that all necessary factors, such as constants like e and c, are included in the final answer.",
+    "weight": -1
+  }
+]

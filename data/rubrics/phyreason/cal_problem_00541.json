@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer(s)",
+    "description": "Essential: The response must give at least one of the two possible numerical answers (7/30 s or 0.9 s) for the time to reach point M for the third time.",
+    "weight": 5
+  },
+  {
+    "title": "Period determination",
+    "description": "Important: The solution must correctly derive the period of the SHM from the given time intervals, considering the two possible initial directions of motion.",
+    "weight": 4
+  },
+  {
+    "title": "Interpretation of time intervals",
+    "description": "Important: The reasoning must correctly relate the 0.2 s (first time to M) and the additional 0.1 s (to reach M a second time) to fractions of the oscillation period.",
+    "weight": 4
+  },
+  {
+    "title": "Third time calculation",
+    "description": "Important: The method for calculating the time to the third visit to point M must be clearly shown, typically by subtracting the time to the second visit from the full period.",
+    "weight": 3
+  },
+  {
+    "title": "Direction assumption stated",
+    "description": "Optional: The solution explicitly states the assumed initial direction of motion (left or right from equilibrium) and acknowledges the two possible scenarios.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All time values are presented with correct units (seconds) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect fraction of period",
+    "description": "Pitfall: Penalize if the student misinterprets the time intervals (e.g., assumes 0.2 s is a quarter period) without proper kinematic reasoning for SHM.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall: Penalize for basic arithmetic mistakes in calculating the period or the final time, especially in handling fractions.",
+    "weight": -1
+  }
+]

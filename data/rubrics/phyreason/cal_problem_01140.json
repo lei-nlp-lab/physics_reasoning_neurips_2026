@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field expression",
+    "description": "Essential: Correctly derives and states the final expression for B = (1/L)√(mgR/(2v₀)).",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U_cd",
+    "description": "Essential: Correctly derives and states the final expression for U = (3/4)E₀ = (3√(2mgRv₀))/8.",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat Q",
+    "description": "Essential: Correctly derives and states the final expression for Q = mg(d+L)/2 - (3/2)mv₀².",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at entry",
+    "description": "Important: Applies equilibrium condition (mg sinα = BIL) when cd enters and the frame moves at constant velocity v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Sets up energy balance: mg(d+L)sinα = ΔKE + Q, correctly identifying the change in height and kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at PQ",
+    "description": "Important: Uses Newton's second law at PQ (BI₁L - mg sinα = m(g/2)) to find v₁ = 2v₀.",
+    "weight": 4
+  },
+  {
+    "title": "EMF and Ohm's law",
+    "description": "Optional: Correctly applies Faraday's law (E = BLv) and Ohm's law (I = E/R) for both entry and PQ positions.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Uses incorrect sign in force equation at PQ (e.g., adding gravity and magnetic force).",
+    "weight": -2
+  },
+  {
+    "title": "Potential difference confusion",
+    "description": "Pitfall: Treats U_cd as the full induced EMF E₀ instead of the voltage across that side (3E₀/4).",
+    "weight": -1
+  },
+  {
+    "title": "Height change mistake",
+    "description": "Pitfall: Uses incorrect height change (e.g., d instead of d+L) in energy conservation.",
+    "weight": -1
+  }
+]

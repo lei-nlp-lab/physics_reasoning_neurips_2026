@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Solution",
+    "description": "Essential Criteria: The final expression for x_{(1)} must be correctly stated with appropriate terms included.",
+    "weight": 5
+  },
+  {
+    "title": "Zero-order Solution",
+    "description": "Important Criteria: The zero-order solution x_{(0)} must be correctly derived and expressed.",
+    "weight": 4
+  },
+  {
+    "title": "First-order Form",
+    "description": "Important Criteria: The form of the first-order solution x_{(1)} must correctly incorporate the perturbation parameter lambda.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Condition Application",
+    "description": "Important Criteria: The application of the initial condition x = 0 at t = 0 must be correctly handled to find constants.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing or incorrect signs in the equations of motion or while applying the initial conditions will lead to significant errors.",
+    "weight": -2
+  }
+]

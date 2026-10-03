@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maximum EMF formula",
+    "description": "Essential: Student must correctly state or apply the formula for maximum induced EMF in a rotating coil: E_m = NBSω.",
+    "weight": 5
+  },
+  {
+    "title": "Correct numerical substitution",
+    "description": "Essential: Student must correctly substitute all given values (N=100, B=0.10 T, S=0.10 m², ω=100π rad/s) into the formula.",
+    "weight": 5
+  },
+  {
+    "title": "Final answer with units",
+    "description": "Essential: Student must provide the final numerical answer of approximately 314 V (or 100π V) with correct voltage units.",
+    "weight": 5
+  },
+  {
+    "title": "Physics reasoning",
+    "description": "Important: Student should recognize that maximum EMF occurs when the coil's plane is parallel to the magnetic field, making the rate of flux change maximal.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student may verify unit consistency (T·m²·rad/s = V) to confirm the dimensional correctness of their calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using E = -N dΦ/dt without evaluating the maximum, or confusing it with motional EMF formula for linear motion.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation or unit error",
+    "description": "Pitfall: Making arithmetic mistakes in multiplication, mishandling π, or omitting/incorrectly using units in the final answer.",
+    "weight": -1
+  }
+]

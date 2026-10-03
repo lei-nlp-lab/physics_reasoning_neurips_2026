@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Instantaneous power expression",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as P = F²t₁/m.",
+    "weight": 5
+  },
+  {
+    "title": "Average power expression",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as P_avg = F²t₁/(2m).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important: The solution must correctly use F=ma to find the constant acceleration a = F/m.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for velocity",
+    "description": "Important: The solution must correctly find the velocity at time t₁ using v₁ = a t₁ = (F/m)t₁.",
+    "weight": 3
+  },
+  {
+    "title": "Define instantaneous power",
+    "description": "Important: The solution must correctly define instantaneous power as P = F * v (dot product, scalar for 1D).",
+    "weight": 3
+  },
+  {
+    "title": "Define average power",
+    "description": "Important: The solution must correctly define average power as total work divided by time, or use P_avg = F * v_avg for constant force.",
+    "weight": 3
+  },
+  {
+    "title": "Average velocity for constant acceleration",
+    "description": "Optional: The solution may explicitly state or use the relation v_avg = (v_initial + v_final)/2 = v₁/2.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect power formula",
+    "description": "Pitfall: Using P = F * a or P = m a v instead of P = F * v for instantaneous power.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Omitting units (Watts) or making a sign error in the vector dot product for power.",
+    "weight": -1
+  }
+]

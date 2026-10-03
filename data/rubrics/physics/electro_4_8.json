@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maxwell's Equations",
+    "description": "Essential Criteria: The student must correctly state Maxwell's equations in the absence of dielectrics or magnetic materials.",
+    "weight": 5
+  },
+  {
+    "title": "Unit System",
+    "description": "Essential Criteria: The student must specify the MKSA system of units used in the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Charge Reversal Effects",
+    "description": "Important Criteria: The student must explain how reversing the signs of source charges affects the electric and magnetic fields.",
+    "weight": 4
+  },
+  {
+    "title": "Space Inversion Effects",
+    "description": "Important Criteria: The student must describe the changes to charge density, current density, electric field, and magnetic field under space inversion.",
+    "weight": 4
+  },
+  {
+    "title": "Time Reversal Effects",
+    "description": "Important Criteria: The student must articulate the effects on charge density, current density, electric field, and magnetic field under time reversal.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when discussing the effects of charge reversal and transformations.",
+    "weight": -2
+  },
+  {
+    "title": "Field Direction",
+    "description": "Optional Criteria: The student may provide additional insights on the direction of electric and magnetic fields after transformations.",
+    "weight": 2
+  },
+  {
+    "title": "Consistency Check",
+    "description": "Optional Criteria: The student may verify that Maxwell's equations remain consistent under the transformations discussed.",
+    "weight": 2
+  }
+]

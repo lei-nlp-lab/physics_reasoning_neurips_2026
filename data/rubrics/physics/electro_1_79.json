@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Charge Calculation",
+    "description": "Essential Criteria: The student correctly calculates the magnitude of the charge q using the given electric field and height.",
+    "weight": 5
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Essential Criteria: The student accurately determines the external electrical force F acting on the cloud.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Electric Field",
+    "description": "Important Criteria: The student appropriately applies the concept of electric field due to point charges in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Direction of Force",
+    "description": "Important Criteria: The student correctly identifies the direction of the external force acting on the cloud.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The student includes correct units for charge and force in their final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student makes a sign mistake in calculating the force, leading to an incorrect conclusion about attraction or repulsion.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student fails to include necessary factors in the force calculation, resulting in an incorrect answer.",
+    "weight": -1
+  }
+]

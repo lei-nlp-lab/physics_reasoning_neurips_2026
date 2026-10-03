@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Cross Section",
+    "description": "Essential Criteria: The student must correctly derive the final expression for the scattering cross section sigma.",
+    "weight": 5
+  },
+  {
+    "title": "Dependence of Alpha",
+    "description": "Essential Criteria: The student must accurately describe how alpha depends on the nuclear charge Z.",
+    "weight": 5
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student should show the correct integration steps for calculating the scattering amplitude f.",
+    "weight": 4
+  },
+  {
+    "title": "Spherical Symmetry",
+    "description": "Important Criteria: The student must recognize and apply the spherical symmetry of the potential V(r) in the integration.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum Transfer",
+    "description": "Important Criteria: The student should correctly express the momentum transfer q in terms of k and k0.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the scattering amplitude or incorrect limits of integration.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may mention any alternative methods or approximations that could be used to solve the problem.",
+    "weight": 1
+  }
+]

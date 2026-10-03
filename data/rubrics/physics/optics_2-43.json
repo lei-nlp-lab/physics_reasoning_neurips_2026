@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Intensity Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for the intensity I(theta) in terms of a, b, c, and theta.",
+    "weight": 5
+  },
+  {
+    "title": "Special Case (a=b)",
+    "description": "Important Criteria: The student must correctly simplify the intensity expression for the case when a equals b.",
+    "weight": 4
+  },
+  {
+    "title": "Special Case (a=0)",
+    "description": "Important Criteria: The student must correctly derive the intensity expression for the case when a equals 0.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Essential Criteria: The student must correctly define and use the variables u and v in the derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Clear Sketches",
+    "description": "Optional Criteria: The student should provide clear sketches of the diffraction patterns for the special cases.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the cosine term of the intensity expression.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

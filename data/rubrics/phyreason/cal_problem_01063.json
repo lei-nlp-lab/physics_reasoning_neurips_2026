@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Shortest distance answer",
+    "description": "Essential: The final numerical answer for the shortest distance is approximately 18.6 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude answer",
+    "description": "Essential: The final numerical answer for the displacement magnitude is approximately 14.1 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Unrolls cylinder correctly",
+    "description": "Important: The solution correctly models the shortest path by unrolling the cylinder's lateral surface into a rectangle.",
+    "weight": 4
+  },
+  {
+    "title": "Applies Pythagorean theorem",
+    "description": "Important: The solution correctly applies the Pythagorean theorem to find the straight-line path on the rectangle and the spatial displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies correct dimensions",
+    "description": "Important: The solution correctly identifies the rectangle's height as the cylinder's height (10 cm) and its width as the base circumference (10π cm).",
+    "weight": 3
+  },
+  {
+    "title": "Correct displacement endpoints",
+    "description": "Important: The solution correctly identifies the start and end points in 3D space for calculating the displacement vector.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution maintains consistent units (cm) throughout the calculation and in the final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses path with displacement",
+    "description": "Pitfall: The student incorrectly uses the same method or gives the same numerical answer for both the shortest distance and the displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifies rectangle width",
+    "description": "Pitfall: The student incorrectly uses the diameter (10 cm) instead of the circumference (10π cm) as the width of the unrolled rectangle.",
+    "weight": -2
+  }
+]

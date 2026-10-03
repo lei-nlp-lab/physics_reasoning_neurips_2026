@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Fermi Partition Function",
+    "description": "Essential Criteria: The correct partition function for Fermi statistics must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Fermi Mean Energy",
+    "description": "Essential Criteria: The correct mean energy for Fermi statistics must be calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Bose Partition Function",
+    "description": "Essential Criteria: The correct partition function for Bose statistics must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Bose Mean Energy",
+    "description": "Essential Criteria: The correct mean energy for Bose statistics must be calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Boltzmann Partition Function",
+    "description": "Essential Criteria: The correct partition function for Boltzmann statistics must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Boltzmann Mean Energy",
+    "description": "Essential Criteria: The correct mean energy for Boltzmann statistics must be calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Configuration Enumeration",
+    "description": "Important Criteria: All possible configurations for each statistics type must be enumerated correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Boltzmann Conditions",
+    "description": "Important Criteria: The conditions under which fermions or bosons can be treated as Boltzmann particles must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in energy calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the calculations.",
+    "weight": -1
+  }
+]

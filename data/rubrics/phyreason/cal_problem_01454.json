@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: The answer must state the acceleration as 2 m/s², derived from a = μg.",
+    "weight": 5
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Essential: The answer for part (2) must give the correct total time of 2.5 s.",
+    "weight": 5
+  },
+  {
+    "title": "Shortest time and speed",
+    "description": "Essential: The answer for part (3) must give the shortest time as 2 s and the corresponding minimum speed as 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Two-stage motion analysis",
+    "description": "Important: The solution must correctly separate the motion into an accelerated phase and a constant velocity phase.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for accelerated phase",
+    "description": "Important: The solution must correctly calculate the time and displacement for the object to reach the belt's initial speed.",
+    "weight": 3
+  },
+  {
+    "title": "Condition for shortest time",
+    "description": "Important: The solution must recognize that the shortest time occurs when the object accelerates for the entire distance L.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final numerical answers should include correct SI units (m/s, s, m/s²).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if friction force direction or acceleration sign is incorrectly assigned relative to motion.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect friction model",
+    "description": "Pitfall: Penalize if static friction or a wrong coefficient is used to calculate the acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting shortest time condition",
+    "description": "Pitfall: Penalize if the answer claims increasing belt speed always reduces the total time, without finding the optimum.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tension at lowest point",
+    "description": "Essential Criteria: The final answer for part (1) must be 1080 N or derived from F = (3 - 2cosα)mg.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for velocity",
+    "description": "Important Criteria: Applies work-energy theorem mgL(1-cosα) = ½mv² to find speed at lowest point.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion force balance",
+    "description": "Important Criteria: Uses Newton's second law F - mg = mv²/L at the lowest point.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal landing distance",
+    "description": "Essential Criteria: The final answer for part (2) must be correctly calculated from projectile motion.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important Criteria: Correctly calculates free-fall time from H-L = ½gt² and horizontal displacement x = vt.",
+    "weight": 4
+  },
+  {
+    "title": "Depth of water entry",
+    "description": "Essential Criteria: The final answer for part (3) must be 1.2 m or derived from energy balance with buoyancy.",
+    "weight": 5
+  },
+  {
+    "title": "Energy balance with forces",
+    "description": "Important Criteria: Applies work-energy theorem mg(H-Lcosα+d) = (f₁+f₂)d for motion in water.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Uses incorrect sign for buoyant/resistance forces in energy equation (should be opposing motion).",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric value substitution",
+    "description": "Pitfall Criteria: Incorrectly substitutes sin53°=0.8 or cos53°=0.6 in calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent units (kg, m, s, N) throughout all calculations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct turns for 6V coil",
+    "description": "Essential: Student correctly calculates n2 using the transformer turns ratio, yielding n2 = 30 turns.",
+    "weight": 5
+  },
+  {
+    "title": "Correct turns for 110V coil",
+    "description": "Essential: Student correctly calculates n3 using the transformer turns ratio, yielding n3 = 50 turns.",
+    "weight": 5
+  },
+  {
+    "title": "Power conservation principle",
+    "description": "Important: Student states or applies the ideal transformer principle that input power equals total output power.",
+    "weight": 4
+  },
+  {
+    "title": "Total output power calculation",
+    "description": "Important: Student correctly sums the rated powers of the two appliances to find the total output power (80 W).",
+    "weight": 4
+  },
+  {
+    "title": "Primary current calculation",
+    "description": "Essential: Student correctly calculates the primary input current using I1 = (P2+P3)/U1, yielding 0.36 A.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows consistent use of units (V, W, A) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect turns ratio application",
+    "description": "Pitfall: Student inverts the turns ratio (e.g., uses n1/n2 = U1/U2), leading to incorrect n2 or n3.",
+    "weight": -2
+  },
+  {
+    "title": "Power sum error",
+    "description": "Pitfall: Student incorrectly adds powers (e.g., uses P2*P3) or uses currents before finding powers.",
+    "weight": -1
+  }
+]

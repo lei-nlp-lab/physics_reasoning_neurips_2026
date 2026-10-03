@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Pressure Expression",
+    "description": "Essential Criteria: The final expression for pressure must be correctly derived as p = pi * hbar^2 / (4 * mu * R^5).",
+    "weight": 5
+  },
+  {
+    "title": "Energy Expression",
+    "description": "Important Criteria: The expression for the energy in the ground state E_n = (pi^2 * hbar^2) / (2 * mu * R^2) must be correctly identified.",
+    "weight": 4
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Important Criteria: The calculation of the average force F = -dE/dR must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Condition",
+    "description": "Important Criteria: The condition that the wave function must be finite at r = 0 should be stated and applied.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units of pressure should be checked for consistency throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Error",
+    "description": "Pitfall Criteria: Failing to correctly apply the negative sign in the force calculation could lead to an incorrect final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The boundary conditions for the wave function at r = R must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Radial Wave Function",
+    "description": "Optional Criteria: The form of the radial wave function R(r) = chi(r)/r should be correctly stated and used.",
+    "weight": 2
+  }
+]

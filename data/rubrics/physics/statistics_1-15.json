@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for Air",
+    "description": "Essential Criteria: The final temperature for air must be correctly calculated as T_B = 5.8 x 10^2 K.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Helium",
+    "description": "Essential Criteria: The final temperature for helium must be correctly calculated as T_B = 7.5 x 10^2 K.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Adiabatic Formula",
+    "description": "Important Criteria: The student must correctly apply the adiabatic process formula T_B = (p_B/p_A)^{(γ-1)/γ} T_A.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Value of Gamma for Air",
+    "description": "Important Criteria: The value of gamma for air must be correctly identified as 1.4.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Value of Gamma for Helium",
+    "description": "Important Criteria: The value of gamma for helium must be correctly identified as 5/3.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the calculations of pressures and temperatures.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: The student must avoid arithmetic mistakes in the final calculations of temperatures.",
+    "weight": -2
+  }
+]

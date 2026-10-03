@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Mean Life",
+    "description": "Essential Criteria: The student must correctly calculate the mean life of the tau particle as 2.6 x 10^-13 s.",
+    "weight": 5
+  },
+  {
+    "title": "Final Flight Length",
+    "description": "Essential Criteria: The student must correctly determine the mean flight length of the tau particle as 6.29 x 10^-2 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Probability Ratio",
+    "description": "Important Criteria: The student should derive the relationship between the decay probabilities of muon and tau particles using their masses.",
+    "weight": 4
+  },
+  {
+    "title": "Branching Ratio Application",
+    "description": "Important Criteria: The student must correctly apply the branching ratio to find the mean life of the tau particle.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz Factor Calculation",
+    "description": "Important Criteria: The student should accurately calculate the Lorentz factor for the tau particle in the laboratory frame.",
+    "weight": 3
+  },
+  {
+    "title": "Beta Calculation",
+    "description": "Optional Criteria: The student may include the calculation of beta to show the relationship between velocity and speed of light.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the calculations of decay probabilities.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the decay probability equations.",
+    "weight": -2
+  }
+]

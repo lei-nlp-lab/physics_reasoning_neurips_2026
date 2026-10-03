@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Speed at B",
+    "description": "Essential: Correctly calculates the block's speed at point B using work-energy theorem with friction and electric force.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum speed at D",
+    "description": "Essential: Correctly determines the minimum speed at the top of the circle using Newton's second law for circular motion.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum electric field",
+    "description": "Important: Applies work-energy theorem from A to D to find the maximum electric field strength for the block to reach D with the required speed.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Correctly resolves the velocity at D and uses kinematics to find the projectile's time of flight and horizontal displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric landing condition",
+    "description": "Important: Uses the geometry of the track and landing point to find the horizontal distance from the projection of D to the electric field boundary.",
+    "weight": 3
+  },
+  {
+    "title": "Length of BC",
+    "description": "Essential: Correctly sums the projectile and geometric horizontal displacements to find the total length of segment BC.",
+    "weight": 5
+  },
+  {
+    "title": "Force component error",
+    "description": "Pitfall: Incorrectly resolves the gravitational or electric force components on the incline, or omits the electric force in the normal force calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or energy error",
+    "description": "Pitfall: Makes sign errors in the work-energy equation (e.g., for friction or electric work) or misapplies conservation of energy in non-conservative regions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the calculation and presents final answers with correct units.",
+    "weight": 1
+  }
+]

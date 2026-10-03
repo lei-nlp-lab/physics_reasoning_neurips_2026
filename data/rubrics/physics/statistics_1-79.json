@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The final values for B and n must be correctly stated as B = 2A and n = 3.",
+    "weight": 5
+  },
+  {
+    "title": "Use of First Law",
+    "description": "Important Criteria: The application of the first law of thermodynamics to derive the expression for dS must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Condition",
+    "description": "Important Criteria: The condition for dS to be a complete differential must be correctly identified and set up.",
+    "weight": 4
+  },
+  {
+    "title": "Partial Derivatives",
+    "description": "Important Criteria: The correct calculation of the partial derivatives with respect to T and V must be performed accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the logarithmic properties in the derivation will lead to a deduction.",
+    "weight": -2
+  }
+]

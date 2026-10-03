@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct normal force",
+    "description": "Essential: Student correctly calculates the normal force as N = mg + F sinθ for both cases.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum static friction",
+    "description": "Important: Student calculates the maximum static friction force f_max = μN for both applied forces.",
+    "weight": 4
+  },
+  {
+    "title": "Static equilibrium check",
+    "description": "Essential: For F=10 N, student correctly determines the object remains at rest because Fcosθ ≤ f_max, resulting in zero net force.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction application",
+    "description": "Important: For F=30 N, student correctly identifies that sliding occurs and uses the maximum static friction (now kinetic) to find the net horizontal force.",
+    "weight": 4
+  },
+  {
+    "title": "Final numerical answers",
+    "description": "Essential: Student provides the correct final answers: 0 N for part (1) and 5 N for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Student uses the wrong sign for the friction force in the net force equation (e.g., adds it instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction model",
+    "description": "Pitfall: For F=30 N, student incorrectly uses static friction (f = Fcosθ) instead of kinetic/maximum static friction after determining motion occurs.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows consistent use of units (N, kg, m/s²) throughout the calculation.",
+    "weight": 1
+  }
+]

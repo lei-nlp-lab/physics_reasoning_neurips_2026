@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final Energy Estimate",
+    "description": "Essential Criteria: The final estimate for the ground state energy using the uncertainty principle must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Bohr-Sommerfeld Result",
+    "description": "Essential Criteria: The application of the Bohr-Sommerfeld quantization rule must yield the correct expression for the ground state energy.",
+    "weight": 5
+  },
+  {
+    "title": "Variational Principle",
+    "description": "Essential Criteria: The variational principle must be applied correctly with a suitable trial wave function to find the ground state energy.",
+    "weight": 5
+  },
+  {
+    "title": "Exact Solution",
+    "description": "Essential Criteria: The exact solution for the energy eigenvalue and eigenfunction must be derived accurately from the Schrödinger equation.",
+    "weight": 5
+  },
+  {
+    "title": "Effective Potential",
+    "description": "Essential Criteria: The effective potential for nonzero angular momentum states must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Uncertainty Principle Use",
+    "description": "Important Criteria: The application of the uncertainty principle must include correct reasoning and assumptions about momentum and position.",
+    "weight": 4
+  },
+  {
+    "title": "Quantization Conditions",
+    "description": "Important Criteria: The conditions for quantization in the Bohr-Sommerfeld approach must be clearly articulated and applied.",
+    "weight": 4
+  },
+  {
+    "title": "Trial Wave Function Choice",
+    "description": "Important Criteria: The choice of trial wave function in the variational method should be justified and relevant to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing factors or incorrect signs in the energy expressions or equations will lead to significant deductions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any inconsistencies in units throughout the calculations will result in deductions.",
+    "weight": -1
+  }
+]

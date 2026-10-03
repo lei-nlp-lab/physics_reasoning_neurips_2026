@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final work value must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Process Explanation",
+    "description": "Important Criteria: The explanation of the four processes in the Carnot cycle must be clear and accurate.",
+    "weight": 4
+  },
+  {
+    "title": "Diagrams Inclusion",
+    "description": "Important Criteria: Both the pressure-volume and enthalpy-entropy diagrams must be included and correctly labeled.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency Formula",
+    "description": "Important Criteria: The refrigeration efficiency formula must be correctly stated and applied in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Latent Heat Calculation",
+    "description": "Essential Criteria: The calculation of the latent heat for freezing water must be accurate.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units used in calculations must be consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the Carnot cycle principles will lead to deductions.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: Any assumptions made during the calculations should be clearly stated.",
+    "weight": 1
+  }
+]

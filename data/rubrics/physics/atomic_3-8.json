@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student correctly identifies that a particle and its antiparticle must have the same mass by selecting option (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Antiparticles",
+    "description": "Important Criteria: The student demonstrates an understanding of the relationship between particles and antiparticles beyond just mass.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: The student provides a clear rationale for why the selected answer is correct, referencing symmetry.",
+    "weight": 3
+  },
+  {
+    "title": "Consideration of Other Options",
+    "description": "Optional Criteria: The student briefly discusses why the other options (b) and (c) are incorrect.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misinterpretation",
+    "description": "Pitfall Criteria: The student mistakenly claims that particles and antiparticles can differ in mass or attributes, leading to an incorrect answer.",
+    "weight": -2
+  }
+]

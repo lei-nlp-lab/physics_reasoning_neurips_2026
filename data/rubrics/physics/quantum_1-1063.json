@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state that energy bands arise from the periodicity and boundary conditions of the crystal lattice potential.",
+    "weight": 5
+  },
+  {
+    "title": "Quantum Mechanics Concepts",
+    "description": "Important Criteria: The discussion should reference quantum mechanics concepts such as potential wells and the Schrödinger equation.",
+    "weight": 4
+  },
+  {
+    "title": "Bloch's Theorem",
+    "description": "Important Criteria: The response should mention Bloch's theorem and its relevance to the solutions of the Schrödinger equation in a periodic potential.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Ranges Explanation",
+    "description": "Important Criteria: The explanation must include how boundary conditions lead to quantized energy ranges, resulting in energy bands.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity and Coherence",
+    "description": "Optional Criteria: The response should be well-organized and clearly articulated, making it easy for the reader to follow the argument.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as failing to connect the periodicity of the lattice to the formation of energy bands.",
+    "weight": -2
+  }
+]

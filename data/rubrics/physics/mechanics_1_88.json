@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Dissipation",
+    "description": "Essential Criteria: The student must provide the correct expression for the time-averaged rate of energy dissipation.",
+    "weight": 5
+  },
+  {
+    "title": "Final Motion Solution",
+    "description": "Essential Criteria: The student must derive the correct expression for the motion of the anharmonic oscillator, including first-order terms in alpha.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Complex Notation",
+    "description": "Important Criteria: The student should correctly apply complex notation to find the steady-state solution for the damped oscillator.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions Application",
+    "description": "Important Criteria: The student must correctly apply the initial conditions to determine constants in the solution for the anharmonic oscillator.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Dissipation Consistency",
+    "description": "Important Criteria: The student should show that the average power calculated matches the rate of energy dissipation.",
+    "weight": 3
+  },
+  {
+    "title": "Neglecting Higher Order Terms",
+    "description": "Optional Criteria: The student should justify the neglect of higher-order terms in alpha in the solution for the anharmonic oscillator.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all terms in the final expressions have consistent units.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when deriving the expressions for the solutions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be careful not to omit any factors when substituting values into the equations.",
+    "weight": -2
+  }
+]

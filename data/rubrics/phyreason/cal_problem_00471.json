@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct charge sign",
+    "description": "Essential Criteria: The response must state that the ball carries a positive charge.",
+    "weight": 5
+  },
+  {
+    "title": "Correct charge magnitude",
+    "description": "Essential Criteria: The response must provide the correct numerical value for the charge, approximately 2.89 × 10⁻⁶ C or an equivalent exact form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension value",
+    "description": "Essential Criteria: The response must provide the correct numerical value for the string tension, 0.1 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important Criteria: The solution should correctly identify the three forces (gravity, tension, electric) and set up the horizontal and vertical equilibrium conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Correct force resolution",
+    "description": "Important Criteria: The solution must correctly resolve the tension force into components or apply trigonometry (tan θ = F_e / F_g, cos θ = F_g / T) to relate the forces.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The final answers should be presented with correct SI units (Coulombs and Newtons).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in charge",
+    "description": "Pitfall Criteria: Deduct points if the student incorrectly states the charge is negative, given the described field direction and equilibrium position.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall Criteria: Deduct points for using sine/cosine/tangent incorrectly in the force balance equations (e.g., mixing up opposite/adjacent sides).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity magnitude",
+    "description": "Essential: The magnitude of the velocity upon entering the magnetic field is correctly given as (2√3/3)v₀.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity direction",
+    "description": "Essential: The direction of the velocity upon entering the magnetic field is correctly given as 30° above the positive x-axis.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum B for y-axis exit",
+    "description": "Essential: The minimum magnetic induction B for the proton to exit along the y-axis is correctly derived as √3 m v₀ / (e d).",
+    "weight": 5
+  },
+  {
+    "title": "B for exit at M",
+    "description": "Important: The magnetic induction B_θ for the proton to exit at point M is correctly expressed in terms of n, e.g., (4√3 n m v₀)/(3 e d).",
+    "weight": 4
+  },
+  {
+    "title": "Period T of field variation",
+    "description": "Important: The period T of the magnetic field variation is correctly expressed in terms of n, e.g., (√3 π d)/(6 n v₀).",
+    "weight": 4
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: The solution correctly applies kinematics in the electric field region to find the y-component of velocity at the origin.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: The solution correctly uses geometry of circular motion (e.g., chord/radius relationships) to relate the path radius to the given distances d.",
+    "weight": 3
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important: The solution correctly applies the Lorentz force law (evB = mv²/R) to relate B, v, and the orbital radius.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign for the velocity components or angle, or misidentifying the direction of the magnetic force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Missing factors (like √3, π, or numerical coefficients) in final expressions for B or T.",
+    "weight": -1
+  }
+]

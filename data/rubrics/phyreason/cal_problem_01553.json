@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct period expression",
+    "description": "Essential: The student must state the period as T = t/n.",
+    "weight": 5
+  },
+  {
+    "title": "Correct height expression",
+    "description": "Essential: The student must derive and state the height as h = cube_root(G M t^2/(4 n^2 π^2)) - R.",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity expression",
+    "description": "Essential: The student must derive and state the linear velocity as v = cube_root(2 π G M n / t).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's law correctly",
+    "description": "Important: The student must set gravitational force equal to centripetal force: G M m / (R+h)^2 = m (4π^2 / T^2)(R+h).",
+    "weight": 4
+  },
+  {
+    "title": "Solve for orbital radius",
+    "description": "Important: The student must correctly solve the force equation to find the orbital radius (R+h) = cube_root(G M T^2 / (4π^2)).",
+    "weight": 3
+  },
+  {
+    "title": "Relate velocity to period",
+    "description": "Important: The student must use the circular motion relation v = 2π(R+h)/T or its equivalent.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The student shows clear algebraic steps to derive the final expressions for h and v.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student verifies or mentions the dimensional consistency of the final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect centripetal acceleration",
+    "description": "Pitfall: Using an incorrect formula for centripetal force/acceleration (e.g., m v^2 / h or m ω^2 R).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or substitution error",
+    "description": "Pitfall: Making an algebraic sign error or incorrectly substituting T = t/n into the derived equations.",
+    "weight": -1
+  }
+]

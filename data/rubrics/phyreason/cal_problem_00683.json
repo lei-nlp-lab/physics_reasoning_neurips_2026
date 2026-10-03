@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct emf value",
+    "description": "Essential: The student's final answer for the electromotive force must be 15 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct internal resistance",
+    "description": "Essential: The student's final answer for the internal resistance must be 2 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Correct R2 current",
+    "description": "Essential: The student's final answer for the current through R2 when S2 is at c must be 3.75 A.",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum power point",
+    "description": "Essential: The student must correctly identify point c as the connection for maximum output power.",
+    "weight": 4
+  },
+  {
+    "title": "Correct maximum power value",
+    "description": "Essential: The student's final answer for the maximum output power must be 28.125 W.",
+    "weight": 4
+  },
+  {
+    "title": "Setup for two switch states",
+    "description": "Important: The solution must apply Ohm's law to set up two independent equations using the given currents for states a and b.",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent resistance calculation",
+    "description": "Important: For the state with S2 at a, the solution must correctly calculate the parallel equivalent of R1 and R2 as 1 Ω.",
+    "weight": 3
+  },
+  {
+    "title": "Application of maximum power theorem",
+    "description": "Important: The reasoning for part (3) must correctly apply the condition for maximum power transfer (load resistance equals internal resistance).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Deduct points for sign errors in circuit equations or algebraic mistakes in solving for E and r.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or misuse",
+    "description": "Pitfall: Deduct points for omitting units (V, Ω, A, W) in final answers or using incorrect units in calculations.",
+    "weight": -1
+  }
+]

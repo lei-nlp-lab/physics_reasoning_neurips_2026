@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration time and distance",
+    "description": "Essential: Correctly calculates the time (5 s) and distance (75 m) for the police car to accelerate from its initial speed to match the truck's speed.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum relative distance",
+    "description": "Important: Correctly determines the maximum distance (50 m) between the front of the police car and the rear of the truck when their speeds first become equal.",
+    "weight": 4
+  },
+  {
+    "title": "Total overtaking displacement",
+    "description": "Important: Correctly identifies the total required displacement (78 m) that the police car's front must gain relative to the truck's rear to achieve the safe configuration.",
+    "weight": 4
+  },
+  {
+    "title": "Three-phase motion analysis",
+    "description": "Important: Models the police car's motion correctly as acceleration, possible constant speed, and deceleration phases to meet the safe distance condition.",
+    "weight": 4
+  },
+  {
+    "title": "Reaction time adjustment",
+    "description": "Important: Correctly adjusts initial conditions (e.g., separation becomes 45 m) and timing to account for the 2-second reaction delay in part (4).",
+    "weight": 3
+  },
+  {
+    "title": "Speed limit constraint",
+    "description": "Important: Correctly incorporates the 30 m/s maximum speed limit into the three-phase motion analysis for part (5).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all speeds (km/h to m/s) correctly and maintains consistent units throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in relative motion",
+    "description": "Pitfall: Uses incorrect sign (e.g., relative speed or displacement) when calculating relative positions or the overtaking condition.",
+    "weight": -2
+  },
+  {
+    "title": "Omits safe distance geometry",
+    "description": "Pitfall: Fails to include the lengths of both vehicles (5 m + 20 m) when calculating the required 53 m 'ahead' condition, leading to an incorrect Δx₂.",
+    "weight": -2
+  }
+]

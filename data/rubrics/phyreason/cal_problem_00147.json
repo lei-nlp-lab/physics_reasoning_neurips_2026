@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct B magnitude",
+    "description": "Essential: The answer for part (1) must be B = 2 m v_0 / (q d).",
+    "weight": 5
+  },
+  {
+    "title": "Correct total time",
+    "description": "Essential: The answer for part (2) must be t = (11π + 3√3) d / (3 v_0).",
+    "weight": 5
+  },
+  {
+    "title": "Correct circular field B",
+    "description": "Essential: The answer for part (3) must be B_circular = 6 m v_0 / (5 q d).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force centripetal relation",
+    "description": "Important: Student must apply qvB = m v^2 / r to relate magnetic field to trajectory radius.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for trajectory radii",
+    "description": "Important: Student must correctly deduce the radii (e.g., d/2, 5d/6, 2d) from the equilateral triangle geometry and given angles.",
+    "weight": 4
+  },
+  {
+    "title": "Time from arc motion",
+    "description": "Important: Student must calculate times in magnetic fields using t = (θ/2π) * T, where T is the period of circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Time in straight segment",
+    "description": "Optional: Student calculates the time for the straight-line segment DP using t = distance / v_0.",
+    "weight": 2
+  },
+  {
+    "title": "Field direction sign error",
+    "description": "Pitfall: Student confuses the direction (inward/outward) of the magnetic fields when applying the right-hand rule, leading to incorrect force direction or radius sign.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Student misinterprets the 60° or 120° deflection angles, leading to incorrect central angles for arc motion.",
+    "weight": -1
+  }
+]

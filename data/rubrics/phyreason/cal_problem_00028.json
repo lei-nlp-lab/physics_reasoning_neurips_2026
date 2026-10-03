@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Maximum velocity v1",
+    "description": "Essential: Correctly states the final answer for part (1) as v1 = (2 B1 q L) / m.",
+    "weight": 5
+  },
+  {
+    "title": "Time in magnetic field",
+    "description": "Essential: Correctly states the final answer for part (2) as t = (2π m) / (3 q B1).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum velocity v2",
+    "description": "Essential: Correctly states the final answer for part (3) as v2 = (4 B1 q L) / m.",
+    "weight": 5
+  },
+  {
+    "title": "Ratio η",
+    "description": "Essential: Correctly states the final answer for part (4) as η = 60% or 0.6.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for v1",
+    "description": "Important: Applies the geometric condition (e.g., r1 cos60° = r1 - L) to relate the circular path radius in Region I to the width L.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion period",
+    "description": "Important: Uses the formula for the period of circular motion in a uniform magnetic field, T = 2πm/(qB1), to find the time spent.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for v2",
+    "description": "Important: For B2=2B1, sets up and solves the geometric constraints involving the circular arcs in both regions to find the required radius.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse theorem application",
+    "description": "Important: For the non-uniform field in part (4), applies the impulse-momentum theorem (Bqv_y Δt = mΔv_x) or integrates to find the velocity condition for crossing the x-axis.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity distribution analysis",
+    "description": "Optional: Correctly interprets the uniform speed distribution and calculates the proportion of ions within the derived critical velocity range.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in geometric relations (e.g., wrong quadrant for angles) or omits/incorrectly uses units in final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Incorrectly equates magnetic force to mv^2/r or misapplies the centripetal force condition for non-circular or non-uniform field trajectories.",
+    "weight": -2
+  }
+]

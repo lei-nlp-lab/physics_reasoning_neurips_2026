@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential: The final answer for part (1) must be √3 or its decimal equivalent (approximately 1.732).",
+    "weight": 5
+  },
+  {
+    "title": "Correct speed of light",
+    "description": "Essential: The final answer for part (2) must be c/√3 or its equivalent (e.g., √3c/3, 0.577c).",
+    "weight": 5
+  },
+  {
+    "title": "Angle identification",
+    "description": "Important: The solution must correctly identify the angle of incidence on face AB as 60° and the angle of refraction as 30°, using geometry of the equilateral triangle and the given beam directions.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Snell's Law",
+    "description": "Important: The solution must explicitly apply Snell's law (n = sin(i)/sin(r)) using the identified angles to find the refractive index.",
+    "weight": 4
+  },
+  {
+    "title": "Speed-index relationship",
+    "description": "Important: The solution must correctly use the relationship v = c / n to find the speed in the medium from the refractive index.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry justification",
+    "description": "Optional: The solution includes a clear diagram or step-by-step geometric reasoning to justify the 60° and 30° angles.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution for speed maintains correct units (e.g., m/s) or explicitly states speed as a fraction of c.",
+    "weight": 1
+  },
+  {
+    "title": "Angle confusion error",
+    "description": "Pitfall: Incorrectly identifying the angles of incidence or refraction (e.g., using 30° and 60° in the wrong order in Snell's law).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using an incorrect formula for refractive index (e.g., n = sin(r)/sin(i)) or for speed (e.g., v = n*c).",
+    "weight": -2
+  }
+]

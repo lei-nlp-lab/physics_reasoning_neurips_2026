@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct landing distance",
+    "description": "Essential: The final answer for part (1) must be correctly calculated as √3 m or approximately 1.732 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct power value",
+    "description": "Essential: The final answer for part (2) must be correctly calculated as (15/2)√5 W or approximately 16.77 W.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: The student must correctly apply kinematic equations to find the flight time from the drop height and the horizontal displacement from the initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Initial velocity relation",
+    "description": "Important: The student must correctly relate the angular velocity to the linear velocity at the table edge using v₀ = ωR.",
+    "weight": 4
+  },
+  {
+    "title": "Tension force analysis",
+    "description": "Important: The student must resolve the tension force, apply Newton's second law for circular motion (T cosθ = m v₀²/R), and identify the correct geometry (sinθ = r/R).",
+    "weight": 4
+  },
+  {
+    "title": "Power calculation method",
+    "description": "Important: The student must correctly apply the power formula P = F ⋅ v, using the component of tension perpendicular to the velocity (P = T v₀ sinθ).",
+    "weight": 3
+  },
+  {
+    "title": "Distance geometry",
+    "description": "Optional: The student may correctly use the 3D Pythagorean theorem (s = √(R² + x² + h²)) to find the distance from the landing point to center O.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's working shows consistent use of SI units (m, s, kg, rad/s) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius for velocity",
+    "description": "Pitfall: Using the turntable radius (r) instead of the tabletop radius (R) to calculate the initial linear velocity (v₀ = ωr).",
+    "weight": -2
+  },
+  {
+    "title": "Power component error",
+    "description": "Pitfall: Using the wrong component of tension or velocity in the power calculation (e.g., P = T v₀ or P = T v₀ cosθ).",
+    "weight": -2
+  }
+]

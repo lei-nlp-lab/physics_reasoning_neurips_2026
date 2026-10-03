@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly states B = m v0 / (q R) from balancing Lorentz force and centripetal force for circular motion in the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity for A",
+    "description": "Essential: Correctly derives ω = (4k+1) v0/R by matching the ion's quarter-period in the field with the cylinder's rotation to align the hole S with the exit point.",
+    "weight": 5
+  },
+  {
+    "title": "Average force at C",
+    "description": "Important: Applies impulse-momentum theorem correctly, relating average force over one revolution period (2π/ω') to the total momentum change (N m v) of the ions striking at C.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity and geometry at C",
+    "description": "Important: Correctly relates the ion's velocity v at detection point C (with angle θ) to v0 using geometry and circular motion, finding v = v0 tan(θ/2) and the corresponding radius.",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity for C",
+    "description": "Important: Correctly derives the general angular velocity ω' = (2nπ+θ)v0 / [R(π-θ)] by matching the ion's travel time in the magnetic field (arc length π-θ) with the cylinder's rotation to align the hole.",
+    "weight": 4
+  },
+  {
+    "title": "Other detection angles",
+    "description": "Important: Correctly solves the inequality ω' < 6v0/R with ω' expressed in terms of θ' to find the other possible detection angles θ' = π/6 and 5π/6.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for charge in Lorentz force (e.g., forgetting the ion has charge -q) or misidentifies the direction of force/deflection.",
+    "weight": -2
+  },
+  {
+    "title": "Time-period mismatch",
+    "description": "Pitfall: Fails to correctly relate the ion's travel time in the magnetic field to the cylinder's rotation angle (ωt = 2kπ + constant), leading to wrong expressions for ω or ω'.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions for B, ω, and F (e.g., force has units of mass*acceleration).",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Frequencies",
+    "description": "Essential Criteria: The student must provide the correct expressions for the vibration frequencies omega_+, omega_-, and omega_0.",
+    "weight": 5
+  },
+  {
+    "title": "Weak Field Limit",
+    "description": "Important Criteria: The student should correctly derive and state the frequencies in the weak field limit.",
+    "weight": 4
+  },
+  {
+    "title": "Strong Field Limit",
+    "description": "Important Criteria: The student must derive and explain the frequencies in the strong field limit accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Lagrangian Setup",
+    "description": "Important Criteria: The student should correctly set up the Lagrangian for the system considering both electric and magnetic fields.",
+    "weight": 3
+  },
+  {
+    "title": "Matrix Equation",
+    "description": "Important Criteria: The student must correctly formulate the matrix equation from the equations of motion.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the equations of motion or incorrect assumptions about the fields.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student should provide a clear physical interpretation of how the electric and magnetic fields affect the oscillation frequencies.",
+    "weight": 2
+  }
+]

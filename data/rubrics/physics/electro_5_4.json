@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Angle Calculation",
+    "description": "Essential Criteria: The angle alpha' must be correctly calculated using the tangent of the ratio of the y and x components of the package's velocity in the frame of ship (1).",
+    "weight": 5
+  },
+  {
+    "title": "Final Speed Calculation",
+    "description": "Essential Criteria: The speed of the package in the frame of ship (1) must be correctly calculated using the Pythagorean theorem for the components of velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity Component Analysis",
+    "description": "Important Criteria: The student must correctly identify and calculate the y-component of the package's velocity needed to match ship (2)'s position.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Transformation Application",
+    "description": "Important Criteria: The student must correctly apply the velocity transformation equations to find the components of the package's velocity in the frame of ship (1).",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional Criteria: The student should ensure that all velocities are expressed in consistent units, typically in terms of c.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when applying the velocity transformation, particularly with the direction of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing factors in the velocity transformation equations that could lead to incorrect results.",
+    "weight": -1
+  }
+]

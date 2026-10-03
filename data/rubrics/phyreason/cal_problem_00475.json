@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates the electric field strength from equilibrium conditions, yielding E = (3mg)/(4q).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Sets up the correct force balance (normal, gravity, electric) on the inclined plane for the horizontal field case.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Essential: Correctly computes the block's acceleration for the vertical downward field case, yielding a = (21/20)g.",
+    "weight": 5
+  },
+  {
+    "title": "Net force analysis",
+    "description": "Important: Applies Newton's second law correctly when the electric field is vertical, finding the component of the total force down the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Essential: Correctly uses kinematics (v² = 2ax) with the proper displacement along the incline to find final speed v = √(14gH)/2.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement along incline",
+    "description": "Important: Relates the vertical height H to the displacement along the inclined plane using trigonometry (x = H/sin37°).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misaligns force components (especially electric force) with the chosen coordinate system, leading to incorrect equilibrium or acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric misuse",
+    "description": "Pitfall: Incorrectly uses sin/cos for force resolution on the incline or for the displacement relation.",
+    "weight": -1
+  }
+]

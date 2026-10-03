@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Tension magnitude",
+    "description": "Essential: Correctly calculates tension as T = mg/cosθ.",
+    "weight": 5
+  },
+  {
+    "title": "Resultant force magnitude",
+    "description": "Essential: Correctly calculates resultant force as F_res = mg tanθ.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical force balance",
+    "description": "Important: Applies Newton's first law to balance vertical forces (T cosθ = mg).",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal resultant identification",
+    "description": "Important: Recognizes that resultant force equals horizontal component of tension (T sinθ).",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram setup",
+    "description": "Optional: Draws or describes correct free-body diagram showing tension, gravity, and resultant.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units or includes unit analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect vertical resolution",
+    "description": "Pitfall: Mistakenly uses T sinθ = mg or misresolves force components.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Assigns wrong direction to resultant force or tension components.",
+    "weight": -1
+  }
+]

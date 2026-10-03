@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for R must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Length Equations",
+    "description": "Important Criteria: The equations for the lengths l1 and l2 after heating must be correctly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Curvature Relation",
+    "description": "Important Criteria: The relationship between the lengths and the radius of curvature must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Substitutions",
+    "description": "Important Criteria: Correct substitutions from the length equations into the curvature relation must be shown.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the equations for l1 and l2.",
+    "weight": -2
+  }
+]

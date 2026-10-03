@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct fringe type",
+    "description": "Essential: Student must state that point P is a bright fringe (constructive interference).",
+    "weight": 5
+  },
+  {
+    "title": "Correct fringe spacing",
+    "description": "Essential: Student must provide the correct numerical value for the fringe spacing, approximately 2.7 × 10⁻⁴ m.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength in air",
+    "description": "Important: Student must correctly calculate the wavelength in air (λ₀) from the given medium wavelength and speeds, finding λ₀ = 5.4 × 10⁻⁷ m.",
+    "weight": 4
+  },
+  {
+    "title": "Path difference analysis",
+    "description": "Important: Student must relate the given path difference (5.4 × 10⁻⁶ m) to the wavelength in air to determine the order of interference (m=10).",
+    "weight": 3
+  },
+  {
+    "title": "Fringe spacing formula",
+    "description": "Important: Student must correctly apply the formula Δx = (lλ₀)/d to calculate the spacing between adjacent bright fringes.",
+    "weight": 3
+  },
+  {
+    "title": "Frequency consistency",
+    "description": "Optional: Student may show that frequency remains constant when light passes between media, using f = v/λ.",
+    "weight": 1
+  },
+  {
+    "title": "Unit handling",
+    "description": "Optional: Student demonstrates consistent unit conversion (e.g., mm to m) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Misinterpreting given wavelength",
+    "description": "Pitfall: Student incorrectly uses the provided medium wavelength (3.6 × 10⁻⁷ m) directly in air interference conditions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect fringe condition",
+    "description": "Pitfall: Student misapplies the condition for constructive/destructive interference (e.g., using λ/2 for bright fringe).",
+    "weight": -1
+  }
+]

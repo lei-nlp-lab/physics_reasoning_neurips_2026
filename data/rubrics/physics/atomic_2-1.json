@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer 1",
+    "description": "Essential Criteria: The response must state that nuclei cannot be composed of protons and electrons.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer 2",
+    "description": "Essential Criteria: The response must indicate that electrons cannot be bound in the nucleus.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer 3",
+    "description": "Essential Criteria: The response must mention that the nuclear magnetic moment does not support the existence of electrons in the nucleus.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer 4",
+    "description": "Essential Criteria: The response must explain that the continuous spectrum contradicts the idea of electrons being inside the nucleus.",
+    "weight": 5
+  },
+  {
+    "title": "Statistical Argument",
+    "description": "Important Criteria: The response should include reasoning based on the statistical nature of nuclei and experimental spin results.",
+    "weight": 4
+  },
+  {
+    "title": "Binding Energy Argument",
+    "description": "Important Criteria: The response should discuss the role of binding energy and the inability of electrons to participate in strong interactions.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Moment Argument",
+    "description": "Important Criteria: The response should analyze the nuclear magnetic moment and its implications for the composition of the nucleus.",
+    "weight": 4
+  },
+  {
+    "title": "Beta Decay Argument",
+    "description": "Important Criteria: The response should address the implications of beta decay and the resulting energy spectrum.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as misinterpreting the role of electrons in nuclear processes.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct F1 value",
+    "description": "Essential: Student must compute F₁ = 10√3/3 N (or equivalent ≈5.77 N) for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Correct β for minimum",
+    "description": "Essential: Student must state β = 60° for the minimized tension configuration in part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum tension",
+    "description": "Essential: Student must compute F₂ = 5 N for the minimized tension in part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Student must apply static equilibrium conditions (ΣF_x=0, ΣF_y=0) to relate tensions and weight.",
+    "weight": 4
+  },
+  {
+    "title": "Force resolution geometry",
+    "description": "Important: Student must correctly resolve tensions into vertical/horizontal components using angles α=30° and β.",
+    "weight": 4
+  },
+  {
+    "title": "Minimization reasoning",
+    "description": "Important: Student must recognize that minimum tension occurs when BO is perpendicular to AO's tension direction.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric calculation",
+    "description": "Optional: Student correctly simplifies trigonometric expressions (cos30°, sin30°, etc.) without errors.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student incorrectly assigns component directions or uses wrong trigonometric functions (e.g., sin instead of cos).",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Student fails to include units (N, °) or uses inconsistent units in final answers.",
+    "weight": -1
+  }
+]

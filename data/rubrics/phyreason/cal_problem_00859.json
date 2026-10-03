@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity before collision",
+    "description": "Essential: Correctly applies work-energy theorem to find ball A's speed as sqrt(2EqL/(3m)).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: Applies momentum conservation for inelastic collision to find post-collision speed.",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss calculation",
+    "description": "Essential: Correctly computes lost mechanical energy as (1/4)EqL from kinetic energy difference.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse on ball B",
+    "description": "Essential: Correctly calculates impulse magnitude as m*(post-collision speed) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for impulse direction or misinterprets vector nature.",
+    "weight": -1
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Important: Shows correct algebraic manipulation to reach final simplified forms.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Explicitly states or verifies units for final answers (m/s, J, N·s).",
+    "weight": 1
+  },
+  {
+    "title": "Force work omission",
+    "description": "Pitfall: Fails to equate electric force work (EqL) to kinetic energy gain for part (1).",
+    "weight": -2
+  }
+]

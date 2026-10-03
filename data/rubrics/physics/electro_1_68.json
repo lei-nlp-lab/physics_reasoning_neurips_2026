@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Potential Expressions",
+    "description": "Essential Criteria: Provide correct expressions for the potential inside and outside the sphere, Phi_1 and Phi_2.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Distribution",
+    "description": "Essential Criteria: Derive the expression for the charge distribution sigma(theta) on the spherical shell.",
+    "weight": 5
+  },
+  {
+    "title": "Legendre Polynomial Use",
+    "description": "Important Criteria: Correctly apply Legendre polynomials in the expansion of the potential.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Results",
+    "description": "Important Criteria: Accurately compute the integrals involving V(theta) and Legendre polynomials.",
+    "weight": 4
+  },
+  {
+    "title": "Potential for V(theta)",
+    "description": "Essential Criteria: Correctly express the potential for the specific case V(theta) = V_0 cos^2(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid errors in the application of boundary conditions or integration limits.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all expressions maintain consistent units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discuss any limiting cases or special scenarios that could simplify the problem.",
+    "weight": 2
+  }
+]

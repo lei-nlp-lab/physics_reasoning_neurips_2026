@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct release height",
+    "description": "Essential: The response must correctly derive or state the release height as H = v²/(2g).",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension force",
+    "description": "Essential: The response must correctly derive or state the tension as F = mg + m(v²/L).",
+    "weight": 5
+  },
+  {
+    "title": "Correct energy loss",
+    "description": "Essential: The response must correctly derive or state the mechanical energy loss as ΔE = (1/4)mv².",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for height",
+    "description": "Important: The solution should apply conservation of mechanical energy (or work-energy theorem) to relate the release height H to the speed v before collision.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal force for tension",
+    "description": "Important: The solution should apply Newton's second law for circular motion to find the tension, recognizing the force balance at the bottom of the swing.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum conservation for collision",
+    "description": "Important: The solution should apply conservation of linear momentum to find the common velocity after the perfectly inelastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss calculation",
+    "description": "Important: The solution should correctly calculate the energy loss from the difference in kinetic energy before and after the collision.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the tension force equation incorrectly subtracts the centripetal term (e.g., F = mg - mv²/L) or misapplies force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect collision physics",
+    "description": "Pitfall: Penalize if the solution assumes elastic collision, uses conservation of kinetic energy for the collision, or incorrectly calculates the post-collision velocity.",
+    "weight": -2
+  }
+]

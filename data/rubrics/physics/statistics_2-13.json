@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Internal Energy",
+    "description": "Essential Criteria: The internal energy must be correctly expressed as U = U_0 + nE.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Expression",
+    "description": "Essential Criteria: The entropy S must be derived and expressed as S = 2k[N ln N - n ln n - (N-n) ln(N-n)].",
+    "weight": 5
+  },
+  {
+    "title": "Defect Concentration",
+    "description": "Essential Criteria: The number of defects n must be correctly determined as n = N/(e^(E/2kT) + 1).",
+    "weight": 5
+  },
+  {
+    "title": "Combinatorial Count",
+    "description": "Important Criteria: The student should demonstrate understanding of the combinatorial counting of states with C_n^N.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Conditions",
+    "description": "Important Criteria: The asymptotic conditions n >> 1 and (N - n) >> 1 must be correctly applied in the entropy derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Significance",
+    "description": "Optional Criteria: The significance of energy E in the context of defect formation should be discussed.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must avoid unit mistakes in the expressions for energy, entropy, and defect concentration.",
+    "weight": -2
+  },
+  {
+    "title": "Mathematical Errors",
+    "description": "Pitfall Criteria: Common errors in logarithmic identities or combinatorial expressions should be checked.",
+    "weight": -1
+  }
+]

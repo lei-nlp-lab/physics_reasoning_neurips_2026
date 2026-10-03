@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state that the two neutrons must be in a singlet spin state.",
+    "weight": 5
+  },
+  {
+    "title": "Initial Parity Calculation",
+    "description": "Important Criteria: The calculation of the initial parity of the state must be correctly shown as +1.",
+    "weight": 4
+  },
+  {
+    "title": "Final Parity Calculation",
+    "description": "Important Criteria: The final parity of the nn state must be correctly derived and shown to equal +1.",
+    "weight": 4
+  },
+  {
+    "title": "Orbital Angular Momentum",
+    "description": "Important Criteria: The reasoning about the allowed values of l (0, 2, 4, ...) must be included.",
+    "weight": 3
+  },
+  {
+    "title": "Wave Function Symmetry",
+    "description": "Important Criteria: The explanation of the need for the total wave function to be antisymmetric must be present.",
+    "weight": 3
+  },
+  {
+    "title": "Exchange Symmetry",
+    "description": "Optional Criteria: A discussion on the implications of the exchange symmetry of identical fermions is beneficial.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Any sign mistakes in the parity calculations will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to account for the intrinsic parities of the particles involved will lead to a deduction.",
+    "weight": -2
+  }
+]

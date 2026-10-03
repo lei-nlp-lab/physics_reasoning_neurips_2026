@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Current calculation",
+    "description": "Essential: The student must correctly compute the current using I = q/t, yielding 0.016 A.",
+    "weight": 5
+  },
+  {
+    "title": "Resistance calculation",
+    "description": "Essential: The student must correctly compute the resistance using R = U/I, yielding 500 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Electron density formula",
+    "description": "Important: The student must apply the relation I = n e S v to solve for the number density n.",
+    "weight": 4
+  },
+  {
+    "title": "Electron density calculation",
+    "description": "Essential: The student must correctly compute n = I/(e S v), yielding 10^27 m^{-3}.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: The student must use consistent SI units (C, s, A, m, m/s) throughout all calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Scientific notation handling",
+    "description": "Optional: The student properly handles powers of ten and scientific notation in the final answer for n.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect current for resistance",
+    "description": "Pitfall: Using the given charge (0.16 C) directly as current in Ohm's law, instead of I = q/t.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication for n",
+    "description": "Pitfall: Rearranging I = n e S v incorrectly, e.g., n = I * e S v, or confusing v with voltage.",
+    "weight": -2
+  }
+]

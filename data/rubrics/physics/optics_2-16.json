@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Thickness",
+    "description": "Essential Criteria: The correct thickness of the TiO2 film must be calculated and stated in microns.",
+    "weight": 5
+  },
+  {
+    "title": "Final Reflectivity",
+    "description": "Essential Criteria: The correct reflectivity value must be calculated and stated.",
+    "weight": 5
+  },
+  {
+    "title": "Interference Condition",
+    "description": "Important Criteria: The student must correctly apply the condition for destructive interference in thin films.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Shift Explanation",
+    "description": "Important Criteria: The student should explain the phase shift that occurs at the air-TiO2 interface.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Wavelength Choice",
+    "description": "Optional Criteria: The chosen wavelength should be appropriate for visible light and justify its selection.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent and correctly converted to microns.",
+    "weight": -1
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the reflectivity calculation.",
+    "weight": -2
+  }
+]

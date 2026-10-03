@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration calculation",
+    "description": "Essential Criteria: The student must correctly compute the acceleration as 0.25 m/s² for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Correct terminal speed",
+    "description": "Essential Criteria: The student must correctly compute the constant ascent speed as 5 m/s for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important Criteria: The student must set up the equation F - mg - f = ma, correctly identifying all forces for the accelerating case.",
+    "weight": 4
+  },
+  {
+    "title": "Apply equilibrium condition",
+    "description": "Important Criteria: The student must set up the equation F - mg - f = 0 for the constant speed case, recognizing net force is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Substitute air resistance correctly",
+    "description": "Important Criteria: The student must correctly substitute the given relation f = 40v into the force equations for both parts.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student may show unit analysis to verify the final answers have correct dimensions (m/s² and m/s).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: The student incorrectly assigns signs to forces (e.g., adding air resistance instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting weight or buoyancy",
+    "description": "Pitfall Criteria: The student omits either the weight (mg) or the buoyant force (F) in the force balance.",
+    "weight": -2
+  }
+]

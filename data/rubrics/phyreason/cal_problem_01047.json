@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Essential: Pump strokes",
+    "description": "Essential Criteria: The student must correctly calculate the number of pump strokes required as 48.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Disinfectant outcome",
+    "description": "Essential Criteria: The student must correctly state that no disinfectant remains in the cylinder after spraying.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Gas mass fraction",
+    "description": "Essential Criteria: The student must correctly calculate the fraction of the original gas mass that was sprayed out as 1/3.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Boyle's Law application",
+    "description": "Important Criteria: The student must correctly apply Boyle's Law (pV = constant) to relate pressures and volumes for the gas in the barrel.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Volume accounting",
+    "description": "Important Criteria: The student must correctly account for the initial 3L of air in the barrel and the 0.25L per pump stroke.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Final gas expansion",
+    "description": "Important Criteria: The student must calculate the final expanded volume of the 5 atm gas at 1 atm (15L) and compare it to the tank's total volume (10L).",
+    "weight": 4
+  },
+  {
+    "title": "Optional: Unit consistency",
+    "description": "Optional Criteria: The student demonstrates consistent unit conversion (e.g., cm³ to L) throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Pitfall: Ignoring initial air",
+    "description": "Pitfall Criteria: The student incorrectly assumes the barrel starts with zero air, neglecting the initial 3L volume.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Misapplying gas laws",
+    "description": "Pitfall Criteria: The student incorrectly uses an ideal gas law other than Boyle's Law (e.g., Charles's Law) for this isothermal process.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Spring constant value",
+    "description": "Essential Criteria: The final answer for part (1) must be k = 100 N/m.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient value",
+    "description": "Essential Criteria: The final answer for part (2) must be μ = 0.4.",
+    "weight": 5
+  },
+  {
+    "title": "Static equilibrium analysis",
+    "description": "Important Criteria: The solution must apply vertical force balance in Figure A to equate spring force to weight (k(l1 - l0) = mg).",
+    "weight": 4
+  },
+  {
+    "title": "Dynamic equilibrium analysis",
+    "description": "Important Criteria: The solution must apply horizontal force balance in Figure B to equate friction force to compressed spring force (k(l0 - l2) = μ mg).",
+    "weight": 4
+  },
+  {
+    "title": "Correct Hooke's Law application",
+    "description": "Important Criteria: The solution must correctly apply Hooke's Law, using the appropriate spring deformation (l1 - l0 for stretch, l0 - l2 for compression).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent unit conversion (e.g., cm to m) or state final units correctly.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in compression",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses (l2 - l0) for the compressed spring force, leading to a negative or incorrect value.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying equilibrium condition",
+    "description": "Pitfall Criteria: Penalize if the student assumes acceleration in Figure B or misapplies Newton's second law instead of constant-speed (dynamic equilibrium).",
+    "weight": -1
+  }
+]

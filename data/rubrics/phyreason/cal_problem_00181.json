@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Refractive index value",
+    "description": "Essential: The final answer for part (1) must be n = √7/2.",
+    "weight": 5
+  },
+  {
+    "title": "PC distance value",
+    "description": "Essential: The final answer for part (2) must be PC = (√3 - 1)a/2.",
+    "weight": 5
+  },
+  {
+    "title": "Snell's Law at M",
+    "description": "Important: Correctly applies Snell's Law at the entry point M, relating sin(60°) to n and the refraction angle θ.",
+    "weight": 4
+  },
+  {
+    "title": "Critical angle condition at N",
+    "description": "Important: Correctly identifies that total internal reflection at N requires the angle of incidence to equal the critical angle, relating it to n and the geometry (90° - θ).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for BN and NC",
+    "description": "Important: Uses the refraction angle θ and triangle geometry (e.g., tan θ = MB/BN) to find segment lengths BN and NC on side BC.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for PC",
+    "description": "Important: Correctly uses the geometry of the exit path (e.g., triangle NPC) and the angle θ to derive the final distance PC.",
+    "weight": 3
+  },
+  {
+    "title": "Simultaneous equation solving",
+    "description": "Optional: Shows clear algebraic manipulation to solve the system of equations from Snell's Law and the critical angle condition for n and θ.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or angle misinterpretation",
+    "description": "Pitfall: Incorrectly identifies the angle of incidence for total internal reflection at N (e.g., using θ instead of 90° - θ).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor error",
+    "description": "Pitfall: Omits the side length 'a' in the final expression for PC or makes an algebraic error in the geometric proportions.",
+    "weight": -1
+  }
+]

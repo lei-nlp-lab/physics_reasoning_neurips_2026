@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ground state energy A^{(Z-1)+}",
+    "description": "Essential: Student must derive or state the ground state energy as -E_R Z^2.",
+    "weight": 5
+  },
+  {
+    "title": "Ground state energy A^{(Z-2)+}",
+    "description": "Essential: Student must derive or state the ground state energy as -2E_R (Z - 1/4)^2.",
+    "weight": 5
+  },
+  {
+    "title": "Energy minimization step",
+    "description": "Important: Student must minimize total energy with respect to r_0 for each ion to find optimal 1/r_0.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Student must set the photon energy ħω equal to E(A^{(Z-1)+}) - E(A^{(Z-2)+}).",
+    "weight": 4
+  },
+  {
+    "title": "Correct Z and element",
+    "description": "Essential: Student must solve the quadratic equation to find Z=4 and identify the element as Beryllium (Be).",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy for two electrons",
+    "description": "Important: For A^{(Z-2)+}, student must include both electron-nucleus terms (-2Zq^2/r_0) and the electron-electron repulsion (+q^2/(2r_0)).",
+    "weight": 3
+  },
+  {
+    "title": "Kinetic energy approximation",
+    "description": "Optional: Student correctly applies the given momentum-distance approximation (p^2 r^2 ≈ ħ^2) for kinetic energy terms.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy difference",
+    "description": "Pitfall: Student incorrectly sets ΔE = E(A^{(Z-2)+}) - E(A^{(Z-1)+}) (wrong sign), leading to an incorrect equation for Z.",
+    "weight": -2
+  },
+  {
+    "title": "Mis-handling electron-electron term",
+    "description": "Pitfall: Student omits or uses an incorrect factor (e.g., q^2/r_0 instead of q^2/(2r_0)) for the average electron-electron repulsion energy.",
+    "weight": -1
+  },
+  {
+    "title": "Unit or constant misuse",
+    "description": "Pitfall: Student confuses angular frequency ω with frequency f, or mis-substitutes the given values for ħ, E_R, or ω.",
+    "weight": -1
+  }
+]

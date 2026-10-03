@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct range-maximizing angle",
+    "description": "Essential: The answer for part (a) must be θ = π/4 (or 45°).",
+    "weight": 5
+  },
+  {
+    "title": "Correct area-maximizing angle",
+    "description": "Essential: The answer for part (b) must be θ = π/3 (or 60°).",
+    "weight": 5
+  },
+  {
+    "title": "Correct height-adjusted angle",
+    "description": "Essential: The answer for part (c) must be θ = arcsin(v₀/√[2(v₀² + gh)]) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flight time with friction",
+    "description": "Essential: The answer for part (d) must be T = (2v₀ sin θ / g) / (1 + βv₀ sin θ / g) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Derivation for range maximization",
+    "description": "Important: For part (a), the solution should apply calculus (dL/dθ=0) to the range formula L = (v₀²/g) sin(2θ).",
+    "weight": 3
+  },
+  {
+    "title": "Derivation for area maximization",
+    "description": "Important: For part (b), the solution should relate area to a function like cosθ sin³θ and find its maximum via derivative.",
+    "weight": 3
+  },
+  {
+    "title": "Setup for height-adjusted problem",
+    "description": "Important: For part (c), the solution must correctly set up the quadratic equation for time of flight from height -h.",
+    "weight": 4
+  },
+  {
+    "title": "Small-β approximation use",
+    "description": "Important: For part (d), the solution must correctly apply the Taylor expansion e^{-βT} ≈ 1 - βT + (βT)²/2.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in vertical motion",
+    "description": "Pitfall: Incorrect sign for gravitational acceleration in the equations of motion (e.g., using +g instead of -g).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or dimension inconsistency",
+    "description": "Pitfall: Final answer has inconsistent units or is missing units where required.",
+    "weight": -1
+  }
+]

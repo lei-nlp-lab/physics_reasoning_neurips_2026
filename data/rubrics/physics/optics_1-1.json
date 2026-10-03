@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify that a rainbow is produced by refraction of sunlight by water droplets in the atmosphere.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Refraction",
+    "description": "Important Criteria: The student should explain the process of refraction and how it contributes to the formation of a rainbow.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: The student should provide a clear and coherent explanation of why option (a) is correct compared to the other options.",
+    "weight": 3
+  },
+  {
+    "title": "Identification of Reflection",
+    "description": "Optional Criteria: The student may mention that reflection of sunlight by clouds does not produce a rainbow, enhancing their understanding.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid stating that a rainbow is produced by reflection of sunlight by clouds or in the human eye.",
+    "weight": -2
+  }
+]

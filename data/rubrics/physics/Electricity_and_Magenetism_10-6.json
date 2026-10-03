@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maxima Separation",
+    "description": "Essential Criteria: The correct expression for the separation between adjacent interference maxima must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Diffraction Widths",
+    "description": "Essential Criteria: The widths of the central maxima for both slits must be correctly calculated and stated.",
+    "weight": 5
+  },
+  {
+    "title": "Number of Fringes",
+    "description": "Essential Criteria: The total number of interference fringes contained in the central maximum must be accurately determined.",
+    "weight": 5
+  },
+  {
+    "title": "Intensity Ratio",
+    "description": "Essential Criteria: The ratio of intensity maxima to minima must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Path Length Derivation",
+    "description": "Important Criteria: The reasoning behind the path length difference leading to constructive and destructive interference should be clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Single-Slit Argument",
+    "description": "Important Criteria: A valid explanation for the single-slit diffraction conditions must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All final answers should include appropriate units where applicable.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the calculations of path differences or intensity ratios will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failure to include necessary factors in the intensity ratio calculation will lead to a deduction.",
+    "weight": -2
+  }
+]

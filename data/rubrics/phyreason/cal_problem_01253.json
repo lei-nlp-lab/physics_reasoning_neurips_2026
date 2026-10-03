@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Midpoint flight time",
+    "description": "Essential: Correctly calculates the time of flight for the particle hitting the midpoint of AB, using the vertical displacement of 1.5h and the kinematic equation.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity range endpoints",
+    "description": "Essential: Correctly identifies the initial velocities for particles hitting points A and B as the limits of the detectable range.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies conservation of energy correctly to equate total mechanical energy for particles hitting A and B, given their speeds are equal.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic setup for limits",
+    "description": "Important: Uses projectile motion equations (vertical displacement and constant horizontal velocity) to find the times of flight and initial velocities for the extreme points A and B.",
+    "weight": 4
+  },
+  {
+    "title": "Final L-h relationship",
+    "description": "Essential: Derives and states the final numerical relationship between L and h from the energy equation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct vertical displacements",
+    "description": "Important: Identifies the correct vertical displacements from P to A (h) and P to B (2h) for use in the kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the derivation or explicitly includes them in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or displacement error",
+    "description": "Pitfall: Uses an incorrect vertical displacement (e.g., 0.5h for the midpoint, or confuses heights for A and B) in the kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Energy equation error",
+    "description": "Pitfall: Makes an error in setting up the conservation of energy equation, such as incorrect gravitational potential energy terms for points A or B.",
+    "weight": -2
+  }
+]

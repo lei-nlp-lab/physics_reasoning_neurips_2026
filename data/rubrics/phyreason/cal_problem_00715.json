@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correctly calculates the Ampere force from force balance (mg = F tanθ) to obtain 0.8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field strength",
+    "description": "Essential: Correctly computes magnetic induction B using F = BIL with proper length L = 2Rcosθ, yielding 0.4 T.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies equilibrium conditions to relate Ampere force, gravity, and normal forces with correct trigonometry.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Uses work-energy theorem correctly to find speed at lowest point from mgR(1-sinθ) = ½mv².",
+    "weight": 3
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Essential: Applies Newton's second law at lowest point (2F_N - mg = mv²/R) to find 0.54 N per ring.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current determination",
+    "description": "Important: Correctly uses Ohm's law I = E/r with given values to find current of 2 A.",
+    "weight": 2
+  },
+  {
+    "title": "Effective length error",
+    "description": "Pitfall: Uses incorrect length in F = BIL (e.g., uses R instead of 2Rcosθ or 1 m separation).",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric confusion",
+    "description": "Pitfall: Misidentifies angle relationships in force balance (e.g., uses sin instead of tan).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations without conversion errors.",
+    "weight": 1
+  }
+]

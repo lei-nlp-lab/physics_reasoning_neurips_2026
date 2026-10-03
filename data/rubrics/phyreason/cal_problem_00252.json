@@ -1,0 +1,47 @@
+[
+  {
+    "title": "First average velocity",
+    "description": "Essential: Correctly calculates the average velocity at the first gate using v1 = L / Δt1, yielding 0.10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Second average velocity",
+    "description": "Essential: Correctly calculates the average velocity at the second gate using v2 = L / Δt2, yielding 0.20 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates the acceleration using a = (v2 - v1) / Δt, yielding 0.025 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Distance between gates",
+    "description": "Essential: Correctly calculates the distance using a kinematic equation (e.g., x = (v2² - v1²) / (2a)), yielding 0.60 m.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Important: Converts the plate width from cm to m (0.020 m) before performing velocity calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Physics principle application",
+    "description": "Important: Recognizes that the average velocity through each gate equals the plate width divided by the blocking time.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration derivation",
+    "description": "Important: Applies the definition of average acceleration (Δv/Δt) using the velocities and the given time interval.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in acceleration (e.g., v1 - v2) or omits/fails to convert units, leading to incorrect magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect distance formula",
+    "description": "Pitfall: Uses an incorrect kinematic formula for distance (e.g., using average velocity without acceleration) instead of one consistent with uniform acceleration.",
+    "weight": -1
+  }
+]

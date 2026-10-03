@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Displacement",
+    "description": "Essential Criteria: The final displacement S must be correctly calculated as 0.25 ft.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration Calculation",
+    "description": "Important Criteria: The student must derive the correct expression for acceleration, including the effects of gravity and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Time of Upward Motion",
+    "description": "Important Criteria: The time of upward motion t1 should be accurately calculated as 0.25 s.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement During Upward Motion",
+    "description": "Important Criteria: The displacement during the upward motion must be computed correctly as 5/8 ft.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the acceleration or displacement calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Friction Coefficient Usage",
+    "description": "Important Criteria: The coefficient of friction must be applied correctly in the equations of motion.",
+    "weight": 3
+  },
+  {
+    "title": "Final Velocity Consideration",
+    "description": "Optional Criteria: The student may discuss the final velocity of the brick at t = 0.5 s as a check on their calculations.",
+    "weight": 1
+  }
+]

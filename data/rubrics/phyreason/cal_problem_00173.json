@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Essential: Correctly calculates B using P = E²/R and E = Blv, obtaining B = √(PR)/(lv) = √30/5 T.",
+    "weight": 5
+  },
+  {
+    "title": "Force Expression (Non-Magnetic)",
+    "description": "Important: For 0 ≤ x < 0.2 m, derives F = ma + mgsinθ + μmgcosθ, with a = k²x, resulting in F = 0.96 + 2.5x N.",
+    "weight": 4
+  },
+  {
+    "title": "Force Expression (Magnetic)",
+    "description": "Important: For 0.2 m ≤ x ≤ 0.8 m, includes Ampere force F_A = (Bl)²v/R, giving F = 0.96 + 3.1x N.",
+    "weight": 4
+  },
+  {
+    "title": "Total Joule Heat",
+    "description": "Essential: Correctly sums work done against Ampere force during upward (W_A1) and downward (W_A2) motion to find Q = 0.324 J.",
+    "weight": 5
+  },
+  {
+    "title": "Downward Motion Analysis",
+    "description": "Important: Applies work-energy theorem to find velocity re-entering magnetic field, considering gravity and friction.",
+    "weight": 3
+  },
+  {
+    "title": "Ampere Force Work (Upward)",
+    "description": "Important: Calculates W_A1 as area under F_A vs. x curve (trapezoid) from x1 to x2.",
+    "weight": 3
+  },
+  {
+    "title": "Ampere Force Work (Downward)",
+    "description": "Important: Calculates W_A2 using constant velocity (from energy) and F_A over magnetic region length.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/Direction Error",
+    "description": "Pitfall: Misapplies sign of friction or Ampere force in Newton's second law or work-energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Region Confusion",
+    "description": "Pitfall: Uses incorrect force expression (e.g., omits Ampere force) for a given displacement range.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations and final answers.",
+    "weight": 1
+  }
+]

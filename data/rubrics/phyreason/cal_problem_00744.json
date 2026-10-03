@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct momentum increment",
+    "description": "Essential: The final answer for Δp must be 10 kg·m/s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final momentum magnitude",
+    "description": "Essential: The final answer for p' must be 10√2 kg·m/s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Time of flight calculation",
+    "description": "Important: Correctly calculates the time of flight using vertical motion (t = √(2h/g) = 1 s).",
+    "weight": 3
+  },
+  {
+    "title": "Vertical velocity change",
+    "description": "Important: Identifies that the momentum increment Δp is due solely to the vertical change in velocity (Δv_y = gt).",
+    "weight": 4
+  },
+  {
+    "title": "Vector composition for final velocity",
+    "description": "Important: Correctly combines horizontal and vertical velocity components to find the final speed (v = √(v₀² + (gt)²)).",
+    "weight": 4
+  },
+  {
+    "title": "Momentum as a vector",
+    "description": "Optional: Recognizes that momentum is a vector and may discuss the direction of p' (45° below horizontal).",
+    "weight": 1
+  },
+  {
+    "title": "Horizontal momentum constant",
+    "description": "Optional: Notes that horizontal momentum remains constant (no horizontal force).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing Δp with final p",
+    "description": "Pitfall: Mistakenly equates Δp (change in momentum) with the final momentum p'.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring vector nature of Δp",
+    "description": "Pitfall: Treats Δp as a scalar magnitude instead of a vector change (vertical only).",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect time of flight",
+    "description": "Pitfall: Uses incorrect kinematics to find the time of flight (e.g., using horizontal motion).",
+    "weight": -2
+  }
+]

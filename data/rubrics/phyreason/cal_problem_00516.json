@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct I₁ calculation",
+    "description": "Essential Criteria: Student must correctly compute I₁ = 1005 mA using parallel circuit analysis for terminals a-b.",
+    "weight": 5
+  },
+  {
+    "title": "Correct I₂ calculation",
+    "description": "Essential Criteria: Student must correctly compute I₂ = 205 mA using parallel circuit analysis for terminals a-c.",
+    "weight": 5
+  },
+  {
+    "title": "Correct U calculation",
+    "description": "Essential Criteria: Student must correctly compute U = 21 V using series circuit analysis for terminals a-d.",
+    "weight": 5
+  },
+  {
+    "title": "Parallel voltage equality",
+    "description": "Important Criteria: Student applies voltage equality across parallel branches when analyzing ammeter configurations.",
+    "weight": 3
+  },
+  {
+    "title": "Current summation at junction",
+    "description": "Important Criteria: Student correctly sums branch currents to find total ammeter range in both configurations.",
+    "weight": 3
+  },
+  {
+    "title": "Series voltage addition",
+    "description": "Important Criteria: Student adds voltage drops across R₃ and galvanometer correctly for voltmeter range.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student maintains consistent units (mA, V, Ω) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing parallel configurations",
+    "description": "Pitfall Criteria: Student incorrectly identifies which resistors are in parallel for different terminal connections.",
+    "weight": -2
+  },
+  {
+    "title": "Significant figure errors",
+    "description": "Pitfall Criteria: Student makes arithmetic errors in current/voltage calculations leading to incorrect final values.",
+    "weight": -1
+  }
+]

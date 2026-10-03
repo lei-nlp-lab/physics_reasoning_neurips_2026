@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum separation value",
+    "description": "Essential: The final answer for part (1) must be 12 m.",
+    "weight": 5
+  },
+  {
+    "title": "Communication duration value",
+    "description": "Essential: The final answer for part (2) must be 4.8 s.",
+    "weight": 5
+  },
+  {
+    "title": "Equal velocities condition",
+    "description": "Important: The solution must identify that maximum separation occurs when the velocities of the two cars are equal.",
+    "weight": 4
+  },
+  {
+    "title": "Separation function setup",
+    "description": "Important: The relative displacement function s(t) = d + (v₀t + ½a₁t²) - ½a₂t² must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Solving for s₀ times",
+    "description": "Important: The two times (2 s and 6 s) when the separation equals 10 m must be found by solving the quadratic equation from s(t)=s₀.",
+    "weight": 3
+  },
+  {
+    "title": "Meeting time calculation",
+    "description": "Important: The time T when the cars meet (separation=0) must be correctly calculated, yielding T = 8.8 s.",
+    "weight": 3
+  },
+  {
+    "title": "Duration logic",
+    "description": "Optional: The reasoning that the communication window before meeting is T - (t₂ - t₁) should be clearly explained.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in separation",
+    "description": "Pitfall: Penalize if the relative displacement formula uses the wrong sign for the acceleration terms or initial positions.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring initial separation",
+    "description": "Pitfall: Penalize if the initial distance d = 4.0 m is omitted from the separation function.",
+    "weight": -2
+  }
+]

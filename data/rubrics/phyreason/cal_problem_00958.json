@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at entry",
+    "description": "Essential: Correctly calculates the speed of rod a when it reaches the magnetic field boundary using work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at highest point",
+    "description": "Important: Applies Newton's second law for circular motion to find rod b's speed at the top of the loop using the given normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for rod b",
+    "description": "Important: Uses conservation of mechanical energy to relate rod b's speed at the bottom of the loop to its speed at the top.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation",
+    "description": "Essential: Applies conservation of linear momentum to the system of rods a and b during their interaction in the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Simultaneous equation solving",
+    "description": "Important: Correctly solves the system of equations from momentum and energy to find the final speed of rod a.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (e.g., g, R) throughout the derivation and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Incorrectly signs the gravitational potential energy term in the conservation of energy equation for rod b.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting rod masses",
+    "description": "Pitfall: Uses incorrect masses (e.g., m instead of 2m) in the work-energy or momentum equations.",
+    "weight": -2
+  }
+]

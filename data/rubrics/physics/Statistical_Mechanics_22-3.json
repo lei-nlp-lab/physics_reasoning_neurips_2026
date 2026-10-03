@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Equation Derivation",
+    "description": "Essential Criteria: The student must correctly derive the equation v^2 = dp/drho for sound speed.",
+    "weight": 5
+  },
+  {
+    "title": "Isothermal Speed Calculation",
+    "description": "Essential Criteria: The student must accurately calculate the speed of sound for the isothermal case as v^2 = RT/m.",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic Speed Calculation",
+    "description": "Essential Criteria: The student must accurately calculate the speed of sound for the adiabatic case as v^2 = gamma RT/m.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison of Results",
+    "description": "Important Criteria: The student should provide a clear comparison of the isothermal and adiabatic results for air.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must avoid unit mistakes in calculations, particularly in the context of pressure and density.",
+    "weight": -2
+  }
+]

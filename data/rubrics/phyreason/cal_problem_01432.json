@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential: The final answer for part (1) must be 1 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct time value",
+    "description": "Essential: The final answer for part (2) must be 2√3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity value",
+    "description": "Essential: The final answer for part (3) must be 2√3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Net force analysis",
+    "description": "Important: The solution must correctly resolve gravity along the incline and apply Newton's second law (mg sinθ - F_f = ma).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: The solution must correctly apply the kinematic equations for constant acceleration (L = ½at² and v = at) to find time and final velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric ratio identification",
+    "description": "Important: The solution must correctly identify sinθ = h/L to find the component of gravity down the slope.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be presented with correct units.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: Penalize if the friction force is incorrectly added to the gravitational component (mg sinθ + F_f = ma).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect kinematic equation",
+    "description": "Pitfall: Penalize if an incorrect kinematic equation (e.g., using v² = u² + 2aL with u=0 to find time) is used, leading to an algebraic error.",
+    "weight": -1
+  }
+]

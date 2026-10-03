@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Energy Levels",
+    "description": "Essential Criteria: The student must correctly identify and express the three distinct energy levels after perturbation in terms of A and B.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Forms",
+    "description": "Important Criteria: The student should provide the correct forms of the wave functions associated with each energy level.",
+    "weight": 4
+  },
+  {
+    "title": "Expectation Value Calculation",
+    "description": "Essential Criteria: The student must compute the expectation value of L_z for each of the three levels and state it correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Shift Derivation",
+    "description": "Important Criteria: The student should derive the energy shifts using perturbation theory and show the steps clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect signs or factors in the energy level expressions.",
+    "weight": -2
+  }
+]

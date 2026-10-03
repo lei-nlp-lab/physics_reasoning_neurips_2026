@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ionization Energy Expression",
+    "description": "Essential Criteria: Provide the correct expression for the energy needed to ionize a hydrogen atom.",
+    "weight": 5
+  },
+  {
+    "title": "Frequency Difference Reasoning",
+    "description": "Important Criteria: Explain the reasoning behind the frequency difference between hydrogen and deuterium.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Moment Expression",
+    "description": "Essential Criteria: Present the correct expression for the magnetic moment of the electron.",
+    "weight": 5
+  },
+  {
+    "title": "Mass Spread Relation",
+    "description": "Essential Criteria: State the relationship between the spread in measurement of the pi zero mass and its lifetime.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Essential Criteria: Derive the expression for the magnetic field with a specified excess of free protons.",
+    "weight": 5
+  },
+  {
+    "title": "Fine Structure Splitting",
+    "description": "Essential Criteria: Provide the correct expression for the fine structure splitting in the n = 2 state of hydrogen.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional Criteria: Verify that all expressions maintain consistent units throughout.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in expressions related to energy and magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Constants",
+    "description": "Pitfall Criteria: Ensure that all necessary physical constants are included in the final expressions.",
+    "weight": -2
+  }
+]

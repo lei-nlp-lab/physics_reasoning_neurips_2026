@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer of 10^9 ton/cm^3.",
+    "weight": 5
+  },
+  {
+    "title": "Volume Calculation",
+    "description": "Important Criteria: The student correctly calculates the volume per nucleon as approximately 10^-39 cm^3.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Calculation",
+    "description": "Important Criteria: The student accurately determines the mass of a nucleon as approximately 10^-30 ton.",
+    "weight": 4
+  },
+  {
+    "title": "Density Formula",
+    "description": "Essential Criteria: The student uses the correct formula for density, rho = mass/volume.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that the units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student avoids common errors such as sign mistakes or incorrect unit conversions.",
+    "weight": -2
+  }
+]

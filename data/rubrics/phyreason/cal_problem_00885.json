@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) is correctly derived as E = m v₀² / (2 q h).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point a",
+    "description": "Essential: The final answer for part (2) magnitude is correctly derived as v = √2 v₀.",
+    "weight": 5
+  },
+  {
+    "title": "Direction at point a",
+    "description": "Essential: The final answer for part (2) direction is correctly stated as 45° to the positive x-axis.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum magnetic field",
+    "description": "Essential: The final answer for part (3) is correctly derived as B_min = 2 m v₀ / (q L).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: Correctly applies kinematics (horizontal motion: 2h = v₀t, vertical motion: h = ½ a t²) to relate displacement, time, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Force and acceleration relation",
+    "description": "Important: Correctly relates the electric force to acceleration using Newton's second law: qE = ma.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: Correctly identifies that for minimum B, the particle's circular arc in the magnetic field is tangent to side bc, leading to a radius R = L / √2.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force as centripetal force",
+    "description": "Important: Correctly applies the magnetic force law to set qvB = m v² / R for circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns the sign/direction of the electric field, acceleration, or velocity components (e.g., negative for vertical motion in the first quadrant).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or formula misuse",
+    "description": "Pitfall: Misapplies kinematic formulas (e.g., uses v² = u² + 2as incorrectly for horizontal motion) or confuses radius geometry.",
+    "weight": -1
+  }
+]

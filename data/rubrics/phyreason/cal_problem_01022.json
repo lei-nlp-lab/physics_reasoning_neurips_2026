@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final distance for 227°C",
+    "description": "Essential: Correctly calculates the piston distance as (5/3)L or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Final pressure for 527°C",
+    "description": "Essential: Correctly calculates the final gas pressure as 1.33e5 Pa or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Identify initial isobaric process",
+    "description": "Important: Recognizes the process is isobaric until the piston hits the left end.",
+    "weight": 4
+  },
+  {
+    "title": "Determine limiting temperature",
+    "description": "Important: Calculates the temperature at which the piston reaches the left end (e.g., 327°C or 600 K).",
+    "weight": 3
+  },
+  {
+    "title": "Apply Gay-Lussac's law",
+    "description": "Important: Correctly applies V/T = constant for the isobaric stage to find volume or distance.",
+    "weight": 4
+  },
+  {
+    "title": "Apply combined gas law",
+    "description": "Important: For the constant-volume stage after the piston stops, applies P/T = constant or the combined gas law.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Uses Kelvin for all temperatures and consistent units for pressure and volume.",
+    "weight": 1
+  },
+  {
+    "title": "Misapply gas law to stopped piston",
+    "description": "Pitfall: Incorrectly assumes isobaric process for the 527°C case after the piston is fixed.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall: Makes calculation errors in temperature conversion, ratios, or final numerical values.",
+    "weight": -1
+  }
+]

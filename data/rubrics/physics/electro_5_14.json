@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the net radial force on the electron.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Density",
+    "description": "Important Criteria: The student should correctly identify and express the charge density of the electron beam as rho = -en.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz Factor",
+    "description": "Important Criteria: The student must correctly define the Lorentz factor gamma = 1/sqrt(1 - v^2/c^2).",
+    "weight": 4
+  },
+  {
+    "title": "Force Components",
+    "description": "Optional Criteria: The student may detail the contributions of electric and magnetic forces to the net radial force.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units of the final expression for force are consistent with Newtons.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expression for the radial force.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as 2 and pi, are included in the final answer.",
+    "weight": -2
+  }
+]

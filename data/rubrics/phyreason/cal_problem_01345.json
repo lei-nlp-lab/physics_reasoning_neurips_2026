@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Distance AB correct",
+    "description": "Essential: The final numerical answer for the distance between A and B is 4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Work done correct",
+    "description": "Essential: The final numerical answer for the work done by force F over 5 s is 24 J.",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration analysis",
+    "description": "Important: The solution correctly identifies and calculates the constant acceleration during the 3–5 s interval using Newton's second law (F - μmg = ma).",
+    "weight": 4
+  },
+  {
+    "title": "Applies kinematic equations",
+    "description": "Important: The solution correctly uses kinematic equations for constant acceleration to relate distance, time, and velocity (e.g., s = 1/2 a t^2 for the 3–5 s interval).",
+    "weight": 3
+  },
+  {
+    "title": "Applies work-energy theorem",
+    "description": "Important: The solution correctly sets up the work-energy theorem for the full 5 s cycle, relating the work done by F, the total work done by friction, and the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Considers total friction work",
+    "description": "Important: The solution accounts for the fact that friction does work over the total round-trip distance (2s) in the energy balance.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction force",
+    "description": "Pitfall: Incorrectly assigns the direction or sign of the friction force in Newton's second law or the work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Final answers are presented without proper units (m, J) or with incorrect unit conversions.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative energy approach",
+    "description": "Optional: The solution uses an alternative method, such as calculating the area under the F-t graph to find impulse and then using kinematics.",
+    "weight": 1
+  }
+]

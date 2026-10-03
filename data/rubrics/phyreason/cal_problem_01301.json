@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct time expression",
+    "description": "Essential Criteria: The response must derive or state the correct expression for flight time, t = (2v₀ tanθ)/g.",
+    "weight": 5
+  },
+  {
+    "title": "Correct time value",
+    "description": "Essential Criteria: The response must calculate the numerical flight time as 3 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance expression",
+    "description": "Essential Criteria: The response must derive or state the correct expression for the distance s, such as s = (gt²)/(2 sinθ) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance value",
+    "description": "Essential Criteria: The response must calculate the numerical distance s as 75 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equations setup",
+    "description": "Important Criteria: The response must correctly apply the horizontal (x = v₀t) and vertical (y = ½gt²) displacement equations for projectile motion.",
+    "weight": 4
+  },
+  {
+    "title": "Slope geometry relation",
+    "description": "Important Criteria: The response must relate the vertical and horizontal displacements to the slope distance using the incline angle, such as y/x = tanθ or s = y/sinθ.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric substitution",
+    "description": "Optional Criteria: The response correctly substitutes the given values for sin37° and cos37° or uses tan37° = 0.6/0.8.",
+    "weight": 2
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional Criteria: The final answers for time and distance include the correct units (s and m).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in vertical motion",
+    "description": "Pitfall Criteria: Using an incorrect sign for vertical acceleration (e.g., -g without proper coordinate setup) leading to a wrong equation.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing slope distance",
+    "description": "Pitfall Criteria: Mistaking the straight-line distance s for the horizontal range x or the vertical drop y.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must correctly derive and present the equation i hbar f'' - (f')^2 + p^2 = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Power Series Terms",
+    "description": "Important Criteria: The student should correctly identify and write the equations for (f_0')^2 = p^2, i f_0'' = 2 f_0' f_1', and i f_1'' = 2 f_0' f_2' + (f_1')^2.",
+    "weight": 4
+  },
+  {
+    "title": "Solution for f_0",
+    "description": "Essential Criteria: The student must correctly solve for f_0(x) as f_0 = ± ∫ p(x) dx + const.",
+    "weight": 5
+  },
+  {
+    "title": "Solution for f_1",
+    "description": "Essential Criteria: The student must correctly solve for f_1(x) as f_1 = (i/2) ln p + const.",
+    "weight": 5
+  },
+  {
+    "title": "Final WKB Result",
+    "description": "Essential Criteria: The student must correctly express the final wave function as ψ ≈ C/√p exp(± (i/hbar) ∫ p dx).",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of the Schrödinger equation.",
+    "weight": -2
+  },
+  {
+    "title": "Series Expansion",
+    "description": "Important Criteria: The student should correctly apply the power series expansion and collect like powers of hbar.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units throughout the derivation.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum initial kinetic energy",
+    "description": "Essential: States that the maximum initial kinetic energy is given by the photoelectric equation: E_km = hν - W₀.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity range at O",
+    "description": "Essential: Correctly states the lower and upper bounds for v₀: sqrt(2eU/m) ≤ v₀ ≤ sqrt(2(hν + eU - W₀)/m).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity and angle from plate M",
+    "description": "Essential: Correctly calculates v_M = sqrt(eU/m) and the angle β = 30° for part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance in Region I",
+    "description": "Important: Applies the velocity selector condition (eE = ev₀B₁) to relate E, B₁, and v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for acceleration",
+    "description": "Important: Uses the work-energy theorem (½mv₀² - ½mv_M² = eU) to relate velocities before and after acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic geometry in Region II",
+    "description": "Important: Derives the geometric constraint from circular motion in Region II: (mv₀ sin α)/(eB₂) = a/2.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum E and B₂ derivation",
+    "description": "Important: For part (4), correctly maximizes E and B₂ using the upper bound for v₀ and the condition sin α = 1.",
+    "weight": 4
+  },
+  {
+    "title": "Y-velocity kinetic energy limit",
+    "description": "Optional: Recognizes that the y-component of initial kinetic energy cannot exceed E_km: ½m(v₀ sin α)² ≤ hν - W₀.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of forces in the velocity selector or the sign of the electron charge in Lorentz force.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect trigonometric relation",
+    "description": "Pitfall: Fails to correctly relate the emission angle β, the angle α at O, and the velocities v_M and v₀ via v_M sin β = v₀ sin α.",
+    "weight": -2
+  }
+]

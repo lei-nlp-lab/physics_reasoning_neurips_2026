@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Gravitational acceleration expression",
+    "description": "Essential: Correctly states g = 2h/t^2 from free-fall kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Moon mass expression",
+    "description": "Essential: Correctly derives M = (gR^2)/G = (2hR^2)/(G t^2) using universal gravitation.",
+    "weight": 5
+  },
+  {
+    "title": "First cosmic velocity expression",
+    "description": "Essential: Correctly derives v1 = sqrt(gR) = sqrt(2hR)/t from centripetal force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Apply free-fall kinematics",
+    "description": "Important: Uses h = (1/2)gt^2 for the descent from rest.",
+    "weight": 4
+  },
+  {
+    "title": "Apply universal gravitation law",
+    "description": "Important: Relates surface g to Moon's mass via mg = GMm/R^2.",
+    "weight": 4
+  },
+  {
+    "title": "Apply centripetal force condition",
+    "description": "Important: Equates gravitational force to mv^2/R for orbital motion at the surface.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows dimensional analysis confirming units for g, M, and v1 are correct.",
+    "weight": 1
+  },
+  {
+    "title": "Misuse of free-fall formula",
+    "description": "Pitfall: Uses an incorrect kinematic equation (e.g., h = gt^2) for the descent.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Makes algebraic mistakes in solving for g, M, or v1 from the correct equations.",
+    "weight": -1
+  }
+]

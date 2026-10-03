@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity entering cylinder 1",
+    "description": "Essential: Student must correctly calculate v₁ = √(2Ue/m) using work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Motion analysis to cylinder 2",
+    "description": "Important: Student must describe four distinct phases: acceleration in gap 0→1, uniform motion in cylinder 1, acceleration in gap 1→2, uniform motion in cylinder 2.",
+    "weight": 4
+  },
+  {
+    "title": "Cylinder length formula",
+    "description": "Essential: Student must derive Lₙ = (T/2)√(2nUe/m) by combining vₙ = √(2nUe/m) with half-period travel time.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed with gap time",
+    "description": "Important: Student must recognize that maximum speed occurs when cumulative delay equals T/2, preventing further acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration in gaps",
+    "description": "Important: Student must calculate acceleration a = Ue/(dm) from electric force and Newton's second law.",
+    "weight": 3
+  },
+  {
+    "title": "Gap time consideration",
+    "description": "Optional: Student may discuss how finite gap transit time causes entry delays into cylinders.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Student incorrectly handles electron charge sign in potential energy change (Ue not -Ue).",
+    "weight": -2
+  },
+  {
+    "title": "Period timing confusion",
+    "description": "Pitfall: Student uses full period T instead of half-period T/2 for cylinder transit time.",
+    "weight": -1
+  },
+  {
+    "title": "Velocity formula misapplication",
+    "description": "Pitfall: Student uses kinematics v = at instead of work-energy for vₙ, ignoring cumulative energy gain.",
+    "weight": -2
+  }
+]

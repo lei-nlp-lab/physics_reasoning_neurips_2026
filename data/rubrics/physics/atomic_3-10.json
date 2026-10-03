@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student provides the correct lifetime of the muon as 10^-6 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Precision of Answer",
+    "description": "Important Criteria: The student acknowledges the more precise value of tau_mu as 2.2 x 10^-6 seconds.",
+    "weight": 3
+  },
+  {
+    "title": "Understanding of Lifetime",
+    "description": "Important Criteria: The student demonstrates an understanding of what the lifetime of a muon represents in terms of particle physics.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that the units of seconds are consistent throughout the response.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to recognize that the lifetime is not 10^2 or 10^9 seconds, which are incorrect.",
+    "weight": -2
+  }
+]

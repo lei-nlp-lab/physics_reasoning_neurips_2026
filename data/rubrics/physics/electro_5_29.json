@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maxwell's Equations",
+    "description": "Essential Criteria - The student must correctly show that the magnetic field satisfies both divergence and curl equations of Maxwell's equations.",
+    "weight": 5
+  },
+  {
+    "title": "Field Lines Sketch",
+    "description": "Important Criteria - The student should accurately sketch the magnetic field lines and indicate the placement of filamentary currents.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Flux Calculation",
+    "description": "Essential Criteria - The student must calculate the magnetic flux per unit length correctly, providing the final expression.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Potential Calculation",
+    "description": "Essential Criteria - The student must derive the correct expression for the electric potential measured by the observer moving with velocity v.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field from Varying B",
+    "description": "Essential Criteria - The student must derive the correct expression for the electric field due to a slowly varying magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Field Lines Equation",
+    "description": "Important Criteria - The student should derive the correct differential equation for the field lines.",
+    "weight": 3
+  },
+  {
+    "title": "Flux Area Element",
+    "description": "Optional Criteria - The student should correctly identify and describe the area element used in the magnetic flux calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - The student must avoid common sign mistakes in the calculations, especially in the electric potential and electric field derivations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

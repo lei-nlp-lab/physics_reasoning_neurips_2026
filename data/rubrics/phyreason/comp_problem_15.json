@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct expression for x1",
+    "description": "Essential: Student must derive and state the horizontal distance as x1(θ0) = 2z0 cot(θ0), identifying A=2z0 and b=1.",
+    "weight": 5
+  },
+  {
+    "title": "Application of Snell's law",
+    "description": "Important: Student must correctly apply Snell's law (or equivalent ray equation) to deduce the circular ray path and relate the radius to z0 and θ0.",
+    "weight": 4
+  },
+  {
+    "title": "Energy density derivation",
+    "description": "Essential: Student must derive and state the final energy density function ε(x) = 2Ez0 / (π(4z0² + x²)).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation argument",
+    "description": "Important: Student must use energy conservation, relating total energy E to the angular distribution and the derivative dθ0/dx.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum distance x_max",
+    "description": "Essential: Student must derive and state the final expression x_max = 2z0 cos²(θ0) / δθ0.",
+    "weight": 5
+  },
+  {
+    "title": "Overlap condition analysis",
+    "description": "Important: Student must correctly set up the condition for the furthest point not reached, using the difference in x1 for nearby angles and the number of reflections.",
+    "weight": 4
+  },
+  {
+    "title": "Small-angle approximation use",
+    "description": "Optional: Student may use a linear approximation (dx1/dθ0) for the small angular range δθ0.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or derivative error",
+    "description": "Pitfall: Student makes a sign error in the derivative dx1/dθ0 or misinterprets the absolute value in the energy density or overlap calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect ray geometry",
+    "description": "Pitfall: Student incorrectly assumes a non-circular path or misidentifies the radius of curvature, leading to an incorrect x1.",
+    "weight": -2
+  }
+]

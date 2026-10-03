@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Magnetic radius formula",
+    "description": "Essential: Correctly states the radius formula R = mv/(qB) with the correct velocity at point A.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point A",
+    "description": "Important: Applies the geometry of the entry angle (60°) to relate the velocity at A (v) to the initial velocity v0, finding v = 2v0 or equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Final radius answer",
+    "description": "Essential: Derives and presents the final numerical answer for part (1): R = 2mv₀/(qB).",
+    "weight": 5
+  },
+  {
+    "title": "OA distance calculation",
+    "description": "Important: Correctly calculates the horizontal distance OA using kinematics in region I, involving acceleration a = qE/m and time t₁ derived from the vertical velocity component.",
+    "weight": 4
+  },
+  {
+    "title": "AP distance geometry",
+    "description": "Important: Uses the geometry of the circular arc in region II (60° chord/segment) to find the horizontal distance AP, relating it to the radius R.",
+    "weight": 4
+  },
+  {
+    "title": "Final OP width answer",
+    "description": "Essential: Correctly sums OA and AP to give the final expression for part (2): x_OP = (√3 m v₀/q)(v₀/E + 1/B).",
+    "weight": 5
+  },
+  {
+    "title": "Time in each region",
+    "description": "Important: Correctly calculates the time spent in region I (t₁), region II (t₂ = (πm)/(3qB) for 60° arc), and region III (t₃ until v=0).",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration in region III",
+    "description": "Important: Identifies the correct acceleration in region III as a' = qE/(2m), opposing the horizontal motion.",
+    "weight": 3
+  },
+  {
+    "title": "Final total time answer",
+    "description": "Essential: Correctly sums t₁, t₂, and t₃ to give the final expression for part (3): t = ((√3+4)mv₀)/(qE) + (πm)/(3qB).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses an incorrect sign for the charge (q) in force equations, or misidentifies the direction of acceleration/deceleration in any region.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Misinterprets the 60° entry angle (e.g., using sine instead of cosine for the velocity relation, or using the wrong angular fraction for the arc time).",
+    "weight": -2
+  }
+]

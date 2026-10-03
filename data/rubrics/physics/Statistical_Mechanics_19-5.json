@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The final expression for energy U must be correctly stated as a function of temperature and other parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Final Heat Capacity Expression",
+    "description": "Essential Criteria: The final expression for heat capacity C_V must be correctly stated as a function of temperature and other parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Final Entropy Expression",
+    "description": "Essential Criteria: The final expression for entropy sigma must be correctly stated as a function of temperature and other parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Density of States Derivation",
+    "description": "Important Criteria: The derivation of the density of states D(ε) must be correctly shown, including the integration process.",
+    "weight": 4
+  },
+  {
+    "title": "Chemical Potential Justification",
+    "description": "Important Criteria: The justification for setting the chemical potential μ = 0 in the degenerate case must be clearly explained.",
+    "weight": 3
+  },
+  {
+    "title": "Integral Setup",
+    "description": "Important Criteria: The integral for calculating U must be correctly set up in dimensionless form.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All expressions must maintain consistent units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or missing factors in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussion of limiting cases or behavior as temperature approaches certain values can enhance the response.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for m/M -> 0",
+    "description": "Essential Criteria: The student must correctly identify the final velocity v_f = -sqrt(v_0^2 + 4gr) in the limit m/M -> 0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for M/m -> 0",
+    "description": "Essential Criteria: The student must correctly identify the final velocity v_f = v_0 in the limit M/m -> 0.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should apply the conservation of energy principle correctly between the top and bottom of the hoop.",
+    "weight": 4
+  },
+  {
+    "title": "Lagrangian Formulation",
+    "description": "Important Criteria: The student must correctly derive the Lagrangian and apply Lagrange's equations to find the relationship between velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Expression",
+    "description": "Important Criteria: The student should correctly express the velocity of the mass at the bottom of the hoop in terms of the variables involved.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when deriving the final expressions for velocities.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss the physical implications of the limiting cases for additional clarity.",
+    "weight": 2
+  }
+]

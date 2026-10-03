@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Term Symbols",
+    "description": "Essential Criteria: The student must provide the correct term symbols for all ten elements listed.",
+    "weight": 5
+  },
+  {
+    "title": "Principle Explanation",
+    "description": "Important Criteria: The student should explain the principles used to determine the term symbols, including the concepts of spin and orbital angular momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Aufbau Principle",
+    "description": "Important Criteria: The student must correctly apply the Aufbau principle in determining the electron configurations for each element.",
+    "weight": 3
+  },
+  {
+    "title": "Symmetry Considerations",
+    "description": "Important Criteria: The student should address the symmetry of the wave functions and how it affects the selection of term symbols.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect assignment of total spin or orbital angular momentum.",
+    "weight": -2
+  }
+]

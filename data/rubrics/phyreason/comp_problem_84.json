@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct molar heat capacity formula",
+    "description": "Essential: Student must derive or state C = 4R (or equivalent expression) for the given process.",
+    "weight": 5
+  },
+  {
+    "title": "Correct numerical heat capacity value",
+    "description": "Essential: Student must correctly compute the numerical value, approximately 33.2 J/(mol·K), with proper units.",
+    "weight": 5
+  },
+  {
+    "title": "Correct oscillation frequency formula",
+    "description": "Essential: Student must derive or state ω = sqrt(8σ/(ρ h r²)) for the small radial oscillations.",
+    "weight": 5
+  },
+  {
+    "title": "Correct numerical frequency value",
+    "description": "Essential: Student must correctly compute ω ≈ 108 s⁻¹, with proper units.",
+    "weight": 5
+  },
+  {
+    "title": "Application of Laplace pressure",
+    "description": "Important: Student correctly uses p = 4σ/r (or Δp = 2σ/r applied twice) for the gas pressure inside the bubble.",
+    "weight": 4
+  },
+  {
+    "title": "Derivation linking dV/dT",
+    "description": "Important: Student relates p, V, and T via the equilibrium condition to find dV/dT = 3V/(2T) for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Equation of motion setup",
+    "description": "Important: For part (2), student applies Newton's second law to a film patch, leading to the restoring force proportional to displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates unit analysis for final formulas or numerical answers, confirming dimensional correctness.",
+    "weight": 2
+  },
+  {
+    "title": "Misapplication of surface tension pressure",
+    "description": "Pitfall: Using Δp = 2σ/r instead of p = 4σ/r for the gas pressure inside the bubble (for a double-layer film).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in restoring force",
+    "description": "Pitfall: Incorrect sign in the equation of motion, failing to show harmonic oscillation (e.g., missing negative sign for force).",
+    "weight": -1
+  }
+]

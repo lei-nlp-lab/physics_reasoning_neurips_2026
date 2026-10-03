@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Momentum Answers",
+    "description": "Essential Criteria - Provide correct expressions for the maximum and minimum momentum of the muon in terms of m_mu, m_pi, and p.",
+    "weight": 5
+  },
+  {
+    "title": "Muon Helicity",
+    "description": "Important Criteria - Correctly determine and explain the helicity of the muon based on the helicity of the neutrino.",
+    "weight": 4
+  },
+  {
+    "title": "Positron Helicity",
+    "description": "Important Criteria - Accurately identify the helicity of the positron and justify the reasoning behind it.",
+    "weight": 4
+  },
+  {
+    "title": "Lepton Number Conservation",
+    "description": "Essential Criteria - Clearly state the conservation of lepton numbers and their association with the neutrinos and leptons involved.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Rate Explanation",
+    "description": "Optional Criteria - Provide a reasonable explanation for the difference in decay rates between muons and electrons.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in the momentum expressions or helicity assignments.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria - Ensure that all quantities are expressed with consistent units throughout the calculations.",
+    "weight": -1
+  }
+]

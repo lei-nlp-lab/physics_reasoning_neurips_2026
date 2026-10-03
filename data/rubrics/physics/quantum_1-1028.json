@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct values of A and B that maximize and minimize the average value of x.",
+    "weight": 5
+  },
+  {
+    "title": "Normalization Condition",
+    "description": "Important Criteria: State and apply the normalization condition A^2 + B^2 = 1 correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Average Value Calculation",
+    "description": "Important Criteria: Derive the expression for the average value of x correctly using the wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Extremum Analysis",
+    "description": "Important Criteria: Identify the conditions for maximizing and minimizing the average value of x.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Avoid common errors related to signs in the expressions for A and B.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all terms in the equations are dimensionally consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discuss any limiting cases or special scenarios for A and B.",
+    "weight": 1
+  }
+]

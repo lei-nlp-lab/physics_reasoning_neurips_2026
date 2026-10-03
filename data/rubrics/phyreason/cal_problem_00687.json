@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed at Q",
+    "description": "Essential: Correctly calculates the ball's speed at Q using energy conservation (mgR = ½mv²).",
+    "weight": 5
+  },
+  {
+    "title": "Plate voltage",
+    "description": "Important: Recognizes that for straight-line constant velocity, electric force equals weight (qU/d = mg).",
+    "weight": 4
+  },
+  {
+    "title": "Circuit current",
+    "description": "Important: Correctly finds the current through R0 using Ohm's law with the plate voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Motor terminal voltage",
+    "description": "Important: Applies Kirchhoff's loop rule to find voltage across motor (UM = E - U - Ir).",
+    "weight": 3
+  },
+  {
+    "title": "Mechanical power output",
+    "description": "Essential: Correctly computes motor's mechanical power as electrical input minus Joule heating (IUM - I²rM).",
+    "weight": 5
+  },
+  {
+    "title": "Sign/unit errors",
+    "description": "Pitfall: Makes sign errors in loop equation or uses incorrect units for charge/mass.",
+    "weight": -2
+  },
+  {
+    "title": "Force balance condition",
+    "description": "Pitfall: Fails to equate electric and gravitational forces for straight-line constant velocity.",
+    "weight": -1
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Optional: Explicitly identifies parallel circuit relationship between plate voltage and R0 voltage.",
+    "weight": 1
+  }
+]

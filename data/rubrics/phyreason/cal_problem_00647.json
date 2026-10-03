@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Charge type identification",
+    "description": "Essential: Student must correctly identify that both fixed spheres at B and C carry positive charge.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry recognition",
+    "description": "Important: Student must recognize the right triangle ABC and correctly apply the Pythagorean theorem or trigonometric relations (e.g., sin∠ABC = AC/BC = 1/2, ∠ABC = 30°).",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Student must resolve forces on sphere A into components (e.g., along directions perpendicular to AB and AC) and set up equilibrium equations using Coulomb's law and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Final charge magnitudes",
+    "description": "Essential: Student must correctly solve for the charges, obtaining Q_B = 3mgd²/(8kq) and Q_C = √3 mgd²/(8kq).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns negative charges to B or C, or misaligns force directions in the equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric mistake",
+    "description": "Pitfall: Student makes an error in the angles (e.g., misidentifying 30° or 60°) or in the corresponding sine/cosine values in the force components.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student explicitly checks or states that the final expressions have correct units for charge.",
+    "weight": 1
+  }
+]

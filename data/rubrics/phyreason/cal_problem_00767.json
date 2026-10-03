@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Equilibrium deformation",
+    "description": "Essential: Correctly calculates the spring compression at equilibrium using Δx₀ = (m_A + m_B)g/k.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium height",
+    "description": "Essential: Correctly computes the final height from the ground as h = l₀ - Δx₀.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum acceleration derivation",
+    "description": "Important: Applies Newton's second law to the combined system at the lowest point to find a_max = kA/(m_A + m_B).",
+    "weight": 4
+  },
+  {
+    "title": "Maximum normal force",
+    "description": "Important: Correctly applies Newton's second law to block B alone to find N_max = m_B(g + a_max).",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all masses to kg and lengths to meters for consistent SI unit calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses incorrect sign for acceleration at the lowest point (e.g., g - a_max instead of g + a_max).",
+    "weight": -2
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall: Uses only the mass of one object instead of the combined mass when calculating equilibrium compression or acceleration.",
+    "weight": -2
+  }
+]

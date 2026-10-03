@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Maximum power condition",
+    "description": "Essential: States that power on R₀ is maximized when R₀ equals the equivalent resistance of the rest of the circuit (R+r = 100Ω).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum power value",
+    "description": "Essential: Correctly calculates maximum thermal power on R₀ as 1/16 W or 0.0625 W.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum sum power",
+    "description": "Essential: Correctly calculates minimum sum of thermal power on r and R as 0.01 W.",
+    "weight": 5
+  },
+  {
+    "title": "R power condition",
+    "description": "Essential: States that power on R is maximized when R₀ = 0Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum R power",
+    "description": "Essential: Correctly calculates maximum power on R as 0.225 W.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: Applies Ohm's law correctly to find current as I = E/(R₀+R+r).",
+    "weight": 4
+  },
+  {
+    "title": "Power expressions",
+    "description": "Important: Derives correct power expressions using P=I²R for each resistor.",
+    "weight": 4
+  },
+  {
+    "title": "Maximization reasoning",
+    "description": "Important: Uses mathematical methods (derivative or completing square) to find extremum conditions.",
+    "weight": 3
+  },
+  {
+    "title": "Units consistency",
+    "description": "Optional: Maintains consistent units (Ω, V, W) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in current",
+    "description": "Pitfall: Uses wrong sign convention for current direction or power dissipation.",
+    "weight": -1
+  },
+  {
+    "title": "Maximum power misconception",
+    "description": "Pitfall: Assumes maximum power transfer theorem applies to R instead of R₀ in part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Makes algebraic mistakes when simplifying power expressions or derivatives.",
+    "weight": -1
+  }
+]

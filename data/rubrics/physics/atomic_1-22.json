@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct order of magnitude for the Doppler width, approximately 1.44 x 10^-2 Å.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Important Criteria: The student should correctly apply the equipartition of energy principle to relate temperature and velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Important Criteria: The student must compute the average velocity using the correct mass and temperature values.",
+    "weight": 4
+  },
+  {
+    "title": "Doppler Width Formula",
+    "description": "Important Criteria: The student should use the correct formula for calculating the Doppler width based on the velocity and wavelength.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the calculations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Collision time",
+    "description": "Essential: The response must correctly compute the time for A to reach B, using kinematics or energy to find initial speed and motion under constant acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Landing distance separation",
+    "description": "Essential: The response must correctly compute the horizontal distance between the landing points of A and B after the collision and fall.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision velocity",
+    "description": "Important: The response must apply work-energy or kinematics to determine the speed of A just before collision.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision velocities",
+    "description": "Important: The response must correctly analyze the elastic collision (energy and momentum conserved) to find velocities of A and B immediately after collision.",
+    "weight": 4
+  },
+  {
+    "title": "Time of flight",
+    "description": "Important: The response must correctly compute the free-fall time from the table height for both balls.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal displacements",
+    "description": "Important: The response must correctly compute the horizontal displacement of each ball during fall, accounting for post-collision motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns signs to velocities, accelerations, or displacements, leading to wrong relative positions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award if the student explicitly checks or converts units consistently throughout the calculation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify the correct answer as (b).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Lamb Shift",
+    "description": "Important Criteria: The student should explain the significance of the Lamb shift in relation to energy levels.",
+    "weight": 3
+  },
+  {
+    "title": "Cause of Lamb Shift",
+    "description": "Important Criteria: The student should mention vacuum fluctuations of the electromagnetic field as the cause of the Lamb shift.",
+    "weight": 4
+  },
+  {
+    "title": "Mention of Thomas Precession",
+    "description": "Optional Criteria: The student may discuss Thomas precession and its relevance to the Lamb shift.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid incorrectly stating that the Lamb shift is caused by Thomas precession.",
+    "weight": -2
+  }
+]

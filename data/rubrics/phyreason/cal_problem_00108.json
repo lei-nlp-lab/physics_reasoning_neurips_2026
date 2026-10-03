@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field direction",
+    "description": "Essential: Student must state that the magnetic field points along the negative z-axis (into the page/screen).",
+    "weight": 5
+  },
+  {
+    "title": "Stabilization voltage U₀",
+    "description": "Essential: Final answer for part (2) must be U₀ = ρ₀ρgl/(2B).",
+    "weight": 5
+  },
+  {
+    "title": "Condition for continuous rise",
+    "description": "Essential: Final answer for part (3) must be U ≥ ρ₀ρgl/B.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student must equate the upward Ampere/Lorentz force (BIl) to the weight of the raised liquid column.",
+    "weight": 4
+  },
+  {
+    "title": "Resistance calculation",
+    "description": "Important: Student must correctly express the liquid resistance as R = ρl/(2hb) when height doubles.",
+    "weight": 3
+  },
+  {
+    "title": "General height relationship",
+    "description": "Important: Student must derive or apply U = [(n-1)/n]·(ρρ₀gl/B) for height factor n.",
+    "weight": 3
+  },
+  {
+    "title": "Limit analysis",
+    "description": "Optional: Student may take the limit as n→∞ to obtain the threshold voltage from the general expression.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect magnetic field direction (e.g., positive z) or wrong force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance misuse",
+    "description": "Pitfall: Using incorrect geometry for resistance (e.g., R = ρl/hb instead of ρl/(2hb) for doubled height).",
+    "weight": -1
+  }
+]

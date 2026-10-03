@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria - The correct expression for beta must be provided as beta = (E - epsilon) / (E + epsilon).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria - The minimum energy E must be calculated correctly as E = m_e^2 / epsilon.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria - The student should demonstrate understanding of momentum conservation in the photon collision.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria - The student should apply energy conservation principles correctly in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Calculation",
+    "description": "Important Criteria - The student must correctly set up the invariant mass equation for the system.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in the momentum and energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - Ensure that all units are consistent, particularly when calculating energies in eV and GeV.",
+    "weight": -1
+  },
+  {
+    "title": "Threshold Energy Understanding",
+    "description": "Optional Criteria - The student could explain the significance of threshold energy for particle production.",
+    "weight": 2
+  }
+]

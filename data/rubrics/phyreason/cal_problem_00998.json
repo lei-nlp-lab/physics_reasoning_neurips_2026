@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct initial gas volume",
+    "description": "Essential: Student correctly calculates the initial gas volume in the bottle as the bottle volume minus the liquid volume (0.9 mL - 0.5 mL = 0.4 mL).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Boyle's Law (first injection)",
+    "description": "Important: Student applies Boyle's Law (pV = constant) to the isothermal mixing of the initial bottle gas and the first syringe gas, using the correct combined initial volume.",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure after first injection",
+    "description": "Essential: Student provides the correct final pressure for part (1): 1.1 × 10^5 Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Boyle's Law (second injection)",
+    "description": "Important: Student correctly models the second injection by applying Boyle's Law to the gas already in the bottle (at pressure p1) mixing with a new syringe volume at atmospheric pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure after second injection",
+    "description": "Essential: Student provides the correct final pressure for part (2): 1.2 × 10^5 Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student demonstrates consistent use of volume units (mL or cm³) and pressure units (Pa) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplication of gas laws",
+    "description": "Pitfall: Student incorrectly assumes pressures add directly or misapplies the ideal gas law by not accounting for volume changes during gas transfer.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect initial state",
+    "description": "Pitfall: Student uses the full bottle volume (0.9 mL) instead of the gas volume (0.4 mL) as the initial volume for Boyle's Law.",
+    "weight": -2
+  }
+]

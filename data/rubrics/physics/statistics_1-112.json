@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the minimum work must be correctly calculated and presented in joules.",
+    "weight": 5
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The student must correctly compute the work done to lower the temperature of the water and the work done to freeze it.",
+    "weight": 4
+  },
+  {
+    "title": "Thermodynamic Equations",
+    "description": "Essential Criteria: The student should use appropriate thermodynamic equations for calculating work and heat transfer.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Change",
+    "description": "Important Criteria: The student must correctly identify the initial and final temperatures in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations of work.",
+    "weight": -2
+  },
+  {
+    "title": "Heat Capacity Usage",
+    "description": "Important Criteria: The student must correctly apply the specific heat capacity value in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Latent Heat Application",
+    "description": "Important Criteria: The student must correctly apply the latent heat of fusion in the work calculation for freezing.",
+    "weight": 4
+  }
+]

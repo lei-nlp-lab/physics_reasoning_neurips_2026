@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy change, including terms for M_J, omega_l, and the summation over M_L.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Hamiltonian",
+    "description": "Important Criteria: The student should correctly identify the Hamiltonian before and after the introduction of the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Quantum Numbers",
+    "description": "Important Criteria: The response must appropriately incorporate the quantum numbers J, L, S, and J_z in the calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Change Components",
+    "description": "Important Criteria: The student should clearly separate the contributions to the energy change from both the J_z and S_z terms.",
+    "weight": 3
+  },
+  {
+    "title": "Summation Over M_L",
+    "description": "Optional Criteria: The student may include a detailed explanation of the summation over M_L and its significance in the energy change.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign errors in the expression for the energy change, particularly in the terms involving M_J and M_L.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The response must maintain consistent units throughout the derivation and final expression.",
+    "weight": -1
+  }
+]

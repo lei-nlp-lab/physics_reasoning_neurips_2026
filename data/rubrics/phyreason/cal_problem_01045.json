@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: Correctly calculates wave speed using v = λ/T with values from graphs.",
+    "weight": 5
+  },
+  {
+    "title": "Propagation distance",
+    "description": "Essential: Correctly computes distance using x = vt with consistent time.",
+    "weight": 5
+  },
+  {
+    "title": "Direction determination",
+    "description": "Essential: Correctly identifies wave propagation direction as left/negative x-axis.",
+    "weight": 5
+  },
+  {
+    "title": "Graph reading accuracy",
+    "description": "Important: Correctly extracts wavelength (0.8 m) from Figure A and period (0.6 s) from Figure B.",
+    "weight": 4
+  },
+  {
+    "title": "Particle-wave relationship",
+    "description": "Important: Uses particle P's vibration pattern to determine wave direction via phase analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations and final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect graph interpretation",
+    "description": "Pitfall: Confuses wavelength with amplitude or misreads period from vibration graph.",
+    "weight": -2
+  },
+  {
+    "title": "Direction reasoning error",
+    "description": "Pitfall: Determines wrong propagation direction by misapplying particle motion rules.",
+    "weight": -2
+  }
+]

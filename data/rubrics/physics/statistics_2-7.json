@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Entropy Definition",
+    "description": "Essential Criteria: Provide Boltzmann's definition of entropy as S = k ln Omega.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Meaning",
+    "description": "Essential Criteria: Clearly explain that entropy measures the disorder of a system.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Change (System)",
+    "description": "Important Criteria: Derive the correct expression for the entropy change of the two-level system.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Change (Reservoir)",
+    "description": "Important Criteria: Derive the correct expression for the entropy change of the reservoir.",
+    "weight": 4
+  },
+  {
+    "title": "Boltzmann Relation",
+    "description": "Important Criteria: Correctly derive the Boltzmann relation for the ratio n2/n1 from the entropy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes in the entropy change calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

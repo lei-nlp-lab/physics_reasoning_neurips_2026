@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential: The response must state or calculate the final speed as 8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Final air resistance magnitude",
+    "description": "Essential: The response must state or calculate the air resistance force as 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct kinematic relation",
+    "description": "Important: The solution must correctly apply a kinematic equation (e.g., s = (v0+vt)t/2 or s = 1/2 a t^2) to relate displacement, time, and velocity/acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The solution must set up the force balance mg - f = ma using the calculated acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Important: The solution must correctly calculate the net acceleration (4 m/s²) from the given displacement and time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be presented with correct SI units (m/s, m/s², N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Penalize if the force equation is incorrectly written (e.g., f - mg = ma or mg + f = ma).",
+    "weight": -2
+  },
+  {
+    "title": "Using free-fall acceleration",
+    "description": "Pitfall: Penalize if the solution incorrectly assumes acceleration is g (10 m/s²) instead of calculating the actual net acceleration.",
+    "weight": -2
+  }
+]

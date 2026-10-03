@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The final energy stored in the capacitor must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage Calculation",
+    "description": "Important Criteria: The voltage across the 3 μF capacitor must be accurately derived from the circuit analysis.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitance Value",
+    "description": "Essential Criteria: The capacitance value of 3 μF must be correctly identified and used in the energy formula.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Formula Usage",
+    "description": "Important Criteria: The correct formula for energy stored in a capacitor must be applied appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, particularly for voltage and energy.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or incorrect application of the formula.",
+    "weight": -2
+  }
+]

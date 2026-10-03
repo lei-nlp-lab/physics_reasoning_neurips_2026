@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Earth mass expression",
+    "description": "Essential: Correctly derives Earth mass from circular orbit parameters using Newton's second law and universal gravitation.",
+    "weight": 5
+  },
+  {
+    "title": "Kepler's third law application",
+    "description": "Important: Applies Kepler's third law to relate periods of orbits I and II using semi-major axis of ellipse.",
+    "weight": 4
+  },
+  {
+    "title": "Semi-major axis identification",
+    "description": "Important: Correctly identifies semi-major axis of elliptical orbit as (r + kr)/2 = r(1+k)/2.",
+    "weight": 3
+  },
+  {
+    "title": "Time fraction calculation",
+    "description": "Important: Recognizes that A-to-B travel time equals half the period of elliptical orbit (from apogee to perigee).",
+    "weight": 3
+  },
+  {
+    "title": "Final time expression",
+    "description": "Essential: Provides correct simplified expression for travel time t in terms of T, k, and constants.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows dimensional analysis confirming expressions have correct units for mass and time.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect semi-major axis",
+    "description": "Pitfall: Uses r or kr alone as semi-major axis instead of average of apogee and perigee distances.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong time fraction",
+    "description": "Pitfall: Assumes A-to-B time equals T/2 (half of circular period) instead of T'/2 (half of elliptical period).",
+    "weight": -2
+  }
+]

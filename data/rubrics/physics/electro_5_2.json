@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for the frequency of the reflected wave must be correctly stated as omega_2 = ((1 - beta)/(1 + beta)) * omega.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lorentz Transformation",
+    "description": "Important Criteria: The application of the Lorentz transformation for the frequency and wave vector must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Definition of Variables",
+    "description": "Important Criteria: The definitions of beta and gamma must be clearly stated and used appropriately in the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Reflection Frequency Condition",
+    "description": "Important Criteria: The condition that no change in frequency occurs upon reflection in the moving medium must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units of frequency and wave vector should be consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the Lorentz transformation should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Mathematical Derivation",
+    "description": "Optional Criteria: The steps in the mathematical derivation should be clearly laid out and logically follow from one another.",
+    "weight": 2
+  }
+]

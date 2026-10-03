@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed from force balance",
+    "description": "Essential: Correctly states the final speed v = U/(dB) by balancing electric and magnetic forces for zero deflection.",
+    "weight": 5
+  },
+  {
+    "title": "Specific charge final answer",
+    "description": "Essential: Correctly states the final specific charge q/m = (U tanθ) / (a d B²).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field deflection analysis",
+    "description": "Important: Applies kinematics to find the vertical displacement in the electric field, relating it to the angle θ and plate length a.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: Correctly uses the time of flight between the plates and the vertical acceleration (Uq/(dm)) to find the vertical displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Combining equations for q/m",
+    "description": "Important: Eliminates time and vertical displacement to derive the expression for specific charge from v, θ, U, a, d, and B.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows that the final expressions for v and q/m have correct SI units (m/s and C/kg).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of electric or magnetic force, or misinterprets the sign of the deflection voltage U.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics misapplication",
+    "description": "Pitfall: Incorrectly uses constant-acceleration formulas (e.g., wrong time of flight, or confusing vertical/horizontal motion).",
+    "weight": -1
+  }
+]

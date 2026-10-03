@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final s-wave phase shift",
+    "description": "Essential Criteria: The student must correctly identify and express the s-wave phase shift as tan(delta_0) = -k r_0.",
+    "weight": 5
+  },
+  {
+    "title": "Phase shift for higher waves",
+    "description": "Essential Criteria: The student must provide the correct expression for the phase shift in higher partial waves as tan(delta_l) approximately equal to -((kr_0)^(2l+1))/[(2l - 1)!!]^2 (2l + 1).",
+    "weight": 5
+  },
+  {
+    "title": "Continuity condition",
+    "description": "Important Criteria: The student should explain the continuity condition of the wave function at r = r_0 leading to the phase shift equations.",
+    "weight": 4
+  },
+  {
+    "title": "Low-energy behavior",
+    "description": "Important Criteria: The student must discuss how the phase shifts for higher partial waves behave as k approaches 0.",
+    "weight": 4
+  },
+  {
+    "title": "Physical interpretation",
+    "description": "Optional Criteria: The student may provide a physical interpretation of why s-waves dominate at low energy compared to higher partial waves.",
+    "weight": 3
+  },
+  {
+    "title": "Common errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect signs or missing factors in the phase shift expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Units and limits",
+    "description": "Optional Criteria: The student may include checks on units and limiting cases for completeness.",
+    "weight": 2
+  }
+]

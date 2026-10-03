@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final speed in E-field",
+    "description": "Essential: The student must correctly state the speed upon entering the magnetic field as 2v₀, derived from the work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Final magnetic field magnitude",
+    "description": "Essential: The student must correctly state the magnitude of the magnetic induction as 3mv₀/(qd).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem (or kinematics) to relate the electric field work to the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Angle at magnetic field entry",
+    "description": "Important: The solution must correctly calculate the angle (e.g., π/3) the velocity makes with the x-axis upon entering the magnetic field using kinematics in the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of circular motion",
+    "description": "Important: The solution must establish the geometric relationship (r + r cosθ = d) between the circular path radius, the entry angle, and the region width d.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force centripetal condition",
+    "description": "Important: The solution must apply Newton's second law for circular motion (qvB = mv²/r) in the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Incorrect electric field kinematics",
+    "description": "Pitfall: Penalize if the student incorrectly treats motion in the electric field (e.g., wrong time, displacement, or velocity components).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize errors in vector direction, such as misapplying the right-hand rule or misplacing the center of the circular arc.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award if the student explicitly verifies the dimensional consistency of their final expression for B.",
+    "weight": 1
+  }
+]

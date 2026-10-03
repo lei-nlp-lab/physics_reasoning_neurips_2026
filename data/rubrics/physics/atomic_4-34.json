@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Average Kinetic Energy",
+    "description": "Essential Criteria: The average kinetic energy per pion is correctly calculated as 329 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Pion Momentum",
+    "description": "Essential Criteria: The momentum of each pion is accurately determined to be 448 MeV/c.",
+    "weight": 5
+  },
+  {
+    "title": "Pion Velocity",
+    "description": "Important Criteria: The velocity of the pion is correctly expressed as 0.955 in units of c.",
+    "weight": 4
+  },
+  {
+    "title": "Photon Wavelength",
+    "description": "Essential Criteria: The wavelength of each photon is calculated as approximately 1.32 x 10^-13 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The conservation of energy principle is applied correctly in the context of the annihilation process.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include miscalculating the signs in energy or momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations to avoid mistakes.",
+    "weight": -1
+  }
+]

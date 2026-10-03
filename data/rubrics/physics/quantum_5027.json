@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Shift 1s",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy shift of the 1s state, E'_{10} = 2e^2 r_p^2 / (5a^3).",
+    "weight": 5
+  },
+  {
+    "title": "Final Energy Shift 2p",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy shift of the 2p state, E'_{21} = e^2 r_p^4 / (1120a^5).",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb Potential",
+    "description": "Important Criteria: The student should derive the correct form of the Coulomb potential energy for both regions (inside and outside the proton).",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Setup",
+    "description": "Important Criteria: The student must correctly set up the Hamiltonian, including both the unperturbed and perturbation terms.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Process",
+    "description": "Important Criteria: The student should show the correct integration process for calculating the energy shifts using the radial wave functions.",
+    "weight": 4
+  },
+  {
+    "title": "Continuity Condition",
+    "description": "Important Criteria: The student must apply the continuity condition at r = r_p to find the constant C in the potential energy.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign errors in the expressions for potential energy or energy shifts.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The student should justify the approximation e^{-r/a} ≈ 1 for r_p << a.",
+    "weight": 2
+  }
+]

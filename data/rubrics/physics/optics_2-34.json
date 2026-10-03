@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct radius r1",
+    "description": "Essential Criteria: The radius r1 must be accurately calculated as 0.707 mm.",
+    "weight": 5
+  },
+  {
+    "title": "Intensity calculation",
+    "description": "Essential Criteria: The intensity at the spot must be expressed correctly as 16I0.",
+    "weight": 5
+  },
+  {
+    "title": "Maxima locations",
+    "description": "Essential Criteria: The expected locations of intensity maxima must be correctly identified as 1/3 m, 1/5 m, 1/7 m, etc.",
+    "weight": 5
+  },
+  {
+    "title": "Use of equations",
+    "description": "Important Criteria: The relevant equations for focal lengths and intensity must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Units must be consistently used throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: Common sign mistakes in calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing factors",
+    "description": "Pitfall Criteria: Ensure that no factors are omitted in the intensity calculation.",
+    "weight": -2
+  }
+]

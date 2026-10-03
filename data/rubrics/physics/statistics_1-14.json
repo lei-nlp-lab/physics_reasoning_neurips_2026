@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Temperature Comparison",
+    "description": "Essential Criteria: The student must correctly state that T_He > T_Air as a result of the adiabatic compression process.",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic Process Equation",
+    "description": "Important Criteria: The student should reference the adiabatic process equation and explain its relevance to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Gamma Values Explanation",
+    "description": "Important Criteria: The student must correctly identify and compare the gamma values for helium and air, explaining their significance in the context of compression.",
+    "weight": 4
+  },
+  {
+    "title": "Ideal Gas Law Reference",
+    "description": "Important Criteria: The student should mention the ideal gas law and its role in understanding the behavior of gases under compression.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors Identification",
+    "description": "Pitfall Criteria: The student should avoid common errors such as neglecting the differences in specific heats or misapplying the adiabatic condition.",
+    "weight": -2
+  }
+]

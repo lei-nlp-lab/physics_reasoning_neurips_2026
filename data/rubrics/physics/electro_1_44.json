@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Resistance Formula",
+    "description": "Essential Criteria: The student must provide the correct formula for resistance R between the conductors.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance Formula",
+    "description": "Essential Criteria: The student must provide the correct formula for capacitance C between the conductors.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ohm's Law",
+    "description": "Important Criteria: The student should correctly apply Ohm's law to relate current and electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Expression",
+    "description": "Important Criteria: The student must derive the electric field expression correctly between the conductors.",
+    "weight": 4
+  },
+  {
+    "title": "Charge Density Calculation",
+    "description": "Important Criteria: The student should calculate the surface charge density correctly using the boundary relation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios for the derived formulas.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the equations for resistance and capacitance.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as 2 pi and l, are included in the final answers.",
+    "weight": -2
+  }
+]

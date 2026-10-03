@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at t=0.5s",
+    "description": "Essential: The final answer for part (1) must be 8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Magnitude of Acceleration",
+    "description": "Essential: The final answer for part (2) must be 4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Displacement in 2nd Second",
+    "description": "Essential: The final answer for part (3) must be 4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Midpoint Velocity Rule",
+    "description": "Important: Correctly states or uses that for uniform acceleration, the average velocity over an interval equals the instantaneous velocity at the time midpoint.",
+    "weight": 3
+  },
+  {
+    "title": "Use Kinematic Equations",
+    "description": "Important: Applies correct kinematic equations (e.g., s = ut + ½at²) to relate displacement, time, initial velocity, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Solve System of Equations",
+    "description": "Important: Sets up and solves simultaneous equations using the given displacements in the 1st and 3rd seconds to find acceleration and initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate Intermediate Displacement",
+    "description": "Optional: Correctly calculates the total displacement after 2 seconds before finding the displacement for the 2nd second interval.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error for Deceleration",
+    "description": "Pitfall: Uses acceleration with incorrect sign (e.g., positive for a decelerating object) in the kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses Time Intervals",
+    "description": "Pitfall: Misinterprets 'displacement in the nth second' as the position at time t=n s, rather than the displacement during that one-second interval.",
+    "weight": -2
+  }
+]

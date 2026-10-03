@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the equilibrium temperature T_e.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for the equilibrium temperature T'_e.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium Condition for (a)",
+    "description": "Important Criteria: The student should correctly relate the heat supplied by the pump to the heat lost by the building at equilibrium.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison Explanation",
+    "description": "Important Criteria: The student must clearly explain why T'_e is less than T_e, indicating the inefficiency of the heater compared to the heat pump.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms are consistent in units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors in (a)",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect algebraic manipulation leading to an incorrect expression for T_e.",
+    "weight": -2
+  },
+  {
+    "title": "Common Errors in (b)",
+    "description": "Pitfall Criteria: The student should avoid failing to correctly identify the relationship between W, T'_e, and T_e.",
+    "weight": -2
+  }
+]

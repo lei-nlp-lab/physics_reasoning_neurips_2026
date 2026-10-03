@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential: The response must state or correctly calculate the final speed of the ball when it hits the ground as 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Final horizontal distance",
+    "description": "Essential: The response must state or correctly calculate the horizontal distance from C to D as 1.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to B",
+    "description": "Important: The solution must apply conservation of energy (or work-energy theorem) to find the speed at point B (3 m/s) after the string is cut.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile time calculation",
+    "description": "Important: The solution must correctly calculate the time of flight for the projectile motion from B to the ground using the vertical motion equations.",
+    "weight": 4
+  },
+  {
+    "title": "Correct height for energy",
+    "description": "Important: For part (1), the solution must use the correct total vertical drop from the release point A to the ground D (H - L cos60°) in the energy conservation equation.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal motion application",
+    "description": "Important: For part (2), the solution must correctly apply horizontal projectile motion (constant velocity) using the speed at B and the time of flight.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution maintains consistent units (meters, seconds, m/s) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing energy reference points",
+    "description": "Pitfall: Penalize if the solution incorrectly uses the height from B to the ground (instead of from A to D) in the energy equation for part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Penalize if the solution makes a sign error in the vertical kinematic equations for the projectile motion (e.g., incorrect displacement direction).",
+    "weight": -1
+  }
+]

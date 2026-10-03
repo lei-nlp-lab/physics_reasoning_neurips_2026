@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer A",
+    "description": "Essential Criteria: The expression for A must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer T",
+    "description": "Essential Criteria: The expression for the transmission coefficient T must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Wavefunction Formulation",
+    "description": "Important Criteria: The wavefunction must be correctly formulated for both regions x < 0 and x > 0.",
+    "weight": 4
+  },
+  {
+    "title": "Coefficient Matching",
+    "description": "Important Criteria: The matching of coefficients between the wavefunction expressions must be correctly executed.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: The integration steps for k(x) and the subsequent calculations should be clearly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the wavefunction or coefficients.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

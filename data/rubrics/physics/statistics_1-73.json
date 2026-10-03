@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answers",
+    "description": "Essential Criteria: Provide accurate descriptions for each thermodynamic condition listed in the question.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concepts",
+    "description": "Important Criteria: Demonstrate understanding of the physical principles behind each condition, such as the implications of coefficients of expansion and heat capacities.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Relationships",
+    "description": "Important Criteria: Correctly apply and derive relevant mathematical relationships or equations that support the conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: Clearly explain the reasoning behind the choice of systems for each condition, ensuring logical flow.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as misinterpreting the conditions or providing incorrect physical descriptions.",
+    "weight": -2
+  }
+]

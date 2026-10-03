@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Time to point P",
+    "description": "Essential Criteria: The response must provide the correct expression for the time t = √[2√2d/(g(1-μ))] or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point B",
+    "description": "Essential Criteria: The response must provide the correct expression for the takeoff velocity v = √[√2gd(1-μ)] or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum platform length L",
+    "description": "Essential Criteria: The response must provide the correct expression for the maximum length L = √2d(1-μ) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Energy or impulse analysis",
+    "description": "Important Criteria: The solution must correctly apply the work-energy theorem or impulse-momentum theorem to relate forces, displacement, and velocity for the inclined section.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: The solution must correctly analyze the projectile motion from point B, separating horizontal and vertical components with the correct launch angle (45°).",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of energy on horizontal",
+    "description": "Optional Criteria: The solution may note that velocity remains constant from P to B due to the horizontal, frictionless section (or explicitly state this assumption).",
+    "weight": 2
+  },
+  {
+    "title": "Trigonometric simplification",
+    "description": "Optional Criteria: The solution may correctly simplify sin45° and cos45° to 1/√2 or √2/2 throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Deduct points if the friction force is added to the component of gravity down the incline instead of subtracted.",
+    "weight": -2
+  },
+  {
+    "title": "Projectile time error",
+    "description": "Pitfall Criteria: Deduct points if the time of flight for the projectile is incorrectly calculated (e.g., using v/g instead of 2v_y/g).",
+    "weight": -2
+  },
+  {
+    "title": "Angle confusion",
+    "description": "Pitfall Criteria: Deduct points if the launch angle components are swapped (using sin for vertical instead of cos, or vice versa) in the projectile equations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Force Expression (a)",
+    "description": "Essential Criteria - The correct expression for the force on an electron derived from the electric field in part (a) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Force Expression (b)",
+    "description": "Essential Criteria - The correct expression for the force on an electron in the laboratory frame in part (b) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Force Expression (c)",
+    "description": "Essential Criteria - The correct expression for the force on an electron as seen by an observer moving with the beam in part (c) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Field Gradient (d)",
+    "description": "Essential Criteria - The correct gradient of the magnetic field required to hold the beam from spreading in part (d) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lorentz Factor",
+    "description": "Important Criteria - The correct application of the Lorentz factor in transforming charge density and electric fields must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria - The derivation of the electric field inside the cylindrical column must be correctly performed using Gauss' law.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Forces",
+    "description": "Important Criteria - A clear comparison of the forces in different frames of reference must be articulated, highlighting the effects of the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Common errors related to the signs of forces or electric fields must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - Ensure that all units are consistent throughout the calculations to avoid mistakes.",
+    "weight": -1
+  }
+]

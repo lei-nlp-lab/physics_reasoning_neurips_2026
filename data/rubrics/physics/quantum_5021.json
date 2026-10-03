@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final k values",
+    "description": "Essential Criteria: The response must correctly identify the values of k that satisfy the antiperiodic condition, k = (2n+1)pi/a for n = 0, ±1, ±2, ...",
+    "weight": 5
+  },
+  {
+    "title": "Energy spectrum",
+    "description": "Essential Criteria: The response must provide the correct energy spectrum E_n = (hbar^2 pi^2)/(2ma^2) (2n + 1)^2 for n = 0, ±1, ±2, ...",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation setup",
+    "description": "Important Criteria: The response should correctly set up the perturbation Hamiltonian H' = V_0 cos(2πx/a) for small V_0.",
+    "weight": 4
+  },
+  {
+    "title": "Ground state energy",
+    "description": "Important Criteria: The response must correctly identify the unperturbed ground state energy E_{-1}^{(0)} = (hbar^2 pi^2)/(2ma^2).",
+    "weight": 4
+  },
+  {
+    "title": "Energy splitting",
+    "description": "Important Criteria: The response should derive the energy splitting resulting in E_1 = (hbar^2 pi^2)/(2ma^2) - V_0/2 and E_2 = (hbar^2 pi^2)/(2ma^2) + V_0/2.",
+    "weight": 4
+  },
+  {
+    "title": "Integration errors",
+    "description": "Pitfall Criteria: The response should avoid common errors in evaluating integrals, particularly those involving the cosine function.",
+    "weight": -2
+  },
+  {
+    "title": "Sign mistakes",
+    "description": "Pitfall Criteria: The response must avoid sign mistakes in the perturbation terms and final energy expressions.",
+    "weight": -2
+  }
+]

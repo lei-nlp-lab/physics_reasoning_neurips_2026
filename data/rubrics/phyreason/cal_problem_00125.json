@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correctly states the magnetic force on the coil as F = NBIl.",
+    "weight": 5
+  },
+  {
+    "title": "Hooke's Law application",
+    "description": "Essential: Applies F = kΔx to find the spring extension Δx = NBIl/k.",
+    "weight": 5
+  },
+  {
+    "title": "Mirror rotation angle",
+    "description": "Important: Relates spring extension to mirror tilt via geometry: Δx = dθ (small angle).",
+    "weight": 4
+  },
+  {
+    "title": "Spot displacement relation",
+    "description": "Important: Correctly relates mirror tilt to light spot arc length: s = r*(2θ) = 2rθ.",
+    "weight": 4
+  },
+  {
+    "title": "Final arc length formula",
+    "description": "Essential: Combines steps to derive final answer for part (2): s = (2NBIlr)/(dk).",
+    "weight": 5
+  },
+  {
+    "title": "Superposition setup",
+    "description": "Important: Sets up equations for s1 and s2 including an initial offset s' due to improper zeroing.",
+    "weight": 3
+  },
+  {
+    "title": "Simultaneous equation solution",
+    "description": "Essential: Solves the system to eliminate s' and find I' = dk(s1+s2)/(4NBlr).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misapplies sign for force, extension, or rotation direction in parts (1) or (3).",
+    "weight": -2
+  },
+  {
+    "title": "Factor of two omission",
+    "description": "Pitfall: Forgets the factor of 2 in the reflected light angle (s = rθ instead of s = 2rθ).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions (e.g., s in meters).",
+    "weight": 1
+  }
+]

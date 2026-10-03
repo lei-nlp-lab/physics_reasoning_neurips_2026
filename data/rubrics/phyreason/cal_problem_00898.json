@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Coil resistance calculation",
+    "description": "Essential: The student must correctly calculate R_L = 2.0 Ω using the steady-state current from the graph and the circuit parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The student must correctly calculate the induced EMF at t2 as 3.0 V using the current from the graph and the total circuit resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Current direction after opening",
+    "description": "Important: The student must state that the current through the lamp after the switch opens is from right to left, applying Lenz's law to the decaying coil current.",
+    "weight": 4
+  },
+  {
+    "title": "Graph reading for currents",
+    "description": "Important: The student must correctly extract the steady-state current (1.5 A) and the current at t2 (0.3 A) from the provided graph.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Ohm's law",
+    "description": "Important: The student must apply Ohm's law correctly for the LR circuit loop after the switch is opened, relating induced EMF to current and total resistance.",
+    "weight": 3
+  },
+  {
+    "title": "Steady-state circuit analysis",
+    "description": "Optional: The student may show the initial steady-state analysis, recognizing the coil acts as a short circuit in DC steady state.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in EMF or current",
+    "description": "Pitfall: The student incorrectly uses a sign convention, leading to a negative EMF magnitude or wrong direction for the induced current.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance summation error",
+    "description": "Pitfall: The student omits one of the resistors (R_L, R, or R1) when calculating the total resistance for the induced EMF.",
+    "weight": -1
+  }
+]

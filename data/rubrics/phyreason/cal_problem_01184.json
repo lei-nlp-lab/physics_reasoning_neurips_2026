@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum braking distance",
+    "description": "Essential: Correctly calculates the distance car A needs to decelerate from 20 m/s to 6 m/s, obtaining 91 m.",
+    "weight": 5
+  },
+  {
+    "title": "Total distance from toll",
+    "description": "Essential: Adds the 9 m constant-speed zone to the deceleration distance to find the total 100 m distance from the toll booth for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Car B's stopping distance",
+    "description": "Important: Correctly calculates the total distance car B travels from the reaction point until its speed is 6 m/s, including the reaction time displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Car A's position at B's stop",
+    "description": "Important: Correctly determines car A's position (relative to the toll booth) at the moment car B reaches 6 m/s, accounting for its deceleration and constant-speed phases.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum initial separation",
+    "description": "Essential: Correctly subtracts car A's position from car B's total stopping distance to find the 66 m minimum initial separation for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Time coordination analysis",
+    "description": "Optional: Analyzes or verifies that the timing of both cars' motions ensures the speed limit condition is met for car B.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Uses acceleration instead of deceleration (wrong sign) in kinematic equations, leading to incorrect distances or times.",
+    "weight": -2
+  },
+  {
+    "title": "Omit reaction time distance",
+    "description": "Pitfall: Fails to include the distance car B travels at constant speed during the driver's 0.5 s reaction time.",
+    "weight": -2
+  }
+]

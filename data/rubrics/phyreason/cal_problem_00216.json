@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Critical angle calculation",
+    "description": "Essential: Student must correctly compute the critical angle using sin C = 1/n with n=2.",
+    "weight": 5
+  },
+  {
+    "title": "Geometric relationship setup",
+    "description": "Important: Student must establish the correct relationship between critical angle C and angle θ, typically C + θ = 90°.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum θ value",
+    "description": "Essential: Final answer must be θ = 60° (or equivalent in radians).",
+    "weight": 5
+  },
+  {
+    "title": "Total internal reflection concept",
+    "description": "Important: Response should mention that the condition for no light entering air is total internal reflection at the AB-air interface.",
+    "weight": 3
+  },
+  {
+    "title": "Angle identification",
+    "description": "Important: Student must correctly identify which angles correspond to incidence at the critical condition on surface AB.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect critical angle",
+    "description": "Pitfall: Using sin C = n instead of sin C = 1/n, leading to wrong critical angle.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong geometric relationship",
+    "description": "Pitfall: Setting up incorrect angle relationship (e.g., θ = C or θ + C = 180°).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent angle units (degrees/radians) throughout solution.",
+    "weight": 1
+  }
+]

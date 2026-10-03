@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum Potential Depth",
+    "description": "Essential Criteria - Provide the correct minimum depth of the potential for two bound states.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenvalues of Hamiltonian",
+    "description": "Essential Criteria - State the eigenvalues corresponding to zero total angular momentum.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Sketch",
+    "description": "Important Criteria - Accurately sketch the wave function and probability distribution, explaining their significance.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic Energy Prediction",
+    "description": "Important Criteria - Predict the kinetic energy based on the wave function and express it correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Uncertainty Principle Connection",
+    "description": "Important Criteria - Qualitatively connect the results of parts (c) and (d) using the uncertainty principle.",
+    "weight": 3
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Optional Criteria - Discuss the boundary conditions for the wave function at r = 0 and r = infinity.",
+    "weight": 2
+  },
+  {
+    "title": "Normalization of Wave Function",
+    "description": "Optional Criteria - Mention the normalization condition for the wave function and its implications.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Identify potential sign mistakes or incorrect assumptions in the wave function behavior.",
+    "weight": -2
+  }
+]

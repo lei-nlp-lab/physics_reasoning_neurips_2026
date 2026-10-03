@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct x component of the field as -iydl/(x^2 + y^2 + z^2)^(3/2).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Biot-Savart Law",
+    "description": "Important Criteria: The student should correctly apply the Biot-Savart law to derive the expression for the magnetic field due to the current element.",
+    "weight": 4
+  },
+  {
+    "title": "Vector Components",
+    "description": "Important Criteria: The student must identify that the current is along the z-axis and recognize that the x component of the field is influenced by this orientation.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Sign",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes when calculating the x component of the magnetic field.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student may include a check for consistent units throughout the calculation.",
+    "weight": 1
+  }
+]

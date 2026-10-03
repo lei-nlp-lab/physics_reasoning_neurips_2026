@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tension expression",
+    "description": "Essential: The final answer for part (1) is correctly given as $F = m \\omega^{2} L$.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity relation",
+    "description": "Essential: The final answer for part (2) is correctly given as $\\omega = \\sqrt{g/h}$.",
+    "weight": 5
+  },
+  {
+    "title": "Final distance answer",
+    "description": "Essential: The final answer for part (3) is correctly given as $s_0 = \\frac{\\sqrt{37}}{2} L$.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: The solution correctly resolves forces into vertical and radial components, applying Newton's second law.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important: The solution correctly relates the string length, cone height $h$, and radius of motion using trigonometry.",
+    "weight": 3
+  },
+  {
+    "title": "Break condition analysis",
+    "description": "Important: For part (3), the solution correctly uses the maximum tension condition ($F_{max}=2mg$) to find the break angle and speed.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: After the string breaks, the solution correctly analyzes the projectile's horizontal and vertical motion to find the landing point.",
+    "weight": 4
+  },
+  {
+    "title": "3D distance calculation",
+    "description": "Optional: The solution correctly uses the Pythagorean theorem in 3D to find the final distance $s_0$ from the landing point to the suspension point $O$.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: The student makes a sign error in force components or incorrectly handles units in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: The student incorrectly relates the vertical height $h'$ of the ball above ground or the horizontal radius $r$ after the break.",
+    "weight": -1
+  }
+]

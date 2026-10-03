@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for S, ensuring it meets the specified condition.",
+    "weight": 5
+  },
+  {
+    "title": "Flatness Measurement",
+    "description": "Important Criteria: The student should describe the method of using Newton's rings to measure the flatness of the glass surface.",
+    "weight": 4
+  },
+  {
+    "title": "Parallelism Measurement",
+    "description": "Important Criteria: The student must explain how to measure the parallelism of the glass surfaces using interference fringes.",
+    "weight": 4
+  },
+  {
+    "title": "Wedge Angle Calculation",
+    "description": "Important Criteria: The student should correctly derive the relationship between wedge angle and spacing in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the wavelength.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or alternative methods for verifying the specifications.",
+    "weight": 1
+  }
+]

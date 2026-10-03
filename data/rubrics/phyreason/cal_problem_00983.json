@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic induction magnitude",
+    "description": "Essential: Correctly calculates the magnetic field strength B using the equilibrium condition and given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Additional mass calculation",
+    "description": "Essential: Correctly determines the mass to be added to the left pan when the current is reversed.",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force direction analysis",
+    "description": "Important: Correctly applies the left-hand rule to determine the direction of the magnetic force for both current directions.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium force balance",
+    "description": "Important: Sets up the correct force balance equation for the scale, accounting for weights and magnetic force.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force magnitude formula",
+    "description": "Important: Correctly uses the formula F = nBIl for the force on a multi-turn coil in a perpendicular field.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis or converts all quantities to SI units (meters, kilograms, seconds).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Incorrectly assigns the sign/direction of the magnetic force in the equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Neglects coil turns",
+    "description": "Pitfall: Uses F = BIl instead of F = nBIl, forgetting the number of turns.",
+    "weight": -2
+  }
+]

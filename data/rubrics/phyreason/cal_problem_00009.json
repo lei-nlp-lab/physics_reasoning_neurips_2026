@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct linear velocity",
+    "description": "Essential: The final answer for part (1) must be v₀ = ω₀r.",
+    "weight": 5
+  },
+  {
+    "title": "Correct centripetal force",
+    "description": "Essential: The final answer for part (2) must be f = mω₀²r.",
+    "weight": 5
+  },
+  {
+    "title": "Applies centripetal force relation",
+    "description": "Important: The solution correctly identifies that the static friction provides the centripetal force for circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Uses velocity-angular velocity relation",
+    "description": "Important: The solution correctly uses the kinematic relation v = ωr for uniform circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Identifies force direction",
+    "description": "Optional: The solution notes that the frictional force is directed radially inward toward the center of the plate.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect centripetal force formula",
+    "description": "Pitfall: Using an incorrect formula for centripetal force, such as mωr or mv/r, instead of mω²r or mv²/r.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Providing a final answer with incorrect units or a missing variable (e.g., omitting mass m or radius r).",
+    "weight": -1
+  }
+]

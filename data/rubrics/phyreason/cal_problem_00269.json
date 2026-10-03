@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Manual total time",
+    "description": "Essential: Correctly calculates the total time for the manual lane as 40 s, including deceleration, payment, and acceleration phases.",
+    "weight": 5
+  },
+  {
+    "title": "Manual total distance",
+    "description": "Essential: Correctly calculates the total distance for the manual lane as 100 m, summing the deceleration and acceleration displacements.",
+    "weight": 5
+  },
+  {
+    "title": "ETC total time",
+    "description": "Essential: Correctly calculates the total time for the ETC lane as 12 s, including deceleration, constant speed, and acceleration phases.",
+    "weight": 5
+  },
+  {
+    "title": "ETC total distance",
+    "description": "Essential: Correctly calculates the total distance for the ETC lane as 85 m, summing the deceleration, constant speed, and acceleration displacements.",
+    "weight": 5
+  },
+  {
+    "title": "Time saved",
+    "description": "Essential: Correctly calculates the time saved by the ETC lane as 26.5 s, the difference between manual and ETC total times.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equations application",
+    "description": "Important: Applies correct kinematic equations (e.g., v = u + at, s = (u+v)t/2) to find times and displacements for acceleration/deceleration phases.",
+    "weight": 4
+  },
+  {
+    "title": "Constant speed segment",
+    "description": "Important: Correctly identifies and calculates the time for the constant 5 m/s segment over the 10 m distance in the ETC lane.",
+    "weight": 3
+  },
+  {
+    "title": "Phase structure",
+    "description": "Important: Clearly breaks down the problem into distinct phases (deceleration, stop/payment, acceleration for manual; deceleration, constant, acceleration for ETC).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for acceleration/deceleration, leading to wrong times or distances.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout the calculation and presents final answers with correct units.",
+    "weight": 1
+  }
+]

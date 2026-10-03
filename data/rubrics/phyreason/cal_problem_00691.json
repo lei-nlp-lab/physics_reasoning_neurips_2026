@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct magnetic induction",
+    "description": "Essential: The final numerical answer for part (1) must be 0.4 T (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct formula application",
+    "description": "Important: The student must correctly apply the formula F = BIL for a perpendicular wire to relate force, current, length, and field.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: The calculation must correctly convert the wire length to meters (0.2 m) to obtain the correct tesla value.",
+    "weight": 3
+  },
+  {
+    "title": "Independence of B",
+    "description": "Essential: For part (2), the student must state that the magnetic induction (B) does not change when the current increases.",
+    "weight": 5
+  },
+  {
+    "title": "Correct reasoning for independence",
+    "description": "Important: The explanation must correctly state that B is a property of the magnetic field source, not dependent on the current in the test wire.",
+    "weight": 4
+  },
+  {
+    "title": "Confusing B with force",
+    "description": "Pitfall: Penalize if the student incorrectly states that B changes because the force changes, confusing cause and effect.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall: Penalize if the final answer for B lacks the correct unit (T) or uses an incorrect unit without correction.",
+    "weight": -1
+  }
+]

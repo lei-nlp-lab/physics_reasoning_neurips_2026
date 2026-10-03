@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct gravitational acceleration",
+    "description": "Essential: The final expression for g must be exactly g = 2 * h * v_0^2 / (x^2 - h^2).",
+    "weight": 5
+  },
+  {
+    "title": "Correct first cosmic velocity",
+    "description": "Essential: The final expression for the first cosmic velocity must be exactly v = v_0 * sqrt(2 * h * R / (x^2 - h^2)).",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: The solution must correctly derive the time of flight from the horizontal and vertical components of the projectile motion.",
+    "weight": 4
+  },
+  {
+    "title": "Applying Newton's Law of Gravitation",
+    "description": "Important: The solution must correctly relate surface gravitational acceleration (g) to the planet's mass and radius using GM/R^2 = g.",
+    "weight": 4
+  },
+  {
+    "title": "Deriving cosmic velocity condition",
+    "description": "Important: The solution must correctly set the gravitational force equal to the required centripetal force for a circular orbit at radius R.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation and substitution",
+    "description": "Optional: The solution shows clear, logical steps in substituting the expression for g into the gravitational force law to eliminate M and find v.",
+    "weight": 2
+  },
+  {
+    "title": "Units or dimensional check",
+    "description": "Optional: The solution includes a check that the final expressions for g and v have the correct physical dimensions.",
+    "weight": 1
+  },
+  {
+    "title": "Misidentifying horizontal displacement",
+    "description": "Pitfall: Using x instead of the correct horizontal displacement sqrt(x^2 - h^2) in the projectile motion equations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Making an algebraic mistake (e.g., incorrect exponent, sign error in x^2 - h^2) when solving for g or v.",
+    "weight": -1
+  }
+]

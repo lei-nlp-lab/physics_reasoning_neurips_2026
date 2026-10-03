@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at F",
+    "description": "Essential: Correctly calculates v_F = 10 m/s using energy conservation from D to F.",
+    "weight": 5
+  },
+  {
+    "title": "Normal Force at F",
+    "description": "Essential: Correctly calculates F_N = 31.2 N using Newton's second law for centripetal motion at point F.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Loss Calculation",
+    "description": "Important: Correctly applies momentum conservation and energy formulas to find ΔE = 0 J, given v_B and the subsequent return path.",
+    "weight": 4
+  },
+  {
+    "title": "Post-Collision Common Velocity",
+    "description": "Important: Correctly finds the common velocity of the stuck a-b system (2.5 m/s) using momentum conservation for the inelastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Spring Compression Amplitude",
+    "description": "Important: Correctly calculates the maximum spring compression/extension (0.1 m) using energy conservation for the a-b-c system.",
+    "weight": 4
+  },
+  {
+    "title": "Spring Length Difference",
+    "description": "Essential: Correctly states Δx = 0.2 m as twice the amplitude due to symmetric oscillation.",
+    "weight": 5
+  },
+  {
+    "title": "Conveyor Belt Kinematics",
+    "description": "Important: Correctly applies kinematics with friction to find the velocity at point C (3 m/s) after the return from B.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Error in Momentum",
+    "description": "Pitfall: Uses incorrect sign for velocities in momentum conservation equations (e.g., for part 2 or 3).",
+    "weight": -2
+  },
+  {
+    "title": "Energy Conservation Misapplication",
+    "description": "Pitfall: Incorrectly applies energy conservation (e.g., omits potential energy change for the arc or spring energy).",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional: Maintains consistent SI units throughout all calculations and final answers.",
+    "weight": 1
+  }
+]

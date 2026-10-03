@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum angular velocity",
+    "description": "Essential Criteria: The final answer for part (1) must be ω = 2 rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force condition",
+    "description": "Important Criteria: The student must apply Newton's second law, equating the maximum static friction force (μ₁mg) to the required centripetal force (mrω²).",
+    "weight": 4
+  },
+  {
+    "title": "Minimum table radius",
+    "description": "Essential Criteria: The final answer for part (2) must be R = 2.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Post-slip deceleration analysis",
+    "description": "Important Criteria: The student must calculate the sliding distance on the table using kinematics, with deceleration from kinetic friction (a = μ₂g).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for table radius",
+    "description": "Important Criteria: The student must correctly use the Pythagorean theorem to combine the disk radius and sliding distance to find the minimum table radius R.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at disk edge",
+    "description": "Optional Criteria: The student may explicitly state the tangential velocity v₀ = ωr when the object leaves the disk.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's work should maintain consistent units (e.g., m, s, rad/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing friction coefficients",
+    "description": "Pitfall Criteria: Penalize if the student uses μ₂ (table friction) in the centripetal force condition for part (1), or μ₁ (disk friction) for the sliding deceleration in part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall Criteria: Penalize if the kinematic equation for uniformly decelerated motion (v² = v₀² - 2ax) is set up with an incorrect sign for acceleration.",
+    "weight": -1
+  }
+]

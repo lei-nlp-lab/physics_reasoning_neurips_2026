@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Energy Level Diagram",
+    "description": "Essential Criteria: The energy levels for n = 1, 2, 3 must be correctly sketched with appropriate quantum number labels.",
+    "weight": 5
+  },
+  {
+    "title": "Transition Sketch",
+    "description": "Important Criteria: Allowed electric dipole transitions between levels should be clearly indicated with the correct selection rules stated.",
+    "weight": 4
+  },
+  {
+    "title": "Clebsch-Gordan Coefficients",
+    "description": "Essential Criteria: The derivation of the Clebsch-Gordan coefficients for the p state must be correctly presented.",
+    "weight": 5
+  },
+  {
+    "title": "Full Wave Functions",
+    "description": "Essential Criteria: The full wave functions for all four n = 2 states must be accurately written in terms of the radial and angular wave functions.",
+    "weight": 5
+  },
+  {
+    "title": "Selection Rules",
+    "description": "Important Criteria: The selection rules used for the transitions must be correctly stated and justified.",
+    "weight": 3
+  },
+  {
+    "title": "Fine Structure Explanation",
+    "description": "Optional Criteria: A brief explanation of how fine structure affects the energy levels could enhance the response.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing or incorrect quantum number labels on energy levels will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Transition Errors",
+    "description": "Pitfall Criteria: Incorrectly drawn transitions or failure to follow selection rules will lead to a deduction.",
+    "weight": -2
+  }
+]

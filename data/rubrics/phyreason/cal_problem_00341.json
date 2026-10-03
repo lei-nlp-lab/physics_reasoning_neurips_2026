@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Potential difference calculation",
+    "description": "Essential: The final answer for part (1) must be correctly derived and stated as U = 12mgL/q.",
+    "weight": 5
+  },
+  {
+    "title": "Charge polarity identification",
+    "description": "Essential: The answer for part (2) must correctly identify the polarity of ball B's charge as negative.",
+    "weight": 5
+  },
+  {
+    "title": "Charge magnitude calculation",
+    "description": "Essential: The answer for part (2) must correctly state the magnitude of the charge on ball B as (2/3)q.",
+    "weight": 5
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Essential: The final answer for part (3) must be correctly derived and stated as t = (6√3 - 5)√(L/g).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must correctly apply the work-energy theorem to relate the work done by the electric field to the system's kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law for system",
+    "description": "Important: The solution must correctly apply Newton's second law to find the acceleration of the two-ball system for different charge configurations in the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic stage analysis",
+    "description": "Important: The solution must correctly break the motion into distinct stages (only A in field, both in field, only B in field) and apply kinematic equations for each.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Incorrectly assigning the direction of the electric force on a negative charge, leading to a wrong sign for acceleration or polarity.",
+    "weight": -2
+  },
+  {
+    "title": "System mass oversight",
+    "description": "Pitfall: Using the mass of a single ball (m) instead of the total system mass (2m) when applying Newton's second law to the connected system.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers should have dimensionally consistent units (e.g., time proportional to √(L/g)).",
+    "weight": 1
+  }
+]

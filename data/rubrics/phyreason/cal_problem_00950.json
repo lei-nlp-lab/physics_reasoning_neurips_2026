@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Total lamp power",
+    "description": "Essential: Correctly calculates the total power consumed by all lamps operating normally (22 classes × 6 lamps × 40 W).",
+    "weight": 5
+  },
+  {
+    "title": "Generator output power",
+    "description": "Essential: Correctly calculates the generator's output power, accounting for transmission line losses and transformer power conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Generator EMF calculation",
+    "description": "Essential: Correctly calculates the generator's electromotive force, accounting for its internal resistance and output voltage/current.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important: Correctly applies transformer ratios and power conservation to find the current in the transmission line.",
+    "weight": 4
+  },
+  {
+    "title": "Transmission efficiency",
+    "description": "Important: Correctly calculates efficiency as the ratio of useful lamp power to generator output power.",
+    "weight": 4
+  },
+  {
+    "title": "Analysis for halved lamps",
+    "description": "Important: Correctly determines that the generator's output power is not halved when lamps are halved, due to changed line losses.",
+    "weight": 3
+  },
+  {
+    "title": "Transformer voltage relationships",
+    "description": "Optional: Correctly applies step-up and step-down transformer ratios to relate voltages across the system.",
+    "weight": 2
+  },
+  {
+    "title": "Ignoring transformer losses",
+    "description": "Pitfall: Incorrectly assumes non-ideal transformer losses or uses incorrect power conservation (e.g., P_primary ≠ P_secondary for ideal transformers).",
+    "weight": -2
+  },
+  {
+    "title": "Line loss miscalculation",
+    "description": "Pitfall: Uses incorrect current (e.g., lamp current) or voltage to calculate power loss in the transmission line.",
+    "weight": -2
+  },
+  {
+    "title": "Internal resistance omission",
+    "description": "Pitfall: Fails to account for the generator's internal resistance when calculating its electromotive force.",
+    "weight": -1
+  }
+]

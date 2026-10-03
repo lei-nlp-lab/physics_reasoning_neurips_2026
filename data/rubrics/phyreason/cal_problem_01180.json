@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Deceleration magnitude",
+    "description": "Essential: Correctly calculates the constant deceleration of train B using a kinematic equation with given stopping distance and initial speed.",
+    "weight": 5
+  },
+  {
+    "title": "Collision analysis logic",
+    "description": "Important: Correctly applies the condition for a collision (relative displacement <= initial separation) or finds the time of closest approach.",
+    "weight": 4
+  },
+  {
+    "title": "Part 2 displacement",
+    "description": "Essential: Correctly determines if a collision occurs in part (2) and states the corresponding final numerical answer (collision displacement or minimum distance).",
+    "weight": 5
+  },
+  {
+    "title": "Equal speed condition",
+    "description": "Important: Recognizes that the closest approach in the non-collision scenarios occurs when the velocities of A and B are equal.",
+    "weight": 3
+  },
+  {
+    "title": "Part 3 outcome",
+    "description": "Essential: Correctly determines if a collision is avoided in part (3) and states the corresponding final numerical answer (minimum distance or collision displacement).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses acceleration with incorrect sign (e.g., positive for deceleration) in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important: Correctly sets up the positions of trains A and B relative to a common point (e.g., B's braking point) for displacement comparison.",
+    "weight": 4
+  },
+  {
+    "title": "Time delay handling",
+    "description": "Important: Correctly accounts for the 8-second delay before train A accelerates in part (3).",
+    "weight": 3
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must correctly express the average pressure p as given in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly derive and state the relationship for (partial epsilon_s / partial V)_N as shown in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria: The student must correctly express the pressure p in terms of U and V as given in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Partition Function",
+    "description": "Important Criteria: The student should correctly relate the partition function Z to the pressure p in part (a).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Dependence on Volume",
+    "description": "Important Criteria: The student must demonstrate understanding of how energy states depend on volume in part (b).",
+    "weight": 4
+  },
+  {
+    "title": "Substitution in (c)",
+    "description": "Important Criteria: The student should correctly substitute the result from (b) into (a) to derive (c).",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid sign errors when deriving relationships between pressure and energy.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivations.",
+    "weight": -1
+  }
+]

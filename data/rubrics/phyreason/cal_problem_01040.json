@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration traction force",
+    "description": "Essential: Correctly calculates the traction force during acceleration using Newton's second law, F = ma + 0.05mg.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum acceleration speed",
+    "description": "Important: Correctly applies the power relationship P = Fv to find the speed v1 at the end of the constant acceleration phase.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration time",
+    "description": "Essential: Correctly calculates the acceleration duration using kinematics (t = v1 / a) to obtain the final answer of 20 s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum driving speed",
+    "description": "Essential: Correctly calculates the maximum speed at constant velocity using force equilibrium (P = f * vm) to obtain the final answer of 20 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Hydrogen mass calculation",
+    "description": "Essential: Correctly applies energy conservation with efficiency to calculate the required hydrogen mass, obtaining the final answer of 12.6 kg.",
+    "weight": 5
+  },
+  {
+    "title": "Energy-work equivalence",
+    "description": "Important: Correctly relates the engine's useful work output to the work done against resistance over the 300 km distance.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Demonstrates consistent unit handling, particularly converting km to m and kW to W.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Uses only ma or only 0.05mg for the traction force during acceleration, omitting the other term.",
+    "weight": -2
+  },
+  {
+    "title": "Power formula misuse",
+    "description": "Pitfall: Misapplies P = Fv, e.g., using the acceleration force to find maximum speed or vice-versa.",
+    "weight": -2
+  },
+  {
+    "title": "Efficiency error",
+    "description": "Pitfall: Misplaces the 50% efficiency factor, either applying it to the resistance work or the fuel energy incorrectly.",
+    "weight": -2
+  }
+]

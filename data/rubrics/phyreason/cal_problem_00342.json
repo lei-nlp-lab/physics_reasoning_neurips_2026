@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Charge polarity determination",
+    "description": "Essential Criteria: The student must correctly identify the particle's charge as negative, based on the direction of its acceleration relative to the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: The student must calculate the correct magnitude of the electric field strength, approximately 462 V/m or 800√3/3 V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential Criteria: The student must calculate the correct charge-to-mass ratio, 1.875 × 10¹⁰ C/kg.",
+    "weight": 5
+  },
+  {
+    "title": "Potential at key points",
+    "description": "Important Criteria: The student must correctly determine the potentials at points A and F using the given potentials and the uniform field property (e.g., φ_B - φ_C = φ_F - φ_E).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and displacement",
+    "description": "Important Criteria: The student must correctly calculate the displacement AE (≈0.173 m) using the hexagon's geometry and recognize it as the relevant distance for the potential difference.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic application",
+    "description": "Important Criteria: The student must correctly apply kinematics, using the time of flight from A to D and the displacement AE to relate acceleration to q/m.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student makes a sign error in potential differences, incorrectly assigns charge polarity, or misapplies the direction of acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's work demonstrates consistent use of SI units and correct unit analysis throughout the calculation.",
+    "weight": 1
+  }
+]

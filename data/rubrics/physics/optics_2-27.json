@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response should indicate that the proof is omitted as stated in the question.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concept",
+    "description": "Important Criteria: The response should demonstrate an understanding of Fresnel half-period zones and their significance in optics.",
+    "weight": 4
+  },
+  {
+    "title": "Area Explanation",
+    "description": "Important Criteria: The response should briefly explain why the areas of the zones are equal, referencing the geometry involved.",
+    "weight": 3
+  },
+  {
+    "title": "Reference to Textbooks",
+    "description": "Optional Criteria: The response could mention that the proof is commonly found in optics textbooks, providing context.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid omitting key details about the geometry of the zones that could lead to misunderstandings.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: The response must correctly calculate the wavelength using λ = c / f, yielding 8000 m.",
+    "weight": 5
+  },
+  {
+    "title": "Resonance capacitance formula",
+    "description": "Important: The response must apply the LC resonance formula f = 1 / (2π√(LC)) or its rearrangement.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitance calculation",
+    "description": "Essential: The response must correctly compute the capacitance, yielding 4.5 × 10⁻⁹ F (or 4.5 nF).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: All calculations must use consistent SI units (Hz for frequency, H for inductance, m/s for c).",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect frequency conversion",
+    "description": "Pitfall: Penalize if the frequency is not converted from kHz to Hz (37.5 kHz = 37500 Hz).",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Penalize if the wrong resonance formula (e.g., f = 1/(LC)) is used, or if π is omitted.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall: Penalize if final answers lack correct units (m, F) or have incorrect unit prefixes.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative derivation",
+    "description": "Optional: Award credit for a clear derivation showing the rearrangement of the resonance formula.",
+    "weight": 1
+  }
+]

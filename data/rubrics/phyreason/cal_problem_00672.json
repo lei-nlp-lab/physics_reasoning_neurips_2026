@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Battery EMF",
+    "description": "Essential: Correctly calculates the battery's electromotive force using E = U + Ir with the first set of readings.",
+    "weight": 5
+  },
+  {
+    "title": "Headlight Resistance",
+    "description": "Important: Correctly calculates the headlight's constant resistance from the first scenario's voltage and current.",
+    "weight": 3
+  },
+  {
+    "title": "Motor Current",
+    "description": "Essential: Correctly calculates the current through the starter motor when both switches are closed, applying Kirchhoff's current law and Ohm's law for the closed circuit.",
+    "weight": 5
+  },
+  {
+    "title": "Motor Terminal Voltage",
+    "description": "Important: Correctly identifies that the voltage across the motor equals the voltage across the headlight in the second scenario.",
+    "weight": 3
+  },
+  {
+    "title": "Motor Internal Resistance",
+    "description": "Essential: Correctly sets up and solves the power balance equation for the motor (P_output = U'I_M - I_M²R_0) to find its internal resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Error in EMF",
+    "description": "Pitfall: Uses E = U - Ir (wrong sign for internal voltage drop) when calculating the battery EMF.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Circuit Change",
+    "description": "Pitfall: Fails to recognize the headlight voltage changes when S2 is closed and incorrectly uses 12V for the second scenario.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (Volts, Amperes, Ohms, Watts) throughout all calculations.",
+    "weight": 1
+  }
+]

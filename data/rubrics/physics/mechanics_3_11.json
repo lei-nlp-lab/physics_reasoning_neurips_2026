@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total Pulses Sent",
+    "description": "Essential Criteria: The student must correctly identify that the traveler sends out 2t_1 pulses during the entire trip.",
+    "weight": 5
+  },
+  {
+    "title": "Outgoing Pulses Received",
+    "description": "Essential Criteria: The student must accurately calculate the number of pulses received by the traveler during the outgoing trip as t_1 * sqrt((1 - beta)/(1 + beta)).",
+    "weight": 5
+  },
+  {
+    "title": "Ingoing Pulses Received",
+    "description": "Essential Criteria: The student must correctly determine the number of pulses received by the traveler during the ingoing trip as t_1 * sqrt((1 + beta)/(1 - beta)).",
+    "weight": 5
+  },
+  {
+    "title": "Ratio of Pulses",
+    "description": "Important Criteria: The student must derive the ratio of total pulses received to those sent by the traveler as 1/sqrt(1 - beta^2).",
+    "weight": 4
+  },
+  {
+    "title": "Home Twin Pulses",
+    "description": "Important Criteria: The student must correctly calculate the number of pulses received by the stay-at-home twin during the intervals t_2 and t_3.",
+    "weight": 4
+  },
+  {
+    "title": "Frequency Ratios",
+    "description": "Important Criteria: The student must determine the ratio of lowered-frequency pulses to raised-frequency pulses received by the home twin as 1.",
+    "weight": 3
+  },
+  {
+    "title": "Total Pulses Ratio",
+    "description": "Important Criteria: The student must find the ratio of total pulses sent by the home twin to those received as 1/sqrt(1 - beta^2).",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign errors in the calculations for frequency shifts and pulse counts.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all time intervals and frequencies are expressed in consistent units.",
+    "weight": -1
+  }
+]

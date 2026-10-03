@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Partition Function",
+    "description": "Essential Criteria: The partition function Z must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Average Open Links",
+    "description": "Essential Criteria: The average number of open links must be accurately calculated and expressed.",
+    "weight": 5
+  },
+  {
+    "title": "Limit Condition Application",
+    "description": "Important Criteria: The limit condition of beta epsilon >> 1 must be correctly applied in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Derivation",
+    "description": "Important Criteria: Key steps in the derivation of the partition function and average number of open links must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Neglecting Terms",
+    "description": "Optional Criteria: The reasoning for neglecting certain terms in the limit should be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the expressions for Z or average number of open links must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that all terms are dimensionally consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Clebsch-Gordan Coefficients",
+    "description": "Essential Criteria: Provide the correct Clebsch-Gordan coefficients for the specified states.",
+    "weight": 5
+  },
+  {
+    "title": "Final Cross-Section Ratios",
+    "description": "Essential Criteria: Present the correct ratios of cross-sections for both resonance states.",
+    "weight": 5
+  },
+  {
+    "title": "Correct m1, m2 Values",
+    "description": "Important Criteria: Identify and justify the correct values of m1 and m2 that satisfy M = m1 + m2.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Isospin States",
+    "description": "Important Criteria: Properly utilize isospin states for pions and nucleons in the reactions.",
+    "weight": 4
+  },
+  {
+    "title": "Coefficient Calculations",
+    "description": "Optional Criteria: Show detailed calculations for Clebsch-Gordan coefficients and cross-section ratios.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as sign errors or incorrect application of isospin.",
+    "weight": -2
+  }
+]

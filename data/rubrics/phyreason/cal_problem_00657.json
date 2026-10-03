@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed at A",
+    "description": "Essential Criteria: The final numerical answer for the speed at point A must be 4 m/s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Distance",
+    "description": "Essential Criteria: The final numerical answer for the maximum sliding distance must be 0.5 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Energy Balance on Arc",
+    "description": "Important Criteria: Correctly applies the work-energy theorem to the quarter-arc, identifying gravitational potential energy loss and electric field work as the sources of kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal Work-Energy",
+    "description": "Important Criteria: Correctly applies the work-energy theorem for the horizontal segment, setting initial kinetic energy equal to work done by friction and the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Forces on Horizontal",
+    "description": "Important Criteria: Correctly identifies that the net force opposing motion on the horizontal surface is the sum of kinetic friction and the electric force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign of Electric Work",
+    "description": "Pitfall Criteria: Incorrectly assigns the sign for the work done by the electric field on either segment, leading to wrong energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Friction Calculation",
+    "description": "Pitfall Criteria: Uses an incorrect normal force (e.g., includes electric force) when calculating the frictional work on the horizontal surface.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Demonstrates unit analysis throughout the calculation, confirming all terms are in joules or equivalent.",
+    "weight": 1
+  }
+]

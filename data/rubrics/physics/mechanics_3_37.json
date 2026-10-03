@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Speed Calculation",
+    "description": "Essential Criteria: The final speed v must be correctly calculated using the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The total energy E of the photons emitted must be correctly expressed as E = Nt.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Relation",
+    "description": "Important Criteria: The relationship between energy and momentum must be correctly applied, showing mv = E/c.",
+    "weight": 4
+  },
+  {
+    "title": "Variable Definitions",
+    "description": "Important Criteria: All variables (N, m, t, c) must be clearly defined and used appropriately.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign errors in the momentum or speed calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Check for any missing factors in the final speed formula.",
+    "weight": -1
+  }
+]

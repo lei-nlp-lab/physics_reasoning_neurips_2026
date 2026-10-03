@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field inside the conducting shell for r < a.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Outside",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field outside the conducting shell for r > b.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Inside",
+    "description": "Important Criteria: The student must state that the electric field is zero for a < r < b.",
+    "weight": 4
+  },
+  {
+    "title": "Charge on Inner Surface",
+    "description": "Essential Criteria: The student must correctly identify the charge on the inner surface of the conducting shell as -q.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student should demonstrate the application of Gauss' law in deriving the electric field expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when calculating the charge on the inner surface.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the solution.",
+    "weight": 2
+  }
+]

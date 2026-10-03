@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Probability",
+    "description": "Essential Criteria: The final probability of finding the total spin to be zero must be correctly calculated as 1/4.",
+    "weight": 5
+  },
+  {
+    "title": "Measurement Interpretation",
+    "description": "Important Criteria: The student should correctly interpret the measurement of spin states and how they relate to the total spin.",
+    "weight": 4
+  },
+  {
+    "title": "State Representation",
+    "description": "Important Criteria: The student must express the states of the particles correctly in terms of the relevant spin bases.",
+    "weight": 4
+  },
+  {
+    "title": "Inner Product Calculation",
+    "description": "Important Criteria: The calculation of the inner product between the states must be shown and correctly computed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or miscalculating the inner products.",
+    "weight": -2
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student may provide alternative methods or reasoning for arriving at the final probability.",
+    "weight": 1
+  }
+]

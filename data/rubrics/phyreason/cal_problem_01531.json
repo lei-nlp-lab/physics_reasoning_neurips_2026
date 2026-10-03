@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum speed at C",
+    "description": "Essential: Student correctly states or uses the condition that at point C, gravity provides the centripetal force, leading to v_C = sqrt(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Speed at B from energy",
+    "description": "Important: Student applies the work-energy theorem between B and C, accounting for the change in gravitational potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at B",
+    "description": "Essential: Student correctly calculates the supporting force at B using Newton's second law for circular motion: N - mg = m v_B^2 / R.",
+    "weight": 5
+  },
+  {
+    "title": "Motor work from energy",
+    "description": "Important: Student relates the motor's work (Pt) to the kinetic energy at B and the work done against friction on the straight track.",
+    "weight": 4
+  },
+  {
+    "title": "Correct numerical results",
+    "description": "Essential: Student provides the final numerical answers for v_C, N_B, and t with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation sign error",
+    "description": "Pitfall: Student uses an incorrect sign for the gravitational potential energy term when applying work-energy between B and C.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting friction work",
+    "description": "Pitfall: Student omits the work done against friction (F_f * L) when calculating the minimum motor operating time.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows unit analysis for at least one key equation, confirming dimensional consistency.",
+    "weight": 1
+  }
+]

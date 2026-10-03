@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Part 1 final answer",
+    "description": "Essential Criteria: The response must provide the correct expression for the pressure at point B: N' = m(v₀²/r) + mg - kQq/r².",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 final answer",
+    "description": "Essential Criteria: The response must provide the correct expression for the minimum speed at point A: v = √(kQq/(mr) + gr).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at B",
+    "description": "Important Criteria: The student must correctly apply Newton's second law at point B, summing all radial forces (normal, electric, gravitational) to equal the centripetal force.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at A",
+    "description": "Important Criteria: The student must correctly apply Newton's second law at point A, recognizing that the normal force is zero for minimum speed and summing electric and gravitational forces toward the center.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's third law",
+    "description": "Important Criteria: For part (1), the student must explicitly state or apply that the pressure on the track equals the normal force exerted by the track on the ball.",
+    "weight": 3
+  },
+  {
+    "title": "Direction of forces",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns the direction of the electric force (attraction toward center) or gravitational force at points A and B.",
+    "weight": -2
+  },
+  {
+    "title": "Minimum speed condition",
+    "description": "Pitfall Criteria: Penalize if the student fails to set the normal force to zero when solving for the minimum speed at point A.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional Criteria: The student shows clear algebraic steps in solving for the normal force and minimum speed expressions.",
+    "weight": 1
+  }
+]

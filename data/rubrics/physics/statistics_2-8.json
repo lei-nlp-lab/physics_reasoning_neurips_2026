@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Max Energy Non-Equilibrium",
+    "description": "Essential Criteria: The maximum possible value of E/N for non-equilibrium must be stated as epsilon.",
+    "weight": 5
+  },
+  {
+    "title": "Max Energy Equilibrium",
+    "description": "Essential Criteria: The maximum possible value of E/N for equilibrium must be stated as epsilon/2.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Function",
+    "description": "Important Criteria: The expression for entropy per atom S/N as a function of E/N must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Limits",
+    "description": "Important Criteria: The conditions for E/epsilon and N - E/epsilon being large must be acknowledged in the entropy derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the final expressions for E/N or S/N will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any mistakes in maintaining consistent units throughout the calculations will result in a deduction.",
+    "weight": -1
+  }
+]

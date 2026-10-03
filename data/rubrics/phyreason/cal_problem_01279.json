@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Debris flow final velocity",
+    "description": "Essential: Correctly calculates the debris flow's velocity at the bottom of the slope using kinematic equations.",
+    "weight": 5
+  },
+  {
+    "title": "Debris flow travel time",
+    "description": "Essential: Correctly calculates the time for the debris flow to reach the bottom of the slope.",
+    "weight": 5
+  },
+  {
+    "title": "Car acceleration time",
+    "description": "Essential: Correctly calculates the time for the car to accelerate to the debris flow's final velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Safety conclusion",
+    "description": "Essential: Correctly compares the positions of the car and debris flow to determine if escape is possible.",
+    "weight": 5
+  },
+  {
+    "title": "Reaction time inclusion",
+    "description": "Important: Correctly accounts for the driver's 1-second reaction time in the car's motion timeline.",
+    "weight": 4
+  },
+  {
+    "title": "Motion phase analysis",
+    "description": "Important: Correctly models the debris flow's motion in two phases (accelerated on slope, uniform on flat).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Important: Applies appropriate kinematic equations (e.g., v² = u² + 2as, v = u + at, s = ut + ½at²) correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns signs to acceleration or velocity, or confuses the timeline of events.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring uniform motion",
+    "description": "Pitfall: Fails to recognize the debris flow switches to uniform motion on the horizontal plane.",
+    "weight": -2
+  }
+]

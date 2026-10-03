@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: Final Ratio",
+    "description": "Essential Criteria: The final answer must be the correct numerical ratio I1/I2 = √2 / 2.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Force in Case 1",
+    "description": "Important Criteria: Correctly identifies the Coulomb force as the centripetal force for the single-charge case (F1 = kQe/r²).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Force in Case 2",
+    "description": "Important Criteria: Correctly calculates the net Coulomb force on the electron from two charges, including vector addition and the 30° angle (F2 = √3 kQe/r²).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Radius in Case 2",
+    "description": "Important Criteria: Correctly determines the radius of the circular orbit in the two-charge case using geometry (r' = r cos 30° = √3 r / 2).",
+    "weight": 3
+  },
+  {
+    "title": "Important: Relating Period to Current",
+    "description": "Important Criteria: Applies the definition of equivalent current (I = e/T) for both cases and relates it to centripetal force via T.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Algebraic Derivation",
+    "description": "Optional Criteria: Shows clear algebraic combination of force, centripetal acceleration, and current definitions to derive expressions for I1 and I2.",
+    "weight": 2
+  },
+  {
+    "title": "Pitfall: Force Direction/Sign",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly treats the force as repulsive or misapplies the sign of the electron's charge in the force calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Geometry Error",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect angle (e.g., 60°) or wrong radius (e.g., r' = r) for the two-charge case.",
+    "weight": -1
+  }
+]

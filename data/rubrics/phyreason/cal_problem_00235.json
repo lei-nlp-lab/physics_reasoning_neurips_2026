@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum magnetic field",
+    "description": "Essential: Correctly states the final answer for the minimum magnetic induction as B_min = 2π m v_0 / (e L).",
+    "weight": 5
+  },
+  {
+    "title": "Condition for passing O",
+    "description": "Important: Applies the condition that the time to travel the cylinder length L/v_0 equals an integer multiple of the cyclotron period 2πm/(eB).",
+    "weight": 4
+  },
+  {
+    "title": "Maximum tanθ value",
+    "description": "Essential: Correctly states the final answer for the absolute value of tanθ as 2πr / L.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum y-velocity component",
+    "description": "Important: Relates the maximum transverse velocity v_ym to the geometry by using the maximum orbital radius constraint R = r in the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum y-displacement",
+    "description": "Essential: Correctly states the final answer for the maximum displacement in the electric field as y_m = (2π² r² v_0² m) / (E e L²).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: Applies kinematics (v² = 2a y) and Newton's second law (a = Ee/m) for motion in the uniform electric field.",
+    "weight": 3
+  },
+  {
+    "title": "Misinterpreted geometry",
+    "description": "Pitfall: Incorrectly assumes the electron's helical path radius is not constrained by the cylinder's inner radius r, leading to an incorrect v_ym or tanθ.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or charge error",
+    "description": "Pitfall: Uses an incorrect sign for the electron charge (e) in the Lorentz force or electric force, leading to wrong expressions for B, acceleration, or displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Demonstrates dimensional analysis to verify the units of the final answers for B, tanθ, and y_m are correct.",
+    "weight": 1
+  }
+]

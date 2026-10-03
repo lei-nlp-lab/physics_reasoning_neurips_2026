@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Intensity Expression",
+    "description": "Essential Criteria: The student must derive the correct expression for intensity I as a function of theta.",
+    "weight": 5
+  },
+  {
+    "title": "Resolving Power Derivation",
+    "description": "Essential Criteria: The student must correctly derive the expression for resolving power Δλ/λ in terms of m and N.",
+    "weight": 5
+  },
+  {
+    "title": "Phase Difference Explanation",
+    "description": "Important Criteria: The student should explain the phase difference between rays from adjacent slits as φ = kd sin θ.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Rayleigh Criterion",
+    "description": "Important Criteria: The student must apply the Rayleigh criterion correctly to establish the relationship between wavelengths.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units and dimensions throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the phase difference or intensity equations.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Diffraction Effects",
+    "description": "Pitfall Criteria: The student must acknowledge the assumption of neglecting diffraction due to finite slit width.",
+    "weight": -1
+  }
+]

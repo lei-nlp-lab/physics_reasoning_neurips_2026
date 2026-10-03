@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum EMF Value",
+    "description": "Essential: The final numerical answer for maximum induced EMF must be 600 V.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum EMF Formula",
+    "description": "Important: The student must correctly apply the formula Em = N * B * S * ω, where S is the coil area.",
+    "weight": 4
+  },
+  {
+    "title": "Time Function Form",
+    "description": "Essential: The expression for e(t) must be in the correct trigonometric form (cosine) with the correct amplitude and argument.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Velocity Argument",
+    "description": "Important: The time-dependent argument must correctly use the given ω (100 rad/s) as the coefficient of t.",
+    "weight": 3
+  },
+  {
+    "title": "Area Calculation",
+    "description": "Important: The student must correctly calculate the coil area S from the given side lengths (0.30 m and 0.20 m).",
+    "weight": 3
+  },
+  {
+    "title": "Cosine vs Sine Choice",
+    "description": "Pitfall: Using sine instead of cosine for e(t) without justification, given the initial position shown in the diagram.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: The solution demonstrates consistent use of SI units (meters, teslas, etc.) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Phase or Constant Error",
+    "description": "Pitfall: Including an incorrect phase constant or a negative sign in the final e(t) expression without proper reasoning.",
+    "weight": -1
+  }
+]

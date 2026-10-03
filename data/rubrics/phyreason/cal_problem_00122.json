@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Proportionality constant k",
+    "description": "Essential: Correctly solves for k using equilibrium of forces before voltage is applied, yielding k = (m_0^(2/3) * g * t) / h_1.",
+    "weight": 5
+  },
+  {
+    "title": "Charges and polarities",
+    "description": "Essential: Correctly identifies droplet A as uncharged (q_A = 0) and droplet B as having a negative charge with magnitude q_B = (m_0 * g * d * (h_1 + h_2)) / (h_1 * U).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: Applies Newton's first law (force equilibrium) for uniform motion, both for the initial fall and for droplet B's rise after the field is applied.",
+    "weight": 4
+  },
+  {
+    "title": "Potential energy change",
+    "description": "Important: Correctly calculates the change in potential energy for B as ΔE_p = - (U/d) * q_B * h_2, leading to ΔE_p = - (m_0 * g * h_2 * (h_1 + h_2)) / h_1.",
+    "weight": 3
+  },
+  {
+    "title": "Post-collision velocity",
+    "description": "Important: Determines the new droplet's uniform velocity magnitude and direction using momentum conservation and force equilibrium, considering the two cases (h2 > h1 or h1 > h2).",
+    "weight": 4
+  },
+  {
+    "title": "Air resistance model application",
+    "description": "Important: Correctly uses the given air resistance formula f = k * m^(1/3) * v in setting up force balance equations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Incorrectly assigns the polarity of droplet B (e.g., positive) or misinterprets the direction of the electric force relative to the field.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity relation error",
+    "description": "Pitfall: Fails to relate uniform velocities to given distances and time (v = h/t) or misapplies this to the post-collision motion.",
+    "weight": -1
+  },
+  {
+    "title": "Mass exponent mistake",
+    "description": "Pitfall: Incorrectly handles the m^(1/3) factor in the air resistance, especially for the combined droplet of mass 2m_0.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Step-up turns ratio",
+    "description": "Essential: The final answer for part (1) must be the correct numerical ratio (e.g., 1/40 or 0.025).",
+    "weight": 5
+  },
+  {
+    "title": "Step-down turns ratio",
+    "description": "Essential: The final answer for part (2) must be the correct numerical ratio (e.g., 90/1 or 90).",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important: The solution must correctly calculate the transmission line current from the allowable power loss (P_loss = I²R).",
+    "weight": 4
+  },
+  {
+    "title": "Step-up transformer voltage",
+    "description": "Important: The solution must correctly calculate the secondary (high) voltage of the step-up transformer using P = U₂I₂.",
+    "weight": 4
+  },
+  {
+    "title": "Voltage drop calculation",
+    "description": "Important: The solution must correctly calculate the voltage drop across the transmission line and subtract it to find the input voltage at the step-down transformer.",
+    "weight": 4
+  },
+  {
+    "title": "Transformer ratio formula",
+    "description": "Optional: The solution explicitly states the transformer voltage-turns ratio relationship (U₁/U₂ = n₁/n₂) for both transformers.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution demonstrates consistent unit handling (e.g., kW to W, kV to V).",
+    "weight": 1
+  },
+  {
+    "title": "Power loss misinterpretation",
+    "description": "Pitfall: Incorrectly using the generator output power P (200 kW) instead of the allowable loss (2 kW) to calculate the transmission line current.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall: Making an arithmetic error in calculating voltages or ratios, or incorrectly adding the line drop instead of subtracting.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The student's final answer for part (1) must be v = sqrt(2gh).",
+    "weight": 5
+  },
+  {
+    "title": "Correct average power",
+    "description": "Essential: The student's final answer for part (2) must be P_avg = mgh / t_0.",
+    "weight": 5
+  },
+  {
+    "title": "Apply work-energy theorem",
+    "description": "Important: The solution for part (1) must correctly apply the work-energy theorem or conservation of mechanical energy, equating mgh to (1/2)mv^2.",
+    "weight": 4
+  },
+  {
+    "title": "Define average power",
+    "description": "Important: The solution for part (2) must correctly define average power as the total work done by gravity (mgh) divided by the elapsed time (t_0).",
+    "weight": 4
+  },
+  {
+    "title": "Consistent use of symbols",
+    "description": "Optional: The solution uses the given symbols (m, g, h, t_0) consistently and does not introduce unnecessary variables.",
+    "weight": 1
+  },
+  {
+    "title": "Unit analysis or mention",
+    "description": "Optional: The solution includes or implies correct units for speed (m/s) and power (W).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect energy principle",
+    "description": "Pitfall: Using kinematics (e.g., v = gt) instead of energy conservation to find the speed at O, which is incorrect as the path is not vertical free fall.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying work or time",
+    "description": "Pitfall: For part (2), using an incorrect expression for the work done by gravity (not mgh) or using a calculated time instead of the given t_0.",
+    "weight": -2
+  }
+]

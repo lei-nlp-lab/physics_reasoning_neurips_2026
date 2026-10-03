@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Force Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric force on the charge q.",
+    "weight": 5
+  },
+  {
+    "title": "Final Potential Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the potential of the inner surface of the conducting shell.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Image Charges",
+    "description": "Important Criteria: The student should correctly apply the method of images to determine the force on the charge.",
+    "weight": 4
+  },
+  {
+    "title": "Equipotential Concept",
+    "description": "Important Criteria: The student must recognize that the conducting shell is an equipotential body.",
+    "weight": 3
+  },
+  {
+    "title": "Distance and Charge Relations",
+    "description": "Optional Criteria: The student may include the correct relationships between the distances and charges in their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the expression for the force or potential.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

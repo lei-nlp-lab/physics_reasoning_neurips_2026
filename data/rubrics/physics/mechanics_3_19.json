@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student provides both final velocities of the particles as seen from each other's frames.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Calculation",
+    "description": "Important Criteria: The student correctly calculates the velocities of both particles using their given momenta.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Transformation",
+    "description": "Important Criteria: The student applies the velocity transformation formula correctly to find the relative velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The student includes the correct units (c) in their final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student fails to account for the correct signs in the relative velocities, leading to incorrect answers.",
+    "weight": -2
+  }
+]

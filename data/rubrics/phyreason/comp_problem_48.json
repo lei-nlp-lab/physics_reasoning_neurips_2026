@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Horizontal velocity correct",
+    "description": "Essential: Student states horizontal velocity in Bob's frame equals Alice's car speed, v_x = βc.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical velocity correct",
+    "description": "Essential: Student correctly applies relativistic velocity addition or Pythagorean relation to find v_y = c√(1 - β²).",
+    "weight": 5
+  },
+  {
+    "title": "Ground travel time correct",
+    "description": "Essential: Student calculates time for muons to reach ground in Bob's frame as Δt = h / (c√(1 - β²)).",
+    "weight": 5
+  },
+  {
+    "title": "Total observed time interval",
+    "description": "Important: Student accounts for light travel time to Bob's eyes, deriving Δt_total = (h/c) * (1 + β cosθ) / √(1 - β²).",
+    "weight": 4
+  },
+  {
+    "title": "Equates Alice and Bob times",
+    "description": "Important: For part (5), student sets Alice's proper time (h/c) equal to Bob's observed time and solves for cosθ.",
+    "weight": 4
+  },
+  {
+    "title": "Doppler shift formula",
+    "description": "Important: Student applies relativistic Doppler formula to find observed frequency f' = f √(1 - β²) / (1 + β cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Solves for specific angle",
+    "description": "Optional: For β=1/2, student correctly computes θ ≈ 105.5° or shows understanding of the transcendental step.",
+    "weight": 2
+  },
+  {
+    "title": "Misapplies velocity addition",
+    "description": "Pitfall: Student uses Galilean transformation for vertical velocity or incorrectly adds velocities relativistically.",
+    "weight": -2
+  },
+  {
+    "title": "Neglects light travel time",
+    "description": "Pitfall: In part (4), student fails to include the extra time for light to travel from events to Bob's position.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses proper and observed time",
+    "description": "Pitfall: Student conflates time in Alice's frame with time measured by Bob's eyes in the equation for part (5).",
+    "weight": -1
+  }
+]

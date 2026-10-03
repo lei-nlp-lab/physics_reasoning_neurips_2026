@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum resistance condition",
+    "description": "Essential: The student must state or derive the condition for impending rightward slip, where the tension equals the sum of friction and magnetic force, leading to the maximum allowed resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum resistance condition",
+    "description": "Essential: The student must state or derive the condition for impending leftward slip, where the magnetic force equals the sum of tension and friction, leading to the minimum allowed resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Correct force balance",
+    "description": "Important: The student's free-body diagram or equations must correctly include all horizontal forces: tension from the weight, kinetic friction, and magnetic force (BIl).",
+    "weight": 4
+  },
+  {
+    "title": "Application of Ohm's law",
+    "description": "Important: The student must correctly relate the current in each limiting case to the circuit parameters using I = E/(R + r).",
+    "weight": 4
+  },
+  {
+    "title": "Correct friction direction",
+    "description": "Important: The student must correctly assign the direction of the friction force opposite to the direction of impending motion in each limiting case.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's working should demonstrate consistent use of SI units (N, m, T, Ω, etc.) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: The student incorrectly adds or subtracts the magnetic force, friction, or tension, reversing the inequality for the resistance range.",
+    "weight": -2
+  },
+  {
+    "title": "Omits internal resistance",
+    "description": "Pitfall: The student uses I = E/R, neglecting the internal resistance 'r' in the circuit equation.",
+    "weight": -2
+  }
+]

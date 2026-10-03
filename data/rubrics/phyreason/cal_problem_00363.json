@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Constant current charge relation",
+    "description": "Essential: The response must correctly state that the capacitor voltage is U1 = It / C.",
+    "weight": 5
+  },
+  {
+    "title": "KVL application",
+    "description": "Essential: The response must correctly state that the capacitor voltage is U2 = U - I2R.",
+    "weight": 5
+  },
+  {
+    "title": "Charge accumulation reasoning",
+    "description": "Important: The solution should link constant current to accumulated charge Q = It.",
+    "weight": 3
+  },
+  {
+    "title": "Ohm's Law on resistor",
+    "description": "Important: For part (2), the solution must calculate the resistor voltage as I2R.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit stage understanding",
+    "description": "Optional: The response may correctly identify the constant-current and constant-voltage stages.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers may be presented with correct implied units (volts).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in KVL",
+    "description": "Pitfall: Incorrectly writing U2 = U + I2R or U2 = I2R - U.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing capacitance formula",
+    "description": "Pitfall: Using U1 = I t C instead of U1 = (I t) / C.",
+    "weight": -2
+  }
+]

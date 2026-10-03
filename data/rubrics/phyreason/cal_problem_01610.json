@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity before magnetic field",
+    "description": "Essential: Correctly calculates the velocity v = a₁t = (F/m)t, yielding v = 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration upon entry",
+    "description": "Essential: Correctly calculates the acceleration a = (F - BIL)/m, using I = BLv/R, yielding a = 0.2 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed",
+    "description": "Essential: Correctly determines the maximum speed v_m from force balance F = BIL, using I = BLv_m/R, yielding v_m = 2.5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-entry kinematics",
+    "description": "Important: Applies Newton's second law (F=ma) to find the constant acceleration before entering the field.",
+    "weight": 3
+  },
+  {
+    "title": "EMF and current upon entry",
+    "description": "Important: Applies Faraday's law (E=BLv) and Ohm's law (I=E/R) to find the induced current at the moment of entry.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at max speed",
+    "description": "Important: Recognizes that at maximum speed, net force is zero, so the magnetic force (BIL) equals the applied force F.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in magnetic force",
+    "description": "Pitfall: Uses incorrect sign/direction for the magnetic force in Newton's second law (e.g., F + BIL = ma).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows consistent use of SI units (N, kg, m, s, T, Ω) throughout the calculation.",
+    "weight": 1
+  }
+]

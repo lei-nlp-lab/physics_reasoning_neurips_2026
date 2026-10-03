@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct speed at B",
+    "description": "Essential: The final numerical answer for the speed at point B must be 8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct energy loss",
+    "description": "Essential: The final numerical answer for the mechanical energy loss from A to C must be 5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem correctly between points B and C, relating gravitational work to kinetic energy change.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field work identification",
+    "description": "Important: The solution must recognize that the electric field force does work from A to C, and this work is calculated via energy conservation.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for gravitational work",
+    "description": "Important: The solution must correctly use the geometry (R and 30° angle) to find the vertical drop from B to C as R sin 30°.",
+    "weight": 3
+  },
+  {
+    "title": "Mechanical energy loss definition",
+    "description": "Important: The solution must correctly state that the loss of mechanical energy equals the magnitude of the work done by the electric field force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All quantities should be expressed with correct SI units (m, m/s, J, kg) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in electric work",
+    "description": "Pitfall: Penalize if the sign of the electric field force's work is mistaken (it is negative, but the energy loss is positive).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect height for B-C",
+    "description": "Pitfall: Penalize if the vertical distance from B to C is incorrectly taken as R, R cos 30°, or another wrong geometric expression.",
+    "weight": -2
+  }
+]

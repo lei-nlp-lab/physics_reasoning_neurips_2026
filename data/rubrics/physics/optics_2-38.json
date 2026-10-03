@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer Requirement",
+    "description": "Essential Criteria: Provide the correct inequality for F/f or R based on the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding Divergence",
+    "description": "Important Criteria: Explain how aperture diffraction affects the angular divergence of a beam.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Equations",
+    "description": "Important Criteria: Correctly apply the equations for angular divergence from both the lens and mirror systems.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Relationships",
+    "description": "Important Criteria: Discuss the relationship between the focal lengths and radii of the lenses and mirrors in reducing divergence.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: Include appropriate units and constants used in calculations, such as the wavelength of the laser.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes or incorrect application of the diffraction limit formula.",
+    "weight": -2
+  },
+  {
+    "title": "Beam Expansion Explanation",
+    "description": "Optional Criteria: Describe how expanding the beam cross-section contributes to reduced divergence.",
+    "weight": 1
+  }
+]

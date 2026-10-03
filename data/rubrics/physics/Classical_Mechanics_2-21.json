@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Range Equation",
+    "description": "Essential Criteria: The correct expression for the horizontal range R must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Air Resistance Force",
+    "description": "Essential Criteria: The derived equation for the force from air resistance must be accurately stated.",
+    "weight": 5
+  },
+  {
+    "title": "Position Functions",
+    "description": "Essential Criteria: The position functions x(t) and y(t) as a function of time must be correctly derived.",
+    "weight": 5
+  },
+  {
+    "title": "First Order Correction",
+    "description": "Important Criteria: The first order correction to the horizontal range must be calculated and presented.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic Analysis",
+    "description": "Important Criteria: The use of kinematic equations to find time of flight must be clearly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Assumptions Stated",
+    "description": "Optional Criteria: Any assumptions made during the derivation, such as neglecting air resistance initially, should be stated.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units should be checked for consistency throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing factors in the air resistance force equation or sign mistakes in the equations will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Final Results Presentation",
+    "description": "Pitfall Criteria: Failure to clearly present final results or to box important answers will result in a deduction.",
+    "weight": -1
+  }
+]

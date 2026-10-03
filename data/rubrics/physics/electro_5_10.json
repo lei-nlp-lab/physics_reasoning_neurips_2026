@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must correctly derive the electric field E' as seen by observer B.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field",
+    "description": "Essential Criteria: The student must correctly derive the magnetic field B' as seen by observer B.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Density Derivation",
+    "description": "Important Criteria: The student must correctly derive the charge density rho' in the wire as seen by observer B.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Transformations",
+    "description": "Important Criteria: The student must correctly apply the Lorentz transformation to find the velocities of the electron and ion streams.",
+    "weight": 4
+  },
+  {
+    "title": "Charge Density Explanation",
+    "description": "Important Criteria: The student must provide a clear explanation for the presence of charge density seen by observer B but not by A.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the derivation of electric and magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Scattering Matrix",
+    "description": "Essential Criteria: The student must provide the correct form of the scattering matrix S.",
+    "weight": 5
+  },
+  {
+    "title": "Determinant Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the determinant of the matrix M as det M = k_1 / k_3.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission Coefficient",
+    "description": "Essential Criteria: The student must derive the correct expression for the leftward transmission coefficient T_l.",
+    "weight": 5
+  },
+  {
+    "title": "Continuity Conditions",
+    "description": "Important Criteria: The student should correctly apply continuity conditions for the wavefunction and its derivative at the potential boundaries.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Formulation",
+    "description": "Important Criteria: The student should express the relationships between wave coefficients in matrix form accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes when calculating coefficients or determinants.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all quantities are expressed in consistent units throughout the solution.",
+    "weight": -1
+  },
+  {
+    "title": "Algebraic Manipulation",
+    "description": "Optional Criteria: The student may show clear and correct algebraic manipulation when deriving expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student could provide a physical interpretation of the results, such as discussing the implications of the transmission coefficient.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final distance for part (1)",
+    "description": "Essential: The student's final numerical answer for the distance when the trigger is activated in the isothermal process must be 0.4 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Final temperature for part (2)",
+    "description": "Essential: The student's final numerical answer for the ambient temperature when the trigger is activated in the isochoric process must be 450 K (or equivalent in °C, e.g., 177°C).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Boyle's Law",
+    "description": "Important: For part (1), the student must correctly apply Boyle's Law (pV = constant) for the isothermal compression of the ideal gas.",
+    "weight": 4
+  },
+  {
+    "title": "Apply Charles's/Gay-Lussac's Law",
+    "description": "Important: For part (2), the student must correctly apply the pressure-temperature law (p/T = constant at constant volume) for the isochoric heating of the ideal gas.",
+    "weight": 4
+  },
+  {
+    "title": "Correct initial conditions",
+    "description": "Important: The student must correctly identify and use the initial pressure (p0), initial length/volume (L0), and initial temperature (T0 in Kelvin) in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student demonstrates consistent unit handling, e.g., converting length to meters and temperature to Kelvin where necessary.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied gas law",
+    "description": "Pitfall: Penalize if the student uses the wrong gas law (e.g., using Charles's Law for part (1) or Boyle's Law for part (2)).",
+    "weight": -2
+  },
+  {
+    "title": "Temperature unit error",
+    "description": "Pitfall: Penalize if the student fails to convert the initial temperature from Celsius to Kelvin for the calculation in part (2).",
+    "weight": -1
+  }
+]

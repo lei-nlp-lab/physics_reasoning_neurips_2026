@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave speed formula",
+    "description": "Essential: The response must correctly state the wave speed formula v = Δx / Δt and identify Δt = 0.2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct propagation distance",
+    "description": "Important: The reasoning must correctly relate the shift in the waveform diagram to a propagation distance of Δx = 8n + 6 meters, where n is a non-negative integer.",
+    "weight": 4
+  },
+  {
+    "title": "General wave speed expression",
+    "description": "Essential: The final answer for part (1) must be presented as v = (40n + 30) m/s or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum speed identification",
+    "description": "Important: For part (2), the solution must identify the minimum wave speed as corresponding to n = 0, giving v_min = 30 m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Angular frequency calculation",
+    "description": "Important: The calculation must correctly derive the angular frequency using ω = 2πv/λ, yielding ω = 15π/2 rad/s for the minimum speed.",
+    "weight": 4
+  },
+  {
+    "title": "Vibration equation form",
+    "description": "Essential: The final answer for part (2) must be a correct vibration equation y = A sin(ωt + φ) for the particle at x=8 m, with A=0.02 m or 2 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Initial phase determination",
+    "description": "Important: The reasoning must determine the initial phase φ at t1 for x=8 m, concluding it is π radians (or equivalent, e.g., -π).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency error",
+    "description": "Pitfall: Penalize if the amplitude in the final vibration equation is given without units or with inconsistent units (e.g., mixing m and cm incorrectly).",
+    "weight": -1
+  },
+  {
+    "title": "Sign/direction misinterpretation",
+    "description": "Pitfall: Penalize if the propagation distance Δx is incorrectly taken as 2 m or 8n - 6 m, misreading the waveform shift direction.",
+    "weight": -2
+  }
+]

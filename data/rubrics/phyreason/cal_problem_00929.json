@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Current calculation",
+    "description": "Essential: Student must correctly apply Ohm's law to find current I = E/(R₀ + r) = 1.5 A.",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Student must compute F_a = BIL = 0.30 N using the correct current and given values.",
+    "weight": 5
+  },
+  {
+    "title": "Gravity decomposition",
+    "description": "Important: Student must resolve gravity into components, finding F₁ = mg sinθ = 0.24 N along the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Student must set up correct equilibrium equation along incline, considering directions of Ampere force, gravity component, and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Friction calculation",
+    "description": "Essential: Student must solve equilibrium to find friction f = F_a - mg sinθ = 0.06 N.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent SI units throughout calculations and includes units with final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student incorrectly assigns direction/sign to forces (e.g., friction opposite to actual direction, wrong sign in equilibrium).",
+    "weight": -2
+  },
+  {
+    "title": "Ohm's law misuse",
+    "description": "Pitfall: Student omits internal resistance or uses wrong resistance in current calculation (e.g., I = E/R₀ only).",
+    "weight": -2
+  }
+]

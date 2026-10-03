@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Emergency braking acceleration",
+    "description": "Essential: Correctly calculates the acceleration magnitude during emergency braking using Newton's second law (a = F/m).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at trigger",
+    "description": "Essential: Correctly states the car's speed (8 m/s) at the moment emergency braking is triggered.",
+    "weight": 5
+  },
+  {
+    "title": "Distance at trigger",
+    "description": "Essential: Correctly states the distance to the obstacle (4 m) when emergency braking is triggered.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the average velocity for the entire 22m motion (22/3 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Two-stage kinematic setup",
+    "description": "Important: Sets up correct kinematic equations for the two phases of motion (constant deceleration, then emergency braking).",
+    "weight": 4
+  },
+  {
+    "title": "Consistent sign convention",
+    "description": "Important: Applies a consistent sign convention for acceleration/velocity in the kinematic equations.",
+    "weight": 3
+  },
+  {
+    "title": "Total displacement relation",
+    "description": "Important: Recognizes that the sum of displacements in the two phases equals the total 22 m distance.",
+    "weight": 4
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional: Includes unit analysis or conversion in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses acceleration with incorrect sign in kinematic equations, leading to wrong velocity/distance.",
+    "weight": -2
+  },
+  {
+    "title": "Force misuse",
+    "description": "Pitfall: Incorrectly uses the 12000 N resistance force in the first phase or misapplies Newton's second law.",
+    "weight": -2
+  }
+]

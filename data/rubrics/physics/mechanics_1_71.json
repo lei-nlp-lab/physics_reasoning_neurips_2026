@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the angular velocity of precession, omega_p.",
+    "weight": 5
+  },
+  {
+    "title": "Force Equation",
+    "description": "Important Criteria: The student should correctly derive the force acting on the planet, including both gravitational and repulsive components.",
+    "weight": 4
+  },
+  {
+    "title": "Binet's Formula Application",
+    "description": "Important Criteria: The student must apply Binet's formula correctly to relate the orbit's parameters and derive the necessary equations.",
+    "weight": 4
+  },
+  {
+    "title": "Small Perturbation Analysis",
+    "description": "Important Criteria: The student should correctly set up and analyze the small perturbation around the circular orbit.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Slider B pre-collision velocity",
+    "description": "Essential: Correctly calculates the velocity of slider B just before the first collision using energy conservation, accounting for work done by friction on the horizontal segment.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocities",
+    "description": "Essential: Correctly identifies the velocities of both masses after the elastic collision, showing slider B stops and ball A acquires slider's pre-collision speed.",
+    "weight": 5
+  },
+  {
+    "title": "String tension calculation",
+    "description": "Essential: Correctly applies Newton's second law for circular motion to find the tension in the string immediately after the collision.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum speed for circular motion",
+    "description": "Important: Correctly determines the minimum speed required at the lowest point for the ball to complete vertical circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Slider's total travel distance",
+    "description": "Important: Correctly applies the work-energy theorem to find the total distance slider B travels before stopping, accounting for friction.",
+    "weight": 3
+  },
+  {
+    "title": "Number of complete cycles",
+    "description": "Important: Correctly relates the slider's travel distance to the fixed spacing to determine the number of times the ball completes circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation misuse",
+    "description": "Pitfall: Fails to account for work done by friction when using energy conservation for slider B's motion.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force sign error",
+    "description": "Pitfall: Uses an incorrect force balance (e.g., T + mg = mv²/L) when calculating tension at the lowest point.",
+    "weight": -1
+  },
+  {
+    "title": "Condition for circular motion",
+    "description": "Optional: Explicitly states or derives the condition (v_top ≥ √(gL)) for the ball to complete the vertical circle.",
+    "weight": 1
+  }
+]

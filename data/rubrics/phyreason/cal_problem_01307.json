@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Moon mass expression",
+    "description": "Essential Criteria: The response must correctly derive and state the mass of the Moon as M = (4π²R³)/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Surface gravity expression",
+    "description": "Essential Criteria: The response must correctly derive and state the gravitational acceleration as g = (4π²R)/(T²).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's law",
+    "description": "Important Criteria: The solution must equate the gravitational force to the centripetal force for the orbiting spacecraft.",
+    "weight": 4
+  },
+  {
+    "title": "Correct centripetal relation",
+    "description": "Important Criteria: The centripetal force/acceleration must be expressed in terms of the orbital period T and radius R.",
+    "weight": 3
+  },
+  {
+    "title": "Orbital radius identification",
+    "description": "Important Criteria: The reasoning must correctly identify the orbital radius as equal to the Moon's radius R.",
+    "weight": 3
+  },
+  {
+    "title": "Derive g from M",
+    "description": "Optional Criteria: The solution may show deriving surface g by substituting M into Newton's law of gravitation at the surface.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The response may include a check that the final expressions have correct units for mass and acceleration.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius usage",
+    "description": "Pitfall Criteria: Penalize if the student uses an orbital radius different from R (e.g., R+h) without justification.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or sign error",
+    "description": "Pitfall Criteria: Penalize for algebraic mistakes in solving for M or g, or incorrect sign in the force equation.",
+    "weight": -1
+  }
+]

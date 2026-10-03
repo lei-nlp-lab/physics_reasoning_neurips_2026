@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: The final answer must be 1000 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem, stating that the kinetic energy gained equals the work done by the electric field (qU).",
+    "weight": 4
+  },
+  {
+    "title": "Charge-to-mass ratio derivation",
+    "description": "Important: The solution must derive or use the ratio q/m from the given acceleration, Coulomb's law, and Newton's second law.",
+    "weight": 4
+  },
+  {
+    "title": "Correct potential difference",
+    "description": "Important: The solution must correctly identify the electric potential difference U as 3000 V (potential at P minus potential at infinity).",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic combination of expressions",
+    "description": "Important: The solution must correctly combine the expressions for v, q/m, and U to eliminate q and m.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answer should have correct units (m/s) and intermediate calculations should maintain dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work or potential",
+    "description": "Pitfall: Penalize if the work done by the electric force is given a positive sign or if the potential difference U is calculated incorrectly (e.g., infinity minus P).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting given acceleration",
+    "description": "Pitfall: Penalize if the instantaneous acceleration at P is used directly in the energy equation without deriving the charge-to-mass ratio.",
+    "weight": -1
+  }
+]

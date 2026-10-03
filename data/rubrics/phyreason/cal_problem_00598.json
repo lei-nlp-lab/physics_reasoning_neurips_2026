@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Static normal force",
+    "description": "Essential: The student must state or derive the correct expression for the normal/elastic force, N = mg cos α.",
+    "weight": 5
+  },
+  {
+    "title": "Static friction force",
+    "description": "Essential: The student must state or derive the correct expression for the static friction force, f = mg sin α.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction coefficient",
+    "description": "Essential: The student must state or derive the correct final answer for the coefficient of kinetic friction, μ = tan θ.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution should correctly resolve gravity into components and apply Newton's first law for both the static and constant-velocity scenarios.",
+    "weight": 4
+  },
+  {
+    "title": "Distinguish static and kinetic",
+    "description": "Important: The student must recognize that part (1) involves static equilibrium (friction adjusts to balance) and part (2) involves kinetic friction (constant velocity implies net force zero).",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram logic",
+    "description": "Optional: A clear free-body diagram or equivalent verbal description of all forces acting on the laptop on the incline.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions are checked for dimensional consistency (e.g., force has units of mg).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing angle or force",
+    "description": "Pitfall: Using sin α for the normal force or cos α for the friction force in the static equilibrium setup.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplying friction relation",
+    "description": "Pitfall: Incorrectly using the static friction result (tan α) as the kinetic friction coefficient, instead of deriving μ_k = tan θ from the constant-velocity condition.",
+    "weight": -2
+  }
+]

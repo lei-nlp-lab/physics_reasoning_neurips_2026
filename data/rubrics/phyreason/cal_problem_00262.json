@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Air resistance magnitude",
+    "description": "Essential: Correctly calculates air resistance as 4 N using Newton's second law with upward acceleration from graph.",
+    "weight": 5
+  },
+  {
+    "title": "Return velocity magnitude",
+    "description": "Essential: Correctly determines return speed as 4√6 m/s using kinematics with downward acceleration and maximum height.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity magnitude",
+    "description": "Essential: Correctly states average velocity is 0 m/s due to zero net displacement over round trip.",
+    "weight": 5
+  },
+  {
+    "title": "Upward acceleration analysis",
+    "description": "Important: Extracts upward acceleration (12 m/s²) from v-t graph slope and applies Newton's second law.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum height calculation",
+    "description": "Important: Calculates maximum height (6 m) using area under v-t graph or kinematics with initial velocity and time.",
+    "weight": 3
+  },
+  {
+    "title": "Downward acceleration determination",
+    "description": "Important: Computes downward acceleration (8 m/s²) using Newton's second law with air resistance opposing weight.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Treats velocity or acceleration signs incorrectly (e.g., ignoring vector nature in average velocity).",
+    "weight": -2
+  },
+  {
+    "title": "Air resistance assumption error",
+    "description": "Pitfall: Assumes air resistance changes direction or magnitude incorrectly during motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent units (N, m/s, m/s²) throughout calculations without conversion errors.",
+    "weight": 1
+  }
+]

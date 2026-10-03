@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct qualitative descriptions of the effects of perturbations on the orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Polar Flattening Effect",
+    "description": "Important Criteria: Explain how the non-central gravitational force affects the satellite's angular momentum and orbit shape.",
+    "weight": 4
+  },
+  {
+    "title": "Atmospheric Drag Impact",
+    "description": "Important Criteria: Describe how atmospheric drag alters the satellite's energy and leads to orbit decay.",
+    "weight": 4
+  },
+  {
+    "title": "Torque Explanation",
+    "description": "Optional Criteria: Discuss the role of torque in the precession of the angular momentum vector.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Terminology",
+    "description": "Optional Criteria: Use appropriate physics terminology and units throughout the explanation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid misrepresenting the effects of perturbations as negligible or incorrectly describing the orbit's final state.",
+    "weight": -2
+  }
+]

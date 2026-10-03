@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct velocity change",
+    "description": "Essential: Student must calculate Δv = v_final - v_initial = -1.3 m/s - 1.5 m/s = -2.8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration",
+    "description": "Essential: Student must compute a = Δv / Δt = -2.8 m/s / 0.7 s = -4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Proper sign convention",
+    "description": "Important: Student must define a consistent direction (e.g., right as positive) and apply it correctly to initial and final velocities.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration definition",
+    "description": "Important: Student must correctly apply the kinematic definition a = Δv/Δt, not confuse it with average speed formulas.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student should include proper units (m/s and m/s²) in final answers and show unit analysis in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in Δv",
+    "description": "Pitfall: Student incorrectly calculates Δv as v_initial - v_final, or ignores signs, yielding +2.8 m/s.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect time usage",
+    "description": "Pitfall: Student uses the wrong time interval (e.g., time for one-way travel) or misplaces decimal in division.",
+    "weight": -1
+  }
+]

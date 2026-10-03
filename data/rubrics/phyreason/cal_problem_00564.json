@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly calculated as B = E cosθ / v₀, yielding √3 T or approximately 1.73 T.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field time",
+    "description": "Essential: The final answer for part (2) must include the correct time in the electric field, t₁ = (m v₀ tanθ)/(qE) or equivalent, yielding approximately 1.67e-05 s.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field time",
+    "description": "Essential: The final answer for part (2) must include the correct time in the magnetic field, t₂ = (m θ)/(qB) or equivalent, with θ in radians, yielding approximately 1.74e-05 s.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: The solution must correctly relate the vertical velocity gain (v_y = v₀ tanθ) to the electric force acceleration (v_y = (qE/m) t₁) to find t₁ or the width d.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force geometry",
+    "description": "Important: The solution must apply the Lorentz force as centripetal force (qv₀B = mv₀²/r) and use the geometry of the circular arc (r = d/sinθ) to relate B to given parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Arc time calculation",
+    "description": "Important: For the magnetic field time, the solution must correctly calculate the arc length (s = rθ) and divide by the constant speed v₀, using the angle in radians.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should demonstrate consistent use of SI units (V/m, m/s, rad) and correctly handle the charge-to-mass ratio.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or angle error",
+    "description": "Pitfall: Deduct if the student uses the deflection angle incorrectly (e.g., uses sinθ instead of cosθ in B formula, or uses degrees instead of radians for arc length).",
+    "weight": -2
+  },
+  {
+    "title": "Force confusion",
+    "description": "Pitfall: Deduct if the student confuses electric and magnetic force kinematics (e.g., applies parabolic motion in the magnetic field or uniform circular motion in the electric field).",
+    "weight": -1
+  }
+]

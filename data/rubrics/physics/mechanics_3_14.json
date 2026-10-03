@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the gravitational red shift as a function of gravitational potentials.",
+    "weight": 5
+  },
+  {
+    "title": "Use of g00",
+    "description": "Important Criteria: The student should correctly apply the Riemannian metric components g00 for both the sun and the earth in their derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Proper Time Relation",
+    "description": "Important Criteria: The student must derive the relationship between the emitted and observed frequencies using proper time intervals.",
+    "weight": 4
+  },
+  {
+    "title": "Gravitational Potential",
+    "description": "Important Criteria: The student should correctly identify and use the gravitational potential energy per unit mass in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The student may provide justification for the approximation used in the final expression for the red shift.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the derivation of the red shift expression.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

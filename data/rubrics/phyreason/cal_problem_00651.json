@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as E = 3mg/(4q).",
+    "weight": 5
+  },
+  {
+    "title": "Tension magnitude",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as T = 5mg/4.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution must resolve forces horizontally and vertically for the static equilibrium, applying F_electric = qE and F_gravity = mg.",
+    "weight": 4
+  },
+  {
+    "title": "Net force after cut",
+    "description": "Important: For part (3), the student must correctly identify the net force as the vector sum of gravity and the electric force, giving magnitude 5mg/4 and direction 37° below horizontal (or equivalent).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity after cut",
+    "description": "Important: For part (4), the student must apply kinematics (v=at) with the correct constant acceleration from part (3), yielding v = 1.25gt in the same direction as the net force.",
+    "weight": 4
+  },
+  {
+    "title": "Direction specification",
+    "description": "Optional: Clear description or diagram showing the angle (37°) relative to the vertical or horizontal for the net force and velocity directions.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect angle or trig",
+    "description": "Pitfall: Using sine/cosine incorrectly (e.g., swapping 0.6 and 0.8) or misidentifying the angle in the force triangle.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or vector error",
+    "description": "Pitfall: Treating forces as scalars, missing that the net force after the cut is constant and not along the string's original direction.",
+    "weight": -1
+  }
+]

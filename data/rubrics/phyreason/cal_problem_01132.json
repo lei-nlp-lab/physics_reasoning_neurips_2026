@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial current magnitude",
+    "description": "Essential: The student's answer for part (1) must correctly calculate the initial current as 4 A using I = BLv/(R+r).",
+    "weight": 5
+  },
+  {
+    "title": "Initial current direction",
+    "description": "Essential: The student's answer for part (1) must correctly state the current direction (e.g., from Q to P) using the right-hand rule or Lenz's law.",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat on R",
+    "description": "Essential: The student's answer for part (2) must correctly calculate the Joule heat dissipated in resistor R as 4.8 J.",
+    "weight": 5
+  },
+  {
+    "title": "Stopping distance",
+    "description": "Essential: The student's answer for part (3) must correctly calculate the final stopping distance from line ab as 1.6 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Important: The solution should apply energy conservation, stating that the rod's initial kinetic energy is fully converted into total Joule heat in the circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Charge-momentum relationship",
+    "description": "Important: The solution for part (3) should correctly relate the total charge flow to the change in momentum via the impulse-momentum theorem (BLq = mv).",
+    "weight": 4
+  },
+  {
+    "title": "Heat distribution ratio",
+    "description": "Important: The solution for part (2) should correctly distribute the total Joule heat between R and r using the resistance ratio Q_R = Q_total * R/(R+r).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student's work demonstrates consistent use and conversion of units (m, s, T, Ω, etc.) throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the direction of the magnetic force (e.g., stating it accelerates the rod) or misapplies Lenz's law for current direction.",
+    "weight": -2
+  },
+  {
+    "title": "Ohm's law misapplication",
+    "description": "Pitfall: Penalize if the student uses an incorrect equivalent resistance (e.g., omitting the rod's resistance r) when calculating current or heat distribution.",
+    "weight": -1
+  }
+]

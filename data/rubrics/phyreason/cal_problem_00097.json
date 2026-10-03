@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Mass of block B",
+    "description": "Essential: Correctly states the mass of block B as 3m.",
+    "weight": 5
+  },
+  {
+    "title": "Work against friction",
+    "description": "Essential: Correctly calculates the total work done by friction on A as (2/15)mgH.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient ratio",
+    "description": "Essential: Correctly states the ratio of kinetic friction coefficients as 11/9.",
+    "weight": 5
+  },
+  {
+    "title": "Collision analysis",
+    "description": "Important: Applies momentum and kinetic energy conservation for the elastic collision to relate post-collision velocities to v1 and masses.",
+    "weight": 4
+  },
+  {
+    "title": "v-t graph interpretation",
+    "description": "Important: Uses the v-t graph to determine accelerations (a1, a2) and the post-collision velocity of A (-v1/2).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: Applies Newton's second law to A's motion down and up the incline to relate acceleration, gravity, and friction.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry and kinematics",
+    "description": "Important: Relates displacements on the incline (x1, x2) to heights (H, h) using sinθ and to areas under the v-t graph.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Optional: Sets up energy conservation equations for the system (A and B) before and after the friction coefficient change.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns sign to post-collision velocity of A or misinterprets the direction of acceleration from the v-t graph.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force miscalculation",
+    "description": "Pitfall: Fails to correctly solve for the frictional force (f = mg sinθ / 9) from the Newton's law and kinematic equations.",
+    "weight": -1
+  }
+]

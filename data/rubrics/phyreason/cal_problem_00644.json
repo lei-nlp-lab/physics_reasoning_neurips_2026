@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Ratio Answer",
+    "description": "Essential: The response must provide the correct numerical ratio of the accelerations after collision to before collision (9/16).",
+    "weight": 5
+  },
+  {
+    "title": "Pre-Collision Force",
+    "description": "Important: The solution must correctly apply Coulomb's law to calculate the initial electrostatic force using the given charges (8q and -2q).",
+    "weight": 3
+  },
+  {
+    "title": "Post-Collision Charge",
+    "description": "Important: The solution must correctly apply charge conservation to find the equal charge on each sphere after they make contact (3q).",
+    "weight": 4
+  },
+  {
+    "title": "Post-Collision Force",
+    "description": "Important: The solution must correctly apply Coulomb's law to calculate the electrostatic force after the collision using the new equal charges (3q and 3q).",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration Ratio Derivation",
+    "description": "Important: The solution must correctly relate force to acceleration via Newton's second law and form the ratio, showing cancellation of common constants (k, m, l).",
+    "weight": 3
+  },
+  {
+    "title": "Sign Ignorance Error",
+    "description": "Pitfall: Penalize if the student incorrectly uses the sign of the charges in the magnitude calculation of the Coulomb force (e.g., using -8q*2q).",
+    "weight": -2
+  },
+  {
+    "title": "Charge Sharing Mistake",
+    "description": "Pitfall: Penalize if the student makes an error in calculating the shared charge after contact (e.g., averaging incorrectly or forgetting they are identical).",
+    "weight": -2
+  }
+]

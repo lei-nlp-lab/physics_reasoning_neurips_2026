@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct current calculation",
+    "description": "Essential: Student must compute the current using Ohm's law for the complete circuit, obtaining I = E/(R+r) = 4 A.",
+    "weight": 5
+  },
+  {
+    "title": "Correct magnetic force balance",
+    "description": "Essential: Student must state the final magnetic induction strength B = 0.25 T from the force equilibrium condition.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ampere's force law",
+    "description": "Important: Student must correctly relate the magnetic force on the rod to the current, length, and magnetic field (F_mag = BIL).",
+    "weight": 4
+  },
+  {
+    "title": "Apply Hooke's law for springs",
+    "description": "Important: Student must relate the change in spring elongation to the change in force (ΔF = 2kΔx, factor of 2 for two springs).",
+    "weight": 4
+  },
+  {
+    "title": "Unit conversion consistency",
+    "description": "Important: Student must correctly convert given lengths (cm to m) and other quantities to SI units in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Force direction analysis",
+    "description": "Optional: Student may use the left-hand rule to justify the direction of magnetic force and its effect on spring elongation.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect force balance equation",
+    "description": "Pitfall: Student omits the factor of 2 for the two springs or misidentifies the forces (e.g., ignores gravity's cancellation).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Student makes a sign error in force direction or a unit conversion error (e.g., treating 0.2 cm as 0.2 m).",
+    "weight": -1
+  }
+]

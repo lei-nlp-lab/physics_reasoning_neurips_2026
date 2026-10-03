@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The expression for B_r(0) must be correctly stated as B_r(0) = mu_0 n I r / (4R).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Field Derivation",
+    "description": "Important Criteria: The derivation of the magnetic field B(z_0) must be correctly performed using the integral and limits provided.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Geometry",
+    "description": "Important Criteria: The relationship between z_0 and theta must be correctly applied to find sin(theta_0).",
+    "weight": 3
+  },
+  {
+    "title": "Differentiation Step",
+    "description": "Important Criteria: The differentiation of B(z_0) with respect to z_0 must be correctly executed to find dB(z_0)/dz_0.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units of the final expression should be checked for consistency with magnetic field units (Tesla).",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing the factor of 1/2 in the final expression for B_r(0) is a common mistake.",
+    "weight": -2
+  },
+  {
+    "title": "Integration Limits",
+    "description": "Pitfall Criteria: Incorrect limits of integration in the calculation of B(z_0) can lead to errors in the final answer.",
+    "weight": -1
+  }
+]

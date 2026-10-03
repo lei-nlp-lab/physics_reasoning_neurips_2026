@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct lowest/highest point",
+    "description": "Essential: The student must correctly identify whether block A is at the lowest or highest point when the ground pressure is minimized.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum pressure magnitude",
+    "description": "Essential: The student must provide the correct final expression for the minimum pressure magnitude (e.g., Mg - 2mg).",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium spring extension",
+    "description": "Important: The solution must correctly determine the initial equilibrium extension of the spring due to the two blocks.",
+    "weight": 4
+  },
+  {
+    "title": "Amplitude of block A's SHM",
+    "description": "Important: The solution must correctly identify that the amplitude of block A's oscillation equals the initial equilibrium extension.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis on the box",
+    "description": "Important: The solution must apply Newton's second law to the box, considering the spring force and weight.",
+    "weight": 4
+  },
+  {
+    "title": "Spring force at oscillation extremes",
+    "description": "Important: The solution must correctly calculate the spring force on the box when block A is at the extremes of its motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Penalize if the student makes a sign error in the force equation for the box (e.g., incorrect direction of spring force).",
+    "weight": -2
+  },
+  {
+    "title": "Confusion about amplitude",
+    "description": "Pitfall: Penalize if the student incorrectly assumes the amplitude is different from the initial extension or misidentifies the equilibrium position.",
+    "weight": -1
+  }
+]

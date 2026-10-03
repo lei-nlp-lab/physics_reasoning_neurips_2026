@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the rate of precession, omega_p = 3k/(2m omega_0).",
+    "weight": 5
+  },
+  {
+    "title": "Effective Potential",
+    "description": "Important Criteria: The student should correctly identify and write the effective potential U(r) including all relevant terms.",
+    "weight": 4
+  },
+  {
+    "title": "Taylor Expansion",
+    "description": "Important Criteria: The student must correctly apply the Taylor expansion around r_0 and retain the appropriate terms.",
+    "weight": 4
+  },
+  {
+    "title": "Radial Oscillation Frequency",
+    "description": "Important Criteria: The student should derive the angular frequency of small oscillations, omega_r, correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Direction of Precession",
+    "description": "Optional Criteria: The student should mention that the direction of precession is opposite to that of revolution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in the effective potential.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all terms are consistent in units throughout the derivation.",
+    "weight": 1
+  }
+]

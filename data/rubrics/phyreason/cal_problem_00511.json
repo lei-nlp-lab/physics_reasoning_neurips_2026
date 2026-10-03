@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states the final answer for part (1) as E = √2 mg / q, derived from the initial force equilibrium condition.",
+    "weight": 5
+  },
+  {
+    "title": "Time in E2 field",
+    "description": "Essential: Correctly states the final answer for part (2) as t = √(2l/g), derived from analyzing the motion in the second quadrant.",
+    "weight": 5
+  },
+  {
+    "title": "Coordinates of point A",
+    "description": "Essential: Correctly states the final answer for part (3) as A = (2(√2 - 1)l, 2(√2 - 1)l), derived from kinematics in the first quadrant.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic energy at D",
+    "description": "Essential: Correctly states the final answer for part (4) as EkD = 2√2 mgl, derived from applying the work-energy theorem across all regions.",
+    "weight": 5
+  },
+  {
+    "title": "Initial force equilibrium",
+    "description": "Important: Applies force balance in the second quadrant to relate electric force, gravity, and tension (before cutting) to find E.",
+    "weight": 4
+  },
+  {
+    "title": "Motion analysis in E1",
+    "description": "Important: Correctly determines the acceleration in the first quadrant (E2 field) as a = (qE + mg)/m and analyzes the projectile-like motion to find conditions at point A.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem correctly, summing work done by electric forces and gravity from start to point D.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and kinematics link",
+    "description": "Optional: Recognizes and uses the 45° geometry of the fields and the perpendicular passage through point A to set up kinematic relationships.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Makes an error with the sign or vector direction of forces/accelerations, especially confusing the 45° orientations of E1 and E2.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Omits necessary factors (like √2) or makes algebraic errors in deriving expressions for time, coordinates, or energy.",
+    "weight": -1
+  }
+]

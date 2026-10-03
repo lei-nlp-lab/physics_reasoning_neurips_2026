@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states the final answer for part (1) as E = v₀B.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem to relate electric potential energy change to kinetic energy change for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Vertical coordinate y₁",
+    "description": "Essential: Correctly calculates the final numerical expression for part (2): y₁ = 3mv₀/(32eB).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at extremes",
+    "description": "Important: Analyzes the net Lorentz force (electric and magnetic) at the highest and lowest points of the trajectory.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum height condition",
+    "description": "Important: Derives the expression for the maximum vertical coordinate y in terms of initial velocity v.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity threshold inequality",
+    "description": "Important: Sets up and solves the inequality y(v) ≥ y₂ to find the minimum initial velocity required to reach y₂.",
+    "weight": 4
+  },
+  {
+    "title": "Percentage calculation",
+    "description": "Essential: Correctly calculates the final percentage for part (3) as 90%.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in Lorentz force",
+    "description": "Pitfall: Uses an incorrect sign for the magnetic force component, leading to wrong force balance or trajectory analysis.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied work-energy theorem",
+    "description": "Pitfall: Incorrectly equates work done by the electric field to the total kinetic energy change without accounting for the correct initial/final states.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Optional: Includes proper units in final answers or explicitly notes the charge magnitude 'e'.",
+    "weight": 1
+  }
+]

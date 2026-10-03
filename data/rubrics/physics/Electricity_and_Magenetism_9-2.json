@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must provide the correct expression for the electric field both inside and outside the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field",
+    "description": "Essential Criteria: The student must provide the correct expression for the magnetic field both inside and outside the sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Induced Electric Field",
+    "description": "Important Criteria: The student must derive the induced electric field correctly during the demagnetization process.",
+    "weight": 4
+  },
+  {
+    "title": "Torque Calculation",
+    "description": "Important Criteria: The student must compute the torque exerted on the sphere due to the induced electric field accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Explanation",
+    "description": "Important Criteria: The student must explain where the angular momentum comes from during the demagnetization process.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the expressions for electric and magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must avoid omitting any necessary factors in the torque or angular momentum calculations.",
+    "weight": -2
+  }
+]

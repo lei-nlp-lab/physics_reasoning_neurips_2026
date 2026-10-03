@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Maximum EMF expression",
+    "description": "Essential: The final answer for part (1) must be correctly stated as $B L_{1} L_{2} \\omega$.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF expression",
+    "description": "Essential: The final answer for part (2) must be correctly stated as $e = B L_{1} L_{2} \\omega \\sin(\\omega t)$.",
+    "weight": 5
+  },
+  {
+    "title": "Effective current expression",
+    "description": "Essential: The final answer for part (3) must be correctly stated as $\\frac{B L_{1} L_{2} \\omega}{\\sqrt{2}(R+r)}$.",
+    "weight": 5
+  },
+  {
+    "title": "Resistor power expression",
+    "description": "Essential: The final answer for part (4) must be correctly stated as $\\frac{R B^{2} L_{1}^{2} L_{2}^{2} \\omega^{2}}{2(R+r)^{2}}$.",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's Law",
+    "description": "Important: The reasoning must correctly apply Faraday's law to derive the maximum EMF from the geometry and motion.",
+    "weight": 4
+  },
+  {
+    "title": "Use of sinusoidal function",
+    "description": "Important: The instantaneous EMF must be expressed as a sine function starting from the correct initial condition (coil plane parallel to field at t=0).",
+    "weight": 4
+  },
+  {
+    "title": "RMS value calculation",
+    "description": "Important: The effective (RMS) value of the sinusoidal EMF must be correctly calculated as $E_m / \\sqrt{2}$.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit analysis with Ohm's Law",
+    "description": "Important: The total circuit resistance (R + r) must be used correctly with the effective EMF to find the effective current.",
+    "weight": 3
+  },
+  {
+    "title": "Power derivation from Joule's Law",
+    "description": "Optional: The power in resistor R is correctly derived using $P = I_{\\text{effective}}^2 R$.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or geometry error",
+    "description": "Pitfall: Deduct points for using cosine instead of sine for the instantaneous EMF, given the specified initial condition.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance omission error",
+    "description": "Pitfall: Deduct points for omitting the coil's internal resistance 'r' in the current or power calculations.",
+    "weight": -2
+  }
+]

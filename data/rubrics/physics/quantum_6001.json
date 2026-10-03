@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the s-wave cross section, sigma_t = (4π/k^2) sin^2(kR).",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Derivation",
+    "description": "Important Criteria: The student should derive the radial wave function for the s-wave, R_0(r) = chi_0(r)/r, and correctly apply the Schrödinger equation.",
+    "weight": 4
+  },
+  {
+    "title": "Continuity Condition",
+    "description": "Important Criteria: The student must correctly apply the continuity condition at r = R to find the relationship involving delta_0.",
+    "weight": 4
+  },
+  {
+    "title": "Low Energy Approximation",
+    "description": "Optional Criteria: The student may discuss the low energy limit where k approaches 0 and relate it to the total cross-section, sigma_t = 4πR^2.",
+    "weight": 3
+  },
+  {
+    "title": "High Energy Behavior",
+    "description": "Optional Criteria: The student may mention the behavior of the cross-section at high energies, indicating that sigma_t approaches 0.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the expression for delta_0 or in the sine function evaluations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation, particularly in the expression for k.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Visible photon flux",
+    "description": "Essential: Correctly calculates the number of visible photons per second per square meter at Earth using n = (0.45Pλ)/(hc).",
+    "weight": 5
+  },
+  {
+    "title": "Spherical area scaling",
+    "description": "Important: Multiplies the photon flux by the surface area of a sphere with radius equal to the Sun-Earth distance (4πR²) to find total photons from the Sun.",
+    "weight": 4
+  },
+  {
+    "title": "Final photon count",
+    "description": "Essential: Reports the correct numerical estimate for photons radiated by the Sun per second (~4.9×10⁴⁴ photons/s).",
+    "weight": 5
+  },
+  {
+    "title": "Earth's cross-sectional area",
+    "description": "Important: Uses the Earth's circular cross-sectional area (πr²) rather than its surface area to calculate total received power.",
+    "weight": 4
+  },
+  {
+    "title": "Total power received",
+    "description": "Essential: Reports the correct numerical estimate for total power received by Earth (~1.8×10¹⁴ kW).",
+    "weight": 5
+  },
+  {
+    "title": "Photon energy formula",
+    "description": "Important: Correctly applies E_photon = hc/λ to relate photon energy to wavelength and constants.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout (e.g., converting μm to m, kW to W) without errors.",
+    "weight": 2
+  },
+  {
+    "title": "Wrong area for photons",
+    "description": "Pitfall: Uses Earth's surface area instead of spherical area centered on Sun when calculating total photons from Sun.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong area for power",
+    "description": "Pitfall: Uses Earth's surface area instead of its cross-sectional area when calculating total received power.",
+    "weight": -2
+  },
+  {
+    "title": "Omits visible fraction",
+    "description": "Pitfall: Fails to multiply by 0.45 when calculating visible photon flux, using total power instead.",
+    "weight": -1
+  }
+]

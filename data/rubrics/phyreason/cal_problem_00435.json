@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct x-component",
+    "description": "Essential: Student correctly calculates F_x = F1*cos37° - F3 = 20*0.8 - 10 = 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct y-component",
+    "description": "Essential: Student correctly calculates F_y = F1*sin37° - F2 = 20*0.6 - 6 = 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Magnitude via Pythagorean theorem",
+    "description": "Important: Student correctly applies F_all = sqrt(F_x² + F_y²) to find the magnitude.",
+    "weight": 4
+  },
+  {
+    "title": "Direction via arctangent",
+    "description": "Important: Student correctly finds direction angle φ = arctan(F_y/F_x) relative to positive x-axis.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important: Student consistently uses positive for right/up and negative for left/down in component calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit inclusion",
+    "description": "Optional: Student includes correct units (N for force, degrees for angle) with final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect component signs",
+    "description": "Pitfall: Student makes sign errors in force components (e.g., adding F3 instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong trigonometric function",
+    "description": "Pitfall: Student uses sin/cos incorrectly for F1 components (e.g., swaps sin37° and cos37°).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final temperature T2",
+    "description": "Essential: The student's answer for part (1) must be 297 K (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum temperature Tmax",
+    "description": "Essential: The student's answer for part (2) must be 309 K (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on piston",
+    "description": "Important: The solution must apply Newton's second law to the piston, relating gas pressure, atmospheric pressure, piston weight, and string tension.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis for balance reading",
+    "description": "Important: The solution must correctly interpret the balance reading to determine the tension in the string connected to the iron block (m2).",
+    "weight": 4
+  },
+  {
+    "title": "Application of ideal gas law",
+    "description": "Important: The solution must recognize the volume is constant and correctly apply the proportional relationship p/T = constant for the sealed gas.",
+    "weight": 4
+  },
+  {
+    "title": "Correct pressure calculation",
+    "description": "Important: The solution must correctly calculate the gas pressure (p1, p2, p3) from the force balance equations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should demonstrate consistent use of SI units (Pa, m^2, kg, N) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: Penalize if the student incorrectly sets up the direction of forces (e.g., wrong sign for pressure difference or tension), leading to an incorrect pressure relation.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting balance reading",
+    "description": "Pitfall: Penalize if the student equates the balance reading directly to m2 or fails to account for the tension force correctly (T = (m2 - m_show)g).",
+    "weight": -2
+  }
+]

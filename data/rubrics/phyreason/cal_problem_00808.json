@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave speed calculation",
+    "description": "Essential: The final answer for wave speed must be 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Total time for trough",
+    "description": "Essential: The final answer for the additional time must be 3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Period from waveform",
+    "description": "Important: Correctly identifies that the 1.5 s shown corresponds to 3/4 of a period.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength from figure",
+    "description": "Important: Correctly determines the wavelength (4 m) from the distance the wave has traveled (3 m) and the waveform shape.",
+    "weight": 4
+  },
+  {
+    "title": "Wave travel time",
+    "description": "Important: Calculates the time for the wavefront to travel from x=3 m to x=6 m using the wave speed.",
+    "weight": 3
+  },
+  {
+    "title": "Particle oscillation phase",
+    "description": "Important: Recognizes that once the wave reaches x=6 m, the particle there must start from zero displacement and oscillate, taking 3/4 of a period to reach its first trough.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds, m/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect wave speed formula",
+    "description": "Pitfall: Uses an incorrect formula (e.g., v = fλ) with wrong f or λ, or misinterprets the graph to get v.",
+    "weight": -2
+  },
+  {
+    "title": "Phase or travel time error",
+    "description": "Pitfall: Omits either the wave travel time to x=6 m or the 3/4 period oscillation time, or adds them incorrectly.",
+    "weight": -2
+  }
+]

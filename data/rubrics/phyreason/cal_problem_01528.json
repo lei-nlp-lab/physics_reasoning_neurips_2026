@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential Criteria: Correctly calculates v₁ = 2 m/s using work-energy theorem on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Conveyor belt speed",
+    "description": "Essential Criteria: Correctly determines v₂ = 4 m/s from projectile motion analysis at point C.",
+    "weight": 5
+  },
+  {
+    "title": "Friction heat calculation",
+    "description": "Essential Criteria: Correctly computes Q = 4 J using work done by kinetic friction on the belt.",
+    "weight": 5
+  },
+  {
+    "title": "Incline energy analysis",
+    "description": "Important Criteria: Applies work-energy theorem with correct components of gravity and friction on the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: Sets up correct kinematic equations for vertical fall and horizontal motion from point C.",
+    "weight": 3
+  },
+  {
+    "title": "Belt acceleration analysis",
+    "description": "Important Criteria: Uses Newton's second law to find acceleration on the belt with μ₂.",
+    "weight": 2
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Optional Criteria: Correctly relates package and belt displacements to find friction work.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall Criteria: Uses wrong sign for friction work in energy equation on incline.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing v₁ and v₂",
+    "description": "Pitfall Criteria: Mistakenly uses v₁ instead of v₂ in projectile motion equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission",
+    "description": "Pitfall Criteria: Fails to include proper units (m/s, J) in final answers.",
+    "weight": -1
+  }
+]

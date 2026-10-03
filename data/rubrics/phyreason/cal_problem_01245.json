@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final distance",
+    "description": "Essential Criteria: The student's final numerical answer for the total distance on the inclined track must be 20 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy balance setup",
+    "description": "Important Criteria: The student must apply the work-energy theorem, equating the initial gravitational potential energy to the work done against friction on the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Correct height difference",
+    "description": "Important Criteria: The student must correctly calculate the effective vertical drop for the incline segment, accounting for the block's starting height and the height of the circular arc's starting point.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force expression",
+    "description": "Important Criteria: The student must correctly express the friction force on the incline as μ * m * g * cos(60°) and relate it to the work done over distance s.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric values",
+    "description": "Optional Criteria: The student correctly uses cos(60°) = 0.5 and sin(60°) = √3/2 where needed in the geometry or force components.",
+    "weight": 1
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional Criteria: The student includes the correct unit (meters) with the final numerical distance.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: The student makes a sign error in the work-energy equation, incorrectly adding or subtracting the friction work term.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect arc height",
+    "description": "Pitfall Criteria: The student incorrectly calculates the height of the circular arc's starting point, for example by using the full radius R instead of R(1 - cos60°).",
+    "weight": -2
+  }
+]

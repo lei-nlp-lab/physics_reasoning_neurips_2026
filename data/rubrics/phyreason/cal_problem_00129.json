@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct induced EMF",
+    "description": "Essential: The final answer for the induced electromotive force must be correctly derived as E = k l² / 2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct motion time",
+    "description": "Essential: The final answer for the time t₀ when motion begins must be correctly derived as t₀ = 2 m g R / (k² l³).",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's Law",
+    "description": "Important: The solution must correctly apply Faraday's law, relating the EMF to the rate of change of magnetic flux through the effective area (half the loop).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must set up the condition for motion by equating the upward magnetic force to the downward gravitational force (mg = F_A).",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force derivation",
+    "description": "Important: The solution must correctly derive the Ampere force on the loop using the induced current (I = E/R) and the relevant magnetic field and length.",
+    "weight": 3
+  },
+  {
+    "title": "Effective area consideration",
+    "description": "Optional: The solution explicitly notes that only half the loop area is within the field, so the effective flux area is l²/2.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the solution uses an incorrect sign for the induced EMF or misidentifies the direction of the force, affecting the motion condition.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if the final answers are presented with inconsistent or missing units, or if dimensional analysis is flawed.",
+    "weight": -1
+  }
+]

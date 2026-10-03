@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum displacement",
+    "description": "Essential: Correctly calculates the maximum displacement using kinematic relations for uniformly decelerated motion.",
+    "weight": 5
+  },
+  {
+    "title": "Upward acceleration",
+    "description": "Important: Correctly determines the deceleration during the upward motion from initial velocity and time.",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient",
+    "description": "Essential: Correctly solves for the coefficient of kinetic friction using Newton's second law on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Downward acceleration",
+    "description": "Important: Correctly calculates the acceleration during the downward motion using the found friction coefficient.",
+    "weight": 3
+  },
+  {
+    "title": "Final return velocity",
+    "description": "Important: Correctly computes the block's velocity upon returning to the start using kinematics.",
+    "weight": 3
+  },
+  {
+    "title": "Gravity's average power",
+    "description": "Essential: Correctly calculates the average power of gravity during the return trip using the appropriate force and velocity relation.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Uses incorrect sign for acceleration in kinematic equations (e.g., treating deceleration as positive).",
+    "weight": -2
+  },
+  {
+    "title": "Force component mistake",
+    "description": "Pitfall: Incorrectly resolves gravitational force components (sin/cos confusion) on the inclined plane.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout the solution and presents final answers with correct units.",
+    "weight": 1
+  }
+]

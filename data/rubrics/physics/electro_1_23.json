@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Discontinuity",
+    "description": "Essential Criteria: The student must correctly identify the discontinuity in the potential across the dipole layer.",
+    "weight": 5
+  },
+  {
+    "title": "Discontinuity Calculation",
+    "description": "Important Criteria: The student should show the correct calculation leading to the expression for the discontinuity in the potential.",
+    "weight": 4
+  },
+  {
+    "title": "Surface Charge Density",
+    "description": "Essential Criteria: The student must derive the correct expression for the surface charge density sigma.",
+    "weight": 5
+  },
+  {
+    "title": "Dipole Layer Density",
+    "description": "Essential Criteria: The student must derive the correct expression for the dipole layer density tau.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student should correctly apply Gauss' law to relate the electric field and charge on the spherical surface.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Outside Sphere",
+    "description": "Optional Criteria: The student should confirm that the potential outside the spherical surface is zero.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating discontinuities or charge densities.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

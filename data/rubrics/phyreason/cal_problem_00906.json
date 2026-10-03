@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Primary RMS voltage",
+    "description": "Essential: Student correctly calculates the RMS voltage of the primary coil from the given sinusoidal expression.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer ratio application",
+    "description": "Essential: Student correctly applies the turns ratio to find the RMS voltage across the secondary coil.",
+    "weight": 5
+  },
+  {
+    "title": "Final numerical answer",
+    "description": "Essential: Student provides the correct final answer of 100 V for the secondary coil voltage.",
+    "weight": 5
+  },
+  {
+    "title": "Voltmeter measurement understanding",
+    "description": "Important: Student demonstrates understanding that an AC voltmeter measures RMS voltage, not instantaneous or peak voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Peak voltage identification",
+    "description": "Important: Student correctly identifies the peak voltage from the sinusoidal expression.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (V) in all steps and the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing peak with RMS",
+    "description": "Pitfall: Student incorrectly uses the peak voltage (400√2 V) directly with the transformer ratio, forgetting the RMS conversion.",
+    "weight": -2
+  },
+  {
+    "title": "Ratio reversal error",
+    "description": "Pitfall: Student incorrectly applies the turns ratio (e.g., uses 1:4 instead of 4:1) when calculating the secondary voltage.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Partition Function",
+    "description": "Essential Criteria: The student must correctly derive the partition function Z = (e^(mu_0 B / kT) + e^(-mu_0 B / kT))^N.",
+    "weight": 5
+  },
+  {
+    "title": "Specific Heat",
+    "description": "Essential Criteria: The student must derive the specific heat c = kN (mu_0 B / kT)^2 / cosh^2(mu_0 B / kT).",
+    "weight": 5
+  },
+  {
+    "title": "Average Magnetic Moment",
+    "description": "Essential Criteria: The student must calculate the thermal average magnetic moment as M = Nmu_0 tanh(mu_0 B / kT).",
+    "weight": 5
+  },
+  {
+    "title": "Curie Law Derivation",
+    "description": "Important Criteria: The student must show that chi = dM/dB = (Nmu_0^2 / kT) / cosh^2(mu_0 B / kT) satisfies the Curie Law in the high temperature limit.",
+    "weight": 4
+  },
+  {
+    "title": "High Temperature Limit",
+    "description": "Optional Criteria: The student should mention that in the high temperature limit, chi is proportional to 1/T.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the expressions for energy and specific heat.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

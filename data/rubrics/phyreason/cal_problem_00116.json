@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: The answer must state the magnitude of the Ampere force on rod M as F = (B²L²v₀)/(2R).",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force direction",
+    "description": "Essential: The answer must state the direction of the Ampere force on rod M as horizontally to the left.",
+    "weight": 5
+  },
+  {
+    "title": "Charge calculation",
+    "description": "Essential: The answer for part (2) must give the charge as q = mv₀/(3BL).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum distance x",
+    "description": "Essential: The answer for part (3) must give the minimum distance as x = (2mv₀R)/(3B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Range for k",
+    "description": "Essential: The answer for part (4) must state the range for k as 2 ≤ k < 3.",
+    "weight": 5
+  },
+  {
+    "title": "Applying impulse theorem",
+    "description": "Important: The solution must apply the impulse theorem (BILΔt = mΔv) to relate force to momentum change for at least one rod.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: The solution must correctly analyze the circuit, using Ohm's law (I = E/(2R)) and motional EMF (E = BLv).",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: For parts (2)-(4), the solution must apply conservation of momentum to the two-rod system.",
+    "weight": 4
+  },
+  {
+    "title": "Charge via average current",
+    "description": "Optional: The solution may derive the charge by relating it to the average current and change in magnetic flux or rod displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the direction of the Ampere force, induced current, or rod motion is incorrectly assigned.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect circuit resistance",
+    "description": "Pitfall: Penalize if the total circuit resistance is not treated as 2R (sum of both rod resistances).",
+    "weight": -2
+  }
+]

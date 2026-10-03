@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial speed at A",
+    "description": "Essential: Correctly calculates the speed (5 m/s) of the combined sliders as they enter the track at point A, using projectile motion from the platform.",
+    "weight": 5
+  },
+  {
+    "title": "Normal force at O",
+    "description": "Essential: Correctly calculates the normal force (129 N) at the lowest point O using energy conservation and Newton's second law.",
+    "weight": 5
+  },
+  {
+    "title": "Energy loss in collision",
+    "description": "Essential: Correctly calculates the mechanical energy lost (13.5 J) during the inelastic collision between sliders P and Q.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse on slider P",
+    "description": "Essential: Correctly calculates the magnitude of the horizontal impulse (12 N·s) applied to slider P initially.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: Applies momentum conservation to the inelastic collision to relate the speed of P before collision to the horizontal speed after.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy on platform",
+    "description": "Important: Applies the work-energy theorem to slider P's motion across the rough platform to find its speed before collision.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile kinematics",
+    "description": "Important: Correctly resolves the velocity at A into horizontal and vertical components using the given fall height and angle.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation on track",
+    "description": "Important: Applies mechanical energy conservation between point A and the lowest point O of the circular track.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in the work-energy equation (friction) or misapplies the angle (53° vs 106°).",
+    "weight": -2
+  },
+  {
+    "title": "Force balance misconception",
+    "description": "Pitfall: Incorrectly applies Newton's second law at point O (e.g., using centripetal force as the normal force).",
+    "weight": -1
+  }
+]

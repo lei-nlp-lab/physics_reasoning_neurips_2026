@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Essential: River flow velocity",
+    "description": "Essential Criteria: The final answer must be the correct flow velocity of the river, 0.75 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Block motion equation",
+    "description": "Important Criteria: The solution must correctly express the distance the block travels downstream from the bridge using the flow velocity and total time.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Boat's two-stage motion",
+    "description": "Important Criteria: The solution must correctly model the boat's upstream and downstream segments, accounting for relative velocities to the ground.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Time relation",
+    "description": "Important Criteria: The solution must correctly incorporate the given 1-hour (3600 s) downstream rowing time into the equations.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit consistency",
+    "description": "Optional Criteria: The solution demonstrates consistent use of units (e.g., meters and seconds) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Sign error in relative velocity",
+    "description": "Pitfall Criteria: Penalize if the student uses incorrect signs for the boat's speed relative to the ground when going upstream or downstream.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Ignoring block's travel time",
+    "description": "Pitfall Criteria: Penalize if the student fails to account for the time the block was drifting before the turn-around.",
+    "weight": -2
+  }
+]

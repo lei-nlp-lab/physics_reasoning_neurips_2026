@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct beat frequency of 200 Hz.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Effect Application",
+    "description": "Important Criteria: The student correctly applies the relativistic Doppler effect to find the frequency received by the car.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection Frequency Calculation",
+    "description": "Important Criteria: The student accurately calculates the frequency of the reflected signal as received by the radar.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Optional Criteria: The student correctly uses the speed of light and the velocity of the car in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student maintains consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student makes a sign mistake or miscalculates the frequency shift due to the Doppler effect.",
+    "weight": -2
+  }
+]

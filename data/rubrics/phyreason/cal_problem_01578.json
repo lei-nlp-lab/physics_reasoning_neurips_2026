@@ -1,0 +1,52 @@
+[
+  {
+    "title": "First collision speed of B",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as the speed of plank B after the first collision, derived from conservation of momentum and energy or the 1D elastic collision formula for equal masses.",
+    "weight": 5
+  },
+  {
+    "title": "Time to second collision",
+    "description": "Essential: The final answer for part (2) must correctly sum the time for A to first reach the barrier and the time between the first and second collisions, resulting in the total time from start until the second collision.",
+    "weight": 5
+  },
+  {
+    "title": "Distance between nth collisions",
+    "description": "Essential: The final answer for part (3) must correctly give the distance plank B travels between the nth and (n+1)th collisions, showing the linear dependence on n and L.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision kinematics for A",
+    "description": "Important: The solution must correctly apply kinematics (constant acceleration from electric force) to find the speed of A just before each collision, establishing the pattern v_A = n * sqrt(2qEL/m).",
+    "weight": 4
+  },
+  {
+    "title": "Elastic collision analysis",
+    "description": "Important: For each collision, the solution must correctly apply the 1D elastic collision results for equal masses (velocities exchange relative to the center of mass, or simply swap in the lab frame if B is initially at rest).",
+    "weight": 4
+  },
+  {
+    "title": "Pattern recognition and induction",
+    "description": "Important: The solution must recognize and justify the pattern of increasing speeds for A and constant speed increments for B after collisions to derive the general term for part (3).",
+    "weight": 3
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Optional: The solution may clearly set up the relative motion or coordinate system to analyze the time between collisions after the first.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct points for sign errors in velocity directions (e.g., forgetting B moves after first collision) or misapplying the elastic collision formula.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect constant acceleration",
+    "description": "Pitfall: Deduct points for misstating the acceleration of A (should be qE/m) or incorrectly applying kinematic equations for the intervals between collisions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or dimensional inconsistency",
+    "description": "Pitfall: Deduct points if final answers lack correct units or have obvious dimensional inconsistencies (e.g., speed not proportional to sqrt(qEL/m)).",
+    "weight": -1
+  }
+]

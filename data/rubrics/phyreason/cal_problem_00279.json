@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Correct frictional force magnitude (1)",
+    "description": "Essential: The student must state that the frictional force in part (1) is 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force direction (1)",
+    "description": "Essential: The student must correctly identify the direction of the friction in part (1) (e.g., to the right).",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force magnitude (2)",
+    "description": "Essential: The student must state that the frictional force in part (2) is 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force direction (2)",
+    "description": "Essential: The student must correctly identify the direction of the friction in part (2) (e.g., to the left).",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force magnitude (3)",
+    "description": "Essential: The student must state that the frictional force in part (3) is 8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force direction (3)",
+    "description": "Essential: The student must correctly identify the direction of the friction in part (3) (e.g., to the right).",
+    "weight": 5
+  },
+  {
+    "title": "Net force equilibrium reasoning",
+    "description": "Important: The student's solution must apply Newton's first law (net force = 0) for the static equilibrium in parts (1) and (2).",
+    "weight": 4
+  },
+  {
+    "title": "Maximum static friction calculation",
+    "description": "Important: The student must correctly calculate the maximum static friction (8 N) and compare it to applied forces.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic friction application",
+    "description": "Important: For part (3), the student must recognize that motion occurs and correctly apply the kinetic friction formula.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Penalize if the student confuses the direction of the frictional force (e.g., assigns left when it should be right).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction type",
+    "description": "Pitfall: Penalize if the student incorrectly uses kinetic friction for a static situation (parts 1 & 2) or static friction for a kinetic situation (part 3).",
+    "weight": -2
+  }
+]

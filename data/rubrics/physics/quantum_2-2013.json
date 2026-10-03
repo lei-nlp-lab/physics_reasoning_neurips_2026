@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The ground state energy E_0 must be calculated correctly as -6.8 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Final Radius Calculation",
+    "description": "Essential Criteria: The Bohr radius a_0 must be calculated correctly as 1.05 x 10^-8 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Reduced Mass Calculation",
+    "description": "Important Criteria: The reduced mass of positronium must be derived correctly as m = m_e/2.",
+    "weight": 4
+  },
+  {
+    "title": "Degeneracy Explanation",
+    "description": "Important Criteria: The degeneracy of the positronium ground state must be stated correctly as 4 with appropriate spin states.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Release Calculation",
+    "description": "Essential Criteria: The energy released during annihilation must be calculated correctly as 1.02 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Momentum Explanation",
+    "description": "Important Criteria: The explanation of angular momentum released must be clear, including the case for S = 0 and S = hbar.",
+    "weight": 4
+  },
+  {
+    "title": "Photon Conservation Argument",
+    "description": "Important Criteria: The argument for the necessity of at least two photons must be logically sound and clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the energy or radius calculations will incur a penalty.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any unit mistakes in the final answers will incur a penalty.",
+    "weight": -1
+  }
+]

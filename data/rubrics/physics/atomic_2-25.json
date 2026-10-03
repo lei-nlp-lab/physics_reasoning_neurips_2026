@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct final expressions for Z and a4.",
+    "weight": 5
+  },
+  {
+    "title": "Term Explanation",
+    "description": "Important Criteria: Clearly explain the significance of each term in the binding energy expression.",
+    "weight": 4
+  },
+  {
+    "title": "Isobaric Derivation",
+    "description": "Important Criteria: Correctly derive the relationship between A and Z for isobaric nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Fermi Gas Model",
+    "description": "Important Criteria: Use the Fermi gas model appropriately to estimate a4.",
+    "weight": 4
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: Ensure that all quantities have consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes or incorrect application of the binding energy formula.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discuss limiting cases or assumptions made during derivations.",
+    "weight": 1
+  }
+]

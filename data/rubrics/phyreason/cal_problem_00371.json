@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Collision distance",
+    "description": "Essential: Correctly calculates the distance x0 = 6 m from the top where the first collision occurs.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision speeds",
+    "description": "Essential: Correctly states the magnitudes v_A1 = 2 m/s and v_B1 = 4 m/s after the first elastic collision.",
+    "weight": 5
+  },
+  {
+    "title": "Energy and momentum conservation",
+    "description": "Important: Applies both conservation of kinetic energy and conservation of momentum correctly for the elastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration analysis",
+    "description": "Important: Correctly determines the accelerations of both blocks on the incline using forces and friction.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for meeting",
+    "description": "Important: Sets up and solves kinematic equations to find the time or position of the first collision.",
+    "weight": 3
+  },
+  {
+    "title": "B's final state reasoning",
+    "description": "Important: Correctly concludes B does not reach the bottom and calculates its stopping distance from the bottom (3.8 m).",
+    "weight": 4
+  },
+  {
+    "title": "Infinite series or iterative analysis",
+    "description": "Optional: Recognizes the pattern of repeated collisions and uses a geometric series to sum B's total displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns signs for velocities or accelerations along the incline, leading to wrong meeting point or post-collision velocities.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force mistake",
+    "description": "Pitfall: Miscalculates the net acceleration of block B (e.g., wrong friction direction or magnitude).",
+    "weight": -2
+  }
+]

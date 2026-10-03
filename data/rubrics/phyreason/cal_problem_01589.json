@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed at point C",
+    "description": "Essential: Correctly calculates v_C = sqrt(gR) = 2 m/s using centripetal force condition at the top of the loop.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy for v_B",
+    "description": "Important: Applies work-energy theorem between B and C, accounting for gravitational work to find v_B = 2√5 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Distance x_PB",
+    "description": "Essential: Sets up and solves work-energy from P to B with electric work and friction loss to obtain x_PB = 2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum KE position",
+    "description": "Important: Identifies that maximum KE occurs where net tangential force is zero, at angle θ = arctan(qE/mg) = 45° from vertical.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum KE value",
+    "description": "Important: Calculates maximum kinetic energy using work-energy from B to the 45° point, obtaining approximately 1.2 J.",
+    "weight": 3
+  },
+  {
+    "title": "Forgetting friction on AB",
+    "description": "Pitfall: Omits friction work term (μmgx_PB) when applying work-energy theorem on the horizontal track.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force error at C",
+    "description": "Pitfall: Uses incorrect force balance at point C (e.g., includes electric force in radial direction or wrong normal force).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations and presents final answers with correct units.",
+    "weight": 1
+  }
+]

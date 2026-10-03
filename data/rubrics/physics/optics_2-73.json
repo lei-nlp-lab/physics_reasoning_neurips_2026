@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer On Axis",
+    "description": "Essential Criteria: The student must provide the correct diameter of the Airy disk for a star on axis using the given formula.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula Usage",
+    "description": "Important Criteria: The student should correctly apply the formula d = 1.22 * lambda * f / D in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Parameter Values",
+    "description": "Important Criteria: The student must correctly identify and use the values for D, f, and lambda in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Off Axis Discussion",
+    "description": "Important Criteria: The student should discuss the effect of off-axis positioning on resolution and the change in effective aperture.",
+    "weight": 3
+  },
+  {
+    "title": "Image Blob Size",
+    "description": "Optional Criteria: The student may provide additional context or checks regarding the size of the image blob for visible light.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations to avoid errors.",
+    "weight": -1
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes when discussing the effects of angles on resolution.",
+    "weight": -2
+  }
+]

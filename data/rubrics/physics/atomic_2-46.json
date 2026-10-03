@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Nuclear Process Sequence",
+    "description": "Essential Criteria: Clearly outline the principal sequence of nuclear processes for solar energy generation.",
+    "weight": 5
+  },
+  {
+    "title": "Slow Link Identification",
+    "description": "Essential Criteria: Identify the slow link in the nuclear reaction chain.",
+    "weight": 3
+  },
+  {
+    "title": "Mean Neutrino Energy",
+    "description": "Essential Criteria: Provide an accurate estimation of the mean energy of the neutrinos produced.",
+    "weight": 4
+  },
+  {
+    "title": "Neutrino Number Flux",
+    "description": "Essential Criteria: Calculate the expected number flux of solar neutrinos at the earth correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Minor Reaction Sequence",
+    "description": "Important Criteria: Outline the sequence of minor nuclear reactions generating the higher energy neutrino component.",
+    "weight": 4
+  },
+  {
+    "title": "Experiment Description",
+    "description": "Important Criteria: Briefly discuss the experiment conducted by Davis et al.",
+    "weight": 3
+  },
+  {
+    "title": "Findings Summary",
+    "description": "Important Criteria: Summarize the findings of the experiment and the implications of the results.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors in calculations or misidentification of reactions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent and correctly applied throughout the solution.",
+    "weight": -1
+  }
+]

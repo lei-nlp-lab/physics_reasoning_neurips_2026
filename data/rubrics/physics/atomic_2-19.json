@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct values for dσ/dΩ at specified angles and total cross section σ.",
+    "weight": 5
+  },
+  {
+    "title": "Differential Cross Section",
+    "description": "Important Criteria: Derive the expression for dσ/dΩ using the given phase shifts and k.",
+    "weight": 4
+  },
+  {
+    "title": "Integration for Total Cross Section",
+    "description": "Important Criteria: Correctly perform the integral to find the total cross section σ.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Shift Implication",
+    "description": "Important Criteria: Explain the significance of negligible higher phase shifts on potential range.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: Ensure all calculations include correct units and constants throughout.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes or incorrect factors in the differential cross section calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discuss any limiting cases or assumptions made in the derivation.",
+    "weight": 1
+  }
+]

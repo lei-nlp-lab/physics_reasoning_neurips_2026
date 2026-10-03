@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final pressure after pumping",
+    "description": "Essential Criteria: Must correctly calculate the gas pressure inside the container after 15 pumps, obtaining 2.5×10⁵ Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Final remaining disinfectant volume",
+    "description": "Essential Criteria: Must correctly calculate the volume of disinfectant remaining after spraying stops, obtaining 0.5 L.",
+    "weight": 5
+  },
+  {
+    "title": "Apply isothermal Boyle's law",
+    "description": "Important Criteria: Must recognize and apply Boyle's law (pV = constant at constant temperature) for both pumping and spraying stages.",
+    "weight": 4
+  },
+  {
+    "title": "Correct initial gas volume",
+    "description": "Important Criteria: Must correctly determine the initial total gas volume before pumping as 2.5 L (2 L container gas + 15×0.1 L pumped gas).",
+    "weight": 3
+  },
+  {
+    "title": "Identify final equilibrium condition",
+    "description": "Important Criteria: Must recognize that spraying stops when internal gas pressure equals atmospheric pressure (10⁵ Pa).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Should maintain consistent volume units (L or m³) and pressure units (Pa) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or pressure direction error",
+    "description": "Pitfall Criteria: Penalize if atmospheric pressure is incorrectly treated or if pressure differences are miscalculated.",
+    "weight": -2
+  },
+  {
+    "title": "Volume accounting mistake",
+    "description": "Pitfall Criteria: Penalize if failing to account for the 2 L of liquid reducing gas volume, or miscalculating pumped gas volume.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer (1)",
+    "description": "Essential Criteria: The student's answer for part (1) must be 0.94 s (or equivalent with correct rounding to 2 significant figures).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final answer (2)",
+    "description": "Essential Criteria: The student's answer for part (2) must be 0.98 s (or equivalent with correct rounding to 2 significant figures).",
+    "weight": 5
+  },
+  {
+    "title": "Applies Doppler formula",
+    "description": "Important Criteria: The solution must correctly apply the Doppler effect formula for time intervals, Δt' = ((v_P - v_S) / (v_P - v_A)) * Δt, or derive it from wavefront spacing arguments.",
+    "weight": 4
+  },
+  {
+    "title": "Identifies relative motion signs",
+    "description": "Important Criteria: The solution must correctly assign signs to source and observer velocities relative to the direction of sound propagation (e.g., positive for motion toward the other).",
+    "weight": 3
+  },
+  {
+    "title": "Shows substitution and calculation",
+    "description": "Important Criteria: The solution must clearly substitute the given numerical values (v_P=340 m/s, v_S, v_A, Δt=1.0 s) into the correct formula.",
+    "weight": 2
+  },
+  {
+    "title": "Proper rounding",
+    "description": "Optional Criteria: The final answers are explicitly rounded to two significant figures as requested.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in velocity",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign convention for velocities (e.g., treating motion toward as negative), leading to an incorrect ratio.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies stationary formula",
+    "description": "Pitfall Criteria: Penalize if for part (2) the student incorrectly uses the formula for a stationary observer (i.e., neglects v_A).",
+    "weight": -1
+  }
+]

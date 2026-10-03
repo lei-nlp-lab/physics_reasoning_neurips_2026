@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Transverse Momentum",
+    "description": "Essential Criteria: The maximum transverse momentum of the pion is correctly calculated as 206 MeV/c.",
+    "weight": 5
+  },
+  {
+    "title": "Longitudinal Momentum",
+    "description": "Essential Criteria: The maximum longitudinal momentum of the pion is correctly calculated as 540 MeV/c.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The use of energy conservation to relate the energies of the pions to the mass of the K0L meson is correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz Transformation",
+    "description": "Important Criteria: The understanding that the transverse momentum remains unchanged under Lorentz transformation is correctly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum Calculation",
+    "description": "Important Criteria: The calculation of the pion momentum in the rest frame of K0L is accurately derived.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: No sign errors are present in the calculations of momentum and energy.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: All units are correctly maintained throughout the calculations.",
+    "weight": -1
+  }
+]

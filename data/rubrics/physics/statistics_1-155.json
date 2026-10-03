@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Rate Expression",
+    "description": "Essential Criteria: The student must correctly express the rate of thickness increase as eta = kappa(T - T0) / (rho L z).",
+    "weight": 5
+  },
+  {
+    "title": "Final Time Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the time to double the thickness as t = (rho L(z2^2 - z1^2)) / (2 kappa(T - T0)).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Substitution",
+    "description": "Important Criteria: The student should correctly substitute the values for z1, z2, and other constants in the final time calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Current Density",
+    "description": "Important Criteria: The student should derive the heat current density equation correctly from the principles of thermal conduction.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the heat current density equation and the rate of thickness increase.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all factors, such as density and latent heat, are included in the final expressions.",
+    "weight": -1
+  }
+]

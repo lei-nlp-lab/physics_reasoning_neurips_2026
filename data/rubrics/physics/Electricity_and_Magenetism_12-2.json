@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Reflection Angle",
+    "description": "Essential Criteria: The student must correctly express the reflection angle theta_R in terms of theta_I and beta.",
+    "weight": 5
+  },
+  {
+    "title": "Final Transmission Angle",
+    "description": "Essential Criteria: The student must correctly express the transmission angle theta_T in terms of theta_I, beta, and the indices of refraction.",
+    "weight": 5
+  },
+  {
+    "title": "Reflection Coefficient",
+    "description": "Important Criteria: The student must derive the reflection coefficient R correctly in terms of the incident angle and beta.",
+    "weight": 4
+  },
+  {
+    "title": "Transmission Coefficient",
+    "description": "Important Criteria: The student must derive the transmission coefficient T correctly as T = 1 - R.",
+    "weight": 4
+  },
+  {
+    "title": "Field Transformation",
+    "description": "Important Criteria: The student must show understanding of how to transform the electric and magnetic fields between frames.",
+    "weight": 3
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when applying the Lorentz transformation to the angles and coefficients.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases, such as beta approaching 0 or 1, to validate their results.",
+    "weight": 2
+  }
+]

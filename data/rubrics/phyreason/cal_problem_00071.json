@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final answer (1)",
+    "description": "Essential Criteria: Correctly states the mechanical energy loss per bump after the 30th as mgd sinθ.",
+    "weight": 5
+  },
+  {
+    "title": "Final answer (2)",
+    "description": "Essential Criteria: Correctly states the average loss per bump for the first 30 as [mg(L+29d)sinθ - μ mgs] / 30.",
+    "weight": 5
+  },
+  {
+    "title": "Final answer (3)",
+    "description": "Essential Criteria: Correctly states the inequality condition for L as L > d + (μs / sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Important Criteria: Applies the work-energy theorem correctly to relate the car's final kinetic energy on the incline to the horizontal sliding distance s.",
+    "weight": 4
+  },
+  {
+    "title": "Constant average speed condition",
+    "description": "Important Criteria: Recognizes that constant average speed between bumps after the 30th implies equal kinetic energy loss per bump, derived from kinematics on the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Total energy loss calculation",
+    "description": "Important Criteria: Correctly calculates the total energy loss over the first 30 bumps as the difference between gravitational work and final kinetic energy before the horizontal section.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Verifies that all derived expressions have correct units of energy (or length for L).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall Criteria: Penalizes incorrect sign in the work-energy equation for horizontal sliding (e.g., forgetting the negative work done by friction).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting constant speed",
+    "description": "Pitfall Criteria: Penalizes assuming constant velocity (instead of constant average speed) or misapplying the condition to derive the per-bump loss.",
+    "weight": -1
+  }
+]

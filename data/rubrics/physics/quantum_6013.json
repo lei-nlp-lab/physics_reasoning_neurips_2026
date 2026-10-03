@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: Provide the correct expression for the scattering cross section at low energies.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Dependence",
+    "description": "Important Criteria: Correctly identify the relationship between k, k', and the potential V0 in the context of low energy scattering.",
+    "weight": 4
+  },
+  {
+    "title": "Continuity Condition",
+    "description": "Important Criteria: Apply the continuity condition at r = a correctly to derive the phase shift delta_0.",
+    "weight": 4
+  },
+  {
+    "title": "Born Approximation",
+    "description": "Important Criteria: Compare the derived cross section with the result from the Born approximation accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as sign errors or incorrect limits in the integration.",
+    "weight": -2
+  }
+]

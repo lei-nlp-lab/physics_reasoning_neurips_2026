@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify the correct boundary condition in magnetostatics as (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Boundary Conditions",
+    "description": "Important Criteria: The student should explain the significance of the boundary condition related to the magnetic field B.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: The student should provide a clear rationale for why (a) is the correct choice over (b) and (c).",
+    "weight": 3
+  },
+  {
+    "title": "Use of Terminology",
+    "description": "Optional Criteria: The student may correctly use terms like magnetic field B and magnetic field strength H in their explanation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid stating that the component of H normal to the surface has the same value, which is incorrect.",
+    "weight": -2
+  }
+]

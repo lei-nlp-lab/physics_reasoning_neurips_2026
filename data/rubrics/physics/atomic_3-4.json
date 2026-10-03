@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student correctly identifies the answer as (c).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding Parity",
+    "description": "Important Criteria: The student demonstrates an understanding of what parity means in the context of particle physics.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning for Proton",
+    "description": "Important Criteria: The student provides reasoning for why parity is meaningful for the proton specifically.",
+    "weight": 3
+  },
+  {
+    "title": "Comparison with Muon",
+    "description": "Important Criteria: The student explains why parity is not applicable to the muon in the same context.",
+    "weight": 3
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student does not confuse the conservation of parity with conservation laws in electromagnetism.",
+    "weight": -2
+  }
+]

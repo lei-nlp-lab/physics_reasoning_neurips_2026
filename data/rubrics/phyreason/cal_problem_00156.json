@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity magnitude",
+    "description": "Essential: Correctly derives v = qBR/m from equating magnetic Lorentz force to centripetal force.",
+    "weight": 5
+  },
+  {
+    "title": "Exit point distance",
+    "description": "Essential: Correctly calculates s = 0.8R for beam c using Pythagorean theorem on the circular trajectory geometry.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum plate distance",
+    "description": "Essential: Correctly determines L_max = 4R/15 from geometric constraints ensuring all three beams hit the plate.",
+    "weight": 5
+  },
+  {
+    "title": "Force-piecewise derivation",
+    "description": "Important: Applies impulse-momentum theorem correctly to relate average force F to change in vertical momentum of absorbed ions.",
+    "weight": 4
+  },
+  {
+    "title": "Beam geometry analysis",
+    "description": "Important: Correctly identifies which beams hit the plate for different L ranges (0<L<4R/15, 4R/15<L<0.4R, L>0.4R).",
+    "weight": 4
+  },
+  {
+    "title": "Vertical momentum component",
+    "description": "Important: Correctly computes the vertical component of momentum for ions in beams a and c as p_z = 0.8qBR using trigonometry.",
+    "weight": 3
+  },
+  {
+    "title": "Trajectory radius recognition",
+    "description": "Optional: Explicitly notes that all ions have the same radius R in the magnetic field due to equal v, q, m, B.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for force direction (e.g., positive instead of negative for downward plate force) or misassigns momentum changes.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry miscalculation",
+    "description": "Pitfall: Makes arithmetic or geometric errors in Pythagorean calculations (e.g., s ≠ 0.8R) or in similar triangle ratios for L_max.",
+    "weight": -1
+  },
+  {
+    "title": "Beam counting mistake",
+    "description": "Pitfall: Incorrectly counts the number of beams contributing to the force in each L range (e.g., omits beam a or c when it should be included).",
+    "weight": -2
+  }
+]

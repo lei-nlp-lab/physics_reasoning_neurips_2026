@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Frequencies",
+    "description": "Essential Criteria: The student must correctly identify the normal-mode frequencies as omega_1 = 0, omega_2 = sqrt(k/m), and omega_3 = sqrt(3k/m).",
+    "weight": 5
+  },
+  {
+    "title": "First Mode Description",
+    "description": "Important Criteria: The student must accurately describe the first normal mode where x_1 = x_2 = x_3 = at + b.",
+    "weight": 4
+  },
+  {
+    "title": "Second Mode Description",
+    "description": "Important Criteria: The student must provide the correct expressions for the second normal mode: x_1 = A cos(omega_2 t + phi), x_2 = 0, x_3 = -A cos(omega_2 t + phi).",
+    "weight": 4
+  },
+  {
+    "title": "Third Mode Description",
+    "description": "Important Criteria: The student must correctly express the third normal mode as x_1 = A cos(omega_3 t + phi), x_2 = -2A cos(omega_3 t + phi), x_3 = A cos(omega_3 t + phi).",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Equation Setup",
+    "description": "Optional Criteria: The student should set up the matrix equation correctly from the equations of motion derived from the Lagrangian.",
+    "weight": 3
+  },
+  {
+    "title": "Secular Equation",
+    "description": "Optional Criteria: The student should derive the secular equation correctly from the matrix setup.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the equations of motion or incorrect expressions for the normal modes.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression for Variance",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the mean square deviation of energy, showing it equals kT^2C_V.",
+    "weight": 5
+  },
+  {
+    "title": "Fractional Variance Derivation",
+    "description": "Essential Criteria: The student must demonstrate the relationship between the variance and the energy of a macroscopic system, leading to the conclusion that the fractional variance approaches zero as N increases.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Partition Function",
+    "description": "Important Criteria: The student should correctly apply the partition function to derive the internal energy and its relation to the heat capacity.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of Heat Capacity",
+    "description": "Important Criteria: The student must explain the significance of C_V in the context of energy fluctuations in thermal equilibrium.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation, particularly in the final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the derivation of the variance and its relation to energy.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors in Derivation",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as k and T, are included in the final expressions.",
+    "weight": -1
+  }
+]

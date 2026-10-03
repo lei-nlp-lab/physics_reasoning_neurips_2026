@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 4.5 H.P.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Equation",
+    "description": "Important Criteria: The student should correctly derive and apply the equation for resistance force F = mV^2/(60V_0).",
+    "weight": 4
+  },
+  {
+    "title": "Horsepower Calculation",
+    "description": "Important Criteria: The student must correctly calculate the horsepower using P' = F'V'.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Conversion",
+    "description": "Optional Criteria: The student should demonstrate proper unit conversions throughout the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the equations derived for velocity and force.",
+    "weight": -2
+  },
+  {
+    "title": "Mass Calculation",
+    "description": "Important Criteria: The student must correctly relate the weight of the car to its mass in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Resistance Understanding",
+    "description": "Optional Criteria: The student should explain the physical meaning of the resistance force acting on the car.",
+    "weight": 2
+  },
+  {
+    "title": "Final Units",
+    "description": "Pitfall Criteria: The student must ensure that the final answer is expressed in the correct units of horsepower.",
+    "weight": -1
+  }
+]

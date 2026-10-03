@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct launch current",
+    "description": "Essential: The student's final answer for part (1) must be I = 80 A.",
+    "weight": 5
+  },
+  {
+    "title": "Correct coil resistance",
+    "description": "Essential: The student's final answer for part (2) must be R = 0.5 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Correct retraction time",
+    "description": "Essential: The student's final answer for part (3) must be t3 = (√5 + 3)/2 s or approximately 2.62 s.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's law for launch",
+    "description": "Important: The solution must apply Newton's second law to the launch phase (0 to t1) to relate the Ampere force to the total mass and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis for retraction",
+    "description": "Important: The solution must set up the equation of motion for the retraction phase (t1 to t3), combining the applied force F, the magnetic damping force, and the deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Charge-momentum relationship",
+    "description": "Important: The solution must derive and apply the impulse-momentum theorem (or equivalent) relating the total charge flown during retraction to the change in momentum via the magnetic impulse.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic consistency",
+    "description": "Optional: The solution correctly uses the v-t graph information to find displacements, times (like t2), and the constant deceleration magnitude.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct points for sign errors in the magnetic force direction during retraction or in the impulse-momentum equation.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or unit mistake",
+    "description": "Pitfall: Deduct points for incorrect algebraic manipulation of the simultaneous equations or for inconsistent/omitted units in intermediate steps.",
+    "weight": -1
+  }
+]

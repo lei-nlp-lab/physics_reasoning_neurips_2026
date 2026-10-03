@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential Criteria: The response must state the minimum acceleration as 2 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct time value",
+    "description": "Essential Criteria: The response must state the slide time as approximately 2.45 s.",
+    "weight": 5
+  },
+  {
+    "title": "Net force along slope",
+    "description": "Important Criteria: The solution must apply Newton's second law along the incline, identifying the net force as mg sinθ - f.",
+    "weight": 4
+  },
+  {
+    "title": "Correct sine calculation",
+    "description": "Important Criteria: The solution must correctly calculate sinθ = h/l = 0.6 from the given geometry.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic equation application",
+    "description": "Important Criteria: The solution must use the correct constant-acceleration kinematic equation (s = ½at²) to find the slide time.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in net force",
+    "description": "Pitfall Criteria: Penalize if the resistance force f is incorrectly added to the component of gravity instead of subtracted.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect trigonometric ratio",
+    "description": "Pitfall Criteria: Penalize if sinθ is confused with cosθ or tanθ (e.g., using h/l for cosθ).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may show unit analysis for the final acceleration (m/s²) and time (s).",
+    "weight": 1
+  }
+]

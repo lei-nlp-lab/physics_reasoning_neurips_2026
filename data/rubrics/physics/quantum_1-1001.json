@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must provide the correct amplitude of zero-point oscillation A = 0.41 x 10^-17 m.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must conclude that the tunneling probability T is approximately 0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria: The student must report the correct diffraction angles θ1 and θ2 as approximately 1.3 x 10^-32 rad and 9 x 10^-33 rad respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Equations",
+    "description": "Important Criteria: The student should correctly apply the equations for zero-point oscillation, tunneling probability, and de Broglie wavelength.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent and correctly applied throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations, particularly in the tunneling probability expression.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Factors",
+    "description": "Pitfall Criteria: The student should not neglect significant factors in the tunneling probability calculation, such as the mass and potential height.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Important Criteria: The student should provide a clear interpretation of the results, explaining why quantum effects are negligible in macroscopic cases.",
+    "weight": 3
+  }
+]

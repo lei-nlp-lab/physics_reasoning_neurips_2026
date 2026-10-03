@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct U_BA value",
+    "description": "Essential: The answer must give U_BA = 1200 V (or equivalent with correct sign).",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential energy difference",
+    "description": "Essential: The answer must give ΔU = -6 × 10⁻⁵ J for the charge's energy difference between A and B.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential at A",
+    "description": "Essential: With M grounded, the answer must give φ_A = -480 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential at B",
+    "description": "Essential: With M grounded, the answer must give φ_B = -1680 V.",
+    "weight": 5
+  },
+  {
+    "title": "U_BA formula application",
+    "description": "Important: Uses the correct formula U = E * d * cosθ for potential difference in a uniform field.",
+    "weight": 3
+  },
+  {
+    "title": "Energy from potential difference",
+    "description": "Important: Correctly relates electric potential energy difference to charge and potential difference (ΔPE = q * ΔV).",
+    "weight": 3
+  },
+  {
+    "title": "Potential from grounded plate",
+    "description": "Important: Correctly calculates potential at a point using the field strength and distance from the grounded plate (φ = -E * d).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in U_BA definition",
+    "description": "Pitfall: Confuses U_BA with U_AB or misapplies the sign convention for potential difference.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or power-of-ten error",
+    "description": "Pitfall: Fails to convert cm to m correctly or makes an error in the exponent/power of ten in calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Consistent sign for energy",
+    "description": "Optional: Explicitly states the relationship between the sign of the energy difference and the work done by the field.",
+    "weight": 1
+  }
+]

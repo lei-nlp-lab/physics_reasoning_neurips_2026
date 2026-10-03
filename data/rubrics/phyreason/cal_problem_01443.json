@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates acceleration using a = Δv/Δt, yielding 0.3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Mass calculation",
+    "description": "Essential: Correctly calculates mass using m = F/a, yielding 3000 kg.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: Applies F = ma to relate thrust force, mass, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration definition",
+    "description": "Important: Recognizes acceleration as the rate of change of velocity (Δv/Δt).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (N, m/s, s, kg) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect force usage",
+    "description": "Pitfall: Uses impulse-momentum (FΔt = mΔv) incorrectly instead of F = ma for mass.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Treats acceleration or force as negative without justification.",
+    "weight": -1
+  }
+]

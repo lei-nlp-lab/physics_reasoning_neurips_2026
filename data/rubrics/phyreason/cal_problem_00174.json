@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at liquid exit",
+    "description": "Essential: Correctly computes the speed when the rod leaves the liquid using energy conservation or kinematics (v = sqrt(2gH)).",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force expression",
+    "description": "Important: States the magnetic force on the rod as F = BIL, with correct identification of length L.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy balance",
+    "description": "Essential: Applies work-energy theorem: work done by Ampere force (BIh) equals gain in gravitational potential energy (mg(H+h)).",
+    "weight": 5
+  },
+  {
+    "title": "Current calculation",
+    "description": "Essential: Solves the work-energy equation correctly to find the constant current I.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum setup",
+    "description": "Important: For part (3), writes the impulse-momentum equation: (BIL - mg)t' = mv' - 0.",
+    "weight": 4
+  },
+  {
+    "title": "Second velocity relation",
+    "description": "Important: Relates the new jump height H' to the exit velocity v' via v' = sqrt(2gH').",
+    "weight": 4
+  },
+  {
+    "title": "Charge from current integral",
+    "description": "Essential: Recognizes that charge q = I' t', where I' is the (possibly non-constant) average current during t'.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses wrong sign for gravity in force balance or impulse equation, or misplaces parentheses in energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all lengths to meters and mass to kg consistently before numerical substitution.",
+    "weight": 1
+  }
+]

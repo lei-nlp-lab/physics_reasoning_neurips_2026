@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Primary voltage calculation",
+    "description": "Essential: Correctly calculates the RMS voltage of the primary coil from the given sinusoidal waveform.",
+    "weight": 5
+  },
+  {
+    "title": "Turns ratio determination",
+    "description": "Essential: Correctly applies the transformer voltage ratio formula to find n1/n2 = 10/1.",
+    "weight": 5
+  },
+  {
+    "title": "Secondary resistance analysis",
+    "description": "Important: Recognizes that closing the switch puts the two resistors in parallel, giving R_total = 5 Ω.",
+    "weight": 4
+  },
+  {
+    "title": "Power conservation application",
+    "description": "Important: Correctly uses P1 = P2 and calculates secondary power from U2²/R_total to find 80 W.",
+    "weight": 4
+  },
+  {
+    "title": "Diode voltage calculation",
+    "description": "Important: Correctly determines the RMS voltage after diode rectification using half-wave energy equivalence.",
+    "weight": 4
+  },
+  {
+    "title": "Peak vs RMS confusion",
+    "description": "Pitfall: Uses peak primary voltage (282.8 V) instead of RMS (200 V) in transformer ratio calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Series resistance error",
+    "description": "Pitfall: Incorrectly treats resistors as in series when switch is closed, giving R_total = 20 Ω.",
+    "weight": -1
+  },
+  {
+    "title": "Diode voltage oversight",
+    "description": "Pitfall: Forgets to recalculate RMS voltage after diode rectification, using original 20 V instead of 10√2 V.",
+    "weight": -1
+  }
+]

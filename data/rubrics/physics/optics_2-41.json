@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Position Minimum",
+    "description": "Essential Criteria: The position of the n-th minimum for the apodized slit must be correctly calculated as sin theta = lambda/(2b)(2n + 1).",
+    "weight": 5
+  },
+  {
+    "title": "Unapodized Minimum",
+    "description": "Essential Criteria: The position of the n-th minimum for the unapodized slit must be correctly stated as sin theta' = n lambda/b.",
+    "weight": 5
+  },
+  {
+    "title": "Intensity Calculation",
+    "description": "Important Criteria: The intensity at the midpoint between the (n-1)-th and n-th minima must be derived correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Normalization of Intensity",
+    "description": "Important Criteria: The normalization of intensity results to the first maximum must be accurately performed for both apodized and unapodized cases.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing the correct factors or signs in the final expressions for intensity or positions will lead to significant errors.",
+    "weight": -2
+  }
+]

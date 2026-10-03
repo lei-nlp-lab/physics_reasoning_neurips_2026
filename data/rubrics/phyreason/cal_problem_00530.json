@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Circuit current correct",
+    "description": "Essential: Student correctly calculates the current using Ohm's Law for a closed circuit: I = E/(R + r).",
+    "weight": 5
+  },
+  {
+    "title": "Terminal voltage correct",
+    "description": "Essential: Student correctly calculates the terminal voltage using U = I * R (the external resistance).",
+    "weight": 5
+  },
+  {
+    "title": "Output power correct",
+    "description": "Essential: Student correctly calculates the output power using P_out = U * I.",
+    "weight": 5
+  },
+  {
+    "title": "Total power correct",
+    "description": "Essential: Student correctly calculates the total power using P_total = E * I.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Ohm's Law",
+    "description": "Important: Student identifies and applies the correct form of Ohm's law for the entire circuit and for the terminal voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Distinguishes power types",
+    "description": "Important: Student distinguishes between the power supply's total power (EI) and its output power (UI).",
+    "weight": 3
+  },
+  {
+    "title": "Includes unit analysis",
+    "description": "Optional: Student includes or checks units (A, V, W) in their calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses R for terminal voltage",
+    "description": "Pitfall: Student incorrectly uses the internal resistance 'r' or total resistance 'R+r' when calculating terminal voltage U.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifies power formulas",
+    "description": "Pitfall: Student confuses the formulas for output power (UI) and total power (EI), swapping them.",
+    "weight": -2
+  }
+]

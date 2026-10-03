@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum speed calculation",
+    "description": "Essential: The final answer for part (1) must be v_max = 0.8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Constant velocity power",
+    "description": "Essential: The final answer for part (2) must be P = 4000 W.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration time",
+    "description": "Essential: The final answer for part (3) must be t = 1/3 s or approximately 0.333 s.",
+    "weight": 5
+  },
+  {
+    "title": "Apply power-force-velocity relation",
+    "description": "Important: For parts (1) and (2), the student must correctly use the formula P = Fv, relating power, force, and velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important: For part (3), the student must set up F_net = ma to find the required traction force F = m(g + a).",
+    "weight": 4
+  },
+  {
+    "title": "Identify limiting condition",
+    "description": "Important: For part (3), the student must recognize that acceleration stops when the required power (Fv) equals the crane's maximum power, solving for the final velocity v.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should maintain consistent SI units (W, m/s, kg, N) throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Incorrectly using the net force (e.g., F = mg - ma for upward acceleration) or misapplying the power formula (e.g., P = mgv in all cases).",
+    "weight": -2
+  },
+  {
+    "title": "Power vs. force confusion",
+    "description": "Pitfall: Assuming the crane delivers constant maximum force instead of constant maximum power during the acceleration in part (3).",
+    "weight": -1
+  }
+]

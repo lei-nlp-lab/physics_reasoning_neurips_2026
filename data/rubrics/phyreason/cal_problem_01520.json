@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Total time expression",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly derived and expressed as t = 3√(mL/(eE)).",
+    "weight": 5
+  },
+  {
+    "title": "Tangent of angle",
+    "description": "Essential Criteria: The final answer for part (2) must correctly state tanθ = 3.",
+    "weight": 5
+  },
+  {
+    "title": "Impact distance",
+    "description": "Essential Criteria: The final answer for part (3) must correctly state the distance from O as y = 4.5L.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration analysis",
+    "description": "Important Criteria: The solution must correctly apply Newton's second law to find accelerations a1 = eE/m and a2 = 3eE/m.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics in region E1",
+    "description": "Important Criteria: The solution must correctly use kinematics to find the time t1 and velocity v at line MN from the motion under a1.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity components at exit",
+    "description": "Important Criteria: The solution must correctly calculate the vertical velocity component gained in region E2 and relate it to tanθ.",
+    "weight": 4
+  },
+  {
+    "title": "Total displacement calculation",
+    "description": "Important Criteria: The solution must correctly combine the vertical displacement in E2 with the drift after E2 to find the total y.",
+    "weight": 3
+  },
+  {
+    "title": "Time segmentation",
+    "description": "Optional Criteria: The solution may clearly break the total time into segments t1 (in E1), t2 (field-free to screen), and t3 (in E2).",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns the direction of acceleration or velocity for the electron (negative charge).",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics misapplication",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly applies constant-acceleration or constant-velocity formulas to the wrong motion segments.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "First 2s displacement",
+    "description": "Essential: Correctly calculates +5 m (east) + (-3 m) (west) = +2 m or 2 m east.",
+    "weight": 5
+  },
+  {
+    "title": "First 4s displacement",
+    "description": "Essential: Correctly calculates +5 + (-3) + (-4) + (+1) = -1 m or 1 m west.",
+    "weight": 5
+  },
+  {
+    "title": "Last 2s displacement",
+    "description": "Essential: Correctly calculates displacement from t=2s to t=4s as (-4 m) + (+1 m) = -3 m or 3 m west.",
+    "weight": 5
+  },
+  {
+    "title": "Vector sum reasoning",
+    "description": "Important: Applies displacement as the vector sum of individual 1-second displacements.",
+    "weight": 3
+  },
+  {
+    "title": "Direction specification",
+    "description": "Important: States direction (east/west) or sign convention consistently with numerical answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: Uses distances instead of signed displacements, or confuses east/west signs.",
+    "weight": -2
+  },
+  {
+    "title": "Time interval confusion",
+    "description": "Pitfall: For last 2 seconds, incorrectly uses first 2 seconds or full 4-second displacement.",
+    "weight": -1
+  }
+]

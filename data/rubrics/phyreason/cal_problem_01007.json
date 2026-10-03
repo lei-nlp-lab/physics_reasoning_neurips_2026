@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Piston mass calculation",
+    "description": "Essential Criteria: Student must correctly calculate the piston mass using the hydrostatic pressure balance equation.",
+    "weight": 5
+  },
+  {
+    "title": "Initial gas pressure",
+    "description": "Important Criteria: Student must determine the initial gas pressure by considering atmospheric pressure and the hydrostatic pressure from the water column height difference.",
+    "weight": 4
+  },
+  {
+    "title": "Boyle's Law application",
+    "description": "Essential Criteria: Student must apply Boyle's Law correctly to find the final length of the gas column when pressures equalize.",
+    "weight": 5
+  },
+  {
+    "title": "Geometric height relationship",
+    "description": "Important Criteria: Student must establish the correct geometric relationship between piston displacement, water level change, and gas column length change.",
+    "weight": 4
+  },
+  {
+    "title": "Final numerical answers",
+    "description": "Essential Criteria: Student must provide both final answers with correct units: piston mass (0.10 kg) and piston rise height (10.5 cm).",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student demonstrates consistent unit conversion between cm/m and cm²/m² throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Hydrostatic pressure sign error",
+    "description": "Pitfall Criteria: Student incorrectly adds/subtracts hydrostatic pressure term when calculating initial gas pressure.",
+    "weight": -2
+  },
+  {
+    "title": "Geometric misinterpretation",
+    "description": "Pitfall Criteria: Student incorrectly relates piston displacement to water level changes (e.g., forgetting the h/2 term or confusing L₂-L₁).",
+    "weight": -2
+  }
+]

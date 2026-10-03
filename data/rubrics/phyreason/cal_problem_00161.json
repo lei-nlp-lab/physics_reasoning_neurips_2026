@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly derives and states E = mv₀²/(2qR) from work-energy theorem and geometry.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum KE increase velocity",
+    "description": "Essential: Correctly determines initial velocity for maximum kinetic energy gain as v₀√2/4.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum change velocity",
+    "description": "Essential: Correctly identifies both possible initial velocities (0 or v₀√3/2) that yield momentum change mv₀.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Applies projectile kinematics with constant acceleration qE/m to relate displacement components to time.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric displacement relations",
+    "description": "Important: Uses geometry of circle (R, 60°) to determine vertical and horizontal displacements relative to field direction.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Recognizes that work done by electric field equals change in kinetic energy, independent of path for uniform field.",
+    "weight": 4
+  },
+  {
+    "title": "Vector momentum change",
+    "description": "Important: Calculates momentum change as vector difference, considering both magnitude and direction of final velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Treats momentum change as scalar sum instead of vector difference, or misidentifies field direction.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Incorrectly determines vertical/horizontal displacements from the given 60° angle and circle geometry.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final answers (E in N/C, velocities in m/s).",
+    "weight": 1
+  }
+]

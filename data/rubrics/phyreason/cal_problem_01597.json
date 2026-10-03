@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total energy conversion",
+    "description": "Essential: Correctly calculates total energy converted from other forms to electrical energy using W = E * q, obtaining 18 J.",
+    "weight": 5
+  },
+  {
+    "title": "External circuit energy",
+    "description": "Essential: Correctly calculates electrical energy converted in external circuit using W1 = U1 * q, obtaining 14.4 J.",
+    "weight": 5
+  },
+  {
+    "title": "Internal circuit energy",
+    "description": "Essential: Correctly calculates electrical energy converted in internal circuit, either via W2 = (E - U1) * q or W2 = W - W1, obtaining 3.6 J.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage relationship application",
+    "description": "Important: Applies the relationship between EMF, terminal voltage, and internal voltage drop (E = U1 + U2) to find internal voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation check",
+    "description": "Important: Recognizes that total converted energy equals sum of external and internal conversions (W = W1 + W2) as consistency check.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows proper unit analysis with volts, coulombs, and joules throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing EMF with terminal voltage",
+    "description": "Pitfall: Uses terminal voltage (2.4 V) instead of EMF (3.0 V) when calculating total energy conversion.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in voltage difference",
+    "description": "Pitfall: Incorrectly calculates internal voltage as U1 - E instead of E - U1.",
+    "weight": -1
+  }
+]

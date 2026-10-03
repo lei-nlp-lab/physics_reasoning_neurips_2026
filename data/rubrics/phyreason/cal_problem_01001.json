@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final pressure (part 1)",
+    "description": "Essential: Correct final pressure for part (1) after temperature change, approximately 0.94 × 10⁵ Pa.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature conversion",
+    "description": "Important: Converts Celsius temperatures to Kelvin for use in the ideal gas law.",
+    "weight": 4
+  },
+  {
+    "title": "Isochoric process application",
+    "description": "Important: Applies the ideal gas law for constant volume (p₁/T₁ = p₂/T₂) to solve part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Final number of pumps",
+    "description": "Essential: Correct final answer for part (2), rounded up to 9 pumps.",
+    "weight": 5
+  },
+  {
+    "title": "Boyle's Law application",
+    "description": "Important: Applies Boyle's Law (pV = constant) to relate pressure and volume changes per pump stroke.",
+    "weight": 4
+  },
+  {
+    "title": "Volume per pump stroke",
+    "description": "Important: Correctly calculates the volume of gas added per pump stroke as S × l.",
+    "weight": 3
+  },
+  {
+    "title": "Rounding up logic",
+    "description": "Optional: Explicitly states that fractional pump results must be rounded up to the next integer.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Uses Celsius directly in gas law, or fails to convert pressure/volume units consistently.",
+    "weight": -2
+  },
+  {
+    "title": "Pressure threshold confusion",
+    "description": "Pitfall: Uses initial pressure (p₁) instead of final outdoor pressure from part (1) as the starting point for part (2).",
+    "weight": -1
+  }
+]

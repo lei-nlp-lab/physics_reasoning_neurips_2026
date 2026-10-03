@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expectation Value",
+    "description": "Essential Criteria: The final expression for the expectation value of B must be correctly stated as <B> = <B>_0 + λ<C>_0.",
+    "weight": 5
+  },
+  {
+    "title": "Ground State Expectation Values",
+    "description": "Essential Criteria: The results for <x1>, <x2>, and <x3> must be correctly evaluated as <x1> = 0, <x2> = 0, and <x3> = -λ/(mω^2).",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The application of perturbation theory to derive the first-order corrections must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Operator Commutation",
+    "description": "Important Criteria: The calculation of the commutation relation [B, A] leading to C must be correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Completeness Assumption",
+    "description": "Optional Criteria: The assumption of completeness for the eigenstates |k>^(0) should be mentioned to clarify the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the perturbation terms or final results will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any inconsistencies in units throughout the calculations will result in a deduction.",
+    "weight": -1
+  }
+]

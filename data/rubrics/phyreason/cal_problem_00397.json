@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct coefficient of kinetic friction",
+    "description": "Essential: The final answer for part (1) must be μ = 0.5.",
+    "weight": 5
+  },
+  {
+    "title": "Correct magnetic induction intensity",
+    "description": "Essential: The final answer for part (2) must be B' = 10 T.",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force resolution",
+    "description": "Important: The student must correctly resolve the Ampere force into components parallel (causing friction) and perpendicular (affecting normal force) to the rail plane.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: The student must correctly calculate the normal force, accounting for the vertical component of the Ampere force subtracting from or adding to the weight.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: The student must apply static equilibrium conditions (sum of forces = 0) for both the initial and the 'about to move' scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Friction model application",
+    "description": "Important: The student must correctly apply the kinetic friction model (F_f = μ F_N) for part (1) and the maximum static friction model (F_f' = μ F_N') for part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Penalize if the student uses the same sign for the Ampere force's vertical component in both scenarios, failing to account for its reversal when the magnetic field is reversed.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's working should demonstrate consistent use of SI units (kg, m, s, A, T, N).",
+    "weight": 1
+  }
+]

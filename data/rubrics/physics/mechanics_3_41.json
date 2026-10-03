@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Total Energy Expression",
+    "description": "Essential Criteria: The student must correctly derive the total relativistic energy expression E' for the system in the center of mass frame.",
+    "weight": 5
+  },
+  {
+    "title": "Particle Momentum Calculation",
+    "description": "Important Criteria: The student should accurately calculate the particle's momentum in the center of mass frame, ensuring the use of the correct transformation equations.",
+    "weight": 4
+  },
+  {
+    "title": "Final Photon Momentum",
+    "description": "Essential Criteria: The student must derive the correct expression for the momentum of the final photon in the laboratory frame after scattering.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student should apply conservation of momentum and energy correctly to relate the initial and final momenta of the photon and particle.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating momenta, particularly in the context of elastic scattering.",
+    "weight": -2
+  }
+]

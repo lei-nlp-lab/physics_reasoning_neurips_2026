@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average acceleration calculation",
+    "description": "Essential Criteria: Student correctly calculates the average angular acceleration as 2 r/s² using Δn/t.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion accuracy",
+    "description": "Essential Criteria: Student converts 600 r/min to 10 r/s for use in calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Total revolutions determination",
+    "description": "Essential Criteria: Student correctly calculates the total revolutions as 25 revolutions.",
+    "weight": 5
+  },
+  {
+    "title": "Average speed concept",
+    "description": "Important Criteria: Student recognizes that for uniform acceleration, average rotational speed is (n₀+n_t)/2.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic approach",
+    "description": "Important Criteria: Student applies appropriate rotational kinematics (q = n_avg × t) to find total revolutions.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional Criteria: Student includes proper units (r/s² and r) with numerical answers.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect unit conversion",
+    "description": "Pitfall Criteria: Student fails to convert 600 r/min to r/s or makes conversion error.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing acceleration with speed",
+    "description": "Pitfall Criteria: Student incorrectly reports average rotational speed (5 r/s) instead of average acceleration (2 r/s²) for part (1).",
+    "weight": -1
+  }
+]

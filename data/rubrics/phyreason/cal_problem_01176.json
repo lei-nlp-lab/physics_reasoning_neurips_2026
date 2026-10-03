@@ -1,0 +1,47 @@
+[
+  {
+    "title": "First meeting time",
+    "description": "Essential Criteria: Correctly calculates the time when the F1 car first catches the safety car as 20 s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum separation distance",
+    "description": "Essential Criteria: Correctly calculates the maximum distance between the cars before the first meeting as 225 m.",
+    "weight": 5
+  },
+  {
+    "title": "Second meeting time",
+    "description": "Essential Criteria: Correctly calculates the total time for the second meeting after braking as 40 s.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important Criteria: Sets up correct kinematic equations for both cars' positions to find meeting times.",
+    "weight": 4
+  },
+  {
+    "title": "Speed equality analysis",
+    "description": "Important Criteria: Identifies that maximum separation occurs when the F1 car's speed equals the safety car's constant speed.",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration phase analysis",
+    "description": "Important Criteria: Correctly analyzes the F1 car's deceleration phase after the first meeting, including stopping time and distance.",
+    "weight": 4
+  },
+  {
+    "title": "Safety car motion tracking",
+    "description": "Important Criteria: Maintains consistent tracking of the safety car's constant velocity motion throughout all phases.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall Criteria: Uses incorrect sign for deceleration acceleration or misapplies kinematic equations during braking phase.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring initial separation",
+    "description": "Pitfall Criteria: Fails to account for the initial 200 m separation when setting up position equations.",
+    "weight": -2
+  }
+]

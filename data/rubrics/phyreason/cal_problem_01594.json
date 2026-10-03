@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Part 1 voltage ratio",
+    "description": "Essential: Correctly states the voltage ratio for part (1) as 2/3 or equivalent simplified fraction.",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 voltage ratio",
+    "description": "Essential: Correctly states the voltage ratio for part (2) as 7/6 or equivalent simplified fraction.",
+    "weight": 5
+  },
+  {
+    "title": "Series circuit analysis",
+    "description": "Important: For part (1), identifies that with S on and S' off, R1 and R2 are in series with equal current.",
+    "weight": 3
+  },
+  {
+    "title": "Parallel combination recognition",
+    "description": "Important: For part (2), recognizes that with both switches on, R2 and R3 are in parallel, and this combination is in series with R1.",
+    "weight": 4
+  },
+  {
+    "title": "Ohm's Law application",
+    "description": "Important: Applies V = IR correctly to relate voltages to resistances or equivalent resistances in both scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent resistance calculation",
+    "description": "Optional: Shows correct calculation of the parallel equivalent resistance for R2 and R3 (12/7 Ω) for part (2).",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect series assumption",
+    "description": "Pitfall: Penalize if student treats R2 and R3 as being in series with each other in part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Current assumption error",
+    "description": "Pitfall: Penalize if student assumes currents through R1 and R2 are equal in part (2).",
+    "weight": -2
+  }
+]

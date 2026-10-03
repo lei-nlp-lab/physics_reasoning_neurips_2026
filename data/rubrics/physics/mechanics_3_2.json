@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer must correctly represent the time read by the earth clock when the spaceship clock reads one hour.",
+    "weight": 5
+  },
+  {
+    "title": "Transformation Equations",
+    "description": "Important Criteria: The student must correctly apply the Lorentz transformation equations for time and space.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gamma",
+    "description": "Important Criteria: The student must correctly define and use the Lorentz factor gamma in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Light Signal Calculation",
+    "description": "Important Criteria: The student must correctly calculate the time taken for the light signal to reach the earthman.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the transformation equations.",
+    "weight": -2
+  },
+  {
+    "title": "Beta Definition",
+    "description": "Optional Criteria: The student should define beta correctly as the ratio of velocity to the speed of light.",
+    "weight": 1
+  }
+]

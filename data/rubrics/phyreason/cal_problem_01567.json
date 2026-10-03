@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct charge q",
+    "description": "Essential: Student correctly calculates the charge q of ball B as 1.0 × 10⁻⁶ C.",
+    "weight": 5
+  },
+  {
+    "title": "Correct electric field magnitude",
+    "description": "Essential: Student correctly calculates the external electric field magnitude at x=0.3 m as 3.0 × 10⁴ N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: Student correctly calculates the potential difference U between x=0.4 m and x=0.6 m as 800 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum distance s",
+    "description": "Essential: Student correctly calculates the minimum distance s the constant force must act as 0.065 m.",
+    "weight": 5
+  },
+  {
+    "title": "Uses Coulomb's Law correctly",
+    "description": "Important: Student applies Coulomb's law to find the force from charge A on ball B at a given position.",
+    "weight": 4
+  },
+  {
+    "title": "Applies force superposition",
+    "description": "Important: Student correctly uses the superposition of forces (Coulomb + external field) to find the net force from curve II.",
+    "weight": 4
+  },
+  {
+    "title": "Calculates work from F-x graph",
+    "description": "Important: Student correctly interprets the area under the force-position curve (curve II) to calculate work done.",
+    "weight": 4
+  },
+  {
+    "title": "Applies work-energy theorem",
+    "description": "Important: Student correctly applies the work-energy theorem to relate work done to kinetic energy changes.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error in force",
+    "description": "Pitfall: Student makes a sign error in force direction (e.g., for Coulomb repulsion or external field), leading to incorrect net force or work.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student demonstrates consistent use of SI units (meters, Coulombs, Newtons) throughout calculations.",
+    "weight": 1
+  }
+]

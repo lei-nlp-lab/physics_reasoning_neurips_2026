@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Induced EMF expression",
+    "description": "Essential: The final expression for the induced electromotive force must be correctly derived as E = (B_0 * L^2) / (4π * Δt).",
+    "weight": 5
+  },
+  {
+    "title": "Induced current expression",
+    "description": "Essential: The final expression for the induced current must be correctly derived as I = (B_0 * L * S) / (4π * ρ * Δt).",
+    "weight": 5
+  },
+  {
+    "title": "Joule heating power expression",
+    "description": "Essential: The final expression for the Joule heating power must be correctly derived as P = (B_0^2 * L^3 * S) / (16π^2 * ρ * Δt^2).",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's Law",
+    "description": "Important: The solution must correctly apply Faraday's law of induction, relating the changing magnetic flux to the induced EMF.",
+    "weight": 4
+  },
+  {
+    "title": "Use of ring geometry",
+    "description": "Important: The solution must correctly relate the given circumference L to the radius or area of the ring for calculating magnetic flux.",
+    "weight": 3
+  },
+  {
+    "title": "Resistance calculation",
+    "description": "Important: The solution must correctly calculate the ring's resistance using its length (circumference), cross-sectional area, and resistivity.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Optional: The solution shows clear and correct algebraic manipulation to arrive at the final simplified expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes a check for dimensional or unit consistency in the final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect flux area",
+    "description": "Pitfall: Using the cross-sectional area S instead of the ring's enclosed area when calculating magnetic flux.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or factor error",
+    "description": "Pitfall: Making an algebraic error (e.g., missing a factor of π or 2) in the derivation of the final expressions.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Detachment time calculation",
+    "description": "Essential Criteria: The response must correctly calculate the time for the ball to detach from the rod as 0.1 s, using the vertical acceleration and rod length.",
+    "weight": 5
+  },
+  {
+    "title": "External force work",
+    "description": "Essential Criteria: The response must correctly calculate the work done by the horizontal external force F as 2 × 10⁻⁵ J, using the work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity range for impact",
+    "description": "Essential Criteria: The response must correctly determine the range of rod velocities for the ball to hit the left side of the baffle as 1 m/s < v₀ < 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force analysis",
+    "description": "Important Criteria: The solution must correctly identify the Lorentz force as the source of the ball's vertical acceleration and relate it to the rod's horizontal velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic modeling",
+    "description": "Important Criteria: The solution must apply kinematic equations for uniformly accelerated motion to describe the ball's vertical motion along the rod.",
+    "weight": 4
+  },
+  {
+    "title": "Post-detachment motion analysis",
+    "description": "Important Criteria: For part (3), the solution must analyze the ball's subsequent circular motion in the magnetic field and its geometric intersection with the baffle.",
+    "weight": 3
+  },
+  {
+    "title": "Energy theorem application",
+    "description": "Optional Criteria: The solution may explicitly use the work-energy theorem to connect the external work to the change in the ball's kinetic energy.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the direction of the Lorentz force (or the sign of the charge's influence) is incorrectly determined, affecting acceleration or trajectory.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall Criteria: Penalize if calculations fail to use consistent SI units (meters, seconds, Teslas, Coulombs) leading to incorrect numerical results.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Condition for Fission",
+    "description": "Essential Criteria: The student must correctly derive and state the limiting condition for spontaneous fission as Z^2/A >= 43.3.",
+    "weight": 5
+  },
+  {
+    "title": "Binding Energy Interpretation",
+    "description": "Important Criteria: The student should explain the components of the binding energy formula and their physical significance.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Levels Discussion",
+    "description": "Important Criteria: The student must discuss the two sets of energy levels in terms of rotational excitations and their implications for nuclear shape.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Energy Sketch",
+    "description": "Optional Criteria: The student should provide a rough sketch of the potential energy function V(ε) indicating the two-peak barrier.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the derivation of dB/dε and its implications for stability.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations and interpretations.",
+    "weight": -1
+  },
+  {
+    "title": "Moments of Inertia Values",
+    "description": "Essential Criteria: The student must correctly state the moments of inertia values for the two sets of states as approximately 7 MeV and 3.3 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Implications",
+    "description": "Important Criteria: The student should discuss the implications of different moments of inertia on the stability and lifetime of the states.",
+    "weight": 3
+  }
+]

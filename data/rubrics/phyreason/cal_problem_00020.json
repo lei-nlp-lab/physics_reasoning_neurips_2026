@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Height from energy conservation",
+    "description": "Essential: Correctly applies conservation of mechanical energy to relate release height H to collision speed v, yielding H = v²/(2g).",
+    "weight": 5
+  },
+  {
+    "title": "Tension from centripetal force",
+    "description": "Important: Applies Newton's second law for circular motion at the bottom of the swing, setting net force (F - mg) equal to centripetal force mv²/L.",
+    "weight": 4
+  },
+  {
+    "title": "Post-collision velocity",
+    "description": "Important: Correctly applies conservation of momentum to the perfectly inelastic collision, finding the combined velocity v' = v/2.",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss calculation",
+    "description": "Essential: Correctly computes the mechanical energy loss as the difference between initial kinetic energy of A and final kinetic energy of the combined mass, yielding ΔE = ¼mv².",
+    "weight": 5
+  },
+  {
+    "title": "Units and symbolic form",
+    "description": "Optional: Presents final answers in correct symbolic form with appropriate units or dimensional consistency.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in tension",
+    "description": "Pitfall: Incorrectly writes tension as F = mg - mv²/L (wrong direction of net force) or omits the weight term entirely.",
+    "weight": -2
+  },
+  {
+    "title": "Momentum conservation error",
+    "description": "Pitfall: Fails to account for the doubled mass after collision in momentum conservation, or treats the collision as elastic.",
+    "weight": -2
+  },
+  {
+    "title": "Energy framework confusion",
+    "description": "Pitfall: Incorrectly includes potential energy in the collision energy balance, or misidentifies the system for energy loss calculation.",
+    "weight": -1
+  }
+]

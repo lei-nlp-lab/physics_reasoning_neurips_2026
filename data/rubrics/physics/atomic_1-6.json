@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer for Doppler",
+    "description": "Essential Criteria: Provide the correct final answer for the Doppler broadening width, Gamma_D.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Collision",
+    "description": "Essential Criteria: Provide a reasonable estimate for the collision broadening width, Gamma_c, if calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Doppler Effect Explanation",
+    "description": "Important Criteria: Clearly explain the Doppler effect and its contribution to spectral line broadening.",
+    "weight": 4
+  },
+  {
+    "title": "Collision Broadening Discussion",
+    "description": "Important Criteria: Discuss the role of collisions in broadening and how it differs from Doppler broadening.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Uncertainty Principle",
+    "description": "Important Criteria: Apply the uncertainty principle correctly to relate energy uncertainty to time.",
+    "weight": 3
+  },
+  {
+    "title": "Parameter Estimates",
+    "description": "Optional Criteria: Provide reasonable order-of-magnitude estimates for parameters used in calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes or incorrect application of formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Check for any missing factors or constants in the calculations.",
+    "weight": -1
+  }
+]

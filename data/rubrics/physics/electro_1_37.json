@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the work done by the electric force.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria: The student should correctly derive the electric field in the region between the spheres.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student must correctly compute the electric field energy before and after the contraction.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Change Expression",
+    "description": "Important Criteria: The student should express the work done as the change in electric field energy.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating the work done.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as constants, are included in the final answer.",
+    "weight": -1
+  }
+]

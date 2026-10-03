@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the entropy difference must be correctly stated as Delta S = 0.97 cal/K.",
+    "weight": 5
+  },
+  {
+    "title": "Moles Calculation",
+    "description": "Important Criteria: The calculation of the number of moles of nitrogen must be correctly performed as n = 1/28.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Change Gas",
+    "description": "Important Criteria: The calculation of the entropy change for the ideal gas must be correctly derived using Delta S' = nC_p ln(T_1/T_2).",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Change Phase Transition",
+    "description": "Important Criteria: The calculation of the entropy change during the phase transition must be correctly derived using Delta S'' = nL/T_2.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units for all calculations must be consistent and correctly stated throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the calculations of entropy changes.",
+    "weight": -2
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Pitfall Criteria: Missing the conversion of temperatures from Celsius to Kelvin can lead to incorrect results.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Capacitance",
+    "description": "Essential Criteria: The student must provide the correct expression for the capacitance of the system, C = 4 pi epsilon_0 a d / (d - a).",
+    "weight": 5
+  },
+  {
+    "title": "Charge Distribution",
+    "description": "Essential Criteria: The student must correctly express the charge distribution on the inner and outer surfaces of the middle shell in terms of Q_B.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Equations",
+    "description": "Important Criteria: The student should derive and present the electric field equations for the regions between the shells.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Equality",
+    "description": "Important Criteria: The student must explain the condition of equal potential between the inner and outer shells.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the expressions for charges Q_1 and Q_2.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios for further insight.",
+    "weight": 1
+  }
+]

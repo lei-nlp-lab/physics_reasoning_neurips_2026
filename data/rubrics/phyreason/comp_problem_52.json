@@ -1,0 +1,52 @@
+[
+  {
+    "title": "John's x-equation",
+    "description": "Essential: Must state the approximate equation of motion in the x-direction, e.g., a_x + ω²x = 0.",
+    "weight": 5
+  },
+  {
+    "title": "John's y-equation",
+    "description": "Essential: Must state the approximate equation of motion in the y-direction, e.g., a_y + ω²y = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Ella's x-coordinate",
+    "description": "Essential: Must provide the correct expression for x̃(t), involving both ω and Ω, matching the transformation from the given initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Ella's y-coordinate",
+    "description": "Essential: Must provide the correct expression for ỹ(t), involving both ω and Ω, matching the transformation from the given initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Paris period value",
+    "description": "Essential: Must give the final numerical period for Paris, approximately 16 hours.",
+    "weight": 5
+  },
+  {
+    "title": "Rotation transformation application",
+    "description": "Important: Must correctly apply the rotation transformation (x̃ = x cos(Ωt) + y sin(Ωt), etc.) to derive Ella's coordinates.",
+    "weight": 4
+  },
+  {
+    "title": "Initial condition substitution",
+    "description": "Important: Must correctly substitute the inertial frame solutions x(t)=Acos(ωt) and y(t)=(V/ω)sin(ωt) into the rotation formulas.",
+    "weight": 3
+  },
+  {
+    "title": "Period formula derivation",
+    "description": "Important: Must relate the general period T to the North Pole period (12 hours) and latitude, using T = 12/sin(θ) or equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in rotation",
+    "description": "Pitfall: Penalize if the signs in the rotation matrix (e.g., for ỹ) are incorrect.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Penalize if the final period lacks units or uses incorrect units (e.g., seconds instead of hours).",
+    "weight": -1
+  }
+]

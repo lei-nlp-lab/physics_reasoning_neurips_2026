@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: Student must calculate U_AB = E * L * cos(60°) = 100 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work calculation",
+    "description": "Essential: Student must calculate W_AB = q * U_AB = 2 J.",
+    "weight": 5
+  },
+  {
+    "title": "Proper component selection",
+    "description": "Important: Student must use the parallel component of displacement (L*cosθ) in the potential difference formula.",
+    "weight": 3
+  },
+  {
+    "title": "Correct work-energy relationship",
+    "description": "Important: Student must apply W = qΔV to relate work to potential difference.",
+    "weight": 3
+  },
+  {
+    "title": "Sign interpretation",
+    "description": "Pitfall: Student incorrectly assigns sign to work or potential difference for positive charge movement.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misuse",
+    "description": "Pitfall: Student uses sin(60°) instead of cos(60°) for the parallel displacement component.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows unit analysis confirming volts and joules in final answers.",
+    "weight": 1
+  }
+]

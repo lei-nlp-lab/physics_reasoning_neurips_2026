@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Horizontal force magnitude",
+    "description": "Essential: Correctly states the horizontal force as F = (4/3)mg or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum height value",
+    "description": "Essential: Correctly states the maximum height from OP as (4/3)H or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal distance OP",
+    "description": "Essential: Correctly states the distance OP as (32/9)H or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis at N",
+    "description": "Important: Applies force equilibrium or kinematics to relate horizontal force, gravity, and the 37° angle at point N/P.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical motion symmetry",
+    "description": "Important: Recognizes symmetry in vertical velocity between ascent to Q and descent from Q to N, or correctly uses time/velocity relations for segments M-N and N-Q.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal kinematics segments",
+    "description": "Important: Correctly analyzes horizontal motion in three distinct segments (O-M, M-N, N-P) with appropriate acceleration/velocity relations.",
+    "weight": 3
+  },
+  {
+    "title": "Vertical displacement relation",
+    "description": "Important: Establishes the relationship between vertical displacements H (M-N) and h (N-Q), e.g., h = H/3.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misapplies sign for acceleration or velocity in vertical/horizontal components, or confuses the direction of the net force.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: Incorrectly uses sine/cosine for the 37° angle when relating velocity components or forces (e.g., tan 37° = opposite/adjacent).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Explicitly checks dimensional consistency of derived expressions for force, height, and distance.",
+    "weight": 1
+  }
+]

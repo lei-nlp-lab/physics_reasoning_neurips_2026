@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Upper friction zero",
+    "description": "Essential: The student must state that the frictional force on the upper surface of block B is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Lower friction equals F1",
+    "description": "Essential: The student must correctly give the frictional force on the lower surface of block B as 16 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential: The student must calculate the coefficient of kinetic friction as 0.2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct elastic force",
+    "description": "Essential: The student must calculate the elastic force exerted by A on B in part (3) as 8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium reasoning for part (1)",
+    "description": "Important: The student should apply Newton's first law or force equilibrium to relate the applied force to the lower friction.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: The student must correctly calculate the total normal force from the table for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagram for part (3)",
+    "description": "Optional: The student may draw or describe a correct free-body diagram for block B in the second scenario.",
+    "weight": 1
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional: The student includes correct units (N, no unit for coefficient) with their numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing static and kinetic friction",
+    "description": "Pitfall: The student incorrectly assumes non-zero friction between blocks A and B in part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force for part (3)",
+    "description": "Pitfall: The student uses the total weight instead of just block B's weight when finding the friction on B in part (3).",
+    "weight": -2
+  }
+]

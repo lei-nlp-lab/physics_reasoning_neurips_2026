@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocity expression",
+    "description": "Essential: Must give the correct expression for terminal velocity: v = mgr/(B²l).",
+    "weight": 5
+  },
+  {
+    "title": "Charge calculation",
+    "description": "Essential: Must give the correct expression for total charge: q = Bl/r.",
+    "weight": 5
+  },
+  {
+    "title": "Heat generation expression",
+    "description": "Essential: Must give the correct expression for heat: Q = mgl - m³g²r²/(2B⁴l²).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Must apply Newton's first law to equate magnetic force with weight at terminal velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Variable length recognition",
+    "description": "Important: Must recognize that the effective conductor length below BD changes with height h.",
+    "weight": 4
+  },
+  {
+    "title": "External force function",
+    "description": "Important: Must derive the correct linear function F = (2mg/l)h for part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Must apply energy conservation to relate mechanical energy loss to heat and kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Average velocity usage",
+    "description": "Optional: May use average velocity to calculate charge via q = ΔΦ/R.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect sign in force balance or wrong direction for magnetic force.",
+    "weight": -2
+  },
+  {
+    "title": "Length confusion",
+    "description": "Pitfall: Using constant length l instead of variable length L = l - 2h below BD.",
+    "weight": -2
+  }
+]

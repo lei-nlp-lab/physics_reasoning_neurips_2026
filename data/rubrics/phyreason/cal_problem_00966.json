@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correctly calculates the Ampere force as 0.28 N using F = BIL with the correct current from Ohm's law.",
+    "weight": 5
+  },
+  {
+    "title": "Friction magnitude and direction",
+    "description": "Essential: Correctly determines the frictional force magnitude (0.04 N) and its direction (down the incline) from force equilibrium.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: Correctly calculates the maximum speed in part (3) as 15 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies Newton's first law correctly for the initial static equilibrium (Ampere force = gravity component + friction).",
+    "weight": 4
+  },
+  {
+    "title": "Dynamic equilibrium setup",
+    "description": "Important: For part (3), sets up the force balance at terminal velocity (gravity component = Ampere force + kinetic friction).",
+    "weight": 4
+  },
+  {
+    "title": "Induced EMF and current",
+    "description": "Important: Correctly expresses the motional EMF as BLv and the resulting current in the new circuit.",
+    "weight": 3
+  },
+  {
+    "title": "Component resolution",
+    "description": "Optional: Explicitly resolves the gravitational force into components along and perpendicular to the incline.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Reverses the direction of the frictional force or the Ampere force in the equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Circuit oversight",
+    "description": "Pitfall: Uses the wrong total resistance when calculating current in part (1) or part (3).",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to use consistent SI units or omits units in final answers.",
+    "weight": -1
+  }
+]

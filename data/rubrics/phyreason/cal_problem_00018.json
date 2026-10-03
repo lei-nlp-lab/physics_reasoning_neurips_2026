@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Common velocity magnitude",
+    "description": "Essential: The final answer for part (1) must be the correct common velocity v = 1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum application",
+    "description": "Important: Correctly applies momentum conservation (m2*v0 = (m1+m2)*v) to find the common velocity before contact with the spring.",
+    "weight": 4
+  },
+  {
+    "title": "Initial distance calculation",
+    "description": "Essential: The final answer for part (2) must be the correct distance x1 = 0.125 m.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics for board acceleration",
+    "description": "Important: Uses Newton's second law to find the board's acceleration (a1 = μ*m2*g/m1) and the kinematic equation (v1^2 = 2*a1*x1) to solve for x1.",
+    "weight": 3
+  },
+  {
+    "title": "Spring compression at slipping",
+    "description": "Essential: The final answer for part (3) must be the correct compression x2 = 0.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at impending slip",
+    "description": "Important: Sets up the condition for impending slip where the spring force causes the board's acceleration to equal the maximum frictional acceleration of the block (k*x2 = (m1+m2)*μ*g).",
+    "weight": 4
+  },
+  {
+    "title": "Board velocity at compression x2",
+    "description": "Essential: The final answer for part (4) must be the correct velocity v2 = √3 / 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Correctly applies the work-energy theorem to the board-spring system from contact to compression x2: -½k*x2² = ½(m1+m2)v2² - ½(m1+m2)v1².",
+    "weight": 4
+  },
+  {
+    "title": "Internal energy expression",
+    "description": "Essential: The final answer for part (5) must be the correct expression ΔU = 4√3 t0 - 8 t0² J.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Incorrect sign for the spring work term in the work-energy equation (e.g., using +½kx² instead of -½kx²).",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction confusion",
+    "description": "Pitfall: Misidentifies the direction of friction on the board or block when applying Newton's second law, leading to incorrect accelerations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Final answers are provided without correct units or with inconsistent units.",
+    "weight": -1
+  }
+]

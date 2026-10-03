@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Accelerating voltage relation",
+    "description": "Essential: Student must use eU₀ = ½mv₀² to find initial speed after acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field acceleration",
+    "description": "Important: Student must correctly compute acceleration a = eU/(md) from parallel plate field.",
+    "weight": 4
+  },
+  {
+    "title": "Time of flight relation",
+    "description": "Important: Student must relate plate length l to time via t = l/v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical displacement condition",
+    "description": "Essential: Student must apply y = ½at² with y = d/2 (just misses plates).",
+    "weight": 5
+  },
+  {
+    "title": "Plate length expression",
+    "description": "Essential: Final answer for part (1) must be l = d√(2U₀/U).",
+    "weight": 5
+  },
+  {
+    "title": "Energy addition principle",
+    "description": "Important: Student must recognize kinetic energy increases by work done by field: ΔE = e·(U/2).",
+    "weight": 4
+  },
+  {
+    "title": "Final kinetic energy",
+    "description": "Essential: Final answer for part (2) must be E_k = e(U₀ + U/2).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Using wrong sign for electron charge in force/acceleration expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect displacement condition",
+    "description": "Pitfall: Setting y = d instead of d/2 (electron just grazes plate, not travels full gap).",
+    "weight": -2
+  }
+]

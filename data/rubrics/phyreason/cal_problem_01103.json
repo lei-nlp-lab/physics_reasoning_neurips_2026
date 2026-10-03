@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct frictional force",
+    "description": "Essential: The response must state or calculate the horizontal frictional force as 80 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct normal force",
+    "description": "Essential: The response must state or calculate the normal force from the ground as 320 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential: The response must state or calculate the coefficient of kinetic friction as 0.25.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical force equilibrium",
+    "description": "Important: The solution must apply Newton's first law in the vertical direction, balancing forces including the vertical component of the applied force.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal force equilibrium",
+    "description": "Important: The solution must apply Newton's first law in the horizontal direction, equating the horizontal component of the applied force to the kinetic friction.",
+    "weight": 4
+  },
+  {
+    "title": "Friction law application",
+    "description": "Important: The solution must correctly apply the kinetic friction formula μ = f/N to find the coefficient.",
+    "weight": 3
+  },
+  {
+    "title": "Component resolution",
+    "description": "Optional: The solution explicitly resolves the applied force into horizontal (Fcosθ) and vertical (Fsinθ) components.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Incorrectly adding the vertical component of the applied force to the weight when calculating the normal force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or misuse",
+    "description": "Pitfall: Presenting numerical answers without correct units (N for forces, dimensionless for μ) or using incorrect units.",
+    "weight": -1
+  }
+]

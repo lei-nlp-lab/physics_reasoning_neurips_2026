@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work by gravity",
+    "description": "Essential: Correctly calculates work done by gravity as W = mgh = 600 J.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous velocity at t=2s",
+    "description": "Important: Uses v = gt to find velocity at 2 seconds (20 m/s).",
+    "weight": 3
+  },
+  {
+    "title": "Instantaneous power formula",
+    "description": "Important: Applies P = Fv = mgv for instantaneous power at t=2s.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement in 2nd second",
+    "description": "Important: Correctly calculates Δh between t=1s and t=2s using Δh = (1/2)g(t₂² - t₁²) = 15 m.",
+    "weight": 4
+  },
+  {
+    "title": "Average power calculation",
+    "description": "Essential: Computes average power during 2nd second as P_avg = (mgΔh)/Δt = 300 W.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (J, W, m, s) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for displacement or velocity in power formulas.",
+    "weight": -1
+  },
+  {
+    "title": "Confusing power types",
+    "description": "Pitfall: Confuses instantaneous and average power, or uses wrong time interval.",
+    "weight": -2
+  }
+]

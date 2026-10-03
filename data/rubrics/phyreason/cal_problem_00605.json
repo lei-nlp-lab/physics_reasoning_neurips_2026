@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration ratio",
+    "description": "Essential: The final answer for part (1) must state the ratio of acceleration magnitudes as 1:1.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: The final answer for part (2) must state the maximum speed as 6 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Power value",
+    "description": "Essential: The final answer for part (3) must state the power generated as 240 W.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis setup",
+    "description": "Important: The solution must apply Newton's second law separately for the power (F - f = ma1) and recovery (f = ma2) phases.",
+    "weight": 4
+  },
+  {
+    "title": "Displacement equation use",
+    "description": "Important: The solution must use kinematic equations to relate the total displacement (20 m over two strokes) to the accelerations and initial speed.",
+    "weight": 4
+  },
+  {
+    "title": "Resistance force calculation",
+    "description": "Important: The solution must correctly identify and calculate the constant resistance force (f = 120 N) from the given conditions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All intermediate and final calculations should maintain consistent SI units (m, s, kg, N, W).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the same sign to both accelerations, failing to recognize they have opposite effects on velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Power formula misuse",
+    "description": "Pitfall: Penalize if the student uses an incorrect formula for power (e.g., P = F*v without using the correct instantaneous velocity or force).",
+    "weight": -1
+  }
+]

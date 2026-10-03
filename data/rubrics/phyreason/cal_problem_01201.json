@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension in OA",
+    "description": "Essential Criteria: Correctly calculates the tension in string OA as 20 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Magnitude",
+    "description": "Essential Criteria: Correctly calculates the magnitude of the frictional force on object B as 10√3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Direction",
+    "description": "Important Criteria: Correctly identifies the direction of the frictional force as horizontal and to the left.",
+    "weight": 3
+  },
+  {
+    "title": "Vertical Equilibrium at O",
+    "description": "Important Criteria: Applies vertical force equilibrium at point O, relating F_OA, F_OC, and the angle θ.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal Equilibrium at O",
+    "description": "Important Criteria: Applies horizontal force equilibrium at point O, relating F_OA, F_OB, and the angle θ.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium of Object B",
+    "description": "Important Criteria: Recognizes that the horizontal tension F_OB is balanced by the static friction on object B.",
+    "weight": 3
+  },
+  {
+    "title": "Tension in OC",
+    "description": "Optional Criteria: Explicitly states or uses that the tension in the vertical string OC equals the weight of object A (10 N).",
+    "weight": 2
+  },
+  {
+    "title": "Sign/Trigonometry Error",
+    "description": "Pitfall Criteria: Makes a sign error in force components or misapplies trigonometric functions (e.g., uses sin instead of cos for vertical).",
+    "weight": -2
+  },
+  {
+    "title": "Direction Omission",
+    "description": "Pitfall Criteria: Omits or incorrectly states the direction of the frictional force.",
+    "weight": -1
+  }
+]

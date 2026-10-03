@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Levels",
+    "description": "Essential Criteria: The student must provide the correct energy levels E for j = 3, 2, and 1.",
+    "weight": 5
+  },
+  {
+    "title": "Final Degeneracies",
+    "description": "Essential Criteria: The student must provide the correct degeneracies d for j = 3, 2, and 1.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Angular Momentum",
+    "description": "Important Criteria: The student should correctly apply the relationship between total angular momentum J, orbital angular momentum L, and spin S.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Hamiltonian Form",
+    "description": "Important Criteria: The student must correctly express the spin-orbit interaction Hamiltonian H_{s0} in terms of J, L, and S.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student should correctly derive the energy expression using the formula E_{s0} = (hbar^2/2) A [j(j+1) - l(l+1) - s(s+1)].",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the energy levels, particularly for j = 2 and j = 1.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all terms are expressed consistently in terms of hbar and A.",
+    "weight": -1
+  }
+]

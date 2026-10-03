@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Step-up secondary voltage",
+    "description": "Essential: Correctly calculates the secondary voltage of the step-up transformer using the turns ratio and generator voltage.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important: Correctly calculates the current in the transmission line using the transmitted power and the step-up transformer's secondary voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Transmission power loss",
+    "description": "Essential: Correctly calculates the power loss on the transmission line using Joule's law (I²R).",
+    "weight": 5
+  },
+  {
+    "title": "Step-down turns ratio",
+    "description": "Essential: Correctly calculates the turns ratio of the step-down transformer using the voltage at its primary coil and the output voltage.",
+    "weight": 5
+  },
+  {
+    "title": "User received power",
+    "description": "Essential: Correctly calculates the power received by the user by subtracting the transmission line loss from the generator's output power.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage drop calculation",
+    "description": "Important: Correctly calculates the voltage drop on the transmission line (IR) to find the voltage at the step-down transformer's primary.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (e.g., kW, V, A, Ω) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect power formula",
+    "description": "Pitfall: Uses P = I²R or P = V²/R with the wrong voltage (e.g., generator voltage) to find transmission line current.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/ratio reversal",
+    "description": "Pitfall: Reverses the turns ratio (e.g., 1:10 instead of 10:1) for the step-down transformer or misapplies the voltage ratio formula.",
+    "weight": -1
+  }
+]

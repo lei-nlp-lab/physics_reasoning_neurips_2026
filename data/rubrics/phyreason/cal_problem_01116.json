@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ball flight time",
+    "description": "Essential: The student must correctly compute the time of flight t = 3 s using the final vertical velocity and kinematic equations.",
+    "weight": 5
+  },
+  {
+    "title": "Launch height H",
+    "description": "Essential: The student must correctly compute the launch height H = 15 m from the vertical displacement and its magnitude.",
+    "weight": 5
+  },
+  {
+    "title": "Cart motion setup",
+    "description": "Important: The student must relate the cart's horizontal uniformly accelerated motion (starting from rest) to the ball's flight time.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration lower bound",
+    "description": "Important: The student must derive the minimum acceleration (8/9 m/s²) so the cart's front reaches the impact point in time.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration upper bound",
+    "description": "Important: The student must derive the maximum acceleration (2 m/s²) so the cart's rear does not pass the impact point before the ball lands.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall: Penalize if the student treats the vertical displacement h = -15 m as positive or misinterprets the sign when finding H.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity direction mistake",
+    "description": "Pitfall: Penalize if the student uses an incorrect sign for the final vertical velocity (should be -20 m/s) in the time calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award if the student explicitly verifies that all quantities are in consistent SI units (m, s, m/s²).",
+    "weight": 1
+  }
+]

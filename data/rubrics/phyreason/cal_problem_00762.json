@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ball 2's initial speed",
+    "description": "Essential: The response must correctly calculate the initial horizontal speed of ball 2 (4 m/s) from its projectile motion data.",
+    "weight": 5
+  },
+  {
+    "title": "Ball 1's initial speed",
+    "description": "Essential: The response must correctly apply momentum conservation to find the initial speed of ball 1 (10 m/s) after the spring releases.",
+    "weight": 5
+  },
+  {
+    "title": "Elastic potential energy",
+    "description": "Essential: The final answer for part (1) must be the correct elastic potential energy (14 J), calculated from the kinetic energies of both balls.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at highest point",
+    "description": "Important: The response must correctly apply energy conservation (work-energy theorem) to find the speed of ball 1 at the top of the circular track.",
+    "weight": 4
+  },
+  {
+    "title": "Net force at point A",
+    "description": "Important: The response must correctly apply Newton's second law for circular motion at the top of the track to find the normal force from the track.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure on the track",
+    "description": "Essential: The final answer for part (2) must be the correct magnitude of the pressure (10 N), found via Newton's third law from the calculated normal force.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile time error",
+    "description": "Pitfall: Incorrectly calculating the time of flight for ball 2 (e.g., using horizontal distance only) should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction error at top",
+    "description": "Pitfall: Incorrectly applying the sign for forces at the top of the loop (e.g., adding centripetal force instead of net force) should be penalized.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response demonstrates consistent use of SI units (m, s, J, N) throughout the calculation.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Gas Thermometer Principle",
+    "description": "Essential Criteria - The principle of the constant-volume gas thermometer must accurately describe the relationship between gas pressure and temperature at constant volume.",
+    "weight": 5
+  },
+  {
+    "title": "Gas Thermometer Usefulness",
+    "description": "Essential Criteria - The usefulness of the constant-volume gas thermometer should be clearly stated as an ideal gas thermometer.",
+    "weight": 5
+  },
+  {
+    "title": "Thermocouple Principle",
+    "description": "Essential Criteria - The principle of the thermocouple thermometer must correctly explain the change in thermoelectric motive force with temperature.",
+    "weight": 5
+  },
+  {
+    "title": "Thermocouple Usefulness",
+    "description": "Essential Criteria - The usefulness of the thermocouple thermometer should mention its wide measurement range.",
+    "weight": 5
+  },
+  {
+    "title": "Thermistor Principle",
+    "description": "Essential Criteria - The principle of the thermistor thermometer must accurately describe temperature measurement through resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Thermistor Usefulness",
+    "description": "Essential Criteria - The usefulness of the thermistor thermometer should highlight its high precision over a wide range.",
+    "weight": 5
+  },
+  {
+    "title": "Missing Details",
+    "description": "Pitfall Criteria - Failing to include specific temperature ranges or constants in the thermocouple explanation may lead to loss of points.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity and Conciseness",
+    "description": "Important Criteria - The response should be clear and concise, effectively communicating the principles and usefulness of each thermometer.",
+    "weight": 3
+  }
+]

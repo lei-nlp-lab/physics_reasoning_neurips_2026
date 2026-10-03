@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force at B",
+    "description": "Essential: Correctly calculates the normal force at point B using Newton's second law and the speed from energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Cart length from work-energy",
+    "description": "Essential: Correctly applies the work-energy theorem to find the speed at the cart's end, leading to the cart length L.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity for projectile",
+    "description": "Essential: Correctly determines the required initial velocity at A for the block to land at the barrier base when the cart is removed.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies conservation of mechanical energy to relate speed at A and B, or to find v_B.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion kinematics",
+    "description": "Important: Correctly uses kinematic equations for vertical fall and horizontal motion to find time of flight and horizontal distances.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric relationship setup",
+    "description": "Important: Establishes the correct equation linking the cart length L, the projectile range x, and the total distance to the barrier (2.4 m).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds, Newtons) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction in the work-energy theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting centripetal force",
+    "description": "Pitfall: Omits the centripetal force term (m v^2/R) when calculating the normal force at point B.",
+    "weight": -2
+  }
+]

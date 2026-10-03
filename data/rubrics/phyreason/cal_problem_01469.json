@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct displacement magnitude",
+    "description": "Essential: Student correctly calculates the magnitude of the overall displacement as 50 m using the Pythagorean theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Overall average velocity",
+    "description": "Essential: Student provides the correct magnitude (5 m/s) and direction (approximately 37° west of north) for the overall average velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Overall average speed",
+    "description": "Essential: Student correctly calculates the overall average speed as 7 m/s using total distance and total time.",
+    "weight": 5
+  },
+  {
+    "title": "Segment average speeds",
+    "description": "Important: Student correctly calculates the average speeds for the A-B segment (8 m/s) and the B-C segment (6 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity vs. speed distinction",
+    "description": "Important: Student's reasoning or final answers clearly distinguish between vector velocity (with direction) and scalar speed.",
+    "weight": 3
+  },
+  {
+    "title": "Correct time usage",
+    "description": "Important: Student correctly uses the total time (10 s) for overall calculations and the individual segment times (5 s each) for segment calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final answers include correct units (m/s and degrees where applicable).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing distance and displacement",
+    "description": "Pitfall: Student uses total distance (70 m) instead of displacement (50 m) when calculating average velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Direction omission for velocity",
+    "description": "Pitfall: Student states the magnitude of the average velocity but omits its required direction.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect time summation",
+    "description": "Pitfall: Student uses an incorrect total time (e.g., 5 s) for the overall average speed or velocity calculations.",
+    "weight": -2
+  }
+]

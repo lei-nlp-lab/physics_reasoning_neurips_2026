@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at D",
+    "description": "Essential: Correctly states or calculates the velocity at point D using the condition for just passing the top: v_D = sqrt(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Work-Energy B to D",
+    "description": "Important: Applies the work-energy theorem between points B and D, accounting for gravity and friction work.",
+    "weight": 4
+  },
+  {
+    "title": "Conveyor Belt Speed",
+    "description": "Essential: Correctly solves for the conveyor belt speed v using kinematic relationships from A to B and the work-energy theorem on the belt.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at B",
+    "description": "Important: Correctly determines the velocity at point B using projectile motion from A to B and the given geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at A",
+    "description": "Important: Correctly determines the velocity at point A using the projectile motion angle and the velocity at B.",
+    "weight": 3
+  },
+  {
+    "title": "Friction Work Sign",
+    "description": "Pitfall: Incorrectly assigns the sign for the work done by friction (should be negative for work done *by* the block to overcome friction).",
+    "weight": -2
+  },
+  {
+    "title": "Energy Conservation Setup",
+    "description": "Optional: Explicitly states conservation of energy principles or correctly sets up the work-energy equation for the belt segment.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall: Uses inconsistent units (e.g., mixing cm and m) or omits units in final answers.",
+    "weight": -1
+  }
+]

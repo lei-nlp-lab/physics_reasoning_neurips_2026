@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must correctly state the relation |psi(0)|^2 = (m/2π) <dV(r)/dr> - (1/2π) <L^2/r^3>.",
+    "weight": 5
+  },
+  {
+    "title": "Second Equation",
+    "description": "Essential Criteria: The student must correctly state the relation <dV(r)/dr> = (1/m) <L^2/r^3>.",
+    "weight": 5
+  },
+  {
+    "title": "Classical Interpretation",
+    "description": "Important Criteria: The student should provide a correct classical interpretation of the derived equations for l ≠ 0.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show the correct integration steps leading to the final equations.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should mention the appropriate boundary conditions used in the derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check for unit consistency in the final equations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Meaning",
+    "description": "Optional Criteria: The student should discuss the physical meaning of the terms in the equations.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Direction of current",
+    "description": "Essential: Student must state that current flows from a to b through resistor R, based on Lenz's law and right-hand rule analysis.",
+    "weight": 5
+  },
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: Student must calculate E = 10 V using Faraday's law with correct N and slope from flux graph.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage across resistor",
+    "description": "Essential: Student must calculate U = 9.6 V using voltage divider or Ohm's law with total resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Faraday's law application",
+    "description": "Important: Student must correctly apply E = N·ΔΦ/Δt using the constant slope region from the flux-time graph.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: Student must treat coil as source with internal resistance r in series with R to find voltage division.",
+    "weight": 3
+  },
+  {
+    "title": "Lenz's law reasoning",
+    "description": "Important: Student must connect decreasing inward flux to need for outward induced field, determining current direction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in EMF",
+    "description": "Pitfall: Student might use wrong sign in Faraday's law or misinterpret flux change direction, affecting current direction.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance omission",
+    "description": "Pitfall: Student might calculate U as E without accounting for internal resistance r of the coil.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes proper units (V, Ω) throughout calculations and final answers.",
+    "weight": 1
+  }
+]

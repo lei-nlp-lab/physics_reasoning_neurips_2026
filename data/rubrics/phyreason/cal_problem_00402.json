@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential: Final answer for part (1) must be correctly expressed as 2U/(B²d²).",
+    "weight": 5
+  },
+  {
+    "title": "Total time expression",
+    "description": "Essential: Final answer for part (2) must match (3√3+2π)Bd²/(12U) or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic circular motion",
+    "description": "Important: Must apply qvB = mv²/r to relate velocity, magnetic field, and radius.",
+    "weight": 4
+  },
+  {
+    "title": "Energy from acceleration",
+    "description": "Important: Must use qU = ½mv² to determine initial velocity after acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry in magnetic field",
+    "description": "Important: Must correctly interpret that the chord length d corresponds to the radius of circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: Must analyze projectile motion in electric field to find time from OP to x-axis.",
+    "weight": 3
+  },
+  {
+    "title": "Arc time calculation",
+    "description": "Important: Must calculate time in magnetic field using circular motion period and appropriate fraction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect sign in electric force direction or magnetic force direction reduces score.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Check that final expressions have correct units for charge-to-mass ratio and time.",
+    "weight": 1
+  }
+]

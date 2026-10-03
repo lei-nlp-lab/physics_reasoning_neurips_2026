@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Upward acceleration calculation",
+    "description": "Essential: Correctly calculates upward acceleration using v₀²=2a_upL with v₀=√15 m/s and L=0.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Downward acceleration calculation",
+    "description": "Essential: Correctly calculates downward acceleration using v²=2a_downL with v=√5 m/s and L=0.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration ratio",
+    "description": "Essential: Correctly computes a_up/a_down = 3 as the final answer for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Base fall time",
+    "description": "Important: Calculates time for base to fall distance H=0.2 m using H=½gt₁².",
+    "weight": 4
+  },
+  {
+    "title": "Ring motion after base stops",
+    "description": "Important: Sets up equation L=v₁t₂+½a₂t₂² for ring's motion after base hits ground, with correct a₂.",
+    "weight": 4
+  },
+  {
+    "title": "Total collision time",
+    "description": "Essential: Correctly sums t₁+t₂ to get 0.4 s as final answer for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Rebound velocity calculation",
+    "description": "Important: Correctly computes base's rebound velocity as (3/4) of impact speed after free fall.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity equality setup",
+    "description": "Important: Sets up equation v_ring - a_up t = v_base - g t to find when velocities match.",
+    "weight": 4
+  },
+  {
+    "title": "Time for equal velocities",
+    "description": "Essential: Correctly solves for t=0.1 s as final answer for part (3) time.",
+    "weight": 5
+  },
+  {
+    "title": "Relative distance calculation",
+    "description": "Essential: Correctly computes relative displacement difference to get 0.025 m as final answer for part (3) distance.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in accelerations",
+    "description": "Pitfall: Uses wrong sign convention for accelerations in kinematic equations (e.g., treating upward acceleration as positive when it should be negative relative to chosen coordinate system).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing acceleration values",
+    "description": "Pitfall: Uses a_up=15 m/s² or a_down=5 m/s² directly without dividing by L, or confuses which is which.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect rebound speed",
+    "description": "Pitfall: Uses √5 m/s directly as ring's initial speed in part (3) instead of deriving it from the given conditions.",
+    "weight": -2
+  }
+]

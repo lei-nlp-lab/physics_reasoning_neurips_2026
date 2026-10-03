@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Speed before first collision",
+    "description": "Essential: The student must correctly compute the speed of block B just before the first collision as 4 m/s, using energy conservation and work-energy theorem with friction.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision direction analysis",
+    "description": "Important: The student must determine that after the first collision, block B moves left (negative velocity) and calculate the stopping distance to compare with L.",
+    "weight": 4
+  },
+  {
+    "title": "Recursive velocity magnitude",
+    "description": "Essential: The student must derive or state the magnitude of block B's velocity after the nth collision as 4/(3^n) m/s, based on elastic collision formulas and recursion.",
+    "weight": 5
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Important: The student must correctly sum the time intervals t0, t1, t2, t3 using the impulse theorem for friction to find the total time before the 4th collision.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: The student must apply conservation of mechanical energy correctly for the curved descent and for each elastic collision between A and B.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important: The student must write the momentum conservation equation for each elastic collision, relating velocities of A and B before and after.",
+    "weight": 3
+  },
+  {
+    "title": "Friction work-energy error",
+    "description": "Pitfall: Penalize if the student omits or incorrectly applies the work done by friction on the conveyor belt, leading to wrong speed or distance.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in velocity",
+    "description": "Pitfall: Penalize if the student mishandles the sign of velocities (especially after collisions or in impulse equations), affecting direction and time calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student demonstrates unit analysis throughout calculations, ensuring all terms (energy, momentum, time) have consistent units.",
+    "weight": 1
+  },
+  {
+    "title": "Alternative recursive derivation",
+    "description": "Optional: The student provides an alternative method (e.g., using relative velocity or repeated substitution) to derive the velocity after nth collision.",
+    "weight": 1
+  }
+]

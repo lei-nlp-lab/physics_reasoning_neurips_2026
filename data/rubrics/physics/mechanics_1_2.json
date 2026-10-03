@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response correctly identifies the observer's location as being on the equator.",
+    "weight": 5
+  },
+  {
+    "title": "Orbit Description",
+    "description": "Essential Criteria: The response accurately describes the orbit of the space station as a geostationary orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal Condition",
+    "description": "Important Criteria: The response includes the reasoning that the gravitational force provides the necessary centripetal acceleration for the orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Matching Periods",
+    "description": "Important Criteria: The response explains that the orbital period of the space station must match the Earth's rotation period for it to remain above the same point.",
+    "weight": 4
+  },
+  {
+    "title": "Equatorial Requirement",
+    "description": "Important Criteria: The response notes that the orbit must be equatorial for the satellite to stay directly above the observer.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The response checks that the units used for gravitational force and orbital radius are consistent.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response avoids common errors such as misidentifying the observer's latitude or failing to mention the circular nature of the orbit.",
+    "weight": -2
+  }
+]

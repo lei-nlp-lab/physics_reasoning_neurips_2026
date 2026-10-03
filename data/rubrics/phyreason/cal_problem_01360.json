@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final speed of A",
+    "description": "Essential Criteria: The response must state or calculate the speed of object A just before impact as 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Final time for B",
+    "description": "Essential Criteria: The response must state or calculate the time for B to return to the bottom as 1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important Criteria: The solution should correctly apply the work-energy theorem or conservation of energy to find the common speed of A and B before A hits the ground.",
+    "weight": 4
+  },
+  {
+    "title": "B's post-break acceleration",
+    "description": "Important Criteria: The solution must identify that after the string breaks, B moves under gravity on the incline with acceleration g sin θ (6 m/s²).",
+    "weight": 4
+  },
+  {
+    "title": "B's post-break kinematics",
+    "description": "Important Criteria: The solution must correctly set up kinematic equations for B's upward and downward motion after the break, using its initial velocity and acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Energy for B's final speed",
+    "description": "Optional Criteria: The solution may use energy conservation to find B's speed when it returns to the bottom, confirming the kinematic result.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in velocity",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns the sign or direction of B's initial velocity after A hits the ground.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring B's initial motion",
+    "description": "Pitfall Criteria: Penalize if the student assumes B starts from rest on the incline after the break, neglecting its existing upward velocity.",
+    "weight": -2
+  }
+]

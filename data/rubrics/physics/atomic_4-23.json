@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the maximum kinetic energy T of the pi mesons as T_pi <= 5.44 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate an understanding of energy conservation in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Comparison",
+    "description": "Important Criteria: The student must explain the requirement that the velocity of the muon in the center-of-mass frame exceeds that of the pi meson in the lab frame.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Relations",
+    "description": "Important Criteria: The student should correctly apply momentum conservation principles to relate the momenta of the decay products.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all energies are expressed in consistent units (MeV).",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when calculating the momentum or energy of the decay products.",
+    "weight": -2
+  },
+  {
+    "title": "Mass Values",
+    "description": "Essential Criteria: The student must correctly use the provided mass values for the pi meson and muon in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Optional Criteria: The student may include detailed derivation steps leading to the final answer for clarity.",
+    "weight": 1
+  }
+]

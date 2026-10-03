@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct potential energy",
+    "description": "Essential: Student correctly calculates the gravitational potential energy of ball A as 24 J using the given masses, height, and g.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final velocity",
+    "description": "Essential: Student correctly determines the magnitude of the velocities of A and B when they reach the same height as 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Student applies the principle of conservation of mechanical energy to the two-ball system, accounting for changes in potential and kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Height change analysis",
+    "description": "Important: Student correctly identifies that each ball moves a vertical distance of h/2 (0.6 m) to reach the same height.",
+    "weight": 3
+  },
+  {
+    "title": "System kinetic energy",
+    "description": "Important: Student correctly expresses the total kinetic energy as (1/2)(m_A + m_B)v^2, recognizing both masses move with the same speed magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Student makes a sign error in the potential energy change, incorrectly adding instead of subtracting the energy changes for A and B.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Student provides numerical answers without correct units (J for energy, m/s for velocity) or uses inconsistent units.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative approach",
+    "description": "Optional: Student solves part (2) using Newton's second law and kinematics (finding acceleration and then velocity) instead of energy conservation.",
+    "weight": 1
+  }
+]

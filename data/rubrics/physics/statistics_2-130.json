@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Mean Energy Expression",
+    "description": "Essential Criteria: The mean energy of the oscillator must be correctly expressed as a function of temperature.",
+    "weight": 5
+  },
+  {
+    "title": "Partition Function Derivation",
+    "description": "Important Criteria: The derivation of the partition function for the two-dimensional oscillator must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Degenerate Case Reduction",
+    "description": "Important Criteria: The reduction of the partition function to the degenerate case must be correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Capacity Calculation",
+    "description": "Essential Criteria: The heat capacity per oscillator must be derived and expressed correctly as a function of temperature.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Position Calculation",
+    "description": "Essential Criteria: The mean value of the position x must be calculated and expressed correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as missing factors in the partition function or incorrect limits in integrals.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all expressions maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Thermal Limit Consideration",
+    "description": "Optional Criteria: Consider the implications of the limit kT/hbar omega << 1 in the context of the problem.",
+    "weight": 2
+  }
+]

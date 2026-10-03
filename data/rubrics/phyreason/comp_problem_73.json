@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric potential expression",
+    "description": "Essential: Student provides the correct potential V(r) = V_a * ln(b/r) / ln(b/a) for a point near the filament.",
+    "weight": 5
+  },
+  {
+    "title": "Wave vector k_x derivation",
+    "description": "Important: Student correctly relates the impulse from the electric field to the change in momentum and thus to k_x, arriving at k_x = (e V_a π) / (ħ v_z ln(b/a)).",
+    "weight": 4
+  },
+  {
+    "title": "Non-relativistic wavelength",
+    "description": "Essential: Student correctly states λ = h / sqrt(2 m e V_0) from energy conservation, ignoring relativity.",
+    "weight": 5
+  },
+  {
+    "title": "Relativistic wavelength",
+    "description": "Important: Student correctly derives or states the relativistic wavelength formula λ = h / sqrt(2 m e V_0 (1 + e V_0/(2 m c^2))).",
+    "weight": 4
+  },
+  {
+    "title": "Numerical k_x calculation",
+    "description": "Essential: Student correctly substitutes given values into the k_x formula to obtain the numerical result (approx. 3.46e7 m⁻¹).",
+    "weight": 5
+  },
+  {
+    "title": "Fringe separation calculation",
+    "description": "Important: Student correctly relates fringe separation to k_x (Δy = π / k_x) and computes its numerical value (approx. 9.07e-8 m).",
+    "weight": 4
+  },
+  {
+    "title": "Percentage error in wavelength",
+    "description": "Important: Student correctly calculates both relativistic and non-relativistic wavelengths and finds the percentage error (approx. 2.4%).",
+    "weight": 3
+  },
+  {
+    "title": "Apparent slit separation",
+    "description": "Important: Student correctly uses the double-slit interference formula to find d = λ(l+L) / Δy and computes its value (approx. 1.03e-4 m).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Student makes a sign error in the electric field or potential gradient, or uses incorrect units (e.g., forgetting ħ vs h).",
+    "weight": -2
+  },
+  {
+    "title": "Relativistic energy misuse",
+    "description": "Pitfall: Student incorrectly applies the relativistic energy-momentum relation (e.g., using E = mc² + eV₀ without squaring for momentum).",
+    "weight": -1
+  }
+]

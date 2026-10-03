@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Velocity",
+    "description": "Essential Criteria: The final velocity must be correctly stated as v = sqrt(3)/2 * c.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic Energy Equation",
+    "description": "Important Criteria: The student must correctly use the kinetic energy equation T = m_0 c^2 (gamma - 1).",
+    "weight": 4
+  },
+  {
+    "title": "Gamma Calculation",
+    "description": "Important Criteria: The calculation of gamma must be correctly derived as gamma = 2.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Relation",
+    "description": "Important Criteria: The relationship v/c = sqrt(1 - 1/gamma^2) must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the kinetic energy equation or gamma calculation.",
+    "weight": -2
+  }
+]

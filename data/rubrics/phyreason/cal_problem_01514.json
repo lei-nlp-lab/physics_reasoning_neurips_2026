@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The response must provide the final algebraic expression for Jupiter's mass: M = (4π²r³)/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's law",
+    "description": "Important: The solution must set the gravitational force (GMm/r²) equal to the required centripetal force (mω²r or mv²/r).",
+    "weight": 4
+  },
+  {
+    "title": "Express angular speed",
+    "description": "Important: The solution must correctly relate the orbital period T to the angular speed ω (ω = 2π/T) or linear speed v (v = 2πr/T).",
+    "weight": 3
+  },
+  {
+    "title": "Cancel moon's mass",
+    "description": "Important: The solution must correctly cancel the mass of the moon (m) from the force balance equation.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The response may include a verification that the derived expression has the correct units for mass (kg).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force expression",
+    "description": "Pitfall: Using an incorrect expression for gravitational force (e.g., omitting G or r²) or centripetal force (e.g., mωr instead of mω²r).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic error",
+    "description": "Pitfall: Making an algebraic mistake when solving for M, such as incorrect exponent handling or misplacing π.",
+    "weight": -1
+  }
+]

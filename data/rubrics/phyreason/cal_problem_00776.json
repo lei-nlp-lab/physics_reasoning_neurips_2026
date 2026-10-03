@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Wave Speed Calculation",
+    "description": "Essential: Must correctly compute wave speed using v = λ/T, obtaining approximately 31.7 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Propagation Direction",
+    "description": "Essential: Must state that the wave propagates along the positive x-axis direction.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement at t=1.2s",
+    "description": "Essential: Must calculate displacement at x=1m, t=1.2s as -10 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Period Determination",
+    "description": "Important: Must correctly determine period T from the condition 2T < 0.6s < 2.5T and waveform shift.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength Identification",
+    "description": "Important: Must correctly identify wavelength λ = 8 m from the waveform diagram.",
+    "weight": 4
+  },
+  {
+    "title": "Vibration Equation Setup",
+    "description": "Important: Must correctly set up vibration equation y = A sin(ωt) with proper ω from period.",
+    "weight": 3
+  },
+  {
+    "title": "Phase Calculation",
+    "description": "Optional: Shows correct phase calculation for specific time, including proper handling of sine function argument.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Displacement",
+    "description": "Pitfall: Incorrect sign in final displacement (e.g., +10 cm instead of -10 cm).",
+    "weight": -2
+  },
+  {
+    "title": "Direction Confusion",
+    "description": "Pitfall: States wrong propagation direction (negative x-axis) or omits direction entirely.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Omission",
+    "description": "Pitfall: Fails to include proper units (m/s, cm) in final answers.",
+    "weight": -1
+  }
+]

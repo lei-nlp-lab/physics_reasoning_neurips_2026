@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum gravitational force",
+    "description": "Essential: The final answer for the maximum gravitational force (weight) at point O is correctly stated as 1.0 × 10⁴ N.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum rod force",
+    "description": "Essential: The final answer for the maximum supporting force in rod OA is correctly stated as approximately 1.73 × 10⁴ N.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium at O",
+    "description": "Important: The solution correctly applies equilibrium conditions, balancing the vertical cable tension component with the object's weight.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric resolution",
+    "description": "Important: The tension in cable OB is correctly resolved into vertical (sin 30°) and horizontal (cos 30°) components relative to the given angle.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum tension condition",
+    "description": "Important: The calculation correctly uses the cable's maximum tensile force (2.0 × 10⁴ N) as the limiting value for F₁.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All forces are expressed in newtons (N) and units are handled consistently throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: The final answers are given with appropriate significant figures (two for part 1, three for part 2).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect angle usage",
+    "description": "Pitfall: Using the wrong trigonometric function (e.g., cos instead of sin) for resolving the weight or rod force.",
+    "weight": -2
+  },
+  {
+    "title": "Force misinterpretation",
+    "description": "Pitfall: Misidentifying the rod force as tensile instead of compressive, or confusing the roles of the cable and rod.",
+    "weight": -1
+  }
+]

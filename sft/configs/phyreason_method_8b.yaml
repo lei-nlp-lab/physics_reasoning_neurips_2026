@@ -1,0 +1,46 @@
+### model
+model_name_or_path: Qwen/Qwen3-VL-8B-Instruct
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: true
+freeze_multi_modal_projector: false
+freeze_language_model: false
+deepspeed: sft/ds_z2_config.json
+
+### dataset
+dataset_dir: data/sft
+media_dir: data/images
+dataset: phyreason_method_train
+val_size: 0.05
+template: qwen3_vl
+cutoff_len: 8192
+max_samples: 5000
+preprocessing_num_workers: 1
+
+### output
+output_dir: outputs/sft/phyreason_method_8b
+logging_steps: 1
+save_steps: 200
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4  # 4 GPUs x 2 x 4 = 32, the effective batch of the paper run
+gradient_checkpointing: true
+learning_rate: 1.0e-5
+num_train_epochs: 4.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+flash_attn: fa2
+ddp_timeout: 180000000
+
+### eval
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 200

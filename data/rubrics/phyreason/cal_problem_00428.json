@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final total time",
+    "description": "Essential Criteria: The student's final answer for part (1) must be 7 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Final impact velocity",
+    "description": "Essential Criteria: The student's final answer for part (2) must be 70 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity for last segment",
+    "description": "Important Criteria: The student must correctly calculate the initial velocity (30 m/s) at the start of the final 200-meter segment using kinematic equations.",
+    "weight": 4
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Important Criteria: The student must correctly use the initial velocity from the last segment and gravitational acceleration to find the total fall time (7 s).",
+    "weight": 4
+  },
+  {
+    "title": "Impact velocity calculation",
+    "description": "Important Criteria: The student must correctly calculate the final impact velocity (70 m/s) using the total time or the initial velocity and the last segment's time.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's work should demonstrate consistent use of SI units (m, s, m/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: The student incorrectly uses a negative sign for gravitational acceleration when calculating velocities or displacements for downward motion.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplication of kinematic equations",
+    "description": "Pitfall Criteria: The student uses an incorrect kinematic equation (e.g., one assuming zero initial velocity for the entire fall) to solve for the initial velocity of the last segment or the total time.",
+    "weight": -2
+  }
+]

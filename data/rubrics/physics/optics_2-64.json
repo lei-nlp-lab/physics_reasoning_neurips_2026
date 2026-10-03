@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer of 380 m must be clearly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Resolution",
+    "description": "Important Criteria: The calculation of angular resolution using the formula lambda/D must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Calculation",
+    "description": "Important Criteria: The multiplication of the angular resolution by the distance to the moon must be correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Wavelength Usage",
+    "description": "Optional Criteria: The wavelength of light used in the calculations should be correctly identified and applied.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any mistakes in unit conversions or maintaining consistent units throughout the calculations will lead to a deduction.",
+    "weight": -2
+  }
+]

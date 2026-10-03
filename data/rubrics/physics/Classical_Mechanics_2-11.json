@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Beat Frequency",
+    "description": "Essential Criteria: The student must correctly identify the beat frequency as omega_beat = omega/(1-beta).",
+    "weight": 5
+  },
+  {
+    "title": "Final Beta Value",
+    "description": "Essential Criteria: The student must correctly calculate the value of beta as approximately 0.999001.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Equation Setup",
+    "description": "Important Criteria: The student should correctly set up the incident and reflected wave equations.",
+    "weight": 4
+  },
+  {
+    "title": "Frequency Transformation",
+    "description": "Important Criteria: The student must demonstrate understanding of the frequency transformation due to the moving wall.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Sinusoidal Identity",
+    "description": "Optional Criteria: The student may use the sinusoidal identity to combine the incident and reflected waves effectively.",
+    "weight": 3
+  },
+  {
+    "title": "Understanding of Beat Concept",
+    "description": "Optional Criteria: The student should explain the concept of beats and how they arise from the superposition of waves.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the frequency transformation calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

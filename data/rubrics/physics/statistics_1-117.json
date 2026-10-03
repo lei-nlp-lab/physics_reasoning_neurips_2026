@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the change in entropy, Delta S = 727 J/K.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Calculation Steps",
+    "description": "Important Criteria: The student should show the calculations for each step of the entropy change, including Delta S1, Delta S2, and Delta S3.",
+    "weight": 4
+  },
+  {
+    "title": "Heat of Fusion Usage",
+    "description": "Important Criteria: The student must correctly apply the heat of fusion of ice in the calculation of Delta S2.",
+    "weight": 4
+  },
+  {
+    "title": "Reservoir Entropy Change",
+    "description": "Important Criteria: The student should calculate the change in entropy of the reservoir accurately, including the heat absorbed and the correct temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the calculations of entropy changes, particularly in Delta S1, Delta S2, and Delta S3.",
+    "weight": -2
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Pitfall Criteria: The student should correctly convert temperatures to Kelvin when calculating entropy changes.",
+    "weight": -1
+  },
+  {
+    "title": "Final Summation",
+    "description": "Important Criteria: The student must correctly sum all entropy changes to arrive at the final answer.",
+    "weight": 3
+  }
+]

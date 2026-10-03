@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Static equilibrium distance",
+    "description": "Essential Criteria: The student must correctly calculate the distance from O to the stationary ring as 0.05 m.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity at original length",
+    "description": "Essential Criteria: The student must correctly calculate the angular velocity when the spring is at its original length, expressed as a numerical value or simplified radical.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity at point P",
+    "description": "Essential Criteria: The student must correctly calculate the angular velocity when the ring is at point P as 10 rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance application",
+    "description": "Important Criteria: The solution must correctly apply force balance in the vertical direction for the ring in uniform circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force formulation",
+    "description": "Important Criteria: The solution must correctly set up Newton's second law for circular motion in the horizontal plane.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of rotation radius",
+    "description": "Important Criteria: The solution must correctly relate the ring's position along the rod to its radius of circular motion using the sine of angle α.",
+    "weight": 3
+  },
+  {
+    "title": "Hooke's Law application",
+    "description": "Important Criteria: The solution must correctly apply Hooke's Law to find the spring force or compression for different configurations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall Criteria: Penalize if the student makes an error in the sign or direction of the spring force, normal force, or gravitational components.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student's work demonstrates consistent use of SI units throughout the calculation.",
+    "weight": 1
+  }
+]

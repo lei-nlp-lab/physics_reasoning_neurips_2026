@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must correctly state the minimum energy of the harmonic oscillator as hbar omega / 2.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Uncertainty Principle",
+    "description": "Important Criteria: The student should correctly apply the uncertainty principle, Delta x Delta p = hbar / 2, in their reasoning.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The student must demonstrate understanding of the Hamiltonian for a harmonic oscillator and its components.",
+    "weight": 4
+  },
+  {
+    "title": "Average Energy Calculation",
+    "description": "Important Criteria: The student should show the calculation of average energy using the expressions for Delta x and Delta p.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Inequality",
+    "description": "Optional Criteria: The student may include the mathematical inequality used to derive the minimum energy condition.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in their calculations, particularly in the energy expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

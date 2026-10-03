@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 1 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb Barrier Equation",
+    "description": "Important Criteria: The student should correctly state and apply the equation for the Coulomb barrier.",
+    "weight": 4
+  },
+  {
+    "title": "Charge Values",
+    "description": "Important Criteria: The student must correctly identify the charges involved as approximately equal to the elementary charge.",
+    "weight": 3
+  },
+  {
+    "title": "Distance Estimation",
+    "description": "Important Criteria: The student should estimate the nuclear radius correctly, typically around 1 fm.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Energy Range Understanding",
+    "description": "Optional Criteria: The student could discuss the significance of energy levels in the context of nuclear physics.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as miscalculating the potential energy or using incorrect units.",
+    "weight": -2
+  }
+]

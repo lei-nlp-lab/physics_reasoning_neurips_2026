@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum height calculation",
+    "description": "Essential: Correctly computes the maximum height using the upward acceleration and initial velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Gravity work recognition",
+    "description": "Essential: States that the work done by gravity over the round trip is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Air resistance work",
+    "description": "Important: Calculates the total work done by air resistance, considering its constant magnitude and total distance.",
+    "weight": 4
+  },
+  {
+    "title": "Upward acceleration setup",
+    "description": "Important: Applies Newton's second law correctly for the ascent, summing forces to find the upward acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Downward acceleration setup",
+    "description": "Important: Applies Newton's second law correctly for the descent, summing forces to find the downward acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Ascent time calculation",
+    "description": "Important: Uses kinematic equations with the correct upward acceleration to find the time to reach maximum height.",
+    "weight": 3
+  },
+  {
+    "title": "Descent time calculation",
+    "description": "Important: Uses kinematic equations with the correct downward acceleration and height to find the descent time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds, joules) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigns a positive sign to the work done by air resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Acceleration magnitude confusion",
+    "description": "Pitfall: Uses gravitational acceleration (g) instead of the net acceleration (a1 or a2) in kinematic equations.",
+    "weight": -2
+  }
+]

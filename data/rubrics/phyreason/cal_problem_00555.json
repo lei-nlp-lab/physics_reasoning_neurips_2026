@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Range of resistance",
+    "description": "Essential: The final answer must state the correct range for the rheostat resistance, e.g., 0.4 Ω ≤ R ≤ 10 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum rheostat power",
+    "description": "Essential: The final answer must state the correct maximum power of the rheostat, i.e., 18 W.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: The solution must apply Newton's second law for equilibrium along the incline, equating the component of gravity, friction, and magnetic force.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force expression",
+    "description": "Important: The solution must correctly express the magnetic force on the rod as F = BIL, relating it to the circuit current.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit current analysis",
+    "description": "Important: The solution must use Ohm's law for the complete circuit to express the current as I = E/(R + r).",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction consideration",
+    "description": "Important: The solution must correctly determine the direction of friction (up or down the incline) for both limiting cases to find the resistance range.",
+    "weight": 3
+  },
+  {
+    "title": "Power derivation",
+    "description": "Optional: The solution may show the derivation of the rheostat power as P = I²R or P = E²R/(R+r)².",
+    "weight": 2
+  },
+  {
+    "title": "Maximum power condition",
+    "description": "Optional: The solution may apply the maximum power transfer theorem (R = r) or use calculus to find the maximum.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the force balance uses incorrect signs for friction or magnetic force, leading to wrong resistance limits.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if mass is not converted to kg or if units are inconsistent in calculations, affecting numerical results.",
+    "weight": -1
+  }
+]

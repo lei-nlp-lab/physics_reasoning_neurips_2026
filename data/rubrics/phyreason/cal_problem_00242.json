@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct OM length",
+    "description": "Essential Criteria: The student's final numerical answer for part (1) must be 0.4 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct N specific charge",
+    "description": "Essential Criteria: The student's final numerical answer for part (2) must be 4.4 × 10⁶ C/kg (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important Criteria: The solution must correctly apply the formula r = mv/(qB) to relate radius, velocity, magnetic field, and specific charge.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of trajectory",
+    "description": "Important Criteria: The solution must recognize that the distance OM is the diameter of the circular path, equal to twice the radius.",
+    "weight": 3
+  },
+  {
+    "title": "Proportional reasoning for ON",
+    "description": "Important Criteria: The solution must correctly use the given ratio ON = 1.1 × OM to find the new radius and thus the new specific charge.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent use of SI units (meters, Tesla, C/kg) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses the radius as the distance OM, or confuses diameter with radius.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall Criteria: Penalize if the student makes an error in solving for the specific charge, such as inverting the ratio or misapplying the formula.",
+    "weight": -1
+  }
+]

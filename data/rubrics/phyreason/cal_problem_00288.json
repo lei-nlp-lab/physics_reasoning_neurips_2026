@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at incline bottom",
+    "description": "Essential: The final numerical answer for part (1) must be correctly stated as 2√7 m/s or its decimal equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Distance on horizontal surface",
+    "description": "Essential: The final numerical answer for part (2) must be correctly stated as 3.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy on incline",
+    "description": "Important: The solution must apply the work-energy theorem for the incline, equating net work to the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Correct friction force",
+    "description": "Important: The work done by friction on the incline must use the normal force mg cos(37°).",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy on horizontal",
+    "description": "Important: The solution must apply the work-energy theorem on the horizontal surface, with friction doing negative work until the object stops.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All quantities should be expressed with correct SI units throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the work done by friction is given a positive sign instead of negative.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Penalize if the friction force on the incline incorrectly uses mg instead of mg cos(37°).",
+    "weight": -2
+  }
+]

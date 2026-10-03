@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct charge q",
+    "description": "Essential: The answer for part (1) must be q = (√3 m g L²) / (3 k Q).",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium force resolution",
+    "description": "Important: The solution must resolve forces on the ball at A, equating the horizontal electric force to the horizontal component of gravity (mg tanθ).",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic energy at C",
+    "description": "Essential: The answer for part (2) must be E_kC = (√3/2) m g L + (1/2) m v₀².",
+    "weight": 5
+  },
+  {
+    "title": "Use of equal potentials",
+    "description": "Important: For part (2), the solution must recognize that points A and C are at the same distance from Q, so the electric potential and electric potential energy are equal.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must correctly apply the work-energy theorem, accounting for work done by gravity and electric forces.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic energy at B",
+    "description": "Essential: The answer for part (3) must be E_kB = (1/2) m v₀² - (√3/12) m g L.",
+    "weight": 5
+  },
+  {
+    "title": "Electric potential energy change",
+    "description": "Important: For part (3), the solution must calculate the change in electric potential energy from A to B using the given work formula or U = kQq/r.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the work done by the electric field is given the wrong sign (e.g., using U_B - U_A instead of U_A - U_B).",
+    "weight": -2
+  },
+  {
+    "title": "Geometry for distances",
+    "description": "Optional: The solution may explicitly calculate geometric distances (e.g., OB = L/2, AC = √3 L) using the 30° angle and given lengths.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions for energy and charge have correct dimensional units.",
+    "weight": 1
+  }
+]

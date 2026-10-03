@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential final ratio",
+    "description": "Essential Criteria: The final answer must be the ratio T1:T2 = 5:3.",
+    "weight": 5
+  },
+  {
+    "title": "Essential force equilibrium",
+    "description": "Essential Criteria: The student must apply force equilibrium (sum of vertical forces = 0) for both configurations.",
+    "weight": 4
+  },
+  {
+    "title": "Important current calculation",
+    "description": "Important Criteria: The student must correctly calculate the total current through the rod using Ohm's law for each configuration.",
+    "weight": 3
+  },
+  {
+    "title": "Important Ampere force",
+    "description": "Important Criteria: The student must correctly calculate the magnetic (Ampere) force on the rod using F = BIL, identifying the correct length L for each configuration.",
+    "weight": 3
+  },
+  {
+    "title": "Important geometry/trigonometry",
+    "description": "Important Criteria: For configuration 1, the student must use the given geometry to find the sine of the wire angle (sin 37° = 0.6).",
+    "weight": 2
+  },
+  {
+    "title": "Pitfall incorrect length",
+    "description": "Pitfall Criteria: Penalise using the wrong effective length (e.g., 3L instead of L) for the Ampere force in configuration 2.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall sign or direction",
+    "description": "Pitfall Criteria: Penalise incorrect handling of force directions (e.g., Ampere force added vs. subtracted) in the equilibrium equations.",
+    "weight": -1
+  },
+  {
+    "title": "Optional unit consistency",
+    "description": "Optional Criteria: The student demonstrates dimensional consistency in intermediate force expressions.",
+    "weight": 1
+  }
+]

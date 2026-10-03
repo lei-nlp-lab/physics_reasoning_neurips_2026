@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum distance calculation",
+    "description": "Essential: Correctly computes the maximum separation (16 m) between car A and the truck before overtaking.",
+    "weight": 5
+  },
+  {
+    "title": "Overtaking time calculation",
+    "description": "Essential: Correctly determines the minimum time (7 s) for car A to complete the overtaking maneuver.",
+    "weight": 5
+  },
+  {
+    "title": "Safety analysis conclusion",
+    "description": "Essential: Correctly concludes that car A cannot safely overtake without car B's deceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Required deceleration calculation",
+    "description": "Essential: Correctly calculates the minimum deceleration (-1 m/s²) required for car B to allow safe overtaking.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important: Applies kinematics equations to model the relative positions of car A and the truck during acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Overtaking displacement condition",
+    "description": "Important: Sets up the correct displacement relationship (x_A - x_truck = s) to solve for the overtaking time.",
+    "weight": 4
+  },
+  {
+    "title": "Collision condition analysis",
+    "description": "Important: Correctly compares the sum of displacements of car A and car B to their initial separation to assess safety.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration kinematics application",
+    "description": "Important: Uses the correct kinematics equation (involving average velocity) to solve for car B's required final speed and deceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Makes a sign error in relative displacements, accelerations, or velocities, leading to an incorrect physical conclusion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout all calculations and final answers.",
+    "weight": 1
+  }
+]

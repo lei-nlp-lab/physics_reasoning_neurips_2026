@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pressure at D",
+    "description": "Essential: Correctly calculates the normal force at D using centripetal force and Newton's third law, yielding 25.6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at C",
+    "description": "Essential: Correctly applies energy conservation between C and D to find v_C = 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy-work reasoning",
+    "description": "Important: Applies the work-energy theorem for the AB segment, relating power, friction work, and kinetic energy at B.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Correctly decomposes v_C into components and uses kinematics to find height difference h = 0.45 m and horizontal distance x = 1.2 m.",
+    "weight": 4
+  },
+  {
+    "title": "Time of force application",
+    "description": "Essential: Solves for the time t from the work-energy relation, obtaining t = 0.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at B",
+    "description": "Important: Correctly identifies v_B from the horizontal component of v_C, or from energy, as 4 m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (kg, m, s, N, J, W) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misapplies sign for work done by friction or misidentifies the direction of forces in circular motion.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric misuse",
+    "description": "Pitfall: Incorrectly uses sin/cos for the projectile launch angle or the energy conservation angle term (1-cosα).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hamiltonian Expression",
+    "description": "Essential Criteria - The Hamiltonian must be correctly written for all times, including the Heaviside step function.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenstate Relation",
+    "description": "Important Criteria - The relationship between eigenstates before and after the field introduction must be clearly established.",
+    "weight": 4
+  },
+  {
+    "title": "Probability Calculation",
+    "description": "Essential Criteria - The probability of being in an excited state must be accurately derived and expressed.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria - The application of time-dependent perturbation theory must be correctly executed for the general electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Final Probability Expression",
+    "description": "Essential Criteria - The final expression for the probability in terms of the specific electric field must be correctly derived.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Missing the Heaviside function or making sign errors in the Hamiltonian will lead to significant deductions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - Units in the final expressions should be checked for consistency throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria - Discussion of limiting cases or special scenarios should be included for completeness.",
+    "weight": 2
+  }
+]

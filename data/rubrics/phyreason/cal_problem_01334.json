@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct part (1) answer",
+    "description": "Essential: Student must provide the gravitational force for the complete sphere as F₁ = GMm/(4R²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct part (2) answer",
+    "description": "Essential: Student must provide the final net force for the excavated sphere as F = 7GMm/(36R²).",
+    "weight": 5
+  },
+  {
+    "title": "Mass of removed sphere",
+    "description": "Important: Student must correctly calculate the mass of the small sphere as M' = M/8 using volume ratios.",
+    "weight": 4
+  },
+  {
+    "title": "Superposition principle application",
+    "description": "Important: Student must subtract the force from the removed sphere from the original force to find the net force.",
+    "weight": 4
+  },
+  {
+    "title": "Distance for removed sphere",
+    "description": "Important: Student must use the correct center-to-center distance (3R/2) between the small sphere and point mass.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect distance usage",
+    "description": "Pitfall: Using 2R instead of 3R/2 for the distance to the center of the removed sphere.",
+    "weight": -2
+  },
+  {
+    "title": "Density consistency",
+    "description": "Optional: Explicitly calculating or stating constant density to relate masses through volume ratios.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Adding instead of subtracting forces, or misrepresenting the vector nature of the superposition.",
+    "weight": -1
+  }
+]

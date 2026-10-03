@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct expression for Δm",
+    "description": "Essential: The student's final answer for Δm must match Δm = (M m a)/(V ρ g) or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct expression for m₁",
+    "description": "Essential: The student's final answer for m₁ must match m₁ = m (ρ g H₁ + p₀)/(ρ g H + p₀) or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Newton's second law",
+    "description": "Important: The solution must apply F_net = Ma, relating the net buoyant force (ρgΔV) to the fish's mass and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Uses Boyle's Law correctly",
+    "description": "Important: The solution must apply pV = constant for the isothermal gas in chamber B, relating pressures at depths H and H₁ to the volume change ΔV.",
+    "weight": 4
+  },
+  {
+    "title": "Relates gas mass to density and volume",
+    "description": "Important: The solution must correctly use the relation Δm = ρ_gas ΔV, where ρ_gas = m/V, to connect the gas mass transfer to the volume change.",
+    "weight": 3
+  },
+  {
+    "title": "Identifies hydrostatic pressures",
+    "description": "Important: The solution must state the external pressure at a depth h as p₀ + ρ g h.",
+    "weight": 3
+  },
+  {
+    "title": "Considers initial force equilibrium",
+    "description": "Optional: The solution may note the initial stationary condition at depth H implies Mg = ρgV₀, defining the initial fish volume V₀.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: Penalise if the net force equation is written as Mg - F_b' = Ma, incorrectly reversing the buoyancy and weight forces.",
+    "weight": -2
+  },
+  {
+    "title": "Pressure or volume mix-up in Boyle's Law",
+    "description": "Pitfall: Penalise if Boyle's Law is misapplied, e.g., using p₁V = p₂(V+ΔV) for the H₁ < H case instead of p₁(V-ΔV)=p₂V.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency or omission",
+    "description": "Pitfall: Penalise if final answers are presented without any implied or stated units, or if units are inconsistent within the derivation.",
+    "weight": -1
+  }
+]

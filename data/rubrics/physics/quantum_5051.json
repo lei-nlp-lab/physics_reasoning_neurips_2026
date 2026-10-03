@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energies",
+    "description": "Essential Criteria: The student must correctly state the first-order energies E^{(1)}_0 and E^{(1)}_{±}.",
+    "weight": 5
+  },
+  {
+    "title": "Final Wave Functions",
+    "description": "Essential Criteria: The student must provide the correct first-order wave functions |ψ'_0⟩ and |ψ^{(1)}_{±}⟩.",
+    "weight": 5
+  },
+  {
+    "title": "Matrix Elements",
+    "description": "Important Criteria: The student should correctly calculate the matrix elements H'_{ij} for the perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Secular Equation",
+    "description": "Important Criteria: The student must derive and solve the secular equation correctly to find the energy levels.",
+    "weight": 4
+  },
+  {
+    "title": "Degenerate States",
+    "description": "Important Criteria: The student should identify the three-fold degeneracy of the first excited state correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Perturbation Form",
+    "description": "Optional Criteria: The student should clearly state the form of the perturbation H' = bxy.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect matrix element calculations.",
+    "weight": -2
+  }
+]

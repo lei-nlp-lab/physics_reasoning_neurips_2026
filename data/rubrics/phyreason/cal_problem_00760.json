@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocities after collision",
+    "description": "Essential: Student must correctly state that after the first A-C collision, v_A = -1 m/s and v_C = 1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Time interval between collisions",
+    "description": "Essential: Student must correctly state that the time between the first and second A-C collisions is 2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation in A-C collision",
+    "description": "Important: Student must apply momentum conservation (m*v₁ = m*v_A + 3m*v_C) for the perfectly elastic A-C collision.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation in A-C collision",
+    "description": "Important: Student must apply kinetic energy conservation (½m*v₁² = ½m*v_A² + ½*3m*v_C²) for the perfectly elastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "Common velocity of A and B",
+    "description": "Important: Student must first find the common velocity v₁ = 2 m/s of A and B before the first A-C collision using momentum conservation on A and B.",
+    "weight": 3
+  },
+  {
+    "title": "C's stopping kinematics",
+    "description": "Important: Student must calculate C's stopping time (t_C = v_C/(μ₂g) = 2 s) and displacement (x_C = v_C²/(2μ₂g) = 1 m) after the first collision.",
+    "weight": 3
+  },
+  {
+    "title": "A's return motion",
+    "description": "Optional: Student may analyze A's motion after collision, including its deceleration due to friction with B and eventual common velocity v₂ = 1 m/s with B.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in velocities",
+    "description": "Pitfall: Student incorrectly assigns signs to post-collision velocities (e.g., v_A positive, v_C negative) or misinterprets direction.",
+    "weight": -2
+  },
+  {
+    "title": "Friction coefficient confusion",
+    "description": "Pitfall: Student uses wrong friction coefficient (μ₁ instead of μ₂ for C's motion, or vice versa) in kinematic calculations.",
+    "weight": -1
+  }
+]

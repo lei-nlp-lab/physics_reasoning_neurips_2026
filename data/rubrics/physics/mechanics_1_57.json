@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for π+",
+    "description": "Essential Criteria: The student must provide the correct expression for the collision cross section for π+ as σ = π b^2 (T - V)/T.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for π-",
+    "description": "Essential Criteria: The student must provide the correct expression for the collision cross section for π- as σ = π b^2 (T + V)/T.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should correctly apply conservation of energy to relate T, V, and the angular momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Conservation",
+    "description": "Important Criteria: The student must demonstrate the correct application of angular momentum conservation in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Potential V",
+    "description": "Optional Criteria: The student should correctly identify and substitute the potential V = Ze^2/b for the π+ case and V = -Ze^2/b for the π- case.",
+    "weight": 3
+  },
+  {
+    "title": "Impact Parameter Definition",
+    "description": "Optional Criteria: The student should define the impact parameter d and its significance in the context of the collision.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes when substituting the potential V for π+ and π-.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

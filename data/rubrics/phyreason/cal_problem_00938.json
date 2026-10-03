@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential Criteria: The student must state the correct numerical value for the Ampere force, approximately 0.0693 N or exactly 4√3 × 10⁻² N.",
+    "weight": 5
+  },
+  {
+    "title": "EMF magnitude",
+    "description": "Essential Criteria: The student must state the correct numerical value for the electromotive force, 4.0 V.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important Criteria: The solution must apply Newton's first law, balancing the component of gravity down the incline with the Ampere force up the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere force direction",
+    "description": "Important Criteria: The reasoning must correctly determine that the Ampere force acts up the incline to oppose the component of gravity down the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Current calculation",
+    "description": "Important Criteria: The solution must relate the Ampere force (F = BId) to the current I, using the correct rail width d.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit application",
+    "description": "Important Criteria: The solution must apply Ohm's law to the complete circuit (E = I(R+r)) to find the EMF from the calculated current.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should correctly convert all given quantities (mass, length) to SI base units (kg, m) before calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force component",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses mg sinθ or mg cosθ alone for the force balance instead of mg tanθ.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting internal resistance",
+    "description": "Pitfall Criteria: Penalize if the student uses E = IR instead of E = I(R+r), omitting the internal resistance r.",
+    "weight": -2
+  },
+  {
+    "title": "Direction/current sign error",
+    "description": "Pitfall Criteria: Penalize if the student misapplies the right-hand rule, leading to an incorrect direction for the Ampere force or current.",
+    "weight": -1
+  }
+]

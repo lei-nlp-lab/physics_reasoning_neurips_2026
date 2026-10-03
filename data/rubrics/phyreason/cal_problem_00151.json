@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Distance OQ correct",
+    "description": "Essential: Student correctly calculates d = 2R₁ - 2R₂ and obtains the final answer d = mv/(3qB₀).",
+    "weight": 5
+  },
+  {
+    "title": "Time interval Δt correct",
+    "description": "Essential: Student correctly determines Δt for particle A passing point P twice as Δt = 2πm/(qB₀).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum q'/m' correct",
+    "description": "Essential: Student identifies the minimum charge-to-mass ratio for particle B as q'/m' = 2q/m.",
+    "weight": 5
+  },
+  {
+    "title": "Radius formulas applied",
+    "description": "Important: Student correctly applies qvB = mv²/R to find radii R₁, R₂ for particle A and R₁', R₂' for particle B in both fields.",
+    "weight": 4
+  },
+  {
+    "title": "Period formulas applied",
+    "description": "Important: Student correctly calculates half-periods T₁/2 and T₂/2 for motion in each magnetic field region.",
+    "weight": 3
+  },
+  {
+    "title": "Synchronization condition",
+    "description": "Important: Student establishes that the times for A and B to reach points P and Q are equal, leading to equations involving n cycles.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric progression analysis",
+    "description": "Important: Student analyzes the vertical displacement per cycle for particle B (d' = 2R₁' - 2R₂') and relates it to OQ.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns the direction of magnetic force or confuses the sign of charge, affecting circular motion direction.",
+    "weight": -2
+  },
+  {
+    "title": "Radius mismatch error",
+    "description": "Pitfall: Student uses the wrong magnetic field strength (e.g., 2B₀ vs. 3B₀) when calculating radii for the left/right regions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates unit analysis for final answers (d, Δt, q'/m') to verify dimensional consistency.",
+    "weight": 1
+  }
+]

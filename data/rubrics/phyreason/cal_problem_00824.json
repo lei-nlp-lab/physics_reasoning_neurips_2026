@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time interval",
+    "description": "Essential: The student correctly identifies that the time between marks corresponds to half the vibration period, yielding T = 0.1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Important: The student correctly applies the kinematics relation for displacement difference in equal time intervals to find the plate's acceleration (a = 1 m/s²).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at point A",
+    "description": "Important: The student correctly calculates the average velocity over the interval OA (or uses appropriate kinematics) to find v_A = 0.2 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Final time answer",
+    "description": "Essential: The student provides the correct numerical answer for the time when power is connected: 0.1 s.",
+    "weight": 5
+  },
+  {
+    "title": "Final speed answer",
+    "description": "Essential: The student provides the correct numerical answer for the plate's speed when power is turned on: 0.1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student demonstrates consistent unit conversion (cm to m) throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: The student incorrectly uses the sign for acceleration (e.g., treats upward acceleration as negative) leading to wrong velocity or time.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting trace intervals",
+    "description": "Pitfall: The student assumes the time between marks O, A, B, C is a full period instead of half, leading to incorrect T.",
+    "weight": -2
+  }
+]

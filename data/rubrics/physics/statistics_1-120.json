@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Masses",
+    "description": "Essential Criteria: The final masses of ice, water, and water vapor must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Transfer Equation",
+    "description": "Important Criteria: The application of the heat transfer equation involving latent heats must be correctly set up and used.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Conservation",
+    "description": "Important Criteria: The conservation of mass equation must be correctly formulated and utilized in the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Volume Consideration",
+    "description": "Important Criteria: The consideration of the volume of water vapor compared to ice and water must be addressed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, particularly for heat and mass.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Errors in applying the latent heat values or incorrect assumptions about phase changes will lead to significant mistakes.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: The final answers should be clearly formatted and labeled for clarity.",
+    "weight": 1
+  }
+]

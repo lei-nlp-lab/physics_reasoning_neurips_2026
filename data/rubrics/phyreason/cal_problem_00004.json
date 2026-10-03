@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: k value",
+    "description": "Essential Criteria: The student must correctly calculate the friction proportionality constant k = 0.1.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: L value",
+    "description": "Essential Criteria: The student must correctly calculate the uphill distance L = 67/185 m (or decimal equivalent ≈ 0.362 m).",
+    "weight": 5
+  },
+  {
+    "title": "Important: Motor power balance",
+    "description": "Important Criteria: The student must apply energy conservation to the motor, relating electrical power (UI), resistive loss (I²R), and mechanical power (T₁v) to find the rope tension T₁.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Incline angle from equilibrium",
+    "description": "Important Criteria: The student must analyze the uniform motion condition to set up force balances for the trolley and counterweight, solving for sinθ = 0.5.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Post-motor acceleration",
+    "description": "Important Criteria: The student must apply Newton's second law to the trolley-counterweight system after the motor is off to find the deceleration a.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit consistency check",
+    "description": "Optional Criteria: The student demonstrates dimensional analysis or unit verification for key equations (e.g., power, force, acceleration).",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Sign error in forces",
+    "description": "Pitfall Criteria: Penalize sign errors in the force balance (e.g., wrong direction for friction, tension, or gravity components on the incline).",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Misapplied power equation",
+    "description": "Pitfall Criteria: Penalize incorrectly relating motor power (e.g., omitting I²R loss or misidentifying mechanical power term).",
+    "weight": -1
+  }
+]

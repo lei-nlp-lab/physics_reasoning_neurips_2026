@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct number of fissions per second is provided as 10^18.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The calculation of energy released per fission (200 MeV) is correctly identified and converted to joules.",
+    "weight": 4
+  },
+  {
+    "title": "Power Conversion",
+    "description": "Important Criteria: The conversion of reactor power from MW to watts is accurately performed.",
+    "weight": 4
+  },
+  {
+    "title": "Division Setup",
+    "description": "Important Criteria: The setup of the division N = Power / Energy per fission is correctly established.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units are consistently used throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the calculations are identified.",
+    "weight": -2
+  }
+]

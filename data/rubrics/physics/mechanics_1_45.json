@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Condition",
+    "description": "Essential Criteria: The student must correctly state the stability condition f(r) > - (r/3) (df/dr)|_r.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Angular Momentum",
+    "description": "Important Criteria: The student should correctly apply the conservation of angular momentum in their derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Force Equation",
+    "description": "Important Criteria: The student must derive the equation m*ddot{r} = -f + m*r*dot{theta}^2 accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Small Displacements",
+    "description": "Important Criteria: The student should correctly introduce small displacements delta r and delta theta in their analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Sign of Coefficient",
+    "description": "Essential Criteria: The student must identify that the coefficient of delta r must be negative for stability.",
+    "weight": 5
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes when applying the stability condition.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms in their equations have consistent units.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios to reinforce their solution.",
+    "weight": 1
+  }
+]

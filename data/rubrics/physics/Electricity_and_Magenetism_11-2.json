@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must correctly derive the expression for the average Poynting vector, \\bar{\\mathbf{S}}.",
+    "weight": 5
+  },
+  {
+    "title": "Final Power Distribution",
+    "description": "Essential Criteria: The student must provide the correct angular power distribution, d\\bar{P}/d\\Omega.",
+    "weight": 5
+  },
+  {
+    "title": "Final Average Power",
+    "description": "Essential Criteria: The student must calculate the total average power radiated, \\overline{P}, accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Field Derivation Steps",
+    "description": "Important Criteria: The student should show the correct application of the magnetic field equation and the use of the superposition principle.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning on Superposition",
+    "description": "Important Criteria: The student must explain why the power seems to satisfy superposition despite being quadratic in nature.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check and confirm that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios for the dipole radiation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the derivation of the fields.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any factors in the expressions for the fields or power calculations.",
+    "weight": -2
+  }
+]

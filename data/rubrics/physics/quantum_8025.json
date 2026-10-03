@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must correctly derive and present the diffusion-type equation satisfied by u(x,t).",
+    "weight": 5
+  },
+  {
+    "title": "Diffusion Coefficient",
+    "description": "Essential Criteria: The student must identify the correct diffusion coefficient as hbar/2m.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Influence",
+    "description": "Important Criteria: The student should explain how the presence of the boundary affects u(0,t) over time.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Range Contribution",
+    "description": "Important Criteria: The student must determine the range of epsilon_k that significantly contributes to u(0,t) when the boundary is felt.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid incorrect assumptions about the immediate influence of the boundary.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work done by friction",
+    "description": "Essential: Correctly calculates the work done against friction on the incline using W = f1 * L.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at incline bottom",
+    "description": "Essential: Correctly states the final numerical speed of the child at the bottom of the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum mat length",
+    "description": "Essential: Correctly states the final numerical minimum length required for the horizontal mat.",
+    "weight": 5
+  },
+  {
+    "title": "Apply work-energy theorem (incline)",
+    "description": "Important: Applies the work-energy theorem to the incline section, relating gravitational work, friction work, and kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Apply work-energy theorem (horizontal)",
+    "description": "Important: Applies the work-energy theorem to the horizontal section, relating friction work and the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Consistent unit usage",
+    "description": "Optional: Uses consistent SI units (J, m/s, m) throughout the solution without conversion errors.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction in the work-energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Neglects incline friction work",
+    "description": "Pitfall: Omits the work done against friction when calculating the speed at the bottom of the incline.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct tension magnitude",
+    "description": "Essential Criteria: The final numerical answer for the tension force must be 0.5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct deflection angle",
+    "description": "Essential Criteria: The final numerical answer for the angle θ must be 37°.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important Criteria: The solution must correctly identify the vertical (mg) and horizontal (kv²) forces acting on the ball in equilibrium.",
+    "weight": 4
+  },
+  {
+    "title": "Tension calculation method",
+    "description": "Important Criteria: The solution must use the Pythagorean theorem or vector addition to find the tension from the vertical and horizontal force components.",
+    "weight": 3
+  },
+  {
+    "title": "Angle calculation method",
+    "description": "Important Criteria: The solution must correctly use a trigonometric function (e.g., cosθ = mg/T or tanθ = F_wind/mg) to relate the forces to the angle θ.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should correctly handle unit conversions, such as converting mass from grams to kilograms.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the solution incorrectly treats the tension as equal to just mg or just the wind force, ignoring vector nature.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force law application",
+    "description": "Pitfall Criteria: Penalize if the wind force F = kv² is calculated incorrectly, or if the value of k is misused.",
+    "weight": -1
+  }
+]

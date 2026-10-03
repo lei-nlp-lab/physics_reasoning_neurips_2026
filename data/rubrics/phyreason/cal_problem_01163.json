@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration magnitude of B",
+    "description": "Essential: Correctly calculates the deceleration magnitude of train B using the given stopping distance and initial speed.",
+    "weight": 5
+  },
+  {
+    "title": "Collision time determination",
+    "description": "Essential: Correctly determines if a collision occurs and, if so, calculates the correct time after braking.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum acceleration of A",
+    "description": "Essential: Correctly calculates the minimum acceleration required for train A to avoid a collision.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Applies kinematic equations to both trains to analyze their relative positions over time.",
+    "weight": 4
+  },
+  {
+    "title": "Equal speed condition",
+    "description": "Important: Recognizes and uses the condition that the trains reach a common speed to find the minimum required acceleration for A.",
+    "weight": 3
+  },
+  {
+    "title": "Quadratic equation solving",
+    "description": "Optional: Correctly sets up and solves the quadratic equation for the collision time in part (2).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses acceleration with an incorrect sign (positive instead of negative) in kinematic equations for train B.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring initial separation",
+    "description": "Pitfall: Fails to account for the initial 500m separation when setting up equations for displacement or collision.",
+    "weight": -2
+  }
+]

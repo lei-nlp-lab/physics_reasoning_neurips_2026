@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final expression for the force of magnetic attraction.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Equations",
+    "description": "Important Criteria: The student correctly applies relevant equations for magnetic fields and forces in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student demonstrates proper integration techniques to calculate the total force over the specified geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Vector Potential",
+    "description": "Important Criteria: The student correctly derives or utilizes the vector potential in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Units",
+    "description": "Pitfall Criteria: The student makes errors in signs or units throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student provides a clear physical interpretation of the results, including the nature of the force (attractive or repulsive).",
+    "weight": 2
+  },
+  {
+    "title": "Symmetry Consideration",
+    "description": "Important Criteria: The student recognizes and applies symmetry arguments to simplify the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Alternative Methods",
+    "description": "Optional Criteria: The student explores or mentions alternative methods to arrive at the same result.",
+    "weight": 2
+  }
+]

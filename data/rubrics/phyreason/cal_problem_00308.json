@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct linear velocity ratio",
+    "description": "Essential Criteria: The final ratio for part (1) must be correctly simplified to √3 : 1 or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct centripetal acceleration ratio",
+    "description": "Essential Criteria: The final ratio for part (2) must be correctly simplified to √3 : 1 or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct orbital radii identification",
+    "description": "Important Criteria: The student must correctly identify the orbital radius for each point as R cos(latitude) for the northern point and R sin(latitude) for the southern point.",
+    "weight": 4
+  },
+  {
+    "title": "Application of v = ωr",
+    "description": "Important Criteria: The student must correctly apply the relationship v = ωr to find the linear velocities, noting ω is the same for all points.",
+    "weight": 3
+  },
+  {
+    "title": "Application of a_c = ω²r",
+    "description": "Important Criteria: The student must correctly apply the formula for centripetal acceleration, a_c = ω²r, or an equivalent form, to find the ratio.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student's work should demonstrate that the calculated ratios are dimensionless.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing latitude geometry",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses sin for the northern latitude or cos for the southern latitude when finding the orbital radius.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly introduces a negative sign for the velocity or acceleration magnitude ratio.",
+    "weight": -1
+  }
+]

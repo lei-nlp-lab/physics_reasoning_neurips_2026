@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energies",
+    "description": "Essential Criteria: Provide the correct expressions for the energies of the three lowest states.",
+    "weight": 5
+  },
+  {
+    "title": "Allowed States",
+    "description": "Essential Criteria: Identify which states are allowed for identical spinless particles.",
+    "weight": 5
+  },
+  {
+    "title": "Total Spin",
+    "description": "Essential Criteria: Determine the total spin for each state when particles have spin 1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Frequencies",
+    "description": "Important Criteria: Correctly derive the angular frequencies of the oscillators, omega_1 and omega_2.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry Consideration",
+    "description": "Important Criteria: Discuss the symmetry of the wave function for identical particles.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all energy expressions are consistent with units of energy.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the expressions for forces or energies.",
+    "weight": -2
+  },
+  {
+    "title": "Missing States",
+    "description": "Pitfall Criteria: Avoid omitting any allowed states for the spinless case.",
+    "weight": -1
+  }
+]

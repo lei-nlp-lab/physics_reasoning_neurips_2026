@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energies",
+    "description": "Essential Criteria: The student must correctly identify the excitation energies of 2.3 MeV for 14N and 15.0 MeV for 12C.",
+    "weight": 5
+  },
+  {
+    "title": "Isospin Triplet Explanation",
+    "description": "Important Criteria: The student should explain the concept of isospin triplets and identify the members of the triplet for both nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Difference Derivation",
+    "description": "Important Criteria: The student must derive or reference the relationship between the energy differences of isospin multiplet members.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb Energy Role",
+    "description": "Important Criteria: The student should discuss the role of Coulomb energy and neutron-proton mass difference in determining excitation energies.",
+    "weight": 3
+  },
+  {
+    "title": "Structure Explanation",
+    "description": "Optional Criteria: The student may provide insights into the structural differences of the nuclei that contribute to the energy differences.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all energy values are expressed in consistent units (MeV).",
+    "weight": -1
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in energy calculations or comparisons.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly state that L is approximately equal to L'.",
+    "weight": 5
+  },
+  {
+    "title": "Power Calculation",
+    "description": "Important Criteria: The student should derive the expression for power radiated into the lens using the given parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Solid Angle Derivation",
+    "description": "Important Criteria: The student must correctly express the solid angle subtended by the lens at the image.",
+    "weight": 4
+  },
+  {
+    "title": "Neglecting Attenuation",
+    "description": "Important Criteria: The student should justify the assumption of neglecting atmospheric and lens attenuation.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect sign usage or missing factors in the equations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct displacement expression",
+    "description": "Essential: Student provides the correct SHM expression, including amplitude, angular frequency, and initial phase from the graph.",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement at t1",
+    "description": "Essential: Student calculates and states the correct displacement at t=0.25e-2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance traveled",
+    "description": "Essential: Student calculates and states the correct total distance traveled from t=0 to t=8.5e-2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct net displacement",
+    "description": "Essential: Student calculates and states the correct net displacement from t=0 to t=8.5e-2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Graph parameter extraction",
+    "description": "Important: Student correctly extracts amplitude, period, and initial phase from the provided displacement-time graph.",
+    "weight": 4
+  },
+  {
+    "title": "Distance calculation reasoning",
+    "description": "Important: Student correctly relates the time interval to a multiple of the period to calculate total distance traveled.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (cm) throughout the solution and includes them in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in phase",
+    "description": "Pitfall: Student makes an error in the sign of the initial phase constant (e.g., uses +π/2 instead of -π/2).",
+    "weight": -2
+  },
+  {
+    "title": "Distance vs. displacement confusion",
+    "description": "Pitfall: Student confuses total distance traveled with net displacement for part (3).",
+    "weight": -2
+  }
+]

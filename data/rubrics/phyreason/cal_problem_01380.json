@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct vertical displacement",
+    "description": "Essential: Student correctly calculates the vertical displacement from the brick count and thickness (20 m).",
+    "weight": 5
+  },
+  {
+    "title": "Correct flight time",
+    "description": "Essential: Student correctly applies the free-fall time formula (t = sqrt(2y/g)) to obtain t = 2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct vertical velocity at A",
+    "description": "Important: Student correctly calculates the vertical velocity at impact using v_y = gt (20 m/s).",
+    "weight": 3
+  },
+  {
+    "title": "Correct velocity decomposition",
+    "description": "Important: Student correctly relates horizontal and vertical velocities at point A using the slope angle (v_0 = v_y * tan(37°)).",
+    "weight": 4
+  },
+  {
+    "title": "Correct horizontal velocity",
+    "description": "Essential: Student correctly computes the final horizontal velocity v_0 = 15 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Student fails to convert brick thickness from cm to m, leading to incorrect displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect angle relation",
+    "description": "Pitfall: Student misapplies the trigonometric relation (e.g., uses sin or cos instead of tan) for velocity decomposition.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns signs to velocity components or misinterprets 'hits exactly vertically'.",
+    "weight": -1
+  }
+]

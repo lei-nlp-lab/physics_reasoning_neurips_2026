@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct total length",
+    "description": "Essential: The final answer for part (1) must be 0.46 m (or 46 cm).",
+    "weight": 5
+  },
+  {
+    "title": "Correct pressure magnitude",
+    "description": "Essential: The final answer for part (2) must be approximately 2.29 N.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium force analysis",
+    "description": "Important: For part (1), correctly applies Hooke's law to find elongations x₁ and x₂ from the equilibrium of m₁+m₂ and m₂ respectively.",
+    "weight": 4
+  },
+  {
+    "title": "Spring compression analysis",
+    "description": "Important: For part (2), recognizes that when total length equals original sum, both springs are compressed/stretched by the same amount x, and sets up m₁ equilibrium: k₁x + k₂x = m₁g.",
+    "weight": 4
+  },
+  {
+    "title": "Plate force equilibrium",
+    "description": "Important: For part (2), correctly analyzes forces on m₂ (weight, spring 2 force, normal force from plate) to find the normal force/pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, Newtons, kg) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Misidentifies direction of spring forces (tension vs compression) in the equilibrium equations, leading to incorrect signs.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing spring states",
+    "description": "Pitfall: Assumes both springs are in the same state (both stretched or both compressed) in part (2) without proper analysis of the lifting condition.",
+    "weight": -1
+  }
+]

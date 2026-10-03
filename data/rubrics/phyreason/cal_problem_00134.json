@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final answer for v1",
+    "description": "Essential: Correctly states the maximum velocity with switch closed as v1 = mgR/(B^2 L^2).",
+    "weight": 5
+  },
+  {
+    "title": "Final answer for v2",
+    "description": "Essential: Correctly states the maximum velocity with switch open as v2 = 3mgR/(2 B^2 L^2).",
+    "weight": 5
+  },
+  {
+    "title": "Final answer for a",
+    "description": "Essential: Correctly states the acceleration magnitude after opening S as a = g/2.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies the condition that at terminal velocity, the magnetic force balances gravity (mg = BIL).",
+    "weight": 4
+  },
+  {
+    "title": "Non-linear component property",
+    "description": "Important: Correctly uses the property that when current I >= I0, the voltage across Z is Um.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit analysis for v2",
+    "description": "Important: For the open switch case, correctly applies Kirchhoff's loop rule (BLv2 = Um + I2R) and Ohm's law.",
+    "weight": 4
+  },
+  {
+    "title": "Instantaneous analysis for a",
+    "description": "Important: After opening S at v1, correctly calculates the new current from E1, Um, and R, then finds net force.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Expresses all answers using only the allowed symbols (m, g, B, L, R) and checks dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Uses wrong direction for magnetic force (e.g., mg + BIL = ma) leading to incorrect acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied component condition",
+    "description": "Pitfall: Assumes voltage Um across Z when current is below I0, or incorrectly uses I0 in calculations.",
+    "weight": -2
+  }
+]

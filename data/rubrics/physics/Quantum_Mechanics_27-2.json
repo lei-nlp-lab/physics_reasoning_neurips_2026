@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Hyperfine Splitting",
+    "description": "Essential Criteria: Provide the correct expression for the hyperfine splitting of the ground electronic state.",
+    "weight": 5
+  },
+  {
+    "title": "Zeeman Energy Levels",
+    "description": "Essential Criteria: Derive the correct expression for the Zeeman-split energy levels in the presence of a magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Total Angular Momentum",
+    "description": "Important Criteria: Clearly define the total angular momentum operator F and its relation to I and J.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Level Sketch",
+    "description": "Optional Criteria: Provide a sketch of the energy levels versus the magnetic field, indicating the direction of splitting.",
+    "weight": 3
+  },
+  {
+    "title": "Conserved Quantity",
+    "description": "Important Criteria: Identify and explain that the conserved quantity in the presence of a magnetic field is F.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the expressions for energy levels.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all necessary factors, such as constants and coefficients, are included in the final answers.",
+    "weight": -1
+  }
+]

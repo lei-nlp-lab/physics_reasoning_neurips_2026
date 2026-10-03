@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct speed calculation",
+    "description": "Essential: Student must compute v = F/(qB) = 5×10⁵ m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct deflection direction",
+    "description": "Essential: Student must state the proton deflects eastward.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Lorentz force formula",
+    "description": "Important: Student must use F = qvB for perpendicular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Right-hand rule application",
+    "description": "Important: Student must apply the right-hand rule correctly for a positive charge.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows unit analysis for v = F/(qB).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Student incorrectly uses negative sign for proton charge in force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong hand rule for positive charge",
+    "description": "Pitfall: Student uses left-hand rule (for electrons) instead of right-hand rule.",
+    "weight": -1
+  }
+]

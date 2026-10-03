@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final speed after catapult",
+    "description": "Essential: The student's answer for part (1) must be 12 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Catapult zone length",
+    "description": "Essential: The student's answer for part (2) must be 12 m.",
+    "weight": 5
+  },
+  {
+    "title": "Total runway length",
+    "description": "Essential: The student's answer for part (3) must be 156 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct net force calculation",
+    "description": "Important: The student must correctly calculate the net force in each zone, accounting for thrust, catapult force, and constant friction.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics setup for two zones",
+    "description": "Important: The student must set up correct kinematic equations linking velocities, accelerations, distances, and the given 4-second time difference.",
+    "weight": 4
+  },
+  {
+    "title": "Friction force value",
+    "description": "Important: The student must correctly state the constant friction force as 0.2mg (4.0e4 N).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All intermediate calculations and final answers should use consistent SI units (m, s, m/s, m/s², N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Penalize if the student incorrectly adds/subtracts the friction force direction in Newton's second law.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting time relation",
+    "description": "Pitfall: Penalize if the student misapplies the condition that the later phase time is 4 seconds longer than the catapult phase time.",
+    "weight": -2
+  }
+]

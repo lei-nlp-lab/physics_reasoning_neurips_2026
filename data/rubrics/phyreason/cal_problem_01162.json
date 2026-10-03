@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer",
+    "description": "Essential: Student must state v = 2.5 m/s (or equivalent fraction).",
+    "weight": 5
+  },
+  {
+    "title": "Average speed definition",
+    "description": "Essential: Student correctly uses average speed = total distance / total time.",
+    "weight": 4
+  },
+  {
+    "title": "Time expressions",
+    "description": "Important: Student correctly writes time for first segment as (2s/3)/v and second as (s/3)/5.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Important: Student successfully solves the equation 3 = s / [(2s/3v) + (s/15)] for v.",
+    "weight": 3
+  },
+  {
+    "title": "Distance cancellation",
+    "description": "Optional: Student recognizes total distance cancels in the average speed equation.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (m/s) throughout or explicitly notes them.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect average formula",
+    "description": "Pitfall: Student uses arithmetic mean (v+5)/2 or similar incorrect average speed formula.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or fraction error",
+    "description": "Pitfall: Student makes algebraic error in combining fractions or solving the equation.",
+    "weight": -1
+  }
+]

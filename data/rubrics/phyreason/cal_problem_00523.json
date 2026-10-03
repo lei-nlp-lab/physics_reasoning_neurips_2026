@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Circuit Current",
+    "description": "Essential: The student must correctly calculate the circuit current as 1.5 A using the bulb's rated power and voltage.",
+    "weight": 5
+  },
+  {
+    "title": "Motor Voltage",
+    "description": "Essential: The student must correctly calculate the motor's rated operating voltage as 5.5 V.",
+    "weight": 5
+  },
+  {
+    "title": "Power Supply Power",
+    "description": "Essential: The student must correctly calculate the total power of the power supply as 24 W.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Loop Law",
+    "description": "Important: The student must apply Kirchhoff's voltage law to the entire circuit to relate the source EMF to all voltage drops.",
+    "weight": 4
+  },
+  {
+    "title": "Identify Normal Operation",
+    "description": "Important: The student must recognize that 'operate normally' means the bulb operates at its rated voltage (3V) and power (4.5W).",
+    "weight": 4
+  },
+  {
+    "title": "Power Formula Application",
+    "description": "Optional: The student may show the derivation of the circuit current from the bulb's power rating using I = P/U.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect Voltage Summation",
+    "description": "Pitfall: The student incorrectly sums voltage drops, e.g., omitting the voltage drop across the internal resistance r or the fixed resistor R.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Omission or Error",
+    "description": "Pitfall: The student provides numerical answers without correct units (A, V, W) or uses incorrect units.",
+    "weight": -1
+  }
+]

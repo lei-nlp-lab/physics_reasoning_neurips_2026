@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct magnetic induction",
+    "description": "Essential: The student's final answer for part (1) must be 0.2 T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Ampere force",
+    "description": "Essential: The student's final answer for part (2) must be 0.2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ampere's Law",
+    "description": "Important: The solution must correctly apply the formula F = BIL or its rearrangement to relate force, field, current, and length.",
+    "weight": 4
+  },
+  {
+    "title": "Correct unit usage",
+    "description": "Important: All final answers must include the correct SI units (Tesla for B, Newton for F).",
+    "weight": 3
+  },
+  {
+    "title": "Clear problem setup",
+    "description": "Optional: The response may show a clear substitution of the given values into the correct formula.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Penalize if the student uses an incorrect formula (e.g., F = BIL sinθ with an incorrect angle).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall: Penalize for mistakes in rearranging B = F/(IL) or calculating F = BIL with the new current.",
+    "weight": -1
+  }
+]

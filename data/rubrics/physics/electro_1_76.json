@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Induced Charge",
+    "description": "Essential Criteria: The total induced charge on the sheet must be correctly identified as -q.",
+    "weight": 5
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Important Criteria: The force on the charge q must be calculated using the correct formula and values.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Essential Criteria: The total work required to remove the charge must be computed accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: All final answers should include appropriate units for clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes, particularly in the induced charge and force calculations.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring 3 force",
+    "description": "Essential: Correctly calculates F₃ = m_C·g = 30 N from equilibrium of block C.",
+    "weight": 5
+  },
+  {
+    "title": "Spring 1 force",
+    "description": "Essential: Correctly states F₁ = 0 N because its elongation is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Spring 2 force",
+    "description": "Important: Applies force ratio or Hooke's law to find F₂ = 20 N from F₃ and given elongations.",
+    "weight": 4
+  },
+  {
+    "title": "Friction on A",
+    "description": "Important: Uses equilibrium of block A to find f_A = F₂ = 20 N, with correct direction (left).",
+    "weight": 4
+  },
+  {
+    "title": "Friction on B",
+    "description": "Important: Uses equilibrium of block B to find f_B = F₃ - F₂ = 10 N, with correct direction (left).",
+    "weight": 4
+  },
+  {
+    "title": "Direction specification",
+    "description": "Optional: Explicitly states direction of frictional forces (left/right) for both blocks A and B.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows consistent use of units (N, cm/m conversion handled correctly).",
+    "weight": 1
+  },
+  {
+    "title": "Wrong spring force ratio",
+    "description": "Pitfall: Incorrectly assumes equal forces in all springs or misapplies Hooke's law without considering equilibrium.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Assigns wrong direction to frictional forces (e.g., right instead of left) or omits direction entirely.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension at highest point",
+    "description": "Essential: Correctly calculates the tension in the rope at the highest point as 12 N, considering the total mass and centripetal force requirement.",
+    "weight": 5
+  },
+  {
+    "title": "Water pressure on cup",
+    "description": "Essential: Correctly calculates the pressure (force) of the water on the cup bottom at the highest point as 9 N, derived from the normal force on the water.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum speed for no spill",
+    "description": "Essential: Correctly calculates the minimum speed at the highest point to prevent water from spilling, yielding approximately 3.16 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis for water",
+    "description": "Important: Applies Newton's second law to the water alone to find the normal force from the cup, correctly using the water's mass and centripetal acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Force analysis for cup+water",
+    "description": "Important: Applies Newton's second law to the combined cup-water system to find rope tension, correctly summing gravitational and centripetal forces.",
+    "weight": 3
+  },
+  {
+    "title": "Critical condition identification",
+    "description": "Important: Identifies that the critical condition for water not spilling is when the normal force on the water becomes zero at the highest point.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Incorrectly assigns signs to forces (e.g., tension direction) or misinterprets the direction of the normal force/pressure.",
+    "weight": -2
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall: Uses incorrect mass (e.g., cup mass only or water mass only) when calculating the tension for the combined system or the force on the water.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the calculation and presents final answers with correct units (N, m/s).",
+    "weight": 1
+  }
+]

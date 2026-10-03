@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct voltage calculation",
+    "description": "Essential: Student correctly computes the accelerating voltage using energy conservation, obtaining approximately 3.34×10⁵ V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct electric field strength",
+    "description": "Essential: Student correctly calculates the uniform electric field strength from voltage and distance, obtaining approximately 8.35×10⁴ V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Student applies the work-energy theorem or conservation of energy, equating kinetic energy gain to electrical potential energy loss.",
+    "weight": 4
+  },
+  {
+    "title": "Uniform field relationship",
+    "description": "Important: Student correctly uses the relationship U = Ed for a uniform electric field to connect voltage, field strength, and distance.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent SI units throughout calculations and includes correct units in final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy relation",
+    "description": "Pitfall: Student incorrectly uses sign in energy relation (e.g., qU = -½mv² instead of qU = ½mv² for proton acceleration).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect field formula",
+    "description": "Pitfall: Student uses incorrect formula for electric field (e.g., E = V/d² or E = Vd instead of E = V/d).",
+    "weight": -2
+  }
+]

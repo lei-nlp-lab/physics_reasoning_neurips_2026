@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the distance d between the stars.",
+    "weight": 5
+  },
+  {
+    "title": "Resolution Calculation",
+    "description": "Important Criteria: The student should correctly apply the formula for angular resolution using the wavelength and diameter of the telescope.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Calculation",
+    "description": "Important Criteria: The student must accurately calculate the distance between the stars using the angular resolution and the distance from Earth.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the calculations.",
+    "weight": -2
+  }
+]

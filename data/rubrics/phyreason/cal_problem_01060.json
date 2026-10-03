@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Instantaneous speed at 2s",
+    "description": "Essential: Correctly reads the instantaneous speed at t=2s from the table as 3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Average acceleration (0-3s)",
+    "description": "Essential: Correctly calculates the average acceleration over the first 3 seconds using a = (v₃ - v₀)/t₃, yielding 5/3 or 1.67 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Average speed (4th second)",
+    "description": "Important: Correctly calculates the average speed during the 4th second using displacement over time: (x₄ - x₃)/1s.",
+    "weight": 4
+  },
+  {
+    "title": "Average acceleration (4th second)",
+    "description": "Important: Correctly calculates the average acceleration during the 4th second using a = (v₄ - v₃)/1s.",
+    "weight": 4
+  },
+  {
+    "title": "Correct velocity reading",
+    "description": "Important: Uses the correct velocity values from the table for all calculations (e.g., v₀, v₃, v₄).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (m/s, m/s²) with all final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing speed and acceleration",
+    "description": "Pitfall: Confuses average speed with average acceleration or uses incorrect definitions (e.g., average speed as (v₀+v_f)/2).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly handles signs for acceleration or misinterprets the direction of motion from the data.",
+    "weight": -1
+  }
+]

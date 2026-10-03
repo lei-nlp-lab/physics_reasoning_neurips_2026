@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Normal force magnitude",
+    "description": "Essential: Correctly calculates the normal force using the equilibrium condition in the perpendicular direction, obtaining approximately 47.6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force magnitude",
+    "description": "Essential: Correctly calculates the friction force using the equilibrium condition parallel to the incline, obtaining approximately 3.2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force decomposition",
+    "description": "Important: Properly resolves both gravity and the applied horizontal force into components parallel and perpendicular to the inclined plane.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium application",
+    "description": "Important: Recognizes that the object is at rest and applies Newton's first law (sum of forces equals zero) in both directions along the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Friction direction identification",
+    "description": "Important: Correctly identifies that friction acts upward along the incline to oppose the net tendency of motion downward.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (Newtons) throughout the calculation and includes them in the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in components",
+    "description": "Pitfall: Makes sign errors when resolving forces, particularly confusing sine and cosine for the applied force components.",
+    "weight": -2
+  },
+  {
+    "title": "Missing friction direction",
+    "description": "Pitfall: Calculates only the magnitude of friction without specifying its direction along the incline.",
+    "weight": -1
+  }
+]

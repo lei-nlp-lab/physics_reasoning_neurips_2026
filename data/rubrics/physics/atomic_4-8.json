@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 0.44 mm.",
+    "weight": 5
+  },
+  {
+    "title": "Lifetime Calculation",
+    "description": "Important Criteria: The student should correctly calculate the time dilation using tau and gamma.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Traveled",
+    "description": "Important Criteria: The student must derive the distance traveled by the mesons using the time and speed of light.",
+    "weight": 4
+  },
+  {
+    "title": "Exponential Decay Setup",
+    "description": "Important Criteria: The student should set up the exponential decay equation correctly to find the time limit.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as miscalculating gamma or tau.",
+    "weight": -2
+  },
+  {
+    "title": "Resolution Interpretation",
+    "description": "Optional Criteria: The student should interpret the resolution requirement correctly in the context of the problem.",
+    "weight": 1
+  }
+]

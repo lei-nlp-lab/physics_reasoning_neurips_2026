@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Refractive index value",
+    "description": "Essential Criteria: The final answer for part (1) must be n = √6/2.",
+    "weight": 5
+  },
+  {
+    "title": "Total time expression",
+    "description": "Essential Criteria: The final answer for part (2) must be t = (√3 + 1)R / c.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Snell's Law at D",
+    "description": "Important Criteria: Correctly applies Snell's law (n = sin i / sin r) using the 60° incidence and 45° refraction angles at point D.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for angles at D",
+    "description": "Important Criteria: Correctly deduces the angle of incidence (i = 60°) and angle of refraction (r = 45°) at point D from the given distance √3 R/2 and DE = √2 R.",
+    "weight": 4
+  },
+  {
+    "title": "Path segmentation and speeds",
+    "description": "Important Criteria: Correctly segments the total time as t = (DE / v) + (EF / c), where v = c/n is the speed in the medium.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for segment EF",
+    "description": "Important Criteria: Correctly deduces that EF = R, likely from analyzing triangle EFO and the refraction at point E.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent units (R for distance, c for speed) leading to a final time with correct units of time.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or angle error",
+    "description": "Pitfall Criteria: Penalize misidentifying the incident or refracted angle at point D (e.g., using sine of 30° instead of 60°).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect speed in medium",
+    "description": "Pitfall Criteria: Penalize using the wrong speed for segment DE (e.g., using c instead of v = c/n).",
+    "weight": -2
+  }
+]

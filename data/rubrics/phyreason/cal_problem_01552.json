@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Energy loss calculation",
+    "description": "Essential: Correctly computes ΔE = (3/4)mg × horizontal displacement from A to B, yielding 27mgR/4.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at point D",
+    "description": "Essential: Correctly determines N = 13mg/4 by applying work-energy theorem to find v_D and Newton's second law at D.",
+    "weight": 5
+  },
+  {
+    "title": "No-detachment condition",
+    "description": "Essential: Correctly states both conditions: h ≥ 10R OR 24R/7 ≤ h ≤ 40R/7.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies work-energy theorem correctly, accounting for both gravitational and electric work along the path.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis at D",
+    "description": "Important: Recognizes that at point D, the centripetal force is provided by electric force and normal force, with gravity absent (horizontal position).",
+    "weight": 4
+  },
+  {
+    "title": "Resultant force analysis",
+    "description": "Important: For part (3), combines gravity and electric force into a constant resultant force to analyze circular motion conditions.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric calculations",
+    "description": "Optional: Correctly uses tan53° = 4/3 and other trigonometric relations for displacement components.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in electric work",
+    "description": "Pitfall: Uses wrong sign for electric force work (negative for conservative field thinking) instead of positive energy loss.",
+    "weight": -2
+  },
+  {
+    "title": "Missing electric force at D",
+    "description": "Pitfall: Omits electric force in centripetal force equation at point D, treating it as gravity-only scenario.",
+    "weight": -2
+  },
+  {
+    "title": "Incomplete detachment conditions",
+    "description": "Pitfall: Provides only one of the two required ranges for h in part (3).",
+    "weight": -1
+  }
+]

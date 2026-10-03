@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum distance time",
+    "description": "Essential: Correctly identifies that the distance is greatest when the speeds are equal, leading to t = 5 s.",
+    "weight": 5
+  },
+  {
+    "title": "First catch-up time",
+    "description": "Essential: Correctly solves for the first meeting time by equating displacements, yielding t = 10 s.",
+    "weight": 5
+  },
+  {
+    "title": "Second meeting total time",
+    "description": "Essential: Correctly calculates the total time from start to the second meeting as 19.2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration phase analysis",
+    "description": "Important: Correctly calculates displacements and times for car A's acceleration to 24 m/s and car B's corresponding uniform motion.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration phase analysis",
+    "description": "Important: Correctly calculates displacements and times for car A's deceleration to a stop and car B's corresponding uniform motion.",
+    "weight": 4
+  },
+  {
+    "title": "Gap calculation before final catch-up",
+    "description": "Important: Correctly determines the distance between the cars when A stops, setting up the final uniform motion catch-up.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses incorrect sign (e.g., positive) for the braking acceleration during the deceleration phase.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout all kinematic calculations.",
+    "weight": 1
+  }
+]

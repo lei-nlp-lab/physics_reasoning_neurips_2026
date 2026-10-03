@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates the speed at point B as 4 m/s using Newton's second law for circular motion and the given normal force.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal Distance BC",
+    "description": "Essential: Correctly determines the horizontal range from B to C as 3.2 m using projectile motion equations and the given height difference.",
+    "weight": 5
+  },
+  {
+    "title": "Time to Max Distance",
+    "description": "Essential: Correctly finds the time after leaving B to reach the point farthest from the incline as 0.4 s, using the geometry of the projectile's velocity relative to the slope.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance at B",
+    "description": "Important: Applies Newton's second law at point B, relating normal force, weight, centripetal force, and speed.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile Motion Setup",
+    "description": "Important: Correctly models the motion after B as projectile motion with initial horizontal velocity and identifies the landing condition on the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of Incline",
+    "description": "Important: Uses the relationship between the horizontal range, vertical drop, and the slope of the track BC to set up the correct equation for the landing point.",
+    "weight": 3
+  },
+  {
+    "title": "Distance from Track",
+    "description": "Optional: Correctly formulates the perpendicular distance from the projectile to the line BC as a function of time to find its maximum.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall: Misapplies the sign of forces at point B (e.g., adding weight and normal force incorrectly for centripetal force) or misinterprets the direction of the normal force.",
+    "weight": -2
+  },
+  {
+    "title": "Projectile Equation Error",
+    "description": "Pitfall: Uses incorrect kinematic equations for the projectile phase, such as wrong sign for gravitational acceleration or misrelating horizontal and vertical displacements.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum velocity correct",
+    "description": "Essential Criteria: The student's final answer for the maximum speed v_m must be 16 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal time correct",
+    "description": "Essential Criteria: The student's final answer for the time on the horizontal slide t_2 must be 6.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient correct",
+    "description": "Essential Criteria: The student's final answer for the coefficient of kinetic friction μ must be 0.25.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity reasoning",
+    "description": "Important Criteria: The student applies the average velocity formula (v_avg = (v_initial + v_final)/2) correctly to both the inclined and horizontal segments.",
+    "weight": 4
+  },
+  {
+    "title": "System of equations setup",
+    "description": "Important Criteria: The student sets up the correct simultaneous equations using l1 = (v_m/2)*(t - t_2) and l2 = (v_m/2)*t_2.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The student applies the work-energy theorem correctly, equating the net work to zero (or the change in kinetic energy to zero) over the entire path.",
+    "weight": 4
+  },
+  {
+    "title": "Friction work calculation",
+    "description": "Important Criteria: The student correctly calculates the total work done by friction as -μmg(l1 cos θ + l2).",
+    "weight": 3
+  },
+  {
+    "title": "Gravity work calculation",
+    "description": "Optional Criteria: The student explicitly identifies the work done by gravity on the incline as mgl1 sin θ.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall Criteria: The student makes a sign error in the work-energy equation, e.g., adding instead of subtracting the friction work.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall Criteria: The student uses an incorrect normal force on the incline (e.g., mg instead of mg cos θ) when calculating friction work.",
+    "weight": -2
+  }
+]

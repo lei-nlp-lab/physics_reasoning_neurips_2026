@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct initial flux",
+    "description": "Essential: Student states the magnetic flux through the plane is Φ₁ = B·S.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux after rotation",
+    "description": "Essential: Student calculates the flux after a 60° rotation as Φ₂ = B·S·cos(60°) = (1/2)BS.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change",
+    "description": "Essential: Student correctly calculates the change in flux as ΔΦ = Φ₂ - Φ₁ = - (1/2)BS.",
+    "weight": 5
+  },
+  {
+    "title": "Applies flux definition",
+    "description": "Important: Student uses the definition of magnetic flux (Φ = B·A or Φ = B·A·cosθ) correctly for both scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Identifies relevant area",
+    "description": "Important: Student recognizes that for the rotated frame, the relevant area is the component perpendicular to the field (S⊥ = S cosθ).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in change",
+    "description": "Pitfall: Student makes a sign error in the calculation of ΔΦ (e.g., states +0.5BS instead of -0.5BS).",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Student uses the wrong angle (e.g., uses sin(60°) or cos(30°) incorrectly) in the flux calculation after rotation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consideration",
+    "description": "Optional: Student includes or correctly infers the unit for magnetic flux (Weber, Wb).",
+    "weight": 1
+  }
+]

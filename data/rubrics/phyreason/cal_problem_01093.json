@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration magnitude",
+    "description": "Essential: Student must state the magnitude of acceleration as 2.5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Recognizes stopping time",
+    "description": "Important: Student must determine that the car stops at 8 seconds, not continue decelerating beyond that.",
+    "weight": 4
+  },
+  {
+    "title": "Final speed after 10s",
+    "description": "Essential: Student must state the speed after 10 seconds as 0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement calculation",
+    "description": "Essential: Student must calculate and state the displacement after 10 seconds as 80 m.",
+    "weight": 5
+  },
+  {
+    "title": "Uses kinematic equations",
+    "description": "Important: Student applies appropriate equations (v = v₀ + at, x = v₀t + ½at², or average velocity method) correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (m/s², m/s, m) with all numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Student incorrectly uses positive acceleration or confuses magnitude with vector value.",
+    "weight": -2
+  },
+  {
+    "title": "Continues motion after stop",
+    "description": "Pitfall: Student assumes car continues decelerating past 8 seconds, giving negative speed or extra displacement.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration for S",
+    "description": "Essential: The student's final answer for the centripetal acceleration of point S must be 4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration for Q",
+    "description": "Essential: The student's final answer for the centripetal acceleration of point Q must be 24 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "No-slip belt condition",
+    "description": "Important: The solution must correctly apply the condition that the linear speeds of points P and Q are equal due to the belt.",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity relationship",
+    "description": "Important: The solution must relate the angular velocities of the two wheels using their radii and the equal linear speed condition.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal acceleration formula",
+    "description": "Important: The solution must correctly apply the formula a = ω²r or a = v²/r for points on the same or different wheels.",
+    "weight": 4
+  },
+  {
+    "title": "Proportional reasoning for S",
+    "description": "Optional: The solution may use proportional reasoning (a ∝ r for same ω) to find the acceleration of point S relative to point P.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers should be presented with correct units (m/s²).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing linear and angular speed",
+    "description": "Pitfall: Penalize if the student incorrectly assumes the angular speeds of the two wheels are equal.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect radius for point S",
+    "description": "Pitfall: Penalize if the student uses the full wheel radius instead of (1/3)R for point S's centripetal acceleration calculation.",
+    "weight": -2
+  }
+]

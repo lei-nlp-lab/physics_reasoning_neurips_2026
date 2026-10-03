@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Essential final answers",
+    "description": "Essential Criteria: Student must provide the three angular velocities in correct symbolic form: ω₁ = √(μg/(2r)), ω₂ = √(3μg/(5r)), ω₃ = √(μg/r).",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force identification",
+    "description": "Important Criteria: Student must correctly identify that each mass requires centripetal force F_c = mω²r, with proper radii (r for A and B, 2r for C).",
+    "weight": 4
+  },
+  {
+    "title": "Friction force limits",
+    "description": "Important Criteria: Student must correctly state maximum static friction forces: f_max,A = 2μmg, f_max,B = μmg, f_max,C = 2μmg.",
+    "weight": 4
+  },
+  {
+    "title": "Tension onset condition",
+    "description": "Important Criteria: Student must recognize that tension appears when required centripetal force exceeds available friction, starting with outermost mass C.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance equations",
+    "description": "Important Criteria: Student must set up correct Newton's second law equations for each scenario, accounting for tensions and friction directions.",
+    "weight": 4
+  },
+  {
+    "title": "System analysis for ω₃",
+    "description": "Important Criteria: Student must analyze the entire system to find when friction on A vanishes, considering tensions and other friction forces.",
+    "weight": 3
+  },
+  {
+    "title": "Radius confusion",
+    "description": "Pitfall Criteria: Penalize if student uses incorrect radius for any mass (especially using r instead of 2r for C).",
+    "weight": -2
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall Criteria: Penalize if student uses incorrect mass values in friction or centripetal force calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall Criteria: Penalize if student misassigns direction of friction forces or tensions in equations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Student may verify dimensional consistency of final expressions (√(μg/r) has correct angular velocity units).",
+    "weight": 1
+  }
+]

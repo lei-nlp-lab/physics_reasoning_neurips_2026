@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Horizontal coordinate range",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as an interval, such as (-√3 R/3, 0].",
+    "weight": 5
+  },
+  {
+    "title": "Time range",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as an interval, such as [2R/c, 4√3 R/(3c)).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Snell's law",
+    "description": "Important: The solution must correctly apply the modified Snell's law for negative index, using |n| = sin(i)/sin(r).",
+    "weight": 4
+  },
+  {
+    "title": "Identify critical angle",
+    "description": "Important: The solution must identify the critical refraction angle r_c = arcsin(1/|n|) = 30° that determines the exit limit.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate optical path",
+    "description": "Important: The solution must correctly calculate the shortest (R) and longest (R/cos(30°)) geometric paths inside the material.",
+    "weight": 3
+  },
+  {
+    "title": "Relate speed and index",
+    "description": "Important: The solution must correctly state the speed in the medium as v = c/|n| = c/2.",
+    "weight": 3
+  },
+  {
+    "title": "Coordinate from geometry",
+    "description": "Optional: The solution may show the geometric derivation of the exit point's x-coordinate as x = -R tan(r).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in coordinate",
+    "description": "Pitfall: Penalize if the horizontal coordinate range is given with an incorrect sign or includes positive values.",
+    "weight": -2
+  },
+  {
+    "title": "Ignore absolute value",
+    "description": "Pitfall: Penalize if Snell's law is applied using n = -2 directly without taking the absolute value for angles.",
+    "weight": -1
+  }
+]

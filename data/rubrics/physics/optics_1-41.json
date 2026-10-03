@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Total Energy Radiated",
+    "description": "Essential Criteria: The total rate of energy radiated from the disk must be correctly calculated as 3.14 W.",
+    "weight": 5
+  },
+  {
+    "title": "Magnification Calculation",
+    "description": "Important Criteria: The student must correctly derive the magnification and relate object and image distances using the lens equation.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Flux Calculation",
+    "description": "Essential Criteria: The total energy flux reaching the 0.25 cm^2 disk must be estimated correctly as approximately 8.7 x 10^-4 W.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Energy Flux Reasoning",
+    "description": "Important Criteria: The reasoning behind the maximum energy flux into the disk must reference the second law of thermodynamics.",
+    "weight": 4
+  },
+  {
+    "title": "Solid Angle Calculation",
+    "description": "Optional Criteria: The calculation of the solid angle subtended by the lens at the source should be included for completeness.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in calculations or incorrect assumptions about the lens should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations to avoid unit mistakes.",
+    "weight": -1
+  }
+]

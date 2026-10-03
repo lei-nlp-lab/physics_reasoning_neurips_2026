@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum static friction",
+    "description": "Essential: Correctly calculates maximum static friction as 6 N using Hooke's Law with the 3 cm extension at motion onset.",
+    "weight": 5
+  },
+  {
+    "title": "Sliding friction force",
+    "description": "Essential: Correctly calculates sliding friction as 5 N using Hooke's Law with the 2.5 cm extension at constant velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Coefficient of kinetic friction",
+    "description": "Essential: Correctly calculates μ = 0.25 using f = μN with normal force N = mg.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: Recognizes that maximum static friction equals spring force when motion just begins.",
+    "weight": 3
+  },
+  {
+    "title": "Dynamic equilibrium condition",
+    "description": "Important: Recognizes that at constant velocity, sliding friction equals spring force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts cm to m correctly in Hooke's Law calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing static and kinetic",
+    "description": "Pitfall: Uses wrong spring extension (e.g., 11 cm instead of 3 cm extension) for static friction calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Uses wrong normal force (e.g., mg - spring vertical component) despite horizontal-only setup.",
+    "weight": -1
+  }
+]

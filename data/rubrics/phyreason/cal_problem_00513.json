@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final drift velocity expression",
+    "description": "Essential: The response must provide the correct final formula for the drift velocity: v_d = (U M) / (n e ρ ρ_0 L).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ohm's Law",
+    "description": "Important: The solution must correctly relate the applied voltage U to the current I using the conductor's resistance R = ρ_0 L / S.",
+    "weight": 4
+  },
+  {
+    "title": "Relate current to drift velocity",
+    "description": "Important: The solution must derive the microscopic current I = n_e e v_d S, where n_e is the free electron density.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate electron density",
+    "description": "Important: The solution must correctly express the free electron density n_e as (n ρ N_A) / M using the given macroscopic parameters.",
+    "weight": 3
+  },
+  {
+    "title": "Correct algebraic manipulation",
+    "description": "Optional: The solution shows clear, logical steps in combining the equations to solve for v_d without algebraic errors.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expression or intermediate steps demonstrate that the units for velocity (m/s) are obtained.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing resistivity and density",
+    "description": "Pitfall: Penalize if the symbols ρ (density) and ρ_0 (resistivity) are swapped or used incorrectly in formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Missing charge carrier link",
+    "description": "Pitfall: Penalize if the connection between molar quantity (n, M, N_A) and the number density of free electrons is omitted or wrong.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Energy Level Expression",
+    "description": "Essential Criteria: The derived expression for the energy levels of the He+ ion must be correct.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Energy Calculation",
+    "description": "Essential Criteria: The calculation of the energy in the magnetic field for the l = 1 state must be accurate.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Momentum Quantization",
+    "description": "Important Criteria: The application of angular momentum quantization in the derivation must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal Force Equation",
+    "description": "Important Criteria: The correct use of the centripetal force equation in the derivation is necessary.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Moment Derivation",
+    "description": "Important Criteria: The derivation of the magnetic moment from the orbital motion must be included.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The response should check for consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios could enhance the response.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the energy expressions must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that no critical factors are omitted in the final expressions.",
+    "weight": -2
+  }
+]

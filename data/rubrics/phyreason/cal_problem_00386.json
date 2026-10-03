@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential: The final answer for part (1) must be the numerical value √2 or its decimal equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct propagation time",
+    "description": "Essential: The final answer for part (2) must be expressed as (√2 l)/(2c) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry at face AB",
+    "description": "Important: The student must correctly identify the incident and refraction angles (45° and 30°) at the exit face AB using the given deviation.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Snell's Law",
+    "description": "Important: The student must apply Snell's law (n = sin(i)/sin(r)) correctly at the exit interface to find the refractive index.",
+    "weight": 4
+  },
+  {
+    "title": "Path length in medium",
+    "description": "Important: The student must correctly determine the geometric path length traveled inside the prism (e.g., l/2) from the given midpoint condition.",
+    "weight": 3
+  },
+  {
+    "title": "Speed from refractive index",
+    "description": "Important: The student must correctly relate the speed in the medium to the refractive index using v = c/n.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculation",
+    "description": "Optional: The student correctly calculates the time using t = (path length) / v, leading to the final expression.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or angle error",
+    "description": "Pitfall: Penalize if the student confuses the incident and refraction angles at the exit face, or misinterprets the 15° deviation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall: Penalize if the student provides a numerical answer without necessary symbolic constants (c, l) or makes a dimensional error in the time expression.",
+    "weight": -1
+  }
+]

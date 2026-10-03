@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Term Significance",
+    "description": "Essential Criteria - Identify the physical significance of each term in the Hamiltonian.",
+    "weight": 3
+  },
+  {
+    "title": "Dominant Term",
+    "description": "Essential Criteria - Correctly state which term dominates the interaction with the external field.",
+    "weight": 2
+  },
+  {
+    "title": "Eigenstate Verification",
+    "description": "Important Criteria - Show that (1, +1) is an eigenstate of H and derive its eigenvalue.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Observation",
+    "description": "Important Criteria - Describe how the decay can be detected through the transition to the (0, 0) state.",
+    "weight": 3
+  },
+  {
+    "title": "Eigenvalue Calculation",
+    "description": "Optional Criteria - Provide a clear calculation of the eigenvalue for the (1, +1) state.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Watch for sign mistakes or incorrect identification of dominant terms.",
+    "weight": -2
+  }
+]

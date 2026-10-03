@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field strength",
+    "description": "Essential: Correctly calculates the electric field strength E = W / (e * d_AB) to obtain 2500 V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U_CD",
+    "description": "Essential: Correctly calculates the potential difference between C and D using U_CD = E * CD * cos(60°) to obtain 100 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential at point C",
+    "description": "Essential: Correctly determines the electric potential at C relative to grounded plate B, finding φ_C = E * d_CB = 200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy at C",
+    "description": "Essential: Correctly computes the proton's electric potential energy at C using E_pC = e * φ_C to obtain 3.2e-17 J.",
+    "weight": 5
+  },
+  {
+    "title": "Work-potential difference relation",
+    "description": "Important: Applies the relationship W = q * U for work done by the electric field, connecting it to field strength.",
+    "weight": 3
+  },
+  {
+    "title": "Correct distance projection",
+    "description": "Important: Uses the component of the displacement along the field (CD * cosθ) when calculating U_CD.",
+    "weight": 3
+  },
+  {
+    "title": "Reference potential setup",
+    "description": "Important: Correctly handles the grounding of plate B (setting φ_B = 0) to find the potential at C.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work/energy",
+    "description": "Pitfall: Incorrectly assigns sign to work, potential difference, or potential energy for the positive proton.",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion mistake",
+    "description": "Pitfall: Fails to convert distances from cm to meters, leading to incorrect numerical results.",
+    "weight": -2
+  },
+  {
+    "title": "Distance misinterpretation",
+    "description": "Pitfall: Uses the straight-line distance CD without the cosine factor, or uses the wrong distance for d_CB.",
+    "weight": -2
+  }
+]

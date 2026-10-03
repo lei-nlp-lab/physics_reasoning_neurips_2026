@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Landing angle at C",
+    "description": "Essential: Correctly calculates the angle between velocity and horizontal at point C as 45° from projectile motion components.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure magnitude at D",
+    "description": "Essential: Correctly determines the magnitude of pressure exerted on the track at point D as 100 N using centripetal force and Newton's laws.",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity for no collision",
+    "description": "Essential: Correctly finds the initial velocity leaving the platform for smooth entry into circular track as 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "AB shortening distance",
+    "description": "Essential: Correctly calculates the shortened distance of segment AB as 0.3 m from horizontal displacement difference.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: Sets up correct projectile motion equations relating vertical displacement (h-h_C), time, and velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Energy/work on rough segment",
+    "description": "Important: Applies work-energy or kinematics with friction to find velocity at D from stopping distance on DE.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force at D",
+    "description": "Important: Uses Newton's second law with centripetal acceleration to find normal force at point D.",
+    "weight": 4
+  },
+  {
+    "title": "Tangent condition for entry",
+    "description": "Important: Recognizes that for smooth entry at C, velocity must be tangent to circular track (v_y/v_0 = tanθ).",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Makes sign errors in projectile equations, centripetal force direction, or energy/work signs.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and converts appropriately.",
+    "weight": 1
+  }
+]

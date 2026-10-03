@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Current through resistor",
+    "description": "Essential: Correctly calculates the current through the fixed resistor using Ohm's law with the voltage across it.",
+    "weight": 5
+  },
+  {
+    "title": "Motor input power",
+    "description": "Essential: Correctly calculates the total power consumed by the motor using the voltmeter reading and the circuit current.",
+    "weight": 5
+  },
+  {
+    "title": "Motor output power",
+    "description": "Essential: Correctly calculates the mechanical output power by subtracting the coil's thermal power from the total input power.",
+    "weight": 5
+  },
+  {
+    "title": "Voltage distribution reasoning",
+    "description": "Important: Recognizes the series circuit and correctly finds the voltage across the fixed resistor from the source and motor voltages.",
+    "weight": 4
+  },
+  {
+    "title": "Motor coil heating power",
+    "description": "Important: Calculates the power dissipated as heat in the motor's coil using its resistance and the circuit current.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (A, V, W, Ω) in all intermediate and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect voltage assignment",
+    "description": "Pitfall: Misinterprets the voltmeter reading as the voltage across the resistor or the full source voltage.",
+    "weight": -2
+  },
+  {
+    "title": "Power formula confusion",
+    "description": "Pitfall: Uses an incorrect formula (e.g., V²/R or I²R) with wrong voltages/currents to find motor input or output power.",
+    "weight": -2
+  }
+]

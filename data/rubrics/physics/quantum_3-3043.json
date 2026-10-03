@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final State Expression",
+    "description": "Essential Criteria: The student must correctly express the state |psi(t) in terms of the |s_z eigenstates.",
+    "weight": 5
+  },
+  {
+    "title": "Expectation Value s_z",
+    "description": "Essential Criteria: The student must provide the correct expectation value for s_z as a function of time.",
+    "weight": 5
+  },
+  {
+    "title": "Expectation Value s_y",
+    "description": "Important Criteria: The student should correctly identify that the expectation value for s_y is zero.",
+    "weight": 3
+  },
+  {
+    "title": "Expectation Value s_x",
+    "description": "Important Criteria: The student must derive the correct expectation value for s_x as a function of time.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Expression",
+    "description": "Important Criteria: The student should correctly state the Hamiltonian of the system.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the expectation values.",
+    "weight": -2
+  },
+  {
+    "title": "Initial Condition Application",
+    "description": "Important Criteria: The student should correctly apply the initial condition to find coefficients c_1 and c_2.",
+    "weight": 4
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Closest Distance",
+    "description": "Essential Criteria: The student must correctly derive the expression for the closest distance R.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Deflection",
+    "description": "Essential Criteria: The student must correctly derive the expression for the angular deflection in terms of cot(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Differential Cross Section",
+    "description": "Essential Criteria: The student must correctly derive the expression for the differential scattering cross section dσ/dΩ.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should apply conservation of energy correctly in the derivation of R.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Conservation",
+    "description": "Important Criteria: The student should apply conservation of angular momentum correctly to relate V and R.",
+    "weight": 4
+  },
+  {
+    "title": "Impulse Calculation",
+    "description": "Important Criteria: The student should correctly set up and evaluate the impulse of the force acting on the particle.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure all units are consistent throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the equations, especially in the impulse calculation.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final force expression",
+    "description": "Essential: The student's final answer for part (1) must be equivalent to F = μmg / (sin θ - μ cos θ).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final tangent",
+    "description": "Essential: The student's final answer for part (2) must be tan θ₀ = μ.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution must correctly resolve the applied force and write vertical (N = F cos θ + mg) and horizontal (F sin θ = f) equilibrium equations.",
+    "weight": 4
+  },
+  {
+    "title": "Friction law application",
+    "description": "Important: The solution must correctly apply the kinetic friction law f = μN when solving for constant speed in part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Inequality derivation for motion",
+    "description": "Important: For part (2), the solution must derive the condition for impossibility of motion (e.g., sin θ - μ cos θ ≤ 0) from the force equations and the requirement F → ∞.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric manipulation",
+    "description": "Optional: The solution may show clear steps in solving the simultaneous equations and manipulating the inequality to find tan θ₀.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Penalize if the student incorrectly writes the vertical equilibrium as N + F cos θ = mg, missing that both forces push down.",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction mistake",
+    "description": "Pitfall: Penalize if the student misidentifies the direction of the friction force relative to the applied horizontal component.",
+    "weight": -1
+  },
+  {
+    "title": "Confusing static/kinetic friction",
+    "description": "Pitfall: Penalize if the student incorrectly uses static friction (or a wrong coefficient) for the constant-speed condition in part (1).",
+    "weight": -1
+  }
+]

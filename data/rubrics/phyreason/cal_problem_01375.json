@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum time heading",
+    "description": "Essential: The student must state the boat heads perpendicular to the riverbank (or directly across).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum time calculation",
+    "description": "Essential: The student must correctly compute the crossing time using t = d / v2, yielding 36 s.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum distance heading",
+    "description": "Important: The student must determine the boat heads upstream at an angle θ such that sin θ = v1/v2 (or θ = 30°).",
+    "weight": 4
+  },
+  {
+    "title": "Resultant velocity for minimum time",
+    "description": "Important: The student must correctly find the resultant speed (e.g., sqrt(v1² + v2²)) to compute the displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Minimum distance displacement",
+    "description": "Essential: The student must state the displacement equals the river width (180 m) when crossing directly across.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum distance time",
+    "description": "Important: The student must correctly compute the crossing time using t' = d / (v2 cos θ), yielding approximately 41.6 s.",
+    "weight": 4
+  },
+  {
+    "title": "Vector component reasoning",
+    "description": "Optional: The student clearly resolves velocities into perpendicular and parallel components for both parts.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: The student incorrectly assigns the heading direction (e.g., downstream for minimum distance) or misplaces the angle.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: The student provides numerical answers without correct units (s, m) or uses inconsistent units.",
+    "weight": -1
+  }
+]

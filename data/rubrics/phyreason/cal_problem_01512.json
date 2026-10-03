@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Geostationary velocity expression",
+    "description": "Essential: The final answer for part (1) must be expressed as v = (13.2πR)/T or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration at perigee expression",
+    "description": "Essential: The final answer for part (2) must be expressed as a = (gR²)/(R+h)² or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct orbital radius",
+    "description": "Important: The solution must correctly use the geostationary orbital radius as R + 5.6R = 6.6R for the velocity calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law application",
+    "description": "Important: The solution must apply Newton's law of gravitation (F=GMm/r²) to relate the satellite's acceleration to the gravitational field.",
+    "weight": 4
+  },
+  {
+    "title": "Elimination of GM",
+    "description": "Important: The solution must correctly use the surface gravity relation (g = GM/R²) to eliminate the product GM from the acceleration equation.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion relation",
+    "description": "Optional: The solution may explicitly state the relation between linear velocity, radius, and period (v=2πr/T) for the geostationary orbit.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution may include a check that the final expressions have correct units for velocity and acceleration.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius for acceleration",
+    "description": "Pitfall: Using an incorrect orbital radius (e.g., using 5.6R instead of 6.6R, or using h incorrectly) in the acceleration or velocity formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Making an algebraic mistake when solving for acceleration, such as incorrectly inverting the radius ratio or misplacing a squared term.",
+    "weight": -1
+  }
+]

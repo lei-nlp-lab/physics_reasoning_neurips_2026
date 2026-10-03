@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for k",
+    "description": "Essential Criteria: The student must provide the correct expression for the wave vector k in terms of frequency omega.",
+    "weight": 5
+  },
+  {
+    "title": "Final Expression for Threshold Frequency",
+    "description": "Essential Criteria: The student must derive and present the correct expression for the threshold frequency omega_p.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Damping Parameter",
+    "description": "Important Criteria: The student should correctly incorporate the damping parameter gamma in the derivation before setting it to zero.",
+    "weight": 3
+  },
+  {
+    "title": "Understanding of Permittivity",
+    "description": "Important Criteria: The student must demonstrate understanding of how permittivity epsilon relates to the density of conduction electrons and the derived expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: The student should clarify any assumptions made during the derivation, such as the negligible variation of epsilon from epsilon_0.",
+    "weight": 2
+  },
+  {
+    "title": "Correct Units",
+    "description": "Pitfall Criteria: The student must ensure that all derived expressions have correct units throughout the derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the equations, particularly when dealing with forces and electric fields.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity of Steps",
+    "description": "Optional Criteria: The student should present the derivation steps clearly and logically to enhance understanding.",
+    "weight": 1
+  }
+]

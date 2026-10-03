@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct AB distance",
+    "description": "Essential: The final expression for AB distance must be equivalent to $\frac{(2x_0 - gt_0^2)^2}{8gt_0^2}$.",
+    "weight": 5
+  },
+  {
+    "title": "Correct A-to-C time",
+    "description": "Essential: The final expression for the time from A to C must be equivalent to $\frac{t_1^2 + t_2^2}{2(t_1 - t_2)}$.",
+    "weight": 5
+  },
+  {
+    "title": "Apply motion equations to BC",
+    "description": "Important: For part (1), correctly uses the equation $x_0 = v_B t_0 + \frac{1}{2}gt_0^2$ to relate BC distance, time, and velocity at B.",
+    "weight": 4
+  },
+  {
+    "title": "Relate AB to velocity at B",
+    "description": "Important: For part (1), correctly uses $v_B^2 = 2g(AB)$ for motion starting from rest at A to point B.",
+    "weight": 4
+  },
+  {
+    "title": "Set up BC and CD equations",
+    "description": "Important: For part (2), writes correct equations for equal distances: $x = v_C t_1 - \frac{1}{2}a t_1^2$ and $x = v_C t_2 + \frac{1}{2}a t_2^2$.",
+    "weight": 4
+  },
+  {
+    "title": "Solve for acceleration and v_C",
+    "description": "Important: For part (2), correctly solves the simultaneous equations to find $v_C$ and/or $a$ in terms of $t_1$ and $t_2$.",
+    "weight": 3
+  },
+  {
+    "title": "Use time from rest formula",
+    "description": "Optional: For part (2), explicitly states and uses $t_{AC} = v_C / a$ for motion starting from rest.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in CD equation",
+    "description": "Pitfall: Incorrectly uses the same sign for the acceleration term in both BC and CD displacement equations.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic simplification error",
+    "description": "Pitfall: Makes an algebraic mistake when solving the simultaneous equations, leading to an incorrect final expression.",
+    "weight": -1
+  }
+]

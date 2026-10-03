@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Wave Functions",
+    "description": "Essential Criteria: The student must correctly write down the antisymmetrized wave functions for the two-electron system.",
+    "weight": 5
+  },
+  {
+    "title": "Matrix Element Setup",
+    "description": "Important Criteria: The student should correctly set up the expression for the matrix element involving the interaction Hamiltonian.",
+    "weight": 4
+  },
+  {
+    "title": "Correctness of Terms",
+    "description": "Important Criteria: The student must correctly identify and include all relevant terms in the matrix element expression.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry Argument",
+    "description": "Important Criteria: The student should provide a clear explanation of the symmetry argument used to show the correctness of the matrix element expression.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors when writing the matrix element expression.",
+    "weight": -2
+  }
+]

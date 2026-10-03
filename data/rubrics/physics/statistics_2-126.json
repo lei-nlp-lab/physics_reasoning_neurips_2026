@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Pressure Equation",
+    "description": "Essential Criteria: The student must correctly derive the pressure as p = NkT/V.",
+    "weight": 5
+  },
+  {
+    "title": "Final Entropy Equation",
+    "description": "Essential Criteria: The student must correctly derive the entropy as S = Nk(3 ln kT + ln(8πV/Nh^3c^3) + 4).",
+    "weight": 5
+  },
+  {
+    "title": "Final Specific Heat Equation",
+    "description": "Essential Criteria: The student must correctly derive the specific heat as c = 3Nk.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Partition Function",
+    "description": "Important Criteria: The student should correctly express the partition function and its implications for the calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure Derivation Steps",
+    "description": "Important Criteria: The student must show the correct steps in deriving pressure from the partition function.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Calculation Steps",
+    "description": "Important Criteria: The student should demonstrate the correct steps in calculating entropy from the partition function.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the derivation of equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that no factors are omitted in the final expressions.",
+    "weight": -2
+  }
+]

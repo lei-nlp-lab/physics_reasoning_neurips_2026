@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Essential Criteria: The Hamiltonian must be correctly expressed as H = H0 + H with appropriate terms.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenfunctions and Degeneracy",
+    "description": "Important Criteria: The student should correctly identify the eigenfunctions and explain the degeneracy of the energy levels.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Corrections",
+    "description": "Essential Criteria: The calculation of the first and second order energy corrections must be accurate and complete.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Applicability",
+    "description": "Important Criteria: The explanation of why non-degenerate perturbation theory is applicable must be clear and correct.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect assumptions about degeneracy must be penalized.",
+    "weight": -2
+  }
+]

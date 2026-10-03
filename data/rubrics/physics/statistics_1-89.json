@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Magnetization Expression",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for magnetization M as a function of external magnetic field B.",
+    "weight": 5
+  },
+  {
+    "title": "Convexity Principle Statement",
+    "description": "Essential Criteria: The student must accurately state the convexity principle of free energy in thermodynamics.",
+    "weight": 5
+  },
+  {
+    "title": "Second Derivative Check",
+    "description": "Important Criteria: The student must compute the second derivative of the free energy with respect to M and check its sign for convexity.",
+    "weight": 4
+  },
+  {
+    "title": "Thermodynamic Implications",
+    "description": "Important Criteria: The student must discuss the implications of violating the convexity principle with a relevant example.",
+    "weight": 4
+  },
+  {
+    "title": "Correctness of Units",
+    "description": "Optional Criteria: The student should ensure that all units in their calculations are consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or misinterpretation of the conditions for M.",
+    "weight": -2
+  }
+]

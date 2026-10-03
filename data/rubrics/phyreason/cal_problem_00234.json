@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Constant current source value",
+    "description": "Essential: The student's final answer for part (1) must be I = 80 A.",
+    "weight": 5
+  },
+  {
+    "title": "Coil resistance value",
+    "description": "Essential: The student's final answer for part (2) must be R = 0.5 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Time t3 value",
+    "description": "Essential: The student's final answer for part (3) must be t3 = (√5 + 3)/2 s or its numerical equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law for launch",
+    "description": "Important: The solution must apply Newton's second law to the launch phase (0 to t1) to relate the magnetic force to the total mass and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force expression",
+    "description": "Important: The solution must correctly use the formula for the magnetic force on the coil (F = n B I l) during both the launch and retraction phases.",
+    "weight": 4
+  },
+  {
+    "title": "Retraction phase dynamics",
+    "description": "Important: The solution must set up the equation of motion for the retraction phase (t1 to t3), incorporating the applied force F, the magnetic damping force, and the resulting acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Charge and impulse analysis",
+    "description": "Important: For finding t3, the solution must link the change in magnetic flux to induced charge and apply the impulse-momentum theorem to the retraction phase after t2.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Deduct points if the student misassigns the direction (sign) of the magnetic force during the retraction phase, treating it as an accelerating instead of a damping force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award points if the student explicitly shows unit analysis or conversion for key equations, confirming dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Alternative solution path",
+    "description": "Optional: Award points if the student presents a valid, clearly explained alternative method for any part (e.g., using energy considerations for the launch phase).",
+    "weight": 1
+  }
+]

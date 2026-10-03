@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates the electric field magnitude as E = (mg tanθ)/q or its simplified form (√3 mg)/(3q).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Essential: States the electric field direction is horizontal and to the right (or opposite the electric force on the positive charge).",
+    "weight": 4
+  },
+  {
+    "title": "Speed at lowest point",
+    "description": "Essential: Correctly calculates the speed at point C using energy conservation, resulting in v = √[2gL(1 - √3/3)] or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Tension at lowest point",
+    "description": "Essential: Correctly calculates the tension at point C using Newton's second law for circular motion, resulting in T = 3mg - (2√3/3)mg or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Applies force balance (horizontal and vertical) at the initial equilibrium point A to relate electric force, tension, and weight.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Correctly applies the work-energy theorem between points B and C, accounting for work done by both gravity and the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important: Applies Newton's second law at point C, identifying the net force (T - mg) as the centripetal force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses incorrect sign for the work done by the electric field in the energy equation (e.g., adds instead of subtracts).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the solution or explicitly includes them in final answers.",
+    "weight": 1
+  }
+]

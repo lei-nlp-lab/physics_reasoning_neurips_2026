@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Angular velocity ratio",
+    "description": "Essential: The final ratio ω_A:ω_B must be correctly calculated as 8:1 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal acceleration ratio",
+    "description": "Essential: The final ratio a_A:a_B must be correctly calculated as 16:1 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Apply ω = 2π/T",
+    "description": "Important: The relationship ω = 2π/T must be used to connect angular velocity to the given periods.",
+    "weight": 3
+  },
+  {
+    "title": "Apply Kepler's Third Law",
+    "description": "Important: Kepler's Third Law (r³ ∝ T²) must be used to find the ratio of orbital radii.",
+    "weight": 4
+  },
+  {
+    "title": "Combine for acceleration",
+    "description": "Important: The formula a = ω²r must be correctly combined with the ratios for ω and r to find a_A/a_B.",
+    "weight": 4
+  },
+  {
+    "title": "Correct exponent handling",
+    "description": "Pitfall: Deduct points for algebraic errors in simplifying (T_B/T_A)² * (T_A/T_B)^(2/3) to (T_B/T_A)^(4/3).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or ratio format",
+    "description": "Optional: The answer is presented as a simplified ratio (e.g., 8:1) without extraneous units or factors of π.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Antisymmetry Condition",
+    "description": "Essential Criteria: The wave function must satisfy the antisymmetry condition for identical fermions.",
+    "weight": 5
+  },
+  {
+    "title": "Pauli Exclusion Principle",
+    "description": "Important Criteria: Explain how the antisymmetry condition leads to the Pauli exclusion principle.",
+    "weight": 4
+  },
+  {
+    "title": "Possible L and S Values",
+    "description": "Essential Criteria: Identify the possible values of L and S for the given electron configuration.",
+    "weight": 5
+  },
+  {
+    "title": "Spatial Wave Function Form",
+    "description": "Important Criteria: Provide the correct form of the spatial part of the wave functions using the single-particle functions.",
+    "weight": 4
+  },
+  {
+    "title": "Lowest Energy State Reasoning",
+    "description": "Important Criteria: Justify which state has the lowest energy and explain the reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the antisymmetry condition or wave function expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Quantum Numbers",
+    "description": "Pitfall Criteria: Ensure that all quantum numbers are correctly identified and stated.",
+    "weight": -1
+  }
+]

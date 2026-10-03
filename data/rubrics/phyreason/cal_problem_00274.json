@@ -1,0 +1,47 @@
+[
+  {
+    "title": "String length calculation",
+    "description": "Essential Criteria: Must correctly derive and state l = H/3 = 1.8 m.",
+    "weight": 5
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Essential Criteria: Must correctly derive and state t_total = 2t = 1.2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall kinematics application",
+    "description": "Important Criteria: Must apply s = ½gt² and v² = 2gs for the initial free-fall phase.",
+    "weight": 4
+  },
+  {
+    "title": "Post-break motion analysis",
+    "description": "Important Criteria: Must correctly set up the equation for displacement after the break using v' = v/2 and the given time t.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric constraint setup",
+    "description": "Important Criteria: Must recognize that the sum of the string length and the post-break displacement equals the total height H.",
+    "weight": 3
+  },
+  {
+    "title": "Time symmetry recognition",
+    "description": "Optional Criteria: May note that the time from break to ground equals the initial free-fall time t.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: May include correct units (m, s) with final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall Criteria: Incorrect sign in the kinematic equation for the post-break motion (e.g., using -½gt²).",
+    "weight": -2
+  },
+  {
+    "title": "Velocity relationship misuse",
+    "description": "Pitfall Criteria: Misapplying the condition v' = v/2 (e.g., using it at the wrong instant or for energy).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct velocity of B",
+    "description": "Essential: Student must state or calculate v_B = -1.5 m/s (or equivalent magnitude with correct sign/direction).",
+    "weight": 5
+  },
+  {
+    "title": "Correct elastic potential energy",
+    "description": "Essential: Student must state or calculate E_P = 22.5 J.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final velocity of C",
+    "description": "Essential: Student must state or calculate v_C = 0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation for ejection",
+    "description": "Important: Student applies momentum conservation to the spring ejection (system A+B+C) to find v_B.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for spring",
+    "description": "Important: Student uses conservation of mechanical energy (elastic PE converts to kinetic energy of A and B) to find E_P.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation for collisions",
+    "description": "Important: Student applies momentum conservation to the final state (A and B stuck to C) to find v_C.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student makes a sign error in momentum conservation (e.g., treating v_A and v_B as both positive).",
+    "weight": -2
+  },
+  {
+    "title": "System isolation error",
+    "description": "Pitfall: Student incorrectly includes the plank's mass in the spring ejection momentum/energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows units consistently in calculations or final answers.",
+    "weight": 1
+  }
+]

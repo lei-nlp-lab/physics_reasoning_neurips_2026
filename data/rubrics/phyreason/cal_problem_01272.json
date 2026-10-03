@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Distance at signal reception",
+    "description": "Essential: Correctly calculates the distance from car A to detector B when the ultrasonic signal is received, obtaining 340 m.",
+    "weight": 5
+  },
+  {
+    "title": "Total braking time",
+    "description": "Essential: Correctly determines the total time from signal reception to full stop, obtaining 2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the car's acceleration during braking, obtaining 5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Initial velocity",
+    "description": "Essential: Correctly calculates the car's initial velocity at the start of braking, obtaining 10 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Signal travel reasoning",
+    "description": "Important: Applies the correct relationship for the ultrasonic signal's round-trip travel time and distance to find the reception point.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: Correctly uses kinematics equations (e.g., s = 1/2 a t², v = a t) for uniformly decelerated motion to link displacement, time, acceleration, and initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Infrared signal assumption",
+    "description": "Optional: Explicitly states or uses the assumption that the infrared signal travel time is negligible.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses acceleration with incorrect sign (positive for deceleration) or misinterprets the direction of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting signal times",
+    "description": "Pitfall: Incorrectly equates the ultrasonic signal's one-way travel time with the total braking time or misapplies the 3:1 distance ratio.",
+    "weight": -2
+  }
+]

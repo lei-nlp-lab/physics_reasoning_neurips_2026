@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct angle θ",
+    "description": "Essential: Student's final answer for part (1) must be θ = 30°.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient μ",
+    "description": "Essential: Student's final answer for part (2) must be μ = √3 / 5.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on ball",
+    "description": "Important: Student must apply Newton's first law to the ball, resolving tension and applied force into horizontal and vertical components.",
+    "weight": 4
+  },
+  {
+    "title": "System force balance",
+    "description": "Important: Student must correctly analyze the combined block-ball system to find the normal force and relate friction to the applied horizontal force.",
+    "weight": 4
+  },
+  {
+    "title": "Friction law application",
+    "description": "Important: Student must correctly apply the kinetic friction formula, F_f = μ F_N, to the system.",
+    "weight": 3
+  },
+  {
+    "title": "Simultaneous equation solving",
+    "description": "Optional: Student demonstrates clear algebraic manipulation to solve for θ and T from the ball's equilibrium equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student's work shows awareness that the final coefficient μ is dimensionless.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in vertical forces",
+    "description": "Pitfall: Incorrectly summing vertical forces on the ball (e.g., wrong sign for F sin30° or mg).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Calculating normal force on the system without including the vertical component of the applied force F.",
+    "weight": -2
+  }
+]

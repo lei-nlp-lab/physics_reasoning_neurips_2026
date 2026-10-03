@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: The student's final answer for U_AB must be -75 V (or equivalent, e.g., -75 J/C).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final velocity",
+    "description": "Essential: The student's final answer for v_B must be 5√10 m/s (or approximately 15.81 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Apply potential difference definition",
+    "description": "Important: The solution correctly uses the formula U_AB = W_AB / q to relate work and charge.",
+    "weight": 4
+  },
+  {
+    "title": "Apply work-energy theorem",
+    "description": "Important: The solution uses the work-energy theorem (or conservation of energy) to relate work, mass, and the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Interpret work sign and direction",
+    "description": "Important: The reasoning correctly interprets that positive work by the electrostatic force on a negative charge implies movement against the field, affecting the sign of U_AB.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution includes proper unit analysis or explicitly states units for intermediate and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: The student calculates U_AB as +75 V, ignoring the sign of the charge or the meaning of positive work.",
+    "weight": -2
+  },
+  {
+    "title": "Kinetic energy formula error",
+    "description": "Pitfall: The student incorrectly applies the work-energy theorem, e.g., using v_B = sqrt(2W/m) without including the initial kinetic energy.",
+    "weight": -2
+  }
+]

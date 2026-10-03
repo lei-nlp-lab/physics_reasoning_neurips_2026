@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Wave type identification",
+    "description": "Essential: Student correctly identifies radar waves as electromagnetic waves.",
+    "weight": 5
+  },
+  {
+    "title": "Wave speed value",
+    "description": "Essential: Student states the correct speed of electromagnetic waves in air/vacuum (3.0 × 10⁸ m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: Student correctly calculates the wavelength using λ = c/f, yielding 2 × 10⁻² m.",
+    "weight": 5
+  },
+  {
+    "title": "Distance interpretation",
+    "description": "Important: Student recognizes that the given time intervals correspond to round-trip times and correctly halves them to find one-way distances.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important: Student correctly sets up the distances x₁ = c·t₁/2 and x₂ = c·t₂/2, accounting for the plane moving toward the radar.",
+    "weight": 4
+  },
+  {
+    "title": "Plane displacement calculation",
+    "description": "Important: Student correctly calculates the plane's displacement as Δx = x₁ - x₂ = (c/2)(t₁ - t₂) = 300 m.",
+    "weight": 4
+  },
+  {
+    "title": "Speed calculation",
+    "description": "Essential: Student correctly computes the plane's speed as v = Δx/Δt, where Δt = 0.8 s, yielding 375 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student incorrectly treats the time difference as t₂ - t₁, resulting in a negative speed or wrong magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student explicitly shows unit conversions or dimensional analysis, especially for time intervals.",
+    "weight": 1
+  }
+]

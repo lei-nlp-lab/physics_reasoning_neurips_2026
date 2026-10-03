@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Threshold Energy Calculation",
+    "description": "Essential Criteria: Correctly calculate the threshold gamma-ray energy as E_gamma = m_pi c^2 (1 + m_pi/(2m_p)) = 145 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Proton Energy Calculation",
+    "description": "Essential Criteria: Correctly determine the minimum proton energy using E_p = gamma m_p c^2 = 6.787 x 10^10 GeV.",
+    "weight": 5
+  },
+  {
+    "title": "Cosmic Ray Implications",
+    "description": "Important Criteria: Provide a clear explanation of the implications for cosmic-ray protons based on the calculated energy threshold.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Application",
+    "description": "Important Criteria: Properly apply the invariant mass concept in the calculations for both parts (a) and (b).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Units",
+    "description": "Optional Criteria: Use correct units throughout the calculations, ensuring clarity in MeV and GeV.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in energy and momentum calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure all necessary factors, such as c^2, are included in the energy calculations.",
+    "weight": -1
+  }
+]

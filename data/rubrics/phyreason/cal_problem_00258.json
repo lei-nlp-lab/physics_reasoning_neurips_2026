@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct first average",
+    "description": "Essential Criteria: The answer for part (1) must be the arithmetic mean (v₁ + v₂)/2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct second average",
+    "description": "Essential Criteria: The answer for part (2) must be the harmonic mean 2v₁'v₂'/(v₁' + v₂').",
+    "weight": 5
+  },
+  {
+    "title": "Uses time halves definition",
+    "description": "Important Criteria: For part (1), the solution must define total displacement as the sum of displacements in two equal time intervals.",
+    "weight": 3
+  },
+  {
+    "title": "Uses displacement halves definition",
+    "description": "Important Criteria: For part (2), the solution must define total time as the sum of times for two equal displacements.",
+    "weight": 3
+  },
+  {
+    "title": "Clear variable definitions",
+    "description": "Optional Criteria: The response clearly defines symbols for time intervals or displacements before applying formulas.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses average formulas",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses the arithmetic mean for part (2) or harmonic mean for part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Optional Criteria: The final expressions are simplified and clearly presented.",
+    "weight": 1
+  }
+]

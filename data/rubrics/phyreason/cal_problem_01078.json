@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates acceleration as 5 m/s² using displacement formula with t=6s and x=90m.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at 4 seconds",
+    "description": "Essential: Correctly calculates final speed as 20 m/s using v = at with a=5 m/s² and t=4s.",
+    "weight": 5
+  },
+  {
+    "title": "Third-second displacement",
+    "description": "Essential: Correctly calculates displacement during 3rd second as 12.5 m using difference between positions at t=3s and t=2s.",
+    "weight": 5
+  },
+  {
+    "title": "Uniform acceleration reasoning",
+    "description": "Important: Applies kinematics formulas for uniformly accelerated motion with zero initial velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Third-second method",
+    "description": "Important: Recognizes that displacement during nth second requires subtracting positions at t=n-1 and t=n.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses negative acceleration or incorrect sign in kinematics equations.",
+    "weight": -2
+  },
+  {
+    "title": "Third-second misunderstanding",
+    "description": "Pitfall: Calculates total displacement at t=3s (22.5 m) instead of displacement during 3rd second only.",
+    "weight": -2
+  }
+]

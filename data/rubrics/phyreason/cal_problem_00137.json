@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly stated as F = 3Mg.",
+    "weight": 5
+  },
+  {
+    "title": "Distance traveled",
+    "description": "Essential: The final answer for part (2) must be correctly stated as L = v₀²/(4g).",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis and acceleration",
+    "description": "Important: Correctly applies Newton's second law to find the constant acceleration (a = -2g) using the net force (Mg - F).",
+    "weight": 4
+  },
+  {
+    "title": "Motional EMF derivation",
+    "description": "Important: Correctly formulates the induced EMF as E = B₂ * d * v, using the magnetic field in the lower region.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit voltage relationship",
+    "description": "Important: Correctly applies Kirchhoff's law or Ohm's law to relate output voltage U, induced EMF E, and current I (U + E = IR).",
+    "weight": 4
+  },
+  {
+    "title": "Energy output integration",
+    "description": "Important: Correctly sets up and integrates the power (P=U*I) over time to find the total energy output W.",
+    "weight": 4
+  },
+  {
+    "title": "Energy recovery identification",
+    "description": "Optional: For part (6), identifies that the recoverable energy comes from the system's initial mechanical energy (kinetic + gravitational potential).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force/acceleration",
+    "description": "Pitfall: Incorrect sign in the equation of motion (e.g., Mg + F = Ma) leading to wrong acceleration and subsequent answers.",
+    "weight": -2
+  },
+  {
+    "title": "Magnetic field confusion",
+    "description": "Pitfall: Using the wrong magnetic field (B₁ instead of B₂) for calculating the motional EMF or the Ampere force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or constant mishandling",
+    "description": "Pitfall: Failing to correctly substitute the given expression for d (d = 3Mg/(kI²)) and the relation B₁ = kI to simplify results.",
+    "weight": -1
+  }
+]

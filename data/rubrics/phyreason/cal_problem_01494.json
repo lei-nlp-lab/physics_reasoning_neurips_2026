@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Speed at B",
+    "description": "Essential: Correctly calculates v_B = 10 m/s using energy conservation from A to B.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at first collision",
+    "description": "Essential: Correctly calculates v_C = 9 m/s using energy conservation with friction from B to C.",
+    "weight": 5
+  },
+  {
+    "title": "Number of collisions",
+    "description": "Essential: Correctly determines n = 3 by analyzing total travel distance before stopping.",
+    "weight": 5
+  },
+  {
+    "title": "Final rest position",
+    "description": "Essential: Correctly calculates the final stopping distance from B as 7 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies work-energy theorem correctly for frictionless and frictional segments.",
+    "weight": 4
+  },
+  {
+    "title": "Friction work calculation",
+    "description": "Important: Correctly computes work done by friction as μmg × distance for each pass.",
+    "weight": 4
+  },
+  {
+    "title": "Collision distance analysis",
+    "description": "Important: Recognizes that each round trip between B and C covers 2×9.5 m after the first collision.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Uses incorrect sign for friction work in energy equations (should be negative).",
+    "weight": -2
+  },
+  {
+    "title": "Collision count mistake",
+    "description": "Pitfall: Miscounts collisions by misunderstanding the travel pattern or final partial trip.",
+    "weight": -2
+  }
+]

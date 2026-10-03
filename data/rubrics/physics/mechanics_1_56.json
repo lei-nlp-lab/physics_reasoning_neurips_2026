@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Velocity (Earth)",
+    "description": "Essential Criteria: The student must provide the correct expression for the velocity relative to Earth, v_r.",
+    "weight": 5
+  },
+  {
+    "title": "Final Time to Mars",
+    "description": "Essential Criteria: The student must provide the correct expression for the time taken to reach Mars, t.",
+    "weight": 5
+  },
+  {
+    "title": "Final Velocity (Mars)",
+    "description": "Essential Criteria: The student must provide the correct expression for the velocity relative to Mars, v'_r.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate the application of energy conservation principles in deriving the velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Kepler's Third Law",
+    "description": "Important Criteria: The student should correctly apply Kepler's third law to find the time taken to reach Mars.",
+    "weight": 4
+  },
+  {
+    "title": "Direction of Launch",
+    "description": "Optional Criteria: The student may mention the direction of launch relative to Earth's orbit.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student may make sign errors when calculating velocities relative to Earth and Mars.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student may neglect to include necessary gravitational factors in their calculations.",
+    "weight": -2
+  }
+]

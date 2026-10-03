@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct initial flux",
+    "description": "Essential: Student calculates Φ₁ = B·S = 2×10⁻³ Wb with correct area (0.01 m²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct 60° flux",
+    "description": "Essential: Student calculates Φ₂ = B·S·cos60° = 1×10⁻³ Wb using correct angle.",
+    "weight": 5
+  },
+  {
+    "title": "Correct 180° flux change",
+    "description": "Essential: Student calculates ΔΦ = 2B·S = 4×10⁻³ Wb, recognizing flux reversal.",
+    "weight": 5
+  },
+  {
+    "title": "Area calculation",
+    "description": "Important: Student converts side length to meters and computes area S = L² correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Flux formula application",
+    "description": "Important: Student uses Φ = B·A·cosθ appropriately for each rotation scenario.",
+    "weight": 4
+  },
+  {
+    "title": "Angle interpretation",
+    "description": "Important: Student correctly identifies θ as angle between B and normal to coil plane.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in change",
+    "description": "Pitfall: Student calculates ΔΦ = 0 or uses wrong sign by treating 180° rotation as no net change.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows unit conversion (cm→m) and reports flux in webers.",
+    "weight": 1
+  }
+]

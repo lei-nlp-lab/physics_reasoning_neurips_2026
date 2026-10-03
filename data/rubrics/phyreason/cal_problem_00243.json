@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates B₁ = (5/R)√(mU/e) or equivalent, using the geometry and force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Time in magnetic field",
+    "description": "Essential: Correctly calculates the time in region I as t = (πR√(meU))/(4eU) or equivalent, using the central angle and period.",
+    "weight": 5
+  },
+  {
+    "title": "Final kinetic energy",
+    "description": "Essential: Correctly determines the kinetic energy at emission as E_k = 8eU, based on the number of accelerations.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum initial energy coefficient",
+    "description": "Essential: Correctly solves for the maximum k = 13/6, ensuring the electron does not collide with the outer boundary.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of magnetic motion",
+    "description": "Important: Applies the given geometry (tan 22.5° = 0.4) to find the trajectory radius r₁ = 0.4R in region I.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance in magnetic field",
+    "description": "Important: Uses Lorentz force as centripetal force (evB = mv²/r) correctly for calculations in magnetic regions.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Applies the work-energy theorem to relate kinetic energy changes to electric potential (e.g., 2eU = ½mv₁² for first acceleration).",
+    "weight": 4
+  },
+  {
+    "title": "Collision condition geometry",
+    "description": "Important: Sets up the geometric condition (√3R - r_m)² = R² + r_m² for the maximum radius to avoid collision in part (4).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses an incorrect sign for the electron charge in force or energy equations, or misinterprets field directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or relativistic oversight",
+    "description": "Pitfall: Fails to use consistent SI units or inappropriately applies relativistic corrections despite instructions to ignore them.",
+    "weight": -1
+  }
+]

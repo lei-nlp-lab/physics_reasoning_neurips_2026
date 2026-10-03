@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct charge formula",
+    "description": "Essential: The student's response must correctly derive or state the formula q = NBS/(R+r) for the charge through the bulb in the given time interval.",
+    "weight": 5
+  },
+  {
+    "title": "Correct charge value",
+    "description": "Essential: The final numerical answer for part (1) must be q = √2/2 C (or approximately 0.707 C).",
+    "weight": 5
+  },
+  {
+    "title": "Correct work formula",
+    "description": "Essential: The student's response must correctly relate the external work W to the Joule heat over one period, using W = I²(R+r)T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct work value",
+    "description": "Essential: The final numerical answer for part (2) must be W = 50π J (or approximately 157.08 J).",
+    "weight": 5
+  },
+  {
+    "title": "Average EMF reasoning",
+    "description": "Important: The solution must apply Faraday's law correctly for the average EMF over the 0 to T/4 interval, using the change in magnetic flux.",
+    "weight": 3
+  },
+  {
+    "title": "Angular speed calculation",
+    "description": "Important: The solution must correctly convert the rotational speed n to angular velocity ω using ω = 2πn.",
+    "weight": 3
+  },
+  {
+    "title": "RMS current derivation",
+    "description": "Important: The solution must correctly derive the RMS current from the peak EMF for the sinusoidal AC, applying I = E_m / (√2(R+r)).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Deduct points for sign errors in the EMF formula or incorrect unit handling (e.g., not converting rpm to rad/s correctly).",
+    "weight": -2
+  },
+  {
+    "title": "Resistance sum omission",
+    "description": "Pitfall: Deduct points if the student uses only R or only r in the Ohm's law calculations, instead of the total resistance (R+r).",
+    "weight": -2
+  },
+  {
+    "title": "Alternative approach clarity",
+    "description": "Optional: Award points for a clear alternative solution path, such as using calculus for charge or energy integration.",
+    "weight": 1
+  }
+]

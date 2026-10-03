@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Answer",
+    "description": "Essential Criteria: The final energy required to excite the electron to the first excited state is correctly calculated as 3.8 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Virial Theorem",
+    "description": "Important Criteria: The application of the virial theorem to relate kinetic and potential energy is correctly stated and utilized.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Expression for Omega",
+    "description": "Important Criteria: The expression for angular frequency omega is derived correctly from the ground state energy relation.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution of Values",
+    "description": "Important Criteria: The correct values for h-bar, electron mass, and the position variance are substituted accurately into the energy equation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units throughout the calculations are consistent and correctly handled.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the calculations that could lead to an incorrect final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: Consideration of limiting cases or alternative methods to verify the result is discussed.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must state that the globe appears as a sphere.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Motion",
+    "description": "Important Criteria: The response should demonstrate an understanding of how the motion of the globe affects its appearance due to relativistic effects.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Lorentz Contraction",
+    "description": "Important Criteria: The response must correctly apply the concept of Lorentz contraction to the dimensions of the globe.",
+    "weight": 4
+  },
+  {
+    "title": "Light Propagation Analysis",
+    "description": "Important Criteria: The response should include a discussion on how light from different points on the globe reaches the observer.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as incorrect application of relativistic formulas or misunderstanding of the observer's perspective.",
+    "weight": -2
+  }
+]

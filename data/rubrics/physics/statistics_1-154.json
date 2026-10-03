@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for h(t) must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Transfer Equation",
+    "description": "Important Criteria: The relationship between heat loss and ice formation must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Variable Definitions",
+    "description": "Important Criteria: All variables such as h, L/V, and Lambda should be clearly defined.",
+    "weight": 3
+  },
+  {
+    "title": "Differential Equation Setup",
+    "description": "Important Criteria: The differential equation relating h and time must be correctly formulated.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units for all quantities should be consistent throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes or incorrect assumptions about heat transfer.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Specific Heat",
+    "description": "Pitfall Criteria: Ensure that the assumption of neglecting specific heat is justified.",
+    "weight": -1
+  }
+]

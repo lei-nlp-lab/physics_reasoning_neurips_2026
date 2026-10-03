@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The correct expression for the gyromagnetic ratio g = Q/(2M) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The gyromagnetic ratio for the uniform spinning sphere must also be stated as g = Q/(2M).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria: The magnetic dipole moment for the electron must be correctly given as mu = (e * hbar)/(4 * m_e).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Derivation",
+    "description": "Important Criteria: The derivation of the magnetic dipole moment and angular momentum must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Variables",
+    "description": "Important Criteria: The use of appropriate variables (Q, M, R, omega) in the calculations should be consistent and correct.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the equations will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: Units for magnetic dipole moment and angular momentum should be checked for consistency.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Mentioning limiting cases or special scenarios where the gyromagnetic ratio applies could enhance the response.",
+    "weight": 1
+  }
+]

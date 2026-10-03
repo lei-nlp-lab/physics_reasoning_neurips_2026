@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Equilibrium angles identified",
+    "description": "Essential: The student must state the four equilibrium angles where α is constant: 0, π, π/2, and 3π/2 radians.",
+    "weight": 5
+  },
+  {
+    "title": "Equation of motion derived",
+    "description": "Important: The student's solution must show the derivation of the simplified equation of motion leading to the condition sin(α)cos(α) = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Energy change calculated",
+    "description": "Important: The student must correctly calculate the change in orbital energy as ΔU = (1/2) m Ω² R ΔR.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy balance applied",
+    "description": "Essential: The student must equate the work done by the Lorentz force (B I L v t) to the calculated change in orbital energy.",
+    "weight": 5
+  },
+  {
+    "title": "Final time computed",
+    "description": "Essential: The student must provide the final numerical answer for the required time, approximately 5.8 × 10³ s.",
+    "weight": 5
+  },
+  {
+    "title": "Orbital velocity used",
+    "description": "Important: The student must correctly relate the orbital speed v to the given period T or angular speed Ω (v = ΩR).",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in current",
+    "description": "Pitfall: Penalize if the student uses the wrong sign for the applied current relative to the induced current, or misapplies the Lorentz force direction.",
+    "weight": -2
+  },
+  {
+    "title": "Approximation justification",
+    "description": "Optional: The student notes the use of the small-L approximation (L << R) to simplify the gravitational force expansion.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student demonstrates unit analysis for the final time calculation, confirming seconds as the unit.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the time required to freeze the water.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Calculation",
+    "description": "Important Criteria: The student should correctly calculate the heat released during the freezing process.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency Formula",
+    "description": "Important Criteria: The student must use the correct formula for the efficiency of the motor in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The student should derive the minimum work required using the heat calculated and the efficiency.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the calculations of work and efficiency.",
+    "weight": -2
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Pitfall Criteria: The student should correctly convert temperatures from Celsius to Kelvin when necessary.",
+    "weight": -1
+  }
+]

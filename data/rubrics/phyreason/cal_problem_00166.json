@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average EMF calculation",
+    "description": "Essential: Correctly calculates average induced EMF using Faraday's law: E = -ΔΦ/Δt, with ΔΦ = BΔS.",
+    "weight": 5
+  },
+  {
+    "title": "Average current determination",
+    "description": "Essential: Correctly computes average induced current using Ohm's law: I = E/R.",
+    "weight": 5
+  },
+  {
+    "title": "Total charge calculation",
+    "description": "Essential: Correctly determines total charge using q = IΔt or q = ΔΦ/R.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic flux change",
+    "description": "Important: Recognizes that pulling sides together reduces area to zero, so ΔΦ = B × initial area.",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention handling",
+    "description": "Important: Applies Faraday's law correctly, though absolute value may be used for magnitude questions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations and includes units in final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Area misinterpretation",
+    "description": "Pitfall: Incorrectly assumes constant area or uses wrong area change (e.g., half instead of zero).",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Uses instantaneous EMF formula (E = -dΦ/dt) instead of average (E = -ΔΦ/Δt) for constant Δt.",
+    "weight": -1
+  }
+]

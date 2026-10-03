@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for Part (a)",
+    "description": "Essential Criteria: The correct expression for the chemical potential mu of the three-dimensional gas must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Part (b)",
+    "description": "Essential Criteria: The correct expression for the chemical potential mu of the two-dimensional gas must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Part (c)",
+    "description": "Essential Criteria: The correct expression for the mean number n of absorbed molecules per unit area must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning for Part (a)",
+    "description": "Important Criteria: The derivation of the partition function and its application to find the chemical potential must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Key Reasoning for Part (b)",
+    "description": "Important Criteria: The derivation of the partition function for the two-dimensional gas must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium Condition in Part (c)",
+    "description": "Important Criteria: The relationship between the chemical potentials of the two systems must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common errors related to the signs in the expressions for chemical potentials must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations, especially in final expressions.",
+    "weight": -1
+  }
+]

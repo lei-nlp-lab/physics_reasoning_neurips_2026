@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct n0, a, b",
+    "description": "Essential: Student correctly states n0=0, a = sqrt(Z_ext/r), and b = sqrt(r Z_ext).",
+    "weight": 5
+  },
+  {
+    "title": "Correct equilibrium density",
+    "description": "Essential: Student correctly finds the total electron density as n_e = sqrt((Z_ext1 + Z_ext2)/r) and provides the numerical value 20e10 cm^{-3}.",
+    "weight": 5
+  },
+  {
+    "title": "Current expression derivation",
+    "description": "Important: Student derives the full current I in terms of U, β, L, S, Z_ext, r, e, using the balance of generation and recombination.",
+    "weight": 4
+  },
+  {
+    "title": "Low-voltage resistivity",
+    "description": "Important: Student correctly finds the resistivity ρ_gas = (1/(2eβ)) * sqrt(r/Z_ext) from the low-voltage current approximation.",
+    "weight": 4
+  },
+  {
+    "title": "Differential equation setup",
+    "description": "Important: Student correctly writes the differential equations dI_e/dx = e Z_ext S + α I_e and -dI_i/dx = e Z_ext S + α I_e for the self-sustained discharge.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary conditions application",
+    "description": "Important: Student correctly applies the boundary conditions I_i(L)=0 and I_e(0)=γ I_i(0) to solve for constants.",
+    "weight": 4
+  },
+  {
+    "title": "Total current with emission",
+    "description": "Important: Student derives the total current I = (e Z_ext S/α) * (e^{αL}/(1 - γ + γ e^{αL}) - 1).",
+    "weight": 4
+  },
+  {
+    "title": "Critical length expression",
+    "description": "Essential: Student correctly finds L_cr = (1/α) ln(1 + 1/γ).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student makes a sign error in the ion current differential equation (-dI_i/dx) or misapplies the current direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates dimensional analysis or unit consistency in final expressions (e.g., for I, ρ, L_cr).",
+    "weight": 1
+  }
+]

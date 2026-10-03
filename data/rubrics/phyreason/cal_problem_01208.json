@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct frictional force (part 1)",
+    "description": "Essential: The final answer for part (1) is 0.72 N, derived from the static friction needed to accelerate the weight with the cardboard.",
+    "weight": 5
+  },
+  {
+    "title": "Correct fall-off time (part 2)",
+    "description": "Essential: The final answer for part (2) is 0.4 s, obtained from solving the relative motion equation.",
+    "weight": 5
+  },
+  {
+    "title": "Identify friction regimes",
+    "description": "Important: Recognizes that for F=1.9 N, the weight and cardboard move together without slipping, so friction is static.",
+    "weight": 4
+  },
+  {
+    "title": "Apply relative motion equation",
+    "description": "Important: For part (2), sets up the correct equation relating the relative acceleration and distance: (1/2)a₂t² - (1/2)a₁t² = d.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate accelerations correctly",
+    "description": "Important: Correctly computes a₁ = μg for the slipping weight and a₂ = (F - F_f2 - F_f1')/m₂ for the cardboard in part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Determine maximum static friction",
+    "description": "Optional: Compares the required static friction force (0.72 N) to the maximum possible static friction (μ m₁g = 0.8 N) to verify no slipping in part (1).",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent use of SI units (N, kg, m, s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Confuse static and kinetic friction",
+    "description": "Pitfall: Incorrectly uses kinetic friction (0.8 N) for the weight in part (1) when the system accelerates together.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in relative motion",
+    "description": "Pitfall: Uses an incorrect sign in the relative displacement equation (e.g., a₁t²/2 - a₂t²/2 = d) leading to a wrong time.",
+    "weight": -2
+  },
+  {
+    "title": "Forget friction on cardboard",
+    "description": "Pitfall: Omits the kinetic friction force F_f2 = μ(m₁+m₂)g when calculating the cardboard's acceleration in part (2).",
+    "weight": -1
+  }
+]

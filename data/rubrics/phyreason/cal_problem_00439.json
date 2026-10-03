@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct time for AB",
+    "description": "Essential: The final answer for part (1) must be 2 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential: The final answer for part (2) must be μ₂ = 0.5.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's law on AB",
+    "description": "Important: The student must apply Newton's second law on the horizontal track to find acceleration a₁ = (F - μ₁mg)/m.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on AB",
+    "description": "Important: The student must correctly use the kinematic equation x₁ = ½ a₁ t² to relate displacement, acceleration, and time.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at B",
+    "description": "Important: The student must calculate the velocity at point B (v = a₁t = 10 m/s) and use it as the initial speed for the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's law on BC",
+    "description": "Important: The student must apply Newton's second law on the incline to find a₂ = -g(sinθ + μ₂cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on BC",
+    "description": "Important: The student must use the correct kinematic relation (v_f² = v_i² + 2a₂x₂) with final velocity zero at point C.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error on incline",
+    "description": "Pitfall: Penalize if the student uses an incorrect sign for the acceleration on BC (e.g., forgetting both gravity and friction oppose motion).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's working should demonstrate consistent use of SI units (kg, m, s, N).",
+    "weight": 1
+  }
+]

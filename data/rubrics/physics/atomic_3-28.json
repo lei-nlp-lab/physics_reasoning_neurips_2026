@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Strangeness Identification",
+    "description": "Essential Criteria: The student must correctly identify the strangeness of the Sigma* based on the conservation laws in the given reactions.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Type Explanation",
+    "description": "Important Criteria: The student should explain why the decay of Sigma* is classified as strong or weak based on the decay width and lifetime calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Isospin Calculation",
+    "description": "Important Criteria: The student must correctly determine the isospin of Sigma* and justify it using the information provided about the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Width Calculation",
+    "description": "Optional Criteria: The student may calculate the decay width for the decay channel Sigma* -> Lambda pi+ to support their explanation.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect sign assignments for strangeness or misclassifying the decay type.",
+    "weight": -2
+  }
+]

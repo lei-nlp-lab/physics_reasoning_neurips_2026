@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct escape velocity as a multiple of V.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational Equations",
+    "description": "Important Criteria: The student should correctly apply the gravitational force equations at the pole and equator.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student must demonstrate the use of energy conservation principles to derive the escape velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Substitutions",
+    "description": "Important Criteria: The student should correctly substitute values for g and GM in the escape velocity equation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the gravitational potential energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as E = 3mg/(4q) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution must correctly resolve gravity and the electric force along the incline to establish the equilibrium condition for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as a = 21g/20 or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: For part (2), the solution must correctly apply Newton's second law along the incline using the new net force from gravity and the downward electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Final speed expression",
+    "description": "Essential: The final answer for part (3) must be correctly expressed as v = sqrt(7gH/2) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: For part (3), the solution must correctly relate acceleration, displacement (H/sin37°), and final speed using an appropriate kinematic equation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if forces are resolved with incorrect signs or directions, especially for the electric force components on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution demonstrates dimensional or unit consistency in the final expressions.",
+    "weight": 1
+  }
+]

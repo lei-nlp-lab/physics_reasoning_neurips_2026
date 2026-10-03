@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Average Energy",
+    "description": "Essential Criteria: The student must correctly calculate the ensemble average energy U.",
+    "weight": 5
+  },
+  {
+    "title": "Final Average Energy Squared",
+    "description": "Essential Criteria: The student must correctly calculate the ensemble average of the energy squared U^2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Probabilities",
+    "description": "Important Criteria: The student should demonstrate an understanding of how to apply probabilities for the energy values of the spins.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Application of Averages",
+    "description": "Important Criteria: The student must correctly apply the formula for the average of sums and products of independent variables.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations of averages.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios for the energy values.",
+    "weight": 1
+  }
+]

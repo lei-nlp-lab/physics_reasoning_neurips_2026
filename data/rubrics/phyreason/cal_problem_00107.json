@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Total charge calculation",
+    "description": "Essential: The final answer for part (1) must be q = 2B₀S/R.",
+    "weight": 5
+  },
+  {
+    "title": "Piecewise current function",
+    "description": "Essential: The final answer for part (2) must correctly give I=0 for 0≤t≤π/(3ω) and I=-6ωB₀S/(πR) for π/(3ω)<t≤2π/(3ω).",
+    "weight": 5
+  },
+  {
+    "title": "RMS current value",
+    "description": "Essential: The final answer for part (3) must be I_rms = 2√3 ω B₀S/(πR).",
+    "weight": 5
+  },
+  {
+    "title": "Δω from energy balance",
+    "description": "Essential: The final answer for part (4) must be Δω = 6B₀²S²/(π k m l² R).",
+    "weight": 5
+  },
+  {
+    "title": "Applying Faraday's Law",
+    "description": "Important: The solution must use Faraday's law (ε = -dΦ/dt) to relate the changing magnetic field to the induced EMF.",
+    "weight": 4
+  },
+  {
+    "title": "Using Ohm's Law",
+    "description": "Important: The solution must apply Ohm's law (I = ε/R) to find the induced current from the EMF.",
+    "weight": 4
+  },
+  {
+    "title": "Charge via flux change",
+    "description": "Important: For part (1), the charge must be derived from q = ΔΦ/R, integrating the current or using Faraday's law.",
+    "weight": 3
+  },
+  {
+    "title": "RMS from energy equivalence",
+    "description": "Important: For part (3), the RMS current must be found by equating the energy dissipated over a full period to that of a constant RMS current.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: For part (4), the solution must set up an energy balance: the kinetic energy loss of the frame (times efficiency k) equals the electrical energy dissipated in the loop.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in current",
+    "description": "Pitfall: Penalize if the sign (negative) for the current in part (2) is missing or incorrect relative to the defined positive direction.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting time intervals",
+    "description": "Pitfall: Penalize if the piecewise function in part (2) uses incorrect time boundaries (e.g., not recognizing the zero-current interval from the B_y vs. t graph).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic simplification error",
+    "description": "Pitfall: Penalize if the approximation (1-x)² ≈ 1-2x for small x is misapplied in the energy equation for part (4).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Symmetries Listed",
+    "description": "Essential Criteria: The student must list all relevant symmetries of the Schrödinger equation.",
+    "weight": 5
+  },
+  {
+    "title": "Constants of Motion",
+    "description": "Essential Criteria: The student must correctly identify all constants of motion associated with the system.",
+    "weight": 5
+  },
+  {
+    "title": "Ground-State Wave Function",
+    "description": "Essential Criteria: The student must provide the correct form of the ground-state wave function.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Form of r",
+    "description": "Important Criteria: The student must correctly define the relative position vector r = r1 - r2.",
+    "weight": 3
+  },
+  {
+    "title": "Center of Mass Motion",
+    "description": "Important Criteria: The student must recognize the separation of motion into center of mass and relative coordinates.",
+    "weight": 3
+  },
+  {
+    "title": "Gaussian Form",
+    "description": "Optional Criteria: The student may mention that the ground-state wave function is Gaussian in form.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must avoid unit mistakes when discussing physical quantities.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the expressions for energy and momentum.",
+    "weight": -2
+  }
+]

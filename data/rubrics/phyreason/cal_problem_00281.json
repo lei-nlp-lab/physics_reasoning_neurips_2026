@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum initial velocity",
+    "description": "Essential: Correctly calculates v₁ = √(2μgs) ≈ 3.54 m/s using work-energy theorem with kinetic friction.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum velocity determination",
+    "description": "Important: Applies constraint that maximum static friction (2μmg) provides acceleration, and kinetic friction provides deceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration phase analysis",
+    "description": "Important: Correctly calculates acceleration distance using a = 2μg and v_m² = 2a x₁.",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration phase analysis",
+    "description": "Important: Correctly applies v_m² - v₂² = 2μg(L - x₁) for deceleration under kinetic friction.",
+    "weight": 3
+  },
+  {
+    "title": "Total distance constraint",
+    "description": "Essential: Ensures total distance x₁ + (L - x₁) = 12.5 m, leading to correct v_m and L values.",
+    "weight": 5
+  },
+  {
+    "title": "Final numerical values",
+    "description": "Essential: Reports v_m ≈ 2.89-3 m/s and maximum sliding distance L ≈ 7.33-8.33 m.",
+    "weight": 4
+  },
+  {
+    "title": "Confusing friction types",
+    "description": "Pitfall: Uses kinetic friction coefficient for static friction or vice versa in wrong phase.",
+    "weight": -2
+  },
+  {
+    "title": "Missing collision constraint",
+    "description": "Pitfall: Neglects v₂ < 1.0 m/s condition when calculating maximum velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout calculations.",
+    "weight": 1
+  }
+]

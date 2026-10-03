@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Upper surface friction",
+    "description": "Essential: Student states that the frictional force on the upper surface of block B is 0 N, recognizing no relative motion between blocks.",
+    "weight": 5
+  },
+  {
+    "title": "Lower surface friction",
+    "description": "Essential: Student correctly calculates the frictional force on the lower surface of B as 16 N, applying equilibrium for uniform motion.",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient calculation",
+    "description": "Essential: Student calculates the coefficient of kinetic friction as 0.2 using the correct normal force for the combined system.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium reasoning",
+    "description": "Important: Student applies Newton's first law to analyze forces on either individual blocks or the combined system during uniform motion.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force identification",
+    "description": "Important: Student correctly identifies the normal force as supporting the combined weight of both blocks (80 N total).",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Student uses only one block's weight (40 N) instead of the combined weight (80 N) when calculating the friction coefficient.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student assigns incorrect sign or direction to friction forces, or confuses static/kinetic friction concepts.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations and includes units with final answers.",
+    "weight": 1
+  }
+]

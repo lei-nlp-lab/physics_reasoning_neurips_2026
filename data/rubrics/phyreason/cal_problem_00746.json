@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration calculation",
+    "description": "Essential: Student correctly computes the acceleration as -g sinθ, yielding -5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at 1 second",
+    "description": "Important: Student applies the kinematic equation v = v₀ + at to find the velocity at t=1s.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum at 1 second",
+    "description": "Essential: Student correctly calculates the momentum at t=1s as p = m*v, yielding 2.5 kg·m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at 3 seconds",
+    "description": "Important: Student applies the kinematic equation to find the velocity at t=3s, noting its sign.",
+    "weight": 3
+  },
+  {
+    "title": "Change in momentum",
+    "description": "Essential: Student correctly computes Δp = p_final - p_initial for the 3-second interval, yielding -7.5 kg·m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Student uses a positive acceleration, ignoring the decelerating effect of gravity.",
+    "weight": -2
+  },
+  {
+    "title": "Momentum sign confusion",
+    "description": "Pitfall: Student treats momentum as a scalar or misinterprets the negative sign in the final velocity.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student explicitly includes correct units (kg·m/s) in all final answers.",
+    "weight": 1
+  }
+]

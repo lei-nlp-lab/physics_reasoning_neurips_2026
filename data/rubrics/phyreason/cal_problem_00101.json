@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Work from net force",
+    "description": "Essential: Correctly applies work-energy theorem to find net work on A from 0 to t1 as (1/2)mv1² - (1/2)mv0².",
+    "weight": 5
+  },
+  {
+    "title": "Distance at t1",
+    "description": "Essential: Correctly determines the separation r0 at t1 by balancing forces on A (Coulomb, electric, friction) to get sqrt(kq/E).",
+    "weight": 5
+  },
+  {
+    "title": "Total electric field work",
+    "description": "Essential: Correctly calculates total work by uniform E-field on both A and B from t1 to t2 as (q√(kqE))/2.",
+    "weight": 5
+  },
+  {
+    "title": "Final velocity for new condition",
+    "description": "Essential: Correctly finds A's velocity just before rod collision when v at S is 2v1, as (1+√3)v1.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Recognizes that at t1 and t2, A's acceleration is zero (max/min speed), enabling force equilibrium equations.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Applies the condition that after t1, A and B accelerate equally (same Δv) due to the rigid rod/spring connection.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Optional: Sets up work-energy equations correctly for both sliders, accounting for electric, friction, spring, and Coulomb work.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Misidentifies direction of friction, electric force, or Coulomb force in equilibrium equations, leading to incorrect distance.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing net vs. total work",
+    "description": "Pitfall: For part (1), incorrectly uses total work (all forces) instead of work by net external force, or misapplies theorem.",
+    "weight": -1
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Pitfall: Final answers lack necessary constants (k, q, E, m, v1) or have incorrect algebraic structure.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Change",
+    "description": "Essential Criteria: The student must provide the correct final answer for the change in electrostatic energy.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Calculation",
+    "description": "Important Criteria: The student should correctly calculate the charge Q using the given potential and radius of the bubble.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Formula Application",
+    "description": "Important Criteria: The student must correctly apply the formula for electrostatic energy change between the two radii.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy change calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Substitution Accuracy",
+    "description": "Important Criteria: The student must accurately substitute values into the equations without errors.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: The student may discuss limiting cases or implications of the radius change on energy.",
+    "weight": 1
+  }
+]

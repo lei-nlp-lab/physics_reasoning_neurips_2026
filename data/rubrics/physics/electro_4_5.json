@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Constraints",
+    "description": "Essential criteria include correctly identifying that there are no constraints from (a) and (b), and that a_B = 0 from (c) and (d).",
+    "weight": 5
+  },
+  {
+    "title": "Gauge Independence",
+    "description": "Important criteria involve correctly stating that a_1 and a_2 are gauge-independent parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Density Expression",
+    "description": "Essential criteria require providing the correct expression for average energy density in terms of a_1 and a_2.",
+    "weight": 5
+  },
+  {
+    "title": "Mathematical Consistency",
+    "description": "Important criteria include ensuring that all mathematical steps leading to the constraints are correctly derived and consistent.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall criteria involve checking for common mistakes such as misidentifying constraints or incorrectly applying vector calculus identities.",
+    "weight": -2
+  }
+]

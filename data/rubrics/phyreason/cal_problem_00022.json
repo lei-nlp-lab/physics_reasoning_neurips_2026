@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final velocity after sticking",
+    "description": "Essential: Correctly applies momentum conservation to find combined velocity after perfectly inelastic collision.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force magnitude",
+    "description": "Essential: Correctly calculates centripetal force using combined mass and velocity from part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Mass ratio for elastic case",
+    "description": "Important: Applies momentum and kinetic energy conservation, and geometry condition, to find valid mass ratio(s).",
+    "weight": 4
+  },
+  {
+    "title": "Distance for inelastic series",
+    "description": "Important: Derives distance as a geometric series sum from relative velocity and lap time analysis.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important: Correctly writes momentum conservation equation for collisions, accounting for directions.",
+    "weight": 3
+  },
+  {
+    "title": "Relative velocity definition",
+    "description": "Optional: Explicitly defines relative velocity with correct sign for inelastic collision coefficient e.",
+    "weight": 2
+  },
+  {
+    "title": "Geometric condition application",
+    "description": "Optional: Correctly uses equilateral triangle vertex condition to relate velocities and distances for elastic case.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in relative velocity",
+    "description": "Pitfall: Uses wrong sign (e.g., v_A - v_B vs. v_B - v_A) in relative velocity equation for inelastic collisions.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force formula",
+    "description": "Pitfall: Uses individual mass or pre-collision velocity in centripetal force formula instead of combined values.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or algebraic slip",
+    "description": "Pitfall: Makes algebraic error in solving simultaneous equations or omits units in final answers.",
+    "weight": -1
+  }
+]

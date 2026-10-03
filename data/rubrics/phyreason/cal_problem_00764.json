@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final common velocity",
+    "description": "Essential: The final answer for part (1) must be 5 m/s, derived from total momentum conservation for the complete system.",
+    "weight": 5
+  },
+  {
+    "title": "Child's jump speed",
+    "description": "Essential: The final answer for part (2) must be 10 m/s, found by applying momentum conservation to the child-sled B interaction.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse on sled A",
+    "description": "Essential: The final answer for part (3) must be 25 kg·m/s, calculated from the change in momentum of sled A during the first jump.",
+    "weight": 5
+  },
+  {
+    "title": "Work on sled B",
+    "description": "Essential: The final answer for part (4) must be 1250 J, equal to the kinetic energy gained by sled B.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important: The solution must correctly apply momentum conservation to the entire system (child + both sleds) to find the final common velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Relative velocity reasoning",
+    "description": "Important: The solution must correctly model the child's jumps using the given condition that jump speeds relative to the ground are equal in magnitude and opposite in direction.",
+    "weight": 4
+  },
+  {
+    "title": "Intermediate velocity calculation",
+    "description": "Important: The solution must calculate the velocity of sled A after the child's first jump off it (8.75 m/s) to find the impulse.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The work done on sled B must be derived from the work-energy theorem, equating it to sled B's final kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign handling for the child's velocity relative to the ground during jumps, leading to wrong momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "System misidentification",
+    "description": "Pitfall: Applying momentum conservation to an incorrect or non-isolated system for a given step (e.g., neglecting that the child is in mid-air).",
+    "weight": -2
+  }
+]

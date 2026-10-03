@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Charge-to-mass ratio",
+    "description": "Essential: Correctly states the charge-to-mass ratio as g/E from the equilibrium condition in the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity magnitude",
+    "description": "Essential: Correctly states the velocity magnitude as LgB/(E sinθ) by combining Lorentz force and geometry.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum magnetic field",
+    "description": "Essential: Correctly states the minimum magnetic induction B' as B/sinθ from the tangency condition.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies the equilibrium condition qE = mg to relate electric field and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important: Uses qvB = mv²/r to relate magnetic force to centripetal acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric relationship",
+    "description": "Important: Correctly relates magnetic field width L to radius r and deflection angle θ via L = r sinθ.",
+    "weight": 3
+  },
+  {
+    "title": "Tangency condition",
+    "description": "Important: Recognizes that preventing escape requires the trajectory to be tangent to the upper boundary (r' = L).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns sign to charge or direction to forces, violating the equilibrium condition.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Misinterprets the relationship between L, r, and θ (e.g., using cosθ instead of sinθ).",
+    "weight": -1
+  }
+]

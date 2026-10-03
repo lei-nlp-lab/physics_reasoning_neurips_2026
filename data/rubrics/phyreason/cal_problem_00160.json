@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field direction",
+    "description": "Essential: The response must state that the magnetic field is directed into the plane of the paper (or perpendicular inward).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum magnetic induction",
+    "description": "Essential: The final answer for B_m must be correctly derived as B_m = m v_0 / (q h).",
+    "weight": 5
+  },
+  {
+    "title": "Radius-force relationship",
+    "description": "Important: The student must apply Newton's second law with the Lorentz force to relate radius, mass, velocity, charge, and field: q v_0 B = m v_0^2 / R.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for minimum B",
+    "description": "Important: For part (1), the reasoning must connect the condition that the particle exits at the y-axis to the requirement that the circular path's radius R equals h.",
+    "weight": 4
+  },
+  {
+    "title": "Radius for half field",
+    "description": "Important: For part (2), the student must correctly compute the new radius R' = 2h when B = B_m/2.",
+    "weight": 3
+  },
+  {
+    "title": "Exit angle calculation",
+    "description": "Essential: The final answer for the exit angle α must be π/6 (or 30°).",
+    "weight": 5
+  },
+  {
+    "title": "Vertical distance calculation",
+    "description": "Essential: The final answer for the distance y must be (2 - √3)h.",
+    "weight": 5
+  },
+  {
+    "title": "Trigonometric geometry",
+    "description": "Important: For part (2), the solution must use correct right-triangle or chord geometry (e.g., sin α = h/R') to find the angle and then the vertical displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the magnetic field direction is stated incorrectly (e.g., out of the page) or if the force direction rule is misapplied.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or unit mistake",
+    "description": "Pitfall: Penalize if the relationship R = m v / (q B) is inverted (e.g., R = q B / (m v)) or if units are inconsistent in final expressions.",
+    "weight": -1
+  }
+]

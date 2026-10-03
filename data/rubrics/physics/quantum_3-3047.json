@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Spin Wave Function",
+    "description": "Essential Criteria: The student must provide the correct spin wave function for t > 0.",
+    "weight": 5
+  },
+  {
+    "title": "Fraction of Spins",
+    "description": "Essential Criteria: The student must correctly derive the fraction of particles with spins in the +x, +y, and +z directions.",
+    "weight": 5
+  },
+  {
+    "title": "Transition Time Condition",
+    "description": "Essential Criteria: The student must state the condition for the transition time to be valid.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Operators",
+    "description": "Important Criteria: The student should correctly apply the Hamiltonian and spin operators in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The student must correctly identify and use the initial conditions for the spin wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Precession Explanation",
+    "description": "Optional Criteria: The student may explain the precession of the spin vector in the yz plane.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations derived.",
+    "weight": -1
+  }
+]

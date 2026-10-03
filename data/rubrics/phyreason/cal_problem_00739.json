@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Secondary turns calculation",
+    "description": "Essential: Correctly calculates N₂ = (U₂/U₁) × N₁ to obtain 108 turns.",
+    "weight": 5
+  },
+  {
+    "title": "Current ratio relationship",
+    "description": "Essential: States the correct current ratio I₁/I₂ = N₂/N₁ = U₂/U₁.",
+    "weight": 5
+  },
+  {
+    "title": "Current ratio value",
+    "description": "Essential: Provides the final simplified ratio as 9:95 or 9/95.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer principle application",
+    "description": "Important: Recognizes and applies the ideal transformer voltage-turn relationship.",
+    "weight": 3
+  },
+  {
+    "title": "Power conservation concept",
+    "description": "Important: Implicitly or explicitly uses I₁U₁ = I₂U₂ for an ideal transformer.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations or notes dimensionless ratios.",
+    "weight": 1
+  },
+  {
+    "title": "Inverted ratio confusion",
+    "description": "Pitfall: Incorrectly states I₁/I₂ = N₁/N₂ or U₁/U₂ instead of the reciprocal.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation error",
+    "description": "Pitfall: Makes arithmetic mistakes in computing N₂ or simplifying the current ratio.",
+    "weight": -1
+  }
+]

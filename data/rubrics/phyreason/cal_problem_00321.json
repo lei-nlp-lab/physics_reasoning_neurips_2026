@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final impact speed",
+    "description": "Essential: Correctly states or derives the magnitude of the impact velocity as √(2gL sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies the work-energy theorem correctly from the initial release to the ground impact.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile launch velocity",
+    "description": "Important: Correctly finds the horizontal launch speed from the arc end using energy for a given radius.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile time of flight",
+    "description": "Important: Correctly calculates the free-fall time from the arc end to the inclined plane.",
+    "weight": 3
+  },
+  {
+    "title": "Angle for maximum range",
+    "description": "Essential: Correctly identifies the inclination angle θ = 90° that maximizes the horizontal distance in part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Impact angle tangent",
+    "description": "Important: Correctly computes tan(α) = v_horizontal / v_vertical for the given numerical conditions in part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Distance to point O",
+    "description": "Important: Correctly calculates the distance from the landing point to point O using geometry for part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in kinematic equations or omits units in final answers where required.",
+    "weight": -1
+  },
+  {
+    "title": "Trigonometric confusion",
+    "description": "Pitfall: Misidentifies the sides or angles when relating the impact velocity components or the geometry of the landing point.",
+    "weight": -2
+  },
+  {
+    "title": "Range maximization reasoning",
+    "description": "Optional: Provides clear reasoning (e.g., derivative analysis) for why the horizontal distance is maximized at θ = 90° in part (3).",
+    "weight": 1
+  }
+]

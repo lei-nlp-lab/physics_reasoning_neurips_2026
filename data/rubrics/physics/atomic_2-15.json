@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Magnetic Moment Operator",
+    "description": "Essential Criteria: The student must correctly write the magnetic moment operator for a nucleus of A nucleons.",
+    "weight": 5
+  },
+  {
+    "title": "Isospin Concept",
+    "description": "Important Criteria: The student should introduce the concept of isospin and explain the isoscalar and isovector operators.",
+    "weight": 4
+  },
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must correctly derive the expression for the sum of magnetic moments of the two mirror nuclei.",
+    "weight": 5
+  },
+  {
+    "title": "Relative Sizes",
+    "description": "Important Criteria: The student should discuss the relative sizes of the isoscalar and isovector operators.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect definitions of the operators or miscalculating the contributions from protons and neutrons.",
+    "weight": -2
+  }
+]

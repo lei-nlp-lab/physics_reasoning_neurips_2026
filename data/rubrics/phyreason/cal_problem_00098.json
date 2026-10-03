@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates the block's speed at point B as 4 m/s for h=2.4 m, using kinematics or energy on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Condition for Left Fall",
+    "description": "Essential: Correctly states the condition for the block falling left of the belt as h < 3.0 m, based on energy loss before point D.",
+    "weight": 5
+  },
+  {
+    "title": "Condition for Right Projection",
+    "description": "Essential: Correctly states the condition for horizontal projection from point D as h ≥ 3.6 m, based on the centripetal condition at D.",
+    "weight": 5
+  },
+  {
+    "title": "Distance x Relation",
+    "description": "Important: Derives the correct functional relationship x = 2√(h - 3) m, linking release height to landing distance via energy and projectile motion.",
+    "weight": 4
+  },
+  {
+    "title": "Incline Acceleration",
+    "description": "Important: Applies Newton's second law or energy correctly to find the block's acceleration or energy loss on the inclined track AB.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Analysis on Belt",
+    "description": "Important: Correctly accounts for the work done against friction on the horizontal conveyor belt segment of length L.",
+    "weight": 3
+  },
+  {
+    "title": "Projectile Time",
+    "description": "Important: Correctly calculates the time of fall from height H+2R to the ground for the horizontal projectile motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign of Friction Work",
+    "description": "Pitfall: Uses an incorrect sign for the work done by friction (should be negative/energy loss) in the energy balance.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal Condition",
+    "description": "Pitfall: Misapplies or omits the condition (mg ≤ mv²/R) for the block to maintain contact and project from point D at the top of the wheel.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds) throughout the calculation and final expressions.",
+    "weight": 1
+  }
+]

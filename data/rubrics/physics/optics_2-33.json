@@ -1,0 +1,27 @@
+[
+  {
+    "title": "First Maximum Radius",
+    "description": "Essential Criteria: The student must correctly identify the radius for the first maximum as 0.1 m.",
+    "weight": 5
+  },
+  {
+    "title": "Second Minimum Radius",
+    "description": "Essential Criteria: The student must correctly identify the radius for the second minimum as 0.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Maxima and Minima Positions",
+    "description": "Important Criteria: The student should provide correct positions for the maxima and minima along the axis.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Fresnel Zones",
+    "description": "Important Criteria: The student must demonstrate understanding of the Fresnel zone concept and its application.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: The student should avoid common calculation mistakes, such as incorrect application of the Fresnel zone formula.",
+    "weight": -2
+  }
+]

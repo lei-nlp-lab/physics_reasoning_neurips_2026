@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Completed Table",
+    "description": "Essential Criteria: The table must be accurately filled with correct values for Z, T_z, T, J^p, and mass excess for all isotopes.",
+    "weight": 5
+  },
+  {
+    "title": "IAS Quantum Numbers",
+    "description": "Important Criteria: The student must correctly identify the quantum numbers J^pi, T, and T_z for the IAS in 81Kr.",
+    "weight": 4
+  },
+  {
+    "title": "Excitation Energy Calculation",
+    "description": "Essential Criteria: The calculation of the excitation energy of the IAS in 81Kr must be correct.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Energy Estimates",
+    "description": "Important Criteria: The student must provide correct estimates for the decay energies available for each decay mode listed.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Mode Analysis",
+    "description": "Important Criteria: The student should indicate the selection rules or factors that inhibit decay for each mode discussed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in calculations of mass excess and decay energies.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent and correctly applied throughout the calculations.",
+    "weight": -1
+  }
+]

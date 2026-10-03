@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Efficiency Formula",
+    "description": "Essential Criteria: The student must provide the correct formula for efficiency, eta, as derived from the work done and heat absorbed.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Variables",
+    "description": "Important Criteria: The student should correctly identify and use the variables v_g, v_ell, L_v, Delta p, and n in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Clausius-Clapeyron Derivation",
+    "description": "Essential Criteria: The student must derive the expression for dp_v/dT correctly using the efficiency from part (a).",
+    "weight": 5
+  },
+  {
+    "title": "Carnot Efficiency Explanation",
+    "description": "Important Criteria: The student should explain why two Carnot engines operating between T and T - Delta T have the same efficiency.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in their calculations, particularly when dealing with Delta p and Delta T.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as n, are included in their final expressions.",
+    "weight": -1
+  }
+]

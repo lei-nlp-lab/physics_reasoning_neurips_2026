@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must provide the correct angular distribution formula, including the term for polarization.",
+    "weight": 5
+  },
+  {
+    "title": "Parity Analysis",
+    "description": "Important Criteria: The response should explain the relationship between orbital angular momentum and parity in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Polarization Explanation",
+    "description": "Important Criteria: The response must discuss how polarization of the Lambda particle affects the angular distribution of decay products.",
+    "weight": 4
+  },
+  {
+    "title": "Experimental Setup",
+    "description": "Important Criteria: The response should outline the experimental conditions necessary to test for parity conservation, including the production of polarized Lambda particles.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Conditions",
+    "description": "Optional Criteria: The response should mention circumstances that could prevent the test from being useful, such as low polarization of Lambda particles.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common mistakes such as incorrect assumptions about the conservation of parity in the decay process.",
+    "weight": -2
+  }
+]

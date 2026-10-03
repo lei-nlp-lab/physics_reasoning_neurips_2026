@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Lens Use Explanation",
+    "description": "Essential Criteria: Clearly explain that visible light can be focused with glass lenses while X-rays require crystals for refraction.",
+    "weight": 5
+  },
+  {
+    "title": "Mirror Use Explanation",
+    "description": "Essential Criteria: Describe how X-rays can only be reflected at critical angles, unlike visible light which can be reflected by common mirrors.",
+    "weight": 5
+  },
+  {
+    "title": "Chromatic Resolving Power",
+    "description": "Important Criteria: Discuss the relationship between wavelength and chromatic resolving power, noting that it is narrower for X-rays.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum Angular Separation",
+    "description": "Important Criteria: Explain that the minimum resolvable angular separation is smaller for X-rays due to their shorter wavelength.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent and correctly applied throughout the response.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for incorrect statements about the use of lenses or mirrors for X-rays, which may lead to misunderstandings.",
+    "weight": -2
+  },
+  {
+    "title": "Wavelength Misunderstanding",
+    "description": "Pitfall Criteria: Avoid confusion between the properties of visible light and X-rays, particularly regarding their interaction with materials.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Angular Distribution",
+    "description": "Essential Criteria: The student must provide the correct form of the angular distribution for the decay process, I proportional to sin^2(theta)(1 + alpha cos(theta)).",
+    "weight": 5
+  },
+  {
+    "title": "Final Parity Condition",
+    "description": "Essential Criteria: The student must state the correct form of the angular distribution under the assumption of parity conservation, I proportional to (1 - cos^2(theta)).",
+    "weight": 5
+  },
+  {
+    "title": "Angular Momentum Conservation",
+    "description": "Important Criteria: The student should correctly apply conservation of angular momentum to determine the allowed values of l and m for the final state.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Components",
+    "description": "Important Criteria: The student should identify the contributions of the p and d wave functions in the final state of the decay.",
+    "weight": 3
+  },
+  {
+    "title": "Parity Analysis",
+    "description": "Important Criteria: The student must analyze the parity of the initial and final states to determine the implications for the angular distribution.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect application of angular momentum rules or miscalculating the parity of the states.",
+    "weight": -2
+  },
+  {
+    "title": "Mathematical Consistency",
+    "description": "Optional Criteria: The student should ensure that all mathematical expressions are consistent and correctly derived from the physical principles.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Analysis",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 1
+  }
+]

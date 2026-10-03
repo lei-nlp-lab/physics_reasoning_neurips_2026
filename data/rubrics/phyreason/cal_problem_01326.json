@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at top of A",
+    "description": "Essential: Correctly calculates the velocity at the highest point of track A using centripetal force condition (mg = mv²/R).",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at top of B",
+    "description": "Essential: Correctly calculates the normal force (and thus pressure) at the highest point of track B using Newton's second law and work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Height range for safety",
+    "description": "Essential: Correctly determines the range of starting heights (h) that allow the cart to clear both loops and land on the air cushion between M and N.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies the work-energy theorem correctly to relate the starting height to velocities at key points (e.g., top of A, exit at E).",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: Correctly uses projectile motion equations (h = ½gt², x = v_E t) to find the required exit velocities for landing at M and N.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important: Correctly sets up the centripetal force equation (N + mg = mv²/r) at the top of track B to find the normal force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses an incorrect sign in the centripetal force equation (e.g., mg - N = mv²/r) for the top of a loop.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, kg, s, N) throughout the solution without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Logical range deduction",
+    "description": "Optional: Clearly states that the exit velocity must be between the values required to land at M and N, and uses this to bound the height.",
+    "weight": 2
+  }
+]

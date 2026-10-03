@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final kinetic energy",
+    "description": "Essential Criteria: The student's final numerical answer for part (1) must be approximately 9.7 × 10⁻¹⁸ J.",
+    "weight": 5
+  },
+  {
+    "title": "Final potential difference",
+    "description": "Essential Criteria: The student's final numerical answer for part (2) must be approximately 15.2 V.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity decomposition",
+    "description": "Important Criteria: The student must correctly relate the final speed to the initial speed using the given 30° angle, typically via v = v₀ / cos 30°.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important Criteria: The student must apply the work-energy theorem, stating that the work done by the electric field equals the change in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Correct formula substitution",
+    "description": "Important Criteria: The student must correctly substitute the electron's mass, charge, and velocities into the kinetic energy and work-energy formulas.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's working should demonstrate consistent use of SI units (kg, m/s, C, J, V) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error for electron",
+    "description": "Pitfall Criteria: The student incorrectly uses a positive sign for the electron's charge in the potential difference calculation, leading to a negative voltage.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect angle relation",
+    "description": "Pitfall Criteria: The student mistakenly uses sine or tangent of the 30° angle to find the final speed, e.g., v = v₀ / sin 30°.",
+    "weight": -2
+  }
+]

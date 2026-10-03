@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct film area",
+    "description": "Essential: The student must correctly calculate the film area from the grid, obtaining 31a².",
+    "weight": 5
+  },
+  {
+    "title": "Correct molecule diameter formula",
+    "description": "Essential: The final expression for the molecular diameter must be d = mV / [31a²k(m+n)].",
+    "weight": 5
+  },
+  {
+    "title": "Volume of oleic acid in droplet",
+    "description": "Important: The solution must correctly find the volume of pure oleic acid in one droplet as V_oleic = (m/(m+n)) * (V/k).",
+    "weight": 4
+  },
+  {
+    "title": "Model of film as cylinder",
+    "description": "Important: The reasoning must equate the film volume (area × thickness) to the volume of oleic acid in the droplet.",
+    "weight": 4
+  },
+  {
+    "title": "Interpretation of volume ratio",
+    "description": "Important: The student must correctly interpret 'm:n' as the volume ratio of oleic acid to alcohol in the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The answer includes correct units (a² for area, length units for diameter) or a dimensional analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect area count",
+    "description": "Pitfall: Penalize if the area is miscounted from the grid (e.g., not 31 squares).",
+    "weight": -2
+  },
+  {
+    "title": "Volume fraction error",
+    "description": "Pitfall: Penalize if the volume fraction of oleic acid is misapplied (e.g., using n/(m+n) or confusing the ratio).",
+    "weight": -2
+  },
+  {
+    "title": "Droplet volume mistake",
+    "description": "Pitfall: Penalize if failing to divide the total volume V by the number of droplets k to find the volume per droplet.",
+    "weight": -1
+  }
+]

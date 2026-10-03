@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates spring constant k = 400 N/m using Hooke's law and equilibrium condition at constant velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Friction at constant velocity",
+    "description": "Important: Recognizes that at constant velocity, spring force equals kinetic friction force (μmg = 18 N).",
+    "weight": 4
+  },
+  {
+    "title": "Compressed spring friction (6cm)",
+    "description": "Essential: Correctly determines frictional force magnitude = 16 N when spring is compressed to 6 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Static friction application",
+    "description": "Important: For compression to 6 cm, identifies that spring force (16 N) is less than maximum static friction, so friction equals spring force.",
+    "weight": 3
+  },
+  {
+    "title": "Compressed spring friction (16cm)",
+    "description": "Essential: Correctly determines frictional force magnitude = 18 N when spring is compressed to 16 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction application",
+    "description": "Important: For compression to 16 cm, recognizes spring force (24 N) exceeds maximum static friction, so kinetic friction (18 N) acts.",
+    "weight": 4
+  },
+  {
+    "title": "Direction specification",
+    "description": "Optional: Includes correct directions for friction forces (right for 6 cm, left for 16 cm).",
+    "weight": 2
+  },
+  {
+    "title": "Hooke's law misapplication",
+    "description": "Pitfall: Uses wrong sign in Hooke's law (e.g., F = k|x| without considering compression vs. stretch).",
+    "weight": -2
+  },
+  {
+    "title": "Friction type confusion",
+    "description": "Pitfall: Treats all cases as kinetic friction or fails to compare spring force to maximum static friction.",
+    "weight": -2
+  }
+]

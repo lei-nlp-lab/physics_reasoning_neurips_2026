@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity magnitude at impact",
+    "description": "Essential: The final numerical answer for the speed of sphere a when b hits the ground must be 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum height reached",
+    "description": "Essential: The final numerical answer for the maximum height of sphere a must be 3.75 m.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem to the two-sphere system to relate the change in gravitational potential energy to the gain in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Post-impact motion analysis",
+    "description": "Important: After sphere b hits the ground, the solution must analyze sphere a's motion as a projectile or under gravity alone to find its additional rise.",
+    "weight": 3
+  },
+  {
+    "title": "Correct mass consideration",
+    "description": "Important: The kinetic energy term must correctly use the sum of the masses (m_a + m_b) since both spheres move with the same speed while connected.",
+    "weight": 3
+  },
+  {
+    "title": "Total height calculation",
+    "description": "Optional: The final maximum height should be correctly found by adding the initial height h to the additional height h' gained after the impact.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Incorrectly assigning signs to the change in potential energy for each mass (e.g., m_a*g*h should be positive if h is its rise).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring post-impact motion",
+    "description": "Pitfall: Assuming sphere a stops when sphere b hits the ground, and not calculating its continued upward motion.",
+    "weight": -2
+  }
+]

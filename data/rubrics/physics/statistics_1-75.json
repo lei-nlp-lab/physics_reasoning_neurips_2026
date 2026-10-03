@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The correct final answer for part (a) must be stated as c_p = c_v + k.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The correct final answer for part (b) must be stated as pV^gamma = const.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Capacity Relation",
+    "description": "Important Criteria: The derivation of the relation C_p - C_v = k must be clearly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Adiabatic Process",
+    "description": "Important Criteria: The explanation of the adiabatic process and its implications must be correctly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should check that units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect assumptions in the derivation must be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Mentioning any limiting cases or special conditions for the perfect gas behavior would enhance the response.",
+    "weight": 1
+  }
+]

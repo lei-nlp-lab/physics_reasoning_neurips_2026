@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity expression",
+    "description": "Essential: The response must provide the correct final algebraic expression for the velocity at plate B, v = 3 * sqrt(2 * U0 * q / (7 * m)).",
+    "weight": 5
+  },
+  {
+    "title": "Final plate distance expression",
+    "description": "Essential: The response must provide the correct final algebraic expression for the plate separation, d = sqrt(7 * U0 * q * T0^2 / (2 * m)).",
+    "weight": 5
+  },
+  {
+    "title": "Two-stage acceleration analysis",
+    "description": "Important: The solution must correctly derive the different accelerations (a1, a2) from the changing voltage, using E=U/d and F=ma.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics in first phase",
+    "description": "Important: The solution must correctly apply kinematics (v1 = a1*T0, x1 = 1/2*a1*T0^2) for the constant-acceleration phase from 0 to T0.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics in second phase",
+    "description": "Important: The solution must correctly apply kinematics (x2 = v1*T0 + 1/2*a2*T0^2, v = v1 + a2*T0) for the constant-acceleration phase from T0 to 2T0.",
+    "weight": 3
+  },
+  {
+    "title": "Total displacement condition",
+    "description": "Important: The solution must state or use the condition that the sum of displacements (x1 + x2) equals the plate separation d.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the solution incorrectly handles the sign/direction of acceleration, velocity, or electric field when the voltage polarity changes.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly checks or comments on the dimensional consistency of their final expressions.",
+    "weight": 1
+  }
+]

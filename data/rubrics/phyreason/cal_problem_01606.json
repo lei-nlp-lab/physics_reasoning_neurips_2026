@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration expression",
+    "description": "Essential: The response must state the correct formula for the electron's acceleration, a = eU/(md).",
+    "weight": 5
+  },
+  {
+    "title": "Deflection distance expression",
+    "description": "Essential: The response must state the correct final formula for the deflection distance, Δy = eUL²/(2mdv₀²).",
+    "weight": 5
+  },
+  {
+    "title": "Force and Newton's law",
+    "description": "Important: The solution should correctly relate the electric force (F = eE = eU/d) to acceleration via F = ma.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: The solution must correctly calculate the time of flight (t = L/v₀) and apply it in the uniformly accelerated motion equation (Δy = ½at²).",
+    "weight": 4
+  },
+  {
+    "title": "Direction of force/acceleration",
+    "description": "Pitfall: Penalize if the solution incorrectly uses the sign of the electron's charge, leading to a wrong direction for force or acceleration, though magnitude may be correct.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly checks or discusses the dimensional consistency of their final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Field uniformity assumption",
+    "description": "Optional: Award credit if the solution explicitly notes the use of the uniform electric field assumption (E = U/d).",
+    "weight": 1
+  }
+]

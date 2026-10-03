@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Centripetal force at B",
+    "description": "Essential: The final answer for part (1) must be correctly stated as 7mg.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude and direction",
+    "description": "Essential: The final answer for part (2) must correctly give the magnitude as 2√2 R and the direction as 45° downward-left.",
+    "weight": 5
+  },
+  {
+    "title": "Spring work value",
+    "description": "Essential: The final answer for part (3) must correctly state the work done by the spring as 5mgR.",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's second law at B",
+    "description": "Important: The student must correctly relate the given normal force (8mg) to the centripetal force using F_centripetal = N - mg.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation with friction",
+    "description": "Important: The work-energy theorem from A to B must be applied, accounting for spring work, kinetic energy at B, and work done by friction (μ=0.5 over distance 3R).",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: After point C, the motion must be treated as projectile motion, correctly calculating horizontal and vertical displacements using v_C = √(gR).",
+    "weight": 3
+  },
+  {
+    "title": "Vector displacement composition",
+    "description": "Optional: The total displacement after C should be found by combining horizontal and vertical components via the Pythagorean theorem and arctan.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Incorrectly using F_centripetal = N + mg at point B, leading to an answer of 9mg.",
+    "weight": -2
+  },
+  {
+    "title": "Omitting friction work",
+    "description": "Pitfall: Failing to subtract the work done by friction (1.5mgR) in the work-energy calculation for the spring.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or direction omission",
+    "description": "Pitfall: Stating the displacement magnitude without the required direction (45° downward-left) or omitting units/radicals.",
+    "weight": -1
+  }
+]

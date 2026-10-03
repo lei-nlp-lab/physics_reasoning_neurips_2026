@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average velocity correct",
+    "description": "Essential: The final answer for average velocity is 9 m/s, correctly calculated from displacement and time.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration correct",
+    "description": "Essential: The final answer for acceleration is 3 m/s², correctly derived from kinematics for uniform acceleration from rest.",
+    "weight": 5
+  },
+  {
+    "title": "Force correct",
+    "description": "Essential: The final answer for the pulling force is 6 N, correctly applying Newton's second law with the mass and calculated acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics reasoning",
+    "description": "Important: Correctly uses the kinematic equation for displacement under constant acceleration starting from rest (e.g., x = 1/2 a t²).",
+    "weight": 3
+  },
+  {
+    "title": "Newton's law application",
+    "description": "Important: Explicitly states or applies Newton's second law (F_net = ma) to relate force, mass, and acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (m/s, m/s², N) with all final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied average velocity",
+    "description": "Pitfall: Uses (initial+final)/2 for average velocity without justification, or confuses it with instantaneous velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or formula error",
+    "description": "Pitfall: Uses an incorrect kinematic formula (e.g., x = v₀t + at²) or makes an algebraic mistake solving for acceleration.",
+    "weight": -2
+  }
+]

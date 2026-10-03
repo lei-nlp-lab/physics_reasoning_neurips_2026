@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration calculation",
+    "description": "Essential: The response must correctly compute the acceleration as 4 m/s² using the formula a = v/t for uniformly accelerated motion from rest.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement during acceleration",
+    "description": "Essential: The response must correctly compute the displacement during the acceleration phase as 8 m, using an appropriate kinematic formula.",
+    "weight": 5
+  },
+  {
+    "title": "Uniform motion time",
+    "description": "Important: The response must correctly calculate the time for the constant-speed phase, requiring the use of the remaining distance and the constant velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Total time summation",
+    "description": "Important: The response must correctly sum the acceleration phase time and the constant-speed phase time to find the total time of 7.25 s.",
+    "weight": 4
+  },
+  {
+    "title": "Correct formula application",
+    "description": "Important: The solution must demonstrate the correct selection and application of kinematic equations for uniformly accelerated and uniform motion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final answers should be presented with correct units (m/s², m, s).",
+    "weight": 1
+  },
+  {
+    "title": "Misusing distance for time",
+    "description": "Pitfall: Penalize if the student incorrectly uses the total relay distance (50 m) as the distance for the acceleration phase only.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or formula error",
+    "description": "Pitfall: Penalize significant errors such as using v² = u² + 2as incorrectly for displacement or confusing average and final velocity.",
+    "weight": -1
+  }
+]

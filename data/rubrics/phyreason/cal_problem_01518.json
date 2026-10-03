@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity at detachment",
+    "description": "Essential: Correctly calculates the ball's speed at point A using energy conservation from the given spring energy.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to C",
+    "description": "Important: Applies conservation of mechanical energy between points A and C, accounting for the change in gravitational potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum speed at C",
+    "description": "Important: States or uses the condition for circular motion at the top (N ≥ 0) to find the minimum required speed.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force at C",
+    "description": "Essential: Correctly applies Newton's second law for circular motion at point C to find the normal force from the track.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure and motion after C",
+    "description": "Essential: Correctly states the pressure (magnitude and direction) on the track and describes the subsequent projectile motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Makes a sign error in the gravitational potential energy term when applying energy conservation between A and C.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting normal force direction",
+    "description": "Pitfall: Incorrectly signs the normal force in the force balance at point C (e.g., mg - N = mv²/R).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis for key calculations (energy, force) to verify dimensional consistency.",
+    "weight": 1
+  }
+]

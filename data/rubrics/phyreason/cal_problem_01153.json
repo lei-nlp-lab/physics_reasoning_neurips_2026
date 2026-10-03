@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct T1 calculation",
+    "description": "Essential: Student must correctly apply ideal gas law to find T1 = 0.88 T0 using given p1=1.1p0 and V1=0.8Sl0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct T2 calculation",
+    "description": "Essential: Student must find final temperature T2 = 1.8 T0 for the second equilibrium state.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at first state",
+    "description": "Important: Student must set up force equilibrium for piston at displacement 0.2l0 to relate applied force F, spring force, and pressures.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance at second state",
+    "description": "Important: Student must set up force equilibrium for piston at displacement 1.2l0, incorporating the same constant applied force F.",
+    "weight": 4
+  },
+  {
+    "title": "Spring constant application",
+    "description": "Important: Student must correctly use given k = p0S/l0 to express spring forces in both equilibrium equations.",
+    "weight": 3
+  },
+  {
+    "title": "Ideal gas law linking states",
+    "description": "Important: Student must apply ideal gas law (pV/T constant) to relate the two final states to the initial state or to each other.",
+    "weight": 4
+  },
+  {
+    "title": "Volume identification",
+    "description": "Optional: Student explicitly identifies volumes V1 = 0.8Sl0 and V2 = 1.2Sl0 from piston displacements.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in spring force",
+    "description": "Pitfall: Student uses incorrect sign/direction for spring force (compression vs extension) in force balance equations.",
+    "weight": -2
+  },
+  {
+    "title": "Pressure unit confusion",
+    "description": "Pitfall: Student treats pressures as forces without multiplying by area S, or misapplies atmospheric pressure.",
+    "weight": -1
+  }
+]

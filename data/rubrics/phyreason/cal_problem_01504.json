@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Speed at C",
+    "description": "Essential: Correctly states that the speed at point C is determined by the condition for circular motion at the top: mg = m*v_C^2/R, yielding v_C = sqrt(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Normal Force at B",
+    "description": "Important: Applies Newton's second law for circular motion at point B: F_N - mg = m*v_B^2/R, using the given that the normal force on the track is 7mg.",
+    "weight": 4
+  },
+  {
+    "title": "Spring Potential Energy",
+    "description": "Essential: Correctly calculates the initial elastic potential energy E_p as equal to the kinetic energy at B (1/2 * m * v_B^2) using conservation of mechanical energy from A to B.",
+    "weight": 5
+  },
+  {
+    "title": "Work Against Friction",
+    "description": "Important: Applies the work-energy theorem from B to C, accounting for gravity and the work W done against resistance: -2mgR - W = (1/2)m(v_C^2 - v_B^2).",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Ensures all calculations use consistent units (m, kg, s, J) and correctly converts or handles values like g=10 m/s² and R=0.6 m.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Work",
+    "description": "Pitfall: Incorrectly signs the work done by resistance (e.g., treating W as positive when it is energy dissipated, leading to a negative or incorrect magnitude).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting Normal Force",
+    "description": "Pitfall: Confuses the normal force exerted by the track on the object with the force exerted by the object on the track, or misapplies the factor of 7.",
+    "weight": -1
+  }
+]

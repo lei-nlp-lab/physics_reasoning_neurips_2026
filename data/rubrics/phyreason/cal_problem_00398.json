@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic radius calculation",
+    "description": "Essential: Student correctly calculates r = mv₀/(qB) = 0.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Exit coordinate from O",
+    "description": "Essential: Student finds y_A = R²/(2r) = 0.025 m for particle incident from origin.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum time in field",
+    "description": "Essential: Student calculates t_max = (πm)/(6qB) ≈ 6.5×10⁻⁸ s.",
+    "weight": 5
+  },
+  {
+    "title": "Incidence coordinate",
+    "description": "Essential: Student finds y_D' = -(r - r cos30°) ≈ -0.027 m.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of circular arc",
+    "description": "Important: Student recognizes particles follow circular arcs with radius r > R.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum angle derivation",
+    "description": "Important: Student determines maximum central angle α_m = π/6 from geometry.",
+    "weight": 3
+  },
+  {
+    "title": "Period calculation",
+    "description": "Optional: Student computes full period T = 2πm/(qB) correctly.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in coordinates",
+    "description": "Pitfall: Student uses wrong sign for y_D' (positive instead of negative).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing radius relationships",
+    "description": "Pitfall: Student incorrectly assumes r = R or misapplies geometry for y_A.",
+    "weight": -1
+  }
+]

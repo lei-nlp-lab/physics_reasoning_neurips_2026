@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Correct B1 formula",
+    "description": "Essential: Student must derive or state B1 = (1/R) * sqrt(2(m/e)V0) for the deflection field.",
+    "weight": 5
+  },
+  {
+    "title": "Correct B formula",
+    "description": "Essential: Student must derive or state B = (4/R) * sqrt(2(m/e)V0) for the toroidal field giving four foci.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical answers",
+    "description": "Essential: Student must compute B1 ≈ 3.7e-3 T and B ≈ 1.48e-2 T with correct units (T or Vs/m²).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force application",
+    "description": "Important: Student applies F = e v B for centripetal force, equating m v²/R = e v B1 for part (1).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity from energy",
+    "description": "Important: Student uses energy conservation (1/2 m v0² = e V0) to express v0 in terms of V0 and e/m.",
+    "weight": 4
+  },
+  {
+    "title": "Cyclotron motion analysis",
+    "description": "Important: For part (2), student finds gyration period T = 2πm/(eB) and relates focus spacing b = v∥0 T.",
+    "weight": 4
+  },
+  {
+    "title": "Focus spacing condition",
+    "description": "Important: Student correctly states that four foci per toroid circumference means b = (2πR)/4 = πR/2.",
+    "weight": 4
+  },
+  {
+    "title": "Small-angle approximation",
+    "description": "Optional: Student notes v∥0 ≈ v0 due to small aperture angle, simplifying the focus distance calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows unit analysis for final magnetic field expressions, confirming Vs/m² or Tesla.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or vector error",
+    "description": "Pitfall: Student uses incorrect Lorentz force sign (e.g., +e(v×B)) or misplaces cross-product order.",
+    "weight": -2
+  },
+  {
+    "title": "Focus spacing mistake",
+    "description": "Pitfall: Student incorrectly relates focus spacing to circumference (e.g., uses b = 2πR or b = R).",
+    "weight": -2
+  }
+]

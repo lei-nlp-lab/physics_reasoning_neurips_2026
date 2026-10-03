@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final angular velocity",
+    "description": "Essential: The response must provide the correct final expression for ω(T) in terms of λ, a, I, B₀, μ₀, and π.",
+    "weight": 5
+  },
+  {
+    "title": "Proportionality constant α",
+    "description": "Essential: The response must correctly identify α as the vacuum permittivity ε₀.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Faraday's Law",
+    "description": "Important: The solution must use Faraday's law to find the induced azimuthal electric field E_θ(r) = -(r/2) dB/dt.",
+    "weight": 4
+  },
+  {
+    "title": "Torque from electric force",
+    "description": "Important: The solution must calculate the torque on the cylindrical shell by integrating the force from the induced electric field on its surface charge.",
+    "weight": 4
+  },
+  {
+    "title": "Angular momentum conservation setup",
+    "description": "Important: The solution must relate the change in mechanical angular momentum of the cylinder to the change in electromagnetic field angular momentum, or correctly integrate the torque equation.",
+    "weight": 3
+  },
+  {
+    "title": "Self-induced magnetic field",
+    "description": "Important: The solution must account for the magnetic field produced by the rotating charged shell (via Ampère's law) in the final state and include it in the dynamics or conservation law.",
+    "weight": 4
+  },
+  {
+    "title": "Define EM momentum density",
+    "description": "Optional: The solution for part (b) correctly expresses the Poynting vector or momentum density 𝒫 in terms of E and B for the given geometry.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in direction",
+    "description": "Pitfall: Penalize if the final answer for ω(T) or α has an incorrect sign relative to the defined coordinate system (e.g., missing the negative sign from Lenz's law or cross products).",
+    "weight": -2
+  },
+  {
+    "title": "Neglect self-field effect",
+    "description": "Pitfall: Penalize if the solution finds ω = -(λa²/(2I))B₀, which omits the correction from the shell's own magnetic field.",
+    "weight": -2
+  }
+]

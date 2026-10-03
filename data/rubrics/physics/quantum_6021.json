@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final expression for the differential scattering cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Born Approximation",
+    "description": "Important Criteria: The student should correctly apply the Born approximation formula for scattering.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show the correct steps in evaluating the integral involving the potential.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Variables",
+    "description": "Important Criteria: The student should correctly define and use the variables q, A, and a throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations, particularly in the integration steps.",
+    "weight": -2
+  }
+]

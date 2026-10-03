@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum distance time",
+    "description": "Essential: Correctly identifies that maximum separation occurs when the car's instantaneous velocity equals the bicycle's constant velocity (v_car = 6 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance value",
+    "description": "Essential: Correctly calculates the maximum distance (12.5 m) using the relative displacement formula at the correct time.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up condition",
+    "description": "Important: Applies the correct condition for the car catching the bicycle: car displacement equals bicycle displacement plus initial 8m gap.",
+    "weight": 4
+  },
+  {
+    "title": "Catch-up velocity",
+    "description": "Essential: Correctly calculates the car's speed (16 m/s) at the catch-up time using v = a*t.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration identification",
+    "description": "Important: Correctly extracts the car's acceleration (4 m/s²) from the given equation x_car = 2t².",
+    "weight": 3
+  },
+  {
+    "title": "Velocity identification",
+    "description": "Important: Correctly identifies the bicycle's constant velocity (6 m/s) from the given equation x_bike = 6t.",
+    "weight": 3
+  },
+  {
+    "title": "Quadratic solution",
+    "description": "Optional: Correctly solves the quadratic equation from the catch-up condition and selects the physically meaningful root (t=4 s).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in the relative distance formula (e.g., forgetting the initial gap) or uses incorrect units in final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity equality misconception",
+    "description": "Pitfall: Incorrectly assumes maximum distance occurs at t=0 or when accelerations are equal, rather than when velocities are equal.",
+    "weight": -1
+  }
+]

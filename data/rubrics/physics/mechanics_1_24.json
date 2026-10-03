@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Height Calculation",
+    "description": "Essential Criteria - The height of the stationary orbit must be correctly calculated as h = 3.59 x 10^4 km.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Receptor Size",
+    "description": "Essential Criteria - The required size of the ground receptor station must be correctly estimated as 3.59 x 10^4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Relevant Equations",
+    "description": "Important Criteria - The student should correctly apply the gravitational force and angular velocity equations to derive the height.",
+    "weight": 4
+  },
+  {
+    "title": "Diffraction Consideration",
+    "description": "Important Criteria - The student should consider diffraction effects when estimating the receptor size.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - The student should maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Calculation Errors",
+    "description": "Pitfall Criteria - The student should avoid common errors such as sign mistakes or incorrect application of constants.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria - The final answers should be presented in a clear and correct format.",
+    "weight": 1
+  }
+]

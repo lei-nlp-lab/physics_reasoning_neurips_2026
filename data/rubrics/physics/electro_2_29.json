@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct expression for the magnetic field B must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ampère's Law",
+    "description": "Important Criteria: The application of Ampère's circuital law must be correctly stated and used in the derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Assumptions Stated",
+    "description": "Important Criteria: The assumptions regarding the relationships between s, d, and R must be clearly articulated.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The units of the final answer should be checked for consistency.",
+    "weight": 2
+  },
+  {
+    "title": "Neglecting Leakage",
+    "description": "Important Criteria: The reasoning for neglecting magnetic leakage in the gap must be justified.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the final expression must be identified.",
+    "weight": -2
+  }
+]

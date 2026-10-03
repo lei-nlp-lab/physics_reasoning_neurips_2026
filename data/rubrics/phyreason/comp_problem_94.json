@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final temperature expression",
+    "description": "Essential Criteria: The response must correctly state the final common temperature as T_f = sqrt(T_1 * T_2).",
+    "weight": 5
+  },
+  {
+    "title": "Total work expression",
+    "description": "Essential Criteria: The response must correctly state the total work done as W = C[T_1 + T_2 - 2*sqrt(T_1 * T_2)].",
+    "weight": 5
+  },
+  {
+    "title": "Minimum T1 temperature",
+    "description": "Essential Criteria: The response must correctly identify the minimum temperature for the first object as 100 K.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum T3 temperature",
+    "description": "Essential Criteria: The response must correctly identify the maximum temperature for the third object as 400 K.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy conservation reasoning",
+    "description": "Important Criteria: The solution should apply entropy conservation (dQ/T sum equals zero) for the reversible Carnot process between the two initial objects.",
+    "weight": 4
+  },
+  {
+    "title": "Three-object entropy/energy system",
+    "description": "Important Criteria: For part (3), the solution must set up the correct constraints (constant sum and constant product of temperatures) from entropy and energy conservation for the three-object system.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if the work expression has an incorrect sign, suggesting work is absorbed rather than extracted.",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic or algebraic error",
+    "description": "Pitfall Criteria: Penalize significant arithmetic mistakes in solving the quadratic equation T_H^2 - 13T_H + 36 = 0 or in simplifying the final expressions.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The response maintains consistent units (Kelvin, Joules) throughout the numerical answers and expressions.",
+    "weight": 1
+  }
+]

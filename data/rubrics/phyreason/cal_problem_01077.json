@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at 0.1s",
+    "description": "Essential: Correctly calculates v = gt = 1 m/s for the first 0.1 seconds of free fall.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement in second 0.1s",
+    "description": "Essential: Correctly computes Δx = ½g(t₂² - t₁²) = 0.15 m for the interval from t=0.1s to t=0.2s.",
+    "weight": 5
+  },
+  {
+    "title": "Streak length ratio K",
+    "description": "Essential: Derives and states K = √2 ≈ 1.414 as the ratio of streak lengths at 10 cm vs 5 cm below exit.",
+    "weight": 5
+  },
+  {
+    "title": "Free-fall kinematics application",
+    "description": "Important: Uses v² = 2gh to relate velocity to fall distance for the streak analysis.",
+    "weight": 3
+  },
+  {
+    "title": "Time interval handling",
+    "description": "Important: Correctly distinguishes between displacement during a specific time interval versus total displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Phenomenon explanation",
+    "description": "Optional: Explains that streaks form due to finite camera exposure time capturing motion blur.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for displacement or velocity direction in free fall.",
+    "weight": -1
+  },
+  {
+    "title": "Confusing displacement formulas",
+    "description": "Pitfall: Attempts to compute second-interval displacement using Δx = v₀t + ½gt² without adjusting for initial velocity at t=0.1s.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect streak ratio",
+    "description": "Pitfall: Assumes streak length is proportional to height rather than velocity (K = 2 instead of √2).",
+    "weight": -2
+  }
+]

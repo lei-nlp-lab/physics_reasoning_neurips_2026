@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Gas pressure expression",
+    "description": "Essential: The final answer for p₁ must be correctly expressed as p₀ + mg/(2S).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on pistons",
+    "description": "Important: The solution must apply Newton's second law to the connected pistons, relating forces from gas pressure, atmosphere, and the suspended mass.",
+    "weight": 4
+  },
+  {
+    "title": "Rod force elimination",
+    "description": "Important: The internal force in the connecting rod must be correctly eliminated when combining the force balance equations for the two pistons.",
+    "weight": 3
+  },
+  {
+    "title": "Final temperature value",
+    "description": "Essential: The final numerical answer for T₂ must be 330 K (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Isobaric process recognition",
+    "description": "Important: The solution must identify that the heating process occurs at constant pressure (p₁) after the initial equilibrium is found.",
+    "weight": 4
+  },
+  {
+    "title": "Volume change calculation",
+    "description": "Important: The student must correctly calculate the initial and final total gas volumes using the given cylinder dimensions and piston areas.",
+    "weight": 3
+  },
+  {
+    "title": "Ideal gas law application",
+    "description": "Important: For part (2), the ideal gas law (V/T = constant) must be correctly applied to the isobaric process.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Deduct points for incorrectly setting up force directions (e.g., wrong sign for mg or rod force), leading to an incorrect pressure expression.",
+    "weight": -2
+  },
+  {
+    "title": "Area confusion in pressure",
+    "description": "Pitfall: Deduct points for using the wrong piston area (S vs. 3S) when calculating force from pressure (F = pA).",
+    "weight": -2
+  },
+  {
+    "title": "Volume miscalculation",
+    "description": "Pitfall: Deduct points for an arithmetic error in calculating the initial (9LS) or final (11LS) total gas volume, leading to an incorrect T₂.",
+    "weight": -1
+  }
+]

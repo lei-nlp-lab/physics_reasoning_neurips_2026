@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Pre-collision velocity magnitude",
+    "description": "Essential: The student must compute the magnitude of the block's velocity just before impact as 5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-collision velocity direction",
+    "description": "Essential: The student must state the velocity is perpendicular to the inclined plane (or equivalent, e.g., parallel to the vertical).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum board length",
+    "description": "Essential: The student must calculate the minimum length of the wooden board as 0.06 m.",
+    "weight": 5
+  },
+  {
+    "title": "Initial distance to baffle",
+    "description": "Essential: The student must determine the initial distance between the board's front end and the baffle as 0.43 m.",
+    "weight": 5
+  },
+  {
+    "title": "Accelerations analysis",
+    "description": "Important: The student must correctly derive the three distinct accelerations (board alone, board with block, block relative to board) using Newton's second law.",
+    "weight": 4
+  },
+  {
+    "title": "Collision condition application",
+    "description": "Important: The student must apply the condition that the block's velocity component perpendicular to the incline becomes zero after collision.",
+    "weight": 3
+  },
+  {
+    "title": "Relative motion setup",
+    "description": "Important: The student must set up the kinematic equations for the relative motion between the block and board to find the time to equal velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion time",
+    "description": "Optional: The student may calculate the block's fall time (0.4 s) as an intermediate step.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Deduct if the student uses an incorrect sign for the friction force on the board, leading to wrong acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Deduct if final answers lack correct units (m/s, m, degrees) or use inconsistent units in calculations.",
+    "weight": -1
+  }
+]

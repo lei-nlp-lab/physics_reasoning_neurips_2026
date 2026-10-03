@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Hamiltonian Expression",
+    "description": "Essential Criteria: The Hamiltonian for a charged particle in an electromagnetic field must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Schrödinger Equation",
+    "description": "Essential Criteria: The steady-state Schrödinger equation for the hydrogen atom in a magnetic field must be accurately derived.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Shift Calculation",
+    "description": "Important Criteria: The perturbation approach to calculate the ground state energy shift due to the magnetic field must be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Diamagnetic Moment",
+    "description": "Essential Criteria: The induced diamagnetic moment per atom must be correctly expressed in terms of the derived energy shift.",
+    "weight": 5
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units must be consistently applied throughout the calculations to ensure physical correctness.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or missing factors in the Hamiltonian or energy shift calculations must be avoided.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct classifications for each conservation law as S, E, or W.",
+    "weight": 5
+  },
+  {
+    "title": "CP Violation Example",
+    "description": "Important Criteria: Mention a specific experiment demonstrating CP violation, such as K_L decay.",
+    "weight": 4
+  },
+  {
+    "title": "I-spin Conservation",
+    "description": "Important Criteria: Correctly identify I-spin conservation as applicable to strong interactions.",
+    "weight": 3
+  },
+  {
+    "title": "Strangeness Conservation",
+    "description": "Important Criteria: Correctly identify strangeness conservation as applicable to strong and electromagnetic interactions.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid incorrect signs or classifications in the conservation laws.",
+    "weight": -2
+  }
+]

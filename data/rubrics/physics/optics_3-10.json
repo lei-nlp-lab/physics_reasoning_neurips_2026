@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Photomultiplier Function",
+    "description": "Essential Criteria: The response must accurately describe the basic operation of a photomultiplier tube, including the role of the cathode and dynodes.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Calculation",
+    "description": "Essential Criteria: The response must provide the correct expression for the ratio Delta N/N and its derivation.",
+    "weight": 5
+  },
+  {
+    "title": "Photon Distinction Conclusion",
+    "description": "Important Criteria: The response should conclude whether the tube can distinguish between two photons differing by 50% based on the derived ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Poisson Distribution Reference",
+    "description": "Important Criteria: The response should mention the Poisson distribution and its relevance to the number of electrons collected.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: The response may include relevant units or constants used in the calculations for clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as incorrect assumptions about the number of dynodes or miscalculating the secondary emission rate.",
+    "weight": -2
+  }
+]

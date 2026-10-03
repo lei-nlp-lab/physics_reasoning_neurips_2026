@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer on Neutrons",
+    "description": "Essential Criteria: The student must correctly state that eta > 2 is a prerequisite for breeding.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer on Moderator",
+    "description": "Essential Criteria: The student must accurately explain that water cannot be used as a moderator in a breeder reactor.",
+    "weight": 5
+  },
+  {
+    "title": "Breeder Reactor Explanation",
+    "description": "Important Criteria: The student should provide a clear explanation of how a breeder reactor operates, including the roles of fissionable and nonfissionable materials.",
+    "weight": 4
+  },
+  {
+    "title": "Neutron Production Concept",
+    "description": "Important Criteria: The student should mention the significance of neutron production in sustaining the chain reaction and breeding process.",
+    "weight": 4
+  },
+  {
+    "title": "Material Constraints",
+    "description": "Important Criteria: The student should identify the constraints on material choice in a breeder reactor, particularly regarding neutron absorption.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as misinterpreting the role of moderators in breeding reactors.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Definitions",
+    "description": "Optional Criteria: The student may include relevant units or definitions related to neutron production and fission processes.",
+    "weight": 2
+  }
+]

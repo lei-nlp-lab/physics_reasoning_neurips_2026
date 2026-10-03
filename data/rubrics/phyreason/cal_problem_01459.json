@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Block acceleration correct",
+    "description": "Essential: Student states the block's acceleration as 2 m/s² to the right, derived from kinetic friction μmg = ma₁.",
+    "weight": 5
+  },
+  {
+    "title": "Cart acceleration correct",
+    "description": "Essential: Student states the cart's acceleration as 0.5 m/s² to the right, derived from F - μmg = Ma₂.",
+    "weight": 5
+  },
+  {
+    "title": "Time to common speed",
+    "description": "Essential: Student calculates the time for the block and cart to reach a common speed as 1 s, using kinematics v₀ + a₂t = a₁t.",
+    "weight": 5
+  },
+  {
+    "title": "Block speed at t=1.5 s",
+    "description": "Essential: Student finds the block's speed at t=1.5 s as 2.4 m/s, correctly handling the two acceleration phases.",
+    "weight": 5
+  },
+  {
+    "title": "Identifies two motion phases",
+    "description": "Important: Student recognizes that after reaching common speed, the block and cart move together with a single acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Checks for slipping after t₁",
+    "description": "Important: Student verifies that the required frictional force for joint motion (ma₃) is less than the maximum static friction.",
+    "weight": 3
+  },
+  {
+    "title": "Correct kinematics application",
+    "description": "Important: Student correctly applies constant-acceleration equations (v = v₀ + at) for both objects in each phase.",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student misassigns the direction of friction on the cart or block, leading to incorrect acceleration signs.",
+    "weight": -2
+  },
+  {
+    "title": "Forgets initial cart velocity",
+    "description": "Pitfall: Student sets up the common-speed equation without including the cart's initial velocity v₀.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student explicitly shows units in calculations and confirms they are consistent (e.g., using g=10 m/s²).",
+    "weight": 1
+  }
+]

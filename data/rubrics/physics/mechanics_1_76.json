@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Plane Motion Proof",
+    "description": "Essential Criteria: The student must correctly show that the motion of the particle lies in a plane by demonstrating that the angular momentum is conserved.",
+    "weight": 5
+  },
+  {
+    "title": "Position Function",
+    "description": "Essential Criteria: The student must derive the correct position functions for x and y as a function of time, incorporating the initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Ellipse Equation",
+    "description": "Important Criteria: The student must correctly identify that the motion describes an ellipse and provide the standard equation of the ellipse.",
+    "weight": 4
+  },
+  {
+    "title": "Period Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the period of the motion based on the derived equations.",
+    "weight": 5
+  },
+  {
+    "title": "Kepler's Laws Analysis",
+    "description": "Important Criteria: The student must analyze whether the motion obeys Kepler's laws and provide a clear explanation of the result.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of initial conditions or miscalculating the period.",
+    "weight": -2
+  }
+]

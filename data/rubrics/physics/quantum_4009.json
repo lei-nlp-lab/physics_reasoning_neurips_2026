@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Time Reversal Wave Function",
+    "description": "Essential Criteria: The time reversed form of the wave function must be correctly derived as psi^*(-t).",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian for Free Electron",
+    "description": "Essential Criteria: The Hamiltonian for a free electron in a magnetic field must be correctly expressed as H = (e hbar / 2mc) sigma_z H_z.",
+    "weight": 5
+  },
+  {
+    "title": "Time Rate of Change",
+    "description": "Essential Criteria: The operator for the time rate of change of mu must be derived as dmu/dt = (e/mc) H x mu.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Operators",
+    "description": "Important Criteria: The use of quantum mechanical operators and their commutation relations must be correctly applied in the derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Time Reversal Covariance",
+    "description": "Important Criteria: The condition for the Hamiltonian to be covariant under time reversal must be correctly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Magnetic Field Components",
+    "description": "Optional Criteria: The contributions of the magnetic field components in the Hamiltonian should be clearly identified.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the expressions for the Hamiltonian or time rate of change must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the derivation, particularly in the Hamiltonian and time rate of change.",
+    "weight": -1
+  }
+]

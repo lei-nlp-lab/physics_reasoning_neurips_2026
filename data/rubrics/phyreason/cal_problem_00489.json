@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work by electric field",
+    "description": "Essential: The student must state the work done by the electric field force as -0.2 J, correctly applying W_e = -ΔE_p.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U_AB",
+    "description": "Essential: The student must calculate the potential difference as -10,000 V (or -1×10^4 V) using U_AB = W_AB / q.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The student must determine the electric field strength magnitude as 1,000,000 V/m (or 1×10^6 V/m) using E = |U_AB| / d_parallel.",
+    "weight": 5
+  },
+  {
+    "title": "Field direction reasoning",
+    "description": "Important: The student must deduce the electric field direction is vertically downward, reasoning from the increase in potential energy for a positive charge moved against the field.",
+    "weight": 4
+  },
+  {
+    "title": "Parallel distance calculation",
+    "description": "Important: The student must correctly compute the parallel displacement (d = 0.01 m) using the given distance and the 60° angle.",
+    "weight": 3
+  },
+  {
+    "title": "Sign confusion in work",
+    "description": "Pitfall: Penalize if the student incorrectly gives the work as +0.2 J, confusing the work done by the field with the work done against it.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award credit for correctly converting cm to m and maintaining consistent SI units throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Vector vs. scalar handling",
+    "description": "Pitfall: Penalize if the student treats potential difference as a magnitude only, neglecting its sign, or misapplies the angle in the electric field formula.",
+    "weight": -1
+  }
+]

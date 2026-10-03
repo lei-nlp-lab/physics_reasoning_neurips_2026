@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Entry speed value",
+    "description": "Essential Criteria: The response must state the rod's speed upon entering the magnetic field as 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important Criteria: The solution must apply Newton's second law or force balance (mgsinθ = BIL) for constant velocity entry.",
+    "weight": 4
+  },
+  {
+    "title": "Distance d_0 value",
+    "description": "Essential Criteria: The response must state the initial distance d_0 as 0.4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for d_0",
+    "description": "Important Criteria: The solution must use conservation of energy (mgh = ½mv²) to relate d_0 to the entry speed.",
+    "weight": 4
+  },
+  {
+    "title": "Joule heat Q_R value",
+    "description": "Essential Criteria: The response must state the Joule heat on resistor R as 0.096 J.",
+    "weight": 5
+  },
+  {
+    "title": "Current and time calculation",
+    "description": "Important Criteria: The solution must calculate the induced current (I = BLv/(R+r)) and the transit time (t = d/v) to find the heat.",
+    "weight": 3
+  },
+  {
+    "title": "Motional EMF application",
+    "description": "Important Criteria: The solution must correctly apply the formula for motional EMF (E = BLv) in the inclined setup.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the force direction (magnetic vs. gravitational) is incorrectly assigned, leading to wrong equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Award if all final answers include correct SI units (m/s, m, J) and intermediate steps show unit analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Circuit resistance omission",
+    "description": "Pitfall Criteria: Penalize if the total circuit resistance (R+r) is not used in the current or power calculations.",
+    "weight": -1
+  }
+]

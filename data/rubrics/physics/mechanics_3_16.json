@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Frequency Equation",
+    "description": "Essential Criteria: The student must provide the correct equation for the frequency of the reflected photon, nu' = nu(1 + 2beta cos(theta_i) + beta^2) / (1 - beta^2).",
+    "weight": 5
+  },
+  {
+    "title": "Final Angle Equation",
+    "description": "Essential Criteria: The student must provide the correct equation for the cosine of the reflected angle, cos(theta_r) = ((1 + beta^2) cos(theta_i) + 2beta) / (1 + 2beta cos(theta_i) + beta^2).",
+    "weight": 5
+  },
+  {
+    "title": "Mirror Velocity Impact",
+    "description": "Important Criteria: The student should explain how the direction of the mirror's velocity affects the reflection process, noting that motion in the y-direction does not change the angle or frequency.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection Angle Consistency",
+    "description": "Important Criteria: The student must correctly state that if the mirror moves in the y-direction, then theta_r = theta_i.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations, particularly for frequency and angle.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the transformation equations, particularly with the cosine terms.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as gamma and beta, are included in the final equations.",
+    "weight": -1
+  }
+]

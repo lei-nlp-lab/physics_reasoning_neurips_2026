@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: Provide the correct conditions for alpha and proton decay, including E_d > 0 for alpha decay and -ε < 0 for proton decay.",
+    "weight": 5
+  },
+  {
+    "title": "Disintegration Energy Explanation",
+    "description": "Important Criteria: Explain the concept of disintegration energy and how it relates to the stability of heavy nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Binding Energy Consideration",
+    "description": "Important Criteria: Discuss the role of binding energy in determining the feasibility of proton decay in heavy nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb Barrier Insight",
+    "description": "Optional Criteria: Mention the significance of the Coulomb barrier in the context of alpha and proton decay.",
+    "weight": 3
+  },
+  {
+    "title": "Stability Curve Reference",
+    "description": "Optional Criteria: Reference the stability curve and its relevance to the conditions for alpha and proton decay.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid errors related to the misinterpretation of binding energies or the conditions for decay.",
+    "weight": -2
+  }
+]

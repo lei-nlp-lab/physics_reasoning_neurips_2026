@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct angular velocity",
+    "description": "Essential Criteria: The student correctly converts the rotational speed to angular velocity (ω = 20π rad/s).",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF expression",
+    "description": "Essential Criteria: The student provides the correct sinusoidal expression for the instantaneous EMF (e.g., 100 sin(20πt) V).",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF value",
+    "description": "Essential Criteria: The student calculates the correct instantaneous EMF at t=1/60 s (e.g., 50√3 V).",
+    "weight": 5
+  },
+  {
+    "title": "Average EMF value",
+    "description": "Essential Criteria: The student calculates the correct average EMF from t=0 to t=1/60 s (e.g., 150/π V).",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's Law",
+    "description": "Important Criteria: The student correctly applies Faraday's law (E_avg = N ΔΦ/Δt) for the average EMF calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic flux change calculation",
+    "description": "Important Criteria: The student correctly determines the change in magnetic flux (ΔΦ) over the specified time interval.",
+    "weight": 4
+  },
+  {
+    "title": "Correct initial condition",
+    "description": "Important Criteria: The student correctly interprets the initial condition (t=0 at neutral plane) to determine the phase of the sinusoidal EMF.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units throughout the solution and presents final answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or phase error",
+    "description": "Pitfall Criteria: The student uses cosine instead of sine, or introduces an incorrect phase shift, for the instantaneous EMF expression.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect angular frequency",
+    "description": "Pitfall Criteria: The student makes an error in converting rotational speed to angular frequency (e.g., forgetting the 2π factor).",
+    "weight": -2
+  }
+]

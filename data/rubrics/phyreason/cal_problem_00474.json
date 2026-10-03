@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field at A",
+    "description": "Essential: Correctly calculates the electric field strength at point A using E = F/q, yielding 4/3 N/C or approximately 1.33 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Force at B",
+    "description": "Essential: Correctly calculates the magnitude of the electric force on q at point B, recognizing it is 1/4 of the force at A, yielding 1e-4 N.",
+    "weight": 5
+  },
+  {
+    "title": "Resultant field magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the resultant electric field at A from both Q and Q', yielding 8/3 N/C or approximately 2.67 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Resultant field direction",
+    "description": "Important: Correctly states the direction of the resultant electric field at point A is from A to B (or equivalent, e.g., towards B).",
+    "weight": 3
+  },
+  {
+    "title": "Field-force relationship",
+    "description": "Important: Applies the definition of electric field (E = F/q) to solve part (1) without incorrectly invoking Coulomb's law directly.",
+    "weight": 4
+  },
+  {
+    "title": "Inverse-square reasoning",
+    "description": "Important: Recognizes that the force at B is 1/4 of the force at A due to the inverse-square law (distance doubled, force quartered).",
+    "weight": 4
+  },
+  {
+    "title": "Superposition principle",
+    "description": "Important: Applies the principle of superposition to add the electric field vectors at A from Q and Q' for part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Incorrectly assigns direction for the resultant field (e.g., from B to A) or confuses the effect of the opposite sign charge Q'.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force scaling",
+    "description": "Pitfall: Fails to correctly scale the force for part (2) (e.g., uses 1/2 instead of 1/4, or incorrectly uses E = F/q again).",
+    "weight": -2
+  }
+]

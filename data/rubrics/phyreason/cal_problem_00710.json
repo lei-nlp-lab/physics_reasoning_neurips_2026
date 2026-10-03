@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct thickness difference",
+    "description": "Essential: The final answer must be λ/2.",
+    "weight": 5
+  },
+  {
+    "title": "Constructive interference condition",
+    "description": "Important: The response must apply the correct condition for constructive interference in thin films with a phase shift (e.g., 2d + λ/2 = mλ).",
+    "weight": 4
+  },
+  {
+    "title": "Adjacent fringe order relation",
+    "description": "Important: The reasoning must relate the conditions for two adjacent bright fringes (orders m and m+1).",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear steps of subtracting equations to isolate the thickness difference Δd.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The answer is expressed with the correct unit (length, consistent with λ).",
+    "weight": 1
+  },
+  {
+    "title": "Missing phase shift",
+    "description": "Pitfall: Applying the wrong interference condition (e.g., 2d = mλ) without accounting for the π phase shift.",
+    "weight": -2
+  },
+  {
+    "title": "Order confusion",
+    "description": "Pitfall: Misidentifying adjacent fringes (e.g., using m and m+2) leading to an incorrect multiple of λ/2.",
+    "weight": -1
+  }
+]

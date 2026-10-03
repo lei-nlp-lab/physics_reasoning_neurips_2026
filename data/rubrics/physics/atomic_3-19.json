@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Charge, Strangeness, Baryon Number",
+    "description": "Essential Criteria: The student must correctly identify the electric charge, strangeness, and baryon number of particle H.",
+    "weight": 5
+  },
+  {
+    "title": "Quark Count",
+    "description": "Essential Criteria: The student must determine the correct number of quarks that particle H must contain.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Momentum Calculation",
+    "description": "Important Criteria: The student must correctly apply the invariant mass formula to find the minimum incident beam proton momentum.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Modes Discussion",
+    "description": "Important Criteria: The student must discuss the possible decay modes of H, considering both strong and weak decays.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Violation",
+    "description": "Optional Criteria: The student should mention that certain strong decay channels are forbidden due to energy conservation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the momentum and energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent, particularly in energy and momentum calculations.",
+    "weight": -1
+  }
+]

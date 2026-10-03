@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum refractive index",
+    "description": "Essential: The final answer for part (1) must be n ≥ 2√3/3, derived from the condition for total internal reflection at the AB interface.",
+    "weight": 5
+  },
+  {
+    "title": "Critical angle condition",
+    "description": "Important: Correctly applies the total internal reflection condition sin(θ_c) = 1/n at the AB interface, linking it to the given i=60°.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry at disappearance",
+    "description": "Important: Identifies that the right spot disappears when the refracted ray at AC is at the critical angle, leading to the geometric condition i₀ + r = 90°.",
+    "weight": 4
+  },
+  {
+    "title": "Application of Snell's Law",
+    "description": "Important: Correctly applies Snell's Law (n sin r = sin i) at the AB interface for the given n=√3 to find the relationship for i₀.",
+    "weight": 3
+  },
+  {
+    "title": "Final angle i₀",
+    "description": "Essential: The final answer for part (2) must give i₀ = 30°, obtained from solving the geometric and Snell's Law conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Spot distance calculation",
+    "description": "Essential: The final answer for part (2) must give the distance from A as R/3, derived from correct trigonometric analysis of the light path.",
+    "weight": 5
+  },
+  {
+    "title": "Path geometry analysis",
+    "description": "Important: Correctly traces the light path from O to AC to AB to screen, using geometry of the 30-60-90 triangle AOC and quarter-circle.",
+    "weight": 3
+  },
+  {
+    "title": "Misapplied critical angle",
+    "description": "Pitfall: Penalize if the critical angle condition is incorrectly applied at the AC interface instead of the AB interface.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if angles are in radians without conversion, or if the distance answer omits the factor R or has incorrect trigonometric factors.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct deviation expression",
+    "description": "Essential: The student's final expression for δθ must be equivalent to δθ = arctan(((K_s - K_b) sinθ cosθ) / (1 - K_b cos²θ - K_s sin²θ)).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum deviation headings",
+    "description": "Essential: The student must identify the headings where δθ is largest as θ = 45°, 135°, 225°, and 315° (or equivalent radian measures).",
+    "weight": 5
+  },
+  {
+    "title": "Iron ball field expression",
+    "description": "Important: The student must derive the radial component of the iron ball's magnetic field as B_r = 2 B_e (m K_i / d³) cos φ, showing the dipole field structure.",
+    "weight": 4
+  },
+  {
+    "title": "Corrected deviation result",
+    "description": "Essential: For part (4), the student must conclude that the combined deviation after correction is zero (δθ = 0).",
+    "weight": 5
+  },
+  {
+    "title": "Superposition of components",
+    "description": "Important: The solution must correctly sum the northward (B_e) and eastward (ship's field) components to find the total field direction.",
+    "weight": 4
+  },
+  {
+    "title": "Small-angle approximation",
+    "description": "Important: For part (2), the student must apply the small K_b, K_s approximation to simplify tan(δθ) ≈ (K_s - K_b) sinθ cosθ.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric maximization",
+    "description": "Important: The student must recognize that maximizing δθ involves maximizing sin(2θ) or sinθ cosθ under the small-angle approximation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or coordinate error",
+    "description": "Pitfall: Penalize if the student confuses the signs of the ship's field components (B_s) or misaligns the unit vectors (b̂, ŝ) with north/east.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Penalize errors in the dipole field derivation, such as missing the factor of 2 in the radial component or incorrect distance dependence (1/d³).",
+    "weight": -1
+  }
+]

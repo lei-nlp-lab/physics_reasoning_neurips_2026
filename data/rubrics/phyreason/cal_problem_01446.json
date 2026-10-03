@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct tension expression",
+    "description": "Essential Criteria: The final answer for part (1) must be F₁ = mg/cosα or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct elastic force expression",
+    "description": "Essential Criteria: The final answer for part (2) must be F₂ = mg tanα or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important Criteria: The solution must apply equilibrium conditions (ΣF_x = 0, ΣF_y = 0) to the point mass.",
+    "weight": 4
+  },
+  {
+    "title": "Proper force decomposition",
+    "description": "Important Criteria: The tension force should be correctly resolved into vertical and horizontal components relative to the wall.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram implied",
+    "description": "Optional Criteria: The response should indicate or imply a correct free-body diagram showing all forces.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Expressions should maintain dimensional consistency with force units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect trigonometric ratio",
+    "description": "Pitfall Criteria: Penalize swapping cosα and sinα in tension expression (e.g., F₁ = mg/sinα).",
+    "weight": -2
+  },
+  {
+    "title": "Missing wall force",
+    "description": "Pitfall Criteria: Penalize omitting the wall's elastic force F₂ or treating it as zero.",
+    "weight": -2
+  }
+]

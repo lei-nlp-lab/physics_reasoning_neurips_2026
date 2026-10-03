@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration from graph",
+    "description": "Essential: Correctly calculates the acceleration during the first 2 seconds using the slope of the v-t graph (Δv/Δt).",
+    "weight": 5
+  },
+  {
+    "title": "Force F via Newton's Law",
+    "description": "Essential: Applies Newton's second law correctly to the first phase, solving for F using the net force equation (F - mg sinθ - μ mg cosθ = m a₁).",
+    "weight": 5
+  },
+  {
+    "title": "Time to highest point",
+    "description": "Essential: Correctly calculates the time to reach the highest point after force removal using kinematics (0 = v₁ + a₂ t₂) with the correct a₂.",
+    "weight": 5
+  },
+  {
+    "title": "Final displacement calculation",
+    "description": "Essential: Correctly calculates the total distance from the bottom after 1.8 seconds post-removal, combining upward and downward displacements.",
+    "weight": 5
+  },
+  {
+    "title": "Post-removal acceleration",
+    "description": "Important: Correctly determines the acceleration (a₂) after force removal using Newton's second law, accounting for gravity and friction up the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at t=2s",
+    "description": "Important: Identifies the velocity at the moment the force is removed (v₁ = 8 m/s) from the graph or kinematics.",
+    "weight": 3
+  },
+  {
+    "title": "Downward acceleration",
+    "description": "Optional: Correctly calculates the acceleration (a₃) when the object moves back down the incline after reaching the highest point.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses an incorrect sign for the post-removal acceleration (a₂) or misapplies it in kinematic equations, leading to wrong time or displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Friction direction mistake",
+    "description": "Pitfall: Misidentifies the direction of the friction force during the upward motion after force removal, or omits it in the net force.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or value omission",
+    "description": "Pitfall: Final answers lack correct units or uses incorrect given values (sin37°, cos37°, μ, g).",
+    "weight": -1
+  }
+]

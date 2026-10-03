@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for the rest mass m must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The application of conservation of energy must be correctly stated and utilized in the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The application of conservation of momentum must be correctly stated and utilized in the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Gamma",
+    "description": "Important Criteria: The definition and use of the Lorentz factor gamma must be correctly applied in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic Manipulation",
+    "description": "Optional Criteria: The algebraic steps to eliminate E and derive the final expression must be clear and correct.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units used throughout the solution must be consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect assumptions about the direction of momentum must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The solution should consider and discuss limiting cases, such as low velocities.",
+    "weight": 1
+  }
+]

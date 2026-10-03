@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial velocity magnitude",
+    "description": "Essential: The final answer for part (1) must be expressed as v₀ = (√3/2)v.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (2) must be expressed as E = (√3 mv²)/(4qL).",
+    "weight": 5
+  },
+  {
+    "title": "Plate separation distance",
+    "description": "Essential: The final answer for part (3) must be expressed as d = (√3/6)L.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal motion analysis",
+    "description": "Important: The solution must correctly apply constant horizontal velocity to relate L, v₀, and time.",
+    "weight": 3
+  },
+  {
+    "title": "Vertical motion analysis",
+    "description": "Important: The solution must correctly analyze vertical acceleration from the electric force to find vertical displacement and final velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Force and acceleration relation",
+    "description": "Important: The solution must apply Newton's second law (F=ma) with the electric force (F=qE).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity vector resolution",
+    "description": "Important: The solution must resolve the final velocity into components, using the given 30° angle.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the direction of acceleration (downward for a positive charge near the positive plate) is incorrect, leading to wrong signs in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency or omission",
+    "description": "Optional: Award credit if the final answers are presented with correct or implied units (m/s, N/C, m).",
+    "weight": 1
+  }
+]

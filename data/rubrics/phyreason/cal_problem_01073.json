@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration calculation",
+    "description": "Essential: The response must correctly compute the acceleration as 3 m/s² using Newton's second law with friction.",
+    "weight": 5
+  },
+  {
+    "title": "Distance for given speed",
+    "description": "Essential: The response must correctly calculate the distance traveled to reach 12 m/s as 24 m using appropriate kinematic equations.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at 4 seconds",
+    "description": "Important: The response must determine the velocity at t=4 s (12 m/s) before analyzing motion after force removal.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration after force removal",
+    "description": "Important: The response must correctly find the deceleration (-3 m/s²) due to friction alone after force F is removed.",
+    "weight": 4
+  },
+  {
+    "title": "Additional displacement calculation",
+    "description": "Essential: The response must correctly compute the additional distance traveled after force removal as 24 m using kinematic equations with deceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Free-body diagram or force analysis",
+    "description": "Optional: The response includes a clear free-body diagram or explicit force analysis showing normal force, friction, and applied force.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response maintains consistent units throughout calculations and includes units in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: The response incorrectly uses friction as an aiding force or misapplies its direction in Newton's second law.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematic equation misuse",
+    "description": "Pitfall: The response uses incorrect kinematic equations (e.g., wrong time interval or confusing acceleration values between phases).",
+    "weight": -2
+  }
+]

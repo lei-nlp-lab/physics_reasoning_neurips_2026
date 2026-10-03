@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Momentum conservation relation",
+    "description": "Essential: The student must state the correct momentum balance equation, such as uΔm + mΔv = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Rocket acceleration expression",
+    "description": "Essential: The student must derive the correct acceleration a = -(μ/m) u.",
+    "weight": 5
+  },
+  {
+    "title": "Integration of velocity equation",
+    "description": "Important: The student must correctly set up and perform the integration from initial to final mass to find the final speed.",
+    "weight": 4
+  },
+  {
+    "title": "Final rocket speed",
+    "description": "Essential: The student must arrive at the final speed v_f = u ln(9).",
+    "weight": 5
+  },
+  {
+    "title": "Exhaust speed from energy",
+    "description": "Important: The student must relate the exhaust speed to molecular kinetic energy using u = sqrt(2E/m_p).",
+    "weight": 3
+  },
+  {
+    "title": "Numerical exhaust speed",
+    "description": "Essential: The student must compute the numerical exhaust speed for water, approximately 5614 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: The student incorrectly assigns the sign in the acceleration equation, e.g., a = +(μ/m) u.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect mass limits",
+    "description": "Pitfall: The student uses incorrect integration limits for mass (e.g., from m0 to 9m0) leading to a wrong final speed.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student demonstrates unit analysis for the final numerical answer, confirming m/s.",
+    "weight": 1
+  }
+]

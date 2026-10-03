@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Proper Lifetime",
+    "description": "Essential Criteria: The student must correctly calculate the proper lifetime of the D^0 particle as tau_0 = 9.3 x 10^-13 s.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Factor Calculation",
+    "description": "Important Criteria: The student should accurately compute the Lorentz factor gamma using the total energy and mass of the D^0 particle.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Calculation",
+    "description": "Important Criteria: The student must determine the velocity beta of the D^0 particle in units of c correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Constant Derivation",
+    "description": "Important Criteria: The student should derive the decay constant lambda from the lifetime tau correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Time Distribution Explanation",
+    "description": "Essential Criteria: The student must explain that the expected time distribution for both decay modes follows the same exponential form.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Branching Ratio Comparison",
+    "description": "Optional Criteria: The student may discuss the implications of different branching ratios on the decay time distribution.",
+    "weight": 1
+  }
+]

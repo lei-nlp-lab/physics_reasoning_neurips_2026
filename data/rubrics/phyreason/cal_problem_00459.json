@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: spacecraft-frame distance",
+    "description": "Essential Criteria: The student must correctly compute the distance to Earth at reflection as measured in the spacecraft frame, obtaining 9.0 × 10⁹ m.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Earth-frame distance",
+    "description": "Essential Criteria: The student must correctly compute the distance to the spacecraft at signal reception as measured in the Earth frame, obtaining 2.7 × 10¹⁰ m.",
+    "weight": 5
+  },
+  {
+    "title": "Important: spacecraft-frame symmetry",
+    "description": "Important Criteria: The student must recognize that in the spacecraft frame, the one-way travel time of the signal to Earth is half the total round-trip time (30 s).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Earth-frame time dilation",
+    "description": "Important Criteria: The student must apply time dilation to find the Earth-frame duration for the round trip (100 s) from the spacecraft's proper time (60 s).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Earth-frame kinematics setup",
+    "description": "Important Criteria: The student must set up the correct simultaneous equations relating the Earth-frame distances at emission and reception using the total light path and the spacecraft's displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: unit consistency",
+    "description": "Optional Criteria: The student demonstrates consistent use of SI units (meters, seconds) and the speed of light throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: frame confusion",
+    "description": "Pitfall Criteria: Penalize if the student mixes measurements from different frames (e.g., using Earth-frame time in a spacecraft-frame distance calculation) without proper transformation.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: neglecting relativity",
+    "description": "Pitfall Criteria: Penalize if the student treats the problem with classical kinematics, ignoring time dilation or the constancy of the speed of light.",
+    "weight": -2
+  }
+]

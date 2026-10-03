@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mean Distance",
+    "description": "Essential Criteria - The mean distance traveled by the J/psi before decaying must be correctly calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Electron Energy",
+    "description": "Essential Criteria - The energy of the decay electron in the laboratory must be accurately determined.",
+    "weight": 5
+  },
+  {
+    "title": "Laboratory Angle",
+    "description": "Essential Criteria - The laboratory angle of the electron with respect to the J/psi direction must be correctly computed.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Factor",
+    "description": "Important Criteria - The calculation of the Lorentz factor gamma must be correctly applied in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria - The application of conservation of energy in the decay process must be correctly utilized.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria - The use of momentum conservation in the decay must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - All units must be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Common sign mistakes in calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - Missing factors in the equations used must be identified and corrected.",
+    "weight": -2
+  }
+]

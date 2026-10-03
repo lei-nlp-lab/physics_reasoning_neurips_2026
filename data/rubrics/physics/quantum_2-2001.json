@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Schrödinger Equation",
+    "description": "Essential Criteria: The student must correctly write the time-dependent Schrödinger equation for a three-dimensional infinite potential well.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function",
+    "description": "Essential Criteria: The student must provide the correct time-independent wave function for the lowest energy state.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Expression",
+    "description": "Essential Criteria: The student must derive the expression for the number of states N with energy less than E.",
+    "weight": 5
+  },
+  {
+    "title": "Separation of Variables",
+    "description": "Important Criteria: The student should demonstrate the correct application of the separation of variables method in deriving the wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student must correctly relate the quantum numbers to the energy expression.",
+    "weight": 4
+  },
+  {
+    "title": "Volume Interpretation",
+    "description": "Optional Criteria: The student may explain the geometric interpretation of the number of states in terms of volume in a sphere.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the Schrödinger equation or incorrect boundary conditions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as the normalization constant, are included in the wave function.",
+    "weight": -1
+  }
+]

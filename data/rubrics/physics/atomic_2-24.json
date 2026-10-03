@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Coefficients",
+    "description": "Essential Criteria: Provide the correct values for a_v, a_s, a_e, a_a, and a_p with appropriate units.",
+    "weight": 5
+  },
+  {
+    "title": "Binding Energy Terms",
+    "description": "Important Criteria: Explain the significance of each term in the binding energy equation B(Z, A) and their physical meaning.",
+    "weight": 4
+  },
+  {
+    "title": "Volume and Surface Energy",
+    "description": "Important Criteria: Justify why B_v is proportional to A and B_s to A^{2/3}, including a brief explanation of nuclear structure.",
+    "weight": 3
+  },
+  {
+    "title": "Coulomb Energy Explanation",
+    "description": "Important Criteria: Describe how the Coulomb energy term B_e relates to Z and A, including its dependence on nuclear radius.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for mistakes in the signs or factors when explaining the terms of the binding energy.",
+    "weight": -2
+  }
+]

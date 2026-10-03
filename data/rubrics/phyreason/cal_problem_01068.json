@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Porsche acceleration",
+    "description": "Essential: Student calculates the Porsche's average acceleration as approximately 6.61 m/s² using proper unit conversion and formula.",
+    "weight": 5
+  },
+  {
+    "title": "Correct ordinary car time",
+    "description": "Essential: Student calculates the ordinary car's acceleration time as approximately 9.26 s using the same velocity conversion.",
+    "weight": 5
+  },
+  {
+    "title": "Proper unit conversion",
+    "description": "Important: Student converts 100 km/h to m/s (27.78 m/s) before applying acceleration formulas.",
+    "weight": 4
+  },
+  {
+    "title": "Correct acceleration formula",
+    "description": "Important: Student uses a = Δv/Δt for constant acceleration or recognizes average acceleration definition.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent velocity value",
+    "description": "Important: Student uses the same converted velocity value (27.78 m/s) for both parts of the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional: Student includes units in calculations and verifies final units (m/s² and s).",
+    "weight": 1
+  },
+  {
+    "title": "Missing unit conversion",
+    "description": "Pitfall: Student uses 100 km/h directly without converting to m/s, leading to incorrect numerical answers.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Student uses kinematic equations assuming constant acceleration incorrectly (e.g., using x = ½at² when not needed).",
+    "weight": -1
+  }
+]

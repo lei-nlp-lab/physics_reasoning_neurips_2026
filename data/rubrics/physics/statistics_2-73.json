@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature T must be correctly calculated as approximately 6 x 10^9 K.",
+    "weight": 5
+  },
+  {
+    "title": "Photon Density Equation",
+    "description": "Important Criteria: The student should correctly apply the photon density equation for black body radiation.",
+    "weight": 4
+  },
+  {
+    "title": "Power Equation",
+    "description": "Important Criteria: The relationship between power, number of photons, and energy must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Constants",
+    "description": "Important Criteria: The student must use the correct physical constants such as h, c, and k in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Logarithmic Calculation",
+    "description": "Optional Criteria: The logarithmic function in the temperature calculation should be correctly evaluated.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or incorrect application of the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Divergence Angle Relevance",
+    "description": "Optional Criteria: The relevance of the divergence angle in the context of the problem should be discussed.",
+    "weight": 1
+  }
+]

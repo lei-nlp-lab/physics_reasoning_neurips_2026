@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential criteria include correct final answers for radius, length, time, magnetic field, and deflection angle.",
+    "weight": 5
+  },
+  {
+    "title": "Length Contraction",
+    "description": "Important criteria involve correctly applying the Lorentz contraction to find the length of the bunch in the observer's frame.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Important criteria require the correct application of Ampère's law to derive the magnetic field in the laboratory frame.",
+    "weight": 4
+  },
+  {
+    "title": "Time Calculation",
+    "description": "Important criteria include correctly calculating the time taken for the bunches to pass through each other.",
+    "weight": 3
+  },
+  {
+    "title": "Deflection Angle Derivation",
+    "description": "Important criteria involve deriving the deflection angle using the magnetic field and momentum considerations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional criteria include ensuring that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall criteria involve common errors such as incorrect signs in velocity or magnetic field calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall criteria include failing to include necessary factors in the equations, such as constants or conversion factors.",
+    "weight": -2
+  }
+]

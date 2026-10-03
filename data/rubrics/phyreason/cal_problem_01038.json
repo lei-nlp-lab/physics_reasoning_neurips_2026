@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final temperature in A",
+    "description": "Essential: The final answer must be the correct temperature of the gas in tube A, approximately 387.7 K or 114.7°C.",
+    "weight": 5
+  },
+  {
+    "title": "Initial pressure in B",
+    "description": "Important: The student must correctly calculate the initial pressure of the gas in tube B as p0 + Δh = 80 cmHg.",
+    "weight": 4
+  },
+  {
+    "title": "Mercury level changes",
+    "description": "Important: The student must apply fluid volume conservation to relate the level changes Δh1 and Δh2 in tubes A and B, solving for their values (e.g., Δh1 = 3 cm).",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure in A",
+    "description": "Important: The student must correctly determine the final pressure in tube A by considering the equal liquid levels and the isothermal process in B to find the new pressure in B.",
+    "weight": 4
+  },
+  {
+    "title": "Ideal gas law application",
+    "description": "Important: The student must correctly apply the ideal gas law to the sealed gas in tube A, using initial and final pressures/volumes to solve for the final temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Area ratio consideration",
+    "description": "Important: The student must correctly incorporate the 3:1 cross-sectional area ratio between tubes B and A in volume and fluid displacement calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should maintain consistent units (e.g., cmHg for pressure, cm for length, Kelvin for temperature).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall: Penalize if the student misassigns the direction of mercury level changes or incorrectly relates Δh1 and Δh2 to the initial height difference Δh.",
+    "weight": -2
+  },
+  {
+    "title": "Pressure equilibrium mistake",
+    "description": "Pitfall: Penalize if the student fails to establish that final pressures at the mercury interface are equal, or incorrectly equates gas pressures in A and B without accounting for the mercury column.",
+    "weight": -2
+  }
+]

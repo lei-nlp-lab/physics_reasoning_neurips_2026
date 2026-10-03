@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Energy Equation",
+    "description": "Essential Criteria: The student must provide the correct expression for the minimum energy of the moving proton in the first scenario.",
+    "weight": 5
+  },
+  {
+    "title": "Second Energy Equation",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy when the protons move towards each other with equal velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Invariant Mass Concept",
+    "description": "Important Criteria: The student should demonstrate understanding of the invariant mass and its application in the collision process.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-Momentum Relation",
+    "description": "Important Criteria: The student must correctly apply the energy-momentum relation to derive the energy of the moving proton.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the energy and momentum equations.",
+    "weight": -2
+  }
+]

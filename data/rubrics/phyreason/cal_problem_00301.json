@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final displacement",
+    "description": "Essential: The student's final numerical answer for the total vertical displacement must be 60.0 m.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's Law application",
+    "description": "Important: The student must correctly apply Newton's second law (F_net = ma) to relate the normal force from the graph to the elevator's acceleration in each time segment.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic segmentation",
+    "description": "Important: The solution must correctly divide the motion into three distinct phases (0-2 s, 2-6 s, 6-8 s) based on the force graph and calculate displacement for each.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity continuity",
+    "description": "Important: The student must correctly use the final velocity from one phase as the initial velocity for the next phase (e.g., v at t=2s is used for phases 2 and 3).",
+    "weight": 3
+  },
+  {
+    "title": "Correct kinematic equations",
+    "description": "Important: The student must apply the correct equations of motion (e.g., x = 1/2 at², x = vt, v = u + at) for uniformly accelerated and constant velocity segments.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent units (kg, m, s, N) leading to displacement in meters.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the sign to the acceleration in the 6-8 second segment (deceleration upwards should be negative if up is positive).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting force graph",
+    "description": "Pitfall: Penalize if the student confuses the body's pressure on the floor (given) with the normal force on the body, or fails to subtract weight to find net force.",
+    "weight": -2
+  }
+]

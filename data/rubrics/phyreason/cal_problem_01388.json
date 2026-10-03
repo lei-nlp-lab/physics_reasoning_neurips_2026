@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct v0 value",
+    "description": "Essential: The final answer for part (1) must be v0 = 8 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct H value",
+    "description": "Essential: The final answer for part (2) must be H = 5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity perpendicular condition",
+    "description": "Important: Uses the condition that velocity at B is perpendicular to the slope to relate v0 and vy.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion from B",
+    "description": "Important: Correctly sets up and solves the projectile motion equations for the jump from B to C.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics from A to B",
+    "description": "Important: Correctly applies free-fall kinematics to find the vertical displacement from A to B.",
+    "weight": 3
+  },
+  {
+    "title": "Part (3) landing position",
+    "description": "Important: For part (3), correctly determines that the athlete lands exactly at point D.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry of slope",
+    "description": "Optional: Correctly uses the given slope angle and trigonometric values (sin53°, cos53°).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in push-off",
+    "description": "Pitfall: Uses the wrong sign for the horizontal velocity when pushing off from point B.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall: Omits units in final answers or uses incorrect units (e.g., cm instead of m).",
+    "weight": -1
+  }
+]

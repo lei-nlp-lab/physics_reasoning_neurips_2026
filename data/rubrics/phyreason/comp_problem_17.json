@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimal energy expression",
+    "description": "Essential: The final answer for E_min must be correctly expressed as h^2/(8mL^2).",
+    "weight": 5
+  },
+  {
+    "title": "General energy formula",
+    "description": "Essential: The final expression for E_n must be h^2 n^2 / (8mL^2) with n as a positive integer.",
+    "weight": 5
+  },
+  {
+    "title": "Photon wavelength calculation",
+    "description": "Essential: The final answer for λ_21 must be correctly derived from ΔE = E2 - E1 and expressed as 8mcL^2/(3h).",
+    "weight": 5
+  },
+  {
+    "title": "De Broglie wavelength relation",
+    "description": "Important: The typical de Broglie wavelength λ_dB must be correctly related to momentum via λ = h/p.",
+    "weight": 4
+  },
+  {
+    "title": "Critical temperature derivation",
+    "description": "Important: The critical temperature T_c must be derived by setting λ_dB ≈ ℓ, resulting in h^2 n^(2/3) / (3 m k_B).",
+    "weight": 4
+  },
+  {
+    "title": "Interparticle distance",
+    "description": "Important: The typical distance ℓ must be correctly expressed as n^(-1/3) from the particle density n.",
+    "weight": 3
+  },
+  {
+    "title": "Energy difference for photon",
+    "description": "Important: The photon energy must equal the energy difference ΔE = E2 - E1 for the transition.",
+    "weight": 4
+  },
+  {
+    "title": "Incorrect momentum constant",
+    "description": "Pitfall: Using p = sqrt(2mk_BT) instead of the correct typical p = sqrt(3mk_BT) for the gas calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing or wrong quantum number",
+    "description": "Pitfall: Stating E_min = 0 or using an incorrect quantum number n (e.g., n=0) for the particle in a box.",
+    "weight": -1
+  },
+  {
+    "title": "Unit or constant confusion",
+    "description": "Pitfall: Confusing Planck's constant h with ħ (h-bar) in the energy or wavelength formulas.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Energy Level Diagram",
+    "description": "Essential Criteria: The student must accurately sketch the energy levels for atomic Li and hydrogen for n = 2, 3, 4.",
+    "weight": 5
+  },
+  {
+    "title": "Absorption Lines",
+    "description": "Important Criteria: The student should indicate the correct transitions for absorption lines from 2s to np states.",
+    "weight": 4
+  },
+  {
+    "title": "Emission Lines",
+    "description": "Important Criteria: The student must indicate the emission lines corresponding to transitions between energy levels.",
+    "weight": 4
+  },
+  {
+    "title": "Labeling",
+    "description": "Essential Criteria: The energy levels and transitions must be clearly labeled to indicate which are absorption and which are emission.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid mislabeling transitions or incorrectly representing energy levels.",
+    "weight": -2
+  }
+]

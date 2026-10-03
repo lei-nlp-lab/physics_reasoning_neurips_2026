@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential Criteria: The final answer for part (1) must be n = tan θ.",
+    "weight": 5
+  },
+  {
+    "title": "Correct ray separation",
+    "description": "Essential Criteria: The final answer for part (2) must be d = D tan θ.",
+    "weight": 5
+  },
+  {
+    "title": "Angle relationship application",
+    "description": "Important Criteria: The solution must correctly apply the condition that the reflected and refracted rays are perpendicular, establishing γ = 90° - θ.",
+    "weight": 4
+  },
+  {
+    "title": "Snell's Law application",
+    "description": "Important Criteria: The solution must correctly apply Snell's law, n = sin θ / sin γ, to relate the angles and refractive index.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric simplification",
+    "description": "Important Criteria: The solution must correctly simplify the expression using the identity sin(90° - θ) = cos θ to obtain tan θ.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for ray separation",
+    "description": "Important Criteria: The solution must correctly use geometry (e.g., parallel lines and trigonometry) to relate the incident separation D to the refracted separation d.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may note that both n and d/tan θ are dimensionless, confirming the distance d has the same unit as D.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied angle condition",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly interprets the perpendicular ray condition, e.g., setting θ = γ or θ + γ = 90° for the wrong rays.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses the law of reflection (i = r) to alter the angle for Snell's law, or misidentifies the incident medium.",
+    "weight": -1
+  }
+]

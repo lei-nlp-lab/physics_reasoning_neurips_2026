@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct final values for L^2 and L_z.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Transformation",
+    "description": "Important Criteria: Correctly transform the wave function to spherical coordinates.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum State",
+    "description": "Important Criteria: Clearly state that the system is in a definite angular momentum state.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation of L^2",
+    "description": "Important Criteria: Correctly calculate L^2 using the formula l(l + 1) hbar^2.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation of L_z",
+    "description": "Important Criteria: Correctly determine L_z for the given state.",
+    "weight": 4
+  },
+  {
+    "title": "Spherical Coordinates",
+    "description": "Optional Criteria: Show understanding of the relationship between Cartesian and spherical coordinates.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes in the transformation or calculations.",
+    "weight": -2
+  }
+]

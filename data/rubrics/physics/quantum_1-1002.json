@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Each quantity must be expressed correctly in terms of hbar, e, c, m, and M with numerical estimates provided.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formulas",
+    "description": "Important Criteria: The correct equations for each quantity must be used in the derivations.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Important Criteria: All final answers must include appropriate units and be consistent throughout.",
+    "weight": 3
+  },
+  {
+    "title": "Numerical Accuracy",
+    "description": "Optional Criteria: Numerical estimates should be roughly accurate and reflect common values.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes or incorrect factors in the equations.",
+    "weight": -2
+  }
+]

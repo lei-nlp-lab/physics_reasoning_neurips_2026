@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Resonant Frequency",
+    "description": "Essential Criteria: The correct value of omega for resonant transitions must be provided as omega = 2mu Bz / hbar.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Expression",
+    "description": "Essential Criteria: The probability expression for a proton having spin in the -z direction must be correctly stated as P = (mu B0 / (hbar Omega))^2 sin^2(Omega t).",
+    "weight": 5
+  },
+  {
+    "title": "Omega Approximation",
+    "description": "Important Criteria: The approximation for Omega should be correctly derived as Omega approximately equals (1/hbar)(hbar omega/2 + mu Bz) under the condition Bz >> B0.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Setup",
+    "description": "Important Criteria: The Hamiltonian should be correctly set up, showing the contributions from the magnetic field components.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes in the Hamiltonian or incorrect factors in the probability expressions.",
+    "weight": -2
+  }
+]

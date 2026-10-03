@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for D",
+    "description": "Essential Criteria: The student must provide the correct expression for the diffusion coefficient D in terms of average velocity and mean free path.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Evaluation of D",
+    "description": "Essential Criteria: The student must correctly evaluate D using the provided values for average speed and mean free path.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Kinetic Theory",
+    "description": "Important Criteria: The student should demonstrate understanding of kinetic theory principles in deriving the expression for D.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria: The student must ensure that the final answer for D includes the correct units of m^2/s.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the derivation of the diffusion coefficient.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors in the expression for D.",
+    "weight": -2
+  },
+  {
+    "title": "Assumptions Clarification",
+    "description": "Optional Criteria: The student may clarify the assumptions made during the derivation, such as the uniformity of the gas.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases Discussion",
+    "description": "Optional Criteria: The student could discuss limiting cases or conditions under which the derived expression holds.",
+    "weight": 2
+  }
+]

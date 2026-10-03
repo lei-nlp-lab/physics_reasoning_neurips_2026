@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electromotive Force",
+    "description": "Essential: The student must correctly identify the EMF as the y-intercept (U when I=0) from the power supply's U-I line, obtaining 4 V.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Resistance",
+    "description": "Important: The student must correctly calculate the internal resistance from the negative slope of the power supply's U-I line, obtaining 1 Ω.",
+    "weight": 4
+  },
+  {
+    "title": "Operating Point",
+    "description": "Essential: The student must correctly identify the intersection point of the two U-I lines as the circuit's operating point.",
+    "weight": 5
+  },
+  {
+    "title": "Terminal Voltage",
+    "description": "Essential: The student must correctly read the terminal voltage as the U-coordinate of the intersection point, obtaining 3 V.",
+    "weight": 5
+  },
+  {
+    "title": "Output Power",
+    "description": "Important: The student must correctly calculate the output power using P = UI with the coordinates from the intersection point, obtaining 3 W.",
+    "weight": 4
+  },
+  {
+    "title": "Graph Interpretation",
+    "description": "Optional: The student demonstrates correct interpretation of both U-I lines, distinguishing the power supply line from the resistor line.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/Unit Errors",
+    "description": "Pitfall: The student makes a sign error in calculating internal resistance or omits units in final answers.",
+    "weight": -2
+  },
+  {
+    "title": "Operating Current",
+    "description": "Important: The student must correctly read the operating current as the I-coordinate of the intersection point, obtaining 1 A.",
+    "weight": 3
+  }
+]

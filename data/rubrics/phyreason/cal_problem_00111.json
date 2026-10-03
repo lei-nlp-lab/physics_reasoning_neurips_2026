@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration from v-t graph",
+    "description": "Essential: Correctly calculates the acceleration of rod G during 1-2 s using the slope from the provided graph.",
+    "weight": 5
+  },
+  {
+    "title": "Tension on block A",
+    "description": "Essential: Correctly applies Newton's second law to block A on the incline to find the string tension during 1-2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Power of pulling force",
+    "description": "Essential: Correctly computes the instantaneous power at t=1.5 s as the product of the pulling force on H and H's velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Distance via impulse-momentum",
+    "description": "Essential: Correctly calculates the distance rod G travels from 2-3 s using the impulse-momentum theorem and Faraday's law.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current analysis",
+    "description": "Important: Correctly determines the constant circuit current during 1-2 s using Faraday's law, Ohm's law, and the constant velocity difference.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on rod G",
+    "description": "Important: Applies Newton's second law to rod G, relating tension, Ampere force, and its acceleration during 1-2 s.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity relationship use",
+    "description": "Important: Correctly uses the kinematic relationship v_H = v_G + constant to find H's velocity at t=1.5 s.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (m, s, kg, A, etc.) throughout all calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in Ampere force",
+    "description": "Pitfall: Uses the wrong direction for the Ampere force on rod G or H in Newton's second law equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting v-t graph",
+    "description": "Pitfall: Misreads the velocity values or time intervals from the provided v-t graph for rod G.",
+    "weight": -2
+  }
+]

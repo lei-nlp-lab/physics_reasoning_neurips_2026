@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Coverage Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for coverage as a function of temperature and pressure.",
+    "weight": 5
+  },
+  {
+    "title": "Grand Canonical Partition Function",
+    "description": "Important Criteria: The student should derive the Grand Canonical partition function for a single adsorption site correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Chemical Potential Relation",
+    "description": "Important Criteria: The student must correctly relate the chemical potential of the ideal gas to the coverage expression.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Derivation Steps",
+    "description": "Important Criteria: The student should show clear and logical steps in the derivation process leading to the final answer.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Optional Criteria: The student should use the correct definitions and values for variables such as n_Q and lambda throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the final expression.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios that validate the derived expression.",
+    "weight": 1
+  }
+]

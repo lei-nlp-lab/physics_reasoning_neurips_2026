@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Probability P2",
+    "description": "Essential Criteria: The student must correctly calculate and express the probability P2 for the transition from n=1 to n=2.",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability P3",
+    "description": "Essential Criteria: The student must correctly state that the probability P3 for the transition from n=1 to n=3 is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Calculation",
+    "description": "Important Criteria: The student should show the correct setup and evaluation of the matrix element H'_{21} for the transition from n=1 to n=2.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Difference",
+    "description": "Important Criteria: The student must correctly identify and use the energy difference E_{n2} - E_{n1} in the calculation of the transition probabilities.",
+    "weight": 4
+  },
+  {
+    "title": "Validity Conditions",
+    "description": "Important Criteria: The student should specify the conditions under which time-dependent perturbation theory is valid, including the smallness of tau and the perturbation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the calculation of the matrix elements or probabilities.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The student may provide justification for the approximation used in the expression for P2, particularly the condition tau << hbar/(E1 - E2).",
+    "weight": 2
+  }
+]

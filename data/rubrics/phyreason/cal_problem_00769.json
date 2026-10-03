@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Restoring force expression",
+    "description": "Essential: The response must correctly state the linear restoring force as F ≈ -(mg/L)x or equivalent, showing the small-angle approximation.",
+    "weight": 5
+  },
+  {
+    "title": "SHM condition justification",
+    "description": "Important: The response must explain that motion is SHM because the restoring force is proportional and opposite to displacement, with constant k = mg/L.",
+    "weight": 4
+  },
+  {
+    "title": "Period formula derivation",
+    "description": "Essential: The response must correctly derive and state the final period formula T = 2π√(L/g).",
+    "weight": 5
+  },
+  {
+    "title": "Lowest point speed",
+    "description": "Important: The response must apply energy conservation (or work-energy theorem) to find the speed at the lowest point: v² = 2gL(1 - cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Tension force calculation",
+    "description": "Essential: The response must correctly calculate the tension at the lowest point, arriving at F' = mg + (mv²/L) = mg(3 - 2cosθ).",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The response must set up Newton's second law at the lowest point: T - mg = m(v²/L), identifying centripetal force.",
+    "weight": 3
+  },
+  {
+    "title": "Small-angle assumption",
+    "description": "Optional: The response may note that the SHM conclusion and period formula are valid only for small angles where sinθ ≈ θ.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in restoring force",
+    "description": "Pitfall: Penalize if the restoring force expression omits the negative sign indicating direction opposite to displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Mass in period formula",
+    "description": "Pitfall: Penalize if the final pendulum period formula incorrectly includes the mass m (e.g., T = 2π√(m/k) without substituting k correctly).",
+    "weight": -2
+  },
+  {
+    "title": "Tension direction mistake",
+    "description": "Pitfall: Penalize if the net force at the lowest point is incorrectly written (e.g., mg - T = mv²/L) or if centripetal force direction is wrong.",
+    "weight": -1
+  }
+]

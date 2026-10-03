@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Energy Levels Symmetric Top",
+    "description": "Essential Criteria: The student must correctly state the energy levels of the symmetric top using the provided Hamiltonian.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation J=0",
+    "description": "Essential Criteria: The student must compute the energy for J=0 correctly as E'_0 = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation J=1",
+    "description": "Essential Criteria: The student must compute the energy for J=1 correctly as E'_1 = hbar^2/I.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Approach",
+    "description": "Important Criteria: The student should correctly identify and apply the perturbation method to find the energies for the slightly asymmetric top.",
+    "weight": 4
+  },
+  {
+    "title": "Degenerate States Analysis",
+    "description": "Important Criteria: The student must analyze the degenerate states for J=1 and derive the correct energy splitting.",
+    "weight": 4
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The student should correctly formulate the Hamiltonian for the slightly asymmetric top including the perturbation term.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: The student may discuss limiting cases or assumptions made during the derivation.",
+    "weight": 1
+  }
+]

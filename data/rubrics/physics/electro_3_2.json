@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct emf",
+    "description": "Essential Criteria: The student must correctly calculate the equivalent emf ε0 as 3 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct resistance",
+    "description": "Essential Criteria: The student must correctly determine the internal resistance r as 4.8 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Correct short-circuit current",
+    "description": "Essential Criteria: The student must accurately find the short-circuit current I as 0.625 A.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Thévenin's theorem",
+    "description": "Important Criteria: The student should demonstrate understanding of Thévenin's theorem in their reasoning.",
+    "weight": 4
+  },
+  {
+    "title": "Parallel resistance calculation",
+    "description": "Important Criteria: The student must correctly apply the formula for calculating parallel resistances.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent and correctly applied throughout the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in calculations of voltage and current.",
+    "weight": -2
+  },
+  {
+    "title": "Missing factors",
+    "description": "Pitfall Criteria: The student should be cautious of missing any factors in the resistance calculations.",
+    "weight": -2
+  }
+]

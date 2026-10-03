@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Equivalent resistance calculation",
+    "description": "Important Criteria: The student correctly computes the equivalent resistance of the parallel combination of R2 and R3, then adds it in series with R1.",
+    "weight": 3
+  },
+  {
+    "title": "Main circuit current",
+    "description": "Essential Criteria: The student applies Ohm's law for a complete circuit to find the total current, using the total equivalent resistance and internal resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Terminal voltage answer",
+    "description": "Essential Criteria: The student correctly calculates the terminal voltage U as the EMF minus the voltage drop across the internal resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitor voltage",
+    "description": "Important Criteria: The student recognizes that the voltage across the capacitor equals the voltage across resistor R1 after the circuit stabilizes.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitor charge answer",
+    "description": "Essential Criteria: The student correctly calculates the charge on the capacitor using the formula Q = C * U1.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student demonstrates consistent use of units, correctly handling microfarads to farads in the charge calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Misidentifying capacitor voltage",
+    "description": "Pitfall Criteria: The student incorrectly assumes the capacitor voltage equals the terminal voltage or the EMF, rather than the voltage across R1.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring internal resistance",
+    "description": "Pitfall Criteria: The student calculates the terminal voltage without subtracting the voltage drop across the internal resistance.",
+    "weight": -2
+  }
+]

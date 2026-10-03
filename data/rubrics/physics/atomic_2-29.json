@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for Q in MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Binding Energy Equation",
+    "description": "Important Criteria: The student correctly expresses the binding energy in terms of average binding energy and mass number.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Release Expression",
+    "description": "Important Criteria: The student derives the expression for Q correctly using the binding energies of the nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetric Fission Values",
+    "description": "Important Criteria: The student correctly identifies the values for A1 and A2 in symmetric fission.",
+    "weight": 3
+  },
+  {
+    "title": "Numerical Calculation",
+    "description": "Essential Criteria: The student performs the numerical calculation accurately to find Q.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student avoids common errors such as sign mistakes or incorrect application of the binding energy formula.",
+    "weight": -2
+  }
+]

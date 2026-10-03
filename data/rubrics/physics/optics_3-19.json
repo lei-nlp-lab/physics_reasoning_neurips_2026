@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Blue Sky Explanation",
+    "description": "Essential Criteria: The response must correctly explain Rayleigh scattering and its effect on the color of the sky.",
+    "weight": 5
+  },
+  {
+    "title": "Sunset Color Reasoning",
+    "description": "Essential Criteria: The explanation must detail how the thickness of the atmosphere affects the scattering of sunlight at sunset.",
+    "weight": 5
+  },
+  {
+    "title": "Rainbow Formation",
+    "description": "Essential Criteria: The student must describe how refraction of light by water droplets leads to the formation of a rainbow.",
+    "weight": 5
+  },
+  {
+    "title": "Twinkling of Stars",
+    "description": "Essential Criteria: The answer should mention the role of air density fluctuations in the twinkling of stars.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Figures",
+    "description": "Important Criteria: The response should reference relevant figures to support explanations where applicable.",
+    "weight": 3
+  },
+  {
+    "title": "Wavelength Dependency",
+    "description": "Important Criteria: The explanation should include the concept of wavelength dependency in scattering and refraction.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid incorrect statements about the scattering process or misinterpretation of atmospheric effects.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity and Conciseness",
+    "description": "Optional Criteria: The response should be clear and concise, effectively communicating complex ideas without unnecessary jargon.",
+    "weight": 2
+  }
+]

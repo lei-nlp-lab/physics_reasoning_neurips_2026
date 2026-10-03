@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Threshold Energy (a)",
+    "description": "Essential Criteria - The student must correctly calculate the laboratory threshold gamma-ray energy as 145 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Proton Energy (b)",
+    "description": "Essential Criteria - The student must determine the minimum proton energy for pion photoproduction as approximately 6.8 x 10^13 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Invariant Mass Approach",
+    "description": "Important Criteria - The student should correctly apply the invariant mass concept to derive the threshold conditions for both parts (a) and (b).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria - The student must demonstrate understanding of energy conservation principles in the context of the reactions described.",
+    "weight": 3
+  },
+  {
+    "title": "Cosmic Ray Implications",
+    "description": "Optional Criteria - The student should provide a thoughtful speculation on the implications of the results for cosmic ray protons.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria - The student should avoid common errors in calculations, such as sign mistakes or incorrect application of formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria - The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

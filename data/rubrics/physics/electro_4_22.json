@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers for (a)",
+    "description": "Essential Criteria: The student must provide the correct expressions for the reflected electric field components E_x' and E_y'.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for (b)",
+    "description": "Essential Criteria: The student must derive the correct expressions for the transmitted electric field components E_{1x}'' and E_{1y}''.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student must correctly apply the boundary conditions for the electric field at the interfaces.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection and Transmission Laws",
+    "description": "Important Criteria: The student must demonstrate understanding of the laws of reflection and refraction for anisotropic materials.",
+    "weight": 4
+  },
+  {
+    "title": "Polarization State",
+    "description": "Important Criteria: The student must correctly analyze the polarization state of the reflected wave.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Consistency",
+    "description": "Optional Criteria: The student should check for mathematical consistency in their equations and calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Units and Dimensions",
+    "description": "Optional Criteria: The student should ensure that all quantities have consistent units throughout their derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect application of the boundary conditions.",
+    "weight": -2
+  }
+]

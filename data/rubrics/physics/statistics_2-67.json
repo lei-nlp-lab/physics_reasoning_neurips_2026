@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state that Bose-Einstein condensation does not occur for both two-dimensional and one-dimensional gases.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning for 2D",
+    "description": "Important Criteria: The explanation must include reasoning about the divergence of the integral for the two-dimensional case when mu equals zero.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning for 1D",
+    "description": "Important Criteria: The explanation must include reasoning about the divergence of the integral for the one-dimensional case when mu equals zero.",
+    "weight": 4
+  },
+  {
+    "title": "Understanding of mu",
+    "description": "Important Criteria: The response should demonstrate an understanding of the role of the chemical potential mu in Bose-Einstein condensation.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Justification",
+    "description": "Optional Criteria: Providing mathematical expressions or integrals to support the reasoning would enhance the response.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Failing to mention that mu must be less than or equal to zero for condensation could lead to incorrect conclusions.",
+    "weight": -2
+  }
+]

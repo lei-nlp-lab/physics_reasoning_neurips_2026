@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct force range endpoints",
+    "description": "Essential Criteria: The response must provide both minimum and maximum force expressions, matching the reference forms or algebraically equivalent ones.",
+    "weight": 5
+  },
+  {
+    "title": "System acceleration relation",
+    "description": "Important Criteria: The solution should correctly relate the applied force F to the common acceleration of the wedges using Newton's second law on the combined system.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on top wedge",
+    "description": "Important Criteria: The student must set up correct force equations (vertical and horizontal) for wedge A, resolving the normal and friction forces from wedge B.",
+    "weight": 4
+  },
+  {
+    "title": "Friction direction and limits",
+    "description": "Important Criteria: The reasoning must correctly identify the direction of static friction on A for both limiting cases (min and max F) and apply f ≤ μN.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation to solve",
+    "description": "Optional Criteria: The solution shows clear steps in solving the simultaneous equations to find the acceleration and then substituting to find F_min and F_max.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The final expressions have correct dimensions of force (e.g., terms like mg or μmg are present).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall Criteria: Penalize if the friction force on A is given the wrong sign relative to the impending motion direction for a limiting case.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect system mass",
+    "description": "Pitfall Criteria: Penalize if the total mass in the system acceleration equation is not 3m (i.e., m + M with M=2m).",
+    "weight": -2
+  }
+]

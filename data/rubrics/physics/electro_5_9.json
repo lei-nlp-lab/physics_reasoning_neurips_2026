@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lorentz Invariance",
+    "description": "Essential Criteria: Demonstrate that E . B = 0 and E^2 = c^2 B^2 are Lorentz invariant.",
+    "weight": 5
+  },
+  {
+    "title": "Field Tensor Relation",
+    "description": "Important Criteria: Show the equivalence of K . E = 0 to n^mu F_{mu nu} = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Field Transformations",
+    "description": "Essential Criteria: Provide correct expressions for E_x' and B_y' after Lorentz transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Density Expressions",
+    "description": "Important Criteria: Derive the expressions for energy density in both frames.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Density Calculations",
+    "description": "Important Criteria: Calculate the momentum density in both frames correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Total Energy-Momentum Transformation",
+    "description": "Essential Criteria: Show how total energy and momentum transform as a four-vector.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid mistakes in applying Lorentz transformations or sign errors.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Electric Field",
+    "description": "Essential Criteria: The student must correctly calculate the electric field E in terms of B0, a, and w.",
+    "weight": 5
+  },
+  {
+    "title": "Propagation Speed",
+    "description": "Essential Criteria: The student must correctly determine the speed of propagation v as c.",
+    "weight": 5
+  },
+  {
+    "title": "Generation Method",
+    "description": "Important Criteria: The student must provide a coherent explanation of how the field can be generated, including the concept of total reflection.",
+    "weight": 4
+  },
+  {
+    "title": "Maxwell's Equation Application",
+    "description": "Important Criteria: The student should demonstrate the correct application of Maxwell's equations to derive E from B.",
+    "weight": 4
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or missing factors in the calculations.",
+    "weight": -2
+  }
+]

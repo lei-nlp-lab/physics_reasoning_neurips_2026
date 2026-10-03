@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum angular velocity",
+    "description": "Essential: Correctly states or derives the condition ω ≤ √(μ₁g/R) and provides the final answer √(g/(2R)).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum table radius",
+    "description": "Essential: Correctly calculates the minimum radius R₁ = √(x₁² + R²) and provides the final answer √2 R.",
+    "weight": 5
+  },
+  {
+    "title": "Total fall time",
+    "description": "Essential: Correctly calculates the total time t = t₁ + t₂ and provides the final answer 2√(2R/g).",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal force condition",
+    "description": "Important: Applies Newton's second law for circular motion, equating maximum static friction (μ₁mg) to the required centripetal force (mω²R).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on table",
+    "description": "Important: Correctly models the sliding phase on the table using constant deceleration a = μ₂g and kinematic equations to find slide distance or time.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile fall time",
+    "description": "Important: Correctly calculates the free-fall time t₂ from height R using R = (1/2)gt₂².",
+    "weight": 3
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important: Correctly applies the Pythagorean theorem to relate slide distance to table radius (R₁ or R₂).",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses incorrect sign for acceleration on the table (should be deceleration) or misapplies kinematic equation signs.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force confusion",
+    "description": "Pitfall: Confuses μ₁ and μ₂, applying the wrong coefficient for the disk or table surface.",
+    "weight": -2
+  }
+]

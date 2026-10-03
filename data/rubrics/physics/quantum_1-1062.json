@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy levels E_j.",
+    "weight": 5
+  },
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must provide the correct expression for the wave functions |E_j⟩.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenvalue Derivation",
+    "description": "Important Criteria: The student should correctly derive the eigenvalues from the operator A.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Representation",
+    "description": "Important Criteria: The student should correctly represent the operator A in matrix form.",
+    "weight": 3
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Optional Criteria: The student should mention the periodic boundary conditions applied to the system.",
+    "weight": 2
+  },
+  {
+    "title": "Normalization Check",
+    "description": "Optional Criteria: The student should verify that the wave functions are normalized.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the energy expression.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

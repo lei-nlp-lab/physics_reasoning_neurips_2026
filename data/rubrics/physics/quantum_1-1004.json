@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct equations for the photoelectric effect and black body radiation.",
+    "weight": 5
+  },
+  {
+    "title": "Experiment Description",
+    "description": "Important Criteria: Clearly describe the selected experiments, including setup and observations.",
+    "weight": 4
+  },
+  {
+    "title": "Non-Classical Effects",
+    "description": "Important Criteria: Identify and explain the non-classical effects observed in the experiments.",
+    "weight": 4
+  },
+  {
+    "title": "Quantum Explanation",
+    "description": "Important Criteria: Explain how the results can be understood as quantum phenomena.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as misapplying classical physics to quantum phenomena.",
+    "weight": -2
+  }
+]

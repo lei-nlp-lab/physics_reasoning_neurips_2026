@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Potentials Inside",
+    "description": "Essential Criteria: The potential inside the sphere must be correctly stated as Phi_1 = q/(4 pi epsilon_0 a).",
+    "weight": 5
+  },
+  {
+    "title": "Final Potentials Outside",
+    "description": "Essential Criteria: The potential outside the sphere must be correctly stated as Phi_2 = -E_0 r cos(theta) + q/(4 pi epsilon_0 r) + E_0 a^3/r^2 cos(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Dipole Moment",
+    "description": "Essential Criteria: The dipole moment of the induced charge must be correctly identified as P = 4 pi epsilon_0 a^3 E_0.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Terms Identification",
+    "description": "Important Criteria: The six energy terms must be correctly identified and categorized as finite or infinite.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The boundary conditions for the potentials at the sphere's surface must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, particularly for energy terms.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in energy terms or missing factors must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussion of limiting cases or special scenarios should be included for completeness.",
+    "weight": 1
+  }
+]

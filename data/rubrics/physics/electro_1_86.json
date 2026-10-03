@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Calculation",
+    "description": "Essential Criteria: The energy required to remove the charges must be correctly calculated as W = -Q^2 ln(2)/(4πε₀x).",
+    "weight": 5
+  },
+  {
+    "title": "Force on Charges",
+    "description": "Important Criteria: The forces on both charges must be identified as zero due to symmetry.",
+    "weight": 4
+  },
+  {
+    "title": "Force on Plates",
+    "description": "Important Criteria: The forces on each plate must be derived correctly, showing the dependence on Q and ε₀.",
+    "weight": 4
+  },
+  {
+    "title": "Induced Charge Calculation",
+    "description": "Essential Criteria: The total induced charge on each plate must be correctly identified as -Q/2 and Q/2.",
+    "weight": 5
+  },
+  {
+    "title": "Induced Charge After Removal",
+    "description": "Important Criteria: The induced charge on the plates after removing -Q must be calculated correctly as -3Q/4 and -Q/4.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the energy or induced charge calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All calculations should maintain consistent units throughout the problem.",
+    "weight": 1
+  },
+  {
+    "title": "Method of Images",
+    "description": "Optional Criteria: The use of the method of images should be clearly justified in the solution.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum speed value",
+    "description": "Essential Criteria: The response must state the maximum speed as 20 m/s (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity method",
+    "description": "Important Criteria: The solution should apply the relation for uniform acceleration that total displacement equals average velocity multiplied by total time.",
+    "weight": 4
+  },
+  {
+    "title": "AB segment kinematics",
+    "description": "Important Criteria: The solution must use a kinematic equation (e.g., v² = 2a₁x₁) to find the acceleration on slope AB.",
+    "weight": 3
+  },
+  {
+    "title": "AB force balance",
+    "description": "Important Criteria: The solution must apply Newton's second law on slope AB to relate acceleration, gravity, and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient value",
+    "description": "Essential Criteria: The response must state the kinetic friction coefficient on AB as 0.5 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "BC segment kinematics",
+    "description": "Important Criteria: The solution must use a kinematic equation on slope BC to find the deceleration magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "BC force balance",
+    "description": "Important Criteria: The solution must apply Newton's second law on slope BC to find the total resistance force.",
+    "weight": 3
+  },
+  {
+    "title": "Resistance force value",
+    "description": "Essential Criteria: The response must state the average resistance force on BC as 480 N (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Penalize if the direction of friction or net force is reversed on either incline (e.g., wrong sign in Newton's law).",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or misuse",
+    "description": "Pitfall Criteria: Penalize if final answers lack proper units or use incorrect units (e.g., cm/s for speed).",
+    "weight": -1
+  }
+]

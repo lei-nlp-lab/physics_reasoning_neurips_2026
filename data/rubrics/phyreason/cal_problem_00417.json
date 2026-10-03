@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential: The response must state the correct acceleration as 0.1 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct average velocity",
+    "description": "Essential: The response must state the correct average velocity for the first 6 seconds as 2.55 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Apply displacement difference formula",
+    "description": "Important: The solution must correctly use the formula for the difference in displacements in two given seconds (e.g., x_7 - x_3 = 4aT²) to find acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Find initial velocity correctly",
+    "description": "Important: The solution must correctly calculate the initial velocity (v0 ≈ 2.25 m/s) using the displacement in a specific second and the known acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Calculate final velocity at t=6s",
+    "description": "Important: The solution must correctly compute the velocity at t=6 seconds (v6 = 2.85 m/s) using v = v0 + at.",
+    "weight": 3
+  },
+  {
+    "title": "Use correct average velocity formula",
+    "description": "Important: For uniform acceleration, the solution must correctly apply the average velocity formula ( (v_initial + v_final)/2 ) over the first 6 seconds.",
+    "weight": 3
+  },
+  {
+    "title": "Misinterpret 'n-th second' displacement",
+    "description": "Pitfall: Penalize if the student incorrectly treats the displacement in the 'n-th second' as the total displacement after n seconds.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize significant sign errors in kinematic equations or omission/incorrect use of units (m/s, m/s²) in final answers.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly checks unit consistency in their calculations.",
+    "weight": 1
+  }
+]

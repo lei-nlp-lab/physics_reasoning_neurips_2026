@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct upward acceleration",
+    "description": "Essential: The student's final answer for part (1) must be 8 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct total time",
+    "description": "Essential: The student's final answer for part (2) must be (1 + √2) s or approximately 2.414 s.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis for upward motion",
+    "description": "Important: The student must correctly apply Newton's second law for the upward motion, identifying both gravity and kinetic friction acting down the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis for downward motion",
+    "description": "Important: The student must correctly apply Newton's second law for the downward motion, identifying that friction now opposes motion (up the incline).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for ascent and descent",
+    "description": "Important: The student must correctly use kinematic equations to find the ascent time/displacement and the descent time.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction direction",
+    "description": "Pitfall: Penalize if the student uses the same frictional force direction for both upward and downward motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should demonstrate consistent use of SI units (kg, m, s).",
+    "weight": 1
+  },
+  {
+    "title": "Trigonometric value substitution",
+    "description": "Optional: The student correctly substitutes the given values for sin(37°) and cos(37°).",
+    "weight": 1
+  }
+]

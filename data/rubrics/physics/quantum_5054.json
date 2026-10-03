@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The final expression for the ground state energy must be correctly stated as (3/2) hbar omega - (3 lambda^2)/(2m omega^2).",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Method",
+    "description": "Important Criteria: The use of the perturbation method for degenerate states must be correctly applied, including the diagonalization of the perturbation Hamiltonian.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Elements",
+    "description": "Important Criteria: The calculation of matrix elements for the perturbation must be correctly derived and presented.",
+    "weight": 4
+  },
+  {
+    "title": "Degeneracy Consideration",
+    "description": "Important Criteria: The explanation of the two-fold degeneracy of the ground state must be clearly articulated.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or missing factors in the perturbation calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Use of Quantum Numbers",
+    "description": "Optional Criteria: The correct identification and use of quantum numbers (n_x, n_y, n_z) in the context of the problem should be included.",
+    "weight": 2
+  },
+  {
+    "title": "Energy Level Calculation",
+    "description": "Important Criteria: The calculation of the unperturbed energy levels E^(0) must be correctly stated and utilized in the perturbation process.",
+    "weight": 3
+  },
+  {
+    "title": "Perturbation Terms",
+    "description": "Optional Criteria: The inclusion of all relevant perturbation terms and their contributions to the energy shift should be discussed.",
+    "weight": 2
+  }
+]

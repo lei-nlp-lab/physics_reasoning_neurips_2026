@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct final force",
+    "description": "Essential: The student's final answer for part (1) must be F = 2.5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final impulse",
+    "description": "Essential: The student's final answer for part (2) must be I_F = 6 N·s.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important: The student must set up the equation F - F_A = ma, relating the applied force, Ampere force, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate Ampere force correctly",
+    "description": "Important: The student must correctly calculate the Ampere force (F_A = BIL) using the induced current and rod length.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate induced current",
+    "description": "Important: The student must use motional EMF (E = BLv) and Ohm's law (I = E/(R+r)) to find the induced current.",
+    "weight": 3
+  },
+  {
+    "title": "Calculate impulse via momentum",
+    "description": "Important: The student must correctly relate the impulse of the applied force to the change in momentum and the impulse of the Ampere force (I_F = mv + I_A).",
+    "weight": 4
+  },
+  {
+    "title": "Calculate Ampere force impulse",
+    "description": "Optional: The student may show the calculation of the Ampere force's impulse via charge (I_A = BLq) and the relation q = ΔΦ/(R+r).",
+    "weight": 2
+  },
+  {
+    "title": "Use kinematics correctly",
+    "description": "Optional: The student correctly uses kinematics (v = at, x = ½at²) to find velocity and displacement at t=4s.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall: The student uses F + F_A = ma (wrong direction for Ampere force) instead of F - F_A = ma.",
+    "weight": -2
+  },
+  {
+    "title": "Omits internal resistance",
+    "description": "Pitfall: The student calculates induced current as I = E/R, neglecting the rod's internal resistance (r).",
+    "weight": -1
+  }
+]

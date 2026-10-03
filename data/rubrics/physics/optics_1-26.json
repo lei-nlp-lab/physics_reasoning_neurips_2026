@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Image Position",
+    "description": "Essential Criteria: The student must correctly calculate the position of the final image as -100 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Image Height Ratio",
+    "description": "Essential Criteria: The student must accurately determine the ratio of the final image height to the object height as -2.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lens Formula",
+    "description": "Important Criteria: The student should correctly apply the lens formula for both lenses to find image positions.",
+    "weight": 4
+  },
+  {
+    "title": "Magnification Calculation",
+    "description": "Important Criteria: The student must correctly calculate the magnification for both lenses and combine them.",
+    "weight": 4
+  },
+  {
+    "title": "Ray Diagram Quality",
+    "description": "Optional Criteria: The ray diagram should clearly show the necessary rays for locating the final image.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the calculations of image positions and magnifications.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all distances are consistently expressed in centimeters.",
+    "weight": -1
+  }
+]

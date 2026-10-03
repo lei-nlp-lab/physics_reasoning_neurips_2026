@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for angular momentum must be correctly stated as J = J0 e^(-lambda/m * t).",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: The student must correctly write the equations of motion in polar coordinates for the particle.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Definition",
+    "description": "Important Criteria: The student should define angular momentum as J = mr^2 * theta_dot before deriving its time dependence.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Step",
+    "description": "Important Criteria: The integration of dJ/dt = -lambda J/m must be correctly performed to find J as a function of time.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the equations of motion or during integration.",
+    "weight": -2
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Optional Criteria: The student should mention the use of initial conditions, specifically J0, in the final expression.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the derivation.",
+    "weight": 2
+  }
+]

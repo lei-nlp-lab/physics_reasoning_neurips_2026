@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum induced emf",
+    "description": "Essential: The student must correctly calculate the peak induced electromotive force (Em = NBSω).",
+    "weight": 5
+  },
+  {
+    "title": "Effective voltage and current",
+    "description": "Essential: The student must correctly compute the effective voltage (U_eff = Em/√2) and the ammeter reading (I_eff = U_eff / R).",
+    "weight": 5
+  },
+  {
+    "title": "Resistor thermal power",
+    "description": "Important: The student must apply Joule's law (P = I_eff² R) to find the power dissipated in the resistor.",
+    "weight": 4
+  },
+  {
+    "title": "External work calculation",
+    "description": "Important: The student must relate the work done by the external force to the total electrical energy dissipated (W = P_total * t).",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity from speed",
+    "description": "Important: The student must correctly convert the rotational speed (120 rpm) to angular velocity (ω).",
+    "weight": 3
+  },
+  {
+    "title": "Neon bulb flashing frequency",
+    "description": "Important: The student must recognize the neon bulb flashes twice per AC cycle and calculate the flashing frequency (2 * f_AC).",
+    "weight": 4
+  },
+  {
+    "title": "Voltage threshold timing",
+    "description": "Important: For part (5), the student must find the angular intervals where the instantaneous voltage exceeds the bulb's firing voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Total illumination time",
+    "description": "Essential: The student must correctly compute the total time the bulb is lit over 10 minutes, based on the fraction of each cycle it is on.",
+    "weight": 5
+  },
+  {
+    "title": "Peak vs. effective value confusion",
+    "description": "Pitfall: Using the peak voltage (Em) instead of the effective value (U_eff) in RMS current or power calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Failing to convert coil dimensions from cm to m, or rotational speed from rpm to rad/s correctly.",
+    "weight": -1
+  }
+]

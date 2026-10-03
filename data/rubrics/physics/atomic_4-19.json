@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final mass of the new particle, M = 2sqrt(2)m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student should correctly calculate the total energy of the incident particle as E = 3m.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Use",
+    "description": "Important Criteria: The student must apply the invariant mass squared formula correctly to relate energies and momenta.",
+    "weight": 4
+  },
+  {
+    "title": "Equation Setup",
+    "description": "Important Criteria: The student should set up the equations relating E, p, and M accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as incorrect signs or factors in energy equations.",
+    "weight": -2
+  }
+]

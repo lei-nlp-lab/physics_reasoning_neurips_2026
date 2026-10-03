@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric force magnitude",
+    "description": "Essential Criteria: The student must correctly state the electric force magnitude as 0.5mg or mg/2.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force direction",
+    "description": "Essential Criteria: The student must correctly identify the electric force direction as horizontal to the right.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum speed expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for maximum speed: √[gR(√5 - 1)].",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important Criteria: The student must apply work-energy theorem correctly, accounting for both gravitational and electric work.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal force at B",
+    "description": "Important Criteria: The student must set up Newton's second law at point B using the given normal force.",
+    "weight": 3
+  },
+  {
+    "title": "Resultant force geometry",
+    "description": "Important Criteria: The student must analyze the geometry of the constant resultant force to find the maximum speed position.",
+    "weight": 2
+  },
+  {
+    "title": "Trigonometric relationships",
+    "description": "Optional Criteria: The student should correctly derive sinθ = 1/√5 and cosθ = 2/√5 from tanθ = 0.5.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns signs to the electric force work in energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Direction confusion",
+    "description": "Pitfall Criteria: Penalize if the student misidentifies the electric force direction or confuses it with field direction.",
+    "weight": -1
+  }
+]

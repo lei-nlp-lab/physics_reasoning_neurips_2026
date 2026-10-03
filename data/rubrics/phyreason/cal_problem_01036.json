@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Essential: Final Volume",
+    "description": "Essential Criteria: The student's final answer for the mineral's volume must be approximately 7.8 × 10⁻⁵ m³.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Boyle's Law Setup (Initial)",
+    "description": "Important Criteria: The student must apply Boyle's law to the initial state, relating the initial pressure and volume (p₀, V_B+V_C) to the pressure and volume after valve A is closed (p₀+ρgh₁, V_C).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Boyle's Law Setup (Final)",
+    "description": "Important Criteria: The student must apply Boyle's law to the state with the mineral, relating the initial pressure and volume (p₀, V_B+V_C-V) to the pressure and volume after valve A is closed (p₀+ρgh₂, V_C-V).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Correct Variable Definition",
+    "description": "Important Criteria: The student must correctly define V as the unknown volume of the mineral and subtract it from the appropriate gas volumes in the second setup.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit Consistency",
+    "description": "Optional Criteria: The student demonstrates consistent use of SI units (Pa, m³) or correctly converts all given values.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Misapplied Volume Subtraction",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly subtracts the mineral's volume V from V_B instead of from the total gas volume or from V_C in the final state.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Ignoring Atmospheric Pressure",
+    "description": "Pitfall Criteria: Penalize if the student uses only the gauge pressure (ρgh) instead of the absolute pressure (p₀ + ρgh) in Boyle's law equations.",
+    "weight": -2
+  }
+]

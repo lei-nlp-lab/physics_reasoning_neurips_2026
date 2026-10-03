@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final time",
+    "description": "Essential Criteria: The answer for part (1) must be 12 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final speed",
+    "description": "Essential Criteria: The answer for part (2) must be 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration phase analysis",
+    "description": "Important Criteria: Correctly applies kinematics to find the time and distance during the upward acceleration phase (a = 2 m/s²).",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration phase analysis",
+    "description": "Important Criteria: Correctly applies kinematics to find the time and distance during the upward deceleration phase (a = -1 m/s²).",
+    "weight": 3
+  },
+  {
+    "title": "Constant speed phase",
+    "description": "Important Criteria: For part (2), correctly incorporates the constant speed phase and its duration into the total displacement equation.",
+    "weight": 4
+  },
+  {
+    "title": "Total displacement equation",
+    "description": "Important Criteria: Sets up and solves the correct equation summing the displacements from all phases to equal the total height of 48 m.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall Criteria: Uses an incorrect sign for the deceleration (e.g., treats it as positive acceleration) when calculating displacement or time.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Maintains consistent units (meters, seconds, m/s) throughout the solution.",
+    "weight": 1
+  }
+]

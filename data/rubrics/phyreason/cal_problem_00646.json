@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Sign of charge B",
+    "description": "Essential: Student must state that sphere B's charge is positive (+q) or like-charged to A.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium equation",
+    "description": "Essential: Student must derive or state the final equilibrium condition: kq²/d² = mg tanθ.",
+    "weight": 5
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Important: Student must correctly resolve gravity into components along and perpendicular to the incline, identifying that Coulomb force balances the down-slope component.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb's law application",
+    "description": "Important: Student must correctly apply Coulomb's law (F = kq²/d²) for the force between the two point charges.",
+    "weight": 4
+  },
+  {
+    "title": "Tension condition usage",
+    "description": "Important: Student must use the given condition (tension = 0) to justify that the Coulomb force is the only horizontal force balancing the down-slope gravitational component.",
+    "weight": 3
+  },
+  {
+    "title": "Final ratio q/d",
+    "description": "Essential: Student must correctly solve the equilibrium equation to obtain q/d = sqrt(mg tanθ / k).",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall: Student incorrectly resolves gravity (e.g., uses mg sinθ or mg cosθ without the correct trigonometric factor for the horizontal component on the incline).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student assumes sphere B has a negative charge, leading to an attractive force inconsistent with the equilibrium and tension condition.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student verifies dimensional consistency of the final expression for q/d.",
+    "weight": 1
+  }
+]

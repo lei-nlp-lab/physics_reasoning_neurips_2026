@@ -1,0 +1,52 @@
+[
+  {
+    "title": "CD velocity magnitude",
+    "description": "Essential Criteria: Must state or derive v_CD = 5(1-k) m/s using momentum conservation for blocks.",
+    "weight": 5
+  },
+  {
+    "title": "CD velocity direction",
+    "description": "Essential Criteria: Must correctly identify direction as rightward (positive) for 0<k<0.5.",
+    "weight": 4
+  },
+  {
+    "title": "AB velocity magnitude",
+    "description": "Essential Criteria: Must state or derive v_AB = (10-20k)/3 m/s using momentum conservation for skateboards.",
+    "weight": 5
+  },
+  {
+    "title": "AB velocity direction",
+    "description": "Important Criteria: Must correctly identify direction as rightward (positive) for 0<k<0.5.",
+    "weight": 3
+  },
+  {
+    "title": "Relative displacement calculation",
+    "description": "Essential Criteria: Must compute final displacement of 1.875 m using work-energy or relative motion with friction.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important Criteria: Must correctly apply momentum conservation separately for block collision and skateboard collision.",
+    "weight": 4
+  },
+  {
+    "title": "Common velocity determination",
+    "description": "Important Criteria: Must find common velocity v_all = 1 m/s when block and skateboard reach relative rest.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in velocities",
+    "description": "Pitfall Criteria: Penalize incorrect sign assignment for leftward velocities (negative sign for kv₀ terms).",
+    "weight": -2
+  },
+  {
+    "title": "Friction force calculation",
+    "description": "Important Criteria: Must correctly compute friction force as μmg = 1 N for work-energy or acceleration equations.",
+    "weight": 3
+  },
+  {
+    "title": "Mass confusion",
+    "description": "Pitfall Criteria: Penalize using wrong masses (e.g., confusing skateboard and block masses in momentum equations).",
+    "weight": -1
+  }
+]

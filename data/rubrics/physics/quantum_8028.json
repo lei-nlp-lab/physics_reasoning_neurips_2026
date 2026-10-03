@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Probabilities",
+    "description": "Essential Criteria: The correct expressions for the probabilities P(nu_mu) and P(nu_tau) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The relationship between the energy of the neutrinos and the perturbation frequency must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum Perturbation",
+    "description": "Essential Criteria: The minimum value of hbar omega_1 that can be detected must be correctly calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Time of Flight",
+    "description": "Important Criteria: The time of flight calculation must be accurately applied to find the relationship with M_0.",
+    "weight": 3
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: Any sign errors or incorrect assumptions in the calculations must be identified and avoided.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The mean collision time tau must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The electron number density n must be correctly calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Mean Free Path Calculation",
+    "description": "Important Criteria: The calculation of the mean free path l must be shown and correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Average Velocity Calculation",
+    "description": "Important Criteria: The calculation of the average velocity v must be shown and correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All units must be consistent and correctly applied throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors in (a)",
+    "description": "Pitfall Criteria: Missing factors or incorrect assumptions in the calculation of tau will lead to significant errors.",
+    "weight": -2
+  },
+  {
+    "title": "Common Errors in (b)",
+    "description": "Pitfall Criteria: Errors in the integration limits or incorrect application of the Fermi momentum will lead to incorrect results.",
+    "weight": -2
+  }
+]

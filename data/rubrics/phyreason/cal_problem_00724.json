@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The student must state the correct electric field magnitude of 100 N/C, derived from the force balance qE = mg.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Essential: The student must correctly identify the electric field direction as vertically upward to balance gravity for a positive charge.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity magnitude",
+    "description": "Essential: The student must calculate the correct incident velocity of 1.5 m/s, using the Lorentz force as centripetal force with the correct radius.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum time calculation",
+    "description": "Essential: The student must provide the correct maximum time of 4.2 s (or equivalent with 2 significant figures).",
+    "weight": 5
+  },
+  {
+    "title": "Radius from geometry",
+    "description": "Important: The student must correctly determine the circular motion radius (r = 1.5 m) using the geometry of the equilateral triangle.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The student must explain that the electric force balances gravity to enable uniform circular motion in the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum angle identification",
+    "description": "Important: The student must identify that the maximum central angle for the trajectory is 4π/3 radians (or 240°) based on the geometry of point D exit.",
+    "weight": 4
+  },
+  {
+    "title": "Time-angle relationship",
+    "description": "Important: The student must correctly relate the motion time to the central angle using t = (θ/2π)T or t = θm/(qB).",
+    "weight": 3
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: The student should present the final time with exactly 2 significant figures as requested.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Penalize if the student incorrectly balances forces (e.g., omitting gravity or electric field) or uses wrong signs.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong geometric radius",
+    "description": "Pitfall: Penalize if the student uses an incorrect radius (e.g., L instead of PD) for the circular motion calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Angle or period error",
+    "description": "Pitfall: Penalize if the student uses the wrong central angle (e.g., 120° instead of 240°) or incorrect period formula.",
+    "weight": -2
+  }
+]

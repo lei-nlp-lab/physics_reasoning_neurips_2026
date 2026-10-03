@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for E_n as derived from the integration.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Correspondence Principle",
+    "description": "Important Criteria: The student should correctly apply the Bohr correspondence principle to relate quantum and classical frequencies.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show the correct integration process leading to the final expression for E_n.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Variables",
+    "description": "Important Criteria: The student should correctly identify and use the variables E, n, alpha, beta, and E_0 in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student may check that units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect integration limits.",
+    "weight": -2
+  }
+]

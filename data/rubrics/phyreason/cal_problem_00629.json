@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final speed at impact",
+    "description": "Essential: The student must correctly compute the ball's speed when it hits the ground, using energy conservation or kinematics from the break point.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum rope tension",
+    "description": "Essential: The student must calculate the maximum tension from the centripetal force at the lowest point before breaking.",
+    "weight": 5
+  },
+  {
+    "title": "Length for maximum range",
+    "description": "Essential: The student must determine the optimal rope length l that maximizes the horizontal throw distance x.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum horizontal distance",
+    "description": "Essential: The student must compute the maximum possible horizontal distance x_max corresponding to the optimal length.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important: The student must correctly model the post-break motion as projectile motion with correct initial horizontal velocity and vertical drop.",
+    "weight": 4
+  },
+  {
+    "title": "Energy or kinematics application",
+    "description": "Important: The student must apply work-energy theorem or appropriate kinematics to relate speeds at different points.",
+    "weight": 3
+  },
+  {
+    "title": "Optimization process",
+    "description": "Important: The student must show a valid method (e.g., derivative, symmetry) to find the length that maximizes the range.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All numerical answers should include correct SI units (m, m/s, N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student uses incorrect signs for displacement or confuses vertical/horizontal components.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force mistake",
+    "description": "Pitfall: Penalize if the student omits the weight or uses incorrect net force (T - mg = mv^2/l) at the lowest point.",
+    "weight": -2
+  }
+]

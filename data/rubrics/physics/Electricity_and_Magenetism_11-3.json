@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Intensity Formula",
+    "description": "Essential Criteria: The student must provide the correct formula for intensity as a function of R.",
+    "weight": 5
+  },
+  {
+    "title": "Max Intensity Location",
+    "description": "Essential Criteria: The student must correctly identify the value of R that maximizes the intensity.",
+    "weight": 5
+  },
+  {
+    "title": "Total Power Calculation",
+    "description": "Important Criteria: The student should derive the total power incident on the floor correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Loss Rate",
+    "description": "Important Criteria: The student must relate the power to the energy loss rate correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Amplitude Decay Time",
+    "description": "Essential Criteria: The student must derive the correct expression for the time τ when amplitude is reduced to d/e.",
+    "weight": 5
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the intensity formula.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Expectation",
+    "description": "Optional Criteria: The student should comment on whether the calculated total power aligns with expectations.",
+    "weight": 2
+  }
+]

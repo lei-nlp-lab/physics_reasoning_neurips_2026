@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the heat of vaporization must be correctly calculated as 4.8 x 10^10 ergs/mol.",
+    "weight": 5
+  },
+  {
+    "title": "Conversion Factor",
+    "description": "Important Criteria: The conversion from eV to ergs must be correctly applied using the factor 1 eV = 1.6 x 10^-12 erg.",
+    "weight": 4
+  },
+  {
+    "title": "Avogadro's Number",
+    "description": "Important Criteria: The use of Avogadro's number (6.023 x 10^23) in the calculation must be correctly included.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Energy Value",
+    "description": "Important Criteria: The initial energy value of 1/20 eV must be correctly identified and used in the calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units must be consistent throughout the calculation, confirming that the final answer is in ergs/mol.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: Any arithmetic errors in the multiplication or conversion steps will lead to a significant deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Incorrect signs in the final answer or intermediate steps will result in a deduction.",
+    "weight": -1
+  }
+]

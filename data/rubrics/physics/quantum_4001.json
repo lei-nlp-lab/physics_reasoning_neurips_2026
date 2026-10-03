@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for S_n must be correctly derived and presented as S_n = 2πBe(n + 1/2)/hbar c.",
+    "weight": 5
+  },
+  {
+    "title": "Use of A",
+    "description": "Important Criteria: The substitution of P with p - eA/c must be correctly applied in the context of the Bohr-Sommerfeld relation.",
+    "weight": 4
+  },
+  {
+    "title": "Stokes' Theorem",
+    "description": "Important Criteria: The application of Stokes' theorem to relate the magnetic flux φ to the vector potential A must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Equation of Motion",
+    "description": "Important Criteria: The classical equation of motion for the electron in a magnetic field must be correctly stated and used to relate p and r.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the derivation of the quantization condition must be avoided.",
+    "weight": -2
+  }
+]

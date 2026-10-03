@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Trace of sigma_i",
+    "description": "Essential Criteria - The student must correctly show that Tr(sigma_i) = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenvalues of sigma_i",
+    "description": "Essential Criteria - The student must demonstrate that the eigenvalues of sigma_i are ±1.",
+    "weight": 5
+  },
+  {
+    "title": "Determinant of sigma_i",
+    "description": "Essential Criteria - The student must conclude that det(sigma_i) = -1.",
+    "weight": 5
+  },
+  {
+    "title": "Linear Independence",
+    "description": "Important Criteria - The student must provide a valid argument showing that the matrices I, sigma_i are linearly independent.",
+    "weight": 4
+  },
+  {
+    "title": "Expression for m_i",
+    "description": "Important Criteria - The student must derive the correct expressions for m_0 and m_i.",
+    "weight": 4
+  },
+  {
+    "title": "Trace Calculation",
+    "description": "Optional Criteria - The student may include the calculation of Tr(M) to find m_0.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - The student should check that units are consistent throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - The student must avoid common errors such as sign mistakes in the trace calculations.",
+    "weight": -2
+  }
+]

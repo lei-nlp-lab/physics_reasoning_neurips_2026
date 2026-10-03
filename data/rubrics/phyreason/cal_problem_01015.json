@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial gas pressure",
+    "description": "Essential: Correctly calculates the initial gas pressure using force balance on piston B, including atmospheric pressure and the weight of both pistons.",
+    "weight": 5
+  },
+  {
+    "title": "Final gas pressure",
+    "description": "Essential: Correctly calculates the final gas pressure when the spring is compressed, using force balance on piston B including the spring force and weights.",
+    "weight": 5
+  },
+  {
+    "title": "Ideal gas law application",
+    "description": "Important: Applies the ideal gas law (pV = nRT) to relate the initial and final states of the enclosed gas, correctly identifying constant n.",
+    "weight": 4
+  },
+  {
+    "title": "Volume ratio calculation",
+    "description": "Important: Correctly determines the initial and final volumes of the enclosed gas based on the given distances and piston area.",
+    "weight": 3
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important: Sets up the static equilibrium condition for piston B, considering forces from gas pressure, atmosphere, spring, and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Spring force inclusion",
+    "description": "Important: Correctly incorporates Hooke's law for the spring force in the final equilibrium, using the correct compression distance.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Converts all quantities (cm, cm², kg) to consistent SI units (m, m², kg) before calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Makes a sign error in the force balance equation, e.g., misplacing the direction of the spring force or atmospheric pressure.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect volume or area",
+    "description": "Pitfall: Uses an incorrect height for the gas volume or misinterprets the cross-sectional area, leading to wrong pressure or temperature.",
+    "weight": -2
+  }
+]

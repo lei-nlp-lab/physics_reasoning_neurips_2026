@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Stone's bottom velocity",
+    "description": "Essential: Correctly calculates the rock's speed at the base of the slope using kinematics (e.g., v = sqrt(2*a*x)).",
+    "weight": 5
+  },
+  {
+    "title": "Stone's slope time",
+    "description": "Essential: Correctly calculates the time for the rock to roll down the 16m slope.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Correctly sets up the kinematic equations for the rock and truck after the rock reaches the base, accounting for the driver's 1-second reaction delay.",
+    "weight": 4
+  },
+  {
+    "title": "Collision time or distance",
+    "description": "Important: Correctly solves for either the collision time (if no escape) or the minimum separation distance (if escape occurs), selecting the physically valid root.",
+    "weight": 4
+  },
+  {
+    "title": "Constant speed phase check",
+    "description": "Optional: Explicitly notes or verifies that the rock's constant speed phase after the slope has zero duration before deceleration begins.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Uses the rock's deceleration (1.5 m/s²) with an incorrect sign in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Reaction time omission",
+    "description": "Pitfall: Fails to account for the 1-second driver reaction time when determining the truck's start time relative to the rock's motion.",
+    "weight": -2
+  },
+  {
+    "title": "Invalid time root selection",
+    "description": "Pitfall: Selects the larger, non-physical time root from the quadratic equation for the collision/meeting event.",
+    "weight": -1
+  }
+]

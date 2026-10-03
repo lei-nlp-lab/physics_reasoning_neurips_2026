@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct capacitor charge",
+    "description": "Essential Criteria: The student's final answer for part (1) must be numerically correct, approximately 6.4 × 10⁻⁵ C.",
+    "weight": 5
+  },
+  {
+    "title": "Correct charge through R₂",
+    "description": "Essential Criteria: The student's final answer for part (2) must be numerically correct, approximately 3.2 × 10⁻⁵ C.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ohm's Law correctly",
+    "description": "Important Criteria: The student must correctly calculate the current in the circuit using the total EMF and the total resistance in the loop containing the source and R₃.",
+    "weight": 4
+  },
+  {
+    "title": "Relate capacitor voltage to R₃",
+    "description": "Important Criteria: The student must recognize that the voltage across the capacitor equals the voltage across resistor R₃ when the switch is closed.",
+    "weight": 4
+  },
+  {
+    "title": "Apply charge conservation",
+    "description": "Important Criteria: For part (2), the student must apply the principle of charge conservation, recognizing the total capacitor discharge splits equally between the two parallel branches containing R₁ and R₂.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency and conversion",
+    "description": "Optional Criteria: The student's work should correctly handle units, particularly converting microfarads to farads for capacitance calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Misidentify capacitor voltage",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assumes the capacitor voltage is the source EMF or the voltage across a different resistor.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect discharge path analysis",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly analyzes the discharge path after opening the switch, failing to recognize the parallel split of current between R₁ and R₂.",
+    "weight": -2
+  }
+]

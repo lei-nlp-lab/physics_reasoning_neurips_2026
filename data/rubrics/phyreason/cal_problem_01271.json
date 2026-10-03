@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Time A to B",
+    "description": "Essential: Correctly calculates total time (2.25 s) by summing acceleration and constant velocity phases on the belt.",
+    "weight": 5
+  },
+  {
+    "title": "Scratch Length",
+    "description": "Essential: Correctly calculates the scratch length (0.5 m) from relative motion during acceleration on the belt.",
+    "weight": 5
+  },
+  {
+    "title": "Block Acceleration on Belt",
+    "description": "Important: Applies Newton's second law to find block acceleration (4 m/s²) due to kinetic friction on the conveyor.",
+    "weight": 4
+  },
+  {
+    "title": "Block Acceleration on Board (F on block)",
+    "description": "Important: For part (2), correctly finds block's deceleration (3 m/s²) on the board considering applied force and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Relative Motion Analysis",
+    "description": "Important: For parts (2) and (3), uses relative displacement between block and board to find minimum plank length.",
+    "weight": 4
+  },
+  {
+    "title": "Board Acceleration (F on board)",
+    "description": "Important: For part (3), correctly calculates board's acceleration (1 m/s²) with applied force and ground friction.",
+    "weight": 4
+  },
+  {
+    "title": "Board Total Displacement",
+    "description": "Optional: For part (3), correctly computes total board displacement (0.167 m) including sliding and stopping phases.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/Direction Error",
+    "description": "Pitfall: Incorrect sign for friction or acceleration when block and board move relative to each other or ground.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Omission",
+    "description": "Pitfall: Final answers lack proper SI units (s, m) or includes incorrect units.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer for Hydrogen",
+    "description": "Essential Criteria: The response must correctly state that the linear Stark effect in hydrogen is due to degeneracy with respect to l.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for Sodium",
+    "description": "Essential Criteria: The response must correctly state that the quadratic Stark effect in sodium is due to non-degeneracy and the vanishing of the first order energy correction.",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Parity",
+    "description": "Important Criteria: The response should explain the role of parity in determining the Stark effect for both hydrogen and sodium.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The response must mention the use of perturbation theory in analyzing the Stark effect for both atoms.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response must avoid errors related to incorrectly stating the effects of electric field strength on the Stark effect.",
+    "weight": -2
+  }
+]

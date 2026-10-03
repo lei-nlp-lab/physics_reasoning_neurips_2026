@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Acceleration time expression",
+    "description": "Essential: Student must derive or state the correct expression for time t, incorporating the number of acceleration cycles and magnetic period.",
+    "weight": 5
+  },
+  {
+    "title": "Electrode thickness derivation",
+    "description": "Important: Student must correctly relate maximum thickness to the difference in radii of the last two semicircular orbits before extraction.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum radius calculation",
+    "description": "Essential: Student must derive the final expression for R_m using geometry of the deflector and force balance in the slit.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Student must correctly apply energy conservation to relate kinetic energy at P to acceleration voltage and number of cycles.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance in deflector",
+    "description": "Important: Student must set up correct force balance (Lorentz minus electric) for circular motion within the deflector slit.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric relationships",
+    "description": "Important: Student must correctly use geometry (triangle OO'Q) to relate deflector radius to magnetic field radius.",
+    "weight": 3
+  },
+  {
+    "title": "Cyclotron period usage",
+    "description": "Optional: Student may explicitly state or use the period T = 2πm/(qB) in time calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Student incorrectly adds electric and magnetic forces instead of subtracting (since fields oppose for extraction).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect acceleration count",
+    "description": "Pitfall: Student miscalculates number of acceleration cycles (n = qB²R²/(2mU) - 1) for time expression.",
+    "weight": -1
+  }
+]

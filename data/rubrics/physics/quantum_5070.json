@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for H",
+    "description": "Essential Criteria: The student must provide the correct final answer for the magnetic polarizability of hydrogen, 2.9 x 10^-11 eV/Gs^2.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for He",
+    "description": "Essential Criteria: The student must provide the correct final answer for the magnetic polarizability of helium, -4.4 x 10^-19 eV/Gs^2.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Method",
+    "description": "Important Criteria: The student should correctly apply the perturbation theory to derive the energy corrections for both hydrogen and helium.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Elements",
+    "description": "Important Criteria: The student must demonstrate understanding of the matrix elements involved in the second-order perturbation calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Difference",
+    "description": "Important Criteria: The student should correctly identify and use the energy difference E_{F=1} - E_{F=0} for hydrogen in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the perturbation calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student could provide a brief physical interpretation of the results obtained for both atoms.",
+    "weight": 1
+  }
+]

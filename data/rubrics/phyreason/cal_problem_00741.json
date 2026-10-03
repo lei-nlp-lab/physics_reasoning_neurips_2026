@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Turns Ratio Calculation",
+    "description": "Essential Criteria: Student must correctly calculate the transformer turns ratio n₁/n₂ = 2 using the given power relationships and circuit constraints.",
+    "weight": 5
+  },
+  {
+    "title": "Input Voltage Ratio",
+    "description": "Essential Criteria: Student must determine that the input voltage U_AB is twice the bulb voltage when the bulb glows normally.",
+    "weight": 5
+  },
+  {
+    "title": "Power Relationship Analysis",
+    "description": "Important Criteria: Student must correctly apply the given condition P_R₁ = 8P_bulb to establish relationships between currents and voltages.",
+    "weight": 4
+  },
+  {
+    "title": "Transformer Current Ratio",
+    "description": "Important Criteria: Student must use the transformer relationship I₁/I₂ = n₂/n₁ along with circuit analysis to solve for unknowns.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit Equivalent Resistance",
+    "description": "Important Criteria: Student must analyze the primary side circuit with parallel resistors R₁ and R₂ to find equivalent resistance seen by the transformer.",
+    "weight": 3
+  },
+  {
+    "title": "Resistance Ratio Application",
+    "description": "Optional Criteria: Student may explicitly use the given relationship R₁ = R₂ = 2R_bulb in their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Ratios",
+    "description": "Pitfall Criteria: Penalize if student incorrectly inverts the transformer ratio (e.g., writes n₁/n₂ = 1/2 instead of 2).",
+    "weight": -2
+  },
+  {
+    "title": "Power Formula Misapplication",
+    "description": "Pitfall Criteria: Penalize if student incorrectly applies P = I²R or P = V²/R to wrong circuit elements or mismatches voltages/currents.",
+    "weight": -1
+  }
+]

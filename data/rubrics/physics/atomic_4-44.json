@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 30 MeV/c.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should correctly apply conservation of energy in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student must correctly apply conservation of momentum to relate the momenta of the muon and neutrino.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Squaring",
+    "description": "Important Criteria: The student should correctly square the energy-momentum relation in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation Accuracy",
+    "description": "Optional Criteria: The student should show accurate calculations leading to the final momentum value.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should maintain consistent units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of conservation laws.",
+    "weight": -2
+  }
+]

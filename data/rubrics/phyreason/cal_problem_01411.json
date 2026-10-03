@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Speed at N",
+    "description": "Essential: Correctly calculates the speed at point N using work-energy theorem: v_N = sqrt(2Eql/m).",
+    "weight": 5
+  },
+  {
+    "title": "Speed at P",
+    "description": "Essential: Correctly calculates the speed at point P, which must be v_P = 2*sqrt(Eql/m).",
+    "weight": 5
+  },
+  {
+    "title": "Potential Energy Change",
+    "description": "Essential: Correctly states the change in electric potential energy from M to P as ΔU = -2Eql.",
+    "weight": 5
+  },
+  {
+    "title": "P Coordinate",
+    "description": "Essential: Correctly identifies the x-coordinate of point P as 2l.",
+    "weight": 5
+  },
+  {
+    "title": "Work-Energy Application",
+    "description": "Important: Applies the work-energy theorem correctly for motion in each quadrant or overall.",
+    "weight": 3
+  },
+  {
+    "title": "Motion Decomposition",
+    "description": "Important: Analyzes the motion in the first quadrant as projectile-like, with constant horizontal velocity and uniform vertical acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry Relation",
+    "description": "Important: Uses the given tanθ = 1/2 to relate the vertical and horizontal displacements in the first quadrant.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Potential",
+    "description": "Pitfall: Incorrectly assigns the sign for the change in electric potential energy (e.g., positive instead of negative).",
+    "weight": -2
+  },
+  {
+    "title": "Kinematics Mix-up",
+    "description": "Pitfall: Misapplies kinematic equations, e.g., using wrong acceleration direction or confusing motion between quadrants.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional: Demonstrates dimensional analysis to verify the units of final answers are consistent.",
+    "weight": 1
+  }
+]

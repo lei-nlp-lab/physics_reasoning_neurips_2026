@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Earth mass expression",
+    "description": "Essential: Student must derive or state the correct expression for Earth's mass: M = gR²/G.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal acceleration derivation",
+    "description": "Important: Student must correctly apply Newton's law of gravitation and second law to derive a = gR²/(R+h)².",
+    "weight": 4
+  },
+  {
+    "title": "Orbital speed derivation",
+    "description": "Important: Student must correctly equate gravitational force to centripetal force to derive v = R√[g/(R+h)].",
+    "weight": 4
+  },
+  {
+    "title": "Correct force identification",
+    "description": "Important: Student must identify that gravitational force provides the centripetal force for the satellite.",
+    "weight": 3
+  },
+  {
+    "title": "Surface gravity relation",
+    "description": "Optional: Student may explicitly show the substitution g = GM/R² when deriving satellite motion expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Units or dimensional check",
+    "description": "Optional: Student may include unit analysis or dimensional consistency verification of final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius usage",
+    "description": "Pitfall: Student uses Earth radius R instead of orbital radius (R+h) in gravitational force expression for satellite.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation errors",
+    "description": "Pitfall: Student makes algebraic errors when solving for acceleration or velocity from force equations.",
+    "weight": -1
+  }
+]

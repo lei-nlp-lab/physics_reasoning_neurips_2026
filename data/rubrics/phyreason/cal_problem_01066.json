@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final time",
+    "description": "Essential Criteria: The final answer must be 10 minutes.",
+    "weight": 5
+  },
+  {
+    "title": "Equal travel times",
+    "description": "Important Criteria: The solution must state or use that the police and criminal travel for the same time interval.",
+    "weight": 4
+  },
+  {
+    "title": "Police distance equation",
+    "description": "Important Criteria: The distance BE must be correctly expressed using the Pythagorean theorem with BC and (CD + DE).",
+    "weight": 3
+  },
+  {
+    "title": "Criminal distance equation",
+    "description": "Important Criteria: The criminal's total distance (AD + DE) must be correctly expressed using the Pythagorean theorem for AD.",
+    "weight": 3
+  },
+  {
+    "title": "Solve for CD",
+    "description": "Important Criteria: The equations must be set equal and solved to find CD = 3 km.",
+    "weight": 4
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Optional Criteria: The solution should correctly handle unit conversion from hours to minutes.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect distance setup",
+    "description": "Pitfall Criteria: Penalize if the police car's distance is incorrectly calculated as sqrt(BC^2 + CD^2) + DE.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or arithmetic error",
+    "description": "Pitfall Criteria: Penalize for algebraic or arithmetic mistakes in solving the equation sqrt(36+(CD+5)^2) = sqrt(16+CD^2)+5.",
+    "weight": -1
+  }
+]

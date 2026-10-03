@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for W'/W as 1/3.",
+    "weight": 5
+  },
+  {
+    "title": "Work Equations",
+    "description": "Important Criteria: The student should correctly state the work equations for both monatomic and diatomic gases.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Values",
+    "description": "Important Criteria: The student must correctly identify and use the temperatures T1 and T2 in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Adiabatic Relations",
+    "description": "Important Criteria: The student should apply the adiabatic equations correctly to relate volumes and temperatures.",
+    "weight": 4
+  },
+  {
+    "title": "Logarithm Application",
+    "description": "Optional Criteria: The student may demonstrate understanding by correctly applying logarithmic properties in the ratio of works.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units throughout their calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of the gas constant R.",
+    "weight": -2
+  },
+  {
+    "title": "Volume Values",
+    "description": "Pitfall Criteria: The student must ensure that the volume values V1 and V2 are correctly identified and used.",
+    "weight": -1
+  }
+]

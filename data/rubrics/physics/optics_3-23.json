@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for the ratio of intensities must be correctly stated as R = 0.02.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Fresnel's Equation",
+    "description": "Important Criteria: The application of Fresnel's equations must be correctly identified and utilized in the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Indices of Refraction",
+    "description": "Important Criteria: The indices of refraction for air (n1) and water (n2) must be correctly identified as n1 = 1 and n2 = 1.33.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Calculation",
+    "description": "Important Criteria: The calculation of the intensity ratio using the formula must be shown with correct arithmetic.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The response should include a check for unit consistency in the context of intensity ratios.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect application of the formula that leads to an incorrect final answer will result in a deduction.",
+    "weight": -2
+  }
+]

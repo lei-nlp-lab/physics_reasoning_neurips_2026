@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the ionization rate W.",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The student should correctly derive the modified Hamiltonian including the interaction term with the vector potential.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Theory",
+    "description": "Important Criteria: The student must apply perturbation theory correctly to relate the Hamiltonian to the ionization process.",
+    "weight": 4
+  },
+  {
+    "title": "Expectation Value",
+    "description": "Important Criteria: The student should compute the expectation value of the perturbation correctly between the ground state and the outgoing state.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units of the final expression for W are consistent with physical dimensions.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or neglecting factors in the Hamiltonian.",
+    "weight": -2
+  },
+  {
+    "title": "Coulomb Gauge Application",
+    "description": "Important Criteria: The student should correctly apply the Coulomb gauge condition in their derivation.",
+    "weight": 3
+  },
+  {
+    "title": "Transverse Wave Condition",
+    "description": "Optional Criteria: The student should recognize and state that the plane wave is transverse as required for electromagnetic waves.",
+    "weight": 1
+  }
+]

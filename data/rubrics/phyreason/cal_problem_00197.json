@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final balloon volume",
+    "description": "Essential: The student's final answer for part (1) must be expressed as ((1-k)/k) * v1 or an equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Final gas pressure",
+    "description": "Essential: The student's final answer for part (2) must be expressed as (k * p1 * T2) / T1 or an equivalent algebraic form.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Boyle's Law",
+    "description": "Important: The solution for part (1) must correctly apply Boyle's Law (pV = constant at constant temperature) to the initial and final states at T1.",
+    "weight": 4
+  },
+  {
+    "title": "Apply Charles's/Gay-Lussac's Law",
+    "description": "Important: The solution for part (2) must correctly apply the pressure-temperature law (p/T = constant at constant volume) to the sealed balloon's ascent.",
+    "weight": 4
+  },
+  {
+    "title": "Define total system volume",
+    "description": "Important: For part (1), the reasoning must account for the total final volume (V1 + V_balloon) when the pressure becomes k*p1.",
+    "weight": 3
+  },
+  {
+    "title": "Recognize constant volume",
+    "description": "Optional: The solution may explicitly state that the balloon volume is constant after sealing for the ascent in part (2).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect gas law application",
+    "description": "Pitfall: Penalize if the student uses the ideal gas law on a changing mass of gas in part (1) instead of a mass-conserving Boyle's Law argument.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebraic error",
+    "description": "Pitfall: Penalize if the algebra for part (1) yields an incorrect sign (e.g., (k-1)/k) or misplaces the factor k.",
+    "weight": -1
+  }
+]

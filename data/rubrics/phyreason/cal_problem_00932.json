@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly states the final expression for the magnetic induction, B = (√3 mv) / (2qa).",
+    "weight": 5
+  },
+  {
+    "title": "Time in magnetic field",
+    "description": "Essential: Correctly states the final expression for the time of motion in the magnetic field, t = (4√3 π a) / (9v).",
+    "weight": 5
+  },
+  {
+    "title": "Coordinates at zero velocity",
+    "description": "Essential: Correctly states the final coordinates when velocity first becomes zero in the electric field, (-mv²/(2qE), √3 a).",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for circular path",
+    "description": "Important: Correctly relates the launch point and angle to the radius of the circular motion, e.g., using r = a / cos 30°.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance in magnetic field",
+    "description": "Important: Applies Newton's second law with the Lorentz force to establish qvB = mv²/r.",
+    "weight": 4
+  },
+  {
+    "title": "Angle and time fraction",
+    "description": "Important: Correctly identifies the central angle of the circular arc (e.g., 120° or 2π/3 rad) and relates it to the fraction of the period.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: Applies constant-acceleration kinematics or work-energy theorem to find the distance traveled in the electric field before stopping.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in coordinate",
+    "description": "Pitfall: Places the zero-velocity x-coordinate in the first quadrant (positive) instead of the correct second quadrant (negative).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or vector omission",
+    "description": "Pitfall: Provides a scalar answer for the coordinates or omits units in final expressions without justification.",
+    "weight": -1
+  }
+]

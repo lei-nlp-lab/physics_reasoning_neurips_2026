@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Wavefront angle expression",
+    "description": "Essential: Correctly expresses φ as arcsin(1/(βn)) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum pressure calculations",
+    "description": "Essential: Correctly calculates P_min for protons, kaons, and pions (16 atm, 4.6 atm, 0.36 atm).",
+    "weight": 5
+  },
+  {
+    "title": "Halved radius pressure and angles",
+    "description": "Essential: Correctly finds P_1/2 = 6 atm, θ_κ ≈ 1.6°, θ_π ≈ 3.2°, and states protons do not radiate.",
+    "weight": 5
+  },
+  {
+    "title": "Derivation of Δθ/Δp relation",
+    "description": "Important: Applies logarithmic differentiation or small-angle approximation to relate Δθ to Δp via β.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum spread for distinguishability",
+    "description": "Important: Correctly sets up and solves θ_π - θ_κ > 10(Δθ_κ + Δθ_π) to find Δp < 0.3 GeV/c.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum kinetic energy formula",
+    "description": "Important: Derives T_min = Mc²(γ_min - 1) with γ_min = n/√(n² - 1) or equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Particle identification in water",
+    "description": "Important: Calculates T_min for α and β particles and correctly identifies electrons as the source.",
+    "weight": 3
+  },
+  {
+    "title": "Dispersion and momentum broadening",
+    "description": "Optional: Correctly calculates δθ from refractive index variation and Δθ from given Δp.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes sign errors in logarithmic differentiation or misplaces factors of c in relativistic formulas.",
+    "weight": -2
+  },
+  {
+    "title": "Approximation misuse",
+    "description": "Pitfall: Incorrectly applies small-angle or small-(n-1) approximations outside their validity.",
+    "weight": -1
+  }
+]

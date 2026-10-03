@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Frequencies",
+    "description": "Essential Criteria: Provide the correct expressions for the normal-mode angular frequencies omega_1 and omega_2.",
+    "weight": 5
+  },
+  {
+    "title": "Amplitude Ratio",
+    "description": "Essential Criteria: State the correct ratio of amplitudes B/A for both normal modes.",
+    "weight": 5
+  },
+  {
+    "title": "Lagrangian Formulation",
+    "description": "Important Criteria: Derive the Lagrangian correctly, including kinetic and potential energy terms.",
+    "weight": 4
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: Correctly apply Lagrange's equations to derive the equations of motion for theta and phi.",
+    "weight": 4
+  },
+  {
+    "title": "Secular Equation",
+    "description": "Important Criteria: Formulate the secular equation correctly from the derived equations of motion.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes in the equations of motion or during the derivation of the secular equation.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all terms in the equations are dimensionally consistent.",
+    "weight": 2
+  },
+  {
+    "title": "Small Oscillation Approximation",
+    "description": "Optional Criteria: Clearly state the assumption of small oscillations and its implications on the equations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct final answers for each frequency region regarding absorption or transparency.",
+    "weight": 5
+  },
+  {
+    "title": "Absorption Mechanisms",
+    "description": "Important Criteria: Identify the key absorbing substances for each frequency region where absorption occurs.",
+    "weight": 4
+  },
+  {
+    "title": "Transparency Explanation",
+    "description": "Important Criteria: Clearly state the transparency of the atmosphere for X-rays, gamma-rays, and visible light.",
+    "weight": 3
+  },
+  {
+    "title": "Frequency Regions",
+    "description": "Essential Criteria: Address all specified frequency regions in the response.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid misidentifying any frequency region as transparent or absorbing incorrectly.",
+    "weight": -2
+  }
+]

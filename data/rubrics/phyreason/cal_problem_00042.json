@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: The response must correctly calculate the acceleration as 2.7 m/s² using the kinematic equation for uniformly accelerated motion.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal acceleration ratio",
+    "description": "Essential: The response must correctly derive and state the ratio of centripetal accelerations as 225/242.",
+    "weight": 5
+  },
+  {
+    "title": "Correct exit identification",
+    "description": "Essential: The response must correctly identify athlete A as the one who exits the curve first.",
+    "weight": 5
+  },
+  {
+    "title": "Application of kinematic equation",
+    "description": "Important: The solution must apply the correct kinematic equation (v² = u² + 2as) for the rectilinear motion, with u=0.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal acceleration formula",
+    "description": "Important: The solution must correctly apply the formula a_c = v²/R to find the accelerations or their ratio.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculation for semicircle",
+    "description": "Important: The reasoning must include calculating the time for each athlete using t = πR/v for the semicircular path.",
+    "weight": 3
+  },
+  {
+    "title": "Comparison logic",
+    "description": "Optional: The response may explicitly compare the calculated times (4π/5 s vs. 9π/11 s) to justify the conclusion.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution may demonstrate consistent use of SI units (m, s, m/s²) throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect kinematic equation",
+    "description": "Pitfall: Using an incorrect kinematic equation (e.g., v = u + at) without considering the given distance, leading to a wrong acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Ratio inversion error",
+    "description": "Pitfall: Incorrectly inverting the ratio of centripetal accelerations (e.g., writing 242/225) or misapplying the formula a_c ∝ v²/R.",
+    "weight": -1
+  }
+]

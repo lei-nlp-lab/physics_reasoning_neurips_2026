@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric force at M",
+    "description": "Essential: Correctly calculates the magnitude of the net electric force on S1 at point M as √2 kQ²/(4L²).",
+    "weight": 5
+  },
+  {
+    "title": "Momentum magnitude of S2",
+    "description": "Essential: Correctly determines the magnitude of S2's momentum before the collision as 8kQ²√(gL)/(9gL²).",
+    "weight": 5
+  },
+  {
+    "title": "Initial kinetic energy condition",
+    "description": "Essential: Correctly states the inequality for the initial kinetic energy: Ek > (13-8√2)kQ²/(27L).",
+    "weight": 5
+  },
+  {
+    "title": "Mass derivation from graph",
+    "description": "Important: Uses the acceleration graph (point C) and force analysis to correctly derive the mass of S1 as 8kQ²/(27gL²).",
+    "weight": 4
+  },
+  {
+    "title": "Collision analysis",
+    "description": "Important: Applies conservation of momentum and the given kinetic energy condition for S1 to solve for S2's velocity/momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Condition for reaching N",
+    "description": "Important: Identifies that reaching point N requires the velocity at the equilibrium point D (where a=0) to be greater than zero.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Correctly applies the work-energy theorem between points M and D, incorporating gravitational and electric potential energy changes.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Uses the incorrect sign for S2's momentum (e.g., positive instead of negative for motion along -x axis) without taking the magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Force vector addition error",
+    "description": "Pitfall: Incorrectly adds the Coulomb forces from A and B at point M (e.g., scalar sum instead of vector sum, wrong angle).",
+    "weight": -1
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Optional: Includes correct units (e.g., N, kg m/s, J) or explicitly states the electrostatic constant k in final expressions.",
+    "weight": 1
+  }
+]

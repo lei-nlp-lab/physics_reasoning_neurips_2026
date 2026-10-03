@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Force Calculation",
+    "description": "Essential Criteria: The student must correctly derive the force of attraction between the two magnetic dipoles.",
+    "weight": 5
+  },
+  {
+    "title": "Torque Calculation",
+    "description": "Essential Criteria: The student must correctly derive the torque experienced by the misaligned dipole.",
+    "weight": 5
+  },
+  {
+    "title": "Field Expression",
+    "description": "Important Criteria: The student should express the magnetic field produced by the first dipole at the location of the second dipole.",
+    "weight": 4
+  },
+  {
+    "title": "Alignment Explanation",
+    "description": "Important Criteria: The student should explain how the torque affects the alignment of the second dipole with respect to the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the force and torque calculations.",
+    "weight": -2
+  }
+]

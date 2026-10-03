@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct capacitance value",
+    "description": "Essential Criteria: The student must correctly compute the capacitance using C = Q/U, obtaining approximately 1.67 × 10⁻⁹ F.",
+    "weight": 5
+  },
+  {
+    "title": "Correct electric field strength",
+    "description": "Essential Criteria: The student must correctly compute the electric field strength using E = U/d, obtaining 900 V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential at C",
+    "description": "Essential Criteria: The student must correctly compute the electric potential at point C, obtaining -27 V.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit analysis for voltage",
+    "description": "Important Criteria: The student must correctly apply Ohm's law to find the current in the loop and the voltage across R₂ (and thus the capacitor).",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference calculation",
+    "description": "Important Criteria: The student must correctly relate the potential at C to the potential at A using the electric field and distance d_AC.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall Criteria: The student incorrectly assigns the sign of the potential at point C (e.g., giving +27 V instead of -27 V).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student correctly converts all distances to meters and maintains consistent SI units throughout.",
+    "weight": 1
+  }
+]

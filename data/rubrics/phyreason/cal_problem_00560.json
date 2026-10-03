@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic speed formula",
+    "description": "Essential Criteria: The final answer for part (1) must be expressed as v = (qBd sin φ) / m.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential Criteria: The final answer for part (2) must be expressed as E = (q d B² sin³ φ cos φ) / m.",
+    "weight": 5
+  },
+  {
+    "title": "Entry distance from O",
+    "description": "Essential Criteria: The final answer for part (3) must be expressed as L = d / (2 tan φ).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic force centripetal",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion, qvB = mv²/R, and correctly relate the radius R to the given distance d and angle φ.",
+    "weight": 4
+  },
+  {
+    "title": "Electric kinematics setup",
+    "description": "Important Criteria: The solution must correctly decompose the velocity at point A into horizontal and vertical components and apply kinematic equations (d = v₀t, v sin φ = at) for motion in the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Link acceleration to E-field",
+    "description": "Important Criteria: The solution must use Newton's second law in the electric field, qE = ma, to connect the kinematic acceleration to the electric field strength.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric radius relation",
+    "description": "Optional Criteria: The solution may explicitly state or use the geometric relationship for the circular arc's radius, R = d sin φ.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assigns the sign of the charge in the force equations or misidentifies the direction of the electric or magnetic force.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity component mix-up",
+    "description": "Pitfall Criteria: Penalize if the student confuses the horizontal (v cos φ) and vertical (v sin φ) velocity components at point A in the kinematic equations.",
+    "weight": -1
+  }
+]

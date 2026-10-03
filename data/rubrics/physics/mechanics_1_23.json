@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide the correct final answers for each part of the question.",
+    "weight": 5
+  },
+  {
+    "title": "Differential Equation Setup",
+    "description": "Important Criteria: Correctly set up the differential equation for motion considering air resistance.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: Show the correct integration steps to find velocity and distance traveled.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Application",
+    "description": "Important Criteria: Apply conservation of energy correctly to find the distance of knee bending.",
+    "weight": 4
+  },
+  {
+    "title": "Qualitative Argument",
+    "description": "Important Criteria: Provide a clear qualitative argument regarding the assumption of air resistance proportional to speed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes or incorrect assumptions in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases Discussion",
+    "description": "Optional Criteria: Discuss limiting cases or alternative scenarios that could affect the results.",
+    "weight": 1
+  }
+]

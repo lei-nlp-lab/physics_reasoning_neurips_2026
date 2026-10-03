@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for the total cross section must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The application of conservation of mechanical energy must be correctly utilized in the derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum",
+    "description": "Important Criteria: The use of angular momentum conservation must be correctly applied to relate impact parameter and closest distance.",
+    "weight": 4
+  },
+  {
+    "title": "Impact Parameter",
+    "description": "Important Criteria: The expression for the impact parameter b must be derived correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Condition for Striking",
+    "description": "Essential Criteria: The condition r < R for the comet to strike the sun must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in the energy or angular momentum equations will lead to incorrect results.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to include the factor of pi in the final cross section expression will result in a significant error.",
+    "weight": -2
+  }
+]

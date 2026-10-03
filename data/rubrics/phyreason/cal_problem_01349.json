@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Speed at B",
+    "description": "Essential: Correctly calculates the speed at point B as approximately 8.9 m/s or 4√5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at C",
+    "description": "Essential: Correctly calculates the speed at point C as approximately 16.7 m/s or 2√70 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Setup",
+    "description": "Important: Applies conservation of mechanical energy correctly for the A-to-B segment, relating kinetic energy gain to potential energy loss.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation Extension",
+    "description": "Important: Applies conservation of mechanical energy correctly for the B-to-C segment, accounting for the further loss of potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Height Values",
+    "description": "Important: Uses the correct height differences (h1 from A to B, h2 from B to C) in the energy equations.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic Manipulation",
+    "description": "Optional: Shows clear algebraic steps to solve for the unknown speeds from the energy equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Error in Potential Energy",
+    "description": "Pitfall: Makes a sign error in the potential energy term for the B-to-C segment (e.g., adding mgh2 instead of subtracting).",
+    "weight": -2
+  },
+  {
+    "title": "Unit Omission or Mismatch",
+    "description": "Pitfall: Fails to include correct units (m/s) for final speeds or uses incorrect units.",
+    "weight": -1
+  }
+]

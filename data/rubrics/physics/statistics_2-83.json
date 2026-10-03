@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for c_v",
+    "description": "Essential Criteria: The student must correctly compute the specific heat c_v for T to infinity as Nk.",
+    "weight": 5
+  },
+  {
+    "title": "Final Exponents",
+    "description": "Essential Criteria: The student must correctly identify the exponents alpha and gamma as both equal to 1.",
+    "weight": 5
+  },
+  {
+    "title": "Thermal Equilibrium Concept",
+    "description": "Important Criteria: The student should demonstrate understanding of thermal equilibrium and its implications on energy calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Quantum Mechanical Treatment",
+    "description": "Important Criteria: The student must apply quantum mechanics principles correctly in the derivation of U.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Behavior Analysis",
+    "description": "Important Criteria: The student should analyze the limit behaviors of U as T approaches 0 and infinity appropriately.",
+    "weight": 3
+  },
+  {
+    "title": "Summation Techniques",
+    "description": "Optional Criteria: The student may use appropriate summation techniques for large N to simplify calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations to avoid errors.",
+    "weight": -2
+  },
+  {
+    "title": "Common Errors in Limits",
+    "description": "Pitfall Criteria: The student should avoid common mistakes in evaluating limits, particularly in the exponential terms.",
+    "weight": -2
+  }
+]

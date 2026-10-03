@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum EMF expression",
+    "description": "Essential: The response must correctly state the maximum induced EMF as Em = nBSω, leading to the numerical value 200√2 V.",
+    "weight": 5
+  },
+  {
+    "title": "Instantaneous EMF expression",
+    "description": "Essential: The response must provide the complete instantaneous EMF expression e = 200√2 sin(100t) V, including correct amplitude, angular frequency, and sine function.",
+    "weight": 5
+  },
+  {
+    "title": "Voltmeter reading calculation",
+    "description": "Essential: The response must correctly calculate the RMS voltage from the maximum EMF, giving the voltmeter reading as 200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer ratio application",
+    "description": "Important: The response must correctly apply the transformer turns ratio (2:1) to relate primary and secondary RMS voltages and currents.",
+    "weight": 4
+  },
+  {
+    "title": "Resistor value from Ohm's law",
+    "description": "Important: The response must use the secondary circuit's RMS voltage and the given ammeter reading (2 A) with Ohm's law to find R = 25 Ω.",
+    "weight": 4
+  },
+  {
+    "title": "Sine vs cosine function",
+    "description": "Pitfall: Penalize if the instantaneous EMF uses cosine instead of sine, given the timing starts when the coil is at the neutral plane.",
+    "weight": -2
+  },
+  {
+    "title": "RMS vs peak confusion",
+    "description": "Pitfall: Penalize if the voltmeter reading is incorrectly given as the peak voltage (200√2 V) instead of the RMS value.",
+    "weight": -2
+  },
+  {
+    "title": "Transformer power conservation",
+    "description": "Optional: The solution may explicitly state or use the conservation of power (ideal transformer) as part of the reasoning for part (3).",
+    "weight": 1
+  }
+]

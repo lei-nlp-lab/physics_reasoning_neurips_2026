@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct net force calculation",
+    "description": "Essential: Student correctly computes the net horizontal force as F1 - F2 = 7 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction magnitude for part (1)",
+    "description": "Essential: Student states the static friction force equals the net force of 7 N, as it is less than the maximum static friction.",
+    "weight": 5
+  },
+  {
+    "title": "Friction direction for part (1)",
+    "description": "Important: Student identifies the friction direction opposes the net applied force, correctly stating it is to the left.",
+    "weight": 3
+  },
+  {
+    "title": "Friction after removing F1",
+    "description": "Essential: For part (2), student finds the static friction force equals the remaining applied force F2 = 6 N, opposing it to the right.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison to maximum friction",
+    "description": "Important: Student compares the required static friction force to the maximum (8 N) to determine if the block moves or not.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic friction for part (3)",
+    "description": "Essential: For part (3), student correctly identifies the block moves and the friction is kinetic, with magnitude μN = 8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Direction for kinetic friction",
+    "description": "Important: Student states the kinetic friction direction opposes the motion/remaining applied force (F1), which is to the left.",
+    "weight": 3
+  },
+  {
+    "title": "Confusing static and kinetic",
+    "description": "Pitfall: Student incorrectly uses kinetic friction when the block is in static equilibrium (parts 1 & 2).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student makes an error in the sign/direction of the net force or friction force for any part.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (N) for all force magnitudes.",
+    "weight": 1
+  }
+]

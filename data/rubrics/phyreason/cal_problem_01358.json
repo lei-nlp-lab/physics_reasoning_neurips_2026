@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The answer must give the speed at point A as 5√2 m/s or equivalent numerical form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum distance",
+    "description": "Essential: The answer must give the maximum distance up the incline as 5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy on rough segment",
+    "description": "Important: The solution must apply the work-energy theorem from O to A, accounting for work done by F and friction.",
+    "weight": 4
+  },
+  {
+    "title": "Force work calculation",
+    "description": "Important: The work done by the variable force F must be correctly computed from the area under the F-x graph.",
+    "weight": 4
+  },
+  {
+    "title": "Friction work",
+    "description": "Important: The work done by kinetic friction on OA must be included with correct sign (negative).",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy on incline",
+    "description": "Important: The solution must apply work-energy from A to highest point on AB, considering only gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Incline force resolution",
+    "description": "Optional: Explicitly resolves gravity into component along incline for work calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrect sign for work done by friction or gravity (e.g., positive friction work).",
+    "weight": -2
+  },
+  {
+    "title": "Graph area mistake",
+    "description": "Pitfall: Miscalculates area under F-x graph (e.g., wrong triangle area or omits rectangle).",
+    "weight": -2
+  },
+  {
+    "title": "Units omission",
+    "description": "Pitfall: Final answers lack proper units (m/s and m).",
+    "weight": -1
+  }
+]

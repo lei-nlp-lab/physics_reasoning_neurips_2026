@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final time expression",
+    "description": "Essential: The answer must provide the time of motion in the electric field, expressed as one of the two correct algebraic forms derived from the impulse-momentum theorem and kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final speed expression",
+    "description": "Essential: The answer must provide the magnitude of the exit velocity, expressed as one of the two correct algebraic forms derived from the work-energy theorem.",
+    "weight": 5
+  },
+  {
+    "title": "Applies work-energy theorem",
+    "description": "Important: The solution must correctly relate the work done by the electric force to the change in kinetic energy, accounting for the particle's negative charge and the field's direction.",
+    "weight": 4
+  },
+  {
+    "title": "Applies impulse-momentum theorem",
+    "description": "Important: The solution must correctly relate the impulse of the electric force to the change in the particle's momentum, using the constant force magnitude qE0.",
+    "weight": 4
+  },
+  {
+    "title": "Considers both exit points",
+    "description": "Important: The reasoning must recognize that the particle can exit the field region at either x = d or x = -2d, leading to two possible sets of answers.",
+    "weight": 3
+  },
+  {
+    "title": "Correct force direction",
+    "description": "Important: The solution must correctly determine the direction of the electric force on the negative charge in a positive x-direction field, leading to deceleration/acceleration in different regions.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work/impulse",
+    "description": "Pitfall: Penalize if the sign of the work done by the electric force or the impulse is incorrect, such as forgetting the negative charge or the displacement direction.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematic consistency check",
+    "description": "Optional: The solution may verify that the derived time and speed are consistent with constant acceleration kinematics for each possible motion.",
+    "weight": 1
+  },
+  {
+    "title": "Physical interpretation of results",
+    "description": "Optional: The solution may discuss the physical meaning of the two cases (e.g., particle turns around or continues forward) based on initial kinetic energy.",
+    "weight": 1
+  }
+]

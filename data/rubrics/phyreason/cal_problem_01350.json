@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Minimum jump velocity",
+    "description": "Essential Criteria: The response must calculate the minimum horizontal velocity from point A as 8 m/s using projectile motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Swing speed at bottom",
+    "description": "Essential Criteria: The response must calculate the speed at the lowest point of the swing as 9 m/s using conservation of mechanical energy.",
+    "weight": 5
+  },
+  {
+    "title": "Vine force magnitude",
+    "description": "Essential Criteria: The response must calculate the magnitude of the force exerted by the vine at the lowest point as 216 N.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile motion setup",
+    "description": "Important Criteria: The solution must correctly set up the projectile motion equations for the jump from A, relating fall time to h₁ and horizontal distance to x₁.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important Criteria: The solution must apply conservation of mechanical energy correctly for the swing, equating potential energy loss (M+m)gh₂ to kinetic energy gain.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion force balance",
+    "description": "Important Criteria: The solution must set up Newton's second law for circular motion at the lowest point, with centripetal force equal to T - (M+m)g.",
+    "weight": 4
+  },
+  {
+    "title": "Vine length calculation",
+    "description": "Important Criteria: The solution must determine the vine length L = 10 m using the Pythagorean theorem with given geometry (L-h₂, x₂).",
+    "weight": 3
+  },
+  {
+    "title": "Mass combination handling",
+    "description": "Optional Criteria: The solution should correctly combine masses M and m after the large monkey picks up the small monkey for swing calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall Criteria: Deduct points if the centripetal force equation incorrectly writes (M+m)g - T = mv²/L instead of T - (M+m)g = mv²/L.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall Criteria: Deduct points if calculations mix inconsistent units or omit units in final answers.",
+    "weight": -1
+  }
+]

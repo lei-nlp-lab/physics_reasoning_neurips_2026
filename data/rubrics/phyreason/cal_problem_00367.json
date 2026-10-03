@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct flux change for A",
+    "description": "Essential: Student must compute the change in magnetic flux for coil A as the field decreases from 0.8 T to 0.4 T, obtaining 1.256e-4 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change for B",
+    "description": "Essential: Student must compute the change in magnetic flux for coil B, recognizing the field only exists within the 1 cm radius, obtaining 1.256e-4 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux change for C",
+    "description": "Essential: Student must compute the change in magnetic flux for coil C due to a 30° rotation, obtaining 8.4e-6 Wb.",
+    "weight": 5
+  },
+  {
+    "title": "Applies flux formula correctly",
+    "description": "Important: Student uses Φ = B⋅A⋅cosθ or Φ = B⋅A for perpendicular fields, with correct area calculation (πr²).",
+    "weight": 4
+  },
+  {
+    "title": "Recognizes field boundary for B",
+    "description": "Important: Student correctly limits the effective area for coil B to the circular region of radius 1 cm where B is non-zero.",
+    "weight": 4
+  },
+  {
+    "title": "Handles angular dependence for C",
+    "description": "Important: Student accounts for the angle between the magnetic field and the coil normal, using sine or cosine appropriately for the rotation.",
+    "weight": 4
+  },
+  {
+    "title": "Includes correct units",
+    "description": "Optional: Student expresses final answers in webers (Wb) or equivalent, with proper unit conversion.",
+    "weight": 2
+  },
+  {
+    "title": "Misinterprets area for coil B",
+    "description": "Pitfall: Student incorrectly uses the full coil area (radius 2 cm) instead of the bounded field area (radius 1 cm).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or absolute value error",
+    "description": "Pitfall: Student fails to take the magnitude of the flux change or mishandles signs in the subtraction.",
+    "weight": -1
+  },
+  {
+    "title": "Angle function mistake for C",
+    "description": "Pitfall: Student uses cosθ instead of sinθ (or vice versa) for the given rotation description, leading to an incorrect numerical factor.",
+    "weight": -2
+  }
+]

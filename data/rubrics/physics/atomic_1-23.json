@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must provide the correct final answer of 10^-16 cm^2.",
+    "weight": 5
+  },
+  {
+    "title": "Dimensional Analysis",
+    "description": "Important Criteria: The response should include the reasoning that the cross section is related to the square of the linear dimension of the atom.",
+    "weight": 4
+  },
+  {
+    "title": "Order of Magnitude",
+    "description": "Important Criteria: The response should demonstrate understanding of the order of magnitude of the dimensions involved.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The response should ensure that the units are consistent and correctly expressed as cm^2.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as miscalculating the square of the linear dimension or using incorrect units.",
+    "weight": -2
+  }
+]

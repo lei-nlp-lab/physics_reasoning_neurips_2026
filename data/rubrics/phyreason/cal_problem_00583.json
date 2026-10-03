@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Relative distance calculation",
+    "description": "Essential Criteria: The student must correctly calculate the total distance the tourist travels relative to the ship as 200 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Return distance relative",
+    "description": "Essential Criteria: The student must correctly determine the distance the tourist travels relative to the sea surface during the return trip as 400 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Boat displacement symmetry",
+    "description": "Important Criteria: The student should recognize that the boat's displacement is equal during the tourist's forward and return trips due to constant speeds.",
+    "weight": 3
+  },
+  {
+    "title": "Relative velocity application",
+    "description": "Important Criteria: The student must apply relative motion concepts to relate the tourist's speed to the boat's displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units (meters) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall Criteria: The student incorrectly adds instead of subtracts the ship's length when calculating the return distance relative to the sea.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpreting relative motion",
+    "description": "Pitfall Criteria: The student confuses distances relative to the ship with distances relative to the sea surface.",
+    "weight": -2
+  }
+]

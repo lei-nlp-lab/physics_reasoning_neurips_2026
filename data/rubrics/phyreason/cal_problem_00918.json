@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Electron speed calculation",
+    "description": "Essential: Student must compute the final electron speed using energy conservation or work-energy theorem, obtaining approximately 1.0×10⁸ m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Photon count per second",
+    "description": "Essential: Student must calculate the number of X-ray photons per second from the given current, obtaining approximately 6.25×10¹⁶.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conversion reasoning",
+    "description": "Important: Student should explicitly state that the electron's kinetic energy equals the work done by the electric field (eU) and is converted to X-ray photon energy.",
+    "weight": 3
+  },
+  {
+    "title": "Current-photon relationship",
+    "description": "Important: Student must recognize that photon emission rate equals electron arrival rate, and correctly relate current to number of electrons per second.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student demonstrates unit analysis for both calculations, confirming final units are m/s and photons/second.",
+    "weight": 1
+  },
+  {
+    "title": "Relativistic oversight",
+    "description": "Pitfall: Student incorrectly applies relativistic formulas for electron speed (v≈0.33c) when non-relativistic treatment is adequate here.",
+    "weight": -1
+  },
+  {
+    "title": "Current conversion error",
+    "description": "Pitfall: Student fails to convert mA to A or misplaces powers of ten in the photon count calculation.",
+    "weight": -2
+  }
+]

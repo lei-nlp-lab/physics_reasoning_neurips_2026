@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Radius of circular path",
+    "description": "Essential: Correctly states or derives the radius formula R = sqrt(2mqU) / (qB).",
+    "weight": 5
+  },
+  {
+    "title": "Distance L from geometry",
+    "description": "Important: Correctly applies geometry (cos α = sqrt(R²-d²)/R) to find L = R - sqrt(R² - d²).",
+    "weight": 4
+  },
+  {
+    "title": "Impact x-coordinate derivation",
+    "description": "Important: Correctly calculates the x-displacement in region II using kinematics under electric force.",
+    "weight": 4
+  },
+  {
+    "title": "Impact y-coordinate derivation",
+    "description": "Important: Correctly combines magnetic arc deflection (L) and electric field drift (y') to find total y.",
+    "weight": 4
+  },
+  {
+    "title": "Particle identification",
+    "description": "Essential: Correctly matches s1, s2, s3 to triton, helium, proton based on mass/charge ratio effects on R and deflection.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity from energy conservation",
+    "description": "Important: Uses work-energy theorem (qU = 1/2 mv²) to find speed before magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Force laws application",
+    "description": "Important: Applies Newton's second law for magnetic (qvB = mv²/R) and electric (qE = ma) forces.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of deflection in x or y, or misapplies coordinate axes.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic simplification error",
+    "description": "Pitfall: Makes algebraic mistakes in combining kinematic and geometric relations for L, x, or y.",
+    "weight": -1
+  }
+]

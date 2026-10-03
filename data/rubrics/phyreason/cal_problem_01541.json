@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct gravitational force",
+    "description": "Essential: Student must correctly calculate the gravitational force on the object in the rocket as 4 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct height calculation",
+    "description": "Essential: Student must correctly determine the rocket's height above ground as 6400 km.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: Student must apply Newton's second law to relate normal force, gravitational force, and acceleration in the rocket.",
+    "weight": 4
+  },
+  {
+    "title": "Inverse square law application",
+    "description": "Important: Student must correctly apply the inverse square law of gravitation to relate forces at different distances from Earth's center.",
+    "weight": 4
+  },
+  {
+    "title": "Mass determination from ground force",
+    "description": "Important: Student must correctly determine the object's mass from the given gravitational force on the ground.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations, especially converting km to m when needed.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Student incorrectly assigns sign to the rocket's acceleration relative to gravity.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing force with pressure",
+    "description": "Pitfall: Student misinterprets the given 'pressure' as something other than normal force exerted by the object.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Each process must have the correct conservation law or violation stated clearly.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: Identify and explain the relevant conservation laws for each process.",
+    "weight": 4
+  },
+  {
+    "title": "Weak Interaction Rules",
+    "description": "Important Criteria: Correctly apply the rules governing weak interactions, especially for processes involving strangeness.",
+    "weight": 4
+  },
+  {
+    "title": "Rate Ratio Explanation",
+    "description": "Optional Criteria: Provide a clear explanation of the rate ratio for the decay of pi mesons.",
+    "weight": 3
+  },
+  {
+    "title": "C-Parity and CP Violation",
+    "description": "Important Criteria: Mention the conservation of C-parity and CP violation where applicable.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as misidentifying conservation laws or incorrectly applying them.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Factors",
+    "description": "Optional Criteria: Ensure that any numerical factors or units are correctly applied in calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Clarity and Structure",
+    "description": "Important Criteria: Responses should be well-structured and clearly articulated for each process.",
+    "weight": 3
+  }
+]

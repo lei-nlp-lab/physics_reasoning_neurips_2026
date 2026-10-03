@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final numerical answer",
+    "description": "Essential Criteria: The response must state the final pressure magnitude as 500 N (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of energy",
+    "description": "Important Criteria: The solution must apply energy conservation to relate the height at the highest point to the speed at the lowest point, correctly using the geometry (e.g., l(1-cosθ)).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law",
+    "description": "Important Criteria: The solution must apply Newton's second law at the lowest point, setting up the equation for centripetal force (F_N - mg = mv²/l).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's third law",
+    "description": "Important Criteria: The solution must correctly invoke Newton's third law to equate the normal force from the board on the child to the pressure exerted by the child on the board.",
+    "weight": 3
+  },
+  {
+    "title": "Correct geometry/height",
+    "description": "Important Criteria: The solution must correctly identify the vertical drop from the highest to the lowest point as l(1 - cos60°).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All calculations should maintain consistent units (kg, m, s, N) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force equation",
+    "description": "Pitfall Criteria: Penalize if the centripetal force equation is incorrectly written (e.g., mg - F_N = mv²/l or missing the minus sign).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect energy term",
+    "description": "Pitfall Criteria: Penalize if the potential energy change is miscalculated (e.g., using l*cosθ or l*sinθ for the height difference).",
+    "weight": -2
+  }
+]

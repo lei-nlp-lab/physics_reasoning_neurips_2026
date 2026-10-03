@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity selector direction",
+    "description": "Essential: Correctly identifies the magnetic field direction in the velocity selector as perpendicular to the plane of the paper and outward.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity from selector",
+    "description": "Essential: States the particle velocity entering the D-shaped box as v = E/B.",
+    "weight": 5
+  },
+  {
+    "title": "Trajectory radius range",
+    "description": "Important: Derives the allowed orbital radii range (5R/4 ≤ r ≤ 7R/4) from the D-shaped box geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field range derivation",
+    "description": "Important: Applies Lorentz force as centripetal force (qvB₀ = mv²/r) to relate B₀ to radius, then uses radius limits.",
+    "weight": 4
+  },
+  {
+    "title": "Final B₀ range expression",
+    "description": "Essential: Presents the final range as 4mE/(7qBR) ≤ B₀ ≤ 4mE/(5qBR).",
+    "weight": 5
+  },
+  {
+    "title": "Time for point M",
+    "description": "Essential: Calculates the time to hit point M as half the period using the minimum B₀, giving t = 7πBR/(4E).",
+    "weight": 5
+  },
+  {
+    "title": "Sign confusion in force balance",
+    "description": "Pitfall: Incorrectly determines the magnetic field direction in the velocity selector (e.g., inward instead of outward).",
+    "weight": -2
+  },
+  {
+    "title": "Radius misinterpretation",
+    "description": "Pitfall: Uses incorrect geometric limits for the orbital radius (e.g., R to 2R instead of 5R/4 to 7R/4).",
+    "weight": -2
+  },
+  {
+    "title": "Inverse relationship error",
+    "description": "Pitfall: Incorrectly relates B₀ to radius (e.g., using B₀ ∝ r instead of B₀ ∝ 1/r).",
+    "weight": -2
+  },
+  {
+    "title": "Time period oversight",
+    "description": "Pitfall: Calculates full period instead of half-period for the time to hit point M, or uses wrong B₀ value.",
+    "weight": -1
+  }
+]

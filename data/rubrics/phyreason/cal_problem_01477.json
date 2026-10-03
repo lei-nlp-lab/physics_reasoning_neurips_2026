@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Moon mass",
+    "description": "Essential: Final answer for part (1) is M = 4π²(R+h)³/(GT²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct surface gravity",
+    "description": "Essential: Final answer for part (2) is g = 4π²(R+h)³/(T²R²).",
+    "weight": 5
+  },
+  {
+    "title": "Newton's law application",
+    "description": "Important: Applies Newton's law of gravitation as centripetal force: GMm/(R+h)² = mω²(R+h).",
+    "weight": 4
+  },
+  {
+    "title": "Angular velocity relation",
+    "description": "Important: Correctly relates orbital period T to angular velocity ω = 2π/T.",
+    "weight": 3
+  },
+  {
+    "title": "Gravity formula derivation",
+    "description": "Important: Derives surface gravity using g = GM/R², substituting the expression for M.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Checks or mentions that the final expressions have correct units for mass and acceleration.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius usage",
+    "description": "Pitfall: Uses R instead of (R+h) for the orbital radius in the centripetal force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or sign error",
+    "description": "Pitfall: Makes an algebraic mistake in solving for M or g, or introduces an incorrect sign.",
+    "weight": -1
+  }
+]

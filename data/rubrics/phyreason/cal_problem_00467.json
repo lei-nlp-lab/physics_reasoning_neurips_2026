@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct force magnitude",
+    "description": "Essential: The final numerical answer must be exactly 2.88 × 10⁻²⁸ N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb's law application",
+    "description": "Important: The solution must correctly apply Coulomb's law formula F = k|q₁q₂|/r².",
+    "weight": 4
+  },
+  {
+    "title": "Absolute value for magnitude",
+    "description": "Important: The calculation must use the absolute values of the charges or correctly handle the negative sign to yield a positive force magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The working should show correct unit handling, leading to the final unit of Newtons (N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in product",
+    "description": "Pitfall: Penalize if the student incorrectly uses a negative force magnitude or forgets to take the absolute value/product magnitude.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Scale Ratio Calculation",
+    "description": "Essential: Student must correctly compute the scale ratio (100) from the given actual and image heights.",
+    "weight": 5
+  },
+  {
+    "title": "Blur Displacement Scaling",
+    "description": "Essential: Student must apply the scale ratio to convert the measured blur width to the actual displacement (0.2 m).",
+    "weight": 5
+  },
+  {
+    "title": "Average Velocity Computation",
+    "description": "Important: Student must correctly calculate average speed using displacement and exposure time (12 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Interpretation",
+    "description": "Important: Student must recognize that the average speed approximates the instantaneous speed during the short exposure.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations and includes units in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect Scale Application",
+    "description": "Pitfall: Student incorrectly applies the scale ratio (e.g., dividing instead of multiplying) when converting blur width.",
+    "weight": -2
+  },
+  {
+    "title": "Time Misuse",
+    "description": "Pitfall: Student uses an incorrect time value (e.g., 1/100 s from the race distance) instead of the given exposure time.",
+    "weight": -2
+  }
+]

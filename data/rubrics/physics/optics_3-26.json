@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria - The student must provide the correct intensity of moonlight on Earth in watts per cm^2.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria - The student must provide the correct number of photons per cm^2 per second in the visible range.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Solar Constant",
+    "description": "Important Criteria - The student should correctly identify and use the solar constant value in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Solid Angle Calculation",
+    "description": "Important Criteria - The student must correctly calculate the solid angle subtended by the Earth at the Moon.",
+    "weight": 4
+  },
+  {
+    "title": "Photon Energy Calculation",
+    "description": "Important Criteria - The student should correctly calculate the energy of a photon using the appropriate wavelength.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria - The student could discuss limiting cases or assumptions made in the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria - The student must avoid common sign mistakes in their calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - The student should not omit any necessary factors in their calculations, such as the geometry of the problem.",
+    "weight": -2
+  }
+]

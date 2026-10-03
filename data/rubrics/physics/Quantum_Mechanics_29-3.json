@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Allowed n values",
+    "description": "Essential Criteria: List all odd n values that can transition from |10> due to the perturbation.",
+    "weight": 5
+  },
+  {
+    "title": "Probability calculation",
+    "description": "Essential Criteria: Correctly calculate the probability of transitioning to the highest energy state |15>.",
+    "weight": 5
+  },
+  {
+    "title": "Use of perturbation theory",
+    "description": "Important Criteria: Apply first-order perturbation theory correctly in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Integration limits",
+    "description": "Important Criteria: Properly handle the limits of integration for time in the probability calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Factor correctness",
+    "description": "Optional Criteria: Include all necessary factors and constants in the final probability expression.",
+    "weight": 2
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the probability calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

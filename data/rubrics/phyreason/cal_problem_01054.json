@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Initial compression of spring q",
+    "description": "Essential: Correctly calculates the initial compression of spring q using Hooke's law with block b's weight.",
+    "weight": 5
+  },
+  {
+    "title": "Final elongation of spring q",
+    "description": "Important: Identifies that spring q elongates when block c lifts off, applying Hooke's law with block c's weight.",
+    "weight": 4
+  },
+  {
+    "title": "Height block b rises",
+    "description": "Essential: Correctly sums the initial compression and final elongation of spring q to find the total vertical displacement of block b.",
+    "weight": 5
+  },
+  {
+    "title": "Final elongation of spring p",
+    "description": "Important: Correctly calculates the elongation of spring p when block c lifts off, using Hooke's law with the combined weight of blocks b and c.",
+    "weight": 4
+  },
+  {
+    "title": "Left end displacement",
+    "description": "Essential: Correctly sums the rise of block b and the elongation of spring p to find the total leftward displacement of the left end of spring p.",
+    "weight": 5
+  },
+  {
+    "title": "Units and conversions",
+    "description": "Optional: Expresses all final answers in consistent units (e.g., cm or m) with correct numerical values.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Confuses compression with elongation for spring q, or incorrectly adds/subtracts displacements.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force for spring p",
+    "description": "Pitfall: Uses only the weight of block c or block b alone for the final force in spring p, instead of their sum.",
+    "weight": -2
+  }
+]

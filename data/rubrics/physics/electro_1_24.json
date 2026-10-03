@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for V_2 in terms of V_1.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding Charge Conservation",
+    "description": "Important Criteria: The student should explain that the charge on the insulated plate remains constant during the separation process.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitance Relationship",
+    "description": "Important Criteria: The student must relate the change in capacitance to the change in potential, indicating that capacitance decreases as separation increases.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Formula",
+    "description": "Important Criteria: The student should correctly apply the formula Q = CV to derive the relationship between V_1 and V_2.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid errors in signs or misinterpretation of the relationship between capacitance and potential.",
+    "weight": -2
+  }
+]

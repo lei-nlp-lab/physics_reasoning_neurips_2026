@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final expression for the minimum number of windings around the pole.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance",
+    "description": "Important Criteria: The student correctly applies the balance of forces on the differential segment of the rope.",
+    "weight": 4
+  },
+  {
+    "title": "Friction Relation",
+    "description": "Important Criteria: The student incorporates the relationship between tension change and friction coefficient correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Exponential Growth",
+    "description": "Important Criteria: The student recognizes the exponential relationship between tensions at the ends of the rope.",
+    "weight": 3
+  },
+  {
+    "title": "Units Check",
+    "description": "Optional Criteria: The student checks that the units of the final answer are consistent and valid.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student makes a sign mistake in the tension relationships or inequalities.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student fails to include the factor of 2π in the final expression for windings.",
+    "weight": -1
+  }
+]

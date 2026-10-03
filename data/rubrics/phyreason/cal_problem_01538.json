@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Normal force at C",
+    "description": "Essential: Correctly calculates the normal force at point C using Newton's second law and energy conservation, obtaining 13 N.",
+    "weight": 5
+  },
+  {
+    "title": "Distance on DE",
+    "description": "Essential: Correctly determines the total distance traveled on the inclined track DE, obtaining 0.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Slider length",
+    "description": "Essential: Correctly calculates the required slider length to prevent falling off for the modified height, obtaining 0.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies conservation of mechanical energy correctly to find speeds at key points (C, D, F) in the absence of friction.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy with friction",
+    "description": "Important: Correctly applies the work-energy theorem on the frictional incline DE, accounting for both gravitational and friction work.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation",
+    "description": "Important: Applies conservation of momentum correctly for the perfectly inelastic collision between block a and slider b.",
+    "weight": 3
+  },
+  {
+    "title": "Energy loss in collision",
+    "description": "Important: Accounts for energy dissipated due to friction between block and slider during their combined motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses incorrect signs for gravitational potential energy changes or friction work in energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting friction component",
+    "description": "Pitfall: Omits the cosθ component when calculating the frictional force on the inclined track DE.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and presents final answers with proper units.",
+    "weight": 1
+  }
+]

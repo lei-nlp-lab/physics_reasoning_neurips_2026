@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Conclusion",
+    "description": "Essential Criteria: The response must clearly state that the solution is real and nondegenerate apart from a possible overall phase factor.",
+    "weight": 5
+  },
+  {
+    "title": "Contradiction Argument",
+    "description": "Important Criteria: The response should include a logical argument showing that assuming the existence of a second solution leads to a contradiction.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The response must reference the boundary conditions that both solutions approach zero as x approaches infinity.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Step",
+    "description": "Important Criteria: The response should demonstrate the integration step that leads to the conclusion about the relationship between psi and phi.",
+    "weight": 3
+  },
+  {
+    "title": "Complex Conjugate Argument",
+    "description": "Important Criteria: The response should mention the relationship between the wave function and its complex conjugate when V(x) is real.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The response must avoid sign mistakes in the derivation of the equations relating psi and phi.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The response should not omit any constant factors when relating psi and phi.",
+    "weight": -2
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Optional Criteria: The response could benefit from a clear explanation of the statistical interpretation of the wave function.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The response may include a discussion of limiting cases or examples to illustrate the argument.",
+    "weight": 2
+  }
+]

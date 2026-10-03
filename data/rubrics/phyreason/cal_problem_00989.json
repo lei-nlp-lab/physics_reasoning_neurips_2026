@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: Angular velocity",
+    "description": "Essential Criteria: The student must correctly calculate and state the angular velocity at which the block slides off, ω = 2 rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Horizontal range",
+    "description": "Essential Criteria: The student must correctly calculate and state the final horizontal range, s = 0.4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Important: Centripetal force condition",
+    "description": "Important Criteria: The student must apply Newton's second law for circular motion, equating the centripetal force to the kinetic friction force.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Projectile time of flight",
+    "description": "Important Criteria: The student must correctly calculate the time of flight using the vertical free-fall equation from height H.",
+    "weight": 3
+  },
+  {
+    "title": "Important: Horizontal projectile motion",
+    "description": "Important Criteria: The student must correctly relate the horizontal range to the tangential speed at slip (v = ωR) and the time of flight.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit consistency check",
+    "description": "Optional Criteria: The student demonstrates unit analysis for angular velocity (rad/s) and range (m), confirming dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Wrong friction force",
+    "description": "Pitfall Criteria: Using static friction coefficient incorrectly or misapplying the friction direction (e.g., using μN for static max without the slip condition).",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Sign or unit error",
+    "description": "Pitfall Criteria: Making arithmetic errors in the calculation of ω or s, or omitting units in the final answer.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Energy Shift Calculation",
+    "description": "Essential Criteria: The correct expression for the energy shift E' due to the electric field must be derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Dipole Moment Calculation",
+    "description": "Essential Criteria: The correct expression for the dipole moment P_n in the presence of the electric field must be derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The Hamiltonian must be correctly formulated, including the perturbation term due to the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Expectation Value Derivation",
+    "description": "Important Criteria: The derivation of the expectation value <x> in state n must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or missing factors in the energy shift or dipole moment calculations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All quantities must be presented with correct units, ensuring dimensional consistency throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios that could affect the results should be mentioned.",
+    "weight": 1
+  }
+]

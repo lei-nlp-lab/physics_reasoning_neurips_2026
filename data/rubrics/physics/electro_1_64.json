@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Surface Charge Density",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the induced surface charge density sigma(theta).",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Magnetic Field",
+    "description": "Essential Criteria: The student must clearly explain why no magnetic field is produced when the sphere is rotated.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Electric Field",
+    "description": "Important Criteria: The student should correctly reference the electric field inside the sphere and its relation to the polarization.",
+    "weight": 4
+  },
+  {
+    "title": "Polarization Calculation",
+    "description": "Important Criteria: The student must show the correct calculation of the polarization vector p based on the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the expressions for charge density or polarization.",
+    "weight": -2
+  },
+  {
+    "title": "Sketch of Magnetic Field Lines",
+    "description": "Optional Criteria: If applicable, the student may provide a sketch of magnetic field lines, even if no field is produced.",
+    "weight": 1
+  }
+]

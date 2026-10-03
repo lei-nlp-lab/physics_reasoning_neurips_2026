@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct AB potential difference",
+    "description": "Essential: Student correctly calculates V_AB = W_AB / q = 200 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct BC potential difference",
+    "description": "Essential: Student correctly calculates V_BC = W_BC / q = 300 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct CA potential difference",
+    "description": "Essential: Student correctly finds V_CA = - (V_AB + V_BC) = -500 V or V_AC = 500 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potentials relative to B",
+    "description": "Important: Student correctly uses V_B = 0 to find V_A = V_AB = 200 V and V_C = -V_BC = -300 V.",
+    "weight": 4
+  },
+  {
+    "title": "Potential energy calculation",
+    "description": "Important: Student correctly calculates U = qφ for points A and C, yielding -6e-4 J and 9e-4 J.",
+    "weight": 4
+  },
+  {
+    "title": "Sign handling for work",
+    "description": "Important: Student correctly interprets that work done by the electric field is used in ΔV = W/q, not the work done against it.",
+    "weight": 3
+  },
+  {
+    "title": "Additivity of potential",
+    "description": "Optional: Student explicitly states or uses that potential differences add along a path (V_AC = V_AB + V_BC).",
+    "weight": 2
+  },
+  {
+    "title": "Sign confusion in ΔV",
+    "description": "Pitfall: Student incorrectly assigns signs to potential differences, e.g., confusing V_AB with V_BA or misusing the sign of q.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Pitfall: Student fails to maintain consistent units (Volts for potential, Joules for energy) or omits units.",
+    "weight": -1
+  }
+]

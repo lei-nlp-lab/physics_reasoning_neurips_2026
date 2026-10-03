@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates v_B = 10 m/s using energy conservation from A to B.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at C (first collision)",
+    "description": "Essential: Correctly calculates v_C = 9 m/s using work-energy from B to C, accounting for friction.",
+    "weight": 5
+  },
+  {
+    "title": "Total energy dissipated",
+    "description": "Important: Correctly applies mgh = μmg * d_total to find the total sliding distance (50 m) on the horizontal surface.",
+    "weight": 4
+  },
+  {
+    "title": "Collision count logic",
+    "description": "Important: Correctly determines the number of round trips (3) by comparing the total distance to the pattern of distances between B and C.",
+    "weight": 4
+  },
+  {
+    "title": "Final position calculation",
+    "description": "Important: Correctly computes the remaining distance after the last full trip and determines the final stopping point (7 m from B).",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Optional: Explicitly states the use of the work-energy theorem for the frictionless arc and the rough horizontal section.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigns sign to the work done by friction (should be negative).",
+    "weight": -2
+  },
+  {
+    "title": "Collision speed assumption",
+    "description": "Pitfall: Assumes speed is lost in collisions (it is not; rebounds with same speed).",
+    "weight": -2
+  },
+  {
+    "title": "Distance pattern mistake",
+    "description": "Pitfall: Miscalculates the total distance for multiple trips (e.g., forgetting to double the BC distance for return trips).",
+    "weight": -2
+  }
+]

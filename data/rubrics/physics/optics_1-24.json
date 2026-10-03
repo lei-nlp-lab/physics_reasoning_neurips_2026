@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must correctly state the relationship 9f_1 = f_2.",
+    "weight": 5
+  },
+  {
+    "title": "Image Characteristics",
+    "description": "Important Criteria: The student should describe the conditions for forming an inverted, virtual image at the same size as the object.",
+    "weight": 4
+  },
+  {
+    "title": "Lens Arrangement",
+    "description": "Important Criteria: The student must explain the arrangement of the two lenses and their respective object and image distances.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Lens Formula",
+    "description": "Important Criteria: The student should apply the Gaussian lens formula correctly to derive the necessary relationships.",
+    "weight": 3
+  },
+  {
+    "title": "Sketch Clarity",
+    "description": "Optional Criteria: The student should provide a clear sketch illustrating the image formation process.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in image distance calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Focal Lengths",
+    "description": "Optional Criteria: The student should mention the significance of the focal lengths in determining the lens configuration.",
+    "weight": 1
+  },
+  {
+    "title": "Object Placement",
+    "description": "Important Criteria: The student must specify the correct placement of the object relative to the lenses.",
+    "weight": 3
+  }
+]

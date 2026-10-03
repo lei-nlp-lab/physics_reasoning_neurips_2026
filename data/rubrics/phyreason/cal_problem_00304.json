@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Farthest velocity magnitude",
+    "description": "Essential: Correctly states the velocity magnitude at maximum distance from slope as 5v₀/3.",
+    "weight": 5
+  },
+  {
+    "title": "Landing velocity magnitude",
+    "description": "Essential: Correctly calculates the speed upon impact on the slope as (√73/3)v₀.",
+    "weight": 5
+  },
+  {
+    "title": "Landing angle tangent",
+    "description": "Essential: Correctly determines tan(α) = v_y/v_x for the landing velocity as 8/3.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal displacement (part 3)",
+    "description": "Essential: Correctly solves for the horizontal displacement x₁ as (96/41)h.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical displacement (part 3)",
+    "description": "Essential: Correctly solves for the vertical displacement y₁ as (36/41)h.",
+    "weight": 5
+  },
+  {
+    "title": "Slope geometry application",
+    "description": "Important: Uses the slope angle (tan θ = 4/3) to relate projectile coordinates (y/x = 4/3) for landing time.",
+    "weight": 4
+  },
+  {
+    "title": "Perpendicular impact condition",
+    "description": "Important: For part 3, applies the condition that the velocity upon impact is perpendicular to the slope (v_y/v_x = 3/4).",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion equations",
+    "description": "Important: Correctly applies kinematic equations (x = v₀t, y = ½gt²) for horizontal and vertical motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misidentifies the direction of projection (left/right) or mishandles signs in coordinate setup.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric confusion",
+    "description": "Pitfall: Incorrectly uses the slope angle (e.g., uses sin or cos instead of tan for the geometric condition).",
+    "weight": -1
+  }
+]

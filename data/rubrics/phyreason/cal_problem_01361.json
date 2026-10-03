@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at A",
+    "description": "Essential: Correctly calculates v₀ = √(3gR) using energy conservation between A and B.",
+    "weight": 5
+  },
+  {
+    "title": "Height after C",
+    "description": "Essential: Correctly determines maximum height after C as 3.5R using energy conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Applies mechanical energy conservation correctly, identifying gravitational potential energy at different heights.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity direction at A",
+    "description": "Important: Recognizes that velocity at A is directed downward along the track.",
+    "weight": 2
+  },
+  {
+    "title": "Height reference consistency",
+    "description": "Important: Uses consistent reference point (lowest point or ground) for potential energy calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Shows clear algebraic steps to solve for unknowns from energy equations.",
+    "weight": 1
+  },
+  {
+    "title": "Unit awareness",
+    "description": "Optional: Recognizes that answers have correct dimensions (velocity and length).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Makes sign error in gravitational potential energy terms (e.g., using wrong height differences).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect velocity formula",
+    "description": "Pitfall: Uses kinematics (v² = u² + 2as) instead of energy conservation on curved track.",
+    "weight": -2
+  },
+  {
+    "title": "Confusion about height after C",
+    "description": "Pitfall: Calculates height above C instead of height above the reference level after leaving C.",
+    "weight": -1
+  }
+]

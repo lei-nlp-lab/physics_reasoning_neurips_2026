@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration magnitude a1",
+    "description": "Essential: Correctly calculates a1 = 2 m/s² using v = a1 * t with v=30 m/s, t=15 s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude a2",
+    "description": "Essential: Correctly calculates a2 = 5 m/s² using v² = 2 * a2 * x with v=30 m/s, x=90 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct kinematic equation selection",
+    "description": "Important: Uses v = a1*t for acceleration phase and v² = 2*a2*x for braking phase, recognizing uniform acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important: Recognizes that a2 is a deceleration (negative acceleration) but reports magnitude as positive.",
+    "weight": 2
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional: Includes units in calculations and verifies final units are m/s².",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect equation mixing",
+    "description": "Pitfall: Uses v = a*t for braking phase instead of v² = 2*a*x, leading to wrong a2.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in braking",
+    "description": "Pitfall: Forgets that braking acceleration opposes motion, leading to positive a2 value without magnitude interpretation.",
+    "weight": -1
+  }
+]

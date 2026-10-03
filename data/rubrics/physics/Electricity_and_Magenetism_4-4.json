@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state that a positive charge cannot be suspended stably at the center of the cube.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Explanation",
+    "description": "Important Criteria: The explanation must include the reasoning related to the potential being a saddle point and the implications of Laplace's equation.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Analysis",
+    "description": "Optional Criteria: A discussion of the electric field behavior in the vicinity of the center enhances the response.",
+    "weight": 2
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The response should mention that extrema of potential occur at boundaries or near charges.",
+    "weight": 3
+  },
+  {
+    "title": "Saddle Point Clarification",
+    "description": "Important Criteria: The identification of the center as a saddle point should be clearly articulated.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Failing to recognize that the center is not a local minimum is a common mistake.",
+    "weight": -2
+  },
+  {
+    "title": "Quantum Consideration",
+    "description": "Optional Criteria: Mentioning quantum tunneling is not necessary for the classical analysis but could be noted.",
+    "weight": 1
+  }
+]

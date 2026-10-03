@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Down-slope acceleration",
+    "description": "Essential: The response must correctly calculate the acceleration down the slope as 4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Resistance force magnitude",
+    "description": "Essential: The response must correctly calculate the resistance force on the slope as 70 N.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal slide time",
+    "description": "Essential: The response must correctly calculate the time on the horizontal track as 2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct kinematic application",
+    "description": "Important: The solution must correctly apply kinematic equations (e.g., s = v₀t + ½at²) to find the down-slope acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law on slope",
+    "description": "Important: The solution must apply Newton's second law (mg sinθ - f = ma) to solve for the resistance force.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity continuity",
+    "description": "Important: The solution must recognize the final slope velocity is the initial horizontal velocity and calculate it correctly (22 m/s).",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal motion analysis",
+    "description": "Optional: The solution may explicitly calculate the deceleration on the horizontal track or verify the uniform motion assumption.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should present final answers with correct units (m/s², N, s).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Penalize if the force equation is incorrectly written (e.g., f = ma - mg sinθ) leading to a wrong sign or magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Kinematic misapplication",
+    "description": "Pitfall: Penalize misuse of kinematic equations, such as using the wrong formula for the slope length or horizontal motion time.",
+    "weight": -1
+  }
+]

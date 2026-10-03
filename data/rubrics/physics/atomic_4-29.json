@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Minimum gamma energy",
+    "description": "Essential Criteria: The student must correctly calculate the minimum gamma-ray energy required for the reaction, which is 913 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Fermi motion adjustment",
+    "description": "Essential Criteria: The student must accurately compute the adjusted minimum photon energy considering Fermi motion, which is 739 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation",
+    "description": "Important Criteria: The student should apply conservation of energy and momentum principles correctly to find the maximum momentum of the pion in the laboratory frame.",
+    "weight": 4
+  },
+  {
+    "title": "Transverse momentum",
+    "description": "Important Criteria: The student must determine the maximum component of the pion's momentum perpendicular to the direction of the Lambda^0, which is 101 MeV/c.",
+    "weight": 4
+  },
+  {
+    "title": "Sign errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the energy-momentum equations, which can lead to incorrect final answers.",
+    "weight": -2
+  }
+]

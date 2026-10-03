@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Quantum Numbers",
+    "description": "Essential Criteria: Provide the correct quantum numbers for the ground and excited states of helium.",
+    "weight": 5
+  },
+  {
+    "title": "Pauli Principle Explanation",
+    "description": "Important Criteria: Clearly explain the role of the Pauli exclusion principle in determining energy levels.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Notation",
+    "description": "Essential Criteria: Correctly express the perturbation formulas for the helium states without evaluating integrals.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Corrections",
+    "description": "Important Criteria: Include the correct expressions for energy corrections of both triplet and singlet states.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the expressions for energy corrections.",
+    "weight": -2
+  }
+]

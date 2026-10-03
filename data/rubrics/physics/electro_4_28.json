@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Dispersion Relation",
+    "description": "Essential Criteria - Provide the correct dispersion relation for the lossy medium.",
+    "weight": 5
+  },
+  {
+    "title": "Limiting Values",
+    "description": "Important Criteria - Derive the limiting values of K for both very good and very poor conductors.",
+    "weight": 4
+  },
+  {
+    "title": "Penetration Depth",
+    "description": "Essential Criteria - Calculate the e^{-1} penetration depth correctly for the lossy medium.",
+    "weight": 5
+  },
+  {
+    "title": "Power Transmission Coefficient",
+    "description": "Essential Criteria - Determine the power transmission coefficient T for the transition from air to lossy medium.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical Evaluation",
+    "description": "Important Criteria - Accurately evaluate T and delta for the given parameters of beef at 2.45 GHz.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison Analysis",
+    "description": "Optional Criteria - Discuss the implications of delta in terms of microwave versus infrared heating.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Watch for common mistakes in signs or missing factors in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - Ensure all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Correct user voltage (no transformer)",
+    "description": "Essential: The student must correctly compute the user voltage as 140 V, accounting for line loss.",
+    "weight": 5
+  },
+  {
+    "title": "Correct user power (no transformer)",
+    "description": "Essential: The student must correctly compute the user power as 28000 W, accounting for line loss.",
+    "weight": 5
+  },
+  {
+    "title": "Correct user voltage (with transformers)",
+    "description": "Essential: The student must correctly compute the user voltage as 219.2 V after step-down transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Correct user power (with transformers)",
+    "description": "Essential: The student must correctly compute the user power as 43840 W after step-down transformation.",
+    "weight": 5
+  },
+  {
+    "title": "Apply transformer voltage ratio",
+    "description": "Important: The student must correctly apply the transformer turns ratio to find stepped-up and stepped-down voltages.",
+    "weight": 4
+  },
+  {
+    "title": "Calculate line current correctly",
+    "description": "Important: The student must correctly compute the transmission line current from power and voltage, both with and without transformers.",
+    "weight": 4
+  },
+  {
+    "title": "Account for line losses",
+    "description": "Important: The student must compute voltage and power losses on the transmission line using Ohm's Law and P=I²R.",
+    "weight": 4
+  },
+  {
+    "title": "Power conservation in ideal transformers",
+    "description": "Optional: The student may explicitly state that power is conserved through ideal transformers.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should maintain consistent units (V, A, W, Ω) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Confuse voltage and power ratios",
+    "description": "Pitfall: Penalize if the student incorrectly applies transformer ratios to power or confuses step-up/step-down ratios.",
+    "weight": -2
+  },
+  {
+    "title": "Neglect line losses",
+    "description": "Pitfall: Penalize if the student fails to subtract voltage or power losses when computing user values.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect current calculation",
+    "description": "Pitfall: Penalize if the student uses the wrong voltage (e.g., user voltage) to compute transmission line current.",
+    "weight": -1
+  }
+]

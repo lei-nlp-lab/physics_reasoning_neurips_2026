@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: The student must correctly calculate the wavelength using λ = v/f, yielding 2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Number of constructive points",
+    "description": "Essential: The student must state there are 3 points of constructive interference on the S1-S2 line.",
+    "weight": 5
+  },
+  {
+    "title": "Distances from S1",
+    "description": "Essential: The student must list the correct distances of the constructive points from S1 as 1 m, 2 m, and 3 m.",
+    "weight": 5
+  },
+  {
+    "title": "Constructive interference condition",
+    "description": "Important: The student must apply the condition for constructive interference, |S2P - S1P| = nλ, where n is an integer.",
+    "weight": 4
+  },
+  {
+    "title": "Points on circumference count",
+    "description": "Important: The student must correctly determine there are 6 enhancement points on the circle (excluding S1 and S2).",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for circle points",
+    "description": "Important: The student must reason that points on the circle satisfy a constant path difference, leading to specific angular positions.",
+    "weight": 3
+  },
+  {
+    "title": "Midpoint analysis",
+    "description": "Optional: The student may explicitly verify that point B (the midpoint) is a point of constructive interference.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work shows consistent use of units (m, Hz, m/s) in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect path difference",
+    "description": "Pitfall: The student incorrectly uses the condition for destructive interference or misapplies the path difference formula.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting to exclude sources",
+    "description": "Pitfall: The student counts the wave source positions S1 and S2 as enhancement points on the circumference.",
+    "weight": -1
+  }
+]

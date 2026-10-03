@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the location of the point on the lower pendulum, which is xi = 3l.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Coordinates",
+    "description": "Important Criteria: The student should correctly define the coordinates for both pendulums and their respective velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Lagrangian Formulation",
+    "description": "Important Criteria: The student must derive the Lagrangian correctly, including both kinetic and potential energy terms.",
+    "weight": 4
+  },
+  {
+    "title": "Normal Modes",
+    "description": "Important Criteria: The student should identify and solve for the normal modes of the system accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal Displacement Condition",
+    "description": "Essential Criteria: The student must correctly apply the condition for zero horizontal displacement in their solution.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the equations of motion or when applying conditions for zero displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios that could affect the solution.",
+    "weight": 1
+  }
+]

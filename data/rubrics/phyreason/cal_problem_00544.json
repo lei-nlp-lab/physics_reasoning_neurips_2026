@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct period formula",
+    "description": "Essential: Student must state or apply the small-angle pendulum period formula T = 2π√(L/g).",
+    "weight": 5
+  },
+  {
+    "title": "Numerical calculation",
+    "description": "Essential: Student must correctly compute T = 2π√(10/10) = 2π seconds ≈ 6.28 s.",
+    "weight": 4
+  },
+  {
+    "title": "Small-angle condition",
+    "description": "Important: Student should acknowledge that the formula applies only under the small-angle approximation given.",
+    "weight": 2
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Important: Final answer must include correct time units (seconds or s).",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic simplification",
+    "description": "Optional: Student shows simplification √(L/g) = √(10/10) = 1 before multiplying by 2π.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using T = 2π√(g/L) or other incorrect formula variations.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation error",
+    "description": "Pitfall: Arithmetic mistake in evaluating √(L/g) or multiplying by 2π.",
+    "weight": -1
+  }
+]

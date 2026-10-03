@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the equilibrium temperature T_e.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Balance Equation",
+    "description": "Important Criteria: The student should correctly set up the equation relating the heat output of the pump and the heat loss from the building.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency Definition",
+    "description": "Important Criteria: The student must define the efficiency of the heat pump correctly as eta = 1 - T_0 / T_e.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Algebra",
+    "description": "Important Criteria: The student should correctly manipulate the equations to isolate T_e.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms in the equations are consistent in terms of units.",
+    "weight": 2
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes when setting up the heat balance equation.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss the behavior of T_e in limiting cases, such as when W is very large or very small.",
+    "weight": 1
+  }
+]

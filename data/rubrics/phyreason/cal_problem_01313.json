@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct gravitational acceleration",
+    "description": "Essential: The final answer for part (1) must be g = 6 m/s² (to one significant figure).",
+    "weight": 5
+  },
+  {
+    "title": "Correct average density",
+    "description": "Essential: The final answer for part (2) must be ρ = 4 × 10³ kg/m³ (to one significant figure).",
+    "weight": 5
+  },
+  {
+    "title": "Energy or work-energy analysis",
+    "description": "Important: The solution must apply the work-energy theorem or energy conservation, accounting for work done by F, gravity, and friction over the two displacement segments.",
+    "weight": 4
+  },
+  {
+    "title": "Planet mass from gravity",
+    "description": "Important: The solution must correctly relate surface g to planetary mass M using g = GM/R².",
+    "weight": 3
+  },
+  {
+    "title": "Density formula application",
+    "description": "Important: The solution must compute density using ρ = M/V with V = (4/3)πR³.",
+    "weight": 3
+  },
+  {
+    "title": "Forces on inclined plane",
+    "description": "Important: The solution must correctly resolve gravitational force and compute the normal force (mg cosθ) and kinetic friction force (μ mg cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Graph data extraction",
+    "description": "Optional: The solution should correctly read F₁=15 N for 0–6 m and F₂=3 N for 6–12 m from the force-displacement graph.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if work done by gravity or friction is given the wrong sign (e.g., treating them as positive when they oppose motion up the incline).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or significant figure error",
+    "description": "Pitfall: Penalize if final answers lack correct units (m/s², kg/m³) or are not given to one significant figure as instructed.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Energy Density Equation",
+    "description": "Essential Criteria: The student must correctly express the energy density of photons as U/V = A T^4.",
+    "weight": 5
+  },
+  {
+    "title": "Radiant Flux Equation",
+    "description": "Essential Criteria: The student must correctly express the flux of radiant energy as J_U = B T^4.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Proportionality",
+    "description": "Important Criteria: The student must derive the relationship T_e = T_s sqrt(R_s / 2 R_es) correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Change Calculation",
+    "description": "Important Criteria: The student must accurately calculate the change in temperature due to the solar screen.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Essential Criteria: The student must present final answers clearly and correctly.",
+    "weight": 3
+  }
+]

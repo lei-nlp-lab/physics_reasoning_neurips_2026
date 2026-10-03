@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Levels",
+    "description": "Essential Criteria: The student must provide all four final energy levels E_1, E_2, E_3, and E_0 correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Eigenstates",
+    "description": "Important Criteria: The student should correctly identify and use the eigenstates chi_{SM_S} for the total spin S and its z-component M_S.",
+    "weight": 4
+  },
+  {
+    "title": "Application of S^2",
+    "description": "Important Criteria: The student must correctly apply the relation S^2 = (s_1 + s_2)^2 to derive the energy levels.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Spin Coupling",
+    "description": "Important Criteria: The student should demonstrate understanding of the coupling of spins and the distinction between triplet and singlet states.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all terms are consistent in units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in the energy expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Derivation Clarity",
+    "description": "Optional Criteria: The student should present clear and logical steps in the derivation of the energy levels.",
+    "weight": 1
+  }
+]

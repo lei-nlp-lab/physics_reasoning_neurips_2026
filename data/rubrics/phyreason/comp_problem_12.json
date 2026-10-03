@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Dipole field expression",
+    "description": "Essential: Correctly states the electric field along the dipole axis as E_p = 2p/(4*pi*epsilon_0*r^3) or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Force on ion",
+    "description": "Essential: Correctly derives and states the force as f = -alpha*Q^2/(8*pi^2*epsilon_0^2*r^5) in the radial direction.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy derivation",
+    "description": "Important: Correctly integrates the force from infinity to r to obtain U = -alpha*Q^2/(32*pi^2*epsilon_0^2*r^4).",
+    "weight": 4
+  },
+  {
+    "title": "Conservation laws application",
+    "description": "Important: Applies both angular momentum conservation (v_max = v_0*b/r_min) and energy conservation to set up the equation for r_min.",
+    "weight": 4
+  },
+  {
+    "title": "Closest approach distance",
+    "description": "Essential: Correctly solves the conservation equation to find r_min = (b/sqrt(2)) * sqrt(1 + sqrt(1 - K/b^4)), with K = alpha*Q^2/(4*pi^2*epsilon_0^2*m*v_0^2).",
+    "weight": 5
+  },
+  {
+    "title": "Critical parameter condition",
+    "description": "Important: Identifies the condition for spiral motion as the discriminant becoming negative (1 - K/b^4 < 0).",
+    "weight": 3
+  },
+  {
+    "title": "Cross-sectional area",
+    "description": "Essential: Correctly states the charge exchange cross section as A = pi * sqrt(alpha*Q^2/(4*pi^2*epsilon_0^2*m*v_0^2)).",
+    "weight": 5
+  },
+  {
+    "title": "Induced dipole moment",
+    "description": "Important: Correctly relates the induced dipole moment to the ion's field: p = alpha*E_ion = -alpha*Q/(4*pi*epsilon_0*r^2).",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrect sign or direction for the force, potential energy, or field vectors (e.g., missing negative sign for attractive interaction).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or exponent mistake",
+    "description": "Pitfall: Makes errors in algebraic manipulation, binomial expansion, or exponent handling (e.g., wrong power of r in force or energy).",
+    "weight": -1
+  }
+]

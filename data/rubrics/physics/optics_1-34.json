@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct ratio of lengths for the telescopes must be provided as L_K/L_G = (M + 1)/(M - 1).",
+    "weight": 5
+  },
+  {
+    "title": "Magnification Definition",
+    "description": "Important Criteria: The definition of magnification in terms of the focal lengths of the objective and eyepiece must be correctly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Focal Lengths",
+    "description": "Important Criteria: The relationship between the focal lengths of the eyepieces and the magnification must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Telescope Lengths",
+    "description": "Important Criteria: The lengths of both telescopes must be correctly expressed in terms of their focal lengths.",
+    "weight": 3
+  },
+  {
+    "title": "Reason for Longer Telescope",
+    "description": "Optional Criteria: A valid reason for preferring the longer telescope despite its length should be provided.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the magnification equations or focal length relationships must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all focal lengths and lengths are expressed in consistent units throughout the solution.",
+    "weight": -1
+  }
+]

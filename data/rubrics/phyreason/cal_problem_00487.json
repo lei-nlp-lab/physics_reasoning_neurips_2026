@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric potential at A",
+    "description": "Essential: Correctly calculates φ_A = -W_∞A / q, yielding 100 V.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference A to B",
+    "description": "Essential: Correctly calculates U_AB = φ_A - φ_B, yielding -300 V.",
+    "weight": 5
+  },
+  {
+    "title": "Work for negative charge",
+    "description": "Essential: Correctly calculates W_AB = q' * U_AB for the new charge, yielding 6e-3 J.",
+    "weight": 5
+  },
+  {
+    "title": "Relates work to potential",
+    "description": "Important: Applies the relationship W_ext = qΔV or W_field = -qΔV correctly for each given work value.",
+    "weight": 4
+  },
+  {
+    "title": "Handles sign of charge",
+    "description": "Important: Correctly accounts for the sign of the charge when calculating work for part (3).",
+    "weight": 4
+  },
+  {
+    "title": "Potential at infinity zero",
+    "description": "Important: Uses the condition that potential at infinity is zero to find φ_A and φ_B.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in potential difference",
+    "description": "Pitfall: Incorrectly calculates U_AB as φ_B - φ_A or misinterprets the sign from the work equations.",
+    "weight": -2
+  },
+  {
+    "title": "Work sign confusion",
+    "description": "Pitfall: Confuses work done by the field with work done by an external force, leading to sign errors.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (V, J, C) throughout the calculation.",
+    "weight": 1
+  }
+]

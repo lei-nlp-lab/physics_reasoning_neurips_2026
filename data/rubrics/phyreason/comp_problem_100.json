@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final numerical answer",
+    "description": "Essential: The response must give the potential at the corner as Φ ≈ (0.0947 ρ a²)/ε₀ or an equivalent form with the correct constant.",
+    "weight": 5
+  },
+  {
+    "title": "Scaling argument setup",
+    "description": "Important: The solution must state or imply that the potential at the center of the large cube is the sum of contributions from 8 identical sub-cubes with half the side length.",
+    "weight": 4
+  },
+  {
+    "title": "Correct scaling relation",
+    "description": "Important: The student must correctly relate the potentials, writing an equation of the form Φ_center = 8 * Φ_corner(a/2).",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Important: The student must correctly simplify the scaling relation to solve for the unknown constant C.",
+    "weight": 3
+  },
+  {
+    "title": "Dimensional consistency",
+    "description": "Optional: The answer should have the correct dimensions of electric potential (or the student notes the form C ρ a²/ε₀ is dimensionally correct).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect scaling factor",
+    "description": "Pitfall: Penalize if the student uses an incorrect factor (e.g., 4 or 2 instead of 8) when summing contributions from sub-cubes.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or constant error",
+    "description": "Pitfall: Penalize if the final numerical constant is off by a factor (e.g., 0.1894 instead of 0.0947) due to algebraic mistake.",
+    "weight": -1
+  }
+]

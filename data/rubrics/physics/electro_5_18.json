@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final Electric Field E_x",
+    "description": "Essential Criteria - The expression for E_x must be correctly stated as E_x = q/chi * gamma * (x - vt).",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field B_x",
+    "description": "Essential Criteria - The expression for B_x must be correctly stated as B_x = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Electric Field E_y",
+    "description": "Essential Criteria - The expression for E_y must be correctly stated as E_y = q/chi * gamma * y.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field B_y",
+    "description": "Essential Criteria - The expression for B_y must be correctly stated as B_y = -q/chi * beta * gamma * z.",
+    "weight": 5
+  },
+  {
+    "title": "Final Electric Field E_z",
+    "description": "Essential Criteria - The expression for E_z must be correctly stated as E_z = q/chi * gamma * z.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field B_z",
+    "description": "Essential Criteria - The expression for B_z must be correctly stated as B_z = q/chi * beta * gamma * y.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lorentz Transformation",
+    "description": "Important Criteria - The student should correctly apply the Lorentz transformation for coordinates between frames.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of gamma and beta",
+    "description": "Important Criteria - The definitions of gamma and beta must be correctly used in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in the expressions for B_y and B_z.",
+    "weight": -2
+  }
+]

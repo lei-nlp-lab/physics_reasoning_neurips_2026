@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct traversal time",
+    "description": "Essential: The final answer for part (1) is correctly expressed as t = (8d / cosθ₀) * sqrt(m/(2E_k)).",
+    "weight": 5
+  },
+  {
+    "title": "Angle range identification",
+    "description": "Essential: The final answer for part (2) correctly states the range -30° < θ < 30° (or equivalent in radians).",
+    "weight": 5
+  },
+  {
+    "title": "Correct particle ratio",
+    "description": "Essential: The final answer for part (3) correctly gives the ratio N/N₀ = 50% (or 1/2).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in layered fields",
+    "description": "Important: The solution applies piecewise kinematics, accounting for alternating electric field directions in each layer of height d.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-velocity relation",
+    "description": "Important: The solution correctly relates initial kinetic energy E_k to initial speed (v = sqrt(2E_k/m)) for use in motion equations.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal motion analysis",
+    "description": "Important: The solution correctly uses constant horizontal velocity (v_x = v cosθ) to find the total traversal time across length 8d.",
+    "weight": 3
+  },
+  {
+    "title": "Vertical displacement condition",
+    "description": "Important: For part (2), the solution enforces the condition that the final vertical position upon exiting side CD is within |y| < d from the axis.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric equation solving",
+    "description": "Optional: The solution demonstrates solving the resulting trigonometric equation (e.g., 6cos²θ' - 8sinθ'cosθ' + 1 = 0) to find critical angles.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Incorrectly assigns the sign of the vertical acceleration when the particle enters a layer with the electric field pointing up vs. down.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied boundary condition",
+    "description": "Pitfall: For part (2) or (3), incorrectly applies the exit condition (e.g., assuming exit exactly at the edge instead of within distance d).",
+    "weight": -1
+  }
+]

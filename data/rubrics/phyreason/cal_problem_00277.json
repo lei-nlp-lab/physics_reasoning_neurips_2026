@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential Criteria: The response must correctly calculate the spring constant as k = 2mg/L from the equilibrium condition mg = k(0.5L).",
+    "weight": 5
+  },
+  {
+    "title": "Configuration A analysis",
+    "description": "Important Criteria: The response must correctly determine the elongation of each spring in configuration A, showing the top spring elongates by L and the bottom by 0.5L.",
+    "weight": 4
+  },
+  {
+    "title": "Configuration B analysis",
+    "description": "Important Criteria: The response must correctly determine the total elongation in configuration B as 2L, recognizing the series connection and equal force.",
+    "weight": 4
+  },
+  {
+    "title": "Total length comparison",
+    "description": "Essential Criteria: The response must state the final total lengths (3.5L for A, 4L for B) and correctly identify which is longer.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important Criteria: The response must apply Newton's First Law to set spring force equal to the weight(s) supported for each spring in both configurations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The response should maintain consistent units throughout the calculation or explicitly note the spring constant units.",
+    "weight": 1
+  },
+  {
+    "title": "Misidentifying spring force",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assumes the force in a spring is the same for all springs in a series-parallel configuration without proper force analysis.",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic or algebraic error",
+    "description": "Pitfall Criteria: Penalize for simple arithmetic mistakes in calculating elongations or total lengths, such as incorrectly summing L + x.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work Done Calculation",
+    "description": "Essential Criteria: The calculation of work done must correctly apply the formula W = p(V2 - V1) with appropriate values.",
+    "weight": 5
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Essential Criteria: The change in internal energy must be calculated using the correct relation ΔU = Q - W.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Change Calculation",
+    "description": "Essential Criteria: The change in entropy must be determined using the formula ΔS = Q/T with correct values.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria: All final answers must include correct units for work, internal energy, and entropy.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Pitfall Criteria: Common errors include incorrect signs for work done and internal energy change.",
+    "weight": -2
+  },
+  {
+    "title": "Density Values",
+    "description": "Important Criteria: The densities of ice and water must be correctly applied in the volume calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Heat of Fusion",
+    "description": "Important Criteria: The heat absorbed must correctly reflect the heat of fusion value given in the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Temperature Consistency",
+    "description": "Optional Criteria: The temperature used in the entropy calculation should be consistently stated in Kelvin.",
+    "weight": 2
+  }
+]

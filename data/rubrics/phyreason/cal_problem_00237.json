@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly stated as BL√(2gL).",
+    "weight": 5
+  },
+  {
+    "title": "Ring acceleration magnitude",
+    "description": "Essential: The final answer for part (2) must be correctly stated as (B²L²√(2gL))/(3mR).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum initial distance",
+    "description": "Essential: The final answer for part (3) must be correctly stated as L + (mR√(2gL))/(B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at MP",
+    "description": "Important: The solution must apply energy conservation to find the rod's speed v₀ = √(2gL) when passing MP.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit resistance analysis",
+    "description": "Important: The solution must correctly calculate the total circuit resistance (3R/2) by analyzing the ring's parallel arc segments.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on ring",
+    "description": "Important: The solution must apply Newton's second law to the ring, relating the net Ampere force (2B*I*L/2) to its mass and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum or impulse analysis",
+    "description": "Important: For part (3), the solution must use conservation of momentum or the impulse theorem to relate the rod's velocity change to the charge/displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign in the Ampere force direction (e.g., on the ring or rod) or in the induced current/Lenz's law.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Final answers lack correct units or have dimensional inconsistencies in derived expressions.",
+    "weight": -1
+  },
+  {
+    "title": "Geometric setup",
+    "description": "Optional: Explicitly states the geometric condition (rod displacement + ring displacement < initial distance) for the no-contact criterion.",
+    "weight": 2
+  }
+]

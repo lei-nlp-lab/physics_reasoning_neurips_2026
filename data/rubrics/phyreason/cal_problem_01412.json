@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ball a release height",
+    "description": "Essential: Correctly calculates h_a = 1.25 m from energy conservation and the condition for circular motion at D.",
+    "weight": 5
+  },
+  {
+    "title": "Ball b release height (part 2)",
+    "description": "Essential: Correctly calculates h_b = 1.0625 m (17/16 m) using energy conservation and the electric force condition at C.",
+    "weight": 5
+  },
+  {
+    "title": "Ball b release height (part 3)",
+    "description": "Essential: Correctly calculates h_b' = 2.13 m (32/15 m) using energy conservation and the projectile motion condition for vertical impact.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Applies the work-energy theorem correctly, accounting for gravitational potential energy and, for ball b, electric potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Force condition at top",
+    "description": "Important: For ball a at D, sets net centripetal force equal to mg. For ball b at C, sets centripetal force equal to electric force Eq.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: For part 3, correctly derives the relationship v_D / (g t) = tan(53°) from the condition of vertical impact on the slope.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric displacement relation",
+    "description": "Optional: For part 3, correctly relates the horizontal displacement from D to the vertical drop using the slope angle (x/y = 8/3).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in electric work",
+    "description": "Pitfall: Uses incorrect sign for the work done by the electric field in the work-energy theorem for the charged ball.",
+    "weight": -2
+  },
+  {
+    "title": "Centripetal force misconception",
+    "description": "Pitfall: For ball a at D, incorrectly includes normal force or other forces in the centripetal force condition (mg = mv²/R).",
+    "weight": -2
+  }
+]

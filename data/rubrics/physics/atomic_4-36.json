@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Frequency",
+    "description": "Essential Criteria: The new frequency of the X-ray must be correctly calculated as 2.42 x 10^19 Hz.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength Calculation",
+    "description": "Important Criteria: The calculation of the initial wavelength from the frequency must be shown correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Compton Wavelength",
+    "description": "Important Criteria: The use of the electron's Compton wavelength in the calculation must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Scattering Angle",
+    "description": "Important Criteria: The angle of scattering (90 degrees) must be correctly applied in the wavelength formula.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units of frequency and wavelength must be consistent throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the wavelength calculation or misunderstanding the scattering angle.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Failing to include the Compton wavelength in the final wavelength equation is a common mistake.",
+    "weight": -1
+  }
+]

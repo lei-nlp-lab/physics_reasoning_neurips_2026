@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension in OP",
+    "description": "Essential: Correctly calculates the tension in segment OP as 3 N from the equilibrium of forces on the movable pulley supporting block A.",
+    "weight": 5
+  },
+  {
+    "title": "Mass of Block B",
+    "description": "Essential: Correctly determines the mass of block B as 0.5 kg from the vertical equilibrium of forces at knot N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the frictional force on block C as 1 N from the horizontal equilibrium of forces at knot N or on block C.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Direction",
+    "description": "Important: Correctly identifies the direction of the frictional force on block C as horizontally to the left (or towards the center).",
+    "weight": 3
+  },
+  {
+    "title": "Force Resolution at Knot",
+    "description": "Important: Correctly resolves the tension forces at knot N using the given angles (37°, 90°) to relate the tension to the weight of block B.",
+    "weight": 4
+  },
+  {
+    "title": "Movable Pulley Equilibrium",
+    "description": "Important: Correctly applies the equilibrium condition for the movable pulley, recognizing the symmetry of tensions and relating them to the weight of block A.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall: Incorrectly assigns the direction of friction (e.g., to the right) or misinterprets the force balance on block C.",
+    "weight": -2
+  },
+  {
+    "title": "Angle Misapplication",
+    "description": "Pitfall: Uses incorrect trigonometric functions (sine vs. cosine) when resolving forces at knot N or for the movable pulley geometry.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (N, kg, m/s²) throughout the calculation and presents final answers with correct units.",
+    "weight": 1
+  }
+]

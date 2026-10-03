@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Heat Transfer",
+    "description": "Essential Criteria: The correct expression for heat transferred Q must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Elastocaloric Coefficient",
+    "description": "Essential Criteria: The derivation of the elastocaloric coefficient (partial T/partial L)_S should be correctly formulated.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Capacity Dependency",
+    "description": "Essential Criteria: The conclusion regarding the dependency of C_L on T and L must be accurately stated.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning Steps",
+    "description": "Important Criteria: Key reasoning steps leading to the final answers should be clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Equations",
+    "description": "Important Criteria: Relevant equations and relationships must be correctly applied throughout the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units should be consistently used and checked for correctness in the final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common mistakes such as sign errors or missing factors should be avoided.",
+    "weight": -2
+  }
+]

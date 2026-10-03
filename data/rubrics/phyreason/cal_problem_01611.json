@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Specific charge expression",
+    "description": "Essential: The final answer for part (1) must be the correct expression for e/m, derived from equating Lorentz force to centripetal force in the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Y-coordinate range",
+    "description": "Essential: The final answer for part (2) must correctly state the range of y-coordinates (0 to 2a) from which electrons can exit the magnetic field and enter the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance on screen",
+    "description": "Essential: The final answer for part (3) must be the correct maximum distance (9a/4) from point Q on the fluorescent screen.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic geometry analysis",
+    "description": "Important: The solution must correctly use the given trajectory through point O to determine the radius of circular motion (r = a) and the geometry of the triangle region.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: The solution must correctly apply kinematics in the electric field (constant acceleration along y) to find the exit position and angle as functions of entry y-coordinate.",
+    "weight": 4
+  },
+  {
+    "title": "Optimization for maximum",
+    "description": "Important: For part (3), the solution must combine the exit conditions to form an expression for the distance H(y) and find its maximum (e.g., via derivative or completing the square).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The working should demonstrate dimensional consistency, especially when combining magnetic and electric field equations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize sign errors in the Lorentz force direction, electric field acceleration (positive y), or incorrect trigonometric signs for the exit angle.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect radius or geometry",
+    "description": "Pitfall: Penalize incorrectly identifying the cyclotron radius from the given trajectory or misinterpreting the boundaries of the magnetic field region.",
+    "weight": -2
+  }
+]

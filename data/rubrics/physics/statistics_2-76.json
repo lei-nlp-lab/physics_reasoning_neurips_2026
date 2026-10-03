@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Expression for n",
+    "description": "Essential Criteria: The student must provide the correct analytical expression for the photon number density n in terms of T and universal constants.",
+    "weight": 5
+  },
+  {
+    "title": "Integral Representation",
+    "description": "Important Criteria: The student should correctly identify and represent the dimensionless integral I in their expression for n.",
+    "weight": 4
+  },
+  {
+    "title": "Estimation of n",
+    "description": "Essential Criteria: The student must estimate the value of n for T = 3 K and provide a numerical answer within two orders of magnitude.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Important Criteria: The student should correctly apply the universal constants k_B, h, and c in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that the units in their final answer for n are consistent and correctly expressed in cm^-3.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in their calculations.",
+    "weight": -2
+  }
+]

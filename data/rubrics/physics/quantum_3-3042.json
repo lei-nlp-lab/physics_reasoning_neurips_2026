@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Probability of Spin Down",
+    "description": "Essential Criteria: The student must correctly compute the probability of finding the electron with spin down as P_down = 2/3.",
+    "weight": 5
+  },
+  {
+    "title": "Probability per Solid Angle",
+    "description": "Essential Criteria: The student must derive the probability per unit solid angle P(theta, phi) = 1/(4pi).",
+    "weight": 5
+  },
+  {
+    "title": "Effective Magnetic Moment (Weak Field)",
+    "description": "Important Criteria: The student should calculate the effective magnetic moment in the weak magnetic field as mu = e*hbar/(6mc).",
+    "weight": 4
+  },
+  {
+    "title": "Final State Quantum Numbers",
+    "description": "Important Criteria: The student must identify the correct quantum numbers for the final state as l = 1, l_z = -1, s = 1/2, s_z = -1/2.",
+    "weight": 4
+  },
+  {
+    "title": "Effective Magnetic Moment (Final State)",
+    "description": "Important Criteria: The student should compute the effective magnetic moment of the final state as mu = -e*hbar/mc.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in calculating magnetic moments and probabilities.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Derivation Clarity",
+    "description": "Optional Criteria: The student should provide clear and logical steps in their derivations and reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: The student may explore alternative methods or checks to verify their results.",
+    "weight": 2
+  }
+]

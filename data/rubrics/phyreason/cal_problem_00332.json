@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct tension magnitude",
+    "description": "Essential: The answer for part (1) must be F_T = kq²/l².",
+    "weight": 5
+  },
+  {
+    "title": "Correct kinetic energy",
+    "description": "Essential: The answer for part (2) must be E_k = kq²/l.",
+    "weight": 5
+  },
+  {
+    "title": "Correct system momentum",
+    "description": "Essential: The answer for part (3) must state the system's total momentum is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final kinetic energy",
+    "description": "Essential: The answer for part (3) must be E_k' = 3kq²/(2l).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: For part (1), the solution must equate the Coulomb repulsion between two spheres to the string tension.",
+    "weight": 3
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important: For part (2), the solution must correctly set up Newton's second law for circular motion, accounting for net radial forces on a sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: For part (3), the solution must apply conservation of mechanical energy (kinetic + electrostatic potential) after the strings are cut.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum conservation reasoning",
+    "description": "Important: For part (3), the solution must recognize that the system's total momentum remains zero due to symmetry and no external horizontal forces.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect radius or geometry",
+    "description": "Pitfall: Using an incorrect radius for the circular motion (e.g., l instead of l/(2cos30°)) or misidentifying force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or factor error",
+    "description": "Pitfall: Making sign errors in force components or algebraic mistakes in solving simultaneous equations.",
+    "weight": -1
+  }
+]

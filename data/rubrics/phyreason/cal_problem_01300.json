@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Time for lower end to reach A",
+    "description": "Essential: Correctly calculates the free-fall time for the rod's lower end to reach point A, using the correct height (15 m).",
+    "weight": 5
+  },
+  {
+    "title": "Time for upper end to reach A",
+    "description": "Essential: Correctly calculates the free-fall time for the rod's upper end to reach point A, using the correct height (20 m).",
+    "weight": 5
+  },
+  {
+    "title": "Time interval for passing A",
+    "description": "Essential: Correctly computes t1 as the difference between the times for the upper and lower ends to reach point A.",
+    "weight": 5
+  },
+  {
+    "title": "Time for upper end to reach B",
+    "description": "Important: Correctly calculates the free-fall time for the rod's upper end to reach point B, using the correct height (25 m).",
+    "weight": 4
+  },
+  {
+    "title": "Time interval for passing cylinder",
+    "description": "Essential: Correctly computes t2 as the difference between the time for the upper end to reach B and the lower end to reach A.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final symbolic form",
+    "description": "Optional: Presents the final answers in the simplified symbolic form ((2-√3) s and (√5-√3) s).",
+    "weight": 2
+  },
+  {
+    "title": "Confusing rod and cylinder geometry",
+    "description": "Pitfall: Uses incorrect heights by confusing the positions of the rod's ends relative to the cylinder's ends (A and B).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect time interval logic",
+    "description": "Pitfall: Calculates the passing time as the difference between the wrong pair of events (e.g., lower end at B minus lower end at A).",
+    "weight": -2
+  }
+]

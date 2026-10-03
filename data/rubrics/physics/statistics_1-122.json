@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Equation of State",
+    "description": "Essential Criteria: The student must correctly state Van der Waal's equation of state for a real gas.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Important Criteria: The student should provide a clear physical interpretation of the constants a and b in the context of real gases.",
+    "weight": 4
+  },
+  {
+    "title": "Critical Constants",
+    "description": "Essential Criteria: The student must express the constants a and b in terms of the critical data.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Derivations",
+    "description": "Important Criteria: The student should correctly derive the relationships involving the critical point conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the derivation of the equation.",
+    "weight": -2
+  }
+]

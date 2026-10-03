@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maximum wind power expression",
+    "description": "Essential Criteria: The response must correctly derive and state the final expression P_m = (1/2)πρr²v³.",
+    "weight": 5
+  },
+  {
+    "title": "Power proportionality reasoning",
+    "description": "Important Criteria: The response must correctly apply the cubic relationship P ∝ v³ to find the output power at the lower wind speed.",
+    "weight": 4
+  },
+  {
+    "title": "Annual energy calculation",
+    "description": "Essential Criteria: The response must correctly calculate the final numerical answer for minimum annual generation as 8 × 10⁵ kW·h.",
+    "weight": 5
+  },
+  {
+    "title": "Mass flow rate derivation",
+    "description": "Important Criteria: The response should show the reasoning for the mass flow rate (ρ * v * area) as part of finding the kinetic energy flux.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The response may demonstrate that the units in the final energy calculation (kW * hours = kWh) are consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect exponent for speed",
+    "description": "Pitfall Criteria: Penalize if the student uses a linear or square relationship (P ∝ v or P ∝ v²) instead of the correct cubic one.",
+    "weight": -2
+  },
+  {
+    "title": "Area misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect area (e.g., 2πr or πr) instead of the swept area πr².",
+    "weight": -1
+  }
+]

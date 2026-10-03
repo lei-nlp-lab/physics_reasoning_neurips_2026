@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct induced EMF",
+    "description": "Essential Criteria: The response must correctly calculate the induced electromotive force as 0.8 V using E = BLv.",
+    "weight": 5
+  },
+  {
+    "title": "Correct pulling force",
+    "description": "Essential Criteria: The response must correctly calculate the magnitude of the pulling force as 0.8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct heat generated",
+    "description": "Essential Criteria: The response must correctly calculate the heat generated as 0.32 J.",
+    "weight": 5
+  },
+  {
+    "title": "Force from Ampere's law",
+    "description": "Important Criteria: The response must correctly relate the pulling force to the magnetic force using F = BIL.",
+    "weight": 4
+  },
+  {
+    "title": "Time for traversal",
+    "description": "Important Criteria: The response must correctly determine the time the coil spends in the field, using t = 2L/v or equivalent reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Optional Criteria: The response may note that the work done by the pulling force equals the heat generated.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The response should show consistent use of SI units (Tesla, meters, seconds, Ohms).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student confuses the sign/direction of induced EMF or current, though magnitude is primary.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect active length",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect length (e.g., perimeter or area) in the motional EMF formula E = BLv.",
+    "weight": -2
+  }
+]

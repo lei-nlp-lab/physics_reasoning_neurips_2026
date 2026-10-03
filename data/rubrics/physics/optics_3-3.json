@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Frequency Separation",
+    "description": "Essential Criteria: The correct calculation of the frequency separation between axial modes must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Frequency Ratio",
+    "description": "Essential Criteria: The estimation of the number of axial frequencies based on the linewidth must be correctly calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Constants",
+    "description": "Important Criteria: The speed of light and the wavelength must be correctly identified and used in calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Equation Setup",
+    "description": "Important Criteria: The equations for frequency separation and bandwidth must be correctly set up before solving.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, particularly for wavelength and frequency.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes in calculations should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria: Errors in arithmetic or algebra during the calculation process will lead to incorrect final answers.",
+    "weight": -2
+  }
+]

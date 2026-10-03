@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Catch-up time",
+    "description": "Essential: The final answer for the time when the car catches the bicycle must be 8 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Car's final speed",
+    "description": "Essential: The final answer for the car's speed at the catch-up moment must be 16 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance",
+    "description": "Essential: The final answer for the maximum separation must be 16 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up condition",
+    "description": "Important: The solution must correctly set the displacements of the car and bicycle equal to find the catch-up time.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equations",
+    "description": "Important: The solution must correctly apply the equations for constant velocity (bicycle) and constant acceleration (car).",
+    "weight": 4
+  },
+  {
+    "title": "Maximum distance reasoning",
+    "description": "Important: The solution must identify that maximum separation occurs when the car's speed equals the bicycle's speed.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution should include correct units (s, m/s, m) in calculations and final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly uses the bicycle's velocity as an acceleration or misassigns signs in the kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic mistake",
+    "description": "Pitfall: Penalize for errors in solving the quadratic equation for time or in calculating the maximum distance.",
+    "weight": -1
+  }
+]

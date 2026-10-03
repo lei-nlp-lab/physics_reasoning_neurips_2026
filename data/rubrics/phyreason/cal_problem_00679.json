@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct P2 calculation",
+    "description": "Essential: Student must compute the actual power of lamp L2 as 1.5 W.",
+    "weight": 5
+  },
+  {
+    "title": "Correct speed v",
+    "description": "Essential: Student must determine the rod's constant speed as 7.5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Ampere force power",
+    "description": "Essential: Student must find the power of the Ampere force as 6.75 W.",
+    "weight": 5
+  },
+  {
+    "title": "Lamp resistances from ratings",
+    "description": "Important: Student calculates resistances of L1 and L2 using R = U^2/P.",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent external resistance",
+    "description": "Important: Student finds the parallel equivalent resistance of the two lamps.",
+    "weight": 4
+  },
+  {
+    "title": "Induced EMF from circuit analysis",
+    "description": "Important: Student applies Ohm's law and voltage division to find total induced EMF.",
+    "weight": 4
+  },
+  {
+    "title": "Energy/power conservation",
+    "description": "Optional: Student uses conservation of energy to relate mechanical power to electrical powers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error in EMF",
+    "description": "Pitfall: Student misapplies Lenz's law or sign convention for induced EMF or current.",
+    "weight": -1
+  },
+  {
+    "title": "Power formula misuse",
+    "description": "Pitfall: Student incorrectly uses P = I^2R or P = V^2/R for lamps not at rated voltage.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Final answers lack proper units or have inconsistent unit conversions.",
+    "weight": -1
+  }
+]

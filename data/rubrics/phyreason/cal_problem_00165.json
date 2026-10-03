@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The answer must state E = BLv.",
+    "weight": 5
+  },
+  {
+    "title": "Pulling force power",
+    "description": "Essential: The answer must state P = (B²L²v²)/R.",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat from side ab",
+    "description": "Essential: The answer must state Q = (B²L³v)/(4R).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: The solution must equate the pulling force to the magnetic force on side ad.",
+    "weight": 3
+  },
+  {
+    "title": "Current and resistance use",
+    "description": "Important: The solution must correctly apply Ohm's law (I = E/R) and use the resistance of side ad (R/4).",
+    "weight": 3
+  },
+  {
+    "title": "Time interval calculation",
+    "description": "Important: The solution must correctly identify the time interval as t = L/v for the described motion.",
+    "weight": 2
+  },
+  {
+    "title": "Power from force and velocity",
+    "description": "Optional: The solution may explicitly show the power calculation as P = F * v.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect motional EMF formula",
+    "description": "Pitfall: Using an incorrect formula for motional EMF, such as E = Bv or E = BL²v.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing side resistances",
+    "description": "Pitfall: Using the total resistance R instead of R/4 for the Joule heat in side ab.",
+    "weight": -2
+  }
+]

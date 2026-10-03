@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final volume V2",
+    "description": "Essential: The answer for part (1) must be expressed as V2 = (p0S + mg)/(p0S - mg) * V1 or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final temperature T3",
+    "description": "Essential: The answer for part (2) must be expressed as T3 = (p0 S V3 T1) / ((p0 S + mg) V1) or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for piston",
+    "description": "Important: The solution must correctly apply force equilibrium on the piston to find gas pressure in each configuration (a, b, c).",
+    "weight": 4
+  },
+  {
+    "title": "Apply ideal gas law",
+    "description": "Important: The solution must correctly apply the ideal gas law (pV/T = constant) to relate states (a) and (b) for part (1), and states (a) and (c) for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Identify constant mass process",
+    "description": "Important: The solution must explicitly or implicitly state that the amount of gas (number of moles) is constant throughout all processes.",
+    "weight": 3
+  },
+  {
+    "title": "Correct pressure signs",
+    "description": "Pitfall: Deduct points if the force balance for configuration (b) incorrectly adds the weight term, giving p2 = p0 + mg/S instead of p0 - mg/S.",
+    "weight": -2
+  },
+  {
+    "title": "Units and dimensions",
+    "description": "Optional: The solution may include a check of dimensional consistency for the final expressions for V2 and T3.",
+    "weight": 1
+  },
+  {
+    "title": "Logical progression",
+    "description": "Optional: The solution may present a clear, step-by-step derivation, labeling pressures and states before combining equations.",
+    "weight": 1
+  }
+]

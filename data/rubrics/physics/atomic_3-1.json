@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Strength Definition",
+    "description": "Essential Criteria: The student must accurately define 'strength' in terms of coupling constants and interaction cross sections.",
+    "weight": 5
+  },
+  {
+    "title": "Strength Comparison",
+    "description": "Essential Criteria: The student must provide a quantitative comparison of the strengths of the four interactions using dimensionless constants.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: The student must correctly identify and state the conservation laws applicable to strong, electromagnetic, and weak interactions.",
+    "weight": 4
+  },
+  {
+    "title": "Experimental Justification",
+    "description": "Important Criteria: The student must justify the conservation laws with relevant experimental evidence.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as misidentifying conservation laws or failing to mention key interactions.",
+    "weight": -2
+  }
+]

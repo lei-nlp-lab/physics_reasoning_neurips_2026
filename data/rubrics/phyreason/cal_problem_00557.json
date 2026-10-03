@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pressure trend",
+    "description": "Essential: The response must state that the pressure exerted by the block on the inclined plane decreases during the motion.",
+    "weight": 5
+  },
+  {
+    "title": "Detachment speed",
+    "description": "Essential: The final numerical answer for the speed when leaving the plane must be v = (mg cosθ)/(qB).",
+    "weight": 5
+  },
+  {
+    "title": "Time on incline",
+    "description": "Essential: The final numerical answer for the time on the plane must be t = m/(qB tanθ).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force role",
+    "description": "Important: The solution must correctly apply the Lorentz force (qvB) and explain its role in reducing the normal force as speed increases.",
+    "weight": 4
+  },
+  {
+    "title": "Detachment condition",
+    "description": "Important: The solution must identify the correct detachment condition: when the magnetic force balances the normal component of gravity (qvB = mg cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic setup",
+    "description": "Important: The solution must correctly apply kinematics for constant acceleration (a = g sinθ) along the incline to relate speed, time, and distance.",
+    "weight": 3
+  },
+  {
+    "title": "Direction of forces",
+    "description": "Pitfall: Penalize if the direction of the Lorentz force is incorrect (e.g., not perpendicular to both velocity and B-field, or wrong sign).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award if the solution explicitly checks or discusses the dimensional consistency of the final expressions.",
+    "weight": 1
+  }
+]

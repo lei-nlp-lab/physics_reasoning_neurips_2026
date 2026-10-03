@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Differential Cross Section",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the differential scattering cross section as dσ/dΩ = 1/4 (R + r)^2.",
+    "weight": 5
+  },
+  {
+    "title": "Final Total Cross Section",
+    "description": "Essential Criteria: The student must correctly derive and present the total cross section as σ_t = π (R + r)^2.",
+    "weight": 5
+  },
+  {
+    "title": "Scattering Angle Relation",
+    "description": "Important Criteria: The student should correctly relate the scattering angle Θ to the angle of incidence θ using the equation Θ = π - 2θ.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Elastic Scattering",
+    "description": "Important Criteria: The student must acknowledge that the scattering is elastic and that the massive billiard ball remains stationary.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Use of Geometry",
+    "description": "Optional Criteria: The student should correctly apply the geometric relationship (R + r) sin θ = b in their derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Isotropic Distribution",
+    "description": "Optional Criteria: The student should mention that the differential cross section is isotropic in their explanation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the derivation of the scattering angles or cross sections.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

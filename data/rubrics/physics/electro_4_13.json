@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct expression for the reflection coefficient R must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Important Criteria: The student must correctly identify and use the dielectric constant epsilon in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Reflection Coefficient Formula",
+    "description": "Important Criteria: The student should derive or reference the correct formula for the reflection coefficient for normal incidence.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Accuracy",
+    "description": "Optional Criteria: The student should show accurate algebraic manipulation leading to the final answer.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the reflection coefficient formula.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the work done, W = (q^2 / (8 pi epsilon_0)) * (1/R - 1/(R+t)).",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria: The student should correctly derive the electric field intensity due to the point charge at various distances.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Change Derivation",
+    "description": "Important Criteria: The student must show the correct integration process to find the change in electric energy of the system.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: The student should apply Gauss' law correctly to determine the electric field outside the shell.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the energy change calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as epsilon_0, are included in the final expression.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Coordinates at t=2πm/(qB₀)",
+    "description": "Essential: The final x and y coordinates must be correctly stated as (2πE₀m/(qB₀²), π²E₀m/(2qB₀²)).",
+    "weight": 5
+  },
+  {
+    "title": "Work calculation",
+    "description": "Essential: The total work done by the electrostatic force from 0 to 6πm/(qB₀) must be correctly given as 2π²E₀²m/B₀².",
+    "weight": 5
+  },
+  {
+    "title": "Release time identification",
+    "description": "Essential: At least one correct release time (πm/(2qB₀) or 13πm/(3qB₀)) must be identified for the particle to reach point M.",
+    "weight": 5
+  },
+  {
+    "title": "Impulse-momentum application",
+    "description": "Important: The solution must correctly apply the impulse-momentum theorem during each constant-E interval to find velocity changes.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion",
+    "description": "Important: The solution must correctly use the Lorentz force (qvB = mv²/r) to find the radius and horizontal displacement during magnetic-only intervals.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic displacement sums",
+    "description": "Important: The solution must correctly compute vertical displacements using kinematics (average velocity) during acceleration/deceleration intervals.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric coordinate equations",
+    "description": "Important: The solution must set up and solve the geometric equations for x and y coordinates of point M based on horizontal and vertical displacements.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Penalise if signs for acceleration/deceleration (e.g., in kinematics or impulse) are reversed, or if displacement directions are mistaken.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly checks or derives the units for coordinates, work, or time, confirming dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Multiple release times",
+    "description": "Optional: Award extra credit if both valid release times (πm/(2qB₀) and 13πm/(3qB₀)) are identified and justified.",
+    "weight": 2
+  }
+]

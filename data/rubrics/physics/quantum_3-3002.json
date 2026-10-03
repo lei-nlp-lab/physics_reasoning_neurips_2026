@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer for s_z",
+    "description": "Essential Criteria: The student must correctly show that s_z^2 = s_z.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (s_x ± i s_y)",
+    "description": "Essential Criteria: The student must demonstrate that (s_x + i s_y)^3 = 0 and (s_x - i s_y)^3 = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Matrix Representation",
+    "description": "Important Criteria: The student should provide the correct matrix forms for s_x, s_y, and s_z.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The student must show the calculations leading to the final answers clearly.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as sign errors in matrix multiplication.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios for spin operators.",
+    "weight": 1
+  }
+]

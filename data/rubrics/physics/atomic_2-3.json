@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Probe Selection Criteria",
+    "description": "Essential Criteria: The response must include the de Broglie wavelength condition for selecting probes, specifically that the wavelength must be less than or equal to the size of the nucleus.",
+    "weight": 5
+  },
+  {
+    "title": "Electron Advantages",
+    "description": "Important Criteria: The advantages of using electrons as probes should be clearly stated, including their interaction characteristics and ease of analysis.",
+    "weight": 4
+  },
+  {
+    "title": "Electron Disadvantages",
+    "description": "Important Criteria: The disadvantages of using electrons, particularly the requirement for high energy beams, must be discussed.",
+    "weight": 4
+  },
+  {
+    "title": "Proton Advantages",
+    "description": "Important Criteria: The advantages of using protons, such as the availability of high flux beams, should be mentioned.",
+    "weight": 4
+  },
+  {
+    "title": "Proton Disadvantages",
+    "description": "Important Criteria: The response must address the complexity of analyzing proton-nucleus interactions due to multiple types of interactions.",
+    "weight": 4
+  },
+  {
+    "title": "Neutron Advantages",
+    "description": "Important Criteria: The advantages of neutrons as probes, particularly their lack of charge, should be included.",
+    "weight": 3
+  },
+  {
+    "title": "Neutron Disadvantages",
+    "description": "Important Criteria: The difficulties in generating and detecting neutron beams must be discussed.",
+    "weight": 3
+  },
+  {
+    "title": "Photon Opinion",
+    "description": "Optional Criteria: The opinion on using photons should reflect their hadron-like character and the complications it introduces.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common errors such as misrepresenting the conditions for probe selection or failing to mention the complexities of proton interactions.",
+    "weight": -2
+  }
+]

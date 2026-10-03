@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wave propagation direction",
+    "description": "Essential Criteria: The response must state that the wave propagates in the negative x-direction.",
+    "weight": 5
+  },
+  {
+    "title": "Wave speed value",
+    "description": "Essential Criteria: The response must give the correct wave speed as 1 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Period from vibration graph",
+    "description": "Important Criteria: The response must correctly identify the period (T = 4 s) from the particle's displacement-time graph.",
+    "weight": 3
+  },
+  {
+    "title": "Wavelength from waveform",
+    "description": "Important Criteria: The response must correctly identify the wavelength (λ = 4 m) from the spatial snapshot of the wave.",
+    "weight": 3
+  },
+  {
+    "title": "Final particle displacement",
+    "description": "Essential Criteria: The response must give the correct y-coordinate (0) for the particle at x=3m and t=15s.",
+    "weight": 5
+  },
+  {
+    "title": "Applying wave-particle relationship",
+    "description": "Important Criteria: The response must apply the relationship y(x,t) = A sin(ωt ± kx + φ) or equivalent to find the particle's displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in phase",
+    "description": "Pitfall Criteria: The response incorrectly assigns the sign in the wave function's phase (kx + ωt vs. kx - ωt) for the given propagation direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The response maintains consistent units (e.g., meters, seconds) throughout the calculation.",
+    "weight": 1
+  }
+]

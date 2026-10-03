@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Motor Current",
+    "description": "Essential: Correctly calculates the motor current as 3 A, recognizing it equals the series resistor current.",
+    "weight": 5
+  },
+  {
+    "title": "Input Power",
+    "description": "Essential: Correctly calculates the electrical power input to the motor as 360 W using P = I * V.",
+    "weight": 5
+  },
+  {
+    "title": "Output Power",
+    "description": "Essential: Correctly calculates the mechanical output power as 351 W by subtracting Joule heating from input power.",
+    "weight": 5
+  },
+  {
+    "title": "Object Mass",
+    "description": "Essential: Correctly calculates the mass of the object as 35.1 kg using P_motor = m * g * v.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit Analysis",
+    "description": "Important: Applies series circuit logic to find voltage across R and current through it.",
+    "weight": 3
+  },
+  {
+    "title": "Motor Power Balance",
+    "description": "Important: Recognizes that motor output power equals input power minus internal resistive losses.",
+    "weight": 4
+  },
+  {
+    "title": "Mechanical Power Relation",
+    "description": "Important: Connects mechanical output power to lifting work via P = F*v = m*g*v.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/Unit Error",
+    "description": "Pitfall: Makes sign errors in voltage loop or uses incorrect units in power/force calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring Internal Loss",
+    "description": "Pitfall: Equates motor input power directly to mechanical output power, ignoring internal resistance heating.",
+    "weight": -2
+  }
+]

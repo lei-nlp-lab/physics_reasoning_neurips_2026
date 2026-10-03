@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer",
+    "description": "Essential: The response must give the final numerical answer as -5 V (or -5 volts).",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential difference formula",
+    "description": "Important: The response must apply the formula for potential difference in a uniform field, U = E * d, where d is the parallel displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Correct parallel displacement",
+    "description": "Important: The response must correctly calculate the displacement along the field direction as d = L * cos(60°).",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention for U_BA",
+    "description": "Important: The response must relate U_BA to U_AB using U_BA = -U_AB.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response should show consistent unit conversion (e.g., cm to m) or explicitly include units in the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect angle usage",
+    "description": "Pitfall: Using sine instead of cosine for the parallel displacement (e.g., d = L * sin(60°)).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error",
+    "description": "Pitfall: Forgetting the negative sign in U_BA = -U_AB, resulting in an answer of +5 V.",
+    "weight": -2
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Failing to convert the 10 cm distance to meters, leading to an answer off by a factor of 100.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The response must correctly calculate the motional EMF as E = BLv, yielding 0.8 V.",
+    "weight": 5
+  },
+  {
+    "title": "Tension force magnitude",
+    "description": "Essential: The response must correctly calculate the tension force as F = BIL = B(E/R)L, yielding 0.8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Heat generated",
+    "description": "Essential: The response must correctly calculate the heat generated as Q = I²Rt = (E²/R)t, yielding 0.32 J.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The response must apply Newton's first law, stating that for constant velocity, the tension force equals the magnetic (Ampere) force.",
+    "weight": 3
+  },
+  {
+    "title": "Time in field",
+    "description": "Important: The response must correctly determine the time the coil is in the field as t = 2L/v, since the full coil width must enter and exit.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: The response must apply Ohm's law (I = E/R) to find the induced current.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect active length",
+    "description": "Pitfall: Using an incorrect length (e.g., perimeter or 4L) in the EMF formula E = BLv instead of the side length L.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Making a sign error in force direction, omitting units in final answers, or using inconsistent units leading to incorrect numerical results.",
+    "weight": -1
+  },
+  {
+    "title": "Energy approach check",
+    "description": "Optional: Using an energy conservation approach (work done by tension equals heat generated) to verify the result for force or heat.",
+    "weight": 1
+  }
+]

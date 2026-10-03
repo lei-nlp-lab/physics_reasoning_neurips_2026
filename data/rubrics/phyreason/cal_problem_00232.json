@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Xenon ion acceleration",
+    "description": "Essential: Correctly applies Newton's second law to find a = eE/M for xenon ions.",
+    "weight": 5
+  },
+  {
+    "title": "Electron energy relation",
+    "description": "Important: Uses work-energy theorem for electrons to relate eEd to electron kinetic energy (½mv²).",
+    "weight": 4
+  },
+  {
+    "title": "Radial magnetic field",
+    "description": "Essential: Correctly balances electric and magnetic forces on electrons to derive B₂ = E/v = √(mE/(2e)).",
+    "weight": 5
+  },
+  {
+    "title": "Particle number accounting",
+    "description": "Important: Correctly uses the ratio k and total electron emission n to find ion production rate N = nk/(1+k).",
+    "weight": 4
+  },
+  {
+    "title": "Xenon ion final velocity",
+    "description": "Important: Applies work-energy theorem to xenon ions to find v₁ = √(2eEd/M).",
+    "weight": 4
+  },
+  {
+    "title": "Thrust from momentum transfer",
+    "description": "Essential: Correctly calculates thrust F' = N·Mv₁ using impulse-momentum theorem and gets final expression with all parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Sign confusion in forces",
+    "description": "Pitfall: Misapplies sign conventions for electron vs. ion charges in Lorentz force or acceleration equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions for a, B₂, and F'.",
+    "weight": 1
+  }
+]

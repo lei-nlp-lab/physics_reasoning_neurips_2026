@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Orbital Angular Momentum",
+    "description": "Essential Criteria: The student must correctly identify the orbital angular momentum L_2 of the neutron pair as 1.",
+    "weight": 5
+  },
+  {
+    "title": "Total Spin Angular Momentum",
+    "description": "Essential Criteria: The student must correctly determine the total spin angular momentum S of the neutron pair as 1.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Calculation",
+    "description": "Important Criteria: The student must accurately conclude that the probability for both neutron spins directed opposite to the spin of the deuteron is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Distribution",
+    "description": "Essential Criteria: The student must provide the correct angular distribution for neutron emission probability as (3/16π) sin^2 θ.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Principles",
+    "description": "Important Criteria: The student should demonstrate understanding of conservation of parity and angular momentum in the context of the reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in angular momentum calculations or misinterpretation of the symmetry requirements of the wave function.",
+    "weight": -2
+  },
+  {
+    "title": "Wave Function Symmetry",
+    "description": "Optional Criteria: The student may discuss the implications of the antisymmetry of the total wave function for identical particles.",
+    "weight": 2
+  },
+  {
+    "title": "Spherical Harmonics Usage",
+    "description": "Optional Criteria: The student may correctly apply spherical harmonics in deriving the angular distribution.",
+    "weight": 2
+  }
+]

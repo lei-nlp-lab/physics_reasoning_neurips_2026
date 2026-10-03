@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Angular velocity expression",
+    "description": "Essential: The student must correctly derive and state ω₀, e.g., √[G(M+m)/(R+r)³] or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Distances from μ",
+    "description": "Essential: The student must correctly identify the distances from μ to M and to m as R+r, and from μ to the center of mass as √(R² + Rr + r²).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution should apply centripetal force balance to the two-body system (M and m) or to μ to find ω₀.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important: The student must correctly apply geometric relations (e.g., law of sines/cosines) to find distances in the equilateral configuration.",
+    "weight": 3
+  },
+  {
+    "title": "Perturbation analysis setup",
+    "description": "Important: For part (3), the student must set up the energy or force equation for μ and introduce a small radial perturbation.",
+    "weight": 4
+  },
+  {
+    "title": "Oscillation frequency result",
+    "description": "Essential: The student must correctly derive the angular frequency of small oscillations as (√7/2)ω₀ for the M=m case.",
+    "weight": 5
+  },
+  {
+    "title": "Relative speed calculation",
+    "description": "Essential: For part (4), the student must compute the relative speed between two spacecraft, obtaining approximately 996 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize sign errors in force equations, incorrect square roots, or missing units in final numerical answers.",
+    "weight": -2
+  },
+  {
+    "title": "Conserved quantity misuse",
+    "description": "Pitfall: Penalize incorrect application of angular momentum conservation for μ in part (3), or misidentifying the conserved quantity.",
+    "weight": -1
+  },
+  {
+    "title": "Extra geometric insight",
+    "description": "Optional: The solution may note the equilateral triangle symmetry or use vector methods for relative velocity.",
+    "weight": 1
+  }
+]

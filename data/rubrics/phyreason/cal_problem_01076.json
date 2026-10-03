@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct average acceleration magnitude",
+    "description": "Essential Criteria: The student must calculate the magnitude of average acceleration as 300 m/s² using the correct change in velocity and time interval.",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration direction",
+    "description": "Important Criteria: The student must state or imply that the acceleration direction is west, consistent with the velocity change from east to west.",
+    "weight": 3
+  },
+  {
+    "title": "Correct time on grass",
+    "description": "Essential Criteria: The student must calculate the time the ball moves on the grass as 10 s using the appropriate kinematic equation.",
+    "weight": 5
+  },
+  {
+    "title": "Proper velocity change calculation",
+    "description": "Important Criteria: The student must correctly compute Δv = v_final - v_initial, accounting for the opposite directions (east vs. west).",
+    "weight": 4
+  },
+  {
+    "title": "Correct kinematic equation application",
+    "description": "Important Criteria: The student must apply v_f = v_i + a t (or equivalent) with proper signs for the deceleration phase on the grass.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in velocity change",
+    "description": "Pitfall Criteria: Penalize if the student treats velocities as scalars and computes Δv = 20 - 10 = 10 m/s, ignoring direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student maintains consistent units (m/s, s, m/s²) throughout the calculations.",
+    "weight": 1
+  }
+]

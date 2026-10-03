@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Car A speed",
+    "description": "Essential: Student correctly extracts Car A's constant speed from its displacement-time graph.",
+    "weight": 5
+  },
+  {
+    "title": "Car B acceleration",
+    "description": "Essential: Student correctly extracts Car B's constant acceleration from its velocity-time graph.",
+    "weight": 5
+  },
+  {
+    "title": "Catch-up time",
+    "description": "Essential: Student correctly solves for the time when Car B's displacement equals Car A's displacement.",
+    "weight": 5
+  },
+  {
+    "title": "Equal speeds condition",
+    "description": "Important: Student identifies that maximum separation occurs when the two cars have equal instantaneous speeds.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum separation calculation",
+    "description": "Essential: Student correctly calculates the displacement difference at the time of equal speeds.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic equations",
+    "description": "Important: Student correctly applies displacement formulas for constant velocity (Car A) and constant acceleration (Car B).",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in difference",
+    "description": "Pitfall: Student incorrectly subtracts displacements (e.g., Car B - Car A) when finding maximum distance.",
+    "weight": -2
+  },
+  {
+    "title": "Graph misinterpretation",
+    "description": "Pitfall: Student misreads the graphs, leading to incorrect initial speed/acceleration values.",
+    "weight": -2
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional: Student includes correct units (s and m) with final numerical answers.",
+    "weight": 1
+  }
+]

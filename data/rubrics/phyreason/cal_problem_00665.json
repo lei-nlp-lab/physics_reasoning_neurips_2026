@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Kinetic energy expression",
+    "description": "Essential: The final answer for kinetic energy must be correctly expressed as \\(\\frac{k e^2}{2r}\\).",
+    "weight": 5
+  },
+  {
+    "title": "Total energy expression",
+    "description": "Essential: The final answer for the atom's total energy must be correctly expressed as \\(-\\frac{k e^2}{2r}\\).",
+    "weight": 5
+  },
+  {
+    "title": "Equivalent current expression",
+    "description": "Essential: The final answer for the equivalent current must be correctly expressed as \\(\\frac{e^2}{2\\pi r}\\sqrt{\\frac{k}{m r}}\\).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must apply Coulomb's law and Newton's second law to equate the electrostatic force to the centripetal force.",
+    "weight": 4
+  },
+  {
+    "title": "Energy sum calculation",
+    "description": "Important: The total energy must be correctly calculated as the sum of the given potential energy and the derived kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Current from period",
+    "description": "Important: The equivalent current must be derived from the definition \\(I = e/T\\) and the orbital period \\(T = 2\\pi r / v\\).",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear algebraic steps to derive the final expressions from the fundamental equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Penalize if the total energy is given with an incorrect sign (e.g., positive).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force expression",
+    "description": "Pitfall: Penalize if the centripetal force is written incorrectly (e.g., \\(mv^2\\) instead of \\(mv^2/r\\)).",
+    "weight": -1
+  }
+]

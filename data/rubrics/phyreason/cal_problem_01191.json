@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration without friction",
+    "description": "Essential: Correctly calculates a₁ = g sinθ = 5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration with friction",
+    "description": "Essential: Correctly calculates a₂ = g sinθ - μ g cosθ = 2.5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Time to bottom",
+    "description": "Essential: Correctly calculates t = √(2s/a₁) ≈ 1.41 s or √2 s.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at bottom",
+    "description": "Essential: Correctly calculates v = a₁ t ≈ 7.07 m/s or 5√2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Important: Identifies forces (gravity, normal, friction) and resolves components along the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: Applies F_net = ma correctly for both frictionless and frictional cases.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equation selection",
+    "description": "Important: Uses s = ½ a t² (from rest) to find time and v = at to find final speed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses friction force with wrong sign (adding instead of subtracting for downhill motion).",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric error",
+    "description": "Pitfall: Confuses sinθ and cosθ when resolving weight or friction force.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s²) throughout calculations.",
+    "weight": 1
+  }
+]

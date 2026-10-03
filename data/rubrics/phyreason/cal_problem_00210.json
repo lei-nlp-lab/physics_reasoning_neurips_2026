@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Heat Value",
+    "description": "Essential Criteria: The response must state the final numerical answer for the total heat absorbed as 2 × 10⁵ J or 200000 J.",
+    "weight": 5
+  },
+  {
+    "title": "First Law Application",
+    "description": "Important Criteria: The response must apply the first law of thermodynamics (ΔU = Q - W) to the overall process A→C.",
+    "weight": 4
+  },
+  {
+    "title": "Internal Energy Change",
+    "description": "Important Criteria: The response must correctly identify that the net change in internal energy (ΔU) for the cyclic process A→B→C is zero.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The response must calculate the work done by the gas, recognizing it is only non-zero for the isobaric process A→B.",
+    "weight": 3
+  },
+  {
+    "title": "Process Interpretation",
+    "description": "Important Criteria: The response must correctly interpret the p-(1/V) diagram to identify process A→B as isobaric and process B→C as isochoric.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Pitfall Criteria: Deduct points if the response uses an incorrect sign convention for work (e.g., Q = ΔU - W) or misidentifies heat as released.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Notation",
+    "description": "Optional Criteria: The response includes proper units (Joules) and clear scientific notation for the final answer.",
+    "weight": 1
+  }
+]

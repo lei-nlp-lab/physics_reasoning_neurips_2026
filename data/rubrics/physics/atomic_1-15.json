@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (i)",
+    "description": "Essential Criteria: The response must state that the beam polarized along +z is not split but its direction is changed.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (ii)",
+    "description": "Essential Criteria: The response must indicate that the beam polarized along +x splits into two beams, one deflected to +z and the other to -z.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (iii)",
+    "description": "Essential Criteria: The response must mention that the beam polarized along +y splits into two beams, similar to the +x case.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (iv)",
+    "description": "Essential Criteria: The response must state that the unpolarized beam splits into two beams, one deflected to +z and the other to -z.",
+    "weight": 5
+  },
+  {
+    "title": "Distinguishing Method",
+    "description": "Important Criteria: The response must describe how to distinguish between the cases using the magnetic field direction or a reflector.",
+    "weight": 4
+  },
+  {
+    "title": "Indistinguishable Cases",
+    "description": "Important Criteria: The response must correctly identify which cases are indistinguishable based on the results.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The response should avoid incorrect signs in the description of deflections or splits.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Details",
+    "description": "Pitfall Criteria: The response should not omit any required details about the behavior of the beams.",
+    "weight": -2
+  }
+]

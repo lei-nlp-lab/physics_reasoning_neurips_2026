@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring exit speed",
+    "description": "Essential: Correctly computes the block's speed at the moment it leaves the spring using conservation of energy.",
+    "weight": 5
+  },
+  {
+    "title": "Incline entry speed",
+    "description": "Essential: Correctly determines the block's speed when it first reaches the incline, given the condition that it just returns to the top after the collision.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum travel distance",
+    "description": "Essential: Correctly calculates the minimum distance the block travels on the incline without leaving it.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Important: Applies the condition for circular motion at the top of the track to find the minimum required speed.",
+    "weight": 4
+  },
+  {
+    "title": "Energy-work analysis",
+    "description": "Important: Correctly uses the work-energy theorem to account for friction on the incline and energy changes on the circular track.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and trigonometry",
+    "description": "Optional: Correctly uses the geometry of the setup (e.g., height changes on the circular track) in energy equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds, joules) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrectly assigns the sign for the work done by friction on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting collision rebound",
+    "description": "Pitfall: Fails to account for the fact the block rebounds with the same speed after hitting the baffle.",
+    "weight": -2
+  }
+]

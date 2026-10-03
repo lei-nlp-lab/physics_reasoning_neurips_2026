@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dilemma Explanation",
+    "description": "Essential Criteria: The response must clearly articulate the conflict between Maxwell's theory and Newtonian mechanics regarding the propagation of electromagnetic waves.",
+    "weight": 5
+  },
+  {
+    "title": "Ether Theory Description",
+    "description": "Essential Criteria: The answer should accurately describe the ether theory and its role in the historical context of special relativity.",
+    "weight": 5
+  },
+  {
+    "title": "Disproving Experiment",
+    "description": "Important Criteria: The response must mention the Michelson experiment and explain how it disproved the ether theory.",
+    "weight": 4
+  },
+  {
+    "title": "Modern Experiment",
+    "description": "Essential Criteria: The answer should detail a modern experiment that supports the principles of special relativity, such as Herter's experiment.",
+    "weight": 5
+  },
+  {
+    "title": "Clarity and Precision",
+    "description": "Important Criteria: The response should be well-organized and use precise language to convey complex ideas clearly.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common misconceptions about the ether theory or misinterpretations of the experiments.",
+    "weight": -2
+  }
+]

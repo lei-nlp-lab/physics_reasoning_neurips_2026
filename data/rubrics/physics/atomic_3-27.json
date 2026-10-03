@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Ratios",
+    "description": "Essential Criteria: Provide correct final ratios for each decay process.",
+    "weight": 5
+  },
+  {
+    "title": "Selection Rules",
+    "description": "Important Criteria: Clearly state the selection rules (fundamental or phenomenological) for each decay.",
+    "weight": 4
+  },
+  {
+    "title": "Decay Types",
+    "description": "Important Criteria: Identify whether each decay is strong, electromagnetic, or weak.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Optional Criteria: Express answers in terms of fundamental constants when applicable.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as misidentifying decay types or selection rules.",
+    "weight": -2
+  }
+]

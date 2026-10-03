@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Charge from I-t graph",
+    "description": "Essential: The student must correctly compute the total charge Q as the area under the I-t curve from t=0 to t=6.0 ms, obtaining 0.5 C.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field expression",
+    "description": "Important: The student must correctly apply the given formula B = kI/r to find the magnetic field inside the solenoid at the specified time.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic flux calculation",
+    "description": "Essential: The student must correctly compute the magnetic flux Φ through one turn as Φ = B * πa², yielding 6.28×10⁻⁸ Wb (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Current at specified time",
+    "description": "Important: The student must correctly read the current I from the I-t graph at t = 3.0 ms to use in the flux calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Area interpretation error",
+    "description": "Pitfall: Penalize if the student incorrectly calculates the area under the I-t graph (e.g., using wrong geometric formula or misreading axes).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award if the student explicitly shows unit conversion (e.g., ms to s, cm to m) and maintains consistent SI units throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Flux through N turns",
+    "description": "Pitfall: Penalize if the student mistakenly calculates the total flux through all N turns instead of for one single turn as requested.",
+    "weight": -1
+  }
+]

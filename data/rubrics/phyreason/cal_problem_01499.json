@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at C",
+    "description": "Essential: The final numerical answer for the block's speed at point C must be 6 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Generated Q",
+    "description": "Essential: The final numerical answer for the heat generated must be 9 J.",
+    "weight": 5
+  },
+  {
+    "title": "Projectile Motion at B",
+    "description": "Important: The solution must correctly relate the horizontal launch velocity v0 to the tangential entry velocity vB at point B using the geometry (vB sinθ = v0).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation on Track",
+    "description": "Important: The solution must apply the work-energy theorem correctly between points B and C, accounting for the change in gravitational potential energy (mgR(1+sinθ)).",
+    "weight": 4
+  },
+  {
+    "title": "Relative Motion Analysis",
+    "description": "Important: The solution must correctly analyze the sliding phase using Newton's second law to find the accelerations of both the block and the board.",
+    "weight": 3
+  },
+  {
+    "title": "Common Velocity Condition",
+    "description": "Important: The solution must establish that sliding stops when the block and board reach a common velocity, using kinematic equations or momentum conservation.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Balance for Heat",
+    "description": "Important: The solution must apply an energy balance (conservation of energy) for the sliding process to relate the initial kinetic energy to the final kinetic energy plus heat Q.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or Geometry Error",
+    "description": "Pitfall: A common error is misidentifying the height difference for potential energy (e.g., using cosθ instead of (1+sinθ)).",
+    "weight": -2
+  },
+  {
+    "title": "Friction Force Misapplication",
+    "description": "Pitfall: A common error is incorrectly applying Newton's second law during sliding, such as using the wrong mass for acceleration or forgetting the board accelerates.",
+    "weight": -1
+  }
+]

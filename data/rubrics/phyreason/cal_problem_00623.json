@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Horizontal Acceleration Magnitude",
+    "description": "Essential Criteria: The student must correctly calculate the horizontal acceleration during the curved phase, obtaining 100 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Vertical Acceleration Magnitude",
+    "description": "Essential Criteria: The student must correctly calculate the vertical acceleration during the curved phase, obtaining 0 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Total Flight Time",
+    "description": "Essential Criteria: The student must correctly calculate the total time from launch to impact, obtaining 25 s.",
+    "weight": 5
+  },
+  {
+    "title": "Thrust Force Calculation",
+    "description": "Important Criteria: The student must correctly apply Newton's second law to find the constant thrust force from the initial vertical acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Initial Phase Kinematics",
+    "description": "Important Criteria: The student must correctly use kinematic equations to find the time and final velocity for the initial vertical ascent to 5000 m.",
+    "weight": 3
+  },
+  {
+    "title": "Curved Phase Force Resolution",
+    "description": "Important Criteria: The student must correctly resolve the thrust force into horizontal and vertical components using the given cosine value.",
+    "weight": 3
+  },
+  {
+    "title": "Curved Phase Vertical Motion",
+    "description": "Important Criteria: The student must recognize that the vertical acceleration is zero during the curved phase, leading to uniform vertical motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall Criteria: The student incorrectly assigns signs to accelerations or velocities, or misinterprets the direction of the thrust force components.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Inconsistency",
+    "description": "Pitfall Criteria: The student uses inconsistent units (e.g., mixing g=10 and g=9.8) or omits units in final answers.",
+    "weight": -1
+  }
+]

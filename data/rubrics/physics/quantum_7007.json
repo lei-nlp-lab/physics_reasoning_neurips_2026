@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The final expression for the ground state energy must be correctly stated as E = hbar omega + (alpha_0 alpha) / (alpha_0^2 + 2beta)^(1/2).",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Approach",
+    "description": "Important Criteria: The use of perturbation theory to calculate the first-order energy correction must be clearly indicated.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Form",
+    "description": "Important Criteria: The correct form of the unperturbed wave function for two identical bosons must be provided.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The double integral setup for calculating the first-order energy correction must be correctly established.",
+    "weight": 3
+  },
+  {
+    "title": "Variable Transformation",
+    "description": "Optional Criteria: The transformation of variables used to simplify the integration should be mentioned.",
+    "weight": 2
+  },
+  {
+    "title": "Alpha Parameter Usage",
+    "description": "Optional Criteria: The role of the interaction strength parameter alpha in the energy correction should be discussed.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the final expression will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Failure to maintain consistent units throughout the calculations will result in a deduction.",
+    "weight": -1
+  }
+]

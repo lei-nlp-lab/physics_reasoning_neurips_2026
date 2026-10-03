@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final time answer",
+    "description": "Essential: The response must state the total time as 7.75 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum acceleration phase",
+    "description": "Important: The solution must correctly calculate the initial acceleration using maximum tension and weight (a = (120 N - mg)/m).",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at tension limit",
+    "description": "Important: The solution must find the velocity at the end of the acceleration phase using power and max tension (v_t = P_max / F_max = 10 m/s).",
+    "weight": 4
+  },
+  {
+    "title": "Constant power phase analysis",
+    "description": "Important: The solution must apply the work-energy theorem or kinematics to relate power, displacement, and velocity change for the second phase.",
+    "weight": 4
+  },
+  {
+    "title": "Height split calculation",
+    "description": "Important: The solution must correctly compute the height gained during the initial acceleration phase (h1 = v_t^2/(2a) = 10 m).",
+    "weight": 3
+  },
+  {
+    "title": "Steady-state velocity check",
+    "description": "Optional: The solution may note the theoretical maximum speed at constant power (v_m = P_max/(mg) = 15 m/s) as a reference.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent SI units (kg, m, s, N, W).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Penalize if the net force for acceleration is incorrectly taken as (mg - F_max) or if gravity's direction is mishandled.",
+    "weight": -2
+  },
+  {
+    "title": "Power misuse",
+    "description": "Pitfall: Penalize if power is incorrectly used as constant during the acceleration phase (P = F*v, but v changes) without justification.",
+    "weight": -1
+  }
+]

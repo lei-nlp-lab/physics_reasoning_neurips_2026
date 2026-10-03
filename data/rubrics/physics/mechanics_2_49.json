@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Generalized Coordinate",
+    "description": "Essential Criteria: The student must correctly identify 'x' as the generalized coordinate for the problem.",
+    "weight": 5
+  },
+  {
+    "title": "Lagrangian Expression",
+    "description": "Essential Criteria: The student must provide the correct Lagrangian expression in terms of 'x' and its velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium Position",
+    "description": "Essential Criteria: The student must determine the equilibrium position as (0, 0).",
+    "weight": 5
+  },
+  {
+    "title": "Equation of Motion",
+    "description": "Important Criteria: The student must derive the correct equation for small oscillations about the equilibrium position.",
+    "weight": 4
+  },
+  {
+    "title": "Solution of Motion",
+    "description": "Important Criteria: The student must provide the general solution for the motion of the particle.",
+    "weight": 4
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student loses points for omitting factors or terms in the Lagrangian or equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student loses points for incorrect signs in the equations derived.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check for consistency of units in the Lagrangian and equations.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Equation",
+    "description": "Essential Criteria: The student must provide the correct equation for the condition of zero net intensity at point A.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Explanation",
+    "description": "Important Criteria: The student should explain how the conservation of energy is maintained despite the zero intensity at certain points.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Interference",
+    "description": "Important Criteria: The student must describe the concept of constructive and destructive interference in the context of sound waves.",
+    "weight": 4
+  },
+  {
+    "title": "Amplitude and Energy",
+    "description": "Important Criteria: The student should mention the relationship between amplitude and energy in wave phenomena.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units used in the equations and explanations are consistent and correct.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as misapplying the principle of superposition or misunderstanding nodes and antinodes.",
+    "weight": -2
+  }
+]

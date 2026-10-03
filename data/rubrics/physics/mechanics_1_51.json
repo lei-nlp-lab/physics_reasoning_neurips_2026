@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Energy Ratio",
+    "description": "Essential Criteria: The student must correctly calculate the ratio of the electron's energy after to before the emission of the negatron as 3.",
+    "weight": 5
+  },
+  {
+    "title": "New Orbit Description",
+    "description": "Important Criteria: The student should qualitatively describe the new orbit as elliptical due to the change in potential energy.",
+    "weight": 3
+  },
+  {
+    "title": "Closest and Farthest Distances",
+    "description": "Essential Criteria: The student must find the distances of closest and farthest approach as 1/3 and 1 in units of r_0, respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Axes of Ellipse",
+    "description": "Essential Criteria: The student must determine the major and minor axes of the new elliptical orbit as 4/3 r_0 and 2√3/3 r_0, respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Application",
+    "description": "Important Criteria: The student should apply conservation of energy correctly to derive the equations for the new orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in energy calculations, particularly in potential and kinetic energy terms.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all distances are expressed in consistent units, specifically in terms of r_0.",
+    "weight": -1
+  }
+]

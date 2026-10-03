@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: Correctly calculates the motional EMF using the formula E = Blv, obtaining 0.80 V.",
+    "weight": 5
+  },
+  {
+    "title": "Induced current magnitude",
+    "description": "Essential: Correctly applies Ohm's Law (I = E/R) to find the induced current, obtaining 4.0 A.",
+    "weight": 5
+  },
+  {
+    "title": "Ampere force calculation",
+    "description": "Important: Correctly calculates the magnetic force on the rod using F = BIl, obtaining 0.80 N.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: Recognizes that for constant velocity, the external force must balance the magnetic force (Newton's first law).",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows proper unit analysis throughout the solution (V, A, N).",
+    "weight": 2
+  },
+  {
+    "title": "Direction consideration",
+    "description": "Optional: Mentions or correctly determines the direction of induced current or force using Lenz's law/Fleming's rules.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect EMF formula",
+    "description": "Pitfall: Uses an incorrect formula for motional EMF (e.g., Faraday's law with area change instead of Blv).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Makes sign errors in force direction or incorrectly applies equilibrium (e.g., adds forces instead of balancing).",
+    "weight": -1
+  },
+  {
+    "title": "Unit conversion mistake",
+    "description": "Pitfall: Makes errors in unit conversions (e.g., cm/m, mT/T) leading to incorrect numerical results.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct fall time",
+    "description": "Essential: Student correctly calculates the time for the flowerpot to fall from height H to the truck roof height using h = H - h₁ and t = √(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Part (1) conclusion",
+    "description": "Essential: Student correctly determines whether the truck will be hit by comparing the truck's displacement (v₀t) with the initial horizontal distance L₂.",
+    "weight": 5
+  },
+  {
+    "title": "Reaction time displacement",
+    "description": "Important: Student accounts for the truck's motion during the driver's reaction time Δt by calculating x₂ = v₀Δt.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equation setup",
+    "description": "Important: Student sets up the correct kinematic equation for the truck's accelerated motion: d + L₁ = v₀(t-Δt) + ½a(t-Δt)².",
+    "weight": 4
+  },
+  {
+    "title": "Part (2) acceleration",
+    "description": "Essential: Student correctly solves for the minimum acceleration a and provides the numerical answer with proper units.",
+    "weight": 5
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Student makes sign errors in displacement calculations or incorrectly handles the relative positions of truck and flowerpot.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations and includes units in final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Free-fall assumption",
+    "description": "Optional: Student explicitly states or correctly applies the assumption of free-fall motion for the flowerpot.",
+    "weight": 1
+  }
+]

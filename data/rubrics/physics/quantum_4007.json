@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the energy levels E in terms of n, p_z, H_0, e, and m.",
+    "weight": 5
+  },
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must present the correct form of the wave function psi(x) including the normalization constant and the Hermite polynomials.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Schrödinger Equation",
+    "description": "Important Criteria: The student should correctly apply the Schrödinger equation to derive the energy levels and wave functions.",
+    "weight": 4
+  },
+  {
+    "title": "Degeneracy Explanation",
+    "description": "Important Criteria: The student must explain the degeneracy of the energy levels due to the arbitrary nature of p_y.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Eigenfunction Form",
+    "description": "Important Criteria: The student should correctly identify the form of the eigenfunctions and their dependence on the parameters involved.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in the energy expression and wave function derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure all necessary constants and factors are included in the final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios that could simplify the problem.",
+    "weight": 1
+  }
+]

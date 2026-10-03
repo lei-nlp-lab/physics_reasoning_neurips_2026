@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final State Description",
+    "description": "Essential Criteria: Clearly describe the final state of the electric field, charge density, and current density for both cases.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Distribution",
+    "description": "Important Criteria: Explain how the charge is distributed in the conductor for both the spherical and non-spherical cases.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Change Explanation",
+    "description": "Essential Criteria: Discuss how the electric energy of the system changes over time and the reason for this change.",
+    "weight": 5
+  },
+  {
+    "title": "Exponential Decay",
+    "description": "Important Criteria: Mention the exponential decay of the electric field, current density, and charge density in both cases.",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Relationships",
+    "description": "Optional Criteria: Include relevant mathematical relationships or equations that support the reasoning.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common mistakes such as incorrect assumptions about charge distribution or energy conservation.",
+    "weight": -2
+  }
+]

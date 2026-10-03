@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring constant calculation",
+    "description": "Essential: Correctly calculates spring constant k = 250 N/m using Hooke's Law with given spring force and elongation.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on block A",
+    "description": "Essential: Correctly identifies static friction force on A as 5√3 N from equilibrium with rope tension.",
+    "weight": 5
+  },
+  {
+    "title": "Ground friction on B",
+    "description": "Essential: Correctly calculates ground friction on B as 2.5√3 N from horizontal force balance.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for C",
+    "description": "Important: Applies equilibrium conditions to ball C with proper vector decomposition of spring and rope forces.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal balance for B",
+    "description": "Important: Recognizes that ground friction balances horizontal components of forces from pulley connections.",
+    "weight": 4
+  },
+  {
+    "title": "Angle application",
+    "description": "Important: Correctly uses given 30° and 60° angles with trigonometric functions in force decompositions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout (N, m, kg) and converts cm to m for spring elongation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Incorrectly assigns directions to friction forces or misinterprets which surface exerts friction on which object.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric mistakes",
+    "description": "Pitfall: Confuses sine/cosine for given angles or incorrectly decomposes forces into components.",
+    "weight": -1
+  }
+]

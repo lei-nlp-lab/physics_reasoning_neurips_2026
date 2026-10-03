@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Free Charges",
+    "description": "Essential Criteria - Identify the free charge on the inner and outer spheres as Q and -Q respectively.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Regions",
+    "description": "Essential Criteria - Provide the correct expressions for the electric field in the three specified regions.",
+    "weight": 5
+  },
+  {
+    "title": "Polarization Charges",
+    "description": "Essential Criteria - Calculate the polarization charge densities at the specified radii accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance Formula",
+    "description": "Essential Criteria - Derive the correct expression for the capacitance of the condenser.",
+    "weight": 5
+  },
+  {
+    "title": "Gauss' Law Application",
+    "description": "Important Criteria - Correctly apply Gauss' law to derive the electric field expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Calculation",
+    "description": "Important Criteria - Show the correct integration process to find the potential across the regions.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - Ensure all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Watch for common sign mistakes in charge and electric field calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - Be cautious of missing factors in the expressions for electric fields and capacitance.",
+    "weight": -2
+  }
+]

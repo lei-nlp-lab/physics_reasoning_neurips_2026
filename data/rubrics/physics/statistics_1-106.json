@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student provides the correct melting point of tungsten as 3500°C.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Melting Point",
+    "description": "Important Criteria: The student demonstrates an understanding of what a melting point is and its significance.",
+    "weight": 3
+  },
+  {
+    "title": "Elimination of Options",
+    "description": "Important Criteria: The student correctly eliminates the other temperature options based on knowledge of tungsten's properties.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student includes the correct unit (°C) with the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student does not confuse the melting point with other physical properties or temperatures.",
+    "weight": -2
+  }
+]

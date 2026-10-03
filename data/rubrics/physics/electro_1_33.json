@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers for (a)",
+    "description": "Essential Criteria: Provide the correct expression for R_1 that maximizes the potential difference.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for (b)",
+    "description": "Essential Criteria: Provide the correct expression for R_1 that maximizes the energy stored.",
+    "weight": 5
+  },
+  {
+    "title": "Potential Calculation (a)",
+    "description": "Important Criteria: Correctly calculate the maximum potential difference for part (a).",
+    "weight": 4
+  },
+  {
+    "title": "Potential Calculation (b)",
+    "description": "Important Criteria: Correctly calculate the maximum potential difference for part (b).",
+    "weight": 4
+  },
+  {
+    "title": "Use of Gauss' Law",
+    "description": "Important Criteria: Proper application of Gauss' law to derive the electric field and potential expressions.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the equations for electric field and potential.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Logarithmic Errors",
+    "description": "Pitfall Criteria: Avoid mistakes in the logarithmic expressions when deriving R_1.",
+    "weight": -2
+  }
+]

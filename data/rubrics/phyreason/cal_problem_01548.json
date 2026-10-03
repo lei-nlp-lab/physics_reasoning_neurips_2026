@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct U_AB calculation",
+    "description": "Essential: Student correctly calculates U_AB = W_AB / q using the given work and charge, obtaining -30 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct U_BC calculation",
+    "description": "Essential: Student correctly calculates U_BC = W_BC / q, accounting for work done against the force, obtaining 30 V.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Student determines the magnitude of the uniform electric field as 200 V/m using geometry and potential differences.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field direction",
+    "description": "Important: Student identifies the correct direction of the electric field (e.g., from B towards D or equivalent description).",
+    "weight": 3
+  },
+  {
+    "title": "Work sign interpretation",
+    "description": "Important: Student correctly interprets the sign of work (done by vs. against the force) when calculating potential differences.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry application",
+    "description": "Important: Student uses the triangle geometry (30° angle, BC length) to find the relevant distance component parallel to the field.",
+    "weight": 3
+  },
+  {
+    "title": "Equipotential line recognition",
+    "description": "Optional: Student notes that points A and C are at the same potential, simplifying the field calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student demonstrates consistent unit conversion (e.g., cm to m) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in U_AB",
+    "description": "Pitfall: Student makes a sign error in U_AB, e.g., forgetting the negative charge or misinterpreting work direction.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect field formula",
+    "description": "Pitfall: Student incorrectly applies E = U/d using the wrong potential difference or geometric distance.",
+    "weight": -2
+  }
+]

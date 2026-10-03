@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Displacement magnitude",
+    "description": "Essential: Student must calculate the correct displacement magnitude of 10 m using vector addition.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement direction",
+    "description": "Essential: Student must state the correct direction (approximately 53° from positive x-axis) using appropriate trigonometry.",
+    "weight": 4
+  },
+  {
+    "title": "Average velocity magnitude",
+    "description": "Essential: Student must calculate the correct average velocity magnitude of 5 m/s using displacement and total time.",
+    "weight": 5
+  },
+  {
+    "title": "Vector vs. scalar distinction",
+    "description": "Important: Student must recognize displacement is a vector while distance is scalar, and average velocity uses displacement not total distance.",
+    "weight": 3
+  },
+  {
+    "title": "Proper trigonometric application",
+    "description": "Important: Student must correctly apply inverse tangent (tan⁻¹) to find the angle from the x and y components.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (meters, seconds, m/s, degrees) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing distance with displacement",
+    "description": "Pitfall: Student incorrectly uses total distance (14 m) instead of displacement magnitude (10 m) in calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect angle quadrant",
+    "description": "Pitfall: Student calculates angle from wrong axis (e.g., from y-axis instead of x-axis) or misplaces the angle in wrong quadrant.",
+    "weight": -1
+  }
+]

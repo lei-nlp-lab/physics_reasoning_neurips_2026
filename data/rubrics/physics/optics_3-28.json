@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Critical Angle Answer",
+    "description": "Essential Criteria - The correct critical angle for total internal reflection in water must be identified as 50 degrees.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Flux Answer",
+    "description": "Essential Criteria - The correct energy flux of sunlight at Earth's orbit must be identified as 10^{-1} watt/cm².",
+    "weight": 5
+  },
+  {
+    "title": "Electron Flow Answer",
+    "description": "Essential Criteria - The correct number of electrons flowing through the filament must be identified as 10^{19} s^{-1}.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Angle Calculation",
+    "description": "Important Criteria - The calculation of the critical angle using the refractive index of water must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Flux Calculation",
+    "description": "Important Criteria - The reasoning for the energy flux value must include understanding of solar energy distribution.",
+    "weight": 4
+  },
+  {
+    "title": "Electron Calculation Method",
+    "description": "Important Criteria - The method for calculating the number of electrons per second must reference the relationship between current and charge.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - Units must be consistent and correctly applied throughout the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Common sign mistakes in calculations or misinterpretation of values must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - Missing factors in the calculations, such as the charge of an electron, must be checked.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Wind force magnitude",
+    "description": "Essential: Correctly calculates the horizontal wind force as 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Rope tension magnitude",
+    "description": "Essential: Correctly calculates the rope tension as 10 N.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical balloon equilibrium",
+    "description": "Important: Applies vertical force balance to the balloon (buoyancy = weight + T cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal balloon equilibrium",
+    "description": "Important: Applies horizontal force balance to the balloon (wind = T sinθ).",
+    "weight": 4
+  },
+  {
+    "title": "Normal force magnitude",
+    "description": "Essential: Correctly calculates the normal force on the box as 82 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction force magnitude",
+    "description": "Essential: Correctly calculates the friction force as 6 N.",
+    "weight": 5
+  },
+  {
+    "title": "Vertical box equilibrium",
+    "description": "Important: Applies vertical force balance to the box (Mg = N + T cosθ).",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal box equilibrium",
+    "description": "Important: Applies horizontal force balance to the box (friction = T sinθ).",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Uses incorrect sign for tension components or misassigns force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission",
+    "description": "Pitfall: Fails to include units (N) with final numerical answers.",
+    "weight": -1
+  }
+]

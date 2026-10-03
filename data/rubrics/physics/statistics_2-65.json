@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Density of States",
+    "description": "Essential Criteria: Provide the correct expression for the density of single-particle states D(ε).",
+    "weight": 5
+  },
+  {
+    "title": "Mean Occupation Number",
+    "description": "Essential Criteria: Write down the correct expression for the mean occupation number n_ε as a function of ε, T, and μ.",
+    "weight": 5
+  },
+  {
+    "title": "Chemical Potential Integral",
+    "description": "Important Criteria: Present the integral expression that determines μ(T) and explain its significance.",
+    "weight": 4
+  },
+  {
+    "title": "Bose-Einstein Transition",
+    "description": "Important Criteria: Derive the expression for the Bose-Einstein transition temperature T_c and its dependence on density.",
+    "weight": 4
+  },
+  {
+    "title": "Chemical Potential Behavior",
+    "description": "Important Criteria: Describe the behavior of μ(T) as temperature decreases below T_c.",
+    "weight": 3
+  },
+  {
+    "title": "Total Energy Expression",
+    "description": "Essential Criteria: Find the correct expression for the total energy U(T, V) for T < T_c.",
+    "weight": 5
+  },
+  {
+    "title": "Sketch Accuracy",
+    "description": "Optional Criteria: Accurately sketch the density of states and mean occupation number, indicating key features.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure all expressions maintain consistent units throughout the derivations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes, particularly in expressions involving μ.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must provide the correct final expressions for alpha, beta, and gamma.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Density Derivation",
+    "description": "Important Criteria: The student should correctly derive the energy density of black body radiation and identify the dependence on temperature.",
+    "weight": 4
+  },
+  {
+    "title": "Debye Model Explanation",
+    "description": "Important Criteria: The student must explain the derivation of specific heat in the Debye model and relate it to temperature dependence.",
+    "weight": 4
+  },
+  {
+    "title": "Equipartition Theorem Application",
+    "description": "Important Criteria: The student should apply the equipartition theorem correctly to derive the ratio of specific heats for a monatomic ideal gas.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all derived quantities have consistent units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect integration limits or misapplying the equipartition theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Mathematical Rigor",
+    "description": "Important Criteria: The student should demonstrate mathematical rigor in their derivations, including proper handling of integrals and limits.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student could discuss limiting cases or special scenarios that validate their results.",
+    "weight": 1
+  }
+]

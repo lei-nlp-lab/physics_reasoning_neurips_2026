@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Electric Field Expression",
+    "description": "Essential Criteria: Provide the correct expression for the electric field in the conducting medium for part (a).",
+    "weight": 5
+  },
+  {
+    "title": "Final Plasma Electric Field",
+    "description": "Essential Criteria: Provide the correct expression for the electric field in the dilute plasma for part (b).",
+    "weight": 5
+  },
+  {
+    "title": "Optical Properties Comment",
+    "description": "Essential Criteria: Discuss the optical properties of metals in the ultraviolet as required in part (c).",
+    "weight": 5
+  },
+  {
+    "title": "Maxwell's Equations Application",
+    "description": "Important Criteria: Correctly apply Maxwell's equations to derive the electric field expressions in both cases.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: Properly address the boundary conditions for the incident and transmitted waves.",
+    "weight": 3
+  },
+  {
+    "title": "Complex Wave Vector Derivation",
+    "description": "Important Criteria: Derive the complex wave vector K'' correctly in both scenarios.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in the equations derived for electric fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the derivations.",
+    "weight": -1
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: Provide a physical interpretation of the results obtained in the context of electromagnetic waves.",
+    "weight": 2
+  }
+]

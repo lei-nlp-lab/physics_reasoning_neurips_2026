@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration expression",
+    "description": "Essential: Student states the correct acceleration magnitude as a = eE/m, derived from Newton's second law and the force on an electron in an electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum distance formula",
+    "description": "Essential: Student provides the correct expression for the maximum penetration distance, x_max = m v_0^2 / (2eE), using work-energy or kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic energy at half distance",
+    "description": "Essential: Student correctly calculates the kinetic energy at x_max/2 as (1/4) m v_0^2.",
+    "weight": 5
+  },
+  {
+    "title": "Correct force direction",
+    "description": "Important: Student recognizes the force (and thus acceleration) opposes the initial velocity because the electron's charge is negative.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Student applies the work-energy theorem correctly, relating change in kinetic energy to work done by the electric force.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in force",
+    "description": "Pitfall: Student uses a = -eE/m but treats it as a positive magnitude in subsequent motion equations without justification, or incorrectly uses a positive sign for acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student explicitly checks or states the units for distance and energy are consistent (meters and joules).",
+    "weight": 1
+  },
+  {
+    "title": "Alternative kinematic derivation",
+    "description": "Optional: Student uses constant-acceleration kinematics (v^2 = v_0^2 + 2a x) to find the maximum distance.",
+    "weight": 1
+  }
+]

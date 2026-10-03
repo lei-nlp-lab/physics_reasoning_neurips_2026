@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct final pressure",
+    "description": "Essential: The final answer must be 204 N (or equivalent) for the pressure exerted by the person on the platform.",
+    "weight": 5
+  },
+  {
+    "title": "Correct direction",
+    "description": "Essential: The answer must specify the pressure is vertically downward, or the force is 204 N downward.",
+    "weight": 4
+  },
+  {
+    "title": "System free-body diagram",
+    "description": "Important: The solution must correctly identify the system (person+platform) and apply Newton's second law to find the rope tension.",
+    "weight": 3
+  },
+  {
+    "title": "Person free-body diagram",
+    "description": "Important: The solution must isolate the person and apply Newton's second law to relate normal force, tension, weight, and acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Tension calculation",
+    "description": "Important: The rope tension must be correctly calculated as ((M+m)(a+g))/2.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Important: The solution must apply Newton's third law to equate the normal force from the platform on the person to the pressure exerted by the person on the platform.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should use consistent SI units (kg, m/s², N) and include units in the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Using g - a or a - g incorrectly when writing the net force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Tension misinterpretation",
+    "description": "Pitfall: Incorrectly assuming the tension equals the weight of the system or neglecting the pulley's mechanical advantage (factor of 2).",
+    "weight": -2
+  }
+]

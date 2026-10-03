@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum time calculation",
+    "description": "Essential Criteria: Student must correctly compute t_min = d/v₂ = 60/3 = 20 s.",
+    "weight": 5
+  },
+  {
+    "title": "Shortest distance calculation",
+    "description": "Essential Criteria: Student must correctly compute the shortest crossing distance as 120 m.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity component analysis",
+    "description": "Important Criteria: Student must recognize that for minimum crossing time, the boat's heading should be perpendicular to the riverbank.",
+    "weight": 3
+  },
+  {
+    "title": "Resultant velocity geometry",
+    "description": "Important Criteria: Student must apply vector addition to find the boat's resultant velocity relative to ground.",
+    "weight": 3
+  },
+  {
+    "title": "Optimal heading determination",
+    "description": "Important Criteria: Student must determine the optimal heading angle for shortest crossing distance using trigonometry.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student should maintain consistent units throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing time and distance",
+    "description": "Pitfall Criteria: Student incorrectly assumes the same heading minimizes both time and distance.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect velocity ratio",
+    "description": "Pitfall Criteria: Student mistakenly uses v₁/v₂ instead of v₂/v₁ when calculating the optimal angle.",
+    "weight": -1
+  }
+]

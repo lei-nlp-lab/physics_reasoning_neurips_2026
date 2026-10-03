@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct radius formula",
+    "description": "Essential: Student must derive or state the radius of motion in the magnetic field as r = (1/B)√(2Um/q).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: Student correctly applies qU = ½mv² to relate voltage to particle speed before entering the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force as centripetal",
+    "description": "Important: Student sets magnetic force qvB equal to centripetal force mv²/r to establish circular motion condition.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum time derivation",
+    "description": "Essential: Student must calculate the minimum time from c to b as t_min = πm/(2qB) using appropriate angular displacement.",
+    "weight": 5
+  },
+  {
+    "title": "Geometric angle identification",
+    "description": "Important: Student recognizes that the shortest path corresponds to a central angle of π/4 radians (45°) in the magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Period formula usage",
+    "description": "Important: Student correctly uses the period formula T = 2πm/(qB) for circular motion in a uniform magnetic field.",
+    "weight": 3
+  },
+  {
+    "title": "Voltage condition derivation",
+    "description": "Essential: Student must derive U = (B²R²q/(2m))tan²(3π/(4(n+1))) for n=1,2,3... as possible voltages for part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Geometric constraint setup",
+    "description": "Important: Student establishes the geometric relationship tan(θ/2) = R/r connecting ring radius to trajectory radius.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns sign to charge in force equations or misidentifies direction of circular motion.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Student makes algebraic mistakes when combining equations for r, v, or U, or mishandles trigonometric functions.",
+    "weight": -1
+  }
+]

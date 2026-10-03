@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Temperature Expression",
+    "description": "Essential Criteria: The student must correctly derive the expression for T_m in terms of T_u and T_l.",
+    "weight": 5
+  },
+  {
+    "title": "Net Flux Density Derivation",
+    "description": "Important Criteria: The student should show that the net energy flux density is halved due to the presence of the middle plane.",
+    "weight": 4
+  },
+  {
+    "title": "Reflectivity Impact",
+    "description": "Important Criteria: The student must demonstrate how the presence of reflectivity r modifies the flux density expression.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The student should ensure that all quantities are expressed with correct units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes when setting up the equations for flux balance.",
+    "weight": -2
+  }
+]

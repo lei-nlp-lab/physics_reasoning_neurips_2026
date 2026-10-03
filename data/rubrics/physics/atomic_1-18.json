@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student provides the correct lifetime of the excited atom as 10^-8 s.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Lifetime",
+    "description": "Important Criteria: The student demonstrates understanding of the concept of atomic lifetime in the context of excited states.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Values",
+    "description": "Important Criteria: The student correctly compares the given lifetimes and identifies the most reasonable value.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student includes appropriate units in their final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student mistakenly selects a lifetime that is not physically reasonable, such as 10^-1 or 10^-23 s.",
+    "weight": -2
+  }
+]

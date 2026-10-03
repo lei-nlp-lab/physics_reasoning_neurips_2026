@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Nuclear Reactions",
+    "description": "Essential Criteria: List all three nuclear reactions considered for controlled thermonuclear fusion.",
+    "weight": 5
+  },
+  {
+    "title": "Cross Section",
+    "description": "Essential Criteria: Identify which reaction has the largest cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Released",
+    "description": "Essential Criteria: Provide the approximate energies released in each reaction.",
+    "weight": 5
+  },
+  {
+    "title": "Neutron Usage",
+    "description": "Important Criteria: Explain how the resulting neutrons can be utilized.",
+    "weight": 4
+  },
+  {
+    "title": "Reaction Details",
+    "description": "Important Criteria: Include details about the products of each reaction.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid errors in the signs or values of the energies released.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Reactions",
+    "description": "Pitfall Criteria: Ensure that all three reactions are mentioned without omission.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct electromotive force",
+    "description": "Essential: Student must correctly determine the source EMF as 6V from the given data points.",
+    "weight": 5
+  },
+  {
+    "title": "Correct internal resistance",
+    "description": "Essential: Student must correctly determine the internal resistance as 1Ω from the given data points.",
+    "weight": 5
+  },
+  {
+    "title": "Final voltmeter reading",
+    "description": "Essential: Student must calculate and state the final voltmeter reading as 3V when R₃=1Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Closed-circuit Ohm's law application",
+    "description": "Important: Student must apply Ohm's law for a complete circuit (ε = I(R+r)) to relate EMF, current, and resistances.",
+    "weight": 4
+  },
+  {
+    "title": "Simultaneous equations setup",
+    "description": "Important: Student must set up two correct equations using the given (R₁,U₁) and (R₂,U₂) data points.",
+    "weight": 4
+  },
+  {
+    "title": "Voltmeter voltage relationship",
+    "description": "Important: Student must recognize that voltmeter reading U = I·R (voltage across external resistance).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (Ω, V) throughout calculations without conversion errors.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in voltage drop",
+    "description": "Pitfall: Student incorrectly writes ε = U + Ir instead of ε = U + Ir for terminal voltage, leading to wrong internal resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation error",
+    "description": "Pitfall: Student makes algebraic mistakes when solving simultaneous equations for ε and r.",
+    "weight": -1
+  }
+]

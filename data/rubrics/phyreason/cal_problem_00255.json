@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total distance calculation",
+    "description": "Essential Criteria: Student must correctly compute the total path length AD + DE using the Pythagorean theorem for AD.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude",
+    "description": "Essential Criteria: Student must correctly compute the straight-line distance AE using the Pythagorean theorem with AC and (CD+DE).",
+    "weight": 5
+  },
+  {
+    "title": "Police travel distance",
+    "description": "Important Criteria: Student must identify that the police travel distance is BE, requiring the Pythagorean theorem with BC and CE.",
+    "weight": 4
+  },
+  {
+    "title": "Time calculation",
+    "description": "Essential Criteria: Student must correctly compute the interception time using the police distance and given speed, with proper unit conversion.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry recognition",
+    "description": "Important Criteria: Student must recognize that points C, D, E are collinear and that CD is perpendicular to AB, enabling right triangles.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: Student maintains consistent units (km, h, s) throughout calculations and conversions.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect triangle selection",
+    "description": "Pitfall Criteria: Student uses wrong triangle sides (e.g., uses CD instead of CE for police distance, or misidentifies AD components).",
+    "weight": -2
+  },
+  {
+    "title": "Speed conversion error",
+    "description": "Pitfall Criteria: Student fails to convert police speed from km/h to appropriate units for time calculation in seconds.",
+    "weight": -1
+  }
+]

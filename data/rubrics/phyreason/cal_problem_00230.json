@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states or uses the relationship between plate voltage, separation, and electric field (E = U/d).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: Applies kinematic equations correctly to find the time of flight between the plates using both horizontal and vertical motions.",
+    "weight": 4
+  },
+  {
+    "title": "Exit angle from plates",
+    "description": "Important: Correctly calculates the angle (α = π/6) the particle's velocity makes with the horizontal upon exiting the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at magnetic entry",
+    "description": "Important: Correctly calculates the particle's speed (v = 2√3 v₀/3) upon entering the magnetic field using the exit angle.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force as centripetal",
+    "description": "Essential: Applies Newton's second law for circular motion (qvB = mv²/r) to relate magnetic field, speed, and radius.",
+    "weight": 5
+  },
+  {
+    "title": "Geometric radius relationship",
+    "description": "Important: Identifies and uses the geometric relationship between the trajectory radius (r) and the given magnetic field radius (R), where r = √3 R.",
+    "weight": 3
+  },
+  {
+    "title": "Central angle in magnetic field",
+    "description": "Optional: Correctly identifies the central angle (θ = π/3) subtended by the arc of the particle's path within the magnetic field.",
+    "weight": 2
+  },
+  {
+    "title": "Final answer for B",
+    "description": "Essential: Provides the correct final expression for the magnetic flux density B (e.g., B = mv₀/(2qR) or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Uses an incorrect sign for the charge in force equations or misidentifies the direction of deflection.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Makes an algebraic error in combining equations (e.g., mishandling the factor √3) leading to an incorrect numerical factor in the final answer.",
+    "weight": -1
+  }
+]

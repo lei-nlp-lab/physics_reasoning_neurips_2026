@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Charge sign correct",
+    "description": "Essential: Student states that the particle is positively charged.",
+    "weight": 5
+  },
+  {
+    "title": "Specific charge correct",
+    "description": "Essential: Student correctly calculates the specific charge as q/m = g/E.",
+    "weight": 5
+  },
+  {
+    "title": "Radius of motion correct",
+    "description": "Essential: Student identifies the radius of circular motion as L.",
+    "weight": 5
+  },
+  {
+    "title": "Average speed magnitude",
+    "description": "Important: Student correctly calculates the magnitude of the average velocity, v_avg = (2√2 B g L) / (π E).",
+    "weight": 4
+  },
+  {
+    "title": "Average velocity direction",
+    "description": "Important: Student states the direction of the average velocity is from point a to point c.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student applies force balance (gravity, electric, magnetic) to deduce charge sign and specific charge.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric path analysis",
+    "description": "Important: Student uses the geometry of the square and circular arc to relate radius to side length L.",
+    "weight": 3
+  },
+  {
+    "title": "Time calculation steps",
+    "description": "Optional: Student breaks down the total time into segments for motion in magnetic, electric, and gravitational fields.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows units are consistent in final expressions for specific charge and average velocity.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Student incorrectly assigns negative charge or reverses the direction of the average velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Student makes an error in setting up the equilibrium of electric and gravitational forces.",
+    "weight": -1
+  }
+]

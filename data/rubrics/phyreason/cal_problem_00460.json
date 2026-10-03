@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Work by thrust",
+    "description": "Essential: Correctly calculates the work done by the applied force using the horizontal component and displacement.",
+    "weight": 5
+  },
+  {
+    "title": "Frictional force magnitude",
+    "description": "Important: Correctly determines the kinetic friction force, accounting for the increased normal force due to the vertical component of the applied force.",
+    "weight": 4
+  },
+  {
+    "title": "Speed at force removal",
+    "description": "Essential: Correctly applies the work-energy theorem to find the object's speed when the force is removed, using net work during the first 5m.",
+    "weight": 5
+  },
+  {
+    "title": "Total work by friction",
+    "description": "Essential: Correctly states that the total work done by friction equals the negative of the work done by the thrust, bringing the object to rest.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem correctly for both the acceleration and deceleration phases of the motion.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (Joules, meters, seconds) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses the incorrect angle or sign for work calculations (e.g., uses sin instead of cos for horizontal work).",
+    "weight": -2
+  },
+  {
+    "title": "Normal force mistake",
+    "description": "Pitfall: Omits the vertical component of the applied force when calculating the normal force and frictional force.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct force magnitude",
+    "description": "Essential: The answer must state the Coulomb force magnitude as 9.0 × 10⁻³ N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct force direction",
+    "description": "Essential: The answer must state the force on q₂ is repulsive and directed away from A (e.g., along AB to the right).",
+    "weight": 5
+  },
+  {
+    "title": "Correct field magnitude",
+    "description": "Essential: The answer must state the electric field magnitude at B as 4.5 × 10³ N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Coulomb's Law",
+    "description": "Important: The solution must correctly use the formula F = k|q₁q₂|/L² for the force calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Applies point-charge field formula",
+    "description": "Important: The solution must correctly use the formula E = k|q₁|/L² for the field calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers should include correct SI units (N and N/C).",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Penalize if the force direction is incorrectly stated as attractive or toward charge A.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Penalize if the student uses the wrong formula (e.g., omits squaring L, uses q₂ in the field formula).",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct B calculation",
+    "description": "Essential: Student must correctly compute B = F/(IL) = 0.1 T.",
+    "weight": 5
+  },
+  {
+    "title": "Correct F' calculation",
+    "description": "Essential: Student must correctly compute F' = B I' L = 0.15 N.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ampere force formula",
+    "description": "Important: Student must recognize and apply F = BIL for perpendicular wire.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Important: Both answers must include correct units (T and N).",
+    "weight": 2
+  },
+  {
+    "title": "Recognize B unchanged",
+    "description": "Important: Student must understand B remains constant when only current changes.",
+    "weight": 2
+  },
+  {
+    "title": "Unit analysis check",
+    "description": "Optional: Student shows dimensional analysis for B = N/(A·m).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using F = BIL for non-perpendicular orientation without justification.",
+    "weight": -1
+  },
+  {
+    "title": "Algebraic error",
+    "description": "Pitfall: Misarranging B = F/(IL) or F' = B I' L leading to wrong numerical answer.",
+    "weight": -2
+  }
+]

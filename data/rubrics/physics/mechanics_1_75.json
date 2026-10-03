@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Gravitational Acceleration",
+    "description": "Essential Criteria: The student must correctly derive and calculate the gravitational acceleration at the surface of the moon as g = 1.62 m/s^2.",
+    "weight": 5
+  },
+  {
+    "title": "Escape Velocity",
+    "description": "Essential Criteria: The student must correctly derive and calculate the escape velocity from the moon as v_0 = 2.37 x 10^3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Constants",
+    "description": "Important Criteria: The student should correctly use the gravitational constant G and the mass and radius of the moon in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student must apply the principle of conservation of energy to derive the escape velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Final Answer Format",
+    "description": "Optional Criteria: The student should present final answers clearly and in the correct format.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation Mistakes",
+    "description": "Pitfall Criteria: The student should avoid arithmetic errors in the calculations of g and v_0.",
+    "weight": -2
+  }
+]

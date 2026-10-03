@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Induced EMF",
+    "description": "Essential: The student must state that the induced electromotive force is E = Blv_0, based on motional EMF immediately after contact.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit Equivalent Resistance",
+    "description": "Important: The student must correctly combine the five wire resistances (r each) to find the total circuit resistance of 2r.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Current",
+    "description": "Essential: The student must apply Ohm's law to find the initial current I_0 = (Blv_0) / (2r).",
+    "weight": 5
+  },
+  {
+    "title": "Ampere Force at Steady State",
+    "description": "Important: The student must equate the magnetic damping force (B²l²v/2r) on the sliding wire to the lunar weight (m₁g/6) of the cabin for steady motion.",
+    "weight": 4
+  },
+  {
+    "title": "Steady Velocity (No Capacitor)",
+    "description": "Essential: The student must solve the force balance to find the steady cabin velocity v = (m₁gr) / (3B²l²).",
+    "weight": 5
+  },
+  {
+    "title": "Steady Velocity (With Capacitor)",
+    "description": "Important: The student must reason that at constant speed, the capacitor does not affect current, so v' = v.",
+    "weight": 3
+  },
+  {
+    "title": "Capacitor Charge",
+    "description": "Essential: The student must calculate the capacitor voltage from the circuit and use q = CU_C to find q = (m₁grC) / (6Bl).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall: Penalize if the student uses an incorrect sign convention for induced EMF or current direction without justification.",
+    "weight": -1
+  },
+  {
+    "title": "Resistor Network Mistake",
+    "description": "Pitfall: Penalize if the student incorrectly combines the wire resistances, e.g., treating them all in series or parallel wrongly.",
+    "weight": -2
+  },
+  {
+    "title": "Force Balance Omission",
+    "description": "Pitfall: Penalize if the student fails to set the magnetic force equal to the cabin's weight (m₁g/6) for the steady-state condition.",
+    "weight": -2
+  }
+]

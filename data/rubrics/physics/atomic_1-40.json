@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Decay State",
+    "description": "Essential Criteria: The student must correctly identify the decay from the p-wave state to the s-wave state.",
+    "weight": 5
+  },
+  {
+    "title": "Decay Matrix Element",
+    "description": "Essential Criteria: The student must provide the correct form of the decay matrix element involving the electric dipole interaction.",
+    "weight": 5
+  },
+  {
+    "title": "Limit as Epsilon Goes to Zero",
+    "description": "Important Criteria: The student should explain that as epsilon approaches zero, the decay matrix element approaches zero, indicating no decay occurs.",
+    "weight": 4
+  },
+  {
+    "title": "Metastable State Explanation",
+    "description": "Important Criteria: The student must mention that the s-wave state is metastable and cannot decay via electric dipole transition.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid errors related to the incorrect identification of allowed transitions or misapplying selection rules.",
+    "weight": -2
+  }
+]

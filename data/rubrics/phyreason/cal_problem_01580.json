@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Constant speed condition",
+    "description": "Essential: The solution must state or apply that net force parallel to the incline is zero due to constant velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance parallel",
+    "description": "Important: Correctly writes the force balance equation along the incline: friction + mg sinθ = qE cosθ.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance perpendicular",
+    "description": "Important: Correctly writes the force balance equation normal to the incline: mg cosθ + qE sinθ = normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Friction definition",
+    "description": "Important: Applies the kinetic friction law: friction force = μ * normal force.",
+    "weight": 3
+  },
+  {
+    "title": "Final expression for μ",
+    "description": "Essential: Derives and presents the final symbolic answer μ = (qE cosθ - mg sinθ) / (mg cosθ + qE sinθ).",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Incorrectly assigns direction/sign to electric or gravitational force components along the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force omission",
+    "description": "Pitfall: Fails to include the electric field's component (qE sinθ) in the normal force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Notes or verifies that the final expression for μ is dimensionless.",
+    "weight": 1
+  }
+]

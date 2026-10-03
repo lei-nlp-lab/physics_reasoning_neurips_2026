@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Earth's mass expression",
+    "description": "Essential Criteria: The response must correctly derive or state that the Earth's mass is M = gR²/G.",
+    "weight": 5
+  },
+  {
+    "title": "First cosmic velocity expression",
+    "description": "Essential Criteria: The response must correctly derive or state that the first cosmic velocity is v₁ = √(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Satellite altitude expression",
+    "description": "Essential Criteria: The response must correctly derive or state the altitude as h = ∛(gR²T²/(4π²)) - R.",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's law of gravitation",
+    "description": "Important Criteria: The solution must correctly apply Newton's law of universal gravitation (F = GMm/r²) to relate gravitational force to centripetal force for the satellite.",
+    "weight": 4
+  },
+  {
+    "title": "Relating g to G and M",
+    "description": "Important Criteria: The solution must correctly use the relation g = GM/R² to eliminate M or find M from the given constants.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force setup",
+    "description": "Important Criteria: The solution must correctly set the gravitational force equal to the required centripetal force (mv²/r or mω²r) for circular orbit.",
+    "weight": 3
+  },
+  {
+    "title": "Orbital radius identification",
+    "description": "Important Criteria: The solution must correctly identify that the satellite's orbital radius is R + h, not R.",
+    "weight": 3
+  },
+  {
+    "title": "Confusing orbital radius",
+    "description": "Pitfall Criteria: Penalize if the solution incorrectly uses Earth's radius R as the orbital radius for the satellite in the force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or sign error",
+    "description": "Pitfall Criteria: Penalize for algebraic mistakes in solving for h, v₁, or M, or for sign errors in the final altitude expression.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may demonstrate dimensional analysis to verify the consistency of the derived expressions.",
+    "weight": 1
+  }
+]

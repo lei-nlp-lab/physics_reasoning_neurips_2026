@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final answer",
+    "description": "Essential: The response must give the rate of change of shadow length as Lv/(h-L).",
+    "weight": 5
+  },
+  {
+    "title": "Similar triangles setup",
+    "description": "Important: The solution must correctly identify and apply similar triangles between the person, light, and shadow.",
+    "weight": 4
+  },
+  {
+    "title": "Position variables defined",
+    "description": "Important: The solution must define variables for the person's position and the shadow tip position relative to the pole.",
+    "weight": 3
+  },
+  {
+    "title": "Differentiation step",
+    "description": "Important: The solution must correctly differentiate the shadow length expression with respect to time.",
+    "weight": 3
+  },
+  {
+    "title": "Constant speed substitution",
+    "description": "Optional: The solution explicitly substitutes dx/dt = v for the person's walking speed.",
+    "weight": 1
+  },
+  {
+    "title": "Units consistency",
+    "description": "Optional: The solution mentions or implies consistent units for the final rate.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect triangle ratio",
+    "description": "Pitfall: The solution incorrectly sets up the similar triangles ratio (e.g., h/L = (shadow+person)/shadow).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or derivative error",
+    "description": "Pitfall: The solution makes an error in differentiating the expression for shadow length.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Exact Energy Levels",
+    "description": "Essential Criteria: The exact energy levels must be correctly derived and presented in the final answer format.",
+    "weight": 5
+  },
+  {
+    "title": "First Order Approximation",
+    "description": "Essential Criteria: The first order energy levels in terms of epsilon over k must be accurately calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Hamiltonian Formulation",
+    "description": "Important Criteria: The Hamiltonian must be correctly formulated, including all potential terms and constants.",
+    "weight": 4
+  },
+  {
+    "title": "Variable Substitution",
+    "description": "Important Criteria: The transformation of variables from x1, x2 to y1, y2 must be correctly applied and justified.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign errors in the energy level expressions or Hamiltonian formulation will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: All units in the final expressions should be consistent and correctly represented.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The response should discuss limiting cases or assumptions made during derivation.",
+    "weight": 2
+  }
+]

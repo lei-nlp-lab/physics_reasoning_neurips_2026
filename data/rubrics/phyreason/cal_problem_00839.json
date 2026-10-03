@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final deflection angle",
+    "description": "Essential Criteria: The student's final answer for part (1) must be 60°.",
+    "weight": 5
+  },
+  {
+    "title": "Refractive index range",
+    "description": "Essential Criteria: The student's final answer for part (2) must be 2√3/3 ≤ n < 2.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry at point D",
+    "description": "Important Criteria: The student must correctly identify the angle of refraction at D as 30° using the given triangle geometry.",
+    "weight": 4
+  },
+  {
+    "title": "Total internal reflection at E",
+    "description": "Important Criteria: The student must apply the condition for total internal reflection at point E to find the minimum refractive index.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for incidence at F",
+    "description": "Important Criteria: The student must use triangle geometry and reflection laws to find the 30° angle of incidence at point F.",
+    "weight": 3
+  },
+  {
+    "title": "Path tracing and deflection",
+    "description": "Important Criteria: The student must correctly trace the light path and sum angle changes to find the total 60° deflection.",
+    "weight": 3
+  },
+  {
+    "title": "Upper bound from refraction",
+    "description": "Optional Criteria: The student may derive the upper bound n < 2 from Snell's law at point F to ensure refraction occurs.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall Criteria: Deduct points for sign errors in angle summation or incorrect units (e.g., radians vs. degrees).",
+    "weight": -1
+  },
+  {
+    "title": "Misapplied TIR condition",
+    "description": "Pitfall Criteria: Deduct points for incorrectly applying the total internal reflection condition (e.g., using n > 1/sin(c) instead of n >= 1/sin(c)).",
+    "weight": -2
+  }
+]

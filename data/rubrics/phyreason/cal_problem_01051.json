@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Equivalent spring constant",
+    "description": "Essential: The student must correctly identify the equivalent spring constant as the sum k1 + k2.",
+    "weight": 5
+  },
+  {
+    "title": "Period formula application",
+    "description": "Essential: The final answer for the period must be T = 2π√(m/(k1 + k2)).",
+    "weight": 5
+  },
+  {
+    "title": "Phase for displacement 0.5A",
+    "description": "Important: The student must correctly determine the phase angles (e.g., π/6 and 5π/6) corresponding to the displacement x = A/2.",
+    "weight": 4
+  },
+  {
+    "title": "Time interval calculation",
+    "description": "Important: The student must correctly calculate the total time Δt the ball spends in the region from O to 0.5A within one period.",
+    "weight": 4
+  },
+  {
+    "title": "Probability definition",
+    "description": "Important: The student must apply the given probability definition P = Δt / T correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Final probability answer",
+    "description": "Essential: The final probability must be given as 1/6 (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect spring combination",
+    "description": "Pitfall: Penalize if the student incorrectly treats the springs as being in parallel or uses a different equivalent constant (e.g., 1/k = 1/k1 + 1/k2).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize significant sign errors in the restoring force or omission/incorrect use of units in the final period expression.",
+    "weight": -1
+  },
+  {
+    "title": "Symmetry or time reasoning",
+    "description": "Optional: Award credit for recognizing symmetry in SHM or using alternative reasoning (e.g., velocity considerations) to find the time interval.",
+    "weight": 1
+  }
+]

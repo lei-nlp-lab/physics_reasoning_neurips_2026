@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tension magnitude",
+    "description": "Essential: Correctly calculates the rope tension T = 10 N from equilibrium conditions on block A.",
+    "weight": 5
+  },
+  {
+    "title": "Height calculation",
+    "description": "Essential: Correctly determines the height h = 0.24 m that block B rises using spring extensions.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure magnitude",
+    "description": "Essential: Correctly calculates the applied downward pressure F = 40 N from force balance on block A.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium on A",
+    "description": "Important: Sets up proper force balance on block A including gravity, friction, tension, and applied force.",
+    "weight": 4
+  },
+  {
+    "title": "Spring extensions",
+    "description": "Important: Correctly applies Hooke's Law to find extensions of both springs from weight forces.",
+    "weight": 4
+  },
+  {
+    "title": "Tension vector resolution",
+    "description": "Important: Properly resolves rope tension components using given angles (37° and 74°).",
+    "weight": 3
+  },
+  {
+    "title": "Friction calculation",
+    "description": "Important: Correctly calculates kinetic friction force on block A using μ and normal force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Uses wrong sign for friction direction or misassigns tension direction on inclined plane.",
+    "weight": -2
+  },
+  {
+    "title": "Angle confusion",
+    "description": "Pitfall: Confuses 37° with 53° or misapplies trigonometric functions in force resolution.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (N, m, kg) throughout calculations without conversion errors.",
+    "weight": 1
+  }
+]

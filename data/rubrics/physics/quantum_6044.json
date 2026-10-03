@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Energy Expression",
+    "description": "Essential Criteria: The student must correctly express the energy of the rotational state E_J in terms of J, M, and D.",
+    "weight": 5
+  },
+  {
+    "title": "Selection Rule Derivation",
+    "description": "Important Criteria: The student must derive the selection rule for electric dipole radiation, showing the conditions for changes in J and m.",
+    "weight": 4
+  },
+  {
+    "title": "Frequency Calculation",
+    "description": "Essential Criteria: The student must derive the frequency of emitted radiation as a function of J, M, and D.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: The student should ensure that all derived expressions have the correct physical units.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes in the selection rule or incorrect factors in the energy expression.",
+    "weight": -2
+  },
+  {
+    "title": "Moment of Inertia",
+    "description": "Important Criteria: The student must correctly identify and use the moment of inertia I = 1/2 M D^2 in their calculations.",
+    "weight": 3
+  }
+]

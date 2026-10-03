@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity v1 expression",
+    "description": "Essential: The final answer for v1 must be correctly expressed as v1 = qBR/(2m).",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz force centripetal condition",
+    "description": "Important: The solution must apply qvB = mv²/r to relate velocity, magnetic field, and trajectory radius.",
+    "weight": 4
+  },
+  {
+    "title": "Trajectory radius geometry",
+    "description": "Important: The geometric relationship r1 = R tan(θ/2) = R/2 must be identified from the exit condition at N.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum time expression",
+    "description": "Essential: The final answer for maximum time must be correctly expressed as t_max = πm/(3qB).",
+    "weight": 5
+  },
+  {
+    "title": "Radius for velocity v2",
+    "description": "Important: For v2 = 2qBR/m, the trajectory radius r2 = mv2/(qB) = 2R must be calculated.",
+    "weight": 3
+  },
+  {
+    "title": "Geometry for longest path",
+    "description": "Important: The condition for the longest time (largest arc in the field) must involve the chord/inscribed angle geometry, leading to sin α = R/r2.",
+    "weight": 3
+  },
+  {
+    "title": "Total area expression",
+    "description": "Essential: The final answer for the area must be correctly expressed as S = (11π/24 - √3/4)R².",
+    "weight": 5
+  },
+  {
+    "title": "Area decomposition",
+    "description": "Important: The total area must be constructed from distinct regions (e.g., semicircle, sector, segment) based on particle trajectories.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Using an incorrect sign for the charge in the Lorentz force, or misidentifying the direction of curvature, should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or factor mistake",
+    "description": "Pitfall: Dropping factors (like 1/2) in geometric relations (tan(θ/2)) or in area formulas should be penalized.",
+    "weight": -1
+  }
+]

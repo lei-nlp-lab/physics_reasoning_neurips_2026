@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct final answer of (c) must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding Dielectric Behavior",
+    "description": "Important Criteria: The response should demonstrate understanding of how a dielectric interacts with an electric field in a capacitor.",
+    "weight": 4
+  },
+  {
+    "title": "Force Direction Explanation",
+    "description": "Important Criteria: The reasoning for why the force is pulling the dielectric in should be clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Capacitor Principles",
+    "description": "Important Criteria: The answer should reference the principles of capacitors and dielectrics in electric fields.",
+    "weight": 3
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: Failing to recognize that the dielectric is attracted into the capacitor is a common error.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Displacement of A",
+    "description": "Essential: Correctly calculates the displacement of drone A in the first 3 seconds using kinematic equations, yielding 39 m.",
+    "weight": 5
+  },
+  {
+    "title": "Time of Equal Velocity",
+    "description": "Important: Identifies the time within the first 3 seconds when the velocities of A and B become equal.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum Separation Distance",
+    "description": "Essential: Correctly calculates the maximum distance between A and B in the first 3 seconds, yielding 27 m.",
+    "weight": 5
+  },
+  {
+    "title": "Velocities at t=3s",
+    "description": "Important: Determines the correct velocities of both drones at t=3s as a prerequisite for part (3).",
+    "weight": 3
+  },
+  {
+    "title": "Condition for a0",
+    "description": "Essential: Derives and states the final condition for the deceleration a0 to avoid collision, yielding a0 ≥ 6 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Relative Motion Analysis",
+    "description": "Important: Applies correct relative motion or simultaneous stopping analysis to find the required condition for a0.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Error in Acceleration",
+    "description": "Pitfall: Uses an incorrect sign for acceleration (e.g., treating deceleration as positive without proper sign convention).",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds) throughout all calculations and final answers.",
+    "weight": 1
+  }
+]

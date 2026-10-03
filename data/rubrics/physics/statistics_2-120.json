@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Third Law Definition",
+    "description": "Essential Criteria: The response must accurately define the third law of thermodynamics.",
+    "weight": 5
+  },
+  {
+    "title": "Negative Temperature Explanation",
+    "description": "Important Criteria: The explanation must clarify the concept of negative absolute temperature and its relation to population inversion.",
+    "weight": 4
+  },
+  {
+    "title": "Example of Negative Temperature",
+    "description": "Essential Criteria: The response must provide a valid example of a system that can achieve negative temperature.",
+    "weight": 5
+  },
+  {
+    "title": "Classical Thermodynamics Discussion",
+    "description": "Important Criteria: The discussion must explain why negative temperature is incompatible with classical thermodynamics.",
+    "weight": 4
+  },
+  {
+    "title": "Misinterpretation of Third Law",
+    "description": "Pitfall Criteria: The response should avoid incorrectly stating that negative temperatures violate the third law of thermodynamics.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lagrangian Setup",
+    "description": "Essential Criteria: The Lagrangian must be correctly formulated including kinetic and potential energy terms.",
+    "weight": 5
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Essential Criteria: The equations of motion derived from the Lagrangian must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Critical Angular Velocity",
+    "description": "Essential Criteria: The critical angular velocity Omega must be correctly identified and derived.",
+    "weight": 5
+  },
+  {
+    "title": "Stable Equilibrium Position",
+    "description": "Essential Criteria: The stable equilibrium position for omega > Omega must be correctly derived.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Small Angle Approximation",
+    "description": "Important Criteria: The use of small angle approximations in the analysis must be correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Stability Analysis",
+    "description": "Important Criteria: The stability condition for the equilibrium position must be correctly analyzed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: Common errors related to signs or missing factors in equations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units must be consistently applied throughout the solution.",
+    "weight": 2
+  }
+]

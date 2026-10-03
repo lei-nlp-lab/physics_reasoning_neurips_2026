@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Binding Energy",
+    "description": "Essential Criteria: The student must correctly state the binding energy as E_b = mV_0^2/2hbar^2.",
+    "weight": 5
+  },
+  {
+    "title": "Condition for Bound State",
+    "description": "Important Criteria: The student must explain that V_0 must be negative for a bound state to exist.",
+    "weight": 4
+  },
+  {
+    "title": "Schrödinger Equation Setup",
+    "description": "Important Criteria: The student should correctly set up the Schrödinger equation with E < 0 for bound states.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Step",
+    "description": "Important Criteria: The student must show the integration of the Schrödinger equation over a small interval around the delta function.",
+    "weight": 3
+  },
+  {
+    "title": "Wave Function Form",
+    "description": "Optional Criteria: The student may provide the form of the wave function for the bound state, showing understanding of its behavior.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the expressions for k and the binding energy.",
+    "weight": -2
+  },
+  {
+    "title": "Normalization Mention",
+    "description": "Optional Criteria: The student may mention the normalization condition for the wave function, indicating completeness of the solution.",
+    "weight": 1
+  }
+]

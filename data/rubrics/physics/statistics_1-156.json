@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Surface Temp",
+    "description": "Essential Criteria: The student must correctly calculate the surface temperature T_s as 22.5 K.",
+    "weight": 5
+  },
+  {
+    "title": "Final Central Temp",
+    "description": "Essential Criteria: The student must correctly calculate the central temperature T_c as 372 K.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Balance Equation",
+    "description": "Important Criteria: The student should derive and correctly apply the heat balance equation relating surface temperature to internal heat generation.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Conduction Equation",
+    "description": "Important Criteria: The student should correctly set up the heat conduction equation in spherical coordinates.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the heat conduction equation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as the factor of 1/3 in the heat balance equation, are included.",
+    "weight": -2
+  }
+]

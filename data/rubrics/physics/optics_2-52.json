@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maxima Angles",
+    "description": "Essential Criteria - Correctly identify the angles for interference maxima using the sine equation.",
+    "weight": 5
+  },
+  {
+    "title": "Width of Maxima",
+    "description": "Essential Criteria - Accurately calculate the angular width of the interference maxima.",
+    "weight": 5
+  },
+  {
+    "title": "Intensity Ratio",
+    "description": "Essential Criteria - Provide the correct ratio of intensity at maxima to that of a single slit.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria - Ensure that all final answers include appropriate units where applicable.",
+    "weight": 3
+  },
+  {
+    "title": "Graph Sketch",
+    "description": "Optional Criteria - Include a clear sketch of the interference pattern as a function of angle.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Avoid common sign mistakes in the sine equations for maxima and minima.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria - Ensure that all necessary factors such as N and d are included in calculations.",
+    "weight": -1
+  }
+]

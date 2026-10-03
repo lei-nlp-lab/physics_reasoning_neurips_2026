@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct Coulomb force",
+    "description": "Essential: Student provides the correct magnitude of the electrostatic force (6.4 × 10⁻⁶ N).",
+    "weight": 5
+  },
+  {
+    "title": "Correct electric field (with q)",
+    "description": "Essential: Student provides the correct magnitude of the electric field at point B with q present (4.0 × 10³ N/C).",
+    "weight": 5
+  },
+  {
+    "title": "Correct electric field (without q)",
+    "description": "Essential: Student states the electric field magnitude remains 4.0 × 10³ N/C after removing q.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Coulomb's Law",
+    "description": "Important: Student uses the formula F = k|Qq|/r² to calculate the force.",
+    "weight": 3
+  },
+  {
+    "title": "Defines electric field correctly",
+    "description": "Important: Student uses E = F/q or E = kQ/r² to find the field at point B.",
+    "weight": 3
+  },
+  {
+    "title": "Understands field independence",
+    "description": "Important: Student recognizes the electric field at a point is determined by the source charge Q, not the test charge q.",
+    "weight": 2
+  },
+  {
+    "title": "Unit analysis or conversion",
+    "description": "Optional: Student shows consistent unit handling or dimensional analysis in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction confusion",
+    "description": "Pitfall: Student incorrectly uses signs for force or field magnitude, or confuses vector/scalar quantities.",
+    "weight": -1
+  },
+  {
+    "title": "Incorrect distance or formula",
+    "description": "Pitfall: Student uses wrong distance (e.g., r instead of r²) or misapplies the electric field formula (e.g., E = F/Q).",
+    "weight": -2
+  }
+]

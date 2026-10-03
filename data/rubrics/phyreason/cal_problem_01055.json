@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct frictional force (F=1 N)",
+    "description": "Essential: The answer must be 1 N, recognizing that the applied force is less than the maximum static friction between block and board, so the block does not slip and friction equals the applied force.",
+    "weight": 5
+  },
+  {
+    "title": "Correct frictional force (F=5 N)",
+    "description": "Essential: The answer must be 3.5 N, recognizing that the applied force exceeds the maximum static friction, so kinetic friction acts and the system accelerates.",
+    "weight": 5
+  },
+  {
+    "title": "Correct time (F=8 N)",
+    "description": "Essential: The answer must be 1 s, obtained from solving the relative motion between the block and the board.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum static friction analysis",
+    "description": "Important: The solution must correctly compute the maximum static friction between the block and board (4 N) and between the board and ground (2 N) to determine slipping conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: For parts (2) and (3), the solution must correctly apply Newton's second law to both the block and the board separately to find accelerations.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion kinematics",
+    "description": "Important: For part (3), the solution must set up the correct kinematic equation for the relative displacement between the block and the board.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculations should maintain consistent units (kg, m, s, N) without conversion errors.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction direction",
+    "description": "Pitfall: Penalize if friction forces on the block or board are assigned incorrect directions relative to motion or applied force.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing static and kinetic friction",
+    "description": "Pitfall: Penalize if the solution incorrectly uses kinetic friction when static friction should apply (e.g., in part (1)) or vice versa.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly state the final expression for the differential cross section as dσ/dΩ = R^2/4.",
+    "weight": 5
+  },
+  {
+    "title": "Scattering Angle Relation",
+    "description": "Important Criteria: The student should correctly relate the scattering angle to the impact parameter and incidence angle, showing that φ = 2θ.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Cross Section Derivation",
+    "description": "Important Criteria: The student must derive the expression for the differential cross section using the relationship between b, R, and θ.",
+    "weight": 4
+  },
+  {
+    "title": "Isotropic Conclusion",
+    "description": "Important Criteria: The student should conclude that the scattering is isotropic based on the derived expression.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect relationships between variables.",
+    "weight": -2
+  }
+]

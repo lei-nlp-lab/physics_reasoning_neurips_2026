@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly identify that the wave function is unchanged, selecting option (b).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Spin",
+    "description": "Important Criteria: The student should demonstrate an understanding of total spin states and their implications for wave function symmetry.",
+    "weight": 4
+  },
+  {
+    "title": "Explanation of Parity",
+    "description": "Important Criteria: The student should explain the concept of parity and how it relates to the symmetry of the wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Clarity of Reasoning",
+    "description": "Optional Criteria: The student should provide a clear and logical reasoning process leading to the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconception",
+    "description": "Pitfall Criteria: The student should avoid the common error of stating that the wave function changes sign or becomes a different function.",
+    "weight": -2
+  }
+]

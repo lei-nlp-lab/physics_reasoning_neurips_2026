@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic Field Expression",
+    "description": "Essential Criteria: The expression for the magnetic field B(t) inside the solenoid must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Inside",
+    "description": "Essential Criteria: The expression for the electric field E(t) inside the solenoid must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Outside",
+    "description": "Essential Criteria: The expression for the electric field E(t) outside the solenoid must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Time Dependency",
+    "description": "Important Criteria: The student must evaluate the electric field at t = 2π/ω and express it correctly for both inside and outside the solenoid.",
+    "weight": 4
+  },
+  {
+    "title": "Field Line Sketch",
+    "description": "Optional Criteria: A sketch showing the shape of the electric field lines should be included to illustrate the concept.",
+    "weight": 3
+  },
+  {
+    "title": "Magnitude Graph",
+    "description": "Optional Criteria: A graph showing how the magnitude of E depends on the distance from the axis of the solenoid at t = 2π/ω should be included.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the expressions for the electric and magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent and correctly applied throughout the solution.",
+    "weight": -1
+  }
+]

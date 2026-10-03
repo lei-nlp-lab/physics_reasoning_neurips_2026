@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct refraction angle",
+    "description": "Essential: Student correctly applies Snell's Law to find the refraction angle (30°) from the given incident angle (45°) and refractive index (√2).",
+    "weight": 5
+  },
+  {
+    "title": "Time calculation",
+    "description": "Essential: Student correctly calculates the final time t = (2√6 a) / (3c) by combining the geometric path length in the medium with the speed v = c/√2.",
+    "weight": 5
+  },
+  {
+    "title": "Width calculation",
+    "description": "Essential: Student correctly calculates the final width d = (√3 / 3) a using trigonometry (e.g., tan 30°) and the geometry of the square cross-section.",
+    "weight": 5
+  },
+  {
+    "title": "Geometric path analysis",
+    "description": "Important: Student correctly relates the refracted ray's path length inside the block to the side length a using the refraction angle (e.g., l = a / cos 30°).",
+    "weight": 4
+  },
+  {
+    "title": "Speed in medium",
+    "description": "Important: Student correctly uses the relationship v = c / n to find the speed of light in the glass.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometry for width",
+    "description": "Important: Student correctly sets up the horizontal displacement from the refraction point to the edge of face CD (e.g., using tan θ = BE / a or equivalent subtraction).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student's final answers for time and width have correct units (s and a, respectively) or explicitly states them.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplication of Snell's Law",
+    "description": "Pitfall: Student incorrectly applies Snell's Law (e.g., swaps incident and refracted angles, uses cosine instead of sine) leading to a wrong refraction angle.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect geometric path",
+    "description": "Pitfall: Student uses an incorrect trigonometric relationship (e.g., confuses adjacent/opposite sides for path length or width calculation).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall: Student makes a sign error, simplification mistake, or arithmetic error in the final expressions for t or d.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Pressure Relation",
+    "description": "Essential Criteria: The student must correctly derive and state the relationship p = u/3.",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic Process Relation",
+    "description": "Essential Criteria: The student must correctly derive and state the relation pV^(4/3) = constant.",
+    "weight": 5
+  },
+  {
+    "title": "Value of Gamma",
+    "description": "Essential Criteria: The student must correctly determine and state the value of gamma as 4/3.",
+    "weight": 5
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show correct integration steps leading to the pressure and volume relations.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Density Definition",
+    "description": "Important Criteria: The student must define energy density and relate it to the total energy U.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the pressure and energy density relations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must ensure all factors in the momentum and energy equations are included.",
+    "weight": -1
+  }
+]

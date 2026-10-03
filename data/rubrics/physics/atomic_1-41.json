@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The student must correctly identify that the triplet F = 1 is the excited state and the singlet F = 0 is the ground state.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The student must correctly state that the spin triplet state lies higher in energy than the singlet state.",
+    "weight": 5
+  },
+  {
+    "title": "Hyperfine Interaction Explanation",
+    "description": "Important Criteria: The student should explain the hyperfine interaction and how it affects the energy levels of the hydrogen atom.",
+    "weight": 4
+  },
+  {
+    "title": "Nuclear Spin States",
+    "description": "Important Criteria: The student must describe the relationship between the nuclear spin states and the symmetry of the wave function in the hydrogen molecule.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Level Diagram",
+    "description": "Optional Criteria: The student may include a level diagram to illustrate the energy states of the hydrogen atom and molecule.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect signs in the magnetic interaction terms.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units used in the calculations and explanations are consistent and correctly applied.",
+    "weight": -1
+  }
+]

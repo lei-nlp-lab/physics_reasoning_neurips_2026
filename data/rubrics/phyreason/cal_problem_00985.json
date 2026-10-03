@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: Correctly calculates the induced EMF using the motional EMF formula E = Blv, obtaining 2 V.",
+    "weight": 5
+  },
+  {
+    "title": "Current direction in rod",
+    "description": "Essential: Correctly identifies the direction of the induced current in rod ab as from b to a.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Essential: Correctly calculates the total circuit current using Ohm's law I = E/(R+r), obtaining 0.5 A.",
+    "weight": 5
+  },
+  {
+    "title": "Physics principle application",
+    "description": "Important: Applies Faraday's law of electromagnetic induction or the motional EMF concept correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Right-hand rule reasoning",
+    "description": "Important: Uses the right-hand rule or Lenz's law to determine current direction based on motion and field.",
+    "weight": 3
+  },
+  {
+    "title": "Equivalent resistance identification",
+    "description": "Important: Recognizes that the total resistance in the circuit is the sum of R and r (series connection).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and includes proper units in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect EMF formula",
+    "description": "Pitfall: Uses an incorrect formula for motional EMF (e.g., E = Bv instead of E = Blv).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong current direction",
+    "description": "Pitfall: States current direction as from a to b instead of from b to a.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance addition error",
+    "description": "Pitfall: Incorrectly combines resistances (e.g., uses parallel formula or omits one resistance).",
+    "weight": -1
+  }
+]

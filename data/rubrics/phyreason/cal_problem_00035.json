@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity before collision",
+    "description": "Essential: The answer must correctly state the speed of block C just before impact, derived from the work-energy theorem considering friction.",
+    "weight": 5
+  },
+  {
+    "title": "Collision energy loss",
+    "description": "Essential: The answer must correctly calculate the mechanical energy lost in the perfectly inelastic collision between B and C.",
+    "weight": 5
+  },
+  {
+    "title": "Work against friction",
+    "description": "Essential: The answer must correctly state the work done by friction on the combined block (B+C) before skateboard A moves.",
+    "weight": 5
+  },
+  {
+    "title": "Apply work-energy theorem",
+    "description": "Important: The solution should apply the work-energy theorem to find the pre-collision velocity, accounting for friction over distance s0.",
+    "weight": 4
+  },
+  {
+    "title": "Apply momentum conservation",
+    "description": "Important: The solution must use conservation of momentum for the short-duration, perfectly inelastic collision between B and C.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance for spring",
+    "description": "Important: The solution should set up the force equilibrium (spring force + friction on blocks = max static friction from ground) to find spring compression.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Penalize if the work done by friction is incorrectly signed in the work-energy equation for block C's slide.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting combined mass",
+    "description": "Pitfall: Penalize if the solution uses mass m instead of 2m for the post-collision block when calculating forces, energy, or work.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the final answers are presented with correct units or dimensional analysis is shown.",
+    "weight": 1
+  }
+]

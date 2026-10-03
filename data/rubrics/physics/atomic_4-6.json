@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Answer",
+    "description": "Essential Criteria: The student must provide the correct energy of the neutron as E = 1.9 x 10^11 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Final Mass Answer",
+    "description": "Essential Criteria: The student must provide the correct rest mass of the pi meson as m_pi = 139.4 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Lorentz Factor",
+    "description": "Important Criteria: The student should correctly apply the Lorentz factor gamma in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation",
+    "description": "Important Criteria: The student must demonstrate understanding of momentum conservation in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic Energy Calculation",
+    "description": "Important Criteria: The student should correctly calculate the total energy of the muon including its kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or assumptions made during the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in energy and momentum calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors in the equations used.",
+    "weight": -2
+  }
+]

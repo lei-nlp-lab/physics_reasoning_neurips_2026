@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maximum drop radius",
+    "description": "Essential: Correctly states or derives the final expression for the maximum radius before separation: $r_{\\text{max}} = \\sqrt[3]{\\frac{3 \\sigma d}{4 \\rho g}}$.",
+    "weight": 5
+  },
+  {
+    "title": "Charge on a drop",
+    "description": "Essential: Correctly states the charge on a spherical conductor at potential $\\varphi$: $Q = 4 \\pi \\epsilon_0 \\varphi r$.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies the condition for droplet separation by equating gravitational force ($\\frac{4}{3}\\pi r^3 \\rho g$) to the surface tension force ($\\pi d \\sigma$).",
+    "weight": 4
+  },
+  {
+    "title": "Pressure balance for instability",
+    "description": "Important: Identifies the instability condition by balancing the Laplace pressure ($2\\sigma/r$) against the inward electrostatic pressure ($\\frac{1}{2}\\epsilon_0 (\\varphi/r)^2$) to find $\\varphi_{\\text{max}}$.",
+    "weight": 4
+  },
+  {
+    "title": "Differential equation setup",
+    "description": "Important: Sets up the correct differential equation for the capacitor charge $q(t)$ by relating the charging rate to the droplet charge $Q_0$ and the dripping frequency.",
+    "weight": 4
+  },
+  {
+    "title": "Final charge expression",
+    "description": "Essential: Correctly expresses the absolute charge on a separating drop as $|Q_0| = 2\\pi\\epsilon_0 \\frac{|q|}{C} r_{\\text{max}}$.",
+    "weight": 5
+  },
+  {
+    "title": "Time dependence solution",
+    "description": "Essential: Presents the correct exponential solution for the charge: $q(t) = q_0 e^{\\gamma t}$, with $\\gamma$ defined.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum potential derivation",
+    "description": "Optional: Correctly derives the maximum potential $U_{\\text{max}}$ by considering the electrostatic force/energy balance between a falling charged drop and the collecting bowl.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or absolute value error",
+    "description": "Pitfall: Fails to use absolute value for $Q_0$ or $q$ in the expression for the charge on a separating drop, or mishandles signs in the exponential growth.",
+    "weight": -2
+  },
+  {
+    "title": "Pressure direction confusion",
+    "description": "Pitfall: Incorrectly assigns the direction (inward/outward) of the electrostatic or Laplace pressure in the instability condition for Part (3).",
+    "weight": -1
+  }
+]

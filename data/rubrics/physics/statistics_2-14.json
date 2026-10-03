@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Definitions of Statistics",
+    "description": "Essential Criteria: Clearly define Boltzmann, Fermi, and Bose statistics with appropriate equations.",
+    "weight": 5
+  },
+  {
+    "title": "Differences Explained",
+    "description": "Important Criteria: Discuss the differences between the three types of statistics, particularly regarding indistinguishability.",
+    "weight": 4
+  },
+  {
+    "title": "High Temperature Limit",
+    "description": "Essential Criteria: Provide a clear explanation of why the distinction between the statistics becomes unimportant at high temperatures.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Range for Neutrons",
+    "description": "Essential Criteria: Identify the temperature range where quantum statistics must be applied to neutrons in a 2D plane.",
+    "weight": 5
+  },
+  {
+    "title": "Physical Discussion",
+    "description": "Important Criteria: Offer a physical discussion on the implications of high temperature on particle statistics.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as incorrect application of the statistics or misunderstanding of temperature limits.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: Ensure correct use of physical constants and units throughout the discussion.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discuss limiting cases or scenarios where the statistics might differ significantly.",
+    "weight": 2
+  }
+]

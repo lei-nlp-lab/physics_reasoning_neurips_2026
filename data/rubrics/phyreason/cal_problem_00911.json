@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Step-up transformer voltage",
+    "description": "Essential: Correctly calculates U₂ = (n₂/n₁) × U₁ = 2000 V.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important: Correctly applies I₂ = P₂ / U₂ using the generator's output power and the stepped-up voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Power loss calculation",
+    "description": "Essential: Correctly calculates P_loss = I₂²R = 100 W.",
+    "weight": 5
+  },
+  {
+    "title": "Step-down input voltage",
+    "description": "Important: Correctly determines U₃ by accounting for power loss (U₃ = (P₂ - P_loss) / I₂) or via voltage drop (U₃ = U₂ - I₂R).",
+    "weight": 4
+  },
+  {
+    "title": "Step-down turns ratio",
+    "description": "Essential: Correctly calculates n₃:n₄ = U₃:U₄ = 9:1.",
+    "weight": 5
+  },
+  {
+    "title": "Power conservation reasoning",
+    "description": "Optional: Explicitly states that ideal transformers conserve power (P₁ = P₂, P₃ = P₄).",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (kW, V, A, Ω, W) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect power for I₂",
+    "description": "Pitfall: Uses the generator's output power (10 kW) with the wrong voltage (e.g., 400V) to calculate transmission line current.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting power loss for U₃",
+    "description": "Pitfall: Assumes U₃ = U₂, ignoring the voltage drop across the transmission line resistance.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct flight time",
+    "description": "Essential: Student must derive or state the correct time of flight as t = √(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Correct final speed",
+    "description": "Essential: Student must derive or state the correct final speed as v = √(v₀² + 2gh).",
+    "weight": 5
+  },
+  {
+    "title": "Vertical free-fall analysis",
+    "description": "Important: Student must recognize that the vertical motion is independent free fall with initial vertical velocity zero.",
+    "weight": 4
+  },
+  {
+    "title": "Vector addition of velocities",
+    "description": "Important: Student must correctly combine horizontal and vertical velocity components using Pythagorean theorem.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal motion constant",
+    "description": "Optional: Student may note that horizontal velocity remains constant at v₀ throughout the motion.",
+    "weight": 2
+  },
+  {
+    "title": "Units consistency",
+    "description": "Optional: Student may include correct units (s for time, m/s for speed) in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect time formula",
+    "description": "Pitfall: Student incorrectly uses time formula involving horizontal distance or inclined plane angle.",
+    "weight": -2
+  },
+  {
+    "title": "Velocity component confusion",
+    "description": "Pitfall: Student adds velocities algebraically instead of vectorially, giving v = v₀ + √(2gh).",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Student uses incorrect sign in vertical motion equation (e.g., h = -½gt² without proper sign handling).",
+    "weight": -1
+  }
+]

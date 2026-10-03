@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Minimum μ for block",
+    "description": "Essential: Correctly states the condition μ = tanθ for the block to stop.",
+    "weight": 5
+  },
+  {
+    "title": "Sphere final speed",
+    "description": "Essential: Correctly gives the rolling speed u = (v sinθ)/(1+β).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum μ for sphere",
+    "description": "Essential: Correctly gives the condition μ = (β tanθ)/(1+β) for rolling without slipping.",
+    "weight": 5
+  },
+  {
+    "title": "Apply impulse-momentum",
+    "description": "Important: Uses linear impulse-momentum correctly for the collision along the ramp.",
+    "weight": 4
+  },
+  {
+    "title": "Apply angular impulse",
+    "description": "Important: Relates frictional impulse to angular momentum change for the sphere.",
+    "weight": 4
+  },
+  {
+    "title": "Rolling condition",
+    "description": "Important: Applies the rolling without slipping condition u = ωR.",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction error",
+    "description": "Pitfall: Uses wrong sign for friction impulse relative to velocity change.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses impulse types",
+    "description": "Pitfall: Fails to distinguish between normal and tangential impulses or their maximum values.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies that final expressions for μ are dimensionless and speed has correct units.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF calculation",
+    "description": "Essential: Correctly calculates the induced EMF using Faraday's law with the given slope from the graph.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current determination",
+    "description": "Essential: Correctly computes the current using Ohm's law for the complete circuit with total resistance R+r.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum power condition",
+    "description": "Important: Identifies that maximum power transfer occurs when the external resistance equals the internal resistance.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum power calculation",
+    "description": "Important: Correctly calculates the maximum power using the current when R=r and the power formula P=I²R.",
+    "weight": 4
+  },
+  {
+    "title": "Faraday's law application",
+    "description": "Important: Properly applies Faraday's law with the correct number of turns and area to find the rate of change of flux.",
+    "weight": 3
+  },
+  {
+    "title": "Graph interpretation",
+    "description": "Optional: Correctly extracts the rate of change of magnetic field from the provided figure.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and presents final answers with correct units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect resistance sum",
+    "description": "Pitfall: Fails to include both internal and external resistances when calculating circuit current.",
+    "weight": -2
+  },
+  {
+    "title": "Wrong power transfer condition",
+    "description": "Pitfall: Assumes maximum power occurs at maximum current or other incorrect conditions instead of R=r.",
+    "weight": -2
+  }
+]

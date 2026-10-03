@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Comparison of Wave Functions",
+    "description": "Essential Criteria: The response must correctly state that the wave functions for the singly-ionized helium atom are similar to those of the hydrogen atom with the appropriate modifications for the nucleus charge.",
+    "weight": 5
+  },
+  {
+    "title": "Combining Spin and Wave Functions",
+    "description": "Essential Criteria: The response must explain how to combine the spatial wave functions and spin functions to form a total eigenfunction of definite spin.",
+    "weight": 5
+  },
+  {
+    "title": "Two-Electron Wave Function",
+    "description": "Important Criteria: The response should provide a valid two-electron wave function that incorporates both spatial and spin components.",
+    "weight": 4
+  },
+  {
+    "title": "Total Spin Calculation",
+    "description": "Important Criteria: The response must correctly identify the total spin of the provided two-electron wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Pauli Exclusion Principle",
+    "description": "Important Criteria: The response should demonstrate that the chosen wave function adheres to the Pauli exclusion principle by showing that identical states lead to a vanishing wave function.",
+    "weight": 3
+  },
+  {
+    "title": "Antisymmetry Check",
+    "description": "Important Criteria: The response must show that the wave function is antisymmetric with respect to the exchange of the two electrons.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The response should avoid common errors such as incorrect signs in the wave function expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The response should ensure that normalization factors, such as 1/sqrt(2), are included where necessary.",
+    "weight": -1
+  }
+]

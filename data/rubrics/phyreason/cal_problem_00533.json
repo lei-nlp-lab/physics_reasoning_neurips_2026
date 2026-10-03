@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct EMF value",
+    "description": "Essential Criteria: The final answer for the electromotive force E must be 6 V.",
+    "weight": 5
+  },
+  {
+    "title": "Correct internal resistance",
+    "description": "Essential Criteria: The final answer for the internal resistance r must be 2 Ω.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ohm's Law for currents",
+    "description": "Important Criteria: The student must correctly calculate the circuit currents I1 and I2 from the given voltages and resistances.",
+    "weight": 4
+  },
+  {
+    "title": "Apply closed-circuit Ohm's Law",
+    "description": "Important Criteria: The student must set up the equation E = U + Ir for both experimental cases.",
+    "weight": 4
+  },
+  {
+    "title": "Solve simultaneous equations",
+    "description": "Important Criteria: The student must correctly solve the two equations to find the two unknowns, E and r.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All calculated quantities should be presented with correct units (V, Ω, A).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in voltage drop",
+    "description": "Pitfall Criteria: Penalize if the student writes E = U - Ir, incorrectly subtracting the internal voltage drop.",
+    "weight": -2
+  },
+  {
+    "title": "Misapply Ohm's Law for R",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly calculates current (e.g., I = U/(R+r)) before finding r.",
+    "weight": -1
+  }
+]

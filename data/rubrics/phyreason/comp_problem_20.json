@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Van der Waals constant b",
+    "description": "Essential: Correctly expresses b in terms of molecular diameter d, i.e., b = N_A * d^3.",
+    "weight": 5
+  },
+  {
+    "title": "Critical constants relation",
+    "description": "Essential: Correctly expresses van der Waals constants a and b in terms of critical temperature T_c and pressure P_c.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical constants for water",
+    "description": "Essential: Correctly calculates numerical values for a_w and b_w using given T_c and P_c.",
+    "weight": 5
+  },
+  {
+    "title": "Gas volume expression",
+    "description": "Important: Correctly derives and expresses the gas volume V_G using the van der Waals equation and appropriate root selection.",
+    "weight": 4
+  },
+  {
+    "title": "Liquid volume and density",
+    "description": "Important: Correctly expresses the liquid volume V_L and derives the liquid density ρ_L in terms of given parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Thermal expansion coefficient",
+    "description": "Important: Correctly expresses and evaluates the volume thermal expansion coefficient α for liquid water.",
+    "weight": 3
+  },
+  {
+    "title": "Latent heat expression",
+    "description": "Important: Correctly expresses the specific heat of vaporization L in terms of given parameters and evaluates it.",
+    "weight": 3
+  },
+  {
+    "title": "Surface tension estimation",
+    "description": "Optional: Correctly estimates the surface tension σ from the monomolecular layer model.",
+    "weight": 2
+  },
+  {
+    "title": "Pressure over curved surface",
+    "description": "Important: Correctly derives the pressure change Δp_T for a curved liquid-vapor interface.",
+    "weight": 4
+  },
+  {
+    "title": "Droplet radius calculation",
+    "description": "Essential: Correctly calculates the minimum droplet radius from the given temperature change and data.",
+    "weight": 5
+  },
+  {
+    "title": "Root selection error",
+    "description": "Pitfall: Uses the incorrect (minus) root for V_G or V_L when the physical (plus for V_G, minus for V_L) root is required.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or constant misuse",
+    "description": "Pitfall: Fails to use consistent SI units or misapplies constants (R, N_A, μ) in calculations.",
+    "weight": -1
+  }
+]

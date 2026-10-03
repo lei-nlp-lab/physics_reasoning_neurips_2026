@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final temperature of the system is correctly stated as T = T_0.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The reasoning about the internal energy remaining unchanged during the process is clearly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Ideal Gas Behavior",
+    "description": "Important Criteria: The application of the ideal gas properties to relate internal energy and temperature is correctly utilized.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium Concept",
+    "description": "Important Criteria: The explanation of the gas reaching equilibrium and its implications on temperature is provided.",
+    "weight": 3
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Any oversight in considering the implications of the evacuated side on the gas flow is noted.",
+    "weight": -2
+  }
+]

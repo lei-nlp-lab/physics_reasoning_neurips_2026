@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration during thrust",
+    "description": "Essential: The student must correctly calculate the acceleration during the pushing phase as 3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration after thrust",
+    "description": "Important: The student must identify the deceleration after release as 1 m/s² due to friction.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for two phases",
+    "description": "Important: The student must correctly set up the displacement equations for the acceleration and deceleration phases.",
+    "weight": 4
+  },
+  {
+    "title": "Success condition inequality",
+    "description": "Essential: The student must establish the total displacement inequality: L1 - L2 ≤ x1 + x2 ≤ L1.",
+    "weight": 5
+  },
+  {
+    "title": "Solve for time range",
+    "description": "Essential: The student must solve the inequality to find the final time condition: 1 s ≤ t ≤ (2√3)/3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in net force",
+    "description": "Pitfall: Penalize if the student uses F + μmg for net force during thrust.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should demonstrate consistent use of SI units (m, s, kg, N).",
+    "weight": 1
+  }
+]

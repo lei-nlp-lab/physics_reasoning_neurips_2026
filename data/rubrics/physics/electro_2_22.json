@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic Field B",
+    "description": "Essential Criteria: The expression for the magnetic field B must be correctly derived as B = (mu_0 * i) / (2 * pi * r) e_theta.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field E",
+    "description": "Essential Criteria: The expression for the electric field E must be correctly derived as E = (V / (r * ln(R_2 / R_1))) e_r.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Energy Density",
+    "description": "Important Criteria: The magnetic energy per unit length must be correctly calculated as dW_m/dz = (mu_0 * i^2) / (4 * pi) ln(R_2 / R_1).",
+    "weight": 4
+  },
+  {
+    "title": "Electric Energy Density",
+    "description": "Important Criteria: The electric energy per unit length must be correctly calculated as dW_e/dz = (pi * epsilon_0 * V^2) / ln(R_2 / R_1).",
+    "weight": 4
+  },
+  {
+    "title": "Inductance L",
+    "description": "Essential Criteria: The inductance per unit length must be correctly derived as dL/dz = (mu_0 / (2 * pi)) ln(R_2 / R_1).",
+    "weight": 5
+  },
+  {
+    "title": "Capacitance C",
+    "description": "Essential Criteria: The capacitance per unit length must be correctly derived as dC/dz = (2 * pi * epsilon_0) / ln(R_2 / R_1).",
+    "weight": 5
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the equations for electric and magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations, particularly for energy densities.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Helmholtz Free Energy",
+    "description": "Essential Criteria: The expression for Helmholtz free energy F must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Final Work Calculation",
+    "description": "Essential Criteria: The work done by the system W must be accurately calculated and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ideal Gas Law",
+    "description": "Important Criteria: The application of the ideal gas law pV = NRT in the derivation must be correctly utilized.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Important Criteria: The calculation of entropy S using the correct expressions must be shown.",
+    "weight": 4
+  },
+  {
+    "title": "Isothermal Process Understanding",
+    "description": "Important Criteria: The understanding of the isothermal nature of the process must be clearly stated.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units used in calculations should be consistent and correctly converted where necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios should be included to enhance the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign errors in the work calculation or free energy derivation must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Any missing factors in the expressions for work or free energy must be identified.",
+    "weight": -2
+  }
+]

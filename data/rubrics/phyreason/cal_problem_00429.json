@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct free-fall acceleration",
+    "description": "Essential: The response must state or derive the correct value of g = 4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct release height",
+    "description": "Essential: The response must state or derive the correct release height h = 72 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct impact velocity",
+    "description": "Essential: The response must state or derive the correct final velocity v = 24 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Uses displacement in nth second",
+    "description": "Important: The solution correctly applies the formula for displacement during the 6th second (s = h_6 - h_5) and relates it to the given 22 m.",
+    "weight": 4
+  },
+  {
+    "title": "Applies kinematic equations",
+    "description": "Important: The solution correctly uses the equations of motion for constant acceleration from rest (s = 1/2 gt², v = gt).",
+    "weight": 4
+  },
+  {
+    "title": "Clear solution structure",
+    "description": "Optional: The response presents a logical sequence, defining variables and showing the setup of equations before solving.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution includes correct units (m, s, m/s²) for all quantities and the final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Misinterprets '6th second' displacement",
+    "description": "Pitfall: Penalize if the student incorrectly treats the 22 m as the total displacement after 6 seconds or the displacement in the first second.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the solution incorrectly handles the sign of acceleration or displacement relative to the chosen coordinate system.",
+    "weight": -1
+  }
+]

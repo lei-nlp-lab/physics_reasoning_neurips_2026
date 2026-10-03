@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of approximately 10^{-13} cm.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Formula",
+    "description": "Important Criteria: The student should correctly identify and use the formula for the Compton wavelength.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution Accuracy",
+    "description": "Important Criteria: The student must accurately substitute the values for hbar, mass of the proton, and speed of light into the formula.",
+    "weight": 4
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Important Criteria: The student should show clear steps in the calculation leading to the final answer.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factor usage.",
+    "weight": -2
+  }
+]

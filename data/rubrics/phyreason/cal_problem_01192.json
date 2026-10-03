@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct deceleration magnitude",
+    "description": "Essential: The response must state or calculate the deceleration as 7 m/s² using a = μ g.",
+    "weight": 5
+  },
+  {
+    "title": "Correct initial speed",
+    "description": "Essential: The response must state or calculate the initial braking speed as 14 m/s using kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Newton's second law",
+    "description": "Important: The solution must correctly relate friction force (μ mg) to deceleration (ma) to find a.",
+    "weight": 4
+  },
+  {
+    "title": "Apply correct kinematic equation",
+    "description": "Important: The solution must use v₀² = 2 a x (or equivalent) for uniform deceleration to rest.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if acceleration is given as positive when describing deceleration, or if speed/direction signs are inconsistent in equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award if all quantities (distance, g, μ, a, v) are handled with consistent units (m, s) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Award for clearly showing the steps v₀ = √(2 a x) and a = μ g without arithmetic errors.",
+    "weight": 1
+  }
+]

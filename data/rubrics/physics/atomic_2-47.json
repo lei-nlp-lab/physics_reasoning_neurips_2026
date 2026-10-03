@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Radius Estimate",
+    "description": "Essential Criteria: The student must provide a reasonable estimate for the radius of the neutron star, showing the final answer clearly.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational Potential Energy",
+    "description": "Important Criteria: The student should derive the expression for gravitational potential energy correctly and relate it to the pressure of the Fermi gas.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure of Fermi Gas",
+    "description": "Important Criteria: The student must correctly express the pressure of the degenerate Fermi gas and equate it to the gravitational pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Neutron Density Argument",
+    "description": "Essential Criteria: The student must explain why the neutron star can be considered to consist almost entirely of neutrons, addressing the role of electron and proton presence.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Explanation",
+    "description": "Important Criteria: The student should discuss energy conservation in the context of neutron decay and the implications for the presence of electrons and protons.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect factors in the equations.",
+    "weight": -2
+  }
+]

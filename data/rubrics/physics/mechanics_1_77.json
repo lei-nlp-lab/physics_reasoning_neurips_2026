@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The expression for phi in terms of r must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria: The differential cross section must be defined correctly in terms of the impact parameter b.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria: The total cross section for scattering from a hard sphere must be correctly calculated.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning for (a)",
+    "description": "Important Criteria: The conservation of energy and angular momentum must be applied correctly to derive the trajectory equation.",
+    "weight": 4
+  },
+  {
+    "title": "Key Reasoning for (b)",
+    "description": "Important Criteria: The relationship between scattering angle and impact parameter must be established accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Key Reasoning for (c)",
+    "description": "Important Criteria: The momentum conservation principle must be applied correctly to derive the scattering results.",
+    "weight": 4
+  },
+  {
+    "title": "Units and Consistency",
+    "description": "Optional Criteria: All quantities must have consistent units throughout the derivations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing factors or incorrect signs in the equations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases or special scenarios should be discussed where relevant.",
+    "weight": 1
+  }
+]

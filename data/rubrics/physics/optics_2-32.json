@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Distance Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the maximum distance r from the hole using the formula r = rho^2 / lambda.",
+    "weight": 5
+  },
+  {
+    "title": "Final Intensity Calculation",
+    "description": "Essential Criteria: The student must correctly determine the intensity I' as I' = I_1 / 4.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Fresnel Zones",
+    "description": "Important Criteria: The student should explain the relevance of the first Fresnel zone in determining the distance and intensity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Important Criteria: The student must use appropriate units throughout the calculations, particularly for distance and wavelength.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations of intensity and distance.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Optional Criteria: The student may provide clear intermediate steps leading to the final answers for clarity.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases Discussion",
+    "description": "Optional Criteria: The student could discuss limiting cases or implications of removing the opaque sheet.",
+    "weight": 1
+  }
+]

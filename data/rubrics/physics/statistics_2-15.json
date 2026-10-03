@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Fundamental Assumptions",
+    "description": "Essential Criteria: Clearly state the differences in assumptions between MB and FD statistics.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Distribution Plots",
+    "description": "Essential Criteria: Provide accurate rough plots of energy distribution functions for both MB and FD statistics, indicating temperature differences.",
+    "weight": 5
+  },
+  {
+    "title": "Specific Heat Explanation",
+    "description": "Essential Criteria: Explain the discrepancy in specific heat predictions and how FD statistics resolves it.",
+    "weight": 5
+  },
+  {
+    "title": "Indistinguishability Principle",
+    "description": "Important Criteria: Mention the principle of indistinguishability as a key aspect of FD statistics.",
+    "weight": 3
+  },
+  {
+    "title": "Pauli's Exclusion Principle",
+    "description": "Important Criteria: Discuss Pauli's exclusion principle and its significance in FD statistics.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature Indication",
+    "description": "Optional Criteria: Clearly indicate which curve corresponds to the higher temperature in the plots.",
+    "weight": 2
+  },
+  {
+    "title": "MB Specific Heat Prediction",
+    "description": "Pitfall Criteria: Avoid stating that MB statistics accurately predicts specific heat at all temperatures.",
+    "weight": -2
+  },
+  {
+    "title": "Neglect of Electron Contribution",
+    "description": "Pitfall Criteria: Ensure not to overlook the condition under which electron contribution to specific heat is negligible.",
+    "weight": -1
+  }
+]

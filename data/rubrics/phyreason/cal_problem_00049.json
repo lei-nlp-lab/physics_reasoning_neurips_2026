@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity ratio expression",
+    "description": "Essential: The final answer for part (1) must be correctly expressed as k = sqrt(((1+λ)h)/((1-λ)H)).",
+    "weight": 5
+  },
+  {
+    "title": "Force magnitude expression",
+    "description": "Essential: The final answer for part (2) must be correctly expressed as F0 = (2mg(1-λ)(H-h))/(h-h0).",
+    "weight": 5
+  },
+  {
+    "title": "Impulse magnitude expression",
+    "description": "Essential: The final answer for part (3) must be correctly expressed as I = m * sqrt( (2g(1-λ)(H-h)(H^(N+1)-h^(N+1))) / (h(H^N - h^N)) ).",
+    "weight": 5
+  },
+  {
+    "title": "Net acceleration analysis",
+    "description": "Important: The solution must correctly apply Newton's second law to find the net accelerations for descent (a_down = (1-λ)g) and ascent (a_up = (1+λ)g).",
+    "weight": 4
+  },
+  {
+    "title": "Energy or kinematics application",
+    "description": "Important: The solution must correctly use kinematic equations (v^2 = u^2 + 2as) or work-energy principles to relate velocities to heights H and h.",
+    "weight": 4
+  },
+  {
+    "title": "Iterative height pattern",
+    "description": "Important: For part (3), the solution must establish the geometric series for rebound heights after multiple strikes and impacts.",
+    "weight": 3
+  },
+  {
+    "title": "Work from variable force",
+    "description": "Optional: For part (2), the solution may correctly calculate the work done by the triangular force F(y) as (1/2)*F0*(h-h0).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in accelerations",
+    "description": "Pitfall: Incorrectly assigning the direction of air resistance, leading to wrong signs in net acceleration expressions (e.g., a_up = (1-λ)g).",
+    "weight": -2
+  },
+  {
+    "title": "Velocity ratio misapplication",
+    "description": "Pitfall: Using the velocity ratio k incorrectly in later parts, such as confusing pre- and post-collision velocities in energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Series summation error",
+    "description": "Pitfall: Making an error in summing the geometric series for the rebound heights in part (3), leading to an incorrect final expression for I.",
+    "weight": -1
+  }
+]

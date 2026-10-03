@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for P_0(t) - bar{P}_0(t) must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Derivation",
+    "description": "Important Criteria: The derivation of P_0(t) and bar{P}_0(t) must be shown clearly, including the use of the correct wave function.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Definitions",
+    "description": "Important Criteria: Definitions of tau_L, tau_S, gamma_L, and gamma_S must be correctly applied in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Exponential Terms",
+    "description": "Optional Criteria: The exponential decay terms in the probabilities should be correctly identified and simplified.",
+    "weight": 2
+  },
+  {
+    "title": "Cosine Factor",
+    "description": "Optional Criteria: The cosine factor in the final expression should be derived and presented accurately.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing or incorrect signs in the cosine term or exponential decay factors will lead to a significant error.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the derivation, particularly in the context of energy and time.",
+    "weight": -1
+  }
+]

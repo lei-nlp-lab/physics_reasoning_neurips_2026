@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Source Current",
+    "description": "Essential: Correctly calculates the total current from the power source using Ohm's law for the complete circuit, accounting for all resistors and internal resistance.",
+    "weight": 5
+  },
+  {
+    "title": "Plate Voltage",
+    "description": "Important: Correctly determines the voltage across the capacitor plates by applying Ohm's law to the relevant resistor in the circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Electric Field Strength",
+    "description": "Essential: Correctly calculates the uniform electric field strength between the plates using the relationship between voltage and plate separation.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance Setup",
+    "description": "Important: States the correct equilibrium condition where the droplet's weight equals the electric force, mg = qE.",
+    "weight": 4
+  },
+  {
+    "title": "Charge Sign",
+    "description": "Essential: Correctly identifies that the droplet must carry a negative charge to be suspended against gravity with the given field direction.",
+    "weight": 5
+  },
+  {
+    "title": "Charge Magnitude",
+    "description": "Essential: Correctly solves the force balance equation for the magnitude of the droplet's charge.",
+    "weight": 5
+  },
+  {
+    "title": "Equivalent Resistance Error",
+    "description": "Pitfall: Incorrectly combines the resistors in the circuit (e.g., treating them as parallel or omitting the internal resistance).",
+    "weight": -2
+  },
+  {
+    "title": "Field Direction Mistake",
+    "description": "Pitfall: Incorrectly assigns the sign of the charge (e.g., stating positive) based on a misunderstanding of the force balance or field direction.",
+    "weight": -1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Demonstrates dimensional analysis or unit consistency in the final expressions for current, field, and charge.",
+    "weight": 1
+  }
+]

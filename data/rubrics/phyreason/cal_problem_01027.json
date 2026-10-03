@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final temperature expression",
+    "description": "Essential Criteria: The answer must correctly state the final temperature as T₂ = (V₂/V₁) T₁.",
+    "weight": 5
+  },
+  {
+    "title": "Final internal energy expression",
+    "description": "Essential Criteria: The answer must correctly state the change in internal energy as ΔU = Q₁ - (p₀ + mg/S)(V₂ - V₁).",
+    "weight": 5
+  },
+  {
+    "title": "Pressure identification",
+    "description": "Important Criteria: The solution must identify that the process is isobaric with pressure p = p₀ + mg/S.",
+    "weight": 4
+  },
+  {
+    "title": "First law application",
+    "description": "Important Criteria: The solution must apply the first law of thermodynamics, ΔU = Q + W.",
+    "weight": 4
+  },
+  {
+    "title": "Work calculation sign",
+    "description": "Important Criteria: The solution must correctly calculate the work done by the gas as W = -pΔV.",
+    "weight": 3
+  },
+  {
+    "title": "Charles's Law reasoning",
+    "description": "Optional Criteria: The solution may explicitly invoke Charles's Law or the ideal gas law for an isobaric process.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may demonstrate that the terms in the internal energy expression have consistent units of energy.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall Criteria: Penalize if the work done on/by the gas has the incorrect sign (e.g., W = +pΔV).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect pressure value",
+    "description": "Pitfall Criteria: Penalize if the gas pressure is stated incorrectly, such as omitting the piston's contribution (mg/S).",
+    "weight": -2
+  }
+]

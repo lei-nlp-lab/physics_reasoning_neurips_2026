@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic force balance",
+    "description": "Essential: The student must correctly set up the force balance equation for static equilibrium: magnetic force component up the incline equals gravitational component down the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Essential: The student must correctly compute the circuit current using Ohm's law with total resistance (R1 + R2 + r) for both parts.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic induction magnitude",
+    "description": "Essential: The final answer for part (1) must be B = 1.2 T (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Dynamic force equation",
+    "description": "Important: For part (2), the student must apply Newton's second law with net force = ma, accounting for both magnetic and gravitational components.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration magnitude and direction",
+    "description": "Essential: The final answer for part (2) must be a = 1.2 m/s² up the incline (or equivalent with correct sign/description).",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of force components",
+    "description": "Important: The student must correctly resolve the magnetic force (BIL) along the incline using cosθ and the gravitational component using sinθ.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Penalize if the student reverses the direction of magnetic or gravitational force in the equation, leading to wrong sign/acceleration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award if the student explicitly shows unit analysis or converts all quantities to SI units consistently.",
+    "weight": 1
+  },
+  {
+    "title": "Circuit resistance omission",
+    "description": "Pitfall: Penalize if the student omits internal resistance r or rod resistance R1 in total circuit resistance calculation.",
+    "weight": -1
+  }
+]

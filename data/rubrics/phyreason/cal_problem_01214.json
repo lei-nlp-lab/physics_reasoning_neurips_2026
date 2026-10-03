@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity of ball B",
+    "description": "Essential: Correctly calculates the velocity of ball B as 1.75 m/s using the average velocity over interval AC.",
+    "weight": 5
+  },
+  {
+    "title": "Number of balls above A",
+    "description": "Essential: Correctly determines there are 2 balls rolling above ball A at the time of the photo.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Important: Applies the correct formula for uniform acceleration (e.g., Δs = a t²) to find a = 5 m/s² from AB and BC.",
+    "weight": 4
+  },
+  {
+    "title": "Time of flight for B",
+    "description": "Important: Correctly uses v = a t to find the falling time of ball B (0.35 s) from its velocity and the acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Time of flight for A",
+    "description": "Important: Correctly subtracts the 0.1 s interval from ball B's time to find ball A's falling time (0.25 s).",
+    "weight": 3
+  },
+  {
+    "title": "Unit conversion",
+    "description": "Optional: Converts distances from cm to m consistently before performing calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Misapplied average velocity",
+    "description": "Pitfall: Uses an incorrect formula for the average or instantaneous velocity of ball B (e.g., using only AB or BC).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or interval error",
+    "description": "Pitfall: Makes an error with the time interval (0.1 s) when finding the time for ball A or the number of balls.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential: The answer must state the final common speed as 0.4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation application",
+    "description": "Important: The solution must correctly apply momentum conservation to the block-cart system.",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss to friction",
+    "description": "Important: The solution must equate the work done by kinetic friction to the system's loss in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum length calculation",
+    "description": "Essential: The answer for the minimum cart length must be 0.4 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction force",
+    "description": "Important: The work-energy step must use the correct kinetic friction force (μmg).",
+    "weight": 3
+  },
+  {
+    "title": "Relative motion distance",
+    "description": "Optional: The solution may explicitly identify the friction work distance as the block's slip length relative to the cart.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the work done by friction is given a positive sign in the energy balance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Penalize if final answers lack correct units (m/s, m) or use inconsistent units in calculations.",
+    "weight": -1
+  }
+]

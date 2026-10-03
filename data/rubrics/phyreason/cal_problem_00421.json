@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct height calculation",
+    "description": "Essential: Student must compute the correct height using free-fall displacement formula with given time.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final velocity",
+    "description": "Essential: Student must compute the correct magnitude of velocity upon impact using appropriate kinematic relation.",
+    "weight": 5
+  },
+  {
+    "title": "Use of correct kinematic equations",
+    "description": "Important: Student must apply displacement and velocity formulas for constant acceleration from rest.",
+    "weight": 3
+  },
+  {
+    "title": "Proper value for g",
+    "description": "Important: Student must use g = 9.8 m/s² (or consistent value) in calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional: Student should include correct units (m and m/s) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign confusion in velocity",
+    "description": "Pitfall: Student incorrectly uses sign or direction for velocity magnitude, or confuses speed with velocity vector.",
+    "weight": -1
+  },
+  {
+    "title": "Using wrong time or formula",
+    "description": "Pitfall: Student uses t=5s incorrectly (e.g., in v=gt/2) or applies non-free-fall formulas.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Electric field strength",
+    "description": "Essential: Correctly derives and states the final answer for part (1): E = (m v₀² sinβ cosβ)/(q L).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum velocity condition",
+    "description": "Essential: Correctly states the final answer for part (2): v_m = (q B d)/m.",
+    "weight": 5
+  },
+  {
+    "title": "Fourth crossing coordinates",
+    "description": "Essential: Correctly states the final answer for part (3): coordinates are (d, d, 0).",
+    "weight": 5
+  },
+  {
+    "title": "Time difference result",
+    "description": "Essential: Correctly states the final answer for part (4): Δt = (2 + 2√2)πm/(qB).",
+    "weight": 5
+  },
+  {
+    "title": "Motion analysis in fields",
+    "description": "Important: Correctly applies Newton's second law and kinematics to relate the electric field to the ion's motion from point A to O.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric confinement reasoning",
+    "description": "Important: For part (2), correctly uses the geometry of the magnetic field regions (r₁ ≤ d and r₂ ≤ 3d) to derive the velocity constraint.",
+    "weight": 4
+  },
+  {
+    "title": "Cyclotron motion geometry",
+    "description": "Important: For parts (3) and (4), correctly calculates the cyclotron radii in both magnetic fields using r = mv/(qB⊥) and analyzes the resulting trajectory patterns.",
+    "weight": 4
+  },
+  {
+    "title": "Kinetic energy equivalence",
+    "description": "Important: For part (4), correctly equates the kinetic energies of ions M and N to find ion N's velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Period and intersection analysis",
+    "description": "Optional: Correctly calculates the cyclotron periods and identifies the first intersection point of the two helical trajectories.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns the direction of the electric or magnetic force, or misinterprets the geometry of the magnetic field regions.",
+    "weight": -2
+  },
+  {
+    "title": "Radius formula misuse",
+    "description": "Pitfall: Uses the full magnetic field magnitude B instead of the perpendicular component B⊥ when calculating the radius in the tilted magnetic field II.",
+    "weight": -2
+  }
+]

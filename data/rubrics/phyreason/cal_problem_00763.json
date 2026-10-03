@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final numerical answer",
+    "description": "Essential Criteria: The response must state the minimum horizontal speed relative to ground as approximately 2.9 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Initial momentum setup",
+    "description": "Important Criteria: The solution must correctly calculate the initial total momentum of the system before the jump, accounting for both carts and the person moving in opposite directions.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum conservation for jump",
+    "description": "Important Criteria: The solution must apply momentum conservation separately for the jump from cart A and the landing on cart B, with correct mass assignments.",
+    "weight": 4
+  },
+  {
+    "title": "No-collision condition",
+    "description": "Important Criteria: The solution must correctly state the kinematic condition (v₁ ≥ v₂) required to prevent the carts from colliding after the transfer.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic solving",
+    "description": "Optional Criteria: The solution should show clear algebraic manipulation to solve for the unknown person's speed from the system of equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall Criteria: Deduct points if the solution uses incorrect signs for the velocities of the oppositely moving carts in the momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Relative vs. ground speed",
+    "description": "Pitfall Criteria: Deduct points if the solution confuses the person's speed relative to the ground with speed relative to a cart, or fails to specify the reference frame for the answer.",
+    "weight": -1
+  }
+]

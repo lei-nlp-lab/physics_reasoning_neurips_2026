@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Induced EMF magnitude",
+    "description": "Essential: The student must correctly calculate the motional EMF using the formula E = B L v, obtaining 5 V.",
+    "weight": 5
+  },
+  {
+    "title": "Current magnitude",
+    "description": "Essential: The student must correctly calculate the total current using Ohm's Law for the series circuit, I = E / (R + r), obtaining 1 A.",
+    "weight": 5
+  },
+  {
+    "title": "Current direction reasoning",
+    "description": "Important: The student must apply Lenz's Law or the right-hand rule to determine the direction of the induced current in the rod and the path through the resistor.",
+    "weight": 3
+  },
+  {
+    "title": "Force magnitude",
+    "description": "Essential: The student must correctly calculate the applied force from the magnetic force on the rod at equilibrium, using F = B I L, obtaining 1 N.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit analysis",
+    "description": "Important: The student must recognize the rod and resistor are in series, so the total resistance is R + r for calculating the current.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium condition",
+    "description": "Important: The student must state or imply that the pulling force balances the magnetic force because the rod moves at constant velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should show units (V, A, N) consistent with the calculated quantities.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect total resistance",
+    "description": "Pitfall: Using only R or only r in the Ohm's Law calculation for the current, instead of the series sum (R + r).",
+    "weight": -2
+  },
+  {
+    "title": "Wrong force formula",
+    "description": "Pitfall: Using an incorrect formula for the magnetic force (e.g., F = B v L) or the pulling force, neglecting the current.",
+    "weight": -2
+  }
+]

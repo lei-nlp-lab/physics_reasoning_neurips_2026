@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average Energy Expression",
+    "description": "Essential Criteria: The correct expression for average energy per particle must be derived.",
+    "weight": 5
+  },
+  {
+    "title": "Low Temperature Limit",
+    "description": "Important Criteria: The behavior of average energy as T approaches 0 must be correctly computed.",
+    "weight": 4
+  },
+  {
+    "title": "High Temperature Limit",
+    "description": "Important Criteria: The behavior of average energy as T approaches infinity must be correctly computed.",
+    "weight": 4
+  },
+  {
+    "title": "Specific Heat Expression",
+    "description": "Essential Criteria: The correct expression for specific heat must be derived.",
+    "weight": 5
+  },
+  {
+    "title": "Specific Heat Low Limit",
+    "description": "Important Criteria: The specific heat as T approaches 0 must be correctly computed.",
+    "weight": 4
+  },
+  {
+    "title": "Specific Heat High Limit",
+    "description": "Important Criteria: The specific heat as T approaches infinity must be correctly computed.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the expressions for energy or specific heat must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Units must be consistent throughout the derivations and final answers.",
+    "weight": -1
+  }
+]

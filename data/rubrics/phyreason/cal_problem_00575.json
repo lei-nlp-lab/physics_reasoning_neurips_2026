@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct turns ratio",
+    "description": "Essential: The answer must give the turns ratio as 1:20 or equivalent (e.g., 0.05).",
+    "weight": 5
+  },
+  {
+    "title": "Correct transmission current",
+    "description": "Essential: The answer must give the transmission current as approximately 0.90 A or 0.909 A.",
+    "weight": 5
+  },
+  {
+    "title": "Applies transformer voltage ratio",
+    "description": "Important: The solution correctly uses the relationship n1/n2 = U1/U2 with the given voltages.",
+    "weight": 3
+  },
+  {
+    "title": "Uses correct power formula",
+    "description": "Important: The transmission current is calculated using I = P / U with the high transmission voltage (220 kV).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution shows proper unit conversion (kW to W, kV to V) or explicitly states units are consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses input/output voltages",
+    "description": "Pitfall: Using the plant output voltage (11 kV) instead of the transmission voltage (220 kV) to calculate the transmission current.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect ratio direction",
+    "description": "Pitfall: Stating the turns ratio as 20:1 (secondary:primary) instead of the requested primary:secondary (1:20).",
+    "weight": -1
+  }
+]

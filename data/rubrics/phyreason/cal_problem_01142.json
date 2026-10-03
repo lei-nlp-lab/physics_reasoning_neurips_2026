@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct emf expression",
+    "description": "Essential: The response must provide the instantaneous induced emf as e = 500 sin(100πt) V or equivalent with correct amplitude and angular frequency.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Joule heat",
+    "description": "Essential: The response must give the Joule heat per rotation as 500 J (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum emf calculation",
+    "description": "Important: The student should correctly compute the maximum emf using E_m = NBSω, obtaining 500 V.",
+    "weight": 3
+  },
+  {
+    "title": "Effective value derivation",
+    "description": "Important: The student must convert the maximum emf to its effective value using E = E_m/√2 for sinusoidal AC.",
+    "weight": 3
+  },
+  {
+    "title": "Circuit resistance inclusion",
+    "description": "Important: The Joule heat calculation must use the total resistance (R + r = 5 Ω) in the power formula.",
+    "weight": 3
+  },
+  {
+    "title": "Period for one rotation",
+    "description": "Important: The student should correctly determine the time for one full rotation as T = 2π/ω = 0.02 s.",
+    "weight": 2
+  },
+  {
+    "title": "Sine vs cosine error",
+    "description": "Pitfall: Using cosine instead of sine for the instantaneous emf when timing starts from the neutral plane.",
+    "weight": -2
+  },
+  {
+    "title": "Peak vs RMS confusion",
+    "description": "Pitfall: Using the peak emf (500 V) instead of the effective value when calculating Joule heat.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Failing to include proper units (V, J) or using incorrect units in final answers.",
+    "weight": -1
+  }
+]

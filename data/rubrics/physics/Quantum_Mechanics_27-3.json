@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Corrections",
+    "description": "Essential Criteria: The student must correctly identify and express the first order energy corrections E_{+} and E_{-} as (2 ± ε) ℏω.",
+    "weight": 5
+  },
+  {
+    "title": "Final Wavefunction Corrections",
+    "description": "Essential Criteria: The student must provide the correct expression for the first order wavefunction corrections |±⟩ in terms of |±⟩^{(0)} and ε.",
+    "weight": 5
+  },
+  {
+    "title": "Second Order Energy Correction",
+    "description": "Essential Criteria: The student must calculate and express the second order energy correction E^{(2)} as -2 ε² ℏω.",
+    "weight": 5
+  },
+  {
+    "title": "Matrix Elements Calculation",
+    "description": "Important Criteria: The student should correctly compute the matrix elements M_{ij} = ⟨i|H'|j⟩ for the relevant states.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Theory Application",
+    "description": "Important Criteria: The student must demonstrate a clear understanding of how perturbation theory applies to the given Hamiltonian.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Parity",
+    "description": "Optional Criteria: The student may discuss the role of parity in selecting the relevant states for perturbation corrections.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the expressions for energy corrections and wavefunction corrections.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all terms are consistent in units, particularly when defining ε.",
+    "weight": -1
+  }
+]

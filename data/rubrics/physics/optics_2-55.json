@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Intensity Equation",
+    "description": "Essential Criteria: The student must provide the correct intensity distribution equation I = I_0 sin^2(N phi/2) / sin^2(phi/2).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Number of Maxima",
+    "description": "Essential Criteria: The student must correctly identify the number of subsidiary maxima as N - 2.",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Intensities",
+    "description": "Important Criteria: The student should explain why the intensities of subsidiary maxima are not identical, referencing the behavior of the sine function.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Variables",
+    "description": "Important Criteria: The student must correctly define and use the variables d, N, and lambda in their calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the derivation of the intensity equation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student must ensure that no factors are omitted in the final expressions for intensity and number of maxima.",
+    "weight": -1
+  }
+]

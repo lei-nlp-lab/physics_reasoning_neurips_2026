@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Definitions of Particles",
+    "description": "Essential Criteria: Provide accurate definitions for boson, fermion, hadron, lepton, and baryon.",
+    "weight": 5
+  },
+  {
+    "title": "Examples of Particles",
+    "description": "Essential Criteria: List correct examples for each particle type mentioned.",
+    "weight": 5
+  },
+  {
+    "title": "Photon Classification",
+    "description": "Essential Criteria: Correctly identify which particle names apply to the photon.",
+    "weight": 5
+  },
+  {
+    "title": "Clarity of Definitions",
+    "description": "Important Criteria: Ensure definitions are clear and concise without ambiguity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Examples",
+    "description": "Important Criteria: Provide accurate examples that correspond to the definitions given.",
+    "weight": 4
+  },
+  {
+    "title": "Common Misunderstandings",
+    "description": "Pitfall Criteria: Avoid confusion between hadrons and baryons, as well as misclassifying the photon.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Use appropriate terminology consistently throughout the response.",
+    "weight": 2
+  }
+]

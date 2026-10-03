@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The student must correctly identify T_min = ln(2)/4.6 K as the minimum temperature for the process.",
+    "weight": 5
+  },
+  {
+    "title": "Clausius-Clapeyron Equation",
+    "description": "Important Criteria: The student should correctly state and apply the Clausius-Clapeyron equation to relate pressure and temperature changes.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Important Criteria: The student must derive the expressions for liquid and solid entropy correctly, including the contribution from nuclear spins.",
+    "weight": 4
+  },
+  {
+    "title": "Graph Quality",
+    "description": "Optional Criteria: The student should provide a semi-quantitative p-T diagram that accurately reflects the behavior of He^3 at low temperatures.",
+    "weight": 3
+  },
+  {
+    "title": "Understanding of Phase Behavior",
+    "description": "Important Criteria: The student must explain how increasing pressure at low temperatures leads to cooling of the solid-liquid mixture.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid incorrect signs in the Clausius-Clapeyron equation or in the interpretation of dp/dT.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations and explanations.",
+    "weight": -1
+  }
+]

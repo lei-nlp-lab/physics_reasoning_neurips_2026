@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct velocity at 1s",
+    "description": "Essential: Student must calculate and state the correct numerical velocity at t=1s (6 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity at 3s",
+    "description": "Essential: Student must recognize the car stops before 3s and state the velocity at t=3s is 0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Proper kinematic equation",
+    "description": "Important: Student applies the correct velocity-time equation (v = v₀ + at) for uniformly accelerated motion.",
+    "weight": 3
+  },
+  {
+    "title": "Considers stopping time",
+    "description": "Important: Student determines or acknowledges the stopping time (2s) to correctly handle the 3s case.",
+    "weight": 4
+  },
+  {
+    "title": "Correct sign for acceleration",
+    "description": "Important: Student uses a negative acceleration value (-6 m/s²) to represent deceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional: Student includes correct units (m/s) with both final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Plugging in time after stop",
+    "description": "Pitfall: Student incorrectly uses v = v₀ + at for t=3s without considering the car has already stopped.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in calculation",
+    "description": "Pitfall: Student makes an arithmetic sign error when calculating v = 12 + (-6)*t.",
+    "weight": -1
+  }
+]

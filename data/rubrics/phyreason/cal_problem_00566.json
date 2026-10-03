@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum speed value",
+    "description": "Essential: The response must state or derive the minimum speed as 1.0 × 10⁶ m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum speed value",
+    "description": "Essential: The response must state or derive the maximum speed as 5.0 × 10⁶ m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Longest time value",
+    "description": "Essential: The response must state or derive the longest duration as 3.14 × 10⁻⁶ s.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for radii",
+    "description": "Important: The solution must correctly apply geometry to find the minimum (1 m) and maximum (5 m) radii of the circular trajectories.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force relation",
+    "description": "Important: The solution must apply the formula v = qBR/m to relate speed to the trajectory radius.",
+    "weight": 4
+  },
+  {
+    "title": "Time from motion period",
+    "description": "Important: For the longest time, the solution must connect the time to half the period (T/2) of the circular motion.",
+    "weight": 3
+  },
+  {
+    "title": "Correct charge sign usage",
+    "description": "Pitfall: Deduct points if the negative sign of the charge leads to an incorrect direction of force or affects the speed magnitude calculation.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution demonstrates consistent use of SI units throughout the calculation.",
+    "weight": 1
+  }
+]

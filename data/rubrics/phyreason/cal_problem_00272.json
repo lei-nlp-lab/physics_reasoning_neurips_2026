@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total time correct",
+    "description": "Essential: The final answer for total falling time must be 5 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Final displacement correct",
+    "description": "Essential: The final answer for displacement in the last 2 seconds must be 80 meters.",
+    "weight": 5
+  },
+  {
+    "title": "Equation for total displacement",
+    "description": "Important: The solution must correctly apply the kinematic equation h = (1/2)gt² for the entire fall.",
+    "weight": 4
+  },
+  {
+    "title": "Equation for displacement before final second",
+    "description": "Important: The solution must set up the relation for the displacement up to (t-1) seconds using the given fraction (9/25 of total).",
+    "weight": 4
+  },
+  {
+    "title": "Solves for time algebraically",
+    "description": "Important: The solution must correctly solve the simultaneous equations to find the total time t.",
+    "weight": 3
+  },
+  {
+    "title": "Calculates displacement for last 2s",
+    "description": "Important: The solution must correctly find the displacement in the last 2 seconds by subtracting the displacement in the first 3 seconds from the total.",
+    "weight": 3
+  },
+  {
+    "title": "Uses correct g value",
+    "description": "Optional: The solution explicitly uses g = 10 m/s² in all calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Misinterprets final second fraction",
+    "description": "Pitfall: Incorrectly setting up the equation for the displacement in the final second (e.g., using it as 9/25 of the remaining distance).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Omitting units in the final answer or using an incorrect unit for displacement or time.",
+    "weight": -1
+  }
+]

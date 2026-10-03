@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for n(r) must be correctly stated as n(r) = n_0 - r^2/(2dF).",
+    "weight": 5
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The student should correctly identify and state the initial conditions, such as n(0) = n_0.",
+    "weight": 3
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Important Criteria: The student must show the derivation leading to the expression for n(r) using the lens formula.",
+    "weight": 4
+  },
+  {
+    "title": "Assumption Justification",
+    "description": "Optional Criteria: The student should mention the assumption of thin lens (d << a) and its relevance to the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Limit Case Analysis",
+    "description": "Optional Criteria: The student could discuss the limiting case where F is much greater than r.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign errors in the expression for n(r) derived from the lens formula.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all terms in the final expression are dimensionally consistent.",
+    "weight": -1
+  }
+]

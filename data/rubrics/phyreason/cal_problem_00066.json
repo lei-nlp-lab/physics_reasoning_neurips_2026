@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates v₀ = 4 m/s using work-energy theorem on the inclined track with friction.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Height h_min",
+    "description": "Essential: Correctly determines h_min = 0.45 m from the condition that the ball completes the entire motion.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum Horizontal Distance",
+    "description": "Essential: Correctly calculates x_max = 0.8 m from the projectile motion after the prism collision.",
+    "weight": 5
+  },
+  {
+    "title": "Collision Analysis",
+    "description": "Important: Applies momentum and energy conservation for the elastic collision to find post-collision velocities.",
+    "weight": 4
+  },
+  {
+    "title": "Circular Motion Condition",
+    "description": "Important: Applies Newton's second law at point E to find the minimum speed for circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation in Loop",
+    "description": "Important: Uses conservation of mechanical energy between points B, E, and F, accounting for radii R and r.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile Motion Setup",
+    "description": "Important: Correctly sets up kinematic equations for the projectile motion after point F, relating horizontal and vertical displacements.",
+    "weight": 3
+  },
+  {
+    "title": "Friction Calculation",
+    "description": "Pitfall: Incorrectly calculates the friction force or the distance along the incline (h/sinθ).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or Unit Error",
+    "description": "Pitfall: Makes sign errors in energy equations or unit inconsistencies in final answers.",
+    "weight": -1
+  },
+  {
+    "title": "Optimization Step",
+    "description": "Optional: Shows the mathematical optimization (e.g., derivative) to maximize the horizontal distance x.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Hamiltonian Matrix",
+    "description": "Essential Criteria: The Hamiltonian matrix must be correctly constructed and expressed in terms of the constants and time-dependent magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Spin State Evolution",
+    "description": "Important Criteria: The time-dependent spin state must be derived correctly from the Schrödinger equation with appropriate initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Calculation",
+    "description": "Essential Criteria: The probability of measuring S_x = -hbar/2 must be accurately calculated from the evolved spin state.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Field Requirement",
+    "description": "Essential Criteria: The condition for the minimum magnetic field required for a complete spin flip must be correctly stated and derived.",
+    "weight": 5
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The initial conditions for the spin state must be correctly identified and applied in the solution.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units in the calculations should be consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or incorrect application of the Hamiltonian should be avoided.",
+    "weight": -2
+  }
+]

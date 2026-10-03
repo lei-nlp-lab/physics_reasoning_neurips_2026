@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The final expression for the ground state energy must be correctly stated as E'_{11} = (pi^2 * hbar^2)/(m * L^2) + (3a)/(2L).",
+    "weight": 5
+  },
+  {
+    "title": "Initial Energy Calculation",
+    "description": "Important Criteria: The calculation of the initial ground state energy E_{11} must be correctly derived as (hbar^2 * pi^2)/(m * L^2).",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Setup",
+    "description": "Important Criteria: The perturbation Hamiltonian H' = a * delta(x1 - x2) must be correctly identified and set up.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The evaluation of the integral for the correction to the energy must be correctly performed, leading to the term (3a)/(2L).",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units of the final expression should be checked for consistency, ensuring energy units are correct.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the perturbation term or the final energy expression.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that no factors are omitted in the calculation of the integral or the final energy expression.",
+    "weight": -2
+  }
+]

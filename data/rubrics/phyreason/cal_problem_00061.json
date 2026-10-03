@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Height from energy conservation",
+    "description": "Essential: Correctly applies conservation of energy or kinetic energy theorem to find H = 0.8 m from given v = 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Accelerations of B and C",
+    "description": "Important: Correctly calculates accelerations a_B = 1 m/s² (B) and a_C = 5 m/s² (C) using Newton's second law and given friction coefficients.",
+    "weight": 4
+  },
+  {
+    "title": "Time to common velocity",
+    "description": "Important: Correctly sets up and solves kinematics equation v - a_C*t1 = v_0 + a_B*t1 to find t1 = 0.5 s for part (2) condition.",
+    "weight": 4
+  },
+  {
+    "title": "Range of s condition",
+    "description": "Essential: Correctly determines the lower bound s_min = 0.625 m from B's displacement before A catches B, and upper bound s_max = 1.707 m from B's displacement when A and B meet, for part (2).",
+    "weight": 5
+  },
+  {
+    "title": "Work by friction on C",
+    "description": "Essential: Correctly calculates work W = -6 J using W = -f_2 * s_C, with proper displacement s_C = 1.2 m for given s = 0.48 m in part (3).",
+    "weight": 5
+  },
+  {
+    "title": "Momentum change calculation",
+    "description": "Essential: Correctly computes final momentum change Δp = -9.02 kg·m/s (magnitude 9.02) by finding initial and final system momenta for part (4).",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocities",
+    "description": "Important: Correctly solves elastic collision equations between A and B after B rebounds from wall, obtaining v_A ≈ -2.02 m/s and v_B ≈ 0.246 m/s.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Uses incorrect sign for velocities (especially after collisions or for direction changes) when calculating momentum or displacements.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force confusion",
+    "description": "Pitfall: Confuses which friction coefficient (μ1 or μ2) applies to which interface, or misapplies Newton's second law for combined systems.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows unit analysis for key steps (e.g., energy, work, momentum) to verify dimensional consistency.",
+    "weight": 1
+  }
+]

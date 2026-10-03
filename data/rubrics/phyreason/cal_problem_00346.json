@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: The final answer for part (1) must be E = (√3 m g) / q.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U_AB",
+    "description": "Essential: The final answer for part (2) must be U_AB = -(√3 m g L) / (2 q).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum potential energy",
+    "description": "Essential: The final answer for part (3) must be (√3 m g L) / 2.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must apply the work-energy theorem, equating the change in kinetic energy to the work done by gravity and the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for potential difference",
+    "description": "Important: The calculation for E must correctly use the horizontal displacement L - L cos 60° as the distance for the potential difference U_BA.",
+    "weight": 3
+  },
+  {
+    "title": "Potential reference handling",
+    "description": "Important: The solution must correctly relate potentials at points O, A, and B, given that the potential at O is defined as zero.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Incorrect sign for the work done by the electric field (qU_AB) in the work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing U_AB and U_BA",
+    "description": "Pitfall: Using U_AB instead of U_BA (or vice versa) in the formula E = U/d for the uniform field.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers should have correct units (N/C for E, V for potential, J for energy).",
+    "weight": 1
+  }
+]

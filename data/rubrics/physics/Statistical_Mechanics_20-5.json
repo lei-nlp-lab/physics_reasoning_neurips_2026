@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the maximum electrical energy generated in kWhr.",
+    "weight": 5
+  },
+  {
+    "title": "Efficiency Calculation",
+    "description": "Important Criteria: The student should correctly apply the Carnot efficiency formula to calculate the efficiency of the heat engine.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Transfer Equation",
+    "description": "Important Criteria: The student must derive and use the correct expression for the heat drawn from the rock, incorporating mass, specific heat, and temperature change.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The student should set up the integral correctly to calculate the total work done by the heat engine.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Conversion",
+    "description": "Optional Criteria: The student should convert the final energy result from Joules to kWhr correctly, using the conversion factor.",
+    "weight": 2
+  },
+  {
+    "title": "Temperature Conversion",
+    "description": "Optional Criteria: The student should correctly convert temperatures from Celsius to Kelvin when applying the Carnot efficiency formula.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the heat transfer calculations and the work done expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as density and volume, are included in the calculations.",
+    "weight": -2
+  }
+]

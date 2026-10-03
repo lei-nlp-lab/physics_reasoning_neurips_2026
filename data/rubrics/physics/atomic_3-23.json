@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Spin Values",
+    "description": "Essential Criteria: Provide the correct spin values for pi+ (J_pi+), pi- (J_pi-), and pi0 (J_pi0).",
+    "weight": 5
+  },
+  {
+    "title": "Final Parity Values",
+    "description": "Essential Criteria: Provide the correct parity values for pi+ (P_pi+), pi- (P_pi-), and pi0 (P_pi0).",
+    "weight": 5
+  },
+  {
+    "title": "Final Isospin Value",
+    "description": "Essential Criteria: Provide the correct isospin value for pions (I_pi).",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning for Spin",
+    "description": "Important Criteria: Clearly explain the reasoning or experiments used to determine the spin of each pion.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning for Parity",
+    "description": "Important Criteria: Clearly explain the reasoning or experiments used to determine the parity of each pion.",
+    "weight": 4
+  },
+  {
+    "title": "Isospin Explanation",
+    "description": "Important Criteria: Discuss the experiments or reasoning used to deduce the isospin of pions.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as incorrect spin or parity assignments.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Notation",
+    "description": "Optional Criteria: Use correct units and notation throughout the response.",
+    "weight": 2
+  },
+  {
+    "title": "Experimental Details",
+    "description": "Optional Criteria: Include detailed descriptions of the experiments conducted to determine properties.",
+    "weight": 3
+  }
+]

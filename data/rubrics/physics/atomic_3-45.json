@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of approximately 25 interactions.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Cross Section",
+    "description": "Important Criteria: The student should correctly apply the given cross section value in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Nucleon Calculation",
+    "description": "Important Criteria: The student must correctly calculate the number of nucleons encountered using the provided density and dimensions.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Formula Application",
+    "description": "Important Criteria: The student should use the correct formula for calculating the total number of interactions involving neutrinos.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or miscalculating the number of nucleons.",
+    "weight": -2
+  }
+]

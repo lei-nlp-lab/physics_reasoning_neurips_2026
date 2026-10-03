@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Orbit Equations",
+    "description": "Essential Criteria: Provide the correct final equations for the orbits based on the derived expressions.",
+    "weight": 5
+  },
+  {
+    "title": "Lagrangian Formulation",
+    "description": "Important Criteria: Clearly derive the Lagrangian from the kinetic and potential energy expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Polar Coordinates",
+    "description": "Important Criteria: Correctly apply polar coordinates in the analysis of the motion under the central force.",
+    "weight": 3
+  },
+  {
+    "title": "Parameter Dependency Discussion",
+    "description": "Important Criteria: Discuss how the nature of the orbits depends on the parameters k and b.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: Avoid common errors in signs or missing factors in the equations of motion.",
+    "weight": -2
+  }
+]

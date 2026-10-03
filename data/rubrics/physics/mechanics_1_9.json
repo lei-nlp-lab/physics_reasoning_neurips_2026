@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer must correctly express the horizontal distance as sqrt(2*mu*R*h).",
+    "weight": 5
+  },
+  {
+    "title": "Friction Calculation",
+    "description": "Important Criteria: The calculation of the maximum static friction force must be correctly derived as f = mu*mg.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity Derivation",
+    "description": "Important Criteria: The derivation of the horizontal velocity v must be correctly shown as v = sqrt(mu*R*g).",
+    "weight": 4
+  },
+  {
+    "title": "Time Calculation",
+    "description": "Important Criteria: The time to fall distance h must be correctly calculated as t = sqrt(2*h/g).",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units used in calculations should be consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or miscalculating the friction force.",
+    "weight": -2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Consideration of limiting cases, such as what happens when mu approaches zero or h approaches infinity.",
+    "weight": 1
+  }
+]

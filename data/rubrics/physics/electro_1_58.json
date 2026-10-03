@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total Current Expression",
+    "description": "Essential Criteria: The expression for the total current I(t) must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Joule Heat Calculation",
+    "description": "Essential Criteria: The total Joule heat W must be accurately calculated and expressed.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ohm's Law",
+    "description": "Important Criteria: The application of Ohm's law to relate current density and electric field must be correctly shown.",
+    "weight": 4
+  },
+  {
+    "title": "Charge Conservation",
+    "description": "Important Criteria: The use of charge conservation in deriving the differential equation must be clearly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Equivalence",
+    "description": "Important Criteria: The relationship between Joule heat and decrease in electrostatic energy must be correctly established.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Units",
+    "description": "Optional Criteria: All expressions should include correct units for current and energy.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign mistakes in the equations, particularly in the exponential decay term.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Ensure that all factors, such as constants and coefficients, are included in the final expressions.",
+    "weight": -2
+  }
+]

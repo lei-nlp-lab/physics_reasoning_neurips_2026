@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Effective EMF Value",
+    "description": "Essential: The student must correctly calculate or state the effective EMF as 100 V.",
+    "weight": 5
+  },
+  {
+    "title": "Rotation Period",
+    "description": "Essential: The student must correctly read or state the period from the graph as 0.04 s.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Velocity",
+    "description": "Essential: The student must correctly calculate the angular velocity as 50π rad/s.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Peak Value",
+    "description": "Important: The student must correctly identify the peak EMF from the graph as 100√2 V.",
+    "weight": 3
+  },
+  {
+    "title": "Apply EMF-Period Relationship",
+    "description": "Important: The student must correctly relate angular velocity to period using ω = 2π/T.",
+    "weight": 3
+  },
+  {
+    "title": "Graph Interpretation",
+    "description": "Optional: The student correctly interprets the sinusoidal graph to identify amplitude and period.",
+    "weight": 1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: The student includes correct units (V, s, rad/s) with their final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Peak vs. RMS Confusion",
+    "description": "Pitfall: The student confuses peak and RMS values, e.g., stating the effective value as 100√2 V.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect Period Reading",
+    "description": "Pitfall: The student misreads the period from the graph (e.g., 0.02 s or 0.08 s).",
+    "weight": -2
+  },
+  {
+    "title": "Formula Misapplication",
+    "description": "Pitfall: The student uses an incorrect formula for angular velocity, e.g., ω = 1/T or ω = 2πf with wrong f.",
+    "weight": -1
+  }
+]

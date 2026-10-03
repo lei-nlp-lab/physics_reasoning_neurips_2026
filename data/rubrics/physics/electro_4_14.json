@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Phase Change",
+    "description": "Essential Criteria: The correct expression for the phase change phi must be provided as phi = arctan(2/rho).",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should correctly apply the boundary conditions for electric and magnetic fields at the interface.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Representation",
+    "description": "Important Criteria: The student must accurately represent the incident, reflected, and transmitted waves using appropriate equations.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Refractive Index",
+    "description": "Important Criteria: The refractive index of the conductor must be correctly incorporated into the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the phase change or boundary condition equations.",
+    "weight": -2
+  }
+]

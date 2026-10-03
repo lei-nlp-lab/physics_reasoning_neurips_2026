@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Total current calculation",
+    "description": "Essential: The response must correctly compute the total circuit current as 1 A using Ohm's law for the closed circuit.",
+    "weight": 5
+  },
+  {
+    "title": "Equivalent resistance derivation",
+    "description": "Important: The student must correctly combine R2 and R3 in parallel, then add R1 to find the total external resistance of 10 Ω.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field strength",
+    "description": "Essential: The response must correctly calculate the electric field strength between the plates as 100 V/m using the terminal voltage and plate separation.",
+    "weight": 5
+  },
+  {
+    "title": "Terminal voltage application",
+    "description": "Important: The student must correctly determine the terminal voltage across the plates (10 V) by accounting for the internal resistance voltage drop.",
+    "weight": 3
+  },
+  {
+    "title": "Force equilibrium analysis",
+    "description": "Essential: The response must correctly apply force equilibrium (tanθ = Fe/(mg)) to solve for the mass, yielding 0.004 kg.",
+    "weight": 5
+  },
+  {
+    "title": "Electric force identification",
+    "description": "Important: The student must correctly identify that the electric force on the sphere is E0 * q and relate it to the thread angle.",
+    "weight": 3
+  },
+  {
+    "title": "Incorrect parallel resistance",
+    "description": "Pitfall: Penalize if the student incorrectly treats R2 and R3 as being in series, or mis-handles the parallel combination.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting internal resistance",
+    "description": "Pitfall: Penalize if the student uses the emf directly to find the plate voltage or electric field, ignoring the internal resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Angle or force resolution error",
+    "description": "Pitfall: Penalize if the student incorrectly resolves forces (e.g., uses sin or cos instead of tan in the equilibrium equation).",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award credit if the student explicitly shows unit analysis for the final mass or electric field calculations.",
+    "weight": 1
+  }
+]

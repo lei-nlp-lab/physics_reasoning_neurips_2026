@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct final answer of 33 m is provided.",
+    "weight": 5
+  },
+  {
+    "title": "Gamma Calculation",
+    "description": "Important Criteria: The calculation of gamma using the kaon energy and mass is correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Beta Calculation",
+    "description": "Important Criteria: The calculation of beta based on gamma is correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Lifetime Calculation",
+    "description": "Important Criteria: The laboratory lifetime is calculated correctly using gamma and the proper rest lifetime.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Calculation",
+    "description": "Important Criteria: The distance calculation using the time and beta is correctly executed.",
+    "weight": 4
+  },
+  {
+    "title": "Exponential Decay Equation",
+    "description": "Optional Criteria: The use of the exponential decay equation to find time is correctly applied.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units throughout the calculations are consistent and correctly applied.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: There are no sign mistakes in the calculations or final answer.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: No factors are omitted in the calculations leading to the final answer.",
+    "weight": -1
+  }
+]

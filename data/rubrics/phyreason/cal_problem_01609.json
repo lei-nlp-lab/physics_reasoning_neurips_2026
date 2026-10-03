@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wavelength calculation",
+    "description": "Essential: The student must correctly compute the wavelength using λ = v/f, yielding λ = 2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Constructive interference condition",
+    "description": "Important: The student must state the condition for constructive interference as a path difference Δx = kλ, where k is an integer.",
+    "weight": 4
+  },
+  {
+    "title": "Path difference range",
+    "description": "Important: The student must correctly identify that the maximum possible path difference on the S1S2 line is the source separation of 4 m.",
+    "weight": 4
+  },
+  {
+    "title": "Integer k determination",
+    "description": "Important: The student must solve the inequality -4 m < kλ < 4 m (or equivalent) for integer k, finding k = -1, 0, 1.",
+    "weight": 4
+  },
+  {
+    "title": "Final count of points",
+    "description": "Essential: The student must conclude there are 3 points of constructive interference on the line connecting S1 and S2.",
+    "weight": 5
+  },
+  {
+    "title": "Midpoint identification",
+    "description": "Optional: The student may note that point B (the midpoint) corresponds to k=0 and is a point of constructive interference.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or absolute value error",
+    "description": "Pitfall: The student incorrectly uses the condition |Δx| = kλ without considering negative k, or misapplies the absolute value in the inequality.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: The student fails to use consistent units in the wavelength calculation or path difference inequality, leading to an incorrect count.",
+    "weight": -1
+  }
+]

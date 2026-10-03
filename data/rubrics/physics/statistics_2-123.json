@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Definition of Partition Function",
+    "description": "Essential Criteria: Provide a correct definition of the partition function z for statistical systems.",
+    "weight": 5
+  },
+  {
+    "title": "Relation to Heat Capacity",
+    "description": "Essential Criteria: Derive the correct relationship between heat capacity and the second derivative of ln z with respect to beta.",
+    "weight": 5
+  },
+  {
+    "title": "Expression for Heat Capacity",
+    "description": "Essential Criteria: Present the correct expression for heat capacity in terms of the energy difference Delta.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Dependence Discussion",
+    "description": "Important Criteria: Discuss the temperature dependence of the heat capacity and its limiting behavior at high and low temperatures.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Accuracy",
+    "description": "Pitfall Criteria: Avoid common errors in mathematical expressions, such as sign mistakes or missing factors.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the derivations and final expressions.",
+    "weight": -1
+  }
+]

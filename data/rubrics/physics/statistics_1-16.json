@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Work Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the work done W in Joules for the isothermal expansion.",
+    "weight": 5
+  },
+  {
+    "title": "Final Temperature Calculation",
+    "description": "Essential Criteria: The student must correctly determine the final temperature t_f in degrees Celsius after the adiabatic expansion.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ideal Gas Law",
+    "description": "Important Criteria: The student should apply the ideal gas law correctly in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Adiabatic Process Understanding",
+    "description": "Important Criteria: The student must demonstrate understanding of the adiabatic process and its implications for temperature change.",
+    "weight": 4
+  },
+  {
+    "title": "Logarithmic Calculation",
+    "description": "Optional Criteria: The student may show correct use of logarithmic properties in calculating W.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Common Sign Mistakes",
+    "description": "Pitfall Criteria: The student may lose points for incorrect signs in the final answers, particularly for temperature.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student may lose points for omitting necessary constants or factors in their calculations.",
+    "weight": -2
+  }
+]

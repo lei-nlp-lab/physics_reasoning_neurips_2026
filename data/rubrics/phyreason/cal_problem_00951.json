@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Primary current relation",
+    "description": "Essential: The student's answer for part (1) must correctly apply the transformer turns ratio to give I_0 = I/n.",
+    "weight": 5
+  },
+  {
+    "title": "Motor electrical power",
+    "description": "Essential: The student's answer for part (2) must correctly calculate the motor's input power as P = U_2 * I, leading to the form (√2 * U_0 * I) / (2n).",
+    "weight": 5
+  },
+  {
+    "title": "Constant speed condition",
+    "description": "Important: The student must recognize that at constant speed, the motor's useful mechanical power equals the rate of work against gravity, P_mech = mgv.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation step",
+    "description": "Important: The student must subtract the Joule heating loss (I²R) from the total electrical power to find the useful mechanical power.",
+    "weight": 4
+  },
+  {
+    "title": "RMS voltage application",
+    "description": "Important: The student must correctly relate the peak source voltage U_0 to the RMS secondary voltage using U_2 = U_0 / (√2 n).",
+    "weight": 3
+  },
+  {
+    "title": "Final velocity expression",
+    "description": "Essential: The student's answer for part (3) must combine all previous steps into the correct algebraic expression for v.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or ratio reversal",
+    "description": "Pitfall: Penalize if the transformer current or voltage ratio is inverted (e.g., I_0 = nI or U_2 = nU).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring motor resistance",
+    "description": "Pitfall: Penalize if the calculation for velocity uses the total electrical power (P) instead of the net mechanical power (P - I²R).",
+    "weight": -2
+  }
+]

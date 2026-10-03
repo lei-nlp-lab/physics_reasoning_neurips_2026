@@ -1,0 +1,52 @@
+[
+  {
+    "title": "First-pass work expression",
+    "description": "Essential: The work done by the electric field in the first pass must be given as W₁ = (1/2) m v² (ν² - 1).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field strength E_n",
+    "description": "Essential: The expression for the electric field strength on the n-th pass must be E_n = [m v^(2n) (ν² - 1)] / (2 q n d).",
+    "weight": 5
+  },
+  {
+    "title": "Total time expression",
+    "description": "Essential: The total time until the n-th electric field passage must be given as the sum of the magnetic field time nπm/(qB) and the electric field time series.",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must correctly apply the work-energy theorem (W = ΔKE) to relate electric field work to the change in kinetic energy for each passage.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion period",
+    "description": "Important: The solution must correctly state the period of circular motion in the magnetic field as T = 2πm/(qB) and account for half-periods spent in the field.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity progression recognition",
+    "description": "Important: The solution must correctly identify that the velocity after the k-th electric field passage is v_k = ν^k * v (initial v).",
+    "weight": 4
+  },
+  {
+    "title": "Electric field width progression",
+    "description": "Optional: The solution may explicitly note that the width of the electric field for the n-th pass is d_n = n d.",
+    "weight": 2
+  },
+  {
+    "title": "Series summation handling",
+    "description": "Optional: The solution may show the summation of the electric field transit times as a series, t_e = (2d/(ν+1)) Σ (k/ν^k) from k=1 to n.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or variable confusion",
+    "description": "Pitfall: Penalize if the student confuses the velocity multiplication factor ν with the instantaneous speed v, or mislabels them.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect kinetic energy change",
+    "description": "Pitfall: Penalize if the change in kinetic energy for the n-th pass is miscalculated, e.g., using v^(n) instead of v^(2n) in the energy difference.",
+    "weight": -2
+  }
+]

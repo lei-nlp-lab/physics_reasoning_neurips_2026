@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct external force F",
+    "description": "Essential: The final answer for part (1) is 1.5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct length L",
+    "description": "Essential: The final answer for part (2) is 0.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Joule heat Q",
+    "description": "Essential: The final answer for part (3) is 0.4 J.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance analysis",
+    "description": "Important: Applies Newton's second law correctly during the acceleration phase, accounting for applied force, friction, gravity component, and magnetic force.",
+    "weight": 4
+  },
+  {
+    "title": "Motional EMF and current",
+    "description": "Important: Correctly uses E = BLv and I = E/R to find the induced current during uniform motion.",
+    "weight": 4
+  },
+  {
+    "title": "Graph interpretation",
+    "description": "Important: Identifies the constant velocity (2.0 m/s) from the graph and uses it in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Time in field calculation",
+    "description": "Optional: Correctly calculates the time the loop spends entering/leaving the field using t = ef / v.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigns the direction of the magnetic force or friction, leading to a wrong force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to use consistent SI units (e.g., for B, m, g) in calculations.",
+    "weight": -1
+  }
+]

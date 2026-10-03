@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential Criteria: The response must state the correct coefficient of kinetic friction, μ = 0.5.",
+    "weight": 5
+  },
+  {
+    "title": "Correct equilibrium conclusion",
+    "description": "Essential Criteria: The response must correctly conclude that the object is not in equilibrium when F₂ is applied.",
+    "weight": 4
+  },
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential Criteria: The response must provide the correct acceleration magnitude, a = 7 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for constant velocity",
+    "description": "Important Criteria: The solution must apply Newton's first law to the first case, balancing the applied force, gravitational component, and kinetic friction.",
+    "weight": 3
+  },
+  {
+    "title": "Correct normal force calculation",
+    "description": "Important Criteria: The solution must correctly calculate the normal force as N = mg cos θ = 8 N for both cases.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important Criteria: For the second case, the solution must apply Newton's second law along the incline, accounting for all forces correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Friction direction consistency",
+    "description": "Pitfall Criteria: Penalize if the direction of the kinetic friction force is incorrectly assigned (e.g., same direction as motion in the second case).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall Criteria: Penalize significant sign errors in force summations or omission/incorrect use of units in final answers.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Argon ion speed",
+    "description": "Essential: The student must correctly calculate the argon ion's speed entering the electric field using energy conservation: v0 = sqrt(2*q1*U0/m1) = 1.0e5 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Height difference A-M",
+    "description": "Essential: The student must correctly determine the vertical drop from A to M (0.5 m) using kinematics in the uniform downward electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Metal ion trajectory radius",
+    "description": "Important: The student must correctly apply the Lorentz force law to find the radius of the metal ion's circular motion in the magnetic field: R = (m2*v)/(B*q2) = 0.5 m.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry of deposition region",
+    "description": "Important: The student must correctly analyze the geometry relating the circular arcs, the substrate line, and the given distance from M to the substrate to find the coated length.",
+    "weight": 4
+  },
+  {
+    "title": "Final coated length",
+    "description": "Essential: The student must provide the final numerical answer for the length of the coated region on the substrate: (2 - sqrt(2))/2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics setup",
+    "description": "Important: The student must set up the horizontal and vertical kinematic equations for the argon ion's projectile motion in the electric field, linking time, distance, and acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometry application",
+    "description": "Optional: The student correctly uses trigonometry (e.g., 45° angles) to relate distances in the geometry of the magnetic field regions and the substrate.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: The student makes a sign error in the electric force direction or confuses the orientation of the circular motion in the opposite magnetic fields.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: The student uses inconsistent units (e.g., not converting kV to V) or omits units in final answers.",
+    "weight": -1
+  }
+]

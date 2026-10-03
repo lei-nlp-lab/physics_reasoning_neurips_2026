@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Instantaneous velocity at t=2s",
+    "description": "Essential: Correctly reads or calculates the instantaneous velocity at the end of the 2nd second as 3 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Average acceleration (first 3s)",
+    "description": "Essential: Correctly calculates the average acceleration for the first 3 seconds using a = (v_f - v_i)/Δt, yielding approximately 1.67 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Average acceleration (last 2s)",
+    "description": "Essential: Correctly calculates the average acceleration for the last 2 seconds using a = (v_f - v_i)/Δt, yielding -2.5 m/s² (magnitude 2.5 m/s²).",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity (4th second)",
+    "description": "Essential: Correctly calculates the average velocity during the 4th second using v_avg = Δx/Δt, yielding 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct velocity identification",
+    "description": "Important: Identifies the correct initial and final velocities for each time interval from the provided data.",
+    "weight": 3
+  },
+  {
+    "title": "Proper acceleration sign",
+    "description": "Important: Recognizes that the acceleration during the last 2 seconds is negative (deceleration) but reports its magnitude correctly.",
+    "weight": 2
+  },
+  {
+    "title": "Position difference method",
+    "description": "Optional: Uses the change in position over the 4th second (from t=3s to t=4s) to compute average velocity, not just an average of speeds.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (m/s, m/s²) with all numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Reports a positive value for the acceleration during the last 2 seconds without indicating it's a magnitude or confuses acceleration with deceleration sign.",
+    "weight": -1
+  },
+  {
+    "title": "Wrong time interval",
+    "description": "Pitfall: Uses incorrect time intervals (e.g., 0-2s for first acceleration, 6-8s as 3s interval) or misidentifies the 4th second.",
+    "weight": -2
+  }
+]

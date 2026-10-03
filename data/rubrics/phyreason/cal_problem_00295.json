@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ball fall time",
+    "description": "Essential: Correctly calculates the free-fall time using t = sqrt(2h/g) with given values.",
+    "weight": 5
+  },
+  {
+    "title": "Box maximum displacement",
+    "description": "Essential: Correctly calculates the maximum rightward displacement of the box (0.9 m) using kinematics and the initial deceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Box final velocity",
+    "description": "Essential: Correctly calculates the velocity of the box when the ball leaves (2.8 m/s).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration stages",
+    "description": "Important: Identifies and calculates the two distinct accelerations (a1 during rightward motion, a2 after reversal) using Newton's second law with correct friction forces.",
+    "weight": 4
+  },
+  {
+    "title": "Ball initial condition",
+    "description": "Important: States that the ball's initial horizontal velocity relative to the ground is zero when placed.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement for ball exit",
+    "description": "Important: Correctly determines the total leftward distance (x2 = x1 + L/3) the box must travel for the ball to reach its edge and fall.",
+    "weight": 4
+  },
+  {
+    "title": "Time for leftward motion",
+    "description": "Important: Correctly calculates the time for the box to travel distance x2 to the left with constant acceleration a2.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s, m/s²) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Uses the wrong sign for friction or applied force when calculating acceleration, especially after the box reverses direction.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect mass for friction",
+    "description": "Pitfall: Uses the wrong mass (M instead of M+m) for calculating the friction force while the ball is on the box.",
+    "weight": -2
+  }
+]

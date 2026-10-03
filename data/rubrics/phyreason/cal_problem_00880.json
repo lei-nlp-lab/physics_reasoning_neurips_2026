@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial kinetic energy",
+    "description": "Essential Criteria: The response must state that the initial kinetic energy equals eU, derived from the work-energy theorem for acceleration across voltage U.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum kinetic energy",
+    "description": "Essential Criteria: The response must give the final expression for maximum kinetic energy as e²B²R²/(2m), derived from combining circular motion force balance with kinetic energy formula.",
+    "weight": 5
+  },
+  {
+    "title": "AC frequency expression",
+    "description": "Essential Criteria: The response must state the AC frequency as eB/(2πm), derived from matching the proton's cyclotron period to the supply period.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion force balance",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion (evB = mv²/R) to relate velocity, magnetic field, and radius.",
+    "weight": 4
+  },
+  {
+    "title": "Period-frequency relationship",
+    "description": "Important Criteria: The solution must correctly relate frequency and period (f = 1/T) and identify the cyclotron period as T = 2πm/(eB).",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The solution must apply the work-energy theorem (eU = ΔE_k) to find the initial kinetic energy from the accelerating voltage.",
+    "weight": 4
+  },
+  {
+    "title": "Confusing initial and final energy",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly equates the initial kinetic energy (eU) with the maximum kinetic energy (e²B²R²/(2m)).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect period or frequency formula",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect formula for the cyclotron period (e.g., T = 2πR/v instead of T = 2πm/(eB)) or misrelates frequency and period.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The solution may include verification that all derived expressions have correct physical units (energy in joules, frequency in hertz).",
+    "weight": 1
+  }
+]

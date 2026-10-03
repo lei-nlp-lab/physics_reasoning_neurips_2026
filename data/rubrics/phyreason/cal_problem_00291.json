@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final altitude",
+    "description": "Essential Criteria: The student's final numerical answer for the minimum altitude must be 198 m.",
+    "weight": 5
+  },
+  {
+    "title": "Pre-jettison acceleration",
+    "description": "Important Criteria: The student must correctly calculate the downward acceleration before jettison as 2 m/s² using the given change in velocity and time.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance before jettison",
+    "description": "Important Criteria: The student must apply Newton's second law to the balloon before jettison to solve for the buoyant force.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance after jettison",
+    "description": "Important Criteria: The student must apply Newton's second law to the balloon after jettison to find the new upward acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for safe landing",
+    "description": "Important Criteria: The student must correctly use kinematics (v² = u² + 2as) with the final safe speed, initial speed, and new acceleration to find the required distance.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign for the acceleration (e.g., treating deceleration as positive without adjusting kinematics).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's working shows consistent use of SI units (m, s, m/s², kg, N) throughout.",
+    "weight": 1
+  }
+]

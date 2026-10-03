@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Density of States",
+    "description": "Essential Criteria: The student must correctly derive the density of states D(p) and D(ε) as functions of momentum and energy.",
+    "weight": 5
+  },
+  {
+    "title": "Bose-Einstein Temperature",
+    "description": "Essential Criteria: The student must accurately calculate the Bose-Einstein condensation temperature τ_E for arbitrary d.",
+    "weight": 5
+  },
+  {
+    "title": "Harmonic Potential Effect",
+    "description": "Important Criteria: The student should explain how the external harmonic potential affects condensation and provide reasoning for their conclusion.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The student must correctly evaluate the integral involving the density of states to find the number of particles N_e.",
+    "weight": 4
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student should discuss cases where condensation does not occur, particularly for d = 1 and d = 2.",
+    "weight": 3
+  },
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must provide the correct final expressions for D(p), D(ε), and τ_E.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect substitutions or miscalculating integrals.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

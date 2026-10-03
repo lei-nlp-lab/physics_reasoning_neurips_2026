@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity magnitude",
+    "description": "Essential: Correctly calculates v = E/B = 1000 m/s from force balance in region I.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Recognizes that straight-line motion in region I requires qE = qvB, giving v = E/B.",
+    "weight": 4
+  },
+  {
+    "title": "Circular motion radius",
+    "description": "Important: Applies qvB = mv²/r to find r = mv/(qB) = 0.1 m for region II.",
+    "weight": 4
+  },
+  {
+    "title": "D coordinate calculation",
+    "description": "Essential: Correctly determines D coordinates as (0.50 m, 0) using geometry of circular arc and exit trajectory.",
+    "weight": 5
+  },
+  {
+    "title": "Total time O to D",
+    "description": "Essential: Correctly sums t₁ (region I), t₂ (arc in region II), and t₃ (post-region II) to get ≈6.57×10⁻⁴ s.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of exit",
+    "description": "Important: Uses angles (53°, 37°) and radius to find exit point from region II and subsequent straight-line path to x-axis.",
+    "weight": 3
+  },
+  {
+    "title": "Time breakdown",
+    "description": "Optional: Shows separate calculations for t₁ = OA/(v cos53°), t₂ = (πr)/(2v), t₃ = y/(v cos53°).",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Misapplies sign of charge in Lorentz force or electric force, leading to incorrect force balance or circular motion direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Fails to convert cm to m consistently, resulting in wrong numerical values for coordinates or times.",
+    "weight": -1
+  }
+]

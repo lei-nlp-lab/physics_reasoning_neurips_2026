@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final lateral displacement y must be correctly calculated as 0.017 m.",
+    "weight": 5
+  },
+  {
+    "title": "Coriolis Force",
+    "description": "Important Criteria: The student must correctly identify and apply the Coriolis force in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Equations of Motion",
+    "description": "Important Criteria: The student should derive the correct equations of motion for the body under the influence of gravity and Coriolis force.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show the correct integration steps to find the displacement in the y-direction.",
+    "weight": 3
+  },
+  {
+    "title": "Time of Fall",
+    "description": "Essential Criteria: The time of fall must be calculated correctly using the equation t = sqrt(2h/g).",
+    "weight": 5
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Centrifugal Effects",
+    "description": "Optional Criteria: The student may mention the negligible effect of centrifugal force in this scenario.",
+    "weight": 1
+  }
+]

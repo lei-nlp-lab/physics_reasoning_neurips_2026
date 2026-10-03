@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Threshold Energy (a)",
+    "description": "Essential Criteria: The correct threshold gamma-ray energy of 144.7 MeV must be calculated for part (a).",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Proton Energy (b)",
+    "description": "Essential Criteria: The minimum proton energy of 6.787 x 10^10 GeV must be correctly determined for part (b).",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Invariants",
+    "description": "Important Criteria: The student must correctly apply the invariant mass equation in both parts (a) and (b).",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should demonstrate understanding of energy conservation principles in the context of the reaction.",
+    "weight": 4
+  },
+  {
+    "title": "Implications Discussion (c)",
+    "description": "Optional Criteria: A brief speculation on the implications for cosmic-ray protons should be provided in part (c).",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the energy-momentum equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct original length",
+    "description": "Essential: Student must state or calculate the original length as 0.10 m or 10 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Correct spring constant",
+    "description": "Essential: Student must state or calculate the spring constant as 1000 N/m.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Hooke's Law correctly",
+    "description": "Important: Student must write both force equations: F₁ = k(l₀ - l₁) for compression and F₂ = k(l₂ - l₀) for stretching.",
+    "weight": 4
+  },
+  {
+    "title": "Solve simultaneous equations",
+    "description": "Important: Student must show a valid method to solve the two equations for both unknowns (l₀ and k).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student should convert all lengths to consistent units (e.g., meters) before solving.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in Hooke's Law",
+    "description": "Pitfall: Student incorrectly writes the compression equation as F₁ = k(l₁ - l₀) or similar sign mistake.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpret equilibrium lengths",
+    "description": "Pitfall: Student treats l₁ and l₂ as displacements rather than final equilibrium lengths.",
+    "weight": -1
+  }
+]

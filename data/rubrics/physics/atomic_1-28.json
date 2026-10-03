@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must provide the correct answer, which is (a).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concept",
+    "description": "Important Criteria: The student should demonstrate an understanding of electron spin-orbit coupling as it relates to fine structure.",
+    "weight": 4
+  },
+  {
+    "title": "Identification of Other Options",
+    "description": "Optional Criteria: The student may briefly explain why options (b) and (c) are incorrect.",
+    "weight": 2
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: The response should be clearly articulated and logically structured.",
+    "weight": 3
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid confusing fine structure with other atomic phenomena.",
+    "weight": -2
+  }
+]

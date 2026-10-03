@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer Tunnel 1",
+    "description": "Essential Criteria: The correct expression for T_1 must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer Tunnel 2",
+    "description": "Essential Criteria: The correct expression for T_2 must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Necessity",
+    "description": "Essential Criteria: The explanation regarding the necessity of frictionlessness for Tunnel 2 must be clear and accurate.",
+    "weight": 5
+  },
+  {
+    "title": "Key Reasoning Steps",
+    "description": "Important Criteria: The reasoning leading to the gravitational force derivation must be included.",
+    "weight": 4
+  },
+  {
+    "title": "Harmonic Motion Explanation",
+    "description": "Important Criteria: The identification of the motion as simple harmonic must be stated.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Any sign mistakes in the equations must be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing factors in the gravitational force or equations must be checked.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Focal Length Far Point",
+    "description": "Essential Criteria: The focal length at the far point must be correctly calculated as 1.987 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Focal Length Near Point",
+    "description": "Essential Criteria: The focal length at the near point must be correctly calculated as 1.961 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Lens Strength Calculation",
+    "description": "Essential Criteria: The strength of the lens required for 25 cm must be correctly calculated as 33.3 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Lens Formula",
+    "description": "Important Criteria: The student must correctly apply the lens formula for both near and far points.",
+    "weight": 4
+  },
+  {
+    "title": "Power Calculation",
+    "description": "Important Criteria: The calculation of the dioptric power of the lens must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the lens formula or power calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Final Answer Presentation",
+    "description": "Optional Criteria: The final answers should be clearly presented with appropriate units.",
+    "weight": 2
+  }
+]

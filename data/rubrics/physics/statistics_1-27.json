@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria: The final temperature of the sun must be correctly calculated and stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Equation",
+    "description": "Important Criteria: The student must use the Stefan-Boltzmann law J = sigma T^4 appropriately.",
+    "weight": 4
+  },
+  {
+    "title": "Distance Ratio",
+    "description": "Important Criteria: The student should correctly apply the ratio of distances (r_SE/r_S) in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Calculation Steps",
+    "description": "Optional Criteria: The student should show clear steps in their calculations leading to the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors, such as the square of the distance ratio.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Q coordinates correct",
+    "description": "Essential Criteria: The student must state the coordinates of point Q as (0, 2d).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude correct",
+    "description": "Essential Criteria: The student must state the final expression for the magnetic field as B = (m v_0) / (2 q d).",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important Criteria: The student must correctly apply kinematics (e.g., x = 1/2 a t^2, v_y = v_0, v_x = a t) to relate displacement d, time, and the 45° exit condition.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force as centripetal",
+    "description": "Important Criteria: The student must apply the formula qvB = m v^2 / R, identifying the force as the source of circular motion in the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry for radius",
+    "description": "Important Criteria: The student must use the exit geometry (e.g., R sin α = y_Q) to relate the circular motion radius to the known coordinate 2d and the 45° angle.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at field entry",
+    "description": "Important Criteria: The student must correctly calculate the speed v of the particle as it enters the magnetic field, typically using v = v_0 / cos(45°).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student's final expressions should have consistent units (e.g., meters for coordinates, Tesla for B).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize if the student uses an incorrect sign for acceleration in the electric field or misidentifies the direction of the magnetic force.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the student misinterprets the '45° angle with the y-axis' at point Q, leading to an incorrect velocity component ratio (tan 45° ≠ 1).",
+    "weight": -2
+  }
+]

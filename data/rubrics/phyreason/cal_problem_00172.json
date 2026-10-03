@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states or derives the electric field strength as E_0 = m v_0^2 / (q r_0).",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly states or derives the magnetic induction as B = m v_0 / (q r_0).",
+    "weight": 5
+  },
+  {
+    "title": "Light ion exit velocity",
+    "description": "Important: Applies work-energy theorem to find the velocity of the 0.5m ion after the electrostatic analyzer, obtaining v = sqrt(5) v_0.",
+    "weight": 4
+  },
+  {
+    "title": "Light ion magnetic radius",
+    "description": "Important: Uses magnetic force law to find the radius of the 0.5m ion's path in the magnetic field, obtaining r = (sqrt(5)/2) r_0.",
+    "weight": 4
+  },
+  {
+    "title": "Impact distance calculation",
+    "description": "Essential: Correctly calculates the distance from O to the impact point of the 0.5m ion as 1.5 r_0, using geometry and the given cos θ.",
+    "weight": 5
+  },
+  {
+    "title": "Resolution condition setup",
+    "description": "Important: Sets up the geometric condition for the beams to be just resolved, relating the shifted impact positions to the magnetic field fluctuation ΔB.",
+    "weight": 3
+  },
+  {
+    "title": "Final fluctuation ratio",
+    "description": "Essential: Solves (or approximates) the resolution condition to find the maximum required ΔB/B, yielding approximately 0.12.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in force directions or misplaces units in final expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Incorrectly applies the geometric relationships (e.g., for the impact point l) or misuses the given cos θ.",
+    "weight": -2
+  },
+  {
+    "title": "Work-energy misapplication",
+    "description": "Pitfall: Incorrectly applies the work-energy theorem for the 0.5m ion, such as using the wrong potential difference or mass.",
+    "weight": -1
+  }
+]

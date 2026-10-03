@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Projectile time correct",
+    "description": "Essential: Student correctly calculates the free-fall time using h = (1/2)gt², yielding t = 0.30 s.",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocity correct",
+    "description": "Essential: Student correctly calculates the combined velocity after collision using s = v*t, yielding v = 1.0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum applied",
+    "description": "Important: Student applies momentum conservation for the inelastic collision: m*v0 = (2m)*v.",
+    "weight": 4
+  },
+  {
+    "title": "Initial velocity correct",
+    "description": "Essential: Student correctly solves for v0 from momentum conservation, yielding v0 = 2.0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy loss calculation",
+    "description": "Important: Student calculates the mechanical energy loss as ΔE = (1/2)m*v0² - (1/2)(2m)*v².",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss value correct",
+    "description": "Essential: Student correctly computes the numerical value of ΔE, yielding 0.10 J.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student shows consistent use of SI units (m, s, m/s, J) throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in energy",
+    "description": "Pitfall: Student incorrectly writes ΔE as final energy minus initial energy, giving a negative loss.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting combined mass",
+    "description": "Pitfall: Student uses mass m instead of 2m in the post-collision momentum or kinetic energy expressions.",
+    "weight": -2
+  }
+]

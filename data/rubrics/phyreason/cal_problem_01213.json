@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Foot acceleration magnitude",
+    "description": "Essential: Correctly calculates the acceleration during foot contact as 200 m/s² using a = (v_final - v_initial)/time.",
+    "weight": 5
+  },
+  {
+    "title": "Air travel time",
+    "description": "Essential: Correctly calculates the time for the 11m flight as 0.37 s using uniform motion (t = d/v).",
+    "weight": 5
+  },
+  {
+    "title": "Goalkeeper acceleration magnitude",
+    "description": "Essential: Correctly calculates the acceleration magnitude during the block as 175 m/s², accounting for the velocity change.",
+    "weight": 5
+  },
+  {
+    "title": "Goalkeeper acceleration direction",
+    "description": "Important: Correctly identifies the direction of acceleration during the block as opposite to the ball's initial kicked velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Correct velocity selection",
+    "description": "Important: Uses the correct initial and final velocities for each acceleration calculation (0 to 30 m/s for foot, 30 m/s to -5 m/s for goalkeeper).",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in rebound",
+    "description": "Pitfall: Fails to assign a negative sign to the rebound velocity when calculating the goalkeeper's acceleration, leading to an incorrect magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (m/s², s) for all final answers and maintains unit consistency in calculations.",
+    "weight": 1
+  }
+]

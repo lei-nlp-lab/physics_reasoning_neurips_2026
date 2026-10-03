@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Meeting time calculation",
+    "description": "Essential: Correctly calculates the time for the two wavefronts to meet as 0.75 s.",
+    "weight": 5
+  },
+  {
+    "title": "Distance traveled by M",
+    "description": "Essential: Correctly calculates the total distance traveled by mass element M from 0 s to 1.5 s as 12 m.",
+    "weight": 5
+  },
+  {
+    "title": "Wave period determination",
+    "description": "Important: Correctly determines the wave period (T = 1 s) from the given speed and wavelength inferred from the figure.",
+    "weight": 3
+  },
+  {
+    "title": "Amplitude at M",
+    "description": "Important: Recognizes point M is an antinode due to zero path difference, leading to a resultant amplitude of 4 m.",
+    "weight": 4
+  },
+  {
+    "title": "Start time for M",
+    "description": "Important: Identifies that point M begins vibrating at the moment the waves meet (t = 0.75 s).",
+    "weight": 3
+  },
+  {
+    "title": "Distance calculation logic",
+    "description": "Important: Applies the correct relationship (s = 4A * (Δt / T)) for distance traveled in harmonic motion over a non-integer number of half-periods.",
+    "weight": 4
+  },
+  {
+    "title": "Wavefront motion setup",
+    "description": "Optional: Sets up correct equations of motion for the two wavefronts from their initial positions.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in wave speed",
+    "description": "Pitfall: Assigns incorrect signs to the wave velocities for the left- and right-propagating waves.",
+    "weight": -2
+  },
+  {
+    "title": "Path difference mistake",
+    "description": "Pitfall: Incorrectly calculates the path difference from M to the two sources, leading to a wrong interference condition.",
+    "weight": -1
+  }
+]

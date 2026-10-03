@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct expression for the potential energy W.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Calculation",
+    "description": "Important Criteria: The student correctly derives the electric field E from the bound surface charge density.",
+    "weight": 4
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Important Criteria: The student accurately calculates the force F acting on the point charge.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The student sets up the integral correctly to find the potential energy W.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student makes a sign mistake in the expression for the potential energy W.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that the units of the final answer for W are consistent.",
+    "weight": 2
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student applies the boundary conditions correctly to relate E1 and E2.",
+    "weight": 3
+  }
+]

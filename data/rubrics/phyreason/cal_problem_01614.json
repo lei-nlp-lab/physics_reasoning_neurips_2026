@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final position coordinates",
+    "description": "Essential Criteria: The response must state the final position as (0.40 m, 0.20 m).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration calculation",
+    "description": "Important Criteria: The student must correctly calculate the constant acceleration magnitude as a = qE/m = 0.20 m/s².",
+    "weight": 3
+  },
+  {
+    "title": "First-second kinematics",
+    "description": "Important Criteria: The student must correctly determine the x-velocity (0.20 m/s) and x-displacement (0.10 m) after the first 1.0 s interval.",
+    "weight": 3
+  },
+  {
+    "title": "Second-second kinematics",
+    "description": "Important Criteria: The student must correctly determine the position (0.30 m, 0.10 m) and y-velocity (0.20 m/s) at the end of the second 1.0 s interval.",
+    "weight": 3
+  },
+  {
+    "title": "Third-second deceleration",
+    "description": "Important Criteria: The student must recognize that the third field provides accelerations opposite to the x and y velocities to bring the sphere to rest in 1.0 s.",
+    "weight": 4
+  },
+  {
+    "title": "Vector component handling",
+    "description": "Important Criteria: The student must treat x and y motions independently and correctly add displacement vectors.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student should maintain consistent SI units (meters, seconds, m/s²) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Penalize incorrect sign for acceleration components in the third interval (should oppose velocity).",
+    "weight": -2
+  },
+  {
+    "title": "Constant velocity assumption",
+    "description": "Pitfall Criteria: Penalize treating motion during the second interval as accelerated in the x-direction.",
+    "weight": -1
+  }
+]

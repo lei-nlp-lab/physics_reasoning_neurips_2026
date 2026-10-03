@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct Schrödinger Equation",
+    "description": "Essential Criteria: The student must provide the correct form of the Schrödinger equation for atomic helium as specified in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic Energy Terms",
+    "description": "Important Criteria: The student should correctly identify and include the kinetic energy terms for both electrons in the equation.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Energy Terms",
+    "description": "Important Criteria: The student must correctly include the attractive potential terms between the nucleus and the electrons, as well as the repulsive potential between the electrons.",
+    "weight": 4
+  },
+  {
+    "title": "Neglecting Nucleus Motion",
+    "description": "Optional Criteria: The student should mention the assumption of the nucleus being an infinitely heavy point charge and neglecting its motion.",
+    "weight": 2
+  },
+  {
+    "title": "Variable Definitions",
+    "description": "Optional Criteria: The student may define the variables used in the equation, such as R1 and R2.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the potential energy terms of the equation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Terms",
+    "description": "Pitfall Criteria: The student must ensure all necessary terms are included in the equation to avoid missing factors.",
+    "weight": -2
+  }
+]

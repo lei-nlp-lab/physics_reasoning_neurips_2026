@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must state whether the copper wire will melt or not.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student should correctly calculate the energy stored in the capacitors using the formula E = 1/2 CV^2.",
+    "weight": 4
+  },
+  {
+    "title": "Resistance Calculation",
+    "description": "Important Criteria: The student must determine the resistance of the wire based on its length and resistance per meter.",
+    "weight": 4
+  },
+  {
+    "title": "Heat Calculation",
+    "description": "Important Criteria: The student should calculate the heat required to raise the wire's temperature to the melting point.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Values",
+    "description": "Essential Criteria: The student must compare the energy stored with the heat required to determine if melting occurs.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect unit conversions or miscalculating resistance.",
+    "weight": -2
+  }
+]

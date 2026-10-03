@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Part (1) final answer",
+    "description": "Essential: The response must give the correct expression for the initial velocity, derived from energy conservation: v0 = sqrt(2eU0/m).",
+    "weight": 5
+  },
+  {
+    "title": "Part (2) final answer",
+    "description": "Essential: The response must give the correct expression for the initial velocity, derived from magnetic circular motion: v0 = e B0 R / (2m).",
+    "weight": 5
+  },
+  {
+    "title": "Part (3) final answer",
+    "description": "Essential: The response must give the correct expression for the total kinetic energy per unit length per unit time: Ek = π R e a b p² / (m I).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation in (1)",
+    "description": "Important: The solution must apply the work-energy theorem, equating the initial kinetic energy to the work done by the electric field.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion in (2)",
+    "description": "Important: The solution must recognize that the maximum radius of the electron's helical/circular path is R/2 and equate the Lorentz force to the centripetal force.",
+    "weight": 4
+  },
+  {
+    "title": "Electron flux calculation",
+    "description": "Important: For part (3), the solution must correctly relate the measured current I to the number of electrons hitting the plate per unit time, using geometry (fraction a/(2πR)).",
+    "weight": 4
+  },
+  {
+    "title": "Pressure-momentum relation",
+    "description": "Important: For part (3), the solution must apply the momentum theorem (pressure = force/area) to relate pressure p to the electron's momentum and flux.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the sign of the electron charge (e) is incorrectly handled in the Lorentz force or energy equations, leading to a wrong expression.",
+    "weight": -2
+  },
+  {
+    "title": "Geometric misinterpretation",
+    "description": "Pitfall: Penalize if the radius of the circular path in part (2) is incorrectly taken as R instead of R/2, or if the fraction of electrons hitting the plate in part (3) is wrong.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution may include a verification that the final expressions for v0 and Ek have the correct physical dimensions (e.g., velocity, energy/(length·time)).",
+    "weight": 1
+  }
+]

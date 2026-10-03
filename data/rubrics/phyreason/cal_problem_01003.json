@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Maximum thrust value",
+    "description": "Essential Criteria: The final numerical answer for the maximum thrust must be correctly stated, including units (N).",
+    "weight": 5
+  },
+  {
+    "title": "Initial pressure calculation",
+    "description": "Important Criteria: The student must correctly apply force equilibrium on the pistons to calculate the initial gas pressure, accounting for atmospheric pressure, piston weights, and the inclined plane.",
+    "weight": 4
+  },
+  {
+    "title": "Final pressure application",
+    "description": "Important Criteria: The student must correctly apply Boyle's law to find the gas pressure when piston a reaches the bottom, using the initial pressure and the change in gas volume.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for thrust",
+    "description": "Important Criteria: The student must set up the force equilibrium condition on the pistons at the moment piston a reaches the bottom to solve for the external thrust F.",
+    "weight": 4
+  },
+  {
+    "title": "Correct geometry and volumes",
+    "description": "Optional Criteria: The student should correctly identify the initial and final volumes of the gas in the system, relating piston positions to cylinder heights and cross-sectional areas.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's working should demonstrate consistent use of SI units (Pa, m, m², kg) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Penalize if the student makes a sign error when summing forces on the pistons (e.g., direction of weight component, atmospheric pressure, or gas pressure forces).",
+    "weight": -2
+  },
+  {
+    "title": "Volume miscalculation",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly calculates the final gas volume, for example by not accounting for both cylinders or misinterpreting the piston movement.",
+    "weight": -1
+  }
+]

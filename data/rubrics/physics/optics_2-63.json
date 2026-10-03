@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must clearly state whether the headlights can be resolved or not.",
+    "weight": 5
+  },
+  {
+    "title": "Rayleigh Criterion",
+    "description": "Important Criteria: The student should apply the Rayleigh criterion correctly to determine the angular resolution.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Separation Calculation",
+    "description": "Important Criteria: The student must calculate the angular separation of the headlights accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Wavelength",
+    "description": "Important Criteria: The student should correctly use the wavelength of light in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should maintain consistent units throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure all necessary factors are included in the calculations.",
+    "weight": -1
+  }
+]

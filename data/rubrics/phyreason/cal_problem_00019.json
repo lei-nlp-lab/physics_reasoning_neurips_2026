@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final velocity of A",
+    "description": "Essential Criteria: The student must provide the correct expression for v₁, either as ((m+M)v₀ - Mv)/m or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Final thrust force magnitude",
+    "description": "Essential Criteria: The student must provide the correct expression for the thrust force, either as M(v - v₀)/Δt or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Apply momentum conservation",
+    "description": "Important Criteria: The solution must correctly apply the law of conservation of linear momentum to the separation event.",
+    "weight": 4
+  },
+  {
+    "title": "Use impulse-momentum theorem",
+    "description": "Important Criteria: The solution must apply the impulse-momentum theorem (FΔt = Δp) to composite B to find the thrust force.",
+    "weight": 4
+  },
+  {
+    "title": "Correct system definition",
+    "description": "Important Criteria: The momentum conservation step must correctly identify the initial system (A+B together) and the final separate systems.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force expression",
+    "description": "Pitfall Criteria: Deduct points if the force expression has the incorrect sign, e.g., M(v₀ - v)/Δt, showing confusion about the direction of the thrust.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation errors",
+    "description": "Pitfall Criteria: Deduct points for significant algebraic errors in solving the momentum equation for v₁.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student may verify that the derived expressions have the correct units for velocity (m/s) and force (N).",
+    "weight": 1
+  }
+]

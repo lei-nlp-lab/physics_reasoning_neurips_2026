@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Expression",
+    "description": "Essential Criteria: The final expression for the differential cross section must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Reduced Mass",
+    "description": "Important Criteria: The reduced mass of the nucleon and nucleus must be correctly identified and used in calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Integration",
+    "description": "Important Criteria: The integral involving the potential V(r) and the sine function must be correctly set up and evaluated.",
+    "weight": 4
+  },
+  {
+    "title": "Expression for q",
+    "description": "Important Criteria: The expression for q in terms of k and theta must be correctly derived and utilized.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric Identities",
+    "description": "Optional Criteria: Appropriate trigonometric identities should be applied to simplify the final expression if necessary.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include sign mistakes in the potential or during integration.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

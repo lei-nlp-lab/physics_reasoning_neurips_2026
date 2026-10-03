@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Energy Shift",
+    "description": "Essential Criteria: The student must correctly calculate the shift in ground state energy to second order in k.",
+    "weight": 5
+  },
+  {
+    "title": "Expectation Value of x",
+    "description": "Essential Criteria: The student must correctly determine that the expectation value of x in the ground state is zero.",
+    "weight": 5
+  },
+  {
+    "title": "First Order Correction",
+    "description": "Important Criteria: The student should correctly identify that the first order energy correction does not contribute due to symmetry.",
+    "weight": 4
+  },
+  {
+    "title": "Second Order Correction Calculation",
+    "description": "Important Criteria: The student must show the correct setup and evaluation of the second order energy correction.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry Argument",
+    "description": "Important Criteria: The student should provide a valid argument based on symmetry for the expectation value of x.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Optional Criteria: The student may include the correct setup for the integrals involved in the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that no factors are omitted in the energy correction calculations.",
+    "weight": -2
+  }
+]

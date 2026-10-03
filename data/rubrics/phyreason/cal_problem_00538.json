@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct change magnitude",
+    "description": "Essential Criteria: The student's final answer for part (1) must be 4.0 kg·m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct average force",
+    "description": "Essential Criteria: The student's final answer for part (2) must be 20 N.",
+    "weight": 5
+  },
+  {
+    "title": "Vector momentum calculation",
+    "description": "Important Criteria: The student must correctly calculate initial and final momentum as vectors, accounting for the sign/direction change.",
+    "weight": 4
+  },
+  {
+    "title": "Applies impulse-momentum theorem",
+    "description": "Important Criteria: The student must correctly use the formula F_avg = Δp / Δt to find the average force.",
+    "weight": 4
+  },
+  {
+    "title": "Defines change in momentum",
+    "description": "Important Criteria: The student must define Δp as p_final - p_initial, not just a difference in magnitudes.",
+    "weight": 3
+  },
+  {
+    "title": "Includes units",
+    "description": "Optional Criteria: The student includes correct units (kg·m/s and N) with their numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall Criteria: Penalize if the student treats the momenta as scalars and simply adds 1.6 and 2.4, or ignores the negative sign in the force.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall Criteria: Penalize if the student uses F = mΔv/Δt without considering the vector nature of Δv, or confuses force with momentum.",
+    "weight": -1
+  }
+]

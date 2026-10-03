@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Wave Function",
+    "description": "Essential Criteria: The student must correctly derive the final wave function psi(x,t) as given in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Density",
+    "description": "Essential Criteria: The student must correctly express the limiting value of |psi(x,t)|^2 as given in the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Fourier Transform Definition",
+    "description": "Important Criteria: The student should correctly define the Fourier transform of the initial wave function, varphi(k).",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of Probability",
+    "description": "Important Criteria: The student should explain the conservation of total probability in the context of the wave function's evolution.",
+    "weight": 4
+  },
+  {
+    "title": "Limiting Behavior Interpretation",
+    "description": "Important Criteria: The student must provide a plausible physical interpretation of the limiting behavior of |psi(x,t)|^2 as t approaches infinity.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in the expressions for the wave function and its probability density.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

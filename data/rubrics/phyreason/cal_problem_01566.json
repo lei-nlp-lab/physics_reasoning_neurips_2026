@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly calculates the net acceleration at D as a = g + (√2 kQq)/(2md²).",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration direction",
+    "description": "Essential: States the direction of acceleration at D is vertically downward (from M to N).",
+    "weight": 4
+  },
+  {
+    "title": "Potential at C",
+    "description": "Essential: Correctly derives the electric potential at point C as φ_C = (mv² - 2mgd)/(2q).",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic energy at F",
+    "description": "Essential: Correctly calculates the final kinetic energy as E_k = mgd + mv² - (kQq/d)(1 - √2/2).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies the work-energy theorem correctly between relevant points (e.g., C-D, D-E, or E-F).",
+    "weight": 3
+  },
+  {
+    "title": "Force resolution at D",
+    "description": "Important: Correctly resolves the electrostatic forces from A and B into vertical components at point D.",
+    "weight": 3
+  },
+  {
+    "title": "Potential symmetry use",
+    "description": "Important: Recognizes and uses the electric potential symmetry (e.g., φ_D = 0) for the dipole configuration.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: Uses incorrect sign for the potential due to a negative charge (e.g., for point B or after A's removal).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the derivation or explicitly states them in the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Geometry for distances",
+    "description": "Optional: Correctly identifies and uses geometric distances (e.g., √2 d for diagonal distances).",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Resultant force magnitude",
+    "description": "Essential: The magnitude of the resultant tension T is correctly identified as mg.",
+    "weight": 5
+  },
+  {
+    "title": "Resultant force direction",
+    "description": "Essential: The direction of the resultant tension T is correctly stated as vertically upward.",
+    "weight": 5
+  },
+  {
+    "title": "Tension T1 expression",
+    "description": "Important: The expression for tension T1 in string AB is derived as mg/cos(α).",
+    "weight": 4
+  },
+  {
+    "title": "Tension T2 expression",
+    "description": "Important: The expression for tension T2 in string BC is derived as mg tan(α).",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium reasoning",
+    "description": "Important: The solution correctly applies static equilibrium, stating the net vertical force from the tensions balances the ball's weight.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram setup",
+    "description": "Optional: A correct free-body diagram for the ball is implied or explicitly described, showing all forces.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall: Penalize if the student incorrectly resolves tensions (e.g., swaps sin and cos for angle α) in the equilibrium equations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing equilibrium condition",
+    "description": "Pitfall: Penalize if the student fails to state that the resultant tension T must equal the weight for vertical equilibrium.",
+    "weight": -1
+  }
+]

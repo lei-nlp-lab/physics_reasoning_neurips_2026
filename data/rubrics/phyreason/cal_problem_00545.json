@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct altitude value",
+    "description": "Essential Criteria: The final numerical answer for the mountain's altitude must be 6000 m (or 6 km).",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational acceleration relationship",
+    "description": "Important Criteria: The solution must correctly relate gravitational acceleration at sea level (g) and at height H (g_H) using Newton's law of universal gravitation (g ∝ 1/R²).",
+    "weight": 4
+  },
+  {
+    "title": "Pendulum period relationship",
+    "description": "Important Criteria: The solution must correctly apply the formula for the period of a simple pendulum (T = 2π√(L/g)) to relate periods at the two locations.",
+    "weight": 4
+  },
+  {
+    "title": "Oscillation count and total time",
+    "description": "Important Criteria: The solution must establish that the same total time interval is given by 500*T = 501*T_0, linking the number of oscillations to the periods.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic simplification to ratio",
+    "description": "Optional Criteria: The solution should correctly simplify the equations to obtain the clean ratio g/g_H = (501/500)² or its equivalent.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency and conversion",
+    "description": "Optional Criteria: The solution should demonstrate consistent unit handling, particularly converting the planet's radius from kilometers to meters if needed for the final answer.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect period-oscillation relationship",
+    "description": "Pitfall Criteria: Penalize if the student inverts the relationship between oscillation count and period (e.g., assumes 500 oscillations correspond to the shorter period).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or exponent error in gravity",
+    "description": "Pitfall Criteria: Penalize errors in the gravitational acceleration formula, such as using (R+H) instead of (R+H)² in the denominator, or misplacing the square.",
+    "weight": -2
+  }
+]

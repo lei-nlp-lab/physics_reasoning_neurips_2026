@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct normal force at C",
+    "description": "Essential: The final answer for part (1) must be 7 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to C",
+    "description": "Important: Applies energy conservation from release to point C, correctly accounting for gravitational potential energy changes along AB and the arc BC.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law at C",
+    "description": "Important: Correctly applies Newton's second law (centripetal force) at the lowest point C to relate speed, weight, and normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Condition for reaching F",
+    "description": "Essential: For part (2), states the correct inequality or equation for l_x, yielding l_x ≥ 0.85 m.",
+    "weight": 5
+  },
+  {
+    "title": "Energy to F with loop",
+    "description": "Important: For part (2), uses energy conservation to find the minimum speed/energy needed at point D to complete the circular tube DEF and reach F.",
+    "weight": 4
+  },
+  {
+    "title": "Final l_x for stopping",
+    "description": "Essential: For part (3), provides the correct numerical answer l_x = 1.8 m (or 9/5 m).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy with friction",
+    "description": "Important: For part (3), sets up the work-energy balance from release to the final stop, correctly incorporating the given relationship between friction work cycles.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in friction work",
+    "description": "Pitfall: Uses the wrong sign for the work done by friction (should be negative) or misapplies the '3 times' relationship.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or trig value error",
+    "description": "Pitfall: Misuses the given sin37°=0.6 or cos37°=0.8, or omits units in final answers where required.",
+    "weight": -1
+  },
+  {
+    "title": "Alternative solution check",
+    "description": "Optional: Verifies answers through unit analysis or sketches an energy diagram for the full path.",
+    "weight": 1
+  }
+]

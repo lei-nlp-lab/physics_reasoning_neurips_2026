@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Stationary velocity magnitude",
+    "description": "Essential: Correctly states the magnitude of the electron drift velocity as v_s = E/B.",
+    "weight": 5
+  },
+  {
+    "title": "Hall resistance expression",
+    "description": "Essential: Derives the classical Hall resistance as R_H = φ/(eN) or an equivalent correct form.",
+    "weight": 5
+  },
+  {
+    "title": "Electron-to-flux quantum ratio",
+    "description": "Essential: Correctly identifies the filling factor N/N_φ = 1/3 for the given plateau R_H = 3h/e^2.",
+    "weight": 5
+  },
+  {
+    "title": "Scaling exponent for energy",
+    "description": "Important: Correctly determines the scaling exponent α = 1/2 for the energy gain ΔU ∝ B^α.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field change for quasihole",
+    "description": "Important: Correctly calculates ΔB = h/(eWL) for the introduction of one quasihole.",
+    "weight": 4
+  },
+  {
+    "title": "Thermal energy calculation",
+    "description": "Important: Correctly calculates E_th = k_B T with correct numerical value for T = 1.0 K.",
+    "weight": 3
+  },
+  {
+    "title": "Kinetic energy estimate",
+    "description": "Important: Uses uncertainty principle to estimate kinetic energy, yielding an order of magnitude ~10^-20 J.",
+    "weight": 3
+  },
+  {
+    "title": "Noise-to-current ratio",
+    "description": "Essential: Correctly derives the final ratio S_I / I_B = νe.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect Hall resistance dependence",
+    "description": "Pitfall: Incorrectly makes R_H depend on sample dimensions (W, L) instead of only φ and N.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit error in charge",
+    "description": "Pitfall: Uses incorrect sign or magnitude (e vs e/3) for quasiparticle charge in current/noise expressions.",
+    "weight": -1
+  }
+]

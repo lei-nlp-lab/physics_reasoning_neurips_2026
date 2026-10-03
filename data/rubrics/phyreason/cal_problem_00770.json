@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Length ratio calculation",
+    "description": "Essential: The final answer for part (1) must be the correct ratio l1:l2 = 100:81, derived from the period ratio.",
+    "weight": 5
+  },
+  {
+    "title": "Period identification",
+    "description": "Important: Correctly identifies the periods T1=1 s and T2=0.9 s from the provided vibration pattern graph (Figure A).",
+    "weight": 4
+  },
+  {
+    "title": "Time for pendulum 1",
+    "description": "Important: States that pendulum 1, starting left, reaches the far right at odd half-integer multiples of its period: t1 = (m + 1/2)T1.",
+    "weight": 3
+  },
+  {
+    "title": "Time for pendulum 2",
+    "description": "Important: States that pendulum 2, starting right, reaches the far right at integer multiples of its period: t2 = nT2.",
+    "weight": 3
+  },
+  {
+    "title": "Simultaneity condition setup",
+    "description": "Important: Sets up the equation (m + 1/2)T1 = nT2 to find the common time when both are at the far right.",
+    "weight": 4
+  },
+  {
+    "title": "General solution expression",
+    "description": "Essential: The final answer for part (2) must be expressed as a general solution, e.g., t = (4.5 + 9k) s, where k is a non-negative integer.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect initial phase",
+    "description": "Pitfall: Penalize if the student incorrectly assumes both pendulums start from the same side or misidentifies the initial displacement direction from Figure B.",
+    "weight": -2
+  },
+  {
+    "title": "Missing general solution",
+    "description": "Pitfall: Penalize if the answer for part (2) is only a single numerical time (e.g., 4.5 s) without indicating the periodic nature of the solution.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Includes correct units (seconds for time, ratio is unitless) in the final answers and intermediate steps.",
+    "weight": 1
+  }
+]

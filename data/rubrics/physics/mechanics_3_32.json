@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Expression for Cosine",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for cos(theta/2) in terms of E0 and m.",
+    "weight": 5
+  },
+  {
+    "title": "Low Energy Limit",
+    "description": "Important Criteria: The student should accurately determine theta in the low energy limit, showing the correct approximation and reasoning.",
+    "weight": 4
+  },
+  {
+    "title": "High Energy Limit",
+    "description": "Important Criteria: The student must correctly find theta in the high energy limit, demonstrating understanding of relativistic effects.",
+    "weight": 4
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: The student should apply conservation of energy and momentum correctly in the context of the problem.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Dimensions",
+    "description": "Optional Criteria: The student should check that all quantities have consistent units throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as sign errors or misapplying conservation laws.",
+    "weight": -2
+  }
+]

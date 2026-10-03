@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum EMF calculation",
+    "description": "Essential: Student must correctly compute the maximum induced EMF using Em = nBSω = 2πnBSf.",
+    "weight": 5
+  },
+  {
+    "title": "RMS voltage conversion",
+    "description": "Essential: Student must convert maximum EMF to RMS primary voltage using U1 = Em/√2.",
+    "weight": 5
+  },
+  {
+    "title": "Transformer turns ratio",
+    "description": "Essential: Student must correctly calculate the turns ratio n1/n2 = U1/U2 from the given motor voltage.",
+    "weight": 5
+  },
+  {
+    "title": "Secondary current calculation",
+    "description": "Important: Student must determine total secondary current from the power rating and number of motors using I2 = 2P/U2.",
+    "weight": 4
+  },
+  {
+    "title": "Primary current via transformer",
+    "description": "Important: Student must apply the transformer current ratio I1 = (n2/n1)I2 to find the ammeter reading.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units throughout calculations (V, A, Hz, m², T).",
+    "weight": 2
+  },
+  {
+    "title": "Confusing peak with RMS",
+    "description": "Pitfall: Student incorrectly uses maximum EMF directly as the primary voltage without dividing by √2.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect power calculation",
+    "description": "Pitfall: Student fails to account for both motors when calculating total secondary power or current.",
+    "weight": -2
+  },
+  {
+    "title": "Reversed transformer ratio",
+    "description": "Pitfall: Student inverts the voltage or current ratio (e.g., uses n1/n2 for current instead of n2/n1).",
+    "weight": -1
+  }
+]

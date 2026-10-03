@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for r_0 with appropriate units.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Important Criteria: The student correctly calculates the total energy of the positron and accounts for the mass difference.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb Energy Formula",
+    "description": "Important Criteria: The student uses the correct formula for the Coulomb energy of uniformly charged spheres.",
+    "weight": 4
+  },
+  {
+    "title": "Mass Difference",
+    "description": "Important Criteria: The student correctly identifies and calculates the mass difference between the two nuclei involved in the decay.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student fails to account for the correct sign in energy calculations, leading to incorrect results.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Recoil",
+    "description": "Pitfall Criteria: The student incorrectly includes the recoil energy of the nucleus in their calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Radius Calculation",
+    "description": "Important Criteria: The student correctly applies the formula for the radius of the nucleus based on the mass number.",
+    "weight": 3
+  }
+]

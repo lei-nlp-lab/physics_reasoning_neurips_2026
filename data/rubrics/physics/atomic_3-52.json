@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Parity Transformations",
+    "description": "Essential Criteria: Correctly state the transformations of spin and momentum under the parity operator.",
+    "weight": 5
+  },
+  {
+    "title": "Time Reversal Transformations",
+    "description": "Essential Criteria: Correctly state the transformations of spin and momentum under the time reversal operator.",
+    "weight": 5
+  },
+  {
+    "title": "Time Reversal Violation",
+    "description": "Important Criteria: Clearly suggest a method to detect time reversal violation in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Experimental Setup",
+    "description": "Important Criteria: Mention crucial experimental details or assumptions necessary for the detection method.",
+    "weight": 3
+  },
+  {
+    "title": "Angular Correlation Definition",
+    "description": "Optional Criteria: Define the angular correlation quantity Q in the context of the decay process.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the transformations or in the interpretation of results.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final thickness of the soap film must be correctly calculated as d = 4260 Å.",
+    "weight": 5
+  },
+  {
+    "title": "Optical Path Difference",
+    "description": "Important Criteria: The expression for the optical path difference must be correctly derived as Δ = 2nd cos θ + λ/2.",
+    "weight": 4
+  },
+  {
+    "title": "Constructive Interference Condition",
+    "description": "Important Criteria: The condition for constructive interference must be correctly stated as Δ = 2λ.",
+    "weight": 4
+  },
+  {
+    "title": "Snell's Law Application",
+    "description": "Important Criteria: Snell's law must be correctly applied to find the angle of refraction inside the film.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The units used throughout the calculations must be consistent and correctly converted.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the optical path difference calculation will lead to a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Angle Calculation",
+    "description": "Optional Criteria: The calculation of cos θ must be correctly derived from the angle of refraction.",
+    "weight": 2
+  }
+]

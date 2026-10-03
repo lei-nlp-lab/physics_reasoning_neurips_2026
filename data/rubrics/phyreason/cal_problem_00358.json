@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Essential: Final power",
+    "description": "Essential Criteria – The student's final answer for the power consumed by R1 must be 8 W (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Final specific charge",
+    "description": "Essential Criteria – The student's final answer for the specific charge (q/m) must be 0.1 C/kg (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Important: Induced EMF calculation",
+    "description": "Important Criteria – The student must correctly apply Faraday's law (E = n * ΔB/Δt * S) using the slope from the graph (2 T/s) and convert area to m².",
+    "weight": 4
+  },
+  {
+    "title": "Important: Circuit current",
+    "description": "Important Criteria – The student must correctly use Ohm's law for the full circuit (I = E / (R1 + R2 + r)) to find the steady current.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Capacitor voltage",
+    "description": "Important Criteria – The student must correctly identify that the capacitor voltage equals the voltage across R2 (U = I * R2) in the steady state.",
+    "weight": 3
+  },
+  {
+    "title": "Important: Particle force balance",
+    "description": "Important Criteria – The student must set up the equilibrium condition for the particle: electric force (qU/d) equals gravitational force (mg).",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit consistency",
+    "description": "Optional Criteria – The student demonstrates consistent unit conversion (e.g., cm² to m², cm to m) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Graph misinterpretation",
+    "description": "Pitfall Criteria – Penalize using an incorrect slope from the B-t graph (e.g., using B value instead of ΔB/Δt).",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Sign/area error",
+    "description": "Pitfall Criteria – Penalize forgetting to convert the cross-sectional area from cm² to m², leading to a power-of-10 error.",
+    "weight": -1
+  }
+]

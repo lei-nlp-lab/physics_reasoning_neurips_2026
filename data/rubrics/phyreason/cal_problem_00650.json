@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Force magnitude correct",
+    "description": "Essential: The student's answer must give the magnitude of the force as 1.0 × 10⁻⁸ N.",
+    "weight": 5
+  },
+  {
+    "title": "Force direction correct",
+    "description": "Essential: The student must correctly state the force on q1 is attractive, directed from A toward B (to the left).",
+    "weight": 5
+  },
+  {
+    "title": "Applies Coulomb's law",
+    "description": "Important: The solution must correctly apply Coulomb's law, F = k|q1q2|/r², with proper unit conversion (cm to m).",
+    "weight": 4
+  },
+  {
+    "title": "Field from force definition",
+    "description": "Important: For part (2), the student must correctly use the definition E = F/q (using the test charge q1) to find the field at A.",
+    "weight": 4
+  },
+  {
+    "title": "Field magnitude correct",
+    "description": "Essential: The student's answer must give the electric field magnitude at A as 100 N/C for both parts (2) and (3).",
+    "weight": 5
+  },
+  {
+    "title": "Field direction correct",
+    "description": "Important: The student must correctly state the field direction at A is away from q2 (to the right) for both parts (2) and (3).",
+    "weight": 3
+  },
+  {
+    "title": "Superposition principle applied",
+    "description": "Important: For part (3), the student must recognize that the field at A is due solely to q2 after q1 is removed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall: Penalize if the student fails to convert the distance from 30 cm to 0.30 m in Coulomb's law.",
+    "weight": -2
+  },
+  {
+    "title": "Sign/direction confusion",
+    "description": "Pitfall: Penalize if the student confuses the sign of charges, leading to incorrect force or field direction.",
+    "weight": -1
+  },
+  {
+    "title": "Unit analysis or clarity",
+    "description": "Optional: Award credit for explicitly showing unit analysis or providing a clear, step-by-step derivation.",
+    "weight": 1
+  }
+]

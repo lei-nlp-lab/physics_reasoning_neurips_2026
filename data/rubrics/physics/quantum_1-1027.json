@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Probability Expression",
+    "description": "Essential Criteria: The final probability P must be correctly expressed as approximately 16%.",
+    "weight": 5
+  },
+  {
+    "title": "Energy and Potential Relation",
+    "description": "Important Criteria: The relationship between the energy E and the potential V(x) must be correctly established for the nonclassical region.",
+    "weight": 4
+  },
+  {
+    "title": "Classical Region Boundaries",
+    "description": "Important Criteria: The conditions defining the boundaries of the classical region must be accurately derived, specifically x^2 > 1/alpha.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The integrals for calculating the probability must be correctly set up, including the limits and the wave function squared.",
+    "weight": 4
+  },
+  {
+    "title": "Common Mistakes",
+    "description": "Pitfall Criteria: Errors in the integration limits or incorrect evaluation of the integrals will lead to a loss of points.",
+    "weight": -2
+  }
+]

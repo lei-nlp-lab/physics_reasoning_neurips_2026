@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Charge Density",
+    "description": "Essential Criteria: The student must correctly identify the bound charge density as rho = -P_0.",
+    "weight": 5
+  },
+  {
+    "title": "Final Magnetic Field",
+    "description": "Essential Criteria: The student must conclude that the magnetic field B = 0 at points on the axis of the cylinder.",
+    "weight": 5
+  },
+  {
+    "title": "Divergence Calculation",
+    "description": "Important Criteria: The student should show the correct application of the divergence operator to find the charge density.",
+    "weight": 4
+  },
+  {
+    "title": "Current Density Derivation",
+    "description": "Important Criteria: The student must derive the volume current density correctly using the given polarization and angular velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Surface Charge Density",
+    "description": "Optional Criteria: The student may include the calculation of the surface charge density sigma = P_0 a / 2.",
+    "weight": 3
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The student should correctly evaluate the volume and surface integrals contributing to the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the calculations of current and magnetic field.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

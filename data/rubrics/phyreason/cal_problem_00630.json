@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Essential: k expression",
+    "description": "Essential Criteria: The student must state that k = GM/(4π²) or an algebraically equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Earth mass expression",
+    "description": "Essential Criteria: The student must derive the expression M_earth = (4π²r₁³)/(GT₁²) from Kepler's law and gravitational force.",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Numerical mass value",
+    "description": "Essential Criteria: The student must calculate and state a numerical mass for Earth of approximately 6 × 10²⁴ kg (to one significant figure).",
+    "weight": 5
+  },
+  {
+    "title": "Important: Force balance setup",
+    "description": "Important Criteria: The solution must equate gravitational force (GMm/r²) to centripetal force (mω²r or mv²/r) for the circular orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Angular velocity substitution",
+    "description": "Important Criteria: The solution must correctly substitute ω = 2π/T to eliminate angular velocity in favor of the orbital period.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Unit consistency check",
+    "description": "Optional Criteria: The student may verify the units of the derived expressions (k and M_earth) are dimensionally correct.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Incorrect exponent or factor",
+    "description": "Pitfall Criteria: Penalize if the final expressions have incorrect exponents (e.g., r² instead of r³) or missing factors like 4π².",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Calculation error",
+    "description": "Pitfall Criteria: Penalize significant arithmetic or power-of-ten errors in the numerical estimation of Earth's mass.",
+    "weight": -1
+  }
+]

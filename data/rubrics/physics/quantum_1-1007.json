@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Force Expression",
+    "description": "Essential Criteria: The student must provide the correct final expression for the force F(r).",
+    "weight": 5
+  },
+  {
+    "title": "Potential Function Derivation",
+    "description": "Important Criteria: The student should correctly derive the potential function V(r) from the Schrödinger equation.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Relation",
+    "description": "Important Criteria: The student must demonstrate understanding of the relationship between wave functions in coordinate and momentum space.",
+    "weight": 3
+  },
+  {
+    "title": "Gradient Calculation",
+    "description": "Important Criteria: The student should correctly compute the gradient of the potential to find the force.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units of the force are consistent with the physical context.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the force calculation.",
+    "weight": -2
+  }
+]

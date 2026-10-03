@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential Criteria: The final answer for part (1) must be expressed as B = mv₀/(2qL) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Motion time expression",
+    "description": "Essential Criteria: The final answer for part (2) must be expressed as t = 5πL/(3v₀) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Radius determination",
+    "description": "Important Criteria: The solution must correctly determine the circular motion radius as r = 2L from the geometric constraints of entry and exit.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force relation",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion: qv₀B = mv₀²/r.",
+    "weight": 4
+  },
+  {
+    "title": "Arc angle calculation",
+    "description": "Important Criteria: The solution must correctly identify the particle traverses 150° of the circular path based on the 30° entry angle and perpendicular exit condition.",
+    "weight": 3
+  },
+  {
+    "title": "Arc length calculation",
+    "description": "Important Criteria: The solution must compute the arc length as (150/360)×2πr or equivalent fraction of the circumference.",
+    "weight": 3
+  },
+  {
+    "title": "Constant speed recognition",
+    "description": "Optional Criteria: The solution may note that magnetic forces do no work, so speed remains constant at v₀ throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect radius assumption",
+    "description": "Pitfall Criteria: Penalize if the radius is incorrectly assumed to be L or derived from incomplete geometry.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall Criteria: Penalize if the arc angle is taken as 30°, 90°, or 120° instead of 150°.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall Criteria: Penalize if using t = 2πm/(qB) for full period without adjusting for the actual fraction traversed.",
+    "weight": -1
+  }
+]

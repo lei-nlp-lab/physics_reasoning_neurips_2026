@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Energies",
+    "description": "Essential Criteria: The student must provide the correct expressions for the perturbation energies of the second and third lowest states in integral form.",
+    "weight": 5
+  },
+  {
+    "title": "State Classification",
+    "description": "Important Criteria: The student should correctly classify the three lowest-energy states in terms of their spatial and spin components.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Forms",
+    "description": "Important Criteria: The student must correctly write the antisymmetrized and symmetrized wave functions for the two-particle system.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Treatment",
+    "description": "Important Criteria: The student should demonstrate understanding of treating the perturbation in a nondegenerate manner for the first excited state.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect normalization of wave functions or incorrect application of symmetry principles.",
+    "weight": -2
+  }
+]

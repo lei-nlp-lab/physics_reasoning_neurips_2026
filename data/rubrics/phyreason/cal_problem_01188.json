@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension magnitude",
+    "description": "Essential: The student's final answer for the rope tension T must be 100 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force F magnitude",
+    "description": "Essential: The student's final answer for the applied horizontal force F must be 200 N.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium for crate A",
+    "description": "Important: The solution must apply Newton's first law to crate A, balancing horizontal (T cosθ = f1) and vertical (N1 = mAg + T sinθ) forces.",
+    "weight": 4
+  },
+  {
+    "title": "Friction on crate A",
+    "description": "Important: The solution must correctly relate the friction force f1 between A and B to the normal force N1 using the given coefficient μ1 (f1 = μ1 N1).",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium for plank B",
+    "description": "Important: The solution must apply Newton's first law to plank B, balancing horizontal forces (F = f1 + f2) and vertical forces (N2 = N1 + mBg).",
+    "weight": 4
+  },
+  {
+    "title": "Friction on plank B",
+    "description": "Important: The solution must correctly calculate the ground friction f2 on plank B using the given coefficient μ2 and the normal force N2 (f2 = μ2 N2).",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct if the solution misassigns the direction of a friction force (e.g., on A relative to B) or misapplies signs in force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or mismatch",
+    "description": "Pitfall: Deduct if final answers lack units (N) or use incorrect units, given that g is provided as 10 m/s².",
+    "weight": -1
+  },
+  {
+    "title": "Trigonometric application",
+    "description": "Optional: The solution correctly uses sin37°=0.6 and cos37°=0.8 when resolving the tension force components.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Frequency Bound",
+    "description": "Essential Criteria: The student must provide the inequality for the lowest oscillation frequency, ω_0^2, in terms of the inner product.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison with Real Answer",
+    "description": "Important Criteria: The student should compare their derived bound with the actual frequency result of ω_0^2 ≈ (18.956)T_0/(μ_0a^2).",
+    "weight": 4
+  },
+  {
+    "title": "Correct Use of Inner Product",
+    "description": "Essential Criteria: The student must correctly define and use the inner product involving the mass density μ(x) and the wave function.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should mention that the boundary conditions lead to the orthogonality of the wave functions.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: The student should show clear steps in integrating the functions involved in the variational principle.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as incorrect boundary conditions or misapplying the variational principle.",
+    "weight": -2
+  },
+  {
+    "title": "Mass Density Application",
+    "description": "Important Criteria: The student should correctly apply the given mass density μ(x) = μ_0(x/a) in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Final Expression Clarity",
+    "description": "Optional Criteria: The student should present the final expressions clearly and concisely, ensuring all variables are defined.",
+    "weight": 2
+  }
+]

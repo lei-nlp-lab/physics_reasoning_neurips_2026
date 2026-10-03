@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Physics Principles",
+    "description": "Essential Criteria: Identify the conservation laws applicable to the meteorite's motion after the collision.",
+    "weight": 5
+  },
+  {
+    "title": "Orbit Shape",
+    "description": "Essential Criteria: Describe the shape of the meteorite's orbit after the collision as elliptic.",
+    "weight": 5
+  },
+  {
+    "title": "Closest Approach Calculation",
+    "description": "Essential Criteria: Correctly calculate the distance of closest approach to the Earth after the collision.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Loss Impact",
+    "description": "Important Criteria: Explain how the loss of kinetic energy affects the total mechanical energy and orbit type.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all calculations maintain consistent units throughout.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid common sign mistakes in energy calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Mass Independence",
+    "description": "Optional Criteria: Recognize that the final answers do not depend on the mass of the meteorite.",
+    "weight": 1
+  }
+]

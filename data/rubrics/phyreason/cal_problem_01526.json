@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electrostatic Force Magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly calculated as 1.5 × 10⁻³ N.",
+    "weight": 5
+  },
+  {
+    "title": "Ball A Charge",
+    "description": "Essential: The final answer for part (2) must be correctly calculated as +3 × 10⁻⁹ C.",
+    "weight": 5
+  },
+  {
+    "title": "Force Balance Setup",
+    "description": "Important: The student must resolve forces on ball A into vertical (tension vs. weight) and horizontal (tension vs. electrostatic) components.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Distance Calculation",
+    "description": "Important: The student must correctly compute the separation r = l sin θ = 0.06 m using the geometry of the setup.",
+    "weight": 3
+  },
+  {
+    "title": "Coulomb's Law Application",
+    "description": "Important: The student must apply Coulomb's law F = k|q_A q_B|/r² to relate the electrostatic force to the unknown charge q_A.",
+    "weight": 4
+  },
+  {
+    "title": "Sign of Charge",
+    "description": "Optional: The student may note that the charges must be like (both positive or both negative) to produce repulsion, and the answer should include a positive sign.",
+    "weight": 1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: The student may show proper unit conversion (cm to m, etc.) and dimensional analysis throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect Force Ratio",
+    "description": "Pitfall: Using sin θ or cos θ incorrectly in the force balance (e.g., writing F = mg sin θ instead of F = mg tan θ).",
+    "weight": -2
+  },
+  {
+    "title": "Distance Mistake",
+    "description": "Pitfall: Using an incorrect separation (e.g., r = l, r = l cos θ, or forgetting to convert length to meters).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or Arithmetic Error",
+    "description": "Pitfall: Making a calculation mistake in solving for q_A from Coulomb's law after obtaining F and r.",
+    "weight": -1
+  }
+]

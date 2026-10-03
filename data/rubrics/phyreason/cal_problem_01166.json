@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct stopping time",
+    "description": "Essential: Student must recognize that the car stops before 20 seconds and calculate the actual stopping time (12.5s).",
+    "weight": 5
+  },
+  {
+    "title": "First distance calculation",
+    "description": "Essential: Student must correctly compute x₁ = 31.25 m using appropriate kinematics equations.",
+    "weight": 5
+  },
+  {
+    "title": "Second distance calculation",
+    "description": "Essential: Student must correctly compute x₂ = 0.8 m for the final 2 seconds of motion.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics equation selection",
+    "description": "Important: Student must apply v² = u² + 2as for part (1) and s = ut + ½at² for part (2) with correct signs.",
+    "weight": 3
+  },
+  {
+    "title": "Deceleration sign handling",
+    "description": "Important: Student must consistently treat deceleration as negative acceleration in equations.",
+    "weight": 3
+  },
+  {
+    "title": "Time interval understanding",
+    "description": "Important: Student must recognize that part (2) asks for distance during the 2 seconds immediately before stopping, not any arbitrary 2-second interval.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student maintains consistent units (m, s, m/s²) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Ignoring stopping time",
+    "description": "Pitfall: Student assumes the car is still moving after 20 seconds and calculates distance for full 20 seconds.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in equations",
+    "description": "Pitfall: Student uses positive acceleration instead of negative deceleration in kinematics equations.",
+    "weight": -2
+  }
+]

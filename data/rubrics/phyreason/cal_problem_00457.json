@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Linear velocity expression",
+    "description": "Essential: The final answer for part (1) must be the correct formula, v = sqrt(GM/r).",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity expression",
+    "description": "Essential: The final answer for part (2) must be the correct formula, ω = sqrt(GM/r³).",
+    "weight": 5
+  },
+  {
+    "title": "First cosmic velocity",
+    "description": "Essential: The final answer for part (3) must be the correct formula, v₁ = sqrt(gR).",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's law",
+    "description": "Important: The solution should equate gravitational force to the required centripetal force (mv²/r or mω²r).",
+    "weight": 4
+  },
+  {
+    "title": "Deriving v₁ from g",
+    "description": "Important: For part (3), the solution must relate surface gravity g to GM (using g = GM/R²) to derive the final expression.",
+    "weight": 4
+  },
+  {
+    "title": "Correct algebraic manipulation",
+    "description": "Important: The algebra from force balance to the final velocity expressions must be logically sound and correctly executed.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final answers should have correct implied units (e.g., m/s for velocity, rad/s for angular velocity).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing radius variables",
+    "description": "Pitfall: Penalize if the student confuses orbital radius r with Earth's radius R, especially in parts (1)/(2) vs. (3).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect centripetal expression",
+    "description": "Pitfall: Penalize using an incorrect form of centripetal acceleration (e.g., v²/r² for linear, wrong power for ω).",
+    "weight": -2
+  }
+]

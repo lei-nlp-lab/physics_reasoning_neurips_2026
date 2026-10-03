@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct minimum energy of 6.6 GeV must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Reaction Equation",
+    "description": "Important Criteria: The reaction equation for antiproton production must be correctly stated.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Calculation",
+    "description": "Important Criteria: The calculation of invariant mass and its relation to energy must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Relation",
+    "description": "Important Criteria: The relationship E = 7m_p must be correctly identified and applied.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units of energy should be consistent and correctly stated as GeV.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Missing the factor of 7 in the energy calculation or miscalculating the threshold energy will lead to a deduction.",
+    "weight": -2
+  }
+]

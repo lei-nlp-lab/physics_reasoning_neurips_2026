@@ -1,0 +1,47 @@
+[
+  {
+    "title": "High-voltage line current",
+    "description": "Essential Criteria: Correctly calculates I₂ = P₃ / U₃, yielding 50 A.",
+    "weight": 5
+  },
+  {
+    "title": "Step-up transformer ratio",
+    "description": "Essential Criteria: Correctly calculates n₁:n₂ = U₁:U₂, yielding 1:16.",
+    "weight": 5
+  },
+  {
+    "title": "Conversion efficiency",
+    "description": "Essential Criteria: Correctly calculates η = (P₁ / P₀) × 100%, yielding 40%.",
+    "weight": 5
+  },
+  {
+    "title": "Power conservation reasoning",
+    "description": "Important Criteria: Applies power conservation (P₃ = P₄, P₁ = P₃ + ΔP) to link generator, transmission, and user power.",
+    "weight": 4
+  },
+  {
+    "title": "Voltage drop calculation",
+    "description": "Important Criteria: Uses Ohm's law (ΔU = I₂ r) to find the 200 V loss in the transmission line.",
+    "weight": 3
+  },
+  {
+    "title": "Transformer voltage relations",
+    "description": "Important Criteria: Applies ideal transformer law (U₃/U₄ = n₃/n₄, U₁/U₂ = n₁/n₂) to find U₃ and the step-up ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Water mechanical power",
+    "description": "Important Criteria: Calculates the available mechanical power from water using P₀ = ρ Q g h, yielding 5 × 10⁵ W.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit confusion",
+    "description": "Pitfall Criteria: Confuses step-up/step-down transformer ratios or misapplies voltage addition (U₂ = U₃ + ΔU vs. U₂ = U₃ - ΔU).",
+    "weight": -2
+  },
+  {
+    "title": "Power formula misuse",
+    "description": "Pitfall Criteria: Uses P = U²/R or P = I U incorrectly for the transmission line, or misidentifies which power (P₃, P₄, P₁) to use in calculations.",
+    "weight": -1
+  }
+]

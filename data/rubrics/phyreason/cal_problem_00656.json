@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electrostatic force magnitude",
+    "description": "Essential: Correctly calculates the electrostatic force at point A as F = mg sin30° - m(g/4) = mg/4.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: Applies Newton's second law along the incline at point A, accounting for both gravitational and electrostatic forces.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem setup",
+    "description": "Important: Sets up the work-energy theorem between points A and B, including both gravitational and electrostatic work.",
+    "weight": 4
+  },
+  {
+    "title": "Potential difference calculation",
+    "description": "Essential: Correctly calculates the potential difference U_AB = -kq/L from the work-energy equation.",
+    "weight": 5
+  },
+  {
+    "title": "Distance recognition",
+    "description": "Important: Recognizes that AB = L/2 and uses this in gravitational work calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in force direction",
+    "description": "Pitfall: Incorrectly assigns direction to electrostatic force (attractive vs repulsive) in Newton's law setup.",
+    "weight": -2
+  },
+  {
+    "title": "Energy conservation sign error",
+    "description": "Pitfall: Makes sign errors in work-energy equation, particularly with electrostatic potential energy change.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies that final answers have correct units (force in N, potential in V).",
+    "weight": 1
+  }
+]

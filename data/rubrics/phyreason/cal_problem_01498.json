@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct static tension",
+    "description": "Essential: The final answer for the static tension force must be 6.4 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct static normal force",
+    "description": "Essential: The final answer for the static normal force must be 4.8 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct dynamic tension",
+    "description": "Essential: The final answer for the tension during circular motion must be 10 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct dynamic normal force",
+    "description": "Essential: The final answer for the normal force during circular motion must be 0 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force resolution in equilibrium",
+    "description": "Important: The solution must correctly resolve forces (weight, tension, normal) along the cone's surface and perpendicular to it for the static case.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion condition",
+    "description": "Important: For the dynamic case, the solution must apply Newton's second law for circular motion, recognizing the normal force becomes zero.",
+    "weight": 4
+  },
+  {
+    "title": "Geometry and radius",
+    "description": "Important: The solution must correctly identify the radius of the circular path as l sin(37°).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All forces should be expressed with the correct unit (N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if force components are resolved with incorrect signs or directions relative to the cone's geometry.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplied equilibrium",
+    "description": "Pitfall: Penalize if the static equilibrium equations are incorrectly applied to the dynamic circular motion case.",
+    "weight": -2
+  }
+]

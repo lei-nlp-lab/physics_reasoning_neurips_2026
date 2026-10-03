@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The response must clearly state that the lack of a bound state for two neutrons indicates the spin dependency of the nuclear force.",
+    "weight": 5
+  },
+  {
+    "title": "Spin States Explanation",
+    "description": "Important Criteria: The response should explain the difference between singlet and triplet spin states and their relevance to binding.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Level Consideration",
+    "description": "Important Criteria: The response must mention that the energy level of the singlet state is higher than that of the triplet state.",
+    "weight": 3
+  },
+  {
+    "title": "Charge Independence Note",
+    "description": "Optional Criteria: The response could briefly discuss the charge independence of the nuclear force as a context for the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misunderstanding",
+    "description": "Pitfall Criteria: The response should avoid incorrectly stating that two neutrons can form a bound state due to charge independence.",
+    "weight": -2
+  }
+]

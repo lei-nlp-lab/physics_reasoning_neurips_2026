@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: Correctly states the Ampere force as F = G tan θ.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic induction magnitude",
+    "description": "Essential: Correctly states the magnetic field as B = (G tan θ)/(I L).",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: Applies static equilibrium conditions to relate Ampere force, tension, and gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere's law application",
+    "description": "Important: Uses F = BIL to relate Ampere force to magnetic field, current, and length.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric resolution",
+    "description": "Important: Correctly resolves forces into horizontal and vertical components using the angle θ.",
+    "weight": 3
+  },
+  {
+    "title": "Direction consistency",
+    "description": "Optional: Notes that Ampere force direction matches magnetic field and current orientation.",
+    "weight": 1
+  },
+  {
+    "title": "Unit analysis",
+    "description": "Optional: Includes or checks units for force (N) and magnetic field (T).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force balance",
+    "description": "Pitfall: Sets F = G sin θ or similar incorrect trigonometric relationship.",
+    "weight": -2
+  },
+  {
+    "title": "Formula misapplication",
+    "description": "Pitfall: Uses F = BIL incorrectly (e.g., omits L or I) when solving for B.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Time A to B",
+    "description": "Essential: The final answer for part (1) must be 1.1 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Max ascent distance",
+    "description": "Essential: The final answer for part (2) must be 1.25 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Condition and time C to D",
+    "description": "Essential: The final answers for part (3) must state v_CD ≥ 4 m/s and a minimum time of 1.16 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics on AB",
+    "description": "Important: The solution must correctly calculate the acceleration (5 m/s²) and the time/distance to reach belt speed on the horizontal section.",
+    "weight": 4
+  },
+  {
+    "title": "Forces on stationary CD",
+    "description": "Important: For part (2), the solution must correctly apply Newton's second law to find the deceleration (10 m/s²) up the incline with friction.",
+    "weight": 4
+  },
+  {
+    "title": "Forces on moving CD",
+    "description": "Important: For part (3), the solution must correctly analyze the two acceleration phases on the moving incline (relative motion and matching speed).",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Incorrect sign for acceleration on the incline (e.g., confusing up-slope and down-slope directions or friction direction).",
+    "weight": -2
+  },
+  {
+    "title": "Relative motion oversight",
+    "description": "Pitfall: Failing to consider that the bag's initial motion relative to the moving CD belt determines the net acceleration phase.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution maintains consistent use of SI units (m, s, m/s, m/s²) throughout the calculation.",
+    "weight": 1
+  }
+]

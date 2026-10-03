@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly states the final expression for the electric field magnitude, E = (3mg)/(4q) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: Correctly states the final expression for the block's acceleration, a = (21g)/20 or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Final speed",
+    "description": "Essential: Correctly states the final expression for the speed at the ground, v = sqrt(7gH/2) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: For part (1), resolves forces (gravity, normal, electric) along the incline or axes to set up the equilibrium condition.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: For part (2), applies Newton's second law along the incline with the new electric force to find acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Important: Uses constant-acceleration kinematics (v^2 = u^2 + 2as) with correct displacement (H/sin37°) to find final speed.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric function usage",
+    "description": "Optional: Correctly uses sin37°=0.6 and cos37°=0.8 in force components or displacement.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Misplaces the direction of the electric force in either part, leading to incorrect force components.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect displacement",
+    "description": "Pitfall: Uses H instead of H/sin37° for the distance traveled along the incline in the kinematics step.",
+    "weight": -1
+  }
+]

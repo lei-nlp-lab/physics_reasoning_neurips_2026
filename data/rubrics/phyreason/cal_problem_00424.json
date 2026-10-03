@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct final speed",
+    "description": "Essential: The response must state the correct numerical speed (14 m/s) for the object at the fifth-floor rooftop.",
+    "weight": 5
+  },
+  {
+    "title": "Correct floor number",
+    "description": "Essential: The response must state the correct floor number (9) from which the object was thrown.",
+    "weight": 5
+  },
+  {
+    "title": "Uses correct kinematic equation",
+    "description": "Important: The solution must apply the correct kinematic equation (e.g., h = vt + 1/2 gt^2) to find the speed at the rooftop.",
+    "weight": 4
+  },
+  {
+    "title": "Calculates drop height",
+    "description": "Important: The solution must correctly use v^2 = 2gΔh (or equivalent) to find the drop height above the fifth floor.",
+    "weight": 4
+  },
+  {
+    "title": "Converts height to floors",
+    "description": "Important: The solution must correctly add the 5 floors and divide the additional drop height by the floor height (3 m) to determine the total floor number.",
+    "weight": 3
+  },
+  {
+    "title": "Proper rounding",
+    "description": "Optional: The solution should correctly round the calculated total floor number to the nearest whole number (or justify the floor assignment).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in equation",
+    "description": "Pitfall: Penalize if the sign for acceleration (g) is incorrect in the kinematic equations, leading to a wrong speed or height.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if units are missing, incorrectly used, or inconsistent in calculations (e.g., mixing m and cm, or m/s^2 not used correctly).",
+    "weight": -1
+  }
+]

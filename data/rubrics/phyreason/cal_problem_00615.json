@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Accelerations under field",
+    "description": "Essential: Correctly states the accelerations of the block (2 m/s²) and plate (8 m/s²) while the electric field is on.",
+    "weight": 5
+  },
+  {
+    "title": "Velocities at t=2s",
+    "description": "Important: Calculates the velocities of the block (4 m/s) and plate (16 m/s) at the moment the electric field is removed.",
+    "weight": 4
+  },
+  {
+    "title": "Post-field accelerations",
+    "description": "Important: Correctly determines the accelerations after the field is removed (block: 2 m/s², plate: -10 m/s²).",
+    "weight": 4
+  },
+  {
+    "title": "Equal velocity magnitude",
+    "description": "Essential: Correctly finds the common speed (6 m/s) when the block and plate velocities become equal after the field is off.",
+    "weight": 5
+  },
+  {
+    "title": "Relative displacement calculation",
+    "description": "Essential: Correctly calculates the total relative displacement (18 m) as the length of the colored trace.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on plate",
+    "description": "Important: Applies Newton's second law to the plate, accounting for electric force and both friction forces correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics application",
+    "description": "Optional: Uses correct kinematic equations to find displacements for both objects in both phases of motion.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Incorrectly assigns the direction of friction forces or accelerations, leading to wrong signs in equations.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force confusion",
+    "description": "Pitfall: Uses the wrong coefficient (e.g., μ2 for block-plate friction) or omits a friction force in the force balance.",
+    "weight": -2
+  }
+]

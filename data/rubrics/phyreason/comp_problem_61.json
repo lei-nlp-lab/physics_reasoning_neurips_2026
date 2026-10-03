@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct thickness expression",
+    "description": "Essential: The student's answer for part (a) must give the thickness as d = d_0 - Q²/(2εAk).",
+    "weight": 5
+  },
+  {
+    "title": "Correct voltage expression",
+    "description": "Essential: The student's answer for part (b) must give the voltage as V = (Q/(εA)) * (d_0 - Q²/(2εAk)).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must equate the electrostatic attraction force (Q²/(2εA)) to the spring restoring force (k(d_0 - d)).",
+    "weight": 4
+  },
+  {
+    "title": "Voltage maximization process",
+    "description": "Important: For part (c), the solution must find dV/dQ = 0 to determine the charge Q_max at which voltage is maximum.",
+    "weight": 4
+  },
+  {
+    "title": "Critical spring constant inequality",
+    "description": "Essential: The final answer for part (c) must be the inequality k > (27/8) * (V_th² ε A / d_0³) or its equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: For part (d), the work done by pumps must be identified as the sum of spring potential energy and electrostatic energy stored.",
+    "weight": 3
+  },
+  {
+    "title": "Correct work for k larger",
+    "description": "Essential: The answer for part (d)(i) must be W = (5/18) k d_0².",
+    "weight": 5
+  },
+  {
+    "title": "Correct work for k smaller",
+    "description": "Essential: The answer for part (d)(ii) must be W = (1/2) k d_0².",
+    "weight": 5
+  },
+  {
+    "title": "Misidentifying electric field",
+    "description": "Pitfall: Using the parallel-plate capacitor field E=Q/(εA) to calculate the force between the layers, instead of the field from a single sheet.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign in the force balance (e.g., spring force direction) or in the voltage expression leading to a non-physical thickness.",
+    "weight": -1
+  }
+]

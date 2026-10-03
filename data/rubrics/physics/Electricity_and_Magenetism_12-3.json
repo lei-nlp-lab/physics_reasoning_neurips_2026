@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct expression for the force on the electron in the lab frame.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct expression for the force on the electron in the electron's rest frame.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Important Criteria: The student should correctly calculate the magnetic field produced by the wire using Ampère's law.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz Force Application",
+    "description": "Important Criteria: The student must correctly apply the Lorentz force equation to find the force on the electron in both frames.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Forces",
+    "description": "Important Criteria: The student should qualitatively compare the forces in both frames, discussing the nature of the forces involved.",
+    "weight": 3
+  },
+  {
+    "title": "Relativistic Effects Consideration",
+    "description": "Optional Criteria: The student should mention the effects of relativistic corrections when transitioning between frames.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign errors in the calculations of forces.",
+    "weight": -2
+  }
+]

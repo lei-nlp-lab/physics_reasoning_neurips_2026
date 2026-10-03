@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Initial spring B deformation",
+    "description": "Essential: Correctly calculates the initial compression of spring B using Hooke's law (k1*x1 = mg).",
+    "weight": 5
+  },
+  {
+    "title": "Final spring B extension",
+    "description": "Important: Recognizes that when pulled to point b, the tension in spring B equals mg, requiring a specific extension (x2).",
+    "weight": 4
+  },
+  {
+    "title": "Height A rises",
+    "description": "Important: Correctly sums the magnitudes of the initial compression and final extension to find the total vertical displacement of A.",
+    "weight": 4
+  },
+  {
+    "title": "Spring C elongation",
+    "description": "Important: Correctly relates the horizontal displacement ab to the deformations of spring B to find the stretch in spring C.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for k2",
+    "description": "Essential: Applies vertical force equilibrium on A at the final state to relate mg, spring B force, and the vertical component from spring C.",
+    "weight": 5
+  },
+  {
+    "title": "Correct k2 calculation",
+    "description": "Essential: Solves the equilibrium equation to find the correct numerical value for the spring constant k2.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, Newtons) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in deformations",
+    "description": "Pitfall: Confuses compression and extension for spring B, or misassigns signs in the force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Incorrectly relates the horizontal distance ab to the vertical displacements of A or the stretch of spring C.",
+    "weight": -2
+  }
+]

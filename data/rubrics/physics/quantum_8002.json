@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria - The correct expression for y in terms of x must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (b)",
+    "description": "Essential Criteria - The mean value of x must be calculated correctly as 2λ.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (c)",
+    "description": "Essential Criteria - The integral I must be evaluated correctly as π/8.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer for (d)",
+    "description": "Essential Criteria - The eigenvalues must be correctly identified as 3, -3, and 7.",
+    "weight": 5
+  },
+  {
+    "title": "Eigenvector Normalization",
+    "description": "Important Criteria - The eigenvectors must be correctly normalized.",
+    "weight": 4
+  },
+  {
+    "title": "Eigenvector Orthogonality",
+    "description": "Important Criteria - A comment on the orthogonality of the eigenvectors must be provided.",
+    "weight": 3
+  },
+  {
+    "title": "Series Convergence Condition",
+    "description": "Optional Criteria - The condition |x| < 1 should be stated for the series convergence.",
+    "weight": 2
+  },
+  {
+    "title": "Integration Method",
+    "description": "Optional Criteria - The method of residues should be briefly explained for the integral evaluation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria - Any sign mistakes or incorrect factors in the final answers will incur penalties.",
+    "weight": -2
+  }
+]

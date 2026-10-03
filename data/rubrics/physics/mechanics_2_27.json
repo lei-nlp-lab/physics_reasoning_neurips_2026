@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer for (a)",
+    "description": "Essential Criteria: The expression for the constraint force must be correctly derived as a constant multiplied by (1 + 4r^2/a^2)^(-3/2).",
+    "weight": 5
+  },
+  {
+    "title": "Direction of Force",
+    "description": "Important Criteria: The direction of the constraint force must be identified as being perpendicular to the inside surface of the paraboloid.",
+    "weight": 3
+  },
+  {
+    "title": "Lagrangian Setup",
+    "description": "Essential Criteria: The Lagrangian function must be correctly set up in spherical coordinates for the rotating frame.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity-Dependent Potential",
+    "description": "Important Criteria: The addition of the velocity-dependent potential U must be correctly shown in the Lagrangian.",
+    "weight": 4
+  },
+  {
+    "title": "Centrifugal Force Calculation",
+    "description": "Essential Criteria: The components of the centrifugal force must be accurately calculated and expressed in terms of r and omega.",
+    "weight": 5
+  },
+  {
+    "title": "Coriolis Force Calculation",
+    "description": "Essential Criteria: The components of the Coriolis force must be accurately calculated and expressed in terms of r and omega.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common errors such as sign mistakes or incorrect expressions for forces or potentials.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all terms are consistent in units throughout the calculations.",
+    "weight": 2
+  }
+]

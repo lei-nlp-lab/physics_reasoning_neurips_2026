@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The final energy expression for non-identical particles must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The final energy expression for identical spin-0 particles must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (c)",
+    "description": "Essential Criteria: The final energy expression for identical spin-1/2 particles must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Calculation",
+    "description": "Important Criteria: The calculation of the first-order perturbation correction must be correctly performed for each case.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Symmetry",
+    "description": "Important Criteria: The correct application of symmetry principles for the wave functions of identical particles must be demonstrated.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The setup of the integrals for calculating the energy corrections must be clearly shown.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the final expressions will result in a deduction.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The units of the final energy expressions should be consistent and correctly stated.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussion of limiting cases or special scenarios should be included for full credit.",
+    "weight": 1
+  }
+]

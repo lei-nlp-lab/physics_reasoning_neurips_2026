@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential: The final answer for part (1) must be correctly stated as √2 v₀.",
+    "weight": 5
+  },
+  {
+    "title": "Final distance from M",
+    "description": "Essential: The final answer for part (2) must be correctly stated as (√2 v₀²)/g.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity vector decomposition",
+    "description": "Important: The student must decompose the final velocity into horizontal (v₀) and vertical components, recognizing they are equal when the trajectory is tangent to the 45° barrier.",
+    "weight": 4
+  },
+  {
+    "title": "Time of flight calculation",
+    "description": "Important: The student must correctly calculate the time of flight using vertical kinematics under gravity (t = v_y / g).",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal displacement",
+    "description": "Important: The student must compute the horizontal distance traveled (x = v₀ t) before applying the geometric factor to find PM.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric relation for PM",
+    "description": "Important: The student must use the 45° geometry to relate the horizontal displacement x to the distance PM along the barrier (PM = √2 x).",
+    "weight": 3
+  },
+  {
+    "title": "Electric field role",
+    "description": "Optional: The student may note that the given electric field strength ensures the net force is purely gravitational, simplifying the problem.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns signs to velocity components or misinterprets the direction of motion relative to the barrier.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect tangent condition",
+    "description": "Pitfall: Penalize if the student fails to apply the condition that the ball's velocity is parallel to the barrier (45°) at the point of closest approach.",
+    "weight": -2
+  }
+]

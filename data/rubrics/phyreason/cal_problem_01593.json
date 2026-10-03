@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Battery voltage before switch",
+    "description": "Essential: Student correctly states or uses that the battery voltage is U = I(R1 + R2) = 2IR.",
+    "weight": 5
+  },
+  {
+    "title": "Equivalent resistance after switch",
+    "description": "Important: Student calculates the equivalent resistance after closing S as R_eq = R1 + (R2||R3) = R + R/2 = 3R/2.",
+    "weight": 4
+  },
+  {
+    "title": "Main circuit current after switch",
+    "description": "Important: Student applies Ohm's law to find the new total current I' = U / R_eq = (4I)/3.",
+    "weight": 4
+  },
+  {
+    "title": "Current division for R2",
+    "description": "Essential: Student correctly uses current division in the parallel branch to find the final current through R2 as I'_2 = I' / 2 = (2I)/3.",
+    "weight": 5
+  },
+  {
+    "title": "Units and symbolic answer",
+    "description": "Optional: Student presents the final answer clearly as a multiple of I (e.g., (2/3)I) and/or includes proper units.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect parallel resistance",
+    "description": "Pitfall: Student incorrectly calculates the parallel combination of R2 and R3 (e.g., as R or 2R).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring voltage constancy",
+    "description": "Pitfall: Student assumes the battery current I remains constant instead of recognizing the battery voltage is constant.",
+    "weight": -1
+  }
+]

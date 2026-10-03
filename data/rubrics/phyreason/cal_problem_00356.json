@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct Ampere force magnitude",
+    "description": "Essential: The response must state the correct numerical value for the Ampere force (0.4 N).",
+    "weight": 5
+  },
+  {
+    "title": "Correct friction coefficient",
+    "description": "Essential: The response must state the correct numerical value for the coefficient of kinetic friction (0.5).",
+    "weight": 5
+  },
+  {
+    "title": "Current calculation",
+    "description": "Important: The solution must correctly apply Ohm's law for the closed circuit to find the current (I = E/(R+r)).",
+    "weight": 4
+  },
+  {
+    "title": "Force balance parallel to incline",
+    "description": "Important: The solution must set up the correct force equilibrium equation along the incline (mg sinθ + f = F_Ampere).",
+    "weight": 4
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: The solution must correctly calculate the normal force from the perpendicular force balance (mg cosθ).",
+    "weight": 3
+  },
+  {
+    "title": "Ampere force direction",
+    "description": "Optional: The response may correctly identify the direction of the Ampere force (up the incline).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in force balance",
+    "description": "Pitfall: Penalize if the student incorrectly places the Ampere force and friction/gravity on the same side of the equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect circuit resistance",
+    "description": "Pitfall: Penalize if the student omits the internal resistance or uses an incorrect total resistance in the current calculation.",
+    "weight": -2
+  }
+]

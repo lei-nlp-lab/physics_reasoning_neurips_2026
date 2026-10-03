@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer must correctly express E in terms of m_t as E = 5/4 m_t c^2.",
+    "weight": 5
+  },
+  {
+    "title": "Energy-Momentum Conservation",
+    "description": "Important Criteria: The response should demonstrate the application of energy-momentum conservation principles in the analysis.",
+    "weight": 4
+  },
+  {
+    "title": "Rest Frame Analysis",
+    "description": "Important Criteria: The response must include a consideration of the top quark's rest frame and how it relates to the lab frame.",
+    "weight": 4
+  },
+  {
+    "title": "Gamma Factor Calculation",
+    "description": "Important Criteria: The calculation of the gamma factor for the W boson must be shown and correctly derived.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic Possibility",
+    "description": "Optional Criteria: The response should discuss the kinematic possibility of the W boson being produced at rest.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign errors in the momentum conservation equations.",
+    "weight": -2
+  },
+  {
+    "title": "Mass Neglect Justification",
+    "description": "Optional Criteria: The response should justify the neglect of other particle masses in the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that units are consistent throughout the calculations, especially when relating energy and mass.",
+    "weight": -1
+  }
+]

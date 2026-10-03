@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Magnetic Field Magnitude",
+    "description": "Essential Criteria: The final answer for part (1) must be B = 2 T.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Generated",
+    "description": "Essential Criteria: The final answer for part (2) must be Q = 0.075 J.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity from Graph",
+    "description": "Important Criteria: The student must correctly identify the terminal velocity (v = 1.0 m/s) from the provided v-t graph.",
+    "weight": 4
+  },
+  {
+    "title": "Force Balance Application",
+    "description": "Important Criteria: The student must apply Newton's second law at terminal velocity, setting the gravitational force equal to the magnetic (Ampere) force.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit Analysis",
+    "description": "Important Criteria: The student must correctly combine motional EMF, Ohm's law, and the total circuit resistance (R + r) to find the induced current.",
+    "weight": 4
+  },
+  {
+    "title": "Joule Heating Formula",
+    "description": "Important Criteria: The student must correctly apply the formula for Joule heating (Q = I²Rt) for the specific resistor R over the given time.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student's solution should demonstrate consistent use of SI units (m, kg, s, A, T, J) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign Error in Force Direction",
+    "description": "Pitfall Criteria: Penalize if the magnetic force is given the wrong sign/direction, opposing the motion instead of opposing gravity.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance Misidentification",
+    "description": "Pitfall Criteria: Penalize if the student uses only R or only r in the Ohm's law or Joule heating calculations, instead of the correct series combination.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Momentum Equations",
+    "description": "Essential Criteria: The equations for conservation of momentum must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Essential Criteria: The equation for conservation of energy must be correctly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Angles",
+    "description": "Important Criteria: The angles used in the equations must be correctly identified for back scattering.",
+    "weight": 3
+  },
+  {
+    "title": "Final Energy Expression",
+    "description": "Essential Criteria: The final expression for the scattered photon's energy must be derived correctly.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the equations should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Important Criteria: Key steps in the derivation process must be clearly shown.",
+    "weight": 4
+  }
+]

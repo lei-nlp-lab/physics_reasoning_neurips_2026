@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final velocity magnitude",
+    "description": "Essential: The student must correctly calculate the ambulance's uniform velocity as 20 m/s using v = a × t₁.",
+    "weight": 5
+  },
+  {
+    "title": "Final distance value",
+    "description": "Essential: The student must correctly calculate the ambulance's distance from the starting point when the siren stops as 680 m.",
+    "weight": 5
+  },
+  {
+    "title": "Motion phase analysis",
+    "description": "Important: The student must correctly model the ambulance's motion in two phases: uniformly accelerated until t₁, then uniform motion.",
+    "weight": 3
+  },
+  {
+    "title": "Sound travel time setup",
+    "description": "Important: The student must establish that the sound travels back to the starting point, relating ambulance position to sound travel time via v₀.",
+    "weight": 4
+  },
+  {
+    "title": "Equation system construction",
+    "description": "Important: The student must set up simultaneous equations for the ambulance's position and the sound's travel distance.",
+    "weight": 4
+  },
+  {
+    "title": "Time interval definition",
+    "description": "Optional: The student clearly defines Δt as the uniform motion time before the siren stops, or equivalent time variable.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student verifies all quantities have consistent units (m, s, m/s) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in time",
+    "description": "Pitfall: The student incorrectly calculates the sound travel time as (t₂ - t₁) instead of accounting for Δt properly.",
+    "weight": -2
+  },
+  {
+    "title": "Acceleration phase omission",
+    "description": "Pitfall: The student neglects the ambulance's accelerated motion phase when calculating its final position.",
+    "weight": -2
+  }
+]

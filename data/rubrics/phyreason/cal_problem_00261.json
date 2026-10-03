@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maximum separation distance",
+    "description": "Essential: The final numerical answer for the maximum separation must be 44 m.",
+    "weight": 5
+  },
+  {
+    "title": "Collision time",
+    "description": "Essential: The final numerical answer for the total time until collision must be 15 s.",
+    "weight": 5
+  },
+  {
+    "title": "Equal velocities time",
+    "description": "Important: Correctly calculates the time (t1 = 3 s) when the velocities of car A and car B become equal.",
+    "weight": 4
+  },
+  {
+    "title": "Displacement calculations",
+    "description": "Important: Correctly applies kinematics equations to find displacements of both cars during key intervals (e.g., x_B1, x_A1, x_B, x_A).",
+    "weight": 4
+  },
+  {
+    "title": "Interpretation of v-t graph",
+    "description": "Important: Correctly extracts initial velocities (v_A = 4 m/s, v_B = 10 m/s) and deceleration of car B (a = 2 m/s²) from the provided diagram.",
+    "weight": 3
+  },
+  {
+    "title": "Collision condition logic",
+    "description": "Important: Recognizes that collision occurs when car A's displacement equals car B's displacement plus the initial 35 m gap, and correctly structures the two-stage calculation (before and after car B stops).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (meters, seconds, m/s²) throughout all calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses a positive value for car B's acceleration instead of the correct negative deceleration in equations.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying maximum separation",
+    "description": "Pitfall: Assumes maximum separation occurs when car B stops, rather than when the velocities are equal.",
+    "weight": -2
+  }
+]

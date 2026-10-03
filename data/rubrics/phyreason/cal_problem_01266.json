@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final answer for part (1)",
+    "description": "Essential: States that for a fixed cart with v₀=2.4 m/s, the game fails because the object's stopping distance (1.44 m) exceeds the available length (0.5 m).",
+    "weight": 5
+  },
+  {
+    "title": "Friction force calculation",
+    "description": "Important: Correctly calculates the kinetic friction force as F_f = μ m g, leading to the object's deceleration a₁ = -μ g.",
+    "weight": 4
+  },
+  {
+    "title": "Relative motion condition",
+    "description": "Important: For the moving cart, identifies that success requires the object's relative displacement Δx to satisfy L ≤ Δx ≤ L + d.",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of momentum",
+    "description": "Important: For the moving cart, applies momentum conservation to find the common final velocity of the object and cart.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equations application",
+    "description": "Important: Correctly uses kinematic equations (v² = v₀² + 2aΔx, Δx = v₀t + ½at²) for displacements under constant acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity range for part (2)",
+    "description": "Essential: Correctly states the final condition for success as 2√2 m/s ≤ v₀ ≤ 3√2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Assigns the wrong sign to the object's acceleration (positive instead of negative) when using kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting relative displacement",
+    "description": "Pitfall: Compares the object's absolute displacement to the cart's length, instead of its displacement relative to the moving cart.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Shows that all calculations maintain consistent SI units (kg, m, s).",
+    "weight": 1
+  }
+]

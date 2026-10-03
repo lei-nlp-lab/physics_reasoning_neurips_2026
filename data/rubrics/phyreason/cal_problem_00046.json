@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct inclined acceleration",
+    "description": "Essential: The final answer for part (1) is a₁ = 2 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct final inclined speed",
+    "description": "Essential: The final answer for part (2) is v = 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct horizontal chute length",
+    "description": "Essential: The final answer for part (3) is l₂ = 2.7 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis on incline",
+    "description": "Important: Applies Newton's second law correctly for the inclined plane, identifying gravity and friction components.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on incline",
+    "description": "Important: Uses a correct constant-acceleration kinematic relation (e.g., v² = u² + 2as) to find speed at the incline's end.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis on horizontal",
+    "description": "Important: Applies Newton's second law correctly for the horizontal section, with friction as the sole horizontal force.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on horizontal",
+    "description": "Important: Uses a correct constant-acceleration kinematic relation to solve for the stopping distance l₂ given initial and final speeds.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Uses an incorrect sign for acceleration on the horizontal chute (e.g., treating it as positive when it is decelerating).",
+    "weight": -2
+  },
+  {
+    "title": "Friction component mistake",
+    "description": "Pitfall: Uses an incorrect expression for the frictional force (e.g., μmg sinθ instead of μmg cosθ on the incline).",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Shows consistent use of given values (cos24°=0.9, sin24°=0.4, g=10 m/s²) and includes units in final answers.",
+    "weight": 1
+  }
+]

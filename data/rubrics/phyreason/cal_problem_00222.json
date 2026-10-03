@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct tube length",
+    "description": "Essential: The final answer for part (1) must be 41 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final temperature",
+    "description": "Essential: The final answer for part (2) must be 312 K.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure equilibrium setup",
+    "description": "Important: Student must apply force equilibrium to find gas pressures (78 cmHg and 74 cmHg) before and after inversion.",
+    "weight": 4
+  },
+  {
+    "title": "Gas volume expressions",
+    "description": "Important: Student must correctly express gas volumes in terms of tube length L, mercury height, and distances.",
+    "weight": 4
+  },
+  {
+    "title": "Application of gas law",
+    "description": "Important: For part (2), student must apply Gay-Lussac's law (or combined gas law) relating initial and final states of the heated gas.",
+    "weight": 4
+  },
+  {
+    "title": "Consistent unit usage",
+    "description": "Optional: Student maintains consistent pressure units (cmHg) and length units (cm) throughout calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Incorrect sign when calculating gas pressure after inversion (e.g., adding instead of subtracting ρgh).",
+    "weight": -2
+  },
+  {
+    "title": "Volume misinterpretation",
+    "description": "Pitfall: Misidentifying the gas column length, especially after inversion, by confusing the position of mercury surfaces.",
+    "weight": -1
+  }
+]

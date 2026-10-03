@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Segment length under force",
+    "description": "Essential: Correctly states Δy = (F/(kL₀))Δℓ for F > 0, or equivalent max expression.",
+    "weight": 5
+  },
+  {
+    "title": "Work to stretch segment",
+    "description": "Important: Derives or states ΔW = (kL₀/(2Δℓ))(Δy² - Δℓ²) from integrating force.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium total length",
+    "description": "Essential: Gives final expression H = (L₀/2)(α + 1/α) from integration of stretched elements.",
+    "weight": 5
+  },
+  {
+    "title": "Collapse time expression",
+    "description": "Essential: Provides symbolic answer t_c = √[ (L₀/(3gα)) (1-α)³ ] using center-of-mass free fall.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical collapse time",
+    "description": "Essential: Computes t_c ≈ 0.245 s correctly from given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity constants A and B",
+    "description": "Important: Identifies A = 2g/(3α) and B = (1/(3α) - 1)gL₀ from energy or dynamics.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum speed expression",
+    "description": "Important: States v_min = (1-α)√(AαL₀ + B) using momentum or tip condition.",
+    "weight": 4
+  },
+  {
+    "title": "Energy loss Q",
+    "description": "Essential: Gives Q = (MgL₀(1-α)²(2α+1))/(6α) from elastic energy difference.",
+    "weight": 5
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Misplaces α definition (α = kL₀/(Mg)) or uses inverted ratio, leading to wrong signs or magnitudes.",
+    "weight": -2
+  },
+  {
+    "title": "Missing unstretched limit",
+    "description": "Pitfall: Omits max condition or lower bound Δy ≥ Δℓ in part A.1, or mishandles l₀ = αL₀ in integrations.",
+    "weight": -1
+  }
+]

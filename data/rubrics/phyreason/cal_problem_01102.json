@@ -1,0 +1,42 @@
+[
+  {
+    "title": "No-friction force",
+    "description": "Essential: Correctly calculates the force F when friction is zero, yielding 37.5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum force derivation",
+    "description": "Important: Applies equilibrium conditions with friction directed up the incline and uses the maximum static friction relation.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum force derivation",
+    "description": "Important: Applies equilibrium conditions with friction directed down the incline and uses the maximum static friction relation.",
+    "weight": 4
+  },
+  {
+    "title": "Range expression",
+    "description": "Essential: States the final range of F as an inequality with correct fractions (400/19 N ≤ F ≤ 800/13 N).",
+    "weight": 5
+  },
+  {
+    "title": "Force resolution",
+    "description": "Important: Correctly resolves forces into components parallel and perpendicular to the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Optional: Explicitly calculates the normal force in terms of F and uses it in the friction equation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses incorrect direction for friction (up vs. down) when setting up equations for minimum or maximum force.",
+    "weight": -2
+  },
+  {
+    "title": "Friction magnitude mistake",
+    "description": "Pitfall: Uses kinetic friction formula (μN) without recognizing maximum static friction equals it, or misapplies the friction limit.",
+    "weight": -1
+  }
+]

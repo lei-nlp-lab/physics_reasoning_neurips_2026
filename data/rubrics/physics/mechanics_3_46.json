@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: Provide correct expressions for r_max and r_min.",
+    "weight": 5
+  },
+  {
+    "title": "Lagrangian Setup",
+    "description": "Important Criteria: Correctly derive the Lagrangian for the particle in the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Conservation of Angular Momentum",
+    "description": "Important Criteria: Apply conservation of angular momentum to relate initial and final states.",
+    "weight": 4
+  },
+  {
+    "title": "Quadratic Equation",
+    "description": "Important Criteria: Correctly set up and solve the quadratic equation for r.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid sign mistakes in the quadratic formula solutions.",
+    "weight": -2
+  },
+  {
+    "title": "Physical Constraints",
+    "description": "Optional Criteria: Discuss the physical constraints on the values of r_max and r_min.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all quantities are expressed in consistent units throughout the solution.",
+    "weight": 1
+  }
+]

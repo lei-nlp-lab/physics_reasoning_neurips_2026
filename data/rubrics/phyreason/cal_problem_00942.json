@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Step-up turns ratio",
+    "description": "Essential Criteria: The student must correctly calculate the step-up transformer turns ratio as n1/n2 = 1/5 or 0.2.",
+    "weight": 5
+  },
+  {
+    "title": "Transmission line current",
+    "description": "Important Criteria: The student must correctly calculate the transmission line current using I = P_generator / U_transmission.",
+    "weight": 4
+  },
+  {
+    "title": "Transmission line resistance",
+    "description": "Important Criteria: The student must correctly determine the line resistance from the power loss and transmission current.",
+    "weight": 4
+  },
+  {
+    "title": "Step-down input voltage",
+    "description": "Important Criteria: The student must correctly calculate the voltage at the step-down transformer primary using U3 = U_transmission - I*R_line.",
+    "weight": 4
+  },
+  {
+    "title": "Step-down turns ratio",
+    "description": "Essential Criteria: The student must correctly calculate the step-down transformer turns ratio as n3/n4 = 95/11 or approximately 8.636.",
+    "weight": 5
+  },
+  {
+    "title": "Confusing power values",
+    "description": "Pitfall Criteria: Penalize if the student uses the user's received power (9.5 kW) instead of the generator output power (10 kW) when calculating transmission current.",
+    "weight": -2
+  },
+  {
+    "title": "Voltage drop omission",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly assumes the step-down transformer primary voltage equals the transmission voltage (2 kV) without accounting for line loss.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: Award if the student explicitly shows unit analysis or dimensional consistency in their calculations.",
+    "weight": 1
+  }
+]

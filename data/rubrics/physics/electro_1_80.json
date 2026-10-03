@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: Provide the correct electrostatic potential expression for part (a).",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: Provide the correct electrostatic potential expression for part (b) with the dielectric constant.",
+    "weight": 5
+  },
+  {
+    "title": "Image Charge Placement",
+    "description": "Important Criteria: Correctly identify the location and value of the image charge used in the method of images.",
+    "weight": 4
+  },
+  {
+    "title": "Boundary Condition",
+    "description": "Important Criteria: Apply the boundary condition correctly to determine the image charge parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution of Constants",
+    "description": "Optional Criteria: Correctly substitute the dielectric constant in part (b) from part (a).",
+    "weight": 3
+  },
+  {
+    "title": "Mathematical Accuracy",
+    "description": "Pitfall Criteria: Avoid common mathematical errors in the expressions for potential, such as sign mistakes.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

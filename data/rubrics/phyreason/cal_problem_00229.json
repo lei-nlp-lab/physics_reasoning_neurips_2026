@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Angle α value",
+    "description": "Essential: The answer must state α = 30°.",
+    "weight": 5
+  },
+  {
+    "title": "Potential difference U",
+    "description": "Essential: The answer must state U = 3mv₀²/(2q).",
+    "weight": 5
+  },
+  {
+    "title": "X-coordinate of N",
+    "description": "Essential: The answer must state x_N = (3√3/4)v₀T.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary equation",
+    "description": "Important: The answer must provide the correct linear equation for the boundary, relating y and x.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field B₁",
+    "description": "Essential: The answer must state B₁ = √3 m/(6qT).",
+    "weight": 5
+  },
+  {
+    "title": "Time for n-th passage",
+    "description": "Essential: The answer must provide the correct expression for t_n, including the geometric series term.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity decomposition reasoning",
+    "description": "Important: The solution must correctly resolve the final velocity at N into components parallel and perpendicular to the electric field.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Important: The solution must apply constant acceleration kinematics to find the displacement and time of flight in the E-field.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The solution must use the work-energy theorem to relate the potential difference to the change in kinetic energy.",
+    "weight": 3
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: For part (3), the solution must correctly analyze the geometry of the circular arcs in the decaying magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize incorrect sign for the slope of the boundary or misassignment of velocity vector directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if final answers are presented with inconsistent or missing units where required.",
+    "weight": -1
+  }
+]

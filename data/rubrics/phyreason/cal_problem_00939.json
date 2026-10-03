@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time expression",
+    "description": "Essential: The answer for part (1) must be the sum of two half-periods, yielding t = (1 + 1/λ)πm/(B₀q).",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance expression",
+    "description": "Essential: The answer for part (2) must be the difference of two diameters, yielding d = (1 - 1/λ) * 2mv₀/(B₀q).",
+    "weight": 5
+  },
+  {
+    "title": "Period formula application",
+    "description": "Important: The student must correctly apply the cyclotron period formula T = 2πm/(Bq) for each region.",
+    "weight": 4
+  },
+  {
+    "title": "Path geometry recognition",
+    "description": "Important: The student must recognize that the particle completes a half-circle in each region before velocity realigns with +x.",
+    "weight": 4
+  },
+  {
+    "title": "Radius formula usage",
+    "description": "Important: The student must correctly use the radius formula R = mv/(Bq) to find the displacement in part (2).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions should have correct units for time (seconds) and distance (meters).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the distance is incorrectly added (2R₁ + 2R₂) instead of subtracted.",
+    "weight": -2
+  },
+  {
+    "title": "Period summation error",
+    "description": "Pitfall: Penalize if full periods are summed instead of half-periods for the time.",
+    "weight": -1
+  }
+]

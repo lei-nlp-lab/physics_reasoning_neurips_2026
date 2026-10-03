@@ -1,0 +1,42 @@
+[
+  {
+    "title": "X-ray Absorption Process",
+    "description": "Essential Criteria: The student must correctly identify the process of electron removal from inner shells for X-ray absorption.",
+    "weight": 5
+  },
+  {
+    "title": "UV and Visible Absorption",
+    "description": "Essential Criteria: The student must accurately describe the transition of atomic electrons for ultraviolet and visible light absorption.",
+    "weight": 5
+  },
+  {
+    "title": "Near Infra-red Process",
+    "description": "Essential Criteria: The student must specify the vibrational transitions in molecules for near infra-red absorption.",
+    "weight": 5
+  },
+  {
+    "title": "Far Infra-red Process",
+    "description": "Essential Criteria: The student must explain the rotational transitions in molecules for far infra-red absorption.",
+    "weight": 5
+  },
+  {
+    "title": "Clarity of Explanation",
+    "description": "Important Criteria: The student should provide clear and concise explanations for each absorption process.",
+    "weight": 3
+  },
+  {
+    "title": "Correct Terminology",
+    "description": "Important Criteria: The student must use appropriate scientific terminology related to atomic and molecular transitions.",
+    "weight": 3
+  },
+  {
+    "title": "Missing Details",
+    "description": "Pitfall Criteria: The student should avoid omitting key details about the energy levels involved in transitions.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must ensure there are no sign errors in describing the transitions.",
+    "weight": -1
+  }
+]

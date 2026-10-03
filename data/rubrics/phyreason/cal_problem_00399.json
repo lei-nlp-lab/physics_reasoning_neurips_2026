@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Particles collected per unit time",
+    "description": "Essential: The final answer for part (1) must be N/2, derived from the fraction of particles hitting plate CD.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: Correctly applies kinematics to find the vertical displacement and exit angle (45°) from the parallel plates.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic field radius",
+    "description": "Important: Correctly uses the Lorentz force law to show the radius of circular motion in the magnetic field equals R.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum magnetic field time",
+    "description": "Essential: The final answer for part (2) must be expressed as (49√2 π R)/(180 v₀) or equivalent, based on the correct central angle (98°).",
+    "weight": 5
+  },
+  {
+    "title": "Screen hit length",
+    "description": "Essential: The final answer for part (3) must be expressed as (1 - √2/2)R/3 or equivalent, derived from geometric analysis on the exit from the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry of exit",
+    "description": "Important: Correctly analyzes the geometry at point D and the exit point K to find relevant angles (e.g., 45°, 37°) for time and screen length calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout the solution and in final expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Incorrectly assigns direction of electric or magnetic force, leading to wrong trajectory or angle.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Misidentifies the central angle for the magnetic motion (e.g., using 37° or 45° directly instead of 98°).",
+    "weight": -2
+  }
+]

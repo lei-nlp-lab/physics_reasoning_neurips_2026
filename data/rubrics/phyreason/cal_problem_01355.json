@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Speed at B",
+    "description": "Essential: Correctly calculates v_B = 8 m/s using energy conservation between P and B.",
+    "weight": 5
+  },
+  {
+    "title": "Speed at C",
+    "description": "Essential: Correctly calculates v_C = 6 m/s using energy conservation between C and Q.",
+    "weight": 5
+  },
+  {
+    "title": "Friction Coefficient",
+    "description": "Essential: Correctly calculates μ = 0.2 using work-energy theorem on BC segment.",
+    "weight": 5
+  },
+  {
+    "title": "Total BC Distance",
+    "description": "Important: Applies work-energy theorem from start (P) to final stop on BC, finding total distance s = 16 m.",
+    "weight": 4
+  },
+  {
+    "title": "Final Stop Location",
+    "description": "Essential: Correctly determines final stopping point is 2 m from B, accounting for multiple passes over l.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Setup",
+    "description": "Important: Properly sets up energy equations (KE + PE) for frictionless curved segments.",
+    "weight": 3
+  },
+  {
+    "title": "Work by Friction",
+    "description": "Important: Correctly models work done by friction as -μmg * (distance traveled on BC).",
+    "weight": 4
+  },
+  {
+    "title": "Sign Error in Work",
+    "description": "Pitfall: Uses incorrect sign for work done by friction or gravity in energy equations.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent units (m, kg, s) and includes them in final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Single-Pass Assumption",
+    "description": "Pitfall: Assumes athlete stops on first BC traversal, ignoring multiple passes.",
+    "weight": -2
+  }
+]

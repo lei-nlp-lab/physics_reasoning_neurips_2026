@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Acceleration of cargo A",
+    "description": "Essential: Correctly calculates the initial acceleration of cargo A as 2 m/s² using Newton's second law with kinetic friction.",
+    "weight": 5
+  },
+  {
+    "title": "Total time for cargo A",
+    "description": "Essential: Correctly calculates the total time for cargo A to traverse the conveyor as 3.5 s, accounting for accelerated and constant velocity phases.",
+    "weight": 5
+  },
+  {
+    "title": "Force analysis for cargo B",
+    "description": "Important: Correctly applies Newton's second law to cargo B on the incline, resolving weight and friction for both acceleration phases.",
+    "weight": 4
+  },
+  {
+    "title": "Conveyor speed condition",
+    "description": "Essential: Correctly derives and states the condition for the conveyor speed v₀ to be less than 1 m/s to prevent cargo damage.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic application",
+    "description": "Important: Correctly uses kinematic equations (v² = u² + 2as) to find displacements and the final speed of cargo B.",
+    "weight": 4
+  },
+  {
+    "title": "Two-phase motion recognition",
+    "description": "Important: Identifies that both cargoes have a phase of acceleration to match the belt speed, followed by motion at constant relative speed.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses incorrect sign for the frictional force on cargo B when its velocity relative to the belt changes direction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent use of SI units (m, s, m/s²) throughout the solution.",
+    "weight": 1
+  }
+]

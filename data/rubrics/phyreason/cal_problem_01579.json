@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final charge",
+    "description": "Essential Criteria: The student's final answer for the charge on sphere B must be 1.0 × 10⁻⁶ C.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal distance calculation",
+    "description": "Important Criteria: The student must correctly calculate the horizontal separation between the spheres using the geometry of the setup and the given rod length.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium analysis",
+    "description": "Important Criteria: The student must apply static equilibrium to sphere B, resolving forces along the incline or horizontally to relate the Coulomb force to the weight.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb's Law application",
+    "description": "Important Criteria: The student must correctly apply Coulomb's Law to relate the calculated electrostatic force to the charge and separation distance.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student demonstrates consistent unit conversion (e.g., cm to m, g to kg) throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall Criteria: The student incorrectly resolves the weight component or misidentifies the angle for the force balance on the inclined plane.",
+    "weight": -2
+  },
+  {
+    "title": "Separation distance error",
+    "description": "Pitfall Criteria: The student uses the vertical rod length directly as the separation distance between the charges, ignoring the horizontal offset.",
+    "weight": -1
+  }
+]

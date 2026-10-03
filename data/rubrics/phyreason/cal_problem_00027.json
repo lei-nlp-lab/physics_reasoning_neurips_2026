@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Collision height correct",
+    "description": "Essential Criteria: The student's answer for part (1) must be exactly 1 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Post-collision velocity correct",
+    "description": "Essential Criteria: The student's answer for part (2) must be exactly 0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Energy loss correct",
+    "description": "Essential Criteria: The student's answer for part (3) must be exactly 12 J.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics for object A",
+    "description": "Important Criteria: The student correctly applies the equation for displacement under constant acceleration to find object A's position or velocity at t=0.2s.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for object B",
+    "description": "Important Criteria: The student correctly uses the collision height to solve for object B's initial launch velocity or its velocity just before impact.",
+    "weight": 3
+  },
+  {
+    "title": "Momentum conservation applied",
+    "description": "Important Criteria: The student sets up and solves the conservation of momentum equation for the perfectly inelastic collision, accounting for direction (signs).",
+    "weight": 4
+  },
+  {
+    "title": "Energy calculation method",
+    "description": "Important Criteria: The student correctly calculates the mechanical energy loss as the difference between total kinetic energy before and after the collision.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall Criteria: The student fails to assign opposite signs to the velocities of A (downward) and B (upward) in the momentum conservation equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit omission or error",
+    "description": "Pitfall Criteria: The student provides numerical answers without the correct units (m, m/s, J) or uses incorrect units.",
+    "weight": -1
+  }
+]

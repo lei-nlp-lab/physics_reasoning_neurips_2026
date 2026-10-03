@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Indices of Refraction",
+    "description": "Essential Criteria: The student must correctly identify the two possible indices of refraction for the wave in the dextrose solution.",
+    "weight": 5
+  },
+  {
+    "title": "Electric Field Solutions",
+    "description": "Essential Criteria: The student must provide the corresponding electric field expressions for each index of refraction.",
+    "weight": 5
+  },
+  {
+    "title": "Faraday Rotation Expression",
+    "description": "Essential Criteria: The student must derive the expression for the angle of rotation phi in terms of L, gamma, and omega.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Maxwell's Equations",
+    "description": "Important Criteria: The student must correctly apply Maxwell's equations to derive the relationship between D, E, and P.",
+    "weight": 4
+  },
+  {
+    "title": "Matrix Determinant Setup",
+    "description": "Important Criteria: The student must set up the determinant correctly to find the conditions for non-zero solutions.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors when manipulating equations related to k and the indices of refraction.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  },
+  {
+    "title": "Approximation Justification",
+    "description": "Optional Criteria: The student should justify the approximation used for small values of gamma omega/c.",
+    "weight": 2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student may provide a physical interpretation of the results, such as the significance of the rotation angle.",
+    "weight": 2
+  }
+]

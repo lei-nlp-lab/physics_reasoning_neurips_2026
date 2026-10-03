@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Energy released calculation",
+    "description": "Essential: Correctly computes mass defect and converts to energy (ΔE ≈ 208.7 MeV) using given masses and conversion factor.",
+    "weight": 5
+  },
+  {
+    "title": "Number density derivation",
+    "description": "Important: Correctly calculates number density N of U-235 in UO2 using density, molar mass, Avogadro's number, and natural abundance.",
+    "weight": 4
+  },
+  {
+    "title": "Heat production rate",
+    "description": "Essential: Correctly applies Q = N σ φ E_f (with efficiency) to obtain Q ≈ 4.92e8 W/m³, including unit conversions.",
+    "weight": 5
+  },
+  {
+    "title": "Dimensional analysis function",
+    "description": "Important: Correctly derives F(Q, a, λ) = Q a² / λ via dimensional analysis, leading to T_c - T_s = Q a²/(4λ).",
+    "weight": 4
+  },
+  {
+    "title": "Pin radius upper limit",
+    "description": "Essential: Correctly solves a_u from temperature difference equation using given T_c - T_s limit and thermal conductivity.",
+    "weight": 5
+  },
+  {
+    "title": "CM frame speeds",
+    "description": "Important: Correctly expresses neutron and moderator speeds in CM frame (v = A v_b/(A+1), V = v_b/(A+1)).",
+    "weight": 3
+  },
+  {
+    "title": "Energy ratio expression",
+    "description": "Important: Correctly derives G(α,θ) = 1 - (1-α)(1-cosθ)/2 from collision kinematics.",
+    "weight": 3
+  },
+  {
+    "title": "Fractional energy loss",
+    "description": "Important: Correctly computes maximum f_l = 1-α for D2O moderator (α = (19/21)², f_l ≈ 0.181).",
+    "weight": 3
+  },
+  {
+    "title": "Reactor geometry minimization",
+    "description": "Important: Correctly relates reactor dimensions R and H via (2.405/R)² = 2(π/H)² for minimal leakage.",
+    "weight": 4
+  },
+  {
+    "title": "Fuel mass and channels",
+    "description": "Essential: Correctly computes number of channels F_n from area and spacing, and total UO2 mass M from volume and density.",
+    "weight": 5
+  },
+  {
+    "title": "Unit or conversion error",
+    "description": "Pitfall: Fails to convert units consistently (e.g., MeV to J, u to MeV/c²) or misplaces powers of ten.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or formula misuse",
+    "description": "Pitfall: Uses incorrect formula for mass defect, cross-section relation, or temperature difference expression.",
+    "weight": -2
+  }
+]

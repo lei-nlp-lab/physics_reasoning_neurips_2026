@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average velocity calculation",
+    "description": "Essential: The student must correctly compute the average velocity in the last second as displacement divided by time, yielding 6 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Midpoint velocity property",
+    "description": "Important: The student must recognize that for uniform acceleration, the average velocity over an interval equals the instantaneous velocity at the midpoint of that interval.",
+    "weight": 4
+  },
+  {
+    "title": "Final velocity determination",
+    "description": "Important: The student must correctly apply v = u + at to find the velocity at the moment of capture (v₂) using the midpoint velocity and the remaining half-second.",
+    "weight": 4
+  },
+  {
+    "title": "Total time of flight",
+    "description": "Essential: The student must correctly solve for the total time from launch to capture using the initial velocity, final velocity, and acceleration, yielding 1.4 s.",
+    "weight": 5
+  },
+  {
+    "title": "Well depth calculation",
+    "description": "Essential: The student must correctly apply a kinematic equation (e.g., v² = u² + 2as) to compute the well depth, yielding 11.2 m.",
+    "weight": 5
+  },
+  {
+    "title": "Sign convention error",
+    "description": "Pitfall: The student uses inconsistent signs for acceleration, velocity, or displacement (e.g., treating upward as positive but forgetting acceleration is downward).",
+    "weight": -2
+  },
+  {
+    "title": "Midpoint time misapplication",
+    "description": "Pitfall: The student incorrectly assumes the average velocity equals the velocity at the end or start of the 1-second interval, rather than at its midpoint.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The student explicitly verifies that all quantities are in consistent SI units before calculations.",
+    "weight": 1
+  }
+]

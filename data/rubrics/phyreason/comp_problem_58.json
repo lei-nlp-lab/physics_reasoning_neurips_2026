@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Optimal impulse height",
+    "description": "Essential: Correctly identifies that the impulse is most effective at the top of the domino, giving H = h.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum toppling momentum",
+    "description": "Essential: Derives or states the correct final expression for the minimum impulse p_min, including the correct dependence on m, g, h, and t.",
+    "weight": 5
+  },
+  {
+    "title": "Energy loss fraction",
+    "description": "Essential: Correctly calculates the fraction of kinetic energy lost in the inelastic collision as 50%.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum spacing condition",
+    "description": "Essential: Correctly solves for the minimum spacing l between dominoes, yielding l = (3/2)t.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Applies conservation of energy correctly to relate the initial rotational kinetic energy to the potential energy needed to topple the first domino.",
+    "weight": 4
+  },
+  {
+    "title": "Inelastic collision analysis",
+    "description": "Important: Correctly applies angular momentum conservation or equivalent analysis for the completely inelastic collision between dominoes.",
+    "weight": 4
+  },
+  {
+    "title": "Small-angle geometry",
+    "description": "Important: Uses small-angle approximations (t, l << h) correctly to relate rotation angles and establish geometric constraints (e.g., α = l/h + β).",
+    "weight": 3
+  },
+  {
+    "title": "System energy maximization",
+    "description": "Important: Correctly finds the maximum potential energy of the two-domino system after collision to establish the toppling condition for the second domino.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error in energy equations or incorrectly handles units in the final momentum expression.",
+    "weight": -2
+  },
+  {
+    "title": "Neglects moment of inertia",
+    "description": "Pitfall: Uses an incorrect moment of inertia (not about the pivot edge) or omits it in the rotational kinetic energy calculation.",
+    "weight": -2
+  }
+]

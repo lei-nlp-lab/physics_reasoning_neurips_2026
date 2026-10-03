@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the ground state energy shift, Delta E.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic Energy Relation",
+    "description": "Important Criteria: The student should correctly state the relativistic relation between kinetic energy and momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Approach",
+    "description": "Important Criteria: The student must recognize and apply the perturbation method to find the energy shift.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Setup",
+    "description": "Important Criteria: The student should set up the integral correctly for calculating the expectation value of the perturbation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the perturbation term and the final expression for Delta E.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Expansion Accuracy",
+    "description": "Important Criteria: The student must accurately perform the Taylor expansion to the correct order in c.",
+    "weight": 3
+  },
+  {
+    "title": "Normalization Factor",
+    "description": "Optional Criteria: The student should mention or verify the normalization factor of the wave function used in the integral.",
+    "weight": 1
+  }
+]

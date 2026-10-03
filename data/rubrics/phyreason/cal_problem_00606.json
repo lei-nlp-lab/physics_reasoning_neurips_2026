@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum Tension Calculation",
+    "description": "Essential: Correctly calculates the minimum rope tension as 4800 N using Newton's second law during maximum upward acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Ascent Time Calculation",
+    "description": "Essential: Correctly determines the minimum total ascent time as 6 seconds.",
+    "weight": 5
+  },
+  {
+    "title": "Average Speed Calculation",
+    "description": "Essential: Correctly computes the maximum average speed as 2 m/s using total displacement and total time.",
+    "weight": 5
+  },
+  {
+    "title": "Ascent Kinematics",
+    "description": "Important: Applies kinematics correctly to find the ascent's maximum speed and the durations of its acceleration and deceleration phases.",
+    "weight": 4
+  },
+  {
+    "title": "Descent Kinematics",
+    "description": "Important: Applies kinematics correctly to find the descent's maximum speed and the durations of its acceleration and deceleration phases.",
+    "weight": 3
+  },
+  {
+    "title": "Total Motion Analysis",
+    "description": "Important: Correctly sums all time intervals (ascent, horizontal, descent) and the total path length to find the total time and displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or Direction Error",
+    "description": "Pitfall: Uses incorrect sign for acceleration in Newton's second law or kinematics equations (e.g., confusing upward/downward acceleration).",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Maintains consistent SI units (m, s, m/s², kg, N) throughout all calculations.",
+    "weight": 1
+  }
+]

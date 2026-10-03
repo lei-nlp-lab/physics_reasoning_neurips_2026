@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final State for (a)",
+    "description": "Essential Criteria: The student must correctly state the Clebsch-Gordan coefficient for |3/2, 3/2> as |1, 1> |1/2, 1/2>.",
+    "weight": 5
+  },
+  {
+    "title": "Final State for (b)",
+    "description": "Essential Criteria: The student must correctly express |3/2, 1/2> in terms of the basis states with the correct coefficients.",
+    "weight": 5
+  },
+  {
+    "title": "I-spin Conservation for (c)",
+    "description": "Important Criteria: The student must correctly analyze the I-spin states for K-p reactions and derive the relative rates.",
+    "weight": 4
+  },
+  {
+    "title": "I-spin Conservation for (d)",
+    "description": "Important Criteria: The student must correctly analyze the I-spin states for K-n reactions and derive the relative rates.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common mistakes such as incorrect application of Clebsch-Gordan coefficients or miscalculating the I-spin states.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Kick acceleration magnitude",
+    "description": "Essential: Correctly calculates a = 300 m/s² using a = (v_final - v_initial)/Δt with v_initial = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Air time calculation",
+    "description": "Essential: Correctly computes t = 0.4 s using t = distance/velocity with distance = 12 m.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity change magnitude",
+    "description": "Essential: Correctly finds |Δv| = 40 m/s, accounting for direction reversal (v_after = -10 m/s relative to initial direction).",
+    "weight": 5
+  },
+  {
+    "title": "Goalkeeper acceleration magnitude",
+    "description": "Essential: Correctly calculates a = 400 m/s² using a = Δv/Δt with proper sign handling.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration definition application",
+    "description": "Important: Uses average acceleration formula a_avg = Δv/Δt for both contact periods.",
+    "weight": 3
+  },
+  {
+    "title": "Direction consideration",
+    "description": "Important: Recognizes velocity as a vector and accounts for direction changes when computing Δv.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (m, s, m/s, m/s²) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in Δv",
+    "description": "Pitfall: Fails to account for direction reversal, computing Δv = 20 m/s instead of 40 m/s.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect time formula",
+    "description": "Pitfall: Uses kinematic equations with acceleration for air time instead of constant velocity formula.",
+    "weight": -1
+  }
+]

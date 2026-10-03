@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Decay Suppression Principle",
+    "description": "Essential Criteria: The response must identify the conservation of electron-lepton and mu-lepton numbers as the principle responsible for decay suppression.",
+    "weight": 5
+  },
+  {
+    "title": "Crystal Arrangement",
+    "description": "Important Criteria: The response should explain that the crystals should be placed face to face and perpendicular to the muon beam to detect the decay events.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Essential Criteria: The response must state that for the decay mu+ -> e+ + gamma, the total energy E_e + E_gamma should equal m_mu.",
+    "weight": 5
+  },
+  {
+    "title": "Signal Distinction",
+    "description": "Important Criteria: The response should describe how to distinguish between the two decay types based on the energy conservation differences.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Comparison",
+    "description": "Optional Criteria: The response may mention that for the four-body decay, E_e + E_gamma will be less than m_mu.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The response should avoid common mistakes such as misidentifying the energy conservation conditions for the two decay types.",
+    "weight": -2
+  }
+]

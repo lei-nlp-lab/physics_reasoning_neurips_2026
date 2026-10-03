@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Transmission line current",
+    "description": "Essential: The student must correctly calculate the current in the transmission line using the power loss and line resistance, arriving at 10 A.",
+    "weight": 5
+  },
+  {
+    "title": "Step-up turns ratio",
+    "description": "Essential: The student must correctly calculate the transformer turns ratio using the generator and transmission line currents, arriving at 1:50.",
+    "weight": 5
+  },
+  {
+    "title": "Power loss calculation",
+    "description": "Important: The student must correctly identify and calculate the 10% power loss from the generator's output power.",
+    "weight": 3
+  },
+  {
+    "title": "Generator current calculation",
+    "description": "Important: The student must correctly calculate the primary (generator side) current using the generator's output power and voltage.",
+    "weight": 3
+  },
+  {
+    "title": "Applying transformer principle",
+    "description": "Important: The student must correctly apply the ideal transformer current-to-turns ratio relationship (I1/I2 = N2/N1).",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should demonstrate consistent use of units (e.g., kW to W) throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect power formula",
+    "description": "Pitfall: Using P = I^2 * R with the generator's voltage/current to find the transmission line current, instead of the power loss.",
+    "weight": -2
+  },
+  {
+    "title": "Reversed turns ratio",
+    "description": "Pitfall: Incorrectly inverting the transformer ratio (e.g., stating 50:1 instead of 1:50) by confusing the voltage and current relationships.",
+    "weight": -1
+  }
+]

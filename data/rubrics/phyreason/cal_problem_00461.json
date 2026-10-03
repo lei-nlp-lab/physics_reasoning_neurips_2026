@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at B",
+    "description": "Essential: Correctly calculates the velocity at point B using work-energy theorem with applied force, gravity, and initial conditions.",
+    "weight": 5
+  },
+  {
+    "title": "Time of flight",
+    "description": "Essential: Correctly solves for the time from B to first impact using kinematic equations with proper sign conventions for displacement and acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Total distance",
+    "description": "Essential: Correctly determines the total distance traveled until rest using work-energy theorem accounting for air resistance over the entire path.",
+    "weight": 5
+  },
+  {
+    "title": "Force resolution",
+    "description": "Important: Properly resolves the pulling force into components and includes only the horizontal component doing work along the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Energy balance setup",
+    "description": "Important: Correctly sets up work-energy equations with all forces (applied, gravity, air resistance) and proper initial/final conditions.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic equation selection",
+    "description": "Important: Selects appropriate kinematic equation for projectile motion with constant acceleration (gravity) after force removal.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Uses incorrect sign for displacement or acceleration in kinematic equations for the falling motion.",
+    "weight": -2
+  },
+  {
+    "title": "Air resistance omission",
+    "description": "Pitfall: Fails to include air resistance in the total distance calculation or uses it incorrectly in work-energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and provides final answers with appropriate units.",
+    "weight": 1
+  }
+]

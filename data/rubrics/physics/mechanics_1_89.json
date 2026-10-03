@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for v_0 in terms of omega_0 and R.",
+    "weight": 5
+  },
+  {
+    "title": "Equation of Motion",
+    "description": "Important Criteria: The student correctly sets up the equation of motion for the stone using gravitational force.",
+    "weight": 4
+  },
+  {
+    "title": "Simple Harmonic Motion",
+    "description": "Important Criteria: The student identifies that the motion is simple harmonic and correctly relates the period to T_1.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions",
+    "description": "Important Criteria: The student correctly applies the initial conditions for the stone's position and velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Trigonometric Relationships",
+    "description": "Important Criteria: The student uses trigonometric relationships correctly to relate the amplitude and phase angle.",
+    "weight": 3
+  },
+  {
+    "title": "Final Condition Setup",
+    "description": "Essential Criteria: The student correctly sets up the condition for reaching Olaflub at time T_2.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student fails to account for the correct signs in the equations or makes mistakes in trigonometric identities.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student checks that units are consistent throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student discusses limiting cases or alternative methods to arrive at the solution.",
+    "weight": 1
+  }
+]

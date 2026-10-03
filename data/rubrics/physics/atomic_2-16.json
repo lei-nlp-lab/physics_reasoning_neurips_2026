@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final expression for the differential scattering cross section.",
+    "weight": 5
+  },
+  {
+    "title": "Scattering Angle",
+    "description": "Important Criteria: The student should correctly relate the incident angle to the deflected angle using the relationship alpha = 2*theta.",
+    "weight": 4
+  },
+  {
+    "title": "Impact Parameter",
+    "description": "Important Criteria: The student must define the impact parameter as b = R*sin(theta) accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Isotropic Nature",
+    "description": "Important Criteria: The student should explain that the resulting cross section is independent of theta, confirming isotropy.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that the units of the cross section are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes or incorrect relationships between angles during derivation.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Friction coefficient answer",
+    "description": "Essential: The final numerical answer for the coefficient of kinetic friction μ must be correct (5/7 or approximately 0.714).",
+    "weight": 5
+  },
+  {
+    "title": "Total time answer",
+    "description": "Essential: The final numerical answer for the total time t must be correct (4.8 s).",
+    "weight": 5
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: The solution must correctly apply the work-energy theorem from point b to point d, accounting for gravity, friction, and initial kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Motion analysis on bc",
+    "description": "Important: For the rough incline (bc), the solution must correctly determine the acceleration or use kinematics (average velocity) to find the time t1.",
+    "weight": 3
+  },
+  {
+    "title": "Motion analysis on cd",
+    "description": "Important: For the smooth incline (cd), the solution must correctly analyze the constant-acceleration motion to find the time t2.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric height calculation",
+    "description": "Optional: The solution may explicitly calculate the vertical height h1 = L sin θ for the work-energy theorem.",
+    "weight": 1
+  },
+  {
+    "title": "Velocity at point c",
+    "description": "Important: The solution must correctly find the velocity at point c (2√10 m/s) as an intermediate step for the time calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Penalize if the signs for the work done by gravity and friction are reversed or incorrectly combined in the energy equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Penalize if the final answers are presented without units or with incorrect units (e.g., missing 's' for time).",
+    "weight": -1
+  }
+]

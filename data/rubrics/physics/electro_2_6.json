@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The correct locations of the zeros in the magnetic field must be provided as x = ±1/sqrt(3) d.",
+    "weight": 5
+  },
+  {
+    "title": "Force Calculation",
+    "description": "Essential Criteria: The expression for the force on the middle wire must be correctly derived as f ≈ -μ0 I^2/π d^2 x.",
+    "weight": 5
+  },
+  {
+    "title": "Period of Motion",
+    "description": "Essential Criteria: The period of oscillation T must be correctly stated as T = 2π sqrt(m/μ0) d/I.",
+    "weight": 5
+  },
+  {
+    "title": "Qualitative Description",
+    "description": "Important Criteria: A qualitative description of the motion of the middle wire after displacement must be provided, indicating simple harmonic motion.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Sketch",
+    "description": "Important Criteria: A sketch of the magnetic field lines must be included, showing the correct pattern around the wires.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common errors include incorrect signs in the force expression or misinterpretation of the direction of forces.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Ensure that all units are consistent throughout the calculations and final answers.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: Discussing limiting cases or assumptions made during the derivation can enhance the response.",
+    "weight": 1
+  }
+]

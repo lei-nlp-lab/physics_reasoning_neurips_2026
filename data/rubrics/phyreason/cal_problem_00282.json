@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct normal force (part 1)",
+    "description": "Essential: The student's final numerical answer for the normal force in part (1) must be 20 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct normal force (part 2)",
+    "description": "Essential: The student's final numerical answer for the normal force in part (2) must be 160 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on container",
+    "description": "Important: The solution must correctly apply vertical force equilibrium to the container, relating the water's weight to the vertical components of the contact forces from the blocks.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Important: The student must correctly state that the force the container exerts on a block is equal in magnitude to the force the block exerts on the container.",
+    "weight": 3
+  },
+  {
+    "title": "Friction limit condition",
+    "description": "Important: For part (2), the solution must correctly set up the condition for impending motion of block B, balancing horizontal forces including friction at its maximum value.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric component resolution",
+    "description": "Important: The solution must correctly resolve forces into components parallel and perpendicular to the inclined contact surfaces using the given sine and cosine of 53°.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All forces should be expressed with correct units (Newtons) and intermediate calculations should maintain dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Deduct points if the direction of the friction force on block B is incorrectly assigned or its sign is wrong in the horizontal force balance.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect mass or angle use",
+    "description": "Pitfall: Deduct points if the student uses the wrong mass (e.g., block mass instead of water mass) or incorrect trigonometric values in a critical calculation.",
+    "weight": -1
+  }
+]

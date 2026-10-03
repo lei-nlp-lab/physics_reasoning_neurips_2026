@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Correct current magnitude",
+    "description": "Essential: The response must state the final numerical answer as 60000 A (or equivalent in scientific notation).",
+    "weight": 5
+  },
+  {
+    "title": "Current definition applied",
+    "description": "Important: The response must correctly apply the formula I = Q/t to relate charge, time, and average current.",
+    "weight": 4
+  },
+  {
+    "title": "Correct unit usage",
+    "description": "Important: The final answer must include the correct unit for current (Amperes, A).",
+    "weight": 3
+  },
+  {
+    "title": "Unit analysis shown",
+    "description": "Optional: The response may show unit analysis (C/s = A) to verify the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect formula application",
+    "description": "Pitfall: Using an incorrect formula (e.g., I = Q*t) results in a wrong answer and should be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Calculation or unit error",
+    "description": "Pitfall: Making an arithmetic error in the division (300/0.005) or omitting/fumbling the units is a common mistake.",
+    "weight": -1
+  }
+]

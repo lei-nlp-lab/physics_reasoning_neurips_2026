@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Film area calculation",
+    "description": "Essential: The student must correctly calculate the film area in m² from the grid count and side length.",
+    "weight": 5
+  },
+  {
+    "title": "Oleic acid concentration",
+    "description": "Important: The student must correctly determine the volume fraction of oleic acid in the stock solution.",
+    "weight": 4
+  },
+  {
+    "title": "Volume per drop",
+    "description": "Important: The student must correctly calculate the volume of pure oleic acid in a single drop.",
+    "weight": 4
+  },
+  {
+    "title": "Molecular diameter formula",
+    "description": "Essential: The student must apply the correct model, d = V / S, to estimate the molecular diameter.",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's work should demonstrate consistent unit conversions to meters, liters, etc.",
+    "weight": 2
+  },
+  {
+    "title": "Grid counting error",
+    "description": "Pitfall: Penalize if the student uses an incorrect grid count or misinterprets the film boundary.",
+    "weight": -2
+  },
+  {
+    "title": "Concentration misinterpretation",
+    "description": "Pitfall: Penalize if the student incorrectly uses the 0.6 mL/1000 mL ratio (e.g., treating it as 0.6% instead of 0.06%).",
+    "weight": -1
+  },
+  {
+    "title": "Volume per drop logic",
+    "description": "Pitfall: Penalize if the student confuses the volume of 50 drops with the volume per drop for the pure acid calculation.",
+    "weight": -1
+  }
+]

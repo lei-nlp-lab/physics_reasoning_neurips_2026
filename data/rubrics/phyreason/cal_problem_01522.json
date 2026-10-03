@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Elastic potential energy",
+    "description": "Essential: The answer must state that the elastic potential energy at A equals the kinetic energy at B, giving E_p = (1/2) m v_1^2.",
+    "weight": 5
+  },
+  {
+    "title": "Friction work expression",
+    "description": "Essential: The answer must provide the correct expression for the work done by friction from B to C: W_f = (5/2)mgR - (1/2)mv_1^2.",
+    "weight": 5
+  },
+  {
+    "title": "Landing distance from B",
+    "description": "Essential: The answer must state that the horizontal distance from the landing point to B is 2R.",
+    "weight": 5
+  },
+  {
+    "title": "Condition at point C",
+    "description": "Important: The solution must apply Newton's second law at point C, equating centripetal force to weight to find v_2 = sqrt(gR).",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation from B to C",
+    "description": "Important: The solution must apply the work-energy theorem from B to C, accounting for gravity, friction, and kinetic energy change.",
+    "weight": 4
+  },
+  {
+    "title": "Projectile motion analysis",
+    "description": "Important: The solution must correctly analyze the free-fall motion from C to the ground to find the time of flight.",
+    "weight": 3
+  },
+  {
+    "title": "Horizontal displacement calculation",
+    "description": "Optional: The solution may explicitly calculate the horizontal displacement from C as x = v_2 * t.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the work done by friction is given a positive sign or if the gravitational work term has an incorrect sign.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect centripetal condition",
+    "description": "Pitfall: Penalize if the condition at C uses an incorrect force (e.g., normal force not zero) or misstates v_2.",
+    "weight": -2
+  }
+]

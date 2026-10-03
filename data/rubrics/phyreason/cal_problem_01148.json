@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time value",
+    "description": "Essential Criteria: The student must provide the correct numerical value for the time of flight, t = √3 s or approximately 1.732 s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct height value",
+    "description": "Essential Criteria: The student must provide the correct numerical value for the height AB, h = 25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Perpendicular impact condition",
+    "description": "Important Criteria: The student must correctly apply the condition that the ball's velocity is perpendicular to the slope upon impact, relating the velocity components using the incline angle.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical motion analysis",
+    "description": "Important Criteria: The student must correctly apply kinematic equations for vertical motion under constant gravity to find the vertical velocity and displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Geometric height calculation",
+    "description": "Important Criteria: The student must correctly combine the vertical drop and the horizontal displacement (using the slope angle) to find the total height AB.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's final answers should include correct SI units (s and m) or demonstrate consistent unit analysis throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in velocity relation",
+    "description": "Pitfall Criteria: The student incorrectly relates the horizontal and vertical velocity components for the perpendicular impact condition (e.g., using the wrong trigonometric function or sign).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing height components",
+    "description": "Pitfall Criteria: The student confuses the vertical drop from A with the total height AB, or incorrectly calculates the vertical contribution from the horizontal displacement.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Definition of Omega",
+    "description": "Essential Criteria: Omega(E) must be correctly defined as the number of microscopic states at energy E.",
+    "weight": 5
+  },
+  {
+    "title": "Formula for S(n)",
+    "description": "Essential Criteria: The formula for S(n) must be accurately expressed using the correct combinatorial expression.",
+    "weight": 5
+  },
+  {
+    "title": "Stirling's Approximation",
+    "description": "Important Criteria: The derivation of Stirling's approximation must be shown using an integral approximation.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum Entropy Condition",
+    "description": "Important Criteria: The condition for maximum entropy must be derived and shown to occur at n = N/2.",
+    "weight": 4
+  },
+  {
+    "title": "Negative Temperature Condition",
+    "description": "Essential Criteria: The condition for negative temperature must be correctly stated in relation to energy E.",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Negative Temperature",
+    "description": "Important Criteria: The explanation for why negative temperature is possible in this system but not in a gas must be clearly articulated.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect interpretations of the conditions for S(n) or negative temperature will result in a deduction.",
+    "weight": -2
+  }
+]

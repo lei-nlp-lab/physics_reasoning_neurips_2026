@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct Final Answers",
+    "description": "Essential Criteria: Provide the correct expressions for the intensity at the screen for each case (a-e).",
+    "weight": 5
+  },
+  {
+    "title": "Explanation of Interference",
+    "description": "Important Criteria: Explain the presence or absence of interference terms in cases (c), (d), and (e).",
+    "weight": 4
+  },
+  {
+    "title": "Single-Slit Intensity",
+    "description": "Important Criteria: Clearly state the intensity contributions from each slit when only one is open.",
+    "weight": 3
+  },
+  {
+    "title": "Effect of Spin States",
+    "description": "Important Criteria: Discuss how the spin states affect the interference and intensity in cases (d) and (e).",
+    "weight": 3
+  },
+  {
+    "title": "Graphical Representation",
+    "description": "Optional Criteria: Provide rough graphs showing the relative number of detected electrons for each case.",
+    "weight": 2
+  },
+  {
+    "title": "Low Intensity Explanation",
+    "description": "Optional Criteria: Explain the implications of low intensity on the behavior of electrons passing through the apparatus.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the intensity equations provided.",
+    "weight": -1
+  },
+  {
+    "title": "Missing Interference Terms",
+    "description": "Pitfall Criteria: Ensure that the explanation includes the correct treatment of interference terms where applicable.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Check for consistency in the units used for intensity across different cases.",
+    "weight": -1
+  }
+]

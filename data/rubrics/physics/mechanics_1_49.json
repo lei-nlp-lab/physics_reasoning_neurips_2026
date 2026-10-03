@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct relationship between the masses and volumes of the Earth and Moon.",
+    "weight": 5
+  },
+  {
+    "title": "Gravitational Equation",
+    "description": "Important Criteria: The student should correctly apply the gravitational force equation to derive the relationship between orbital radius and mass.",
+    "weight": 4
+  },
+  {
+    "title": "Density Relationship",
+    "description": "Important Criteria: The student must articulate that the same orbital period implies equal density for the Earth and Moon.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common mistakes such as sign errors or incorrect assumptions about the masses or radii.",
+    "weight": -2
+  }
+]

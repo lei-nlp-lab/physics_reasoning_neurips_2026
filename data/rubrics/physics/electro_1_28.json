@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Current Density",
+    "description": "Essential Criteria: The student must provide the correct expression for the current density j.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Poisson's Equation",
+    "description": "Important Criteria: The student should correctly apply the Poisson equation in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Relation Application",
+    "description": "Important Criteria: The student must correctly use the energy relation between kinetic energy and electric potential.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Equation Setup",
+    "description": "Important Criteria: The student should set up the differential equation correctly for the potential V.",
+    "weight": 3
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Important Criteria: The student must show correct integration steps leading to the final expression for j.",
+    "weight": 3
+  },
+  {
+    "title": "Sign and Factor Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors related to signs or missing factors in the final expression.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases Consideration",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios relevant to the problem.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential: The final answer for part (1) must be n = √2 (or approximately 1.414).",
+    "weight": 5
+  },
+  {
+    "title": "Correct speed in liquid",
+    "description": "Essential: The final answer for part (2) must be v = c/√2 (or approximately 0.707c).",
+    "weight": 5
+  },
+  {
+    "title": "Identifies critical angle condition",
+    "description": "Important: The solution must apply the condition for total internal reflection, relating the incident angle at the liquid-air interface to the critical angle.",
+    "weight": 4
+  },
+  {
+    "title": "Relates angle to refractive index",
+    "description": "Important: The solution must correctly use the relationship n = 1 / sin(C), where C is the identified critical angle.",
+    "weight": 4
+  },
+  {
+    "title": "Applies speed-index relationship",
+    "description": "Important: The solution must correctly use the relationship v = c / n to find the speed in the liquid.",
+    "weight": 3
+  },
+  {
+    "title": "Interprets geometry of beam",
+    "description": "Optional: The solution may correctly interpret the 45° angle given in the problem as the critical angle at the interface.",
+    "weight": 2
+  },
+  {
+    "title": "Confuses incident and critical angle",
+    "description": "Pitfall: Penalize if the student incorrectly uses the 45° angle as the angle of incidence in Snell's law instead of the critical angle.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies speed formula",
+    "description": "Pitfall: Penalize if the student incorrectly writes v = n * c instead of v = c / n.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Expressions",
+    "description": "Essential criteria include correct expressions for the energy shifts of the 1s and 2s-2p states.",
+    "weight": 5
+  },
+  {
+    "title": "Qualitative Energy Shifts",
+    "description": "Important criteria involve a clear explanation of how energy levels shift and the physical reasoning behind differences among states.",
+    "weight": 4
+  },
+  {
+    "title": "Perturbation Hamiltonian",
+    "description": "Important criteria require the correct formulation of the perturbation Hamiltonian for the muonic atom.",
+    "weight": 4
+  },
+  {
+    "title": "Approximation Validity",
+    "description": "Important criteria include a discussion on the conditions under which the first-order perturbation method fails.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Shift Estimation",
+    "description": "Optional criteria involve a correct estimation of the energy shift for the 2s-2p states under the given assumptions.",
+    "weight": 2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional criteria include a physical interpretation of why the method may overestimate or underestimate energy shifts.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall criteria identify common mistakes such as neglecting the effects of the nuclear size on energy shifts.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall criteria check for consistency in units throughout calculations and expressions.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final volume A",
+    "description": "Essential: Correct numerical value for V1 (3.76e-3 m³) must be present.",
+    "weight": 5
+  },
+  {
+    "title": "Final volume B",
+    "description": "Essential: Correct numerical value for V2 (6.24e-3 m³) must be present.",
+    "weight": 5
+  },
+  {
+    "title": "Applies Boyle's Law",
+    "description": "Important: States or uses pV = constant for each gas's isothermal process.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure equilibrium condition",
+    "description": "Important: Recognizes final pressures in A and B are equal after rotation.",
+    "weight": 4
+  },
+  {
+    "title": "Volume conservation",
+    "description": "Important: States total volume V1 + V2 equals initial sum (0.01 m³).",
+    "weight": 3
+  },
+  {
+    "title": "Correct unit handling",
+    "description": "Optional: Converts cmHg to Pa or uses consistent units in ratio calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Significant figures",
+    "description": "Optional: Final answers expressed with appropriate significant figures (e.g., 3.76e-3).",
+    "weight": 1
+  },
+  {
+    "title": "Pressure unit confusion",
+    "description": "Pitfall: Treats cmHg as SI unit without conversion, leading to incorrect pressure ratio.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies gas law",
+    "description": "Pitfall: Uses wrong process (e.g., adiabatic) or assumes equal volume change.",
+    "weight": -1
+  }
+]

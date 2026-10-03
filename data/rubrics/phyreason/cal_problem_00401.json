@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Entry speed calculation",
+    "description": "Essential: Student must correctly compute the speed at magnetic field entry as V = √2 V₀ using velocity decomposition at point Q.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Student must derive E = m V₀²/(2qL) from work-energy theorem applied to motion in the electric field.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Student must derive B = 2m V₀/(qL) using Lorentz force and circular motion geometry in the magnetic field.",
+    "weight": 5
+  },
+  {
+    "title": "Total time O to P",
+    "description": "Essential: Student must compute total time as t = (8+π)L/(4V₀) by summing magnetic and electric field transit times.",
+    "weight": 5
+  },
+  {
+    "title": "Circular motion geometry",
+    "description": "Important: Student must correctly relate the arc OQ to the radius using the 90° central angle and 45° injection angle.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Student must properly apply work-energy theorem with correct sign for electric potential energy change.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity decomposition at Q",
+    "description": "Important: Student must resolve velocity components at point Q to connect V₀ with the entry speed V.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics in electric field",
+    "description": "Optional: Student may analyze vertical and horizontal motions separately using constant acceleration equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in work-energy",
+    "description": "Pitfall: Student incorrectly assigns sign to work done by electric field, leading to wrong E expression.",
+    "weight": -2
+  },
+  {
+    "title": "Geometry misinterpretation",
+    "description": "Pitfall: Student misidentifies the central angle or radius relationship, affecting B and time calculations.",
+    "weight": -2
+  }
+]

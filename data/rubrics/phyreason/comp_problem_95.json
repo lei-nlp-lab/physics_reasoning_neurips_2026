@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final expression for E_p",
+    "description": "Essential Criteria: The response must provide the correct approximate expression for the proton energy, E_p ≈ (m_Δ² - m_p²) / (4 E_b).",
+    "weight": 5
+  },
+  {
+    "title": "Conservation law application",
+    "description": "Important Criteria: The solution must correctly apply both relativistic energy and momentum conservation to the head-on collision.",
+    "weight": 4
+  },
+  {
+    "title": "Ultrarelativistic approximation",
+    "description": "Important Criteria: The reasoning must justify the approximation E_p ≈ p_p (or γ >> 1) for the proton, given that E_b is small.",
+    "weight": 3
+  },
+  {
+    "title": "Photon energy from wavelength",
+    "description": "Essential Criteria: The calculation must correctly convert the given wavelength (1.06 mm) to a photon energy in eV using E = hc/λ.",
+    "weight": 5
+  },
+  {
+    "title": "Numerical proton energy",
+    "description": "Essential Criteria: The final numerical answer for the proton energy must be correctly calculated from the given masses and the photon energy, resulting in an order of magnitude near 10^20 eV.",
+    "weight": 5
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Important Criteria: The derivation should show correct algebraic steps combining the squared conservation equations and the energy-momentum relation.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent handling of units, especially when converting between Joules and electron volts or using MeV/c² masses.",
+    "weight": 2
+  },
+  {
+    "title": "Neglecting E_b squared",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly retains terms of order E_b² in the approximations, leading to an incorrect final expression.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect frame or sign",
+    "description": "Pitfall Criteria: Penalize if the solution misapplies the head-on collision sign convention in momentum conservation or confuses laboratory and rest frames.",
+    "weight": -1
+  }
+]

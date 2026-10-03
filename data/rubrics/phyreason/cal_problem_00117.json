@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Spring potential energy",
+    "description": "Essential: The final answer for part (1) must be correctly stated as (1/2)mgR or an equivalent expression.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point O",
+    "description": "Essential: The final answer for part (2) must be correctly stated as sqrt(3gR).",
+    "weight": 5
+  },
+  {
+    "title": "Trajectory equation",
+    "description": "Essential: The final answer for part (3) must be correctly stated as y² = 6Rx.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to B",
+    "description": "Important: The solution must apply energy conservation between A and B, equating spring energy to kinetic energy at B.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem B to O",
+    "description": "Important: The solution must apply the work-energy theorem from B to O, accounting for work done by gravity and the electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis after O",
+    "description": "Important: The solution must resolve forces after point O to find the constant accelerations in x and y directions.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic derivation",
+    "description": "Optional: The trajectory equation should be correctly derived by eliminating time from the parametric x(t) and y(t) equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize sign errors in work done by gravity or the electric field, or incorrect resolution of force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit or expression error",
+    "description": "Pitfall: Penalize incorrect algebraic manipulation leading to a wrong expression for velocity or trajectory, or missing the 'm' in the energy answer.",
+    "weight": -1
+  }
+]

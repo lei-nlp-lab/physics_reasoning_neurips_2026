@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student provides the correct final answer for the time tau when the radius is R/2.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Equation",
+    "description": "Important Criteria: The student correctly derives the total energy equation for the particle in circular motion.",
+    "weight": 4
+  },
+  {
+    "title": "Radiation Loss",
+    "description": "Important Criteria: The student correctly identifies and applies the formula for energy loss due to radiation.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Equation",
+    "description": "Important Criteria: The student sets up and solves the differential equation relating dr/dt to energy loss.",
+    "weight": 4
+  },
+  {
+    "title": "Integration Setup",
+    "description": "Important Criteria: The student correctly sets up the integral to find the time tau from R to R/2.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student fails to correctly handle the signs in the differential equation or integral limits.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student checks that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student discusses limiting cases or assumptions made during the derivation.",
+    "weight": 2
+  }
+]

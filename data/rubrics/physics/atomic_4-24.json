@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must correctly state that all three processes are impossible.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation",
+    "description": "Important Criteria: The student should explain the conservation of energy and momentum for each process.",
+    "weight": 4
+  },
+  {
+    "title": "Invariant Mass Argument",
+    "description": "Important Criteria: The student must use the invariant mass squared concept to support their reasoning for each process.",
+    "weight": 4
+  },
+  {
+    "title": "Detailed Explanation",
+    "description": "Optional Criteria: The student may provide a detailed explanation of why energy and momentum cannot be conserved in each case.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as misapplying conservation laws or neglecting factors in calculations.",
+    "weight": -2
+  }
+]

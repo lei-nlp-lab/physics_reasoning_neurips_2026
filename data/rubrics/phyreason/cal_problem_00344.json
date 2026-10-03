@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity at A",
+    "description": "Essential: The final answer for v_A must be 2 m/s, derived from the condition that the normal force at A is zero (centripetal force equals weight).",
+    "weight": 5
+  },
+  {
+    "title": "Distance to B",
+    "description": "Essential: The final answer for the distance x must be 5 m, found by applying the work-energy theorem from the release point to point A.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum Speed in Air",
+    "description": "Essential: The final answer for the minimum speed after leaving A must be approximately 1.94 m/s, obtained by minimizing the speed function v(t).",
+    "weight": 5
+  },
+  {
+    "title": "Work-Energy Setup",
+    "description": "Important: The work-energy equation must correctly account for work done by the electric field, friction, and gravity between the release point and A.",
+    "weight": 4
+  },
+  {
+    "title": "Force Analysis at A",
+    "description": "Important: The condition of zero normal force at the top of the semicircle must be used to relate centripetal acceleration to gravity.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics Post-A",
+    "description": "Important: The horizontal and vertical velocity components after leaving A must be expressed as functions of time, incorporating the electric force and gravity.",
+    "weight": 3
+  },
+  {
+    "title": "Speed Minimization",
+    "description": "Optional: The process of finding the time at which speed is minimum by differentiating v^2(t) or using vector principles should be shown or implied.",
+    "weight": 2
+  },
+  {
+    "title": "Sign of Electric Force",
+    "description": "Pitfall: Incorrect sign for the work done by the electric field on the negative charge, or wrong direction of the horizontal acceleration after point A.",
+    "weight": -2
+  },
+  {
+    "title": "Friction Direction",
+    "description": "Pitfall: Forgetting that friction on the horizontal track opposes motion, doing negative work, or misplacing it in the energy equation.",
+    "weight": -1
+  }
+]

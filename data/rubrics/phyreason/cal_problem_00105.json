@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial velocity expression",
+    "description": "Essential: The final answer for part (1) must be correctly derived and stated as v0 = B²L³/(m R₀).",
+    "weight": 5
+  },
+  {
+    "title": "Total heat expression",
+    "description": "Essential: The final answer for part (2) must be correctly derived and stated as Q_total = 3B⁴L⁶/(25 m R₀²).",
+    "weight": 5
+  },
+  {
+    "title": "Apply impulse-momentum theorem",
+    "description": "Important: For part (1), the solution must relate the magnetic impulse (-B L q) to the change in momentum (mΔv).",
+    "weight": 4
+  },
+  {
+    "title": "Calculate total charge flow",
+    "description": "Important: For part (1), the total charge (q) that flows during the frame's transit through the field must be correctly calculated using Faraday's law and circuit resistance.",
+    "weight": 3
+  },
+  {
+    "title": "Analyze circuit resistances",
+    "description": "Important: For part (2), the equivalent resistance of the circuit must be correctly found for both the entry and exit phases, accounting for series/parallel combinations.",
+    "weight": 4
+  },
+  {
+    "title": "Apply energy conservation",
+    "description": "Important: For part (2), the total heat generated in the circuit during entry/exit must be found using conservation of energy (initial KE = final KE + heat).",
+    "weight": 4
+  },
+  {
+    "title": "Distribute heat in circuit",
+    "description": "Important: For part (2), the heat generated specifically in resistor R₁ must be correctly calculated from the total heat using power/current distribution rules.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in magnetic force",
+    "description": "Pitfall: Deduct if the direction of the magnetic force (retarding) is ignored, leading to an incorrect sign in the impulse-momentum equation.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect resistance model",
+    "description": "Pitfall: Deduct if the student fails to recognize the changing circuit configuration (which sides are in the field) and uses a constant equivalent resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Award if the student explicitly verifies the dimensional consistency of their final expressions (e.g., for velocity or energy).",
+    "weight": 1
+  }
+]

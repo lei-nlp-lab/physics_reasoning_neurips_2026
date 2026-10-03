@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Acceleration calculation",
+    "description": "Essential: The response must correctly compute the acceleration as 2 m/s² using the displacement difference over equal time intervals.",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at point B",
+    "description": "Important: The response must determine the instantaneous velocity at B (8 m/s) using the average velocity over AC or a correct kinematic relation.",
+    "weight": 4
+  },
+  {
+    "title": "Distance above A",
+    "description": "Essential: The response must correctly calculate the minimum length of the incline above point A as 4 m, using kinematics from rest to point B.",
+    "weight": 5
+  },
+  {
+    "title": "Apply Δx = aT²",
+    "description": "Important: The solution must correctly apply the formula for displacement difference in consecutive equal time intervals (BC - AB = aT²).",
+    "weight": 3
+  },
+  {
+    "title": "Kinematic consistency",
+    "description": "Optional: The response shows unit analysis or verifies consistency among velocity, acceleration, and displacement equations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if acceleration sign is wrong, units are missing/incorrect, or displacement values are misassigned (e.g., swapping AB and BC).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterpret time intervals",
+    "description": "Pitfall: Penalize if the time intervals for AB and BC are not treated as equal (2 s each) or if total time for AC is misused.",
+    "weight": -1
+  }
+]

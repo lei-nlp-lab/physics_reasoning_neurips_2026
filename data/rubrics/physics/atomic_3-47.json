@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria - The student provides the correct estimated number of Ar-37 atoms produced per day.",
+    "weight": 5
+  },
+  {
+    "title": "Assumptions Listed",
+    "description": "Important Criteria - The student clearly states the assumptions made during the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Density Use",
+    "description": "Important Criteria - The student correctly uses the density of CCl4 to calculate the number of Cl nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Cross Section Application",
+    "description": "Important Criteria - The student correctly applies the interaction cross section of neutrinos with Cl nuclei in the calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Threshold Mentioned",
+    "description": "Optional Criteria - The student mentions the energy threshold for neutrino detection and its significance.",
+    "weight": 3
+  },
+  {
+    "title": "Improvement Suggestions",
+    "description": "Optional Criteria - The student suggests feasible improvements to the experiment for better detection.",
+    "weight": 3
+  },
+  {
+    "title": "Calculation Errors",
+    "description": "Pitfall Criteria - The student makes errors in calculations, leading to an incorrect final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - The student fails to maintain consistent units throughout the calculations.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Momentum Answer",
+    "description": "Essential Criteria: The student must provide the correct final momentum of the K-meson as p_K = 0.82 GeV/c.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Conservation Equation",
+    "description": "Important Criteria: The student should correctly write and apply the energy conservation equation involving the energies of K and pi mesons.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Conservation Equation",
+    "description": "Important Criteria: The student must state and utilize the momentum conservation principle for the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "False Statement Explanation",
+    "description": "Essential Criteria: The student must correctly identify the statement as false and provide a valid explanation regarding the production of K- mesons.",
+    "weight": 5
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of conservation laws or miscalculating the momentum.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios related to the decay process.",
+    "weight": 1
+  }
+]

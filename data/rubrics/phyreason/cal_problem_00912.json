@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Discharge time expression",
+    "description": "Essential: The response must state the discharge time as t = (π/2)√(LC) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Average current expression",
+    "description": "Essential: The response must state the average current as I_avg = (2E/π)√(C/L) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "LC oscillation period recognition",
+    "description": "Important: The solution should identify the discharge as a quarter-period of an LC oscillation, using T = 2π√(LC).",
+    "weight": 4
+  },
+  {
+    "title": "Average current definition",
+    "description": "Important: The solution must apply the definition I_avg = Δq/Δt, where Δq is the total charge that flows (CE).",
+    "weight": 4
+  },
+  {
+    "title": "Charge flow identification",
+    "description": "Important: The reasoning must correctly identify the initial charge on the capacitor as CE and that it fully discharges to zero.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The final expressions should have correct units for time (s) and current (A), or a dimensional check should be implied.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing period with discharge time",
+    "description": "Pitfall: Penalize if the student incorrectly states the discharge time as the full period T = 2π√(LC).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect average current formula",
+    "description": "Pitfall: Penalize if the student uses I_avg = (I_max)/2 or another incorrect average, rather than Δq/Δt.",
+    "weight": -2
+  }
+]

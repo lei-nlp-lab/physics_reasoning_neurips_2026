@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer of 8 minutes.",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Light Travel",
+    "description": "Important Criteria: The student should demonstrate an understanding of the speed of light and its travel time to Earth.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Options",
+    "description": "Important Criteria: The student should logically compare the given options to determine the most accurate answer.",
+    "weight": 3
+  },
+  {
+    "title": "Units of Time",
+    "description": "Optional Criteria: The student may include appropriate units when stating the final answer.",
+    "weight": 2
+  },
+  {
+    "title": "Common Misconceptions",
+    "description": "Pitfall Criteria: The student should avoid common errors such as selecting 1 hour or 8 seconds as the answer.",
+    "weight": -2
+  }
+]

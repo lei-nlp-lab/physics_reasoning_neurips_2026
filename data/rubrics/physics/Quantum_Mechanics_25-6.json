@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Rectilinear Energy Equation",
+    "description": "Essential Criteria: Provide the correct energy equation for the rectilinear basis of the harmonic oscillator.",
+    "weight": 5
+  },
+  {
+    "title": "Spherical Energy Equation",
+    "description": "Essential Criteria: Provide the correct energy equation for the spherical basis of the harmonic oscillator.",
+    "weight": 5
+  },
+  {
+    "title": "Quantum Number Relationships",
+    "description": "Important Criteria: Clearly explain the relationship between quantum numbers in both bases.",
+    "weight": 4
+  },
+  {
+    "title": "Effective Potential Derivation",
+    "description": "Important Criteria: Derive the effective potential used in the Schrödinger equation for the spherical case.",
+    "weight": 4
+  },
+  {
+    "title": "Limit Cases Analysis",
+    "description": "Optional Criteria: Discuss the behavior of the wavefunction in the limits of the variables involved.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that all equations and constants are presented with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common mistakes such as sign errors or misinterpretation of quantum numbers.",
+    "weight": -2
+  }
+]

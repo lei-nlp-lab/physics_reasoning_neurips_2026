@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Formula",
+    "description": "Essential Criteria: The student must provide the correct final formula for depth of field, Delta q.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Gaussian Formula",
+    "description": "Important Criteria: The student should correctly apply the Gaussian lens formula in their derivation.",
+    "weight": 4
+  },
+  {
+    "title": "Image Distance Relation",
+    "description": "Important Criteria: The student must derive the relationship between changes in object distance and image distance accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric Consideration",
+    "description": "Important Criteria: The student should incorporate the geometric relationship involving the diameter of the lens and the circle of confusion.",
+    "weight": 3
+  },
+  {
+    "title": "Assumption Justification",
+    "description": "Optional Criteria: The student should justify the assumption that the object distance is much larger than the focal length.",
+    "weight": 2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in the derivation.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should ensure that all necessary factors, such as the f-stop, are included in the final expression.",
+    "weight": -1
+  }
+]

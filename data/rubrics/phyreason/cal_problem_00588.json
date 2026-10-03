@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Part 1 speed",
+    "description": "Essential Criteria: The student must correctly calculate the truck's speed 2 seconds after entering the ramp as 18 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 length",
+    "description": "Essential Criteria: The student must correctly calculate the minimum ramp length as 73.5 m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct equation application",
+    "description": "Important Criteria: The student must correctly apply the kinematic equation v = v₀ - at for part (1) and v² = v₀² - 2ax (or equivalent) for part (2).",
+    "weight": 4
+  },
+  {
+    "title": "Sign convention consistency",
+    "description": "Important Criteria: The student must consistently treat acceleration as negative (deceleration) in their equations or correctly handle the magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Unit inclusion",
+    "description": "Optional Criteria: The student includes correct units (m/s and m) with their final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Alternative solution check",
+    "description": "Optional Criteria: The student verifies the answer for part (2) by first calculating the stopping time (3.5 s) and using x = v₀t - ½at².",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: The student incorrectly uses acceleration as positive, leading to a speed calculation greater than the initial speed for part (1).",
+    "weight": -2
+  },
+  {
+    "title": "Equation misapplication",
+    "description": "Pitfall Criteria: The student uses an average velocity formula without justification for part (1) or misapplies the time (e.g., using 3.5 s instead of 2 s).",
+    "weight": -1
+  }
+]

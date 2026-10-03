@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Interior average potential energy",
+    "description": "Essential: The answer for part (1) must be $-2a'N/V$.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary average potential energy",
+    "description": "Essential: The answer for part (2) must be $-a'N/V$.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure at boundary",
+    "description": "Essential: The answer for part (3) must be $Nk_BT/V - a'N^2/V^2$.",
+    "weight": 5
+  },
+  {
+    "title": "Total energy expression",
+    "description": "Essential: The answer for part (4) must be $\\frac{3}{2}Nk_BT - a'N^2/V$.",
+    "weight": 5
+  },
+  {
+    "title": "Final temperature after expansion",
+    "description": "Essential: The answer for part (5) must be $T - a'N/(3k_BV)$.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy increase to first order",
+    "description": "Essential: The answer for part (6) must be $Nk_B\\log 2 - \\frac{a'N^2}{2VT}$.",
+    "weight": 5
+  },
+  {
+    "title": "Potential energy integration",
+    "description": "Important: The solution must integrate the pair potential over a uniform density to find the average energy.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation in expansion",
+    "description": "Important: For parts (5) and (6), the total energy must be conserved during the free expansion.",
+    "weight": 4
+  },
+  {
+    "title": "Bernoulli's law application",
+    "description": "Important: For part (3), Bernoulli's law must be correctly applied, relating pressure difference to potential energy density difference.",
+    "weight": 3
+  },
+  {
+    "title": "Double-counting correction",
+    "description": "Important: The total potential energy in part (4) must include a factor of 1/2 to avoid double-counting pairs.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in potential",
+    "description": "Pitfall: Incorrect sign for the attractive potential energy (should be negative).",
+    "weight": -2
+  },
+  {
+    "title": "Missing factor in boundary energy",
+    "description": "Pitfall: Failing to recognize that an atom near the boundary interacts with only a half-space, giving half the interior energy.",
+    "weight": -2
+  },
+  {
+    "title": "Ideal gas law misapplication",
+    "description": "Pitfall: Using the ideal gas law for pressure at the boundary without the correction from intermolecular forces.",
+    "weight": -2
+  }
+]

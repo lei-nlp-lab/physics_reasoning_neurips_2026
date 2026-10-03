@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Expression for R",
+    "description": "Essential Criteria: The student must correctly express R as a function of L for the circular orbit.",
+    "weight": 5
+  },
+  {
+    "title": "Final Expression for T",
+    "description": "Essential Criteria: The student must derive the period T as a function of L.",
+    "weight": 5
+  },
+  {
+    "title": "Stability Analysis",
+    "description": "Important Criteria: The student should identify which solution for R is stable and provide reasoning.",
+    "weight": 4
+  },
+  {
+    "title": "Expression for delta",
+    "description": "Essential Criteria: The student must provide an approximate expression for delta(t) in part (b).",
+    "weight": 5
+  },
+  {
+    "title": "Expression for phi",
+    "description": "Essential Criteria: The student must derive the expression for phi(t) in part (c).",
+    "weight": 5
+  },
+  {
+    "title": "Use of Effective Potential",
+    "description": "Important Criteria: The student should correctly apply the effective potential concept in their calculations.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect assumptions about stability.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check for consistency in units throughout their calculations.",
+    "weight": 2
+  }
+]

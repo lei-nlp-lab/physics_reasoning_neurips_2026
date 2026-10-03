@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct vertical time",
+    "description": "Essential: Student correctly calculates the time of fall using vertical kinematics (h = ½gt²).",
+    "weight": 5
+  },
+  {
+    "title": "Correct relative displacement",
+    "description": "Essential: Student correctly identifies that the horizontal distance is the difference between the train's displacement and the object's horizontal displacement.",
+    "weight": 5
+  },
+  {
+    "title": "Final numerical answer",
+    "description": "Essential: Student arrives at the final correct answer of 0.25 m.",
+    "weight": 5
+  },
+  {
+    "title": "Apply train's acceleration",
+    "description": "Important: Student correctly uses the train's acceleration (0.98 m/s²) in calculating the train's horizontal displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Object's horizontal motion",
+    "description": "Important: Student correctly identifies that the object's horizontal velocity remains constant (equal to the train's initial velocity at release).",
+    "weight": 4
+  },
+  {
+    "title": "Units and clarity",
+    "description": "Optional: Student includes correct units in calculations and final answer, and presents work clearly.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in relative motion",
+    "description": "Pitfall: Student incorrectly subtracts displacements (e.g., s₁ - s₂ instead of s₂ - s₁) or misinterprets which is larger.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing accelerations",
+    "description": "Pitfall: Student incorrectly uses the train's acceleration (0.98 m/s²) in the vertical motion or the object's horizontal motion.",
+    "weight": -2
+  }
+]

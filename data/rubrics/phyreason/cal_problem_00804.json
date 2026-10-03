@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Heat from collision",
+    "description": "Essential: Correctly calculates the heat generated as Q = (2/3)mgh.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum height on incline",
+    "description": "Essential: Correctly determines the maximum height as h' = h/18.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum velocity of C",
+    "description": "Essential: Correctly states the maximum velocity of plane C as v_C = sqrt(2gh)/3.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation of momentum (collision)",
+    "description": "Important: Applies momentum conservation to find the common velocity of A and B after the inelastic collision.",
+    "weight": 4
+  },
+  {
+    "title": "System momentum conservation",
+    "description": "Important: Applies horizontal momentum conservation to the system of (A+B) and C when they interact on the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Energy conservation for motion",
+    "description": "Important: Applies mechanical energy conservation correctly for the (A+B) and C system relative to the ground.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity condition at max speed",
+    "description": "Optional: Recognizes that C reaches its maximum speed when (A+B) have zero horizontal velocity relative to C.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in momentum",
+    "description": "Pitfall: Uses incorrect sign for velocity components when applying momentum conservation on the incline.",
+    "weight": -2
+  },
+  {
+    "title": "Energy double-counting",
+    "description": "Pitfall: Incorrectly includes gravitational potential energy change during the collision or sliding phase.",
+    "weight": -1
+  }
+]

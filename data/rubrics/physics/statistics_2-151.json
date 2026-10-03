@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct mean free path value of l = 10^6 cm.",
+    "weight": 5
+  },
+  {
+    "title": "Density Calculation",
+    "description": "Important Criteria: The student should correctly derive the atmospheric density using n = p/(kT).",
+    "weight": 4
+  },
+  {
+    "title": "Mean Free Path Formula",
+    "description": "Essential Criteria: The student must use the correct formula for mean free path l = 1/(pi n sigma).",
+    "weight": 5
+  },
+  {
+    "title": "Cross Section Value",
+    "description": "Important Criteria: The student should correctly identify and use the value of sigma = 10^-26 cm^2.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect use of constants.",
+    "weight": -2
+  }
+]

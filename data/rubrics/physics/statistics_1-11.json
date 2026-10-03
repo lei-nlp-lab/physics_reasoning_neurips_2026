@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must correctly state the final relationship C_p - C_v = 3alpha Mp/rho.",
+    "weight": 5
+  },
+  {
+    "title": "First Law Application",
+    "description": "Important Criteria: The student should correctly apply the first law of thermodynamics to relate dQ, dU, and dV.",
+    "weight": 4
+  },
+  {
+    "title": "Coefficient of Linear Expansion",
+    "description": "Important Criteria: The student must correctly define the coefficient of linear expansion and relate it to volume change.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution Steps",
+    "description": "Important Criteria: The student should show appropriate substitution of dV/dT into the equation for C_p - C_v.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that the units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes or incorrect factors in the final equation.",
+    "weight": -2
+  },
+  {
+    "title": "Thermodynamic Relationships",
+    "description": "Optional Criteria: The student may discuss the relationship between heat capacities and thermodynamic properties.",
+    "weight": 1
+  }
+]

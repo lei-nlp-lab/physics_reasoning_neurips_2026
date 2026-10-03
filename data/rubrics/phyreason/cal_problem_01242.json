@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Total time calculation",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly calculated and stated as 12.28 s (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Optimal speed determination",
+    "description": "Essential Criteria: The final answer for part (2) must correctly identify the adjusted speed as 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration phase analysis",
+    "description": "Important Criteria: The solution must correctly calculate the acceleration on the conveyor belt (a = μ₁g = 1 m/s²) and the time/distance to reach belt speed.",
+    "weight": 4
+  },
+  {
+    "title": "Turntable speed limit",
+    "description": "Important Criteria: The solution must apply Newton's second law for circular motion to find the maximum safe speed on the turntable (μ₂g = v²/R).",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on conveyor",
+    "description": "Important Criteria: The solution must correctly segment the motion on the belt into accelerated and constant-speed phases, using L=10 m.",
+    "weight": 3
+  },
+  {
+    "title": "Time on turntable",
+    "description": "Important Criteria: The solution must correctly calculate the time on the turntable using the arc length (πR) and the linear speed.",
+    "weight": 3
+  },
+  {
+    "title": "Comparison of limiting speeds",
+    "description": "Optional Criteria: The solution may discuss comparing the belt's maximum achievable speed (√(2μ₁gL)) with the turntable's maximum safe speed to justify the optimal speed.",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall Criteria: Penalize incorrect unit handling (e.g., forgetting g=10 m/s²) or sign errors in kinematic equations.",
+    "weight": -2
+  },
+  {
+    "title": "Slipping condition confusion",
+    "description": "Pitfall Criteria: Penalize confusing static and kinetic friction for the turntable or misapplying the centripetal force condition (using μ₁ instead of μ₂).",
+    "weight": -1
+  }
+]

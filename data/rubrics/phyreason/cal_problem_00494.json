@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct potential difference",
+    "description": "Essential: The final answer for part (1) must be 120 V (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct work calculation",
+    "description": "Essential: The final answer for part (2) must be 2.4 × 10⁻⁸ J (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Proper formula application",
+    "description": "Important: Uses U = E·d·cosθ with correct angle (53°) for potential difference in uniform field.",
+    "weight": 4
+  },
+  {
+    "title": "Work-potential relationship",
+    "description": "Important: Applies W = q·U to calculate work from potential difference and charge.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric function selection",
+    "description": "Important: Recognizes that cosine (not sine) relates displacement component parallel to field.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains correct units throughout (V/m, m, C, V, J) with proper conversions.",
+    "weight": 2
+  },
+  {
+    "title": "Sign interpretation",
+    "description": "Optional: Correctly interprets sign of work relative to charge movement direction.",
+    "weight": 1
+  },
+  {
+    "title": "Using sine instead of cosine",
+    "description": "Pitfall: Incorrectly uses sinθ instead of cosθ in potential difference formula.",
+    "weight": -2
+  },
+  {
+    "title": "Angle misunderstanding",
+    "description": "Pitfall: Uses wrong angle (e.g., 37° instead of 53°) in trigonometric calculation.",
+    "weight": -1
+  }
+]

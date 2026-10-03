@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct resistance force",
+    "description": "Essential: The student must state or calculate the resistance force as 450 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct work done",
+    "description": "Essential: The student must state or calculate the work done as 9.0 × 10³ J (or 9000 J).",
+    "weight": 5
+  },
+  {
+    "title": "Correct total power",
+    "description": "Essential: The student must state or calculate the total power as 600 W.",
+    "weight": 5
+  },
+  {
+    "title": "Equilibrium reasoning",
+    "description": "Important: The student must apply Newton's first law, stating that net horizontal force is zero due to constant velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Horizontal component of tension",
+    "description": "Important: The student must correctly use the cosine of the angle to find the horizontal component of each tension force.",
+    "weight": 4
+  },
+  {
+    "title": "Work formula application",
+    "description": "Important: The student must correctly apply the work formula W = Fx cosθ for the total horizontal force and distance.",
+    "weight": 3
+  },
+  {
+    "title": "Power definition",
+    "description": "Important: The student must correctly define power as work done divided by time taken.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student's solution should maintain consistent SI units (N, m, J, W) throughout.",
+    "weight": 1
+  },
+  {
+    "title": "Forgetting cosine factor",
+    "description": "Pitfall: Using tension F directly without the cosθ factor for horizontal force in equilibrium or work calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrectly assigning sign to work or power, or misinterpreting the direction of forces.",
+    "weight": -1
+  }
+]

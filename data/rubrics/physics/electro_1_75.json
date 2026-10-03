@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final expression for capacitance per unit length must be correctly stated as C = pi / ln(2b/a).",
+    "weight": 5
+  },
+  {
+    "title": "Potential Difference",
+    "description": "Important Criteria: The calculation of the potential difference V between the wire and the image wire must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Image Charge Method",
+    "description": "Important Criteria: The use of the image charge method to account for the metal plane must be clearly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Logarithmic Terms",
+    "description": "Optional Criteria: The logarithmic terms in the potential expressions should be correctly simplified and interpreted.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any errors in maintaining consistent units throughout the calculations will result in a deduction.",
+    "weight": -2
+  }
+]

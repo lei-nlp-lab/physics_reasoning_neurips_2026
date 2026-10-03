@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Displacement magnitude",
+    "description": "Essential Criteria: The student must correctly calculate the net displacement as 0.5 m, using the difference between the areas under the v-t graph before and after the turning point.",
+    "weight": 5
+  },
+  {
+    "title": "Total distance traveled",
+    "description": "Essential Criteria: The student must correctly calculate the total distance as 1.5 m, using the sum of the areas under the v-t graph before and after the turning point.",
+    "weight": 5
+  },
+  {
+    "title": "Accelerations from slope",
+    "description": "Important Criteria: The student must correctly identify the accelerations a₁ = 4 m/s² (0–0.5 s) and a₂ = 2 m/s² (0.5–2 s) from the slopes of the v-t graph segments.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis",
+    "description": "Important Criteria: The student must apply Newton's second law to the first stage, setting up equations involving F, friction, and gravity components to solve for F = 8 N.",
+    "weight": 4
+  },
+  {
+    "title": "Stage identification",
+    "description": "Important Criteria: The student must correctly identify the two motion stages: upward with force F (0–0.5 s) and upward then downward after force removal (0.5–2 s).",
+    "weight": 3
+  },
+  {
+    "title": "Graph interpretation",
+    "description": "Optional Criteria: The student may explicitly state that areas under the v-t graph represent displacement and slopes represent acceleration.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall Criteria: Penalize if the student incorrectly uses the sum of areas instead of the difference when calculating displacement.",
+    "weight": -2
+  },
+  {
+    "title": "Acceleration sign confusion",
+    "description": "Pitfall Criteria: Penalize if the student misidentifies the sign of a₂ or treats the magnitude incorrectly in force equations.",
+    "weight": -1
+  }
+]

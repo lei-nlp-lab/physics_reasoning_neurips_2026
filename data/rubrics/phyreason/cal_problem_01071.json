@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Maximum speed condition",
+    "description": "Essential: Student must state or use that the final speed after both acceleration phases is 40 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Second phase calculation",
+    "description": "Important: Student correctly applies v = u + at to the second phase (a₂ = 2 m/s², t₂ = 10 s) to find v₁.",
+    "weight": 4
+  },
+  {
+    "title": "First phase calculation",
+    "description": "Important: Student correctly applies v = u + at to the first phase (starting from rest, t₁ = 5 s) to find a₁ using v₁.",
+    "weight": 4
+  },
+  {
+    "title": "Correct final answers",
+    "description": "Essential: Student provides both final numerical answers: v₁ = 20 m/s and a₁ = 4 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student includes correct units (m/s and m/s²) with numerical answers.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in kinematics",
+    "description": "Pitfall: Student incorrectly uses negative acceleration or misapplies sign in v = u + at equations.",
+    "weight": -2
+  },
+  {
+    "title": "Phase transition confusion",
+    "description": "Pitfall: Student treats the motion as one continuous acceleration or incorrectly combines time intervals.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final gas pressure",
+    "description": "Essential: Correctly calculates final pressure using Boyle's law with initial and final volumes.",
+    "weight": 5
+  },
+  {
+    "title": "Right piston force balance",
+    "description": "Important: Applies static equilibrium to right piston, relating sand weight, atmospheric force, and gas pressure force.",
+    "weight": 4
+  },
+  {
+    "title": "Left piston force balance",
+    "description": "Important: Applies static equilibrium to left piston, relating spring force, atmospheric force, and gas pressure force.",
+    "weight": 4
+  },
+  {
+    "title": "Volume calculations",
+    "description": "Important: Correctly computes initial and final total gas volumes from given piston displacements and cross-sectional areas.",
+    "weight": 3
+  },
+  {
+    "title": "Initial pressure identification",
+    "description": "Essential: Recognizes initial gas pressure equals atmospheric pressure p₀.",
+    "weight": 2
+  },
+  {
+    "title": "Spring displacement recognition",
+    "description": "Optional: Notes that left piston rise equals spring compression distance.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Uses wrong sign for spring force (tension vs compression) or misaligns force directions.",
+    "weight": -2
+  },
+  {
+    "title": "Volume or area mix-up",
+    "description": "Pitfall: Confuses cross-sectional areas S and 2S when computing volumes or forces.",
+    "weight": -1
+  }
+]

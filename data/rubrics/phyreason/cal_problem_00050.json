@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Time interval identification",
+    "description": "Essential: Correctly identifies the effective time interval between photographed positions as 0.20 s (4 flashes).",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal motion analysis",
+    "description": "Important: Recognizes that horizontal displacement between positions equals initial horizontal velocity multiplied by time interval.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical motion analysis",
+    "description": "Important: Applies constant acceleration equations to determine vertical displacements between successive positions.",
+    "weight": 4
+  },
+  {
+    "title": "Pythagorean application",
+    "description": "Important: Uses Pythagorean theorem to relate segment lengths s₁ and s₂ to horizontal and vertical displacements.",
+    "weight": 3
+  },
+  {
+    "title": "Ratio equation setup",
+    "description": "Essential: Correctly sets up and solves the ratio equation s₁/s₂ = 3/7 using displacement components.",
+    "weight": 5
+  },
+  {
+    "title": "Final velocity calculation",
+    "description": "Essential: Calculates and presents the final answer as v₀ = 2√5/5 m/s (or equivalent decimal/numerical form).",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect time interval",
+    "description": "Pitfall: Uses 0.05 s instead of 0.20 s for time between photographed positions.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in vertical motion",
+    "description": "Pitfall: Uses incorrect sign convention for gravitational acceleration in displacement equations.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculation and includes units in final answer.",
+    "weight": 1
+  }
+]

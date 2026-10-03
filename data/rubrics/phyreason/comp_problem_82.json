@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Pressure balance relation",
+    "description": "Essential: Student must state that the internal pressure exceeds atmospheric pressure by 4γ/R₀ due to surface tension.",
+    "weight": 5
+  },
+  {
+    "title": "Ideal gas law application",
+    "description": "Important: Student correctly applies the ideal gas law to relate ρT to pressure for both internal and external air.",
+    "weight": 4
+  },
+  {
+    "title": "Final ratio expression",
+    "description": "Essential: Student derives and presents the final answer for part (1) as (ρᵢTᵢ)/(ρₐTₐ) = 1 + 4γ/(R₀Pₐ).",
+    "weight": 5
+  },
+  {
+    "title": "Numerical substitution accuracy",
+    "description": "Important: Student correctly substitutes given numerical values into derived expressions for parts (2), (3), and (5).",
+    "weight": 3
+  },
+  {
+    "title": "Buoyancy and weight analysis",
+    "description": "Important: Student correctly calculates total weight (soap film + internal air) and buoyant force for the flotation condition.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance with drag",
+    "description": "Important: Student sets Stokes' drag force equal to net downward force (weight minus buoyancy) for parts (4) and (5).",
+    "weight": 4
+  },
+  {
+    "title": "Electric pressure inclusion",
+    "description": "Important: Student accounts for the electrostatic repulsion pressure (q²/(32π²ε₀R₁⁴)) in the pressure balance for the charged bubble.",
+    "weight": 4
+  },
+  {
+    "title": "Small-change approximation",
+    "description": "Optional: Student correctly applies the binomial approximation (1+x)^n ≈ 1+nx to simplify the equation for ΔR in part (7).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Student makes a sign error in the pressure balance (e.g., Pᵢ = Pₐ - 4γ/R₀) or misplaces factors in the electrostatic pressure.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting soap film mass",
+    "description": "Pitfall: Student omits the mass of the soap film (4πR₀²ρₛt) in the weight calculation for flotation and drag balance.",
+    "weight": -1
+  }
+]

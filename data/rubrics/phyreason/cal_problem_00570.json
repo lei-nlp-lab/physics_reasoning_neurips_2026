@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct energy value",
+    "description": "Essential: The student's final answer for part (1) must be 3.24 J (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct flux expression",
+    "description": "Essential: The student's final answer for part (2) must be \\(\\frac{\\sqrt{2}}{5000\\pi} \\mathrm{Wb}\\) (or an equivalent symbolic/numeric form).",
+    "weight": 5
+  },
+  {
+    "title": "Uses effective EMF",
+    "description": "Important: The solution must correctly convert the peak EMF from the graph to an RMS/effective value using \\(E = E_m / \\sqrt{2}\\).",
+    "weight": 4
+  },
+  {
+    "title": "Applies circuit power law",
+    "description": "Important: The solution must correctly apply power/energy formulas for the circuit, such as \\(P = U^2/R\\) or \\(Q = (U^2/R)t\\), where \\(U\\) is the terminal voltage across the bulb.",
+    "weight": 4
+  },
+  {
+    "title": "Relates EMF to flux",
+    "description": "Important: For part (2), the solution must connect the peak EMF to magnetic flux via \\(E_m = nBS\\omega = n\\Phi_m \\omega\\), and determine \\(\\omega\\) from the period.",
+    "weight": 4
+  },
+  {
+    "title": "Determines period",
+    "description": "Optional: The solution may explicitly read the period (T = 0.02 s) from the provided graph to find the angular frequency.",
+    "weight": 2
+  },
+  {
+    "title": "Consistent unit handling",
+    "description": "Optional: The solution demonstrates consistent use and conversion of units (e.g., seconds, webers, joules).",
+    "weight": 1
+  },
+  {
+    "title": "Misinterprets peak EMF",
+    "description": "Pitfall: Penalize if the student uses the peak EMF (6√2 V) directly in power calculations without converting to an effective value.",
+    "weight": -2
+  },
+  {
+    "title": "Confuses terminal and EMF",
+    "description": "Pitfall: Penalize if the student incorrectly uses the source EMF (E) instead of the terminal voltage across the bulb (U) in the power formula.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or phase error",
+    "description": "Pitfall: Penalize if the student incorrectly handles the sinusoidal phase or sign when calculating the magnetic flux at the specified instant.",
+    "weight": -1
+  }
+]

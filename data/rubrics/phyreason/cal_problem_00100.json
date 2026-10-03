@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Normal force calculation",
+    "description": "Essential: Correctly computes the normal force exerted by the track on B at the bottom using Newton's second law for circular motion.",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation for velocity",
+    "description": "Essential: Applies conservation of mechanical energy to find the initial speed of B at the bottom of the track.",
+    "weight": 5
+  },
+  {
+    "title": "Friction heat determination",
+    "description": "Important: Correctly calculates the heat generated from friction between B and C using the work-energy theorem and relative displacement.",
+    "weight": 4
+  },
+  {
+    "title": "Acceleration analysis",
+    "description": "Important: Correctly determines the accelerations of B and C on the ground using Newton's second law and friction forces.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic sequence timing",
+    "description": "Important: Correctly breaks down the motion into phases (C stopping, B sliding, collision, post-collision stop) and applies kinematic equations.",
+    "weight": 4
+  },
+  {
+    "title": "Collision momentum conservation",
+    "description": "Important: Applies conservation of momentum to find the velocity of B and C after they stick together.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units (m, kg, s, N, J) throughout the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses incorrect sign for acceleration (e.g., treating deceleration as positive without proper sign convention in kinematics).",
+    "weight": -2
+  },
+  {
+    "title": "Friction force confusion",
+    "description": "Pitfall: Confuses which friction coefficient (μ₁ or μ₂) applies to which interface or miscalculates the net force on C.",
+    "weight": -2
+  }
+]

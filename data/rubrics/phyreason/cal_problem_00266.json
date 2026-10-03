@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential Criteria: The student's answer for part (1) must be -4 m/s² (or equivalent with correct sign).",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement value",
+    "description": "Essential Criteria: The student's answer for part (2) must be 40.5 m (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Applies kinematic equation",
+    "description": "Important Criteria: The solution uses the correct kinematic equation (e.g., x = v₀t + ½at²) to find acceleration.",
+    "weight": 3
+  },
+  {
+    "title": "Recognizes stopping time",
+    "description": "Important Criteria: The solution identifies that the car stops before 5 seconds and calculates the stopping time (4.5 s).",
+    "weight": 4
+  },
+  {
+    "title": "Uses average velocity for displacement",
+    "description": "Important Criteria: For part (2), the displacement after stopping is correctly calculated using average velocity over the motion time.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall Criteria: The student incorrectly reports a positive acceleration value instead of negative (deceleration).",
+    "weight": -2
+  },
+  {
+    "title": "Displacement after stopping",
+    "description": "Pitfall Criteria: The student incorrectly calculates displacement for the full 5 seconds, ignoring that the car is stationary after 4.5 s.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: All quantities are expressed with correct SI units (m, s, m/s²) throughout the solution.",
+    "weight": 1
+  }
+]

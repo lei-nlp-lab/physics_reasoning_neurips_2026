@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct person mass",
+    "description": "Essential: Student correctly computes the person's mass from given surface weight and g.",
+    "weight": 5
+  },
+  {
+    "title": "Newton's law application",
+    "description": "Important: Student applies Newton's second law to relate scale reading, mass, acceleration, and local g'.",
+    "weight": 4
+  },
+  {
+    "title": "Gravity variation formula",
+    "description": "Important: Student uses inverse-square law for gravity (g'/g = R²/(R+h)²) to relate g' to height.",
+    "weight": 4
+  },
+  {
+    "title": "Height numerical answer",
+    "description": "Essential: Student arrives at the correct numerical height (h = 3R or 1.92e7 m).",
+    "weight": 5
+  },
+  {
+    "title": "Geostationary orbit condition",
+    "description": "Important: For part (2), student sets centripetal acceleration equal to gravity at satellite altitude.",
+    "weight": 4
+  },
+  {
+    "title": "Orbit radius derivation",
+    "description": "Important: Student correctly solves for the geostationary orbit radius (r) in terms of g, R, T.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum rope length",
+    "description": "Essential: Student states the minimum rope length is H = r - R, with correct symbolic expression.",
+    "weight": 5
+  },
+  {
+    "title": "Sign error in Newton's law",
+    "description": "Pitfall: Student uses incorrect sign in elevator equation (e.g., F_N + mg' = ma).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing g and g'",
+    "description": "Pitfall: Student uses surface g instead of local g' in the gravity variation formula or vice versa.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Student shows unit analysis or converts all quantities to consistent SI units.",
+    "weight": 1
+  }
+]

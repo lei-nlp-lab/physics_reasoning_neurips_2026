@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct turns ratio",
+    "description": "Essential: The final answer must state the turns ratio as n₁:n₂ = 2:1 or n₂:n₁ = 1:2.",
+    "weight": 5
+  },
+  {
+    "title": "Bulb current identification",
+    "description": "Important: Recognizes that each bulb operates normally with the same current I, since they are identical and glowing normally.",
+    "weight": 3
+  },
+  {
+    "title": "Secondary current calculation",
+    "description": "Important: Correctly calculates the total secondary current as 2I from the parallel connection of L₃ and L₄.",
+    "weight": 4
+  },
+  {
+    "title": "Primary current determination",
+    "description": "Important: Correctly identifies the primary current as I from the series connection of L₁ and L₂.",
+    "weight": 4
+  },
+  {
+    "title": "Transformer current relationship",
+    "description": "Important: Applies the ideal transformer relationship I₁/I₂ = n₂/n₁ to connect currents to turns ratio.",
+    "weight": 4
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Shows clear algebraic steps to solve n₁/n₂ = I₂/I₁ = (2I)/(I) = 2.",
+    "weight": 2
+  },
+  {
+    "title": "Inverted ratio mistake",
+    "description": "Pitfall: Incorrectly states the ratio as 1:2 by confusing the primary/secondary relationship or inverting the current ratio.",
+    "weight": -2
+  },
+  {
+    "title": "Parallel/series current error",
+    "description": "Pitfall: Makes an error in calculating total secondary current (e.g., treating parallel bulbs as series) or primary current (e.g., treating series bulbs as parallel).",
+    "weight": -1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Initial spring deformations",
+    "description": "Essential: Correctly states both initial deformations: spring k₂ compressed by mg/k₂ and spring k₁ stretched by 2mg/k₁.",
+    "weight": 5
+  },
+  {
+    "title": "Pulley descent distance",
+    "description": "Essential: Correctly calculates the distance the pulley descends as 6mg/k₁.",
+    "weight": 5
+  },
+  {
+    "title": "Height difference A-B",
+    "description": "Essential: Correctly calculates the final height difference between A and B as 12mg/k₁.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium for B",
+    "description": "Important: Applies Newton's second law to object B to relate weight, spring force, and tension.",
+    "weight": 4
+  },
+  {
+    "title": "Force equilibrium for pulley",
+    "description": "Important: Applies force balance to the movable pulley, relating rope tension to the force in spring k₁.",
+    "weight": 4
+  },
+  {
+    "title": "Condition for C lifting",
+    "description": "Important: Identifies that object C is about to leave the ground when the spring k₂ force equals C's weight.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematic displacement relations",
+    "description": "Important: Correctly relates the displacements of the pulley, object A, and object B using rope constraints.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Makes a sign error in spring force (compression vs. elongation) or misassigns displacement directions.",
+    "weight": -2
+  },
+  {
+    "title": "Tension confusion",
+    "description": "Pitfall: Assumes tension is constant or incorrectly relates tensions in different stages of the process.",
+    "weight": -1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Includes a check that all final expressions have correct units (length).",
+    "weight": 1
+  }
+]

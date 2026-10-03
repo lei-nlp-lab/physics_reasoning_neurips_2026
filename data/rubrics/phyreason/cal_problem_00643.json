@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Coulomb Force Magnitude",
+    "description": "Essential: Correctly calculates the magnitude of the Coulomb force using Coulomb's law with given charges, distance, and constant.",
+    "weight": 5
+  },
+  {
+    "title": "Sphere A Mass",
+    "description": "Essential: Correctly calculates the mass of sphere A from the equilibrium condition, using the Coulomb force, gravity, and the given angle.",
+    "weight": 5
+  },
+  {
+    "title": "Force Diagram Application",
+    "description": "Important: Applies static equilibrium to sphere A, resolving forces into vertical (tension/weight) and horizontal (Coulomb force) components.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Angle Relation",
+    "description": "Important: Uses the correct trigonometric relation (tan θ = F_coulomb / (mg)) derived from the force balance at 45°.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: Demonstrates consistent use of SI units (meters, Newtons, kilograms) throughout the calculation.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Handling in Force",
+    "description": "Pitfall: Incorrectly uses charge signs when calculating the magnitude of the Coulomb force, or confuses attractive/repulsive nature with magnitude.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric Error",
+    "description": "Pitfall: Uses an incorrect trigonometric function (e.g., sin or cos instead of tan) when relating the Coulomb force to the weight.",
+    "weight": -2
+  }
+]

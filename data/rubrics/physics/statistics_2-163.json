@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer (a)",
+    "description": "Essential Criteria: The student must provide the correct final answer for the heat capacity in case (a) as C_v = Nk.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answer (b)",
+    "description": "Essential Criteria: The student must provide the correct final answer for the heat capacity in case (b) as C_v = (3/4)Nk.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Virial Theorem",
+    "description": "Important Criteria: The student should correctly apply the virial theorem to relate kinetic and potential energy for both cases.",
+    "weight": 4
+  },
+  {
+    "title": "Equipartition of Energy",
+    "description": "Important Criteria: The student must correctly apply the equipartition theorem to determine average kinetic energy for one-dimensional motion.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Energy Relation",
+    "description": "Important Criteria: The student should correctly identify the potential energy forms V proportional to x^2 and x^4 for cases (a) and (b) respectively.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in energy calculations or misinterpretation of the virial theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that units are consistent throughout the calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios that could affect the results.",
+    "weight": 1
+  }
+]

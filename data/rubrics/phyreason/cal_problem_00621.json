@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct system acceleration",
+    "description": "Essential: The final numerical answer for part (1) must be 3.75 m/s² (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension F_AB",
+    "description": "Essential: The final numerical answer for part (2) must be 18.75 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension F_AC",
+    "description": "Essential: The final numerical answer for part (3) must be 6.25 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Net force equation setup",
+    "description": "Important: The student must apply Newton's second law to the entire system, correctly identifying all forces (gravity on B, friction on A and C).",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagram reasoning",
+    "description": "Important: The solution should show separate free-body analyses for object B and object C (or A) to derive the tension equations.",
+    "weight": 3
+  },
+  {
+    "title": "Friction force calculation",
+    "description": "Important: The friction forces on blocks A and C must be correctly calculated as μ * m_A * g and μ * m_C * g, opposing motion.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All intermediate calculations and final answers should include correct SI units (m/s², N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in tensions",
+    "description": "Pitfall: Deduct if the student incorrectly assigns the direction of tension forces (e.g., reversing F_AB or F_AC in equations).",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction application",
+    "description": "Pitfall: Deduct if friction is omitted, applied only to one block, or applied to block B (which is hanging).",
+    "weight": -2
+  }
+]

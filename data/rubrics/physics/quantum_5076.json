@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Probability Answer",
+    "description": "Essential Criteria: The correct probability for finding the particle in the ground state of the new potential must be provided.",
+    "weight": 5
+  },
+  {
+    "title": "Final Time Condition",
+    "description": "Essential Criteria: The correct expression for the time T that restores the initial ground state must be stated.",
+    "weight": 5
+  },
+  {
+    "title": "Wave Function Transition",
+    "description": "Important Criteria: The student should demonstrate understanding of the transition between wave functions before and after the change in spring constant.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Eigenstates",
+    "description": "Important Criteria: The response should include the concept of expanding the initial state in terms of the new potential's eigenstates.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the expressions for energy or wave functions.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The response should not omit any necessary factors in the final probability or time expressions.",
+    "weight": -2
+  }
+]

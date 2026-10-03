@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct electric field magnitude",
+    "description": "Essential: The final answer must state the electric field strength as 200 V/m.",
+    "weight": 5
+  },
+  {
+    "title": "Correct potential difference U_ab",
+    "description": "Important: The student must correctly calculate U_ab = W1/q, obtaining 8 V.",
+    "weight": 3
+  },
+  {
+    "title": "Correct potential difference U_ac",
+    "description": "Important: The student must correctly calculate U_ac = W2/q, obtaining 4 V.",
+    "weight": 3
+  },
+  {
+    "title": "Apply uniform field formula",
+    "description": "Important: The student must relate the electric field to the potential difference using E = U_ab / (distance ab), recognizing the distance is L.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency and conversion",
+    "description": "Optional: The student should correctly convert the side length from cm to m (0.04 m) for the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error with negative charge",
+    "description": "Pitfall: Penalize if the student incorrectly handles the sign of the charge when calculating potential differences, leading to wrong signs for U_ab or U_ac.",
+    "weight": -2
+  },
+  {
+    "title": "Misidentifying relevant distance",
+    "description": "Pitfall: Penalize if the student incorrectly uses the distance ac or another length instead of ab (the component along the field) in the formula E = U/d.",
+    "weight": -1
+  }
+]

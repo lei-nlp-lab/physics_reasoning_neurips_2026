@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the attenuation distance as delta = sqrt(2/(omega * mu * sigma)).",
+    "weight": 5
+  },
+  {
+    "title": "Understanding of Concepts",
+    "description": "Important Criteria: The student should demonstrate understanding of the relationship between conductivity, permeability, and frequency in the context of wave propagation in conductors.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Equation Application",
+    "description": "Important Criteria: The student must correctly apply the wave equation for a conducting medium and identify the relevant parameters.",
+    "weight": 4
+  },
+  {
+    "title": "Sign and Factor Checks",
+    "description": "Pitfall Criteria: The student must avoid common errors such as incorrect signs or missing factors in the final expression for attenuation distance.",
+    "weight": -2
+  },
+  {
+    "title": "Derivation Steps",
+    "description": "Optional Criteria: The student may include intermediate steps in deriving the relationship between alpha and the parameters involved.",
+    "weight": 2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student could provide a brief explanation of what the attenuation distance represents in physical terms.",
+    "weight": 2
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Velocity Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for terminal velocity, v_term = (1024 * m * g * R^4) / (45 * mu_0^2 * mu^2 * sigma * t).",
+    "weight": 5
+  },
+  {
+    "title": "Induced Current Calculation",
+    "description": "Important Criteria: The student should correctly derive the expression for the induced current in the conducting tube based on the induced electric field.",
+    "weight": 4
+  },
+  {
+    "title": "Force Balance Explanation",
+    "description": "Important Criteria: The student must explain how the balance of forces (induced magnetic force and gravitational force) leads to the terminal velocity condition.",
+    "weight": 4
+  },
+  {
+    "title": "Use of Integral",
+    "description": "Important Criteria: The student should utilize the provided integral correctly in the context of the problem to compute the total induced force.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Convention",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes, particularly in the direction of forces and induced currents.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct distance OA",
+    "description": "Essential: Final answer for part (1) is derived as $\\frac{4v_0^2 \\sin\\theta}{g}$.",
+    "weight": 5
+  },
+  {
+    "title": "Correct maximum distance from PQ",
+    "description": "Essential: Final answer for part (2) is derived as $\\frac{v_0^2 \\cos\\theta}{2g}$.",
+    "weight": 5
+  },
+  {
+    "title": "Proper coordinate setup",
+    "description": "Important: Establishes axes parallel and perpendicular to the slope PQ to decompose gravity and initial velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Correct time of flight",
+    "description": "Important: Derives the total flight time from the condition of zero displacement perpendicular to the slope at landing.",
+    "weight": 4
+  },
+  {
+    "title": "Applies given angle relation",
+    "description": "Important: Correctly uses the condition $\\alpha + \\theta = 90^\\circ$ to simplify trigonometric expressions (e.g., $\\sin\\alpha = \\cos\\theta$).",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics along the slope",
+    "description": "Important: For part (1), correctly calculates the displacement along the slope using constant acceleration equations.",
+    "weight": 3
+  },
+  {
+    "title": "Maximum height perpendicular to slope",
+    "description": "Important: For part (2), correctly finds the maximum of the perpendicular displacement using kinematics or energy.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Uses incorrect sign for the components of gravitational acceleration along or perpendicular to the slope.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterprets distance from PQ",
+    "description": "Pitfall: Calculates vertical height from ground or horizontal range instead of perpendicular distance from the line PQ.",
+    "weight": -2
+  }
+]

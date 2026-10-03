@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Part 1 force range",
+    "description": "Essential: Correctly states the range 2 N < F ≤ 4 N for combined uniform acceleration.",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 acceleration",
+    "description": "Essential: Correctly calculates the acceleration of A as 0.5 m/s² when F = 3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Part 2 friction force",
+    "description": "Essential: Correctly calculates the friction force from B on A as 2.5 N when F = 3 N.",
+    "weight": 5
+  },
+  {
+    "title": "Part 3 time",
+    "description": "Essential: Correctly calculates the time for B to reach the end as √2 s (≈1.414 s) when F = 5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Relative motion analysis",
+    "description": "Important: Identifies the condition for no slipping between A and B using maximum static friction.",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagrams",
+    "description": "Important: Applies Newton's second law separately to block B and board A with correct force identification.",
+    "weight": 4
+  },
+  {
+    "title": "Ground friction calculation",
+    "description": "Important: Correctly calculates the kinetic friction between board A and ground as μ₁(M+m)g = 2 N.",
+    "weight": 3
+  },
+  {
+    "title": "Relative acceleration setup",
+    "description": "Optional: Sets up the relative acceleration equation for part 3 correctly (a_B - a_A = relative acceleration).",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Uses wrong direction for friction forces on free-body diagrams or in equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect friction pairing",
+    "description": "Pitfall: Confuses which friction coefficient applies to which interface (A-ground vs. A-B).",
+    "weight": -2
+  }
+]

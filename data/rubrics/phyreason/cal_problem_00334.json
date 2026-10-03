@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct U_PM calculation",
+    "description": "Essential: Student correctly calculates U_PM = +20 V using the definition U = W/q with the electron's charge.",
+    "weight": 5
+  },
+  {
+    "title": "Correct U_MN calculation",
+    "description": "Essential: Student correctly calculates U_MN = -30 V, accounting for the work done by the field and the electron's charge.",
+    "weight": 5
+  },
+  {
+    "title": "Correct φ_P with φ_M=0",
+    "description": "Essential: Student correctly states φ_P = +20 V, applying the relationship φ_P - φ_M = U_PM with φ_M = 0.",
+    "weight": 5
+  },
+  {
+    "title": "Correct E_P calculation",
+    "description": "Essential: Student correctly calculates the electron's potential energy at P as E_P = -20 eV using E = qφ.",
+    "weight": 5
+  },
+  {
+    "title": "Sign handling for work",
+    "description": "Important: Student's reasoning demonstrates correct sign interpretation for work done 'overcoming' the field vs. work done 'by' the field.",
+    "weight": 3
+  },
+  {
+    "title": "Definition of potential difference",
+    "description": "Important: Student applies the definition U_AB = W_AB / q, where W_AB is work done by an external agent moving charge q from A to B.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Student's final answers include correct units (V and eV) and shows unit analysis in steps.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in U_MN",
+    "description": "Pitfall: Student incorrectly assigns a positive sign to U_MN, forgetting that work done by the field on the electron implies a negative potential difference.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing potential and energy",
+    "description": "Pitfall: Student confuses electric potential (φ) with electric potential energy (E), e.g., stating E_P = +20 eV.",
+    "weight": -2
+  }
+]

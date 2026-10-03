@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electromotive force calculation",
+    "description": "Essential: Correctly calculates E = Bdv with proper unit conversion of dimensions.",
+    "weight": 5
+  },
+  {
+    "title": "Internal resistance calculation",
+    "description": "Essential: Correctly calculates r = ρ * (d / (a*b)) with proper unit conversion.",
+    "weight": 5
+  },
+  {
+    "title": "Circuit current determination",
+    "description": "Important: Applies Ohm's law for a complete circuit: I = E / (R + r).",
+    "weight": 4
+  },
+  {
+    "title": "Output power calculation",
+    "description": "Important: Calculates output power as P_out = I² * R.",
+    "weight": 4
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Important: Converts all given lengths from cm to m before calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Motional EMF formula application",
+    "description": "Optional: Recognizes the generator as a motional EMF problem with E = B * (perpendicular length) * v.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect length for EMF",
+    "description": "Pitfall: Uses channel length 'a' or width 'b' instead of height 'd' in E = Bdv.",
+    "weight": -2
+  },
+  {
+    "title": "Resistance geometry error",
+    "description": "Pitfall: Uses incorrect formula for internal resistance (e.g., ρ * a/(bd) or ρ * L/A with wrong area).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or unit omission",
+    "description": "Pitfall: Fails to include units in final answers or makes sign errors in circuit analysis.",
+    "weight": -1
+  }
+]

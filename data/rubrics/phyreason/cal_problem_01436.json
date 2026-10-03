@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct N1 expression",
+    "description": "Essential: Student must state or derive N1 = mg / cosθ (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Correct N2 expression",
+    "description": "Essential: Student must state or derive N2 = mg tanθ (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum mass condition",
+    "description": "Essential: Student must give the final answer for part (2) as m_max = ((√3 + 1)/2) M.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on ball",
+    "description": "Important: Student must apply equilibrium conditions (vertical and horizontal) to the ball.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on cube",
+    "description": "Important: Student must apply equilibrium (horizontal and vertical) to the cube, identifying friction and normal forces.",
+    "weight": 4
+  },
+  {
+    "title": "Friction inequality setup",
+    "description": "Important: Student must relate horizontal force on cube (N2) to maximum static friction μN_ground.",
+    "weight": 4
+  },
+  {
+    "title": "Normal force from ground",
+    "description": "Optional: Student correctly calculates the total normal force on the cube-ground system as (M+m)g.",
+    "weight": 2
+  },
+  {
+    "title": "Angle substitution",
+    "description": "Optional: For part (2), student correctly substitutes θ=45° (tan45°=1) into the inequality.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Student misidentifies the direction of N1, N2, or friction, leading to incorrect equations.",
+    "weight": -2
+  },
+  {
+    "title": "Friction force confusion",
+    "description": "Pitfall: Student uses friction coefficient incorrectly (e.g., applies it to the ball-cube interface) or misapplies the inequality sign.",
+    "weight": -2
+  }
+]

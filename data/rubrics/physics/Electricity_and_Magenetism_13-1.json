@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Focal Lengths",
+    "description": "Essential Criteria: Correctly calculate the focal length of the lens and mirror.",
+    "weight": 5
+  },
+  {
+    "title": "Stages Identification",
+    "description": "Important Criteria: Identify and describe the three stages of the optical system.",
+    "weight": 4
+  },
+  {
+    "title": "Image Distances",
+    "description": "Essential Criteria: Accurately calculate the image distances for each stage.",
+    "weight": 5
+  },
+  {
+    "title": "Magnification Calculations",
+    "description": "Important Criteria: Correctly compute the linear magnification for each stage.",
+    "weight": 4
+  },
+  {
+    "title": "Final Image Description",
+    "description": "Essential Criteria: Provide the location and characteristics of the final image.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Conventions",
+    "description": "Pitfall Criteria: Misapply sign conventions for object and image distances.",
+    "weight": -2
+  },
+  {
+    "title": "Diagram Accuracy",
+    "description": "Optional Criteria: Include accurate diagrams for each stage of the optical system.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Make mistakes in units or fail to maintain consistency in calculations.",
+    "weight": -1
+  }
+]

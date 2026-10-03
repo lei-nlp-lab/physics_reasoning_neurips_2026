@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct acceleration calculation",
+    "description": "Essential: The response must give the correct acceleration value of 6 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct total distance",
+    "description": "Essential: The response must give the correct total distance value of 105.6 m.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance and friction",
+    "description": "Important: The solution must correctly resolve the applied force and calculate the normal force including the vertical component, then apply F_net = ma.",
+    "weight": 4
+  },
+  {
+    "title": "Two-phase kinematics",
+    "description": "Important: The solution must treat the motion in two distinct phases: constant acceleration under the force, then deceleration under friction only.",
+    "weight": 4
+  },
+  {
+    "title": "Post-force deceleration",
+    "description": "Important: After force removal, the solution must correctly compute the new (deceleration) acceleration using kinetic friction on a level surface.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity and distance continuity",
+    "description": "Important: The solution must correctly use the final velocity from phase 1 as the initial velocity for phase 2.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All calculated quantities should be expressed with correct SI units (m, s, m/s²).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in normal force",
+    "description": "Pitfall: Incorrectly calculating the normal force (e.g., forgetting that the vertical component of F reduces it).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring second phase",
+    "description": "Pitfall: Stopping after calculating the distance in the first 4 seconds, or treating the motion as stopping instantly when F is removed.",
+    "weight": -2
+  }
+]

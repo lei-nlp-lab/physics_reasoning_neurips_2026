@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct refractive index",
+    "description": "Essential: The final answer for part (1) must be the numerical value √3 or its decimal equivalent 1.732.",
+    "weight": 5
+  },
+  {
+    "title": "Correct speed of light",
+    "description": "Essential: The final answer for part (2) must be expressed as c/√3, (√3/3)c, or its decimal equivalent 0.577c.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for angles",
+    "description": "Important: The solution must correctly identify the internal angles of the prism (∠B = 30°) and the angle of incidence on face AC (α = 60°).",
+    "weight": 4
+  },
+  {
+    "title": "Application of Snell's Law",
+    "description": "Important: The refractive index must be derived by correctly applying Snell's Law (n = sin α / sin β) at the AC interface.",
+    "weight": 4
+  },
+  {
+    "title": "Symmetry and reversibility",
+    "description": "Optional: The solution may note the symmetry of the path or use the principle of reversibility to deduce β = γ = 30°.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The answer for speed should maintain consistent units, showing it as a fraction of c.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect angle identification",
+    "description": "Pitfall: Penalize if the student misidentifies the angle of incidence (α) or the refraction angle (β), leading to a wrong index.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplication of Snell's Law",
+    "description": "Pitfall: Penalize if Snell's Law is applied incorrectly, e.g., inverting the ratio of sines or applying it at the wrong interface.",
+    "weight": -2
+  }
+]

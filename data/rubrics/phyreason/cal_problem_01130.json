@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Velocity from acceleration",
+    "description": "Essential: Correctly states or derives the velocity after acceleration using work-energy theorem: v = sqrt(2eU1/m).",
+    "weight": 5
+  },
+  {
+    "title": "Selector voltage derivation",
+    "description": "Important: Applies force balance in the velocity selector (electric force equals magnetic force) to relate v, B1, d, and U2.",
+    "weight": 4
+  },
+  {
+    "title": "Radius from circular motion",
+    "description": "Essential: Correctly states or derives the radius in B2 using Lorentz force as centripetal force: R = (1/B2)*sqrt(2mU1/e).",
+    "weight": 5
+  },
+  {
+    "title": "Consistent variable substitution",
+    "description": "Important: Substitutes the expression for velocity (from part 1) into the equations for U2 and R, showing the chain of reasoning.",
+    "weight": 3
+  },
+  {
+    "title": "Correct final expressions",
+    "description": "Essential: Provides the final algebraic answers for v, U2, and R in the required forms, matching the reference solution.",
+    "weight": 5
+  },
+  {
+    "title": "Unit awareness",
+    "description": "Optional: Mentions or implies correct units for the final quantities (m/s, V, m) or performs a dimensional check.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Misapplies the right-hand rule or confuses force directions, leading to an incorrect sign in the velocity selector balance.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation mistake",
+    "description": "Pitfall: Makes an error in solving for v, U2, or R (e.g., incorrect exponent, missing factor, or misarranged formula).",
+    "weight": -1
+  }
+]

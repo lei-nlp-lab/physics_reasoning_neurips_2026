@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hamiltonian Expression",
+    "description": "Essential Criteria: The Hamiltonian must be correctly written as H = (1/2m)(P^2) - (q/mc)(A.P) - (gq/2mc)(s.B).",
+    "weight": 5
+  },
+  {
+    "title": "Momentum Equation",
+    "description": "Important Criteria: The equation for the time derivative of momentum must be derived correctly as dP_i/dt = (q/mc)(partial_i A_j) P_j.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Momentum Equation",
+    "description": "Important Criteria: The equation for the time derivative of angular momentum must be derived correctly as ds_i/dt = -(gq/2mc)(B x s)_i.",
+    "weight": 4
+  },
+  {
+    "title": "Helicity Condition",
+    "description": "Essential Criteria: The value of g for constant helicity must be identified as g = 1.",
+    "weight": 5
+  },
+  {
+    "title": "Particle g Values",
+    "description": "Essential Criteria: The correct values of g for the specified particles must be provided: e: -2.0, p: 5.6, n: -3.8, pi: 0.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes in the equations of motion or the Hamiltonian.",
+    "weight": -2
+  },
+  {
+    "title": "Neglecting Terms",
+    "description": "Pitfall Criteria: Ensure that the neglect of A^2 and higher order terms is justified and correctly applied.",
+    "weight": -1
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: Check that all terms in the Hamiltonian and equations of motion have consistent units.",
+    "weight": 2
+  }
+]

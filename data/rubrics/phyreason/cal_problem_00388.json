@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Bright or dark fringe",
+    "description": "Essential: The response must correctly state whether point P is a bright or dark fringe based on the path difference.",
+    "weight": 5
+  },
+  {
+    "title": "Wavelength calculation",
+    "description": "Important: The response must correctly calculate the wavelength using the formula λ = c / ν.",
+    "weight": 4
+  },
+  {
+    "title": "Path difference ratio",
+    "description": "Important: The response must compute the ratio n = Δs / λ and interpret its integer or half-integer nature.",
+    "weight": 4
+  },
+  {
+    "title": "Number of dark fringes",
+    "description": "Essential: The response must give the correct integer number of dark fringes between P and O, excluding endpoints.",
+    "weight": 5
+  },
+  {
+    "title": "Number of bright fringes",
+    "description": "Essential: The response must give the correct integer number of bright fringes between P and O, excluding endpoints.",
+    "weight": 5
+  },
+  {
+    "title": "Fringe counting logic",
+    "description": "Important: The response must demonstrate correct reasoning for counting fringes based on the order numbers between P and O.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The response should maintain consistent units (e.g., meters, hertz) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Misinterference condition",
+    "description": "Pitfall: Penalize if the student confuses the conditions for bright (Δs = mλ) and dark (Δs = (m+½)λ) fringes.",
+    "weight": -2
+  },
+  {
+    "title": "Endpoint exclusion error",
+    "description": "Pitfall: Penalize if the student includes the fringes at points P or O in the count for parts (2) or (3).",
+    "weight": -1
+  }
+]

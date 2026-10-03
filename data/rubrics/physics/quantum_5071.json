@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Energy Levels",
+    "description": "Essential Criteria: Provide the correct energy levels for the ground and first three excited states of the harmonic oscillator.",
+    "weight": 5
+  },
+  {
+    "title": "Angular Momentum",
+    "description": "Essential Criteria: State the correct orbital angular momentum for the ground and first excited states.",
+    "weight": 5
+  },
+  {
+    "title": "Ground State Energy",
+    "description": "Important Criteria: Calculate the correct ground state energy for the eight-particle system.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Energy",
+    "description": "Important Criteria: Derive the correct expression for the ground state energy as a function of the magnetic field B.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetization Expression",
+    "description": "Important Criteria: Provide the correct expression for the magnetization as a function of B.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Avoid common errors such as sign mistakes or incorrect factors in energy expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Degeneracy Consideration",
+    "description": "Optional Criteria: Mention the degeneracy of the excited states where applicable.",
+    "weight": 1
+  }
+]

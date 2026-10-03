@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates B = 1 T from force balance F = mg + B²l²v₀/R during constant velocity motion.",
+    "weight": 5
+  },
+  {
+    "title": "Total time to highest point",
+    "description": "Essential: Correctly computes total time t = l/v₀ + v₀/g = 0.3 s, combining entry and post-entry ascent.",
+    "weight": 5
+  },
+  {
+    "title": "Landing velocity magnitude",
+    "description": "Essential: Correctly determines landing velocity v = 4 m/s using energy or kinematics, accounting for magnetic damping.",
+    "weight": 5
+  },
+  {
+    "title": "Total Joule heat",
+    "description": "Essential: Correctly calculates Q = 2mgl = 0.4 J from energy conservation over complete cycle.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies Newton's first law during constant velocity phase with F = mg + F_amp.",
+    "weight": 4
+  },
+  {
+    "title": "Entry kinematics",
+    "description": "Important: Recognizes uniform motion during entry phase with t₁ = l/v₀.",
+    "weight": 3
+  },
+  {
+    "title": "Post-entry ascent kinematics",
+    "description": "Important: Analyzes free-fall-like ascent after force removal with t₂ = v₀/g.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation application",
+    "description": "Important: Uses energy conservation to relate mechanical work/energy to Joule heat.",
+    "weight": 4
+  },
+  {
+    "title": "Sign/direction errors",
+    "description": "Pitfall: Misapplies sign conventions for forces, velocities, or induced EMF directions.",
+    "weight": -2
+  },
+  {
+    "title": "Magnetic force omission",
+    "description": "Pitfall: Neglects magnetic damping force during exit/landing phase, leading to incorrect velocity.",
+    "weight": -2
+  }
+]

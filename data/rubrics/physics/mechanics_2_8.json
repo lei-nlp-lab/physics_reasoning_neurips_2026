@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Momentum Expressions",
+    "description": "Essential Criteria: Correctly derive p_r and p_theta as functions of r, theta, dot{r}, and dot{theta}.",
+    "weight": 5
+  },
+  {
+    "title": "Constancy of p_theta",
+    "description": "Important Criteria: Identify that p_theta is a constant of motion due to the absence of theta in the Lagrangian.",
+    "weight": 3
+  },
+  {
+    "title": "Virial Theorem Application",
+    "description": "Essential Criteria: Correctly apply the virial theorem to show J_r + J_theta = integral of k/r dt.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Expression",
+    "description": "Important Criteria: Correctly express the total energy E in terms of kinetic and potential energy.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Essential Criteria: Correctly evaluate the integral to show (J_r + J_theta) = sqrt(-2pi^2 m k^2/E).",
+    "weight": 5
+  },
+  {
+    "title": "Period Derivation",
+    "description": "Essential Criteria: Correctly derive the period tau of the orbit in terms of k, m, and E.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for sign mistakes in energy expressions or when applying the virial theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

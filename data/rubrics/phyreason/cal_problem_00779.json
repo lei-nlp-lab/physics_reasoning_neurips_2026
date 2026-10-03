@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct wave speed(s)",
+    "description": "Essential: The response must give the correct numerical wave speed(s) (54 m/s for positive direction, 58 m/s for negative direction) for part (1).",
+    "weight": 5
+  },
+  {
+    "title": "Correct propagation direction",
+    "description": "Essential: For part (2), the response must state the wave propagates in the negative x-direction.",
+    "weight": 5
+  },
+  {
+    "title": "Identifies possible phase shifts",
+    "description": "Important: The reasoning must consider both possible propagation directions (positive and negative x) leading to different phase advances (e.g., 3λ/8 or 5λ/8).",
+    "weight": 4
+  },
+  {
+    "title": "Applies time interval constraint",
+    "description": "Important: The solution must correctly use the inequality 3T < Δt < 4T to determine the integer k (k=3) for the phase shift.",
+    "weight": 4
+  },
+  {
+    "title": "Relates speed, wavelength, period",
+    "description": "Important: The final calculation must correctly use the relationship v = λ / T, with λ=8 m and T derived from Δt = kT + (phase fraction)T.",
+    "weight": 3
+  },
+  {
+    "title": "Determines wavelength from graph",
+    "description": "Optional: The student may explicitly note that the wavelength λ is 8 m, as read from the provided waveform figure.",
+    "weight": 2
+  },
+  {
+    "title": "Direction from speed comparison",
+    "description": "Optional: For part (2), the student may show that comparing the given speed (74 m/s) to the calculated speeds determines the direction.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Penalize if the final answer has incorrect units (e.g., m/s) or a sign error in the direction statement.",
+    "weight": -2
+  },
+  {
+    "title": "Misinterprets phase shift",
+    "description": "Pitfall: Penalize if the student assumes only one propagation direction or misidentifies the phase shift (e.g., uses λ/2 instead of 3λ/8 or 5λ/8).",
+    "weight": -2
+  }
+]

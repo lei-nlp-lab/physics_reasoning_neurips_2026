@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Spectral line width",
+    "description": "Essential: Correctly calculates the half-width ε of the Fabry-Perot transmission peak using the given formula with the provided reflectivity.",
+    "weight": 5
+  },
+  {
+    "title": "Etalon resolution",
+    "description": "Essential: Correctly calculates the resolving power λ/Δλ of the etalon for the given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Refractive index of air",
+    "description": "Essential: Correctly calculates the refractive index of air from the observed 10-fringe shift when pressure changes from vacuum to atmospheric.",
+    "weight": 5
+  },
+  {
+    "title": "Zeeman line frequencies",
+    "description": "Important: Correctly expresses the frequencies of the four Zeeman-split lines (a, b, c, d) in terms of v₀, ΔE₁, and ΔE₂.",
+    "weight": 4
+  },
+  {
+    "title": "Energy gaps from diameters",
+    "description": "Important: Correctly relates the measured fringe diameters to the energy gaps ΔE₁ and ΔE₂ using the small-angle interference condition.",
+    "weight": 4
+  },
+  {
+    "title": "Lande factor calculation",
+    "description": "Important: Correctly calculates the Landé factors g_k1 and g_k2 from the given diameters, magnetic field, and fundamental constants.",
+    "weight": 4
+  },
+  {
+    "title": "Solar magnetic field",
+    "description": "Important: Correctly calculates the solar magnetic field from the observed total wavelength splitting of the D1 line.",
+    "weight": 4
+  },
+  {
+    "title": "LED transmission analysis",
+    "description": "Important: Correctly determines the number of transmitted lines and the frequency width of each line for the LED source incident on the etalon.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in Zeeman shifts",
+    "description": "Pitfall: Incorrectly assigns signs to the frequency shifts for lines a, b, c, d, or confuses the ordering of ΔE₁ and ΔE₂.",
+    "weight": -2
+  },
+  {
+    "title": "Diameter-squared relationship",
+    "description": "Pitfall: Uses fringe diameters linearly instead of their squares when relating to wavelength or energy shifts.",
+    "weight": -2
+  }
+]

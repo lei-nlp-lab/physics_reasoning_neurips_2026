@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct unit conversion",
+    "description": "Essential: Student correctly converts initial and final speeds from km/h to m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct final time",
+    "description": "Essential: Student arrives at the correct numerical answer for the time (50 s).",
+    "weight": 5
+  },
+  {
+    "title": "Applies correct kinematic equation",
+    "description": "Important: Student identifies and correctly applies the equation v = v0 + a*t or its rearrangement.",
+    "weight": 4
+  },
+  {
+    "title": "Correct sign for acceleration",
+    "description": "Important: Student uses the given acceleration as a positive value in the calculation.",
+    "weight": 3
+  },
+  {
+    "title": "Includes proper units",
+    "description": "Optional: Student consistently includes and states the correct units (m/s, m/s², s) in the solution.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect unit conversion",
+    "description": "Pitfall: Student fails to convert speeds to consistent units (e.g., uses km/h with m/s²).",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall: Student makes an error in rearranging the formula or in the final calculation.",
+    "weight": -1
+  }
+]

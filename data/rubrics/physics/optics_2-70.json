@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Radiation Pattern Shape",
+    "description": "Essential Criteria - The response must include the correct expression for the radiation pattern of a single antenna.",
+    "weight": 5
+  },
+  {
+    "title": "Interference Pattern",
+    "description": "Essential Criteria - The response must provide the correct expression for the interference pattern when both antennas are driven in phase.",
+    "weight": 5
+  },
+  {
+    "title": "Frequency Stability Requirement",
+    "description": "Essential Criteria - The response must state the requirement for frequency stability of the transmitters to maintain the interference pattern.",
+    "weight": 5
+  },
+  {
+    "title": "Correct Use of Variables",
+    "description": "Important Criteria - The response should correctly identify and use variables such as k, R, and alpha in the expressions.",
+    "weight": 4
+  },
+  {
+    "title": "Labeling of Sketches",
+    "description": "Important Criteria - The response should include properly labeled sketches to illustrate the radiation patterns.",
+    "weight": 3
+  },
+  {
+    "title": "Coherency Explanation",
+    "description": "Optional Criteria - The response may explain the concept of partial coherence and its relevance to the problem.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - The response should avoid common sign errors in the expressions for intensity and frequency stability.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria - The response must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  }
+]

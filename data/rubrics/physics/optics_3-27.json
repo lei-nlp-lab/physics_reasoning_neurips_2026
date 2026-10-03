@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Answers",
+    "description": "Essential Criteria: The student must provide the correct luminous efficiencies for two selected light sources.",
+    "weight": 5
+  },
+  {
+    "title": "Definition of Efficiency",
+    "description": "Important Criteria: The student should define luminous efficiency and explain its significance in the context of light sources.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Range Specification",
+    "description": "Important Criteria: The student must mention the visible wavelength range (4000 – 7600 A) relevant to the calculation of luminous efficiency.",
+    "weight": 3
+  },
+  {
+    "title": "Energy Loss Consideration",
+    "description": "Optional Criteria: The student may discuss energy losses due to conduction and convection as part of the efficiency analysis.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that the units used for efficiency are consistent and correctly interpreted as ratios.",
+    "weight": -1
+  }
+]

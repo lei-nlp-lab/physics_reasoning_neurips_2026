@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Displacement in 2s",
+    "description": "Essential: Correctly calculates displacement using free-fall kinematics (h = ½gt²) to obtain 20 m.",
+    "weight": 5
+  },
+  {
+    "title": "Work by gravity",
+    "description": "Essential: Correctly calculates work done by gravity (W = mgh) using displacement from part (1) to obtain 100 J.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum at ground",
+    "description": "Essential: Correctly calculates final momentum (p = mv) after determining impact velocity (v = gt) to obtain 20 kg·m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematic reasoning",
+    "description": "Important: Applies constant acceleration equations correctly for displacement and final velocity.",
+    "weight": 3
+  },
+  {
+    "title": "Work-energy connection",
+    "description": "Important: Recognizes work done by gravity equals mg times displacement in direction of force.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and presents answers with correct units.",
+    "weight": 1
+  },
+  {
+    "title": "Sign confusion",
+    "description": "Pitfall: Uses wrong sign for displacement or velocity in work calculation (e.g., negative work for downward motion).",
+    "weight": -2
+  },
+  {
+    "title": "Time mix-up",
+    "description": "Pitfall: Uses total fall time (4s) instead of specified interval (2s) for displacement or work calculations.",
+    "weight": -2
+  }
+]

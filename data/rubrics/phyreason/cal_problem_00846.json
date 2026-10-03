@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Minimum time expression",
+    "description": "Essential Criteria: The response must correctly state the minimum time as t = nh/(2c) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Speed in medium",
+    "description": "Important Criteria: The solution must correctly apply the relation v = c/n for the speed of light in the liquid.",
+    "weight": 4
+  },
+  {
+    "title": "Path for minimum time",
+    "description": "Important Criteria: The reasoning must identify that the minimum time path is the straight vertical path from the source to the surface.",
+    "weight": 3
+  },
+  {
+    "title": "Critical angle identification",
+    "description": "Important Criteria: The solution must correctly determine the critical angle using sin C = 1/n.",
+    "weight": 4
+  },
+  {
+    "title": "Surface area expression",
+    "description": "Essential Criteria: The response must correctly state the area as S = 9πh²/(4(n²-1)) or an equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Geometry for emission radius",
+    "description": "Important Criteria: The working must correctly apply trigonometry to find the emission radius r = (3h/2) tan C.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or domain error",
+    "description": "Pitfall Criteria: Deduct points if the final area expression is given for n ≤ 1, where it is undefined or non-physical.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution may demonstrate dimensional consistency for the time and area expressions.",
+    "weight": 1
+  }
+]

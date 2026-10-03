@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Final Answer",
+    "description": "Essential Criteria: The student must identify that the hyperfine structure arises from nuclear spin.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect Final Answer",
+    "description": "Pitfall Criteria: The student should avoid selecting options (a) or (c) as they are incorrect.",
+    "weight": -2
+  },
+  {
+    "title": "Understanding Hyperfine Structure",
+    "description": "Important Criteria: The student should demonstrate an understanding of what hyperfine structure is and its significance in atomic physics.",
+    "weight": 3
+  },
+  {
+    "title": "Nuclear Spin Explanation",
+    "description": "Important Criteria: The student should explain how nuclear spin contributes to the hyperfine structure.",
+    "weight": 4
+  },
+  {
+    "title": "Clarity of Response",
+    "description": "Optional Criteria: The student should present their answer clearly and concisely.",
+    "weight": 2
+  }
+]

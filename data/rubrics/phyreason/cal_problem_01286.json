@@ -1,0 +1,42 @@
+[
+  {
+    "title": "A–B friction coefficient",
+    "description": "Essential: Correctly calculates μ_AB = 0.2 from spring reading and normal force on A.",
+    "weight": 5
+  },
+  {
+    "title": "B–ground friction coefficient",
+    "description": "Essential: Correctly calculates μ_Bg = 0.1 from force balance on B and total normal force.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance on A",
+    "description": "Important: Identifies that spring force equals kinetic friction between A and B.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance on B",
+    "description": "Important: Applies Newton's first law to B, equating applied force to sum of friction forces from A and ground.",
+    "weight": 4
+  },
+  {
+    "title": "Constant velocity reasoning",
+    "description": "Important: Recognizes that constant velocity implies zero net force on each object.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Uses consistent units (N, kg, m/s²) and shows correct dimensional analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in friction",
+    "description": "Pitfall: Misidentifies direction of friction forces on B, leading to incorrect force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Normal force mistake",
+    "description": "Pitfall: Uses wrong normal force (e.g., only m_B*g for ground friction) in either coefficient formula.",
+    "weight": -2
+  }
+]

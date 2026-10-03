@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct acceleration value",
+    "description": "Essential Criteria: The final numerical answer for part (1) must be 3 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Correct displacement value",
+    "description": "Essential Criteria: The final numerical answer for part (2) must be 800 m.",
+    "weight": 5
+  },
+  {
+    "title": "Power-force-velocity relationship",
+    "description": "Important Criteria: The student must correctly apply the formula P = Fv to find the traction force at a given speed.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important Criteria: The student must set up and solve Newton's second law (F_net = ma) using the traction and resistance forces.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum speed condition",
+    "description": "Important Criteria: The student must recognize that maximum speed is reached when traction force equals the constant resistance force.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important Criteria: The student must correctly apply the work-energy theorem (or integrate power) to relate work done, energy lost to friction, and the gain in kinetic energy.",
+    "weight": 4
+  },
+  {
+    "title": "Resistance force calculation",
+    "description": "Optional Criteria: The student should explicitly calculate the constant resistance force as 0.1mg = 2000 N.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student's solution should demonstrate consistent use of SI units (kW to W, etc.).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in net force",
+    "description": "Pitfall Criteria: Deduct points if the student incorrectly sets the net force as (F_f - F) or misplaces the sign in Newton's second law.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect power conversion",
+    "description": "Pitfall Criteria: Deduct points if the student fails to convert the rated power from kW to W (80 kW to 80000 W).",
+    "weight": -2
+  }
+]

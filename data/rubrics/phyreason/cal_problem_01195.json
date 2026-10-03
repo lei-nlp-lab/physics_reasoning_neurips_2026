@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Normal force calculation",
+    "description": "Essential: The student must correctly calculate the normal force as N = mg cos θ + F sin θ, obtaining 40 N.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction force",
+    "description": "Important: The student must correctly apply f = μN using the calculated normal force, obtaining 10 N.",
+    "weight": 4
+  },
+  {
+    "title": "Net force and acceleration",
+    "description": "Essential: The student must apply Newton's second law along the incline (a = (F cos θ - mg sin θ - f)/m), obtaining 5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Velocity at t=3s",
+    "description": "Essential: The student must correctly use the kinematic equation v = v0 + at with the calculated acceleration, obtaining 15 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Force component resolution",
+    "description": "Important: The student must correctly resolve the applied force F into components parallel and perpendicular to the incline.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in net force",
+    "description": "Pitfall: Penalize if the student uses an incorrect sign for friction or weight component in the net force equation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Award credit for explicitly showing and checking units in calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect normal force model",
+    "description": "Pitfall: Penalize if the student uses N = mg cos θ, ignoring the component of F perpendicular to the plane.",
+    "weight": -2
+  }
+]

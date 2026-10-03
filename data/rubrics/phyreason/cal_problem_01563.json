@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field ratio",
+    "description": "Essential: The final answer for part (1) must be the correct ratio E'/E = 6/5 or 1.2.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration magnitude",
+    "description": "Essential: The final answer for part (2) must be the correct magnitude a = 2 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Uniform motion time",
+    "description": "Essential: The final answer for part (3) must be the correct time t1 = 0.3 s.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: The solution must correctly apply Newton's second law, relating the electric force and gravitational force before and after the plate is moved.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for accelerated segment",
+    "description": "Important: The solution must correctly calculate the time (t2) for the vertical motion after the plate is lifted, using the correct vertical displacement (d/2) and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Electric field relationship",
+    "description": "Important: The solution must correctly relate the electric field to the plate separation and constant voltage (E = U/d) to find the ratio E'/E.",
+    "weight": 3
+  },
+  {
+    "title": "Total time calculation",
+    "description": "Optional: The solution may explicitly calculate the total time to cross the capacitor (t = L/v0 = 0.5 s) as an intermediate step.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Deduct if the calculated acceleration has the wrong sign or if the direction of the net force is misinterpreted after the plate is lifted.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Deduct if units (cm, m, s) are mixed incorrectly in calculations without consistent conversion.",
+    "weight": -1
+  }
+]

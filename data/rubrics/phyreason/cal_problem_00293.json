@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Displacement magnitude",
+    "description": "Essential Criteria: The student must correctly calculate the net displacement (1.0 m) using areas under the v-t graph, accounting for positive and negative contributions.",
+    "weight": 5
+  },
+  {
+    "title": "Total distance traveled",
+    "description": "Essential Criteria: The student must correctly calculate the total distance (1.25 m) using the sum of absolute areas under the v-t graph.",
+    "weight": 5
+  },
+  {
+    "title": "Inclination angle",
+    "description": "Essential Criteria: The student must determine the correct angle of inclination (53°) from the accelerations on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Pulling force magnitude",
+    "description": "Essential Criteria: The student must determine the correct magnitude of the pulling force (36 N) using Newton's second law on the incline.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration from graph",
+    "description": "Important Criteria: The student must correctly compute the three accelerations (6 m/s², 12 m/s², 4 m/s²) from the slopes of the v-t graph segments.",
+    "weight": 4
+  },
+  {
+    "title": "Force analysis on incline",
+    "description": "Important Criteria: The student must apply Newton's second law separately for the upward pull phase and the coasting phases to relate acceleration to forces.",
+    "weight": 4
+  },
+  {
+    "title": "Time interval identification",
+    "description": "Optional Criteria: The student may explicitly identify the time intervals (0–0.5 s, 0.5–0.75 s, 0.75–1 s) corresponding to different motion phases.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in displacement",
+    "description": "Pitfall Criteria: Penalize if the student treats the negative velocity area as positive when computing displacement, failing to subtract it.",
+    "weight": -2
+  },
+  {
+    "title": "Confusing distance and displacement",
+    "description": "Pitfall Criteria: Penalize if the student uses the same method for distance and displacement, not taking absolute values for distance.",
+    "weight": -1
+  }
+]

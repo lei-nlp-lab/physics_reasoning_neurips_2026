@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the maximum work obtainable from the engine.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Change",
+    "description": "Important Criteria: The student should correctly derive the change in entropy for the system during the process.",
+    "weight": 4
+  },
+  {
+    "title": "Reversibility Condition",
+    "description": "Important Criteria: The student must explain the condition for maximum work in terms of reversibility and entropy.",
+    "weight": 4
+  },
+  {
+    "title": "Work Calculation",
+    "description": "Important Criteria: The student should show the correct calculation of work in terms of heat capacities and temperatures.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect assumptions about the process.",
+    "weight": -2
+  }
+]

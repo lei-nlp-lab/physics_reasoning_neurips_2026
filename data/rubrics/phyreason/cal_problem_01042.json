@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final pressure (isothermal)",
+    "description": "Essential: Correctly states the final pressure after isothermal expansion as p = p₀/2.",
+    "weight": 5
+  },
+  {
+    "title": "Final pressure (heating)",
+    "description": "Essential: Correctly states the final pressure after heating as p' = 1.2p = 0.6p₀.",
+    "weight": 5
+  },
+  {
+    "title": "Heat absorbed",
+    "description": "Essential: Correctly states the heat absorbed as Q = 0.2 k T₀.",
+    "weight": 5
+  },
+  {
+    "title": "Apply ideal gas law",
+    "description": "Important: Uses Boyle's law for the isothermal expansion into the vacuum.",
+    "weight": 3
+  },
+  {
+    "title": "Apply first law",
+    "description": "Important: Applies the first law of thermodynamics, Q = ΔU - W, for the heating process.",
+    "weight": 4
+  },
+  {
+    "title": "Recognize zero work",
+    "description": "Important: Identifies that no work is done during the constant-volume heating.",
+    "weight": 3
+  },
+  {
+    "title": "Use given ΔU relation",
+    "description": "Important: Correctly uses the provided relation ΔU = k(T₂ - T₁) to find the internal energy change.",
+    "weight": 4
+  },
+  {
+    "title": "Incorrect final pressure",
+    "description": "Pitfall: States a final pressure other than p₀/2 for part (1) or 0.6p₀ for part (2).",
+    "weight": -2
+  },
+  {
+    "title": "Misapplies work term",
+    "description": "Pitfall: Incorrectly calculates non-zero work for the isochoric heating process.",
+    "weight": -1
+  }
+]

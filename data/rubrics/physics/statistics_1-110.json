@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Temperature",
+    "description": "Essential Criteria - The final temperature of the water must be correctly identified as 0°C.",
+    "weight": 5
+  },
+  {
+    "title": "Ice Melted Calculation",
+    "description": "Essential Criteria - The amount of ice melted must be calculated correctly using the heat absorbed and the heat of fusion.",
+    "weight": 5
+  },
+  {
+    "title": "Work Done Calculation",
+    "description": "Essential Criteria - The work done by the engine must be accurately computed based on the heat absorbed and expelled.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Transfer Understanding",
+    "description": "Important Criteria - The reasoning behind the heat transfer process and the relationship between the temperatures must be clearly explained.",
+    "weight": 4
+  },
+  {
+    "title": "Efficiency Concept",
+    "description": "Important Criteria - The concept of efficiency reaching zero at the end of the process should be correctly applied.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria - Units should be consistently used throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria - Common errors such as sign mistakes in the calculations should be avoided.",
+    "weight": -2
+  },
+  {
+    "title": "Heat of Fusion Usage",
+    "description": "Pitfall Criteria - The heat of fusion value must be correctly applied in the calculations.",
+    "weight": -2
+  }
+]

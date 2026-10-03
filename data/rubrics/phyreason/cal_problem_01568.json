@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Linear velocity formula",
+    "description": "Essential: The final answer for part (1) must be the correct expression for orbital speed, v = 2πr / T.",
+    "weight": 5
+  },
+  {
+    "title": "Mass from orbital motion",
+    "description": "Essential: The final answer for part (2) must be the correct expression for the central mass, M = (4π²r³) / (G T²).",
+    "weight": 5
+  },
+  {
+    "title": "Surface gravity derivation",
+    "description": "Essential: The final answer for part (3) must be the correct expression for surface gravity, g = (4π²r³) / (R² T²).",
+    "weight": 5
+  },
+  {
+    "title": "Applying Newton's second law",
+    "description": "Important: The solution must equate gravitational force to the centripetal force for the satellite (GMm/r² = m v²/r).",
+    "weight": 4
+  },
+  {
+    "title": "Relating g to M and R",
+    "description": "Important: The solution must correctly relate surface gravitational acceleration to the body's mass and radius (g = GM/R²).",
+    "weight": 4
+  },
+  {
+    "title": "Correct variable usage",
+    "description": "Pitfall: Penalize if the student confuses the orbital radius (r) with the body's radius (R) in any formula.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear, step-by-step algebra to derive the final expressions from the fundamental equations.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution includes a brief check that the derived formulas have the correct dimensions for velocity, mass, and acceleration.",
+    "weight": 1
+  }
+]

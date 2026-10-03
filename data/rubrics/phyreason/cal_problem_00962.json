@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential: Correctly calculates B = 4/3 T (≈1.33 T) using the force balance and circuit equations.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance analysis",
+    "description": "Important: Sets up proper equilibrium equations for both limiting angles (37° and 90°) considering gravity, friction, and magnetic force.",
+    "weight": 4
+  },
+  {
+    "title": "Circuit current calculation",
+    "description": "Important: Correctly computes circuit current I = E/(R+r) = 7.5 A using Ohm's law with both resistances.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity at cf",
+    "description": "Essential: Correctly finds v = 3 m/s using work-energy theorem with friction and gravitational potential energy.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration after switch closure",
+    "description": "Essential: Correctly calculates acceleration ≈ 6.07 m/s² considering magnetic force, friction, and gravity components.",
+    "weight": 4
+  },
+  {
+    "title": "Friction coefficient determination",
+    "description": "Important: Solves for μ = 0.5 from the equilibrium conditions at the limiting angles.",
+    "weight": 3
+  },
+  {
+    "title": "Direction consistency",
+    "description": "Optional: Correctly identifies magnetic field direction (vertical downward) from force analysis.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall: Incorrect sign assignment for friction force direction when rod is stationary or moving.",
+    "weight": -2
+  },
+  {
+    "title": "Circuit resistance omission",
+    "description": "Pitfall: Fails to include both internal resistance r and rod resistance R in total circuit resistance.",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall: Uses inconsistent units (e.g., mixing degrees/radians, omitting g=10 m/s²) in calculations.",
+    "weight": -1
+  }
+]

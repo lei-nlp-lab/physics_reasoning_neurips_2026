@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final charge",
+    "description": "Essential: The student's final answer for the charge Q must be approximately 1.0 × 10⁻⁶ C.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The student must correctly apply Newton's first law to sphere B, resolving forces parallel to the incline or in horizontal/vertical components.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb's law application",
+    "description": "Important: The student must correctly apply Coulomb's law (F = kQ²/r²) to relate the electrostatic force to the unknown charge and the separation distance.",
+    "weight": 4
+  },
+  {
+    "title": "Correct geometry/distance",
+    "description": "Important: The student must correctly determine the horizontal separation L between the spheres using the given vertical height and the 30° angle, finding L = 10√3 cm.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The student should demonstrate consistent unit conversion (e.g., cm to m, g to kg) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force resolution",
+    "description": "Pitfall: Penalize if the student incorrectly resolves the weight or Coulomb force, e.g., using sin/cos of the angle incorrectly in the equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student misidentifies the direction of the Coulomb force (repulsive) or makes a sign error in the force balance.",
+    "weight": -1
+  }
+]

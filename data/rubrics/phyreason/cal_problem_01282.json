@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension magnitude",
+    "description": "Essential: Correct calculation of tension T = m₁g/cos45° = 20√2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Ball acceleration",
+    "description": "Essential: Correct calculation of acceleration a = g·tan45° = 10 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Wall pressure magnitude",
+    "description": "Essential: Correct calculation of pressure force F = m₂a = 50 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force resolution for ball",
+    "description": "Important: Proper resolution of tension into vertical (balances weight) and horizontal (causes acceleration) components.",
+    "weight": 3
+  },
+  {
+    "title": "Newton's third law application",
+    "description": "Important: Recognition that wall force on box equals box force on wall in magnitude.",
+    "weight": 3
+  },
+  {
+    "title": "Acceleration relationship",
+    "description": "Important: Understanding that ball and box share the same horizontal acceleration as the cart.",
+    "weight": 4
+  },
+  {
+    "title": "Units and symbols",
+    "description": "Optional: Consistent use of correct units (N, m/s²) and clear notation.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect angle resolution",
+    "description": "Pitfall: Swapping sin and cos in tension components (e.g., Tsin45° = mg).",
+    "weight": -2
+  },
+  {
+    "title": "Missing normal force",
+    "description": "Pitfall: Forgetting that wall force on box is the only horizontal force causing box acceleration.",
+    "weight": -2
+  }
+]

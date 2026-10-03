@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final Probability for s_x = 1/2",
+    "description": "Essential Criteria: The student must correctly derive and state the probability P(s_x = 1/2) = cos^2(ωt/2).",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability for s_x = -1/2",
+    "description": "Essential Criteria: The student must correctly derive and state the probability P(s_x = -1/2) = sin^2(ωt/2).",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability for s_y = 1/2",
+    "description": "Essential Criteria: The student must correctly derive and state the probability P(s_y = 1/2) = cos^2(ωt/2 - π/4).",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability for s_y = -1/2",
+    "description": "Essential Criteria: The student must correctly derive and state the probability P(s_y = -1/2) = sin^2(ωt/2 - π/4).",
+    "weight": 5
+  },
+  {
+    "title": "Final Probability for s_z states",
+    "description": "Essential Criteria: The student must correctly state that P(s_z = 1/2) = 1/2 and P(s_z = -1/2) = 1/2.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ehrenfest Theorem",
+    "description": "Important Criteria: The student should demonstrate understanding of Ehrenfest's theorem and its application to the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Correctness of Angular Velocity",
+    "description": "Important Criteria: The student must correctly identify the angular velocity ω = eB/mc and its role in the solution.",
+    "weight": 4
+  },
+  {
+    "title": "Probability Interpretation",
+    "description": "Optional Criteria: The student may provide a clear interpretation of the probabilities in the context of quantum mechanics.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or incorrect application of quantum mechanics principles.",
+    "weight": -2
+  }
+]

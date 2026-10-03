@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Mean Energy Expression",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the mean energy, <E> = (hbar omega / 2) coth(hbar omega / (2 k T)).",
+    "weight": 5
+  },
+  {
+    "title": "Fluctuation Expression",
+    "description": "Essential Criteria: The student must correctly derive and present the expression for the root-mean-square fluctuation in energy, Delta E = (hbar omega / (2 sinh(hbar omega / (2 k T)))).",
+    "weight": 5
+  },
+  {
+    "title": "Low Temperature Behavior",
+    "description": "Important Criteria: The student must correctly describe the behavior of <E> and Delta E in the limit kT << hbar omega.",
+    "weight": 4
+  },
+  {
+    "title": "High Temperature Behavior",
+    "description": "Important Criteria: The student must correctly describe the behavior of <E> and Delta E in the limit kT >> hbar omega.",
+    "weight": 4
+  },
+  {
+    "title": "Partition Function Derivation",
+    "description": "Important Criteria: The student should show understanding of the partition function and its role in deriving <E>.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all expressions have consistent units throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or incorrect factors in the expressions for <E> and Delta E.",
+    "weight": -2
+  }
+]

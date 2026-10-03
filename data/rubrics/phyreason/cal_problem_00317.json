@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Correct string tension",
+    "description": "Essential: Student must provide the final expression for tension T = ½ mω²L or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct planet density",
+    "description": "Essential: Student must provide the final expression for density ρ = 9Lω²/(8μπGR) or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct cosmic velocity",
+    "description": "Essential: Student must provide the final expression for first cosmic velocity v = ω√(3RL/(2μ)) or equivalent simplified form.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Student must apply Newton's second law to each mass, considering centripetal force, friction, and tension.",
+    "weight": 4
+  },
+  {
+    "title": "Gravitational acceleration derivation",
+    "description": "Important: Student must relate surface gravity g to planetary mass M using Newton's law of gravitation.",
+    "weight": 4
+  },
+  {
+    "title": "Friction at limiting condition",
+    "description": "Important: Student must correctly apply f = μN with normal force equal to weight mg for both objects.",
+    "weight": 3
+  },
+  {
+    "title": "Planetary mass-volume relation",
+    "description": "Optional: Student uses ρ = M/(4πR³/3) to connect density to mass and radius.",
+    "weight": 2
+  },
+  {
+    "title": "Sign/direction error",
+    "description": "Pitfall: Student incorrectly assigns direction of friction or tension, or misidentifies which object experiences larger net force.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect normal force",
+    "description": "Pitfall: Student uses incorrect normal force (not mg) or misapplies the friction coefficient.",
+    "weight": -1
+  }
+]

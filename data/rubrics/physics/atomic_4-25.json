@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Conservation Argument",
+    "description": "Essential Criteria: The response must clearly state that pair production by a single isolated photon is impossible due to the violation of energy and momentum conservation.",
+    "weight": 5
+  },
+  {
+    "title": "Threshold Energy Calculation",
+    "description": "Essential Criteria: The response must provide the correct expression for the threshold energy for pair production, E_gamma = 2m_e.",
+    "weight": 5
+  },
+  {
+    "title": "Recoil Energy Justification",
+    "description": "Important Criteria: The response should include a calculation or reasoning showing that the kinetic energy of the recoiling nucleus is negligible compared to the threshold energy.",
+    "weight": 4
+  },
+  {
+    "title": "Numerical Evaluation",
+    "description": "Important Criteria: The response must include a numerical evaluation of the kinetic energy of the recoiling nucleus and its relation to E_gamma.",
+    "weight": 4
+  },
+  {
+    "title": "Momentum Transfer Explanation",
+    "description": "Optional Criteria: The response may explain how a nearby particle allows for momentum conservation during pair production.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The response must avoid unit mistakes, ensuring that all energy values are consistently expressed in MeV.",
+    "weight": -1
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The response must avoid sign mistakes in the calculations related to energy and momentum.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answers for Part (a)",
+    "description": "Essential Criteria - Provide correct values for strangeness, hypercharge, isospin, and isospin z-component of Y_1^*.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for Part (b)",
+    "description": "Essential Criteria - State the possible spin assignments and intrinsic parity for Y_1^*.",
+    "weight": 5
+  },
+  {
+    "title": "Final Answers for Part (c)",
+    "description": "Essential Criteria - Identify at least one expected strong decay mode for Y_1^*.",
+    "weight": 5
+  },
+  {
+    "title": "Reasoning for Part (a)",
+    "description": "Important Criteria - Justify the conservation of quantum numbers in the decay process.",
+    "weight": 4
+  },
+  {
+    "title": "Reasoning for Part (b)",
+    "description": "Important Criteria - Explain the calculation of possible spin values based on angular momentum.",
+    "weight": 4
+  },
+  {
+    "title": "Pitfalls in Part (a)",
+    "description": "Pitfall Criteria - Avoid incorrect calculations or assumptions about strangeness, hypercharge, or isospin.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfalls in Part (b)",
+    "description": "Pitfall Criteria - Watch for mistakes in calculating the intrinsic parity or possible spin values.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Conventions",
+    "description": "Optional Criteria - Use correct units and conventions throughout the response.",
+    "weight": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Electric force at B",
+    "description": "Essential: The final answer for part (1) must be correctly stated as kQq/L².",
+    "weight": 5
+  },
+  {
+    "title": "Pressure magnitude at B",
+    "description": "Essential: The final answer for part (2) must be correctly stated as sqrt(9m²g² + (kQq/L²)²).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation to B",
+    "description": "Important: The solution must apply conservation of mechanical energy (mgR = 1/2 m v_B²) to find the speed at point B.",
+    "weight": 4
+  },
+  {
+    "title": "Centripetal force at B",
+    "description": "Important: The solution must apply Newton's second law radially at point B (N_By - mg = m v_B²/R) to find the vertical normal component.",
+    "weight": 4
+  },
+  {
+    "title": "Resultant electric force",
+    "description": "Important: For part (1), the solution must correctly compute the vector sum of the two Coulomb forces from M and N at point B, yielding a net horizontal force.",
+    "weight": 3
+  },
+  {
+    "title": "Force as function of θ",
+    "description": "Important: For part (3), the solution must derive the distance x = L/(2 cos θ) and the net electric force F' = 8kQq cos³θ / L².",
+    "weight": 4
+  },
+  {
+    "title": "Normal force function",
+    "description": "Essential: The final answer for part (3) must be correctly stated as F_N = sqrt((8kQq cos³θ / L²)² + m²g²).",
+    "weight": 5
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the student incorrectly assigns the direction of the electric force or mis-handles vector components (e.g., forgetting the 60° symmetry at B).",
+    "weight": -2
+  },
+  {
+    "title": "Unit or constant omission",
+    "description": "Pitfall: Penalize if the student omits fundamental constants (k, g) or confuses charge symbols (Q vs q) in the final expressions.",
+    "weight": -1
+  },
+  {
+    "title": "Geometric distance error",
+    "description": "Pitfall: Penalize if the student uses an incorrect distance (e.g., L instead of L/(2 cos θ)) for the Coulomb force in the straight tube section.",
+    "weight": -2
+  }
+]

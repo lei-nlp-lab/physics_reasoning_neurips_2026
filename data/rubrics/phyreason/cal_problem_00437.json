@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final expression",
+    "description": "Essential: The final answer must be mathematically equivalent to T = mg / (2 cos θ).",
+    "weight": 5
+  },
+  {
+    "title": "Vertical force balance",
+    "description": "Important: The solution must correctly apply equilibrium in the vertical direction, stating that the sum of vertical components of tension equals the weight mg.",
+    "weight": 4
+  },
+  {
+    "title": "Tension component resolution",
+    "description": "Important: The solution must correctly resolve the tension into vertical components, using the given angle θ (not 2θ) relative to the vertical or horizontal.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram logic",
+    "description": "Optional: The response may include a clear free-body diagram or equivalent verbal description identifying all forces on the acrobat-unicycle system.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answer may be presented with correct units or a statement about dimensional consistency.",
+    "weight": 1
+  },
+  {
+    "title": "Angle misinterpretation",
+    "description": "Pitfall: Using the full angle 2θ incorrectly in the cosine function (e.g., using cos(2θ) or sin(θ) where cos(θ) is required) is a common error.",
+    "weight": -2
+  },
+  {
+    "title": "Missing equilibrium condition",
+    "description": "Pitfall: Failing to state or apply the condition of static equilibrium (net force equals zero) is a fundamental error.",
+    "weight": -1
+  }
+]

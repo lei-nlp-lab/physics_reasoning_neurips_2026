@@ -1,0 +1,10 @@
+# Extra dependencies of the reward functions and the evaluation script.
+# Install into the verl environment (see the Setup section of README.md).
+openai>=2.0
+httpx
+json_repair
+sympy
+pandas
+pyarrow
+pillow
+tqdm

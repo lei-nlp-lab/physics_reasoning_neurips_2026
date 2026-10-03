@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for f in terms of r.",
+    "weight": 5
+  },
+  {
+    "title": "Flux Ratio Derivation",
+    "description": "Important Criteria: The student should derive the ratio of luminous fluxes correctly using the given equations.",
+    "weight": 4
+  },
+  {
+    "title": "Solid Angle Calculation",
+    "description": "Important Criteria: The student must correctly calculate the solid angle subtended by the sun.",
+    "weight": 3
+  },
+  {
+    "title": "Use of Lens Parameters",
+    "description": "Important Criteria: The student should correctly apply the lens radius and focal length in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes or missing factors in the equations.",
+    "weight": -2
+  },
+  {
+    "title": "Transparency Assumption",
+    "description": "Optional Criteria: The student should note the assumption of lens transparency being unity.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Case Discussion",
+    "description": "Optional Criteria: The student could discuss limiting cases or implications of the derived result.",
+    "weight": 1
+  }
+]

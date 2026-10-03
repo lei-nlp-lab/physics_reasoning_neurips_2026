@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Total distance correct",
+    "description": "Essential: The student must correctly calculate the total path length as 14 m.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement magnitude correct",
+    "description": "Essential: The student must correctly calculate the magnitude of the displacement from O to B as 10 m.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity magnitude correct",
+    "description": "Essential: The student must correctly calculate the magnitude of the average velocity as 2 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Uses displacement for velocity",
+    "description": "Important: The student must use the magnitude of the displacement, not the total distance, in the average velocity formula.",
+    "weight": 4
+  },
+  {
+    "title": "Applies Pythagorean theorem",
+    "description": "Important: The student must correctly apply the Pythagorean theorem to find the resultant displacement from the north and west components.",
+    "weight": 4
+  },
+  {
+    "title": "Correct units included",
+    "description": "Optional: The student includes correct units (m and m/s) with their final numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confuses distance and displacement",
+    "description": "Pitfall: The student incorrectly uses the total distance (14 m) instead of the displacement (10 m) to calculate average velocity.",
+    "weight": -2
+  },
+  {
+    "title": "Arithmetic or sign error",
+    "description": "Pitfall: The student makes a simple arithmetic error in the Pythagorean calculation or in the division for average velocity.",
+    "weight": -1
+  }
+]

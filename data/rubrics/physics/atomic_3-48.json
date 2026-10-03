@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Photon Energy",
+    "description": "Essential Criteria: The expression for the photon energy E_gamma must be correctly derived and presented.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Limit Evaluation",
+    "description": "Important Criteria: The evaluation of the photon energy in the limit m_L << m_H must be correctly performed.",
+    "weight": 4
+  },
+  {
+    "title": "Spectral Regime Identification",
+    "description": "Important Criteria: The identification of the spectral regime for the emitted photons must be accurate based on the calculated energy.",
+    "weight": 4
+  },
+  {
+    "title": "Lifetime Impact Discussion",
+    "description": "Important Criteria: A qualitative discussion on how a shorter lifetime of heavy neutrinos affects the detection of photons must be provided.",
+    "weight": 3
+  },
+  {
+    "title": "Monoenergetic Justification",
+    "description": "Essential Criteria: The justification that the photons produced are monoenergetic must be clearly stated.",
+    "weight": 5
+  },
+  {
+    "title": "Unit Consistency Check",
+    "description": "Optional Criteria: Units must be consistently used throughout the calculations and final answers.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or missing factors in the energy expression must be avoided.",
+    "weight": -2
+  }
+]

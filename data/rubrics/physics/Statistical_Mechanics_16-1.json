@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Pressure Equation",
+    "description": "Essential Criteria: The student must correctly express the pressure p in terms of the photon gas parameters and derivatives.",
+    "weight": 5
+  },
+  {
+    "title": "Frequency Derivative",
+    "description": "Essential Criteria: The student must derive the relationship for the partial derivative of frequency with respect to volume.",
+    "weight": 5
+  },
+  {
+    "title": "Pressure-Energy Relation",
+    "description": "Essential Criteria: The student must show the relationship between pressure p and energy density U.",
+    "weight": 5
+  },
+  {
+    "title": "Temperature Comparison",
+    "description": "Important Criteria: The student must set up the comparison between thermal radiation pressure and kinetic pressure of hydrogen gas.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Temperature Derivation",
+    "description": "Important Criteria: The student must derive the correct expression for temperature at which the pressures are equal.",
+    "weight": 4
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid common errors such as sign mistakes in derivatives or incorrect assumptions about constants.",
+    "weight": -2
+  }
+]

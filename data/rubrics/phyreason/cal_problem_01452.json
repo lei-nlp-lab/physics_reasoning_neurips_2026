@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final inequality condition",
+    "description": "Essential: The answer must state the inequality a >= (2 + μ1/μ2) * μ1 * g.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration on cloth",
+    "description": "Important: The solution must correctly identify the disk's acceleration relative to the cloth as a1 = μ1 * g.",
+    "weight": 4
+  },
+  {
+    "title": "Deceleration on table",
+    "description": "Important: The solution must correctly identify the disk's deceleration on the bare table as a2 = μ2 * g.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics on cloth",
+    "description": "Important: The solution must relate the disk's displacement on the cloth (x1) and the cloth's displacement (x) using the geometry, such as x = l/2 + x1.",
+    "weight": 3
+  },
+  {
+    "title": "Stopping distance constraint",
+    "description": "Important: The solution must apply the condition that the disk's stopping distance on the table (x2) satisfies x2 <= l/2 - x1.",
+    "weight": 3
+  },
+  {
+    "title": "Velocity relation",
+    "description": "Optional: The solution may explicitly equate v^2 = 2 * a1 * x1 and v^2 = 2 * a2 * x2 to link the motions.",
+    "weight": 2
+  },
+  {
+    "title": "Time elimination",
+    "description": "Optional: The solution may show eliminating time from kinematic equations for the cloth and disk motions.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Penalize if the frictional force direction or the sign of acceleration/deceleration is incorrectly assigned.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect geometric limit",
+    "description": "Pitfall: Penalize if the condition for not falling is incorrectly written (e.g., using l instead of l/2, or wrong inequality direction).",
+    "weight": -2
+  }
+]

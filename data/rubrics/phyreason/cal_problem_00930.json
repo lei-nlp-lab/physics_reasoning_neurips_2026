@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Magnetic field magnitude",
+    "description": "Essential Criteria: The final numerical answer for part (1) must be 0.4 T (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Rod acceleration magnitude",
+    "description": "Essential Criteria: The final numerical answer for part (2) must be 1.2 m/s² (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance setup",
+    "description": "Important Criteria: For part (1), the student must equate the magnetic force (BIL) with the component of gravity along the incline (mg sin37°).",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important Criteria: For part (2), the student must apply F_net = ma along the incline, accounting for both gravity and the magnetic force component.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic force direction",
+    "description": "Important Criteria: For part (2), the student must correctly determine that the magnetic force acts horizontally (perpendicular to the new vertical field and current direction).",
+    "weight": 3
+  },
+  {
+    "title": "Component resolution",
+    "description": "Important Criteria: For part (2), the student must resolve the horizontal magnetic force into a component along the incline using cos37°.",
+    "weight": 3
+  },
+  {
+    "title": "Sign error in forces",
+    "description": "Pitfall Criteria: Penalize if the student uses incorrect signs for force components along the incline in either part.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student shows consistent use of SI units throughout calculations.",
+    "weight": 1
+  }
+]

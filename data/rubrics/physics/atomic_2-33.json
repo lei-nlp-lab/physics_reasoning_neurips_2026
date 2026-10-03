@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Energy Release",
+    "description": "Essential Criteria: The student must correctly state that alpha-decay energies are greater than zero, indicating a favorable energy release for alpha-decay compared to other decay modes.",
+    "weight": 5
+  },
+  {
+    "title": "Coulomb Barrier Explanation",
+    "description": "Important Criteria: The student should explain that the probability of penetrating the Coulomb barrier is lower for fission compared to alpha-decay due to larger effective charges and reduced mass.",
+    "weight": 4
+  },
+  {
+    "title": "Comparison of Decay Modes",
+    "description": "Important Criteria: The student must compare the decay energies of proton-, deuteron-, and triton-emission, stating that they are typically less than zero for heavy nuclei.",
+    "weight": 4
+  },
+  {
+    "title": "Mathematical Justification",
+    "description": "Optional Criteria: The student may include relevant equations or integrals that describe the Coulomb barrier penetration probability, enhancing their explanation.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student should avoid incorrect signs when discussing energy values, as negative decay energies for other modes must be clearly stated.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all energy values are presented with appropriate units (MeV) to avoid confusion.",
+    "weight": -1
+  }
+]

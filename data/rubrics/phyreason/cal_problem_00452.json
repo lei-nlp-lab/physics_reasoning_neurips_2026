@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Linear velocity magnitude",
+    "description": "Essential: The student's final answer for linear speed must be 10 m/s, correctly calculated from distance and time.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity magnitude",
+    "description": "Essential: The student's final answer for angular speed must be 0.5 rad/s, correctly derived from linear velocity and radius.",
+    "weight": 5
+  },
+  {
+    "title": "Centripetal acceleration magnitude",
+    "description": "Essential: The student's final answer for centripetal acceleration must be 5 m/s², using either a = v²/r or a = rω².",
+    "weight": 5
+  },
+  {
+    "title": "Correct formula application",
+    "description": "Important: The solution must correctly apply the definitions v = s/t, ω = v/r, and a = v²/r or a = rω².",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All final answers should be presented with correct SI units (m/s, rad/s, m/s²).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing linear and angular",
+    "description": "Pitfall: Penalize if the student incorrectly calculates angular velocity as θ/t without first finding the angle or misuses the radius.",
+    "weight": -2
+  },
+  {
+    "title": "Algebraic or arithmetic error",
+    "description": "Pitfall: Penalize significant calculation mistakes in the intermediate or final steps, such as miscomputing v or ω.",
+    "weight": -1
+  }
+]

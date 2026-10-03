@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct displacement expression",
+    "description": "Essential: The response must give the correct function y = 5 cos((5π/3)t) cm, or equivalent with correct amplitude, angular frequency, and cosine form.",
+    "weight": 5
+  },
+  {
+    "title": "Correct total distance",
+    "description": "Essential: The final answer for the total distance traveled in 0–12.9 s must be 2.15 m (or 215 cm).",
+    "weight": 5
+  },
+  {
+    "title": "Correct acceleration magnitude",
+    "description": "Essential: The final answer for the acceleration magnitude at the highest point must be 5 m/s².",
+    "weight": 5
+  },
+  {
+    "title": "Uses graph for amplitude/period",
+    "description": "Important: The solution correctly extracts the amplitude (5 cm) and period (1.2 s) from the provided figure.",
+    "weight": 4
+  },
+  {
+    "title": "Applies SHM distance formula",
+    "description": "Important: The calculation for total distance correctly uses the relationship s = 4A * (t/T) for the number of oscillations.",
+    "weight": 4
+  },
+  {
+    "title": "Applies Newton's second law at highest point",
+    "description": "Important: For part (3), the solution correctly sets up ma = mg - kx using the given elongation to find acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Determines spring constant",
+    "description": "Optional: The solution shows the step of finding the spring constant k = mg/x' from the static equilibrium condition.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency/conversion",
+    "description": "Optional: The solution demonstrates consistent use or conversion of units (e.g., cm to m).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in acceleration",
+    "description": "Pitfall: Penalize if the sign of acceleration (direction) is confused, or if the net force equation uses incorrect signs (e.g., ma = kx - mg).",
+    "weight": -2
+  },
+  {
+    "title": "Misinterprets number of oscillations",
+    "description": "Pitfall: Penalize if the distance calculation incorrectly handles the fractional oscillation (e.g., rounds 10.75 to 10 or 11 without proper reasoning).",
+    "weight": -1
+  }
+]

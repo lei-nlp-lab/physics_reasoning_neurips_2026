@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Static friction magnitude",
+    "description": "Essential: Correctly identifies that static friction equals the applied force (80 N) when the sofa is stationary.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction coefficient",
+    "description": "Essential: Correctly calculates the coefficient of kinetic friction (0.4) using the force for constant velocity and the normal force.",
+    "weight": 5
+  },
+  {
+    "title": "Kinetic friction under new force",
+    "description": "Essential: Correctly states that kinetic friction remains 120 N under a 140 N applied force, as it depends only on normal force and coefficient.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies Newton's first law correctly for both stationary and constant velocity scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Normal force calculation",
+    "description": "Important: Correctly identifies the normal force as equal to the weight (mg = 300 N) for horizontal surface.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answers",
+    "description": "Optional: Includes correct units (N for forces, dimensionless for coefficient) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing static/kinetic friction",
+    "description": "Pitfall: Incorrectly uses static friction formula or coefficient for the moving sofa in part (3).",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Treats friction as having incorrect sign relative to applied force or misinterprets force balance directions.",
+    "weight": -1
+  }
+]

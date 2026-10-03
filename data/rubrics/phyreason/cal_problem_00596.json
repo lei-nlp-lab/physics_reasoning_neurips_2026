@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct tension T",
+    "description": "Essential: The final answer for part (1) is T = 10 N.",
+    "weight": 5
+  },
+  {
+    "title": "Correct tension T'",
+    "description": "Essential: The final answer for part (2) is T' = 20 N.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium setup",
+    "description": "Important: The solution correctly sets up the equilibrium conditions by resolving forces horizontally and vertically for the ball.",
+    "weight": 4
+  },
+  {
+    "title": "Trigonometric application",
+    "description": "Important: The solution correctly applies trigonometric functions (tan and cos) to relate the tensions to the weight and the given angle.",
+    "weight": 3
+  },
+  {
+    "title": "Free-body diagram implied",
+    "description": "Optional: The response implies or sketches a correct free-body diagram showing the three forces (two tensions and weight) acting on the ball.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers are presented with correct units (N).",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: The solution incorrectly assigns the direction of a tension force, leading to a wrong sign in an equilibrium equation.",
+    "weight": -2
+  },
+  {
+    "title": "Trigonometric mix-up",
+    "description": "Pitfall: The solution confuses sin, cos, or tan when relating the tensions, weight, and the 30° angle.",
+    "weight": -2
+  }
+]

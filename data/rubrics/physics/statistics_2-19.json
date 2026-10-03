@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Average Velocity",
+    "description": "Essential Criteria: The average velocity of the molecules must be calculated correctly using the ideal gas equation.",
+    "weight": 5
+  },
+  {
+    "title": "Rotational Velocity",
+    "description": "Essential Criteria: The average rotational velocity must be derived correctly using the moment of inertia and rotational kinetic energy.",
+    "weight": 5
+  },
+  {
+    "title": "Heat Capacities",
+    "description": "Essential Criteria: The molar heat capacities C_P and C_v must be derived correctly based on the degrees of freedom.",
+    "weight": 5
+  },
+  {
+    "title": "Degrees of Freedom",
+    "description": "Important Criteria: The number of translational and rotational degrees of freedom must be identified and applied correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Moment of Inertia",
+    "description": "Important Criteria: The moment of inertia for the H_2 molecule must be calculated correctly.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Units must be consistent throughout the calculations, particularly in energy and velocity.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Common errors such as sign mistakes or incorrect application of formulas must be avoided.",
+    "weight": -2
+  }
+]

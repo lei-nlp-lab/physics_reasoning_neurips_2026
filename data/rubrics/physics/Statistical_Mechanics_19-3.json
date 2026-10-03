@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Statistics Type",
+    "description": "Essential Criteria: Identify the correct statistics describing the gas of neutrinos as Fermi-Dirac statistics.",
+    "weight": 5
+  },
+  {
+    "title": "Energy-Momentum Relation",
+    "description": "Essential Criteria: Provide the correct relation between energy and momentum for massless neutrinos, stating that E = pc.",
+    "weight": 5
+  },
+  {
+    "title": "Density of States Derivation",
+    "description": "Important Criteria: Show the derivation leading to the density of states per unit energy, including the correct expression for D(E).",
+    "weight": 4
+  },
+  {
+    "title": "Fermi Energy Expression",
+    "description": "Important Criteria: Derive the expression for the highest occupied energy level at T = 0, including the correct dependence on particle density.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common mistakes such as incorrect statistics classification or misapplication of the energy-momentum relation.",
+    "weight": -2
+  }
+]

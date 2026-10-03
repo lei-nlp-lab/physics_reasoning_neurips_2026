@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct U1 expression",
+    "description": "Essential: The final answer for part (1) must be U1 = (2 d^2 m v0^2) / (q L^2) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct U2 expression",
+    "description": "Essential: The final answer for part (2a) must be U2 = (k R d^2 v0) / (q L) or equivalent.",
+    "weight": 5
+  },
+  {
+    "title": "Correct collection percentage",
+    "description": "Essential: The final answer for part (3) must be 25%.",
+    "weight": 5
+  },
+  {
+    "title": "Horizontal motion timing",
+    "description": "Important: Uses the horizontal travel time t = L / v0 correctly in all parts.",
+    "weight": 4
+  },
+  {
+    "title": "Force balance with drag",
+    "description": "Important: For part (2), correctly sets the electric force qU2/d equal to the drag force k R v_max at terminal velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Vertical displacement relation",
+    "description": "Important: Relates the vertical displacement needed for collection (d or d') to the vertical velocity and time (d = v_max * t).",
+    "weight": 3
+  },
+  {
+    "title": "Charge-radius proportionality",
+    "description": "Important: For part (3), correctly applies that charge is proportional to radius squared, leading to q' = q/16 for the smaller particle.",
+    "weight": 3
+  },
+  {
+    "title": "Kinematics for no drag",
+    "description": "Optional: For part (1), correctly uses constant acceleration kinematics (d = 1/2 a t^2) and Newton's second law (qE = ma).",
+    "weight": 2
+  },
+  {
+    "title": "Sign or unit error",
+    "description": "Pitfall: Makes a sign error with the negative charge or incorrectly substitutes units (e.g., diameter vs. radius).",
+    "weight": -2
+  },
+  {
+    "title": "Confusing acceleration regimes",
+    "description": "Pitfall: For part (2), fails to use the terminal velocity condition or incorrectly applies kinematics for accelerated motion.",
+    "weight": -1
+  }
+]

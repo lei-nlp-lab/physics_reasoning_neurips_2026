@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ampere force magnitude",
+    "description": "Essential: The final numerical answer for part (1) must be 0.25 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Joule heat magnitude",
+    "description": "Essential: The final numerical answer for part (2) must be 40.0 J (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Apply Ampere's force law",
+    "description": "Important: The solution must correctly use the formula F = BIL to calculate the force on the rod.",
+    "weight": 3
+  },
+  {
+    "title": "Apply Joule's heating law",
+    "description": "Important: The solution must correctly use the formula Q = I²Rt to calculate the thermal energy.",
+    "weight": 3
+  },
+  {
+    "title": "Identify relevant quantities",
+    "description": "Important: The solution must correctly identify and use the given values B, I, L, R, and t in the appropriate formulas.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The solution may include proper unit analysis (e.g., T·A·m = N, A²·Ω·s = J).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing force directions",
+    "description": "Pitfall: Penalize if the student incorrectly calculates force using velocity or resistance instead of current, or confuses force on the rod with other forces.",
+    "weight": -2
+  },
+  {
+    "title": "Misapplying Ohm's law",
+    "description": "Pitfall: Penalize if the student unnecessarily calculates or uses an induced emf (ε = BLv) when the current I is already given directly.",
+    "weight": -1
+  }
+]

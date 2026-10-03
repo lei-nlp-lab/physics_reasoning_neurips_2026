@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Earth mass expression",
+    "description": "Essential: Student correctly derives or states Earth mass as M = gR²/G using surface gravity relation.",
+    "weight": 5
+  },
+  {
+    "title": "Angular velocity calculation",
+    "description": "Important: Student correctly computes angular velocity ω = θ/t from given rotation angle and time.",
+    "weight": 3
+  },
+  {
+    "title": "Orbital period derivation",
+    "description": "Essential: Student obtains period T = 2π/ω = 2πt/θ using relationship between period and angular velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance equation",
+    "description": "Important: Student sets up Newton's law: GMm/(R+H)² = m(4π²/T²)(R+H) for circular orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Altitude solution",
+    "description": "Essential: Student solves for orbital altitude H = ∛(gR²t²/θ²) - R by substituting M and T.",
+    "weight": 5
+  },
+  {
+    "title": "Units consistency check",
+    "description": "Optional: Student verifies dimensional consistency of final expressions or includes proper units.",
+    "weight": 2
+  },
+  {
+    "title": "Incorrect radius usage",
+    "description": "Pitfall: Student uses Earth radius R instead of orbital radius (R+H) in gravitational force expression.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or algebra error",
+    "description": "Pitfall: Student makes algebraic mistakes in solving for H, such as incorrect exponent handling or root extraction.",
+    "weight": -1
+  }
+]

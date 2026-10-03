@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final velocity value",
+    "description": "Essential: Correctly calculates final velocity as 12 m/s using v = at.",
+    "weight": 5
+  },
+  {
+    "title": "Final displacement value",
+    "description": "Essential: Correctly calculates displacement as 24 m using s = ½at².",
+    "weight": 5
+  },
+  {
+    "title": "Velocity equation application",
+    "description": "Important: Applies the correct kinematic equation v = u + at, with u = 0.",
+    "weight": 3
+  },
+  {
+    "title": "Displacement equation application",
+    "description": "Important: Applies the correct kinematic equation s = ut + ½at², with u = 0.",
+    "weight": 3
+  },
+  {
+    "title": "Units in final answer",
+    "description": "Optional: Includes correct units (m/s and m) with numerical answers.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or formula confusion",
+    "description": "Pitfall: Uses incorrect formula (e.g., s = at² instead of ½at²) or misplaces the ½ factor.",
+    "weight": -2
+  },
+  {
+    "title": "Initial condition oversight",
+    "description": "Pitfall: Fails to use initial velocity u = 0 when applying kinematic equations.",
+    "weight": -1
+  }
+]

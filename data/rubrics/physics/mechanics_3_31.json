@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Mass and Velocity",
+    "description": "Essential Criteria: The final rest mass and velocity of the composite particle must be correctly calculated as 12.1 g and 0.168c.",
+    "weight": 5
+  },
+  {
+    "title": "Conservation Laws",
+    "description": "Important Criteria: The application of conservation of energy and momentum principles must be clearly demonstrated.",
+    "weight": 4
+  },
+  {
+    "title": "Final Velocity for m2",
+    "description": "Essential Criteria: The final velocity of m2 must be correctly determined as 0.9c.",
+    "weight": 5
+  },
+  {
+    "title": "Composite Velocity Calculations",
+    "description": "Important Criteria: The calculations for the velocities in parts (b) and (c) must be correctly derived and presented.",
+    "weight": 4
+  },
+  {
+    "title": "Alternative Velocities",
+    "description": "Optional Criteria: The alternative velocities for m2 in part (c) should be identified as 0.185c and 0.151c.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: Any unit mistakes or inconsistencies in mass or velocity must be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Common sign mistakes in the equations must be identified and penalized.",
+    "weight": -2
+  }
+]

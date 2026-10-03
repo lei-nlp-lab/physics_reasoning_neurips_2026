@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ampere Force Direction",
+    "description": "Essential: The response must correctly state that the Ampere force on the rod is vertically downward.",
+    "weight": 5
+  },
+  {
+    "title": "Final Mass Value",
+    "description": "Essential: The response must provide the correct final mass of the rod as 0.01 kg (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Initial Force Balance",
+    "description": "Important: The solution must apply Hooke's law and equilibrium to relate the initial spring elongation to the rod's weight (2kΔl₁ = mg).",
+    "weight": 4
+  },
+  {
+    "title": "Current Calculation",
+    "description": "Important: The solution must correctly apply Ohm's law (I = E/R) to find the current in the circuit.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere Force Magnitude",
+    "description": "Important: The solution must correctly calculate the Ampere force using F = BIL with the rod's length, field, and current.",
+    "weight": 4
+  },
+  {
+    "title": "Final Force Balance",
+    "description": "Important: The solution must set up the final equilibrium condition relating spring force, weight, and Ampere force (2k(Δl₁+Δl₂) = mg + F).",
+    "weight": 4
+  },
+  {
+    "title": "Systematic Equation Solving",
+    "description": "Optional: The solution clearly eliminates the spring constant k to solve for the mass, showing logical algebraic steps.",
+    "weight": 2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional: The solution demonstrates consistent unit conversion (e.g., cm to m) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign/Force Direction Error",
+    "description": "Pitfall: Incorrectly stating the Ampere force direction (e.g., upward) or misapplying the left-hand rule.",
+    "weight": -2
+  },
+  {
+    "title": "Spring Force Misapplication",
+    "description": "Pitfall: Failing to account for both springs in the force balance (using kΔl instead of 2kΔl) or misinterpreting the elongation change.",
+    "weight": -2
+  }
+]

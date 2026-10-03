@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Radial Equation",
+    "description": "Essential Criteria: The student must correctly write the differential equation for the radial wave function R(r) in the context of the given potential.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Essential Criteria: The student must specify the correct boundary conditions for the radial wave function for bound states.",
+    "weight": 5
+  },
+  {
+    "title": "WKB Condition",
+    "description": "Important Criteria: The student must provide the correct WKB eigenvalue condition for s-states in the potential.",
+    "weight": 4
+  },
+  {
+    "title": "Potential Substitution",
+    "description": "Important Criteria: The student must correctly substitute the potential V(r) into the WKB relation for bound states.",
+    "weight": 4
+  },
+  {
+    "title": "Minimum V0 Calculation",
+    "description": "Important Criteria: The student must derive the minimum value of V0 for one bound state accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Comparison with Exact Result",
+    "description": "Optional Criteria: The student should compare their calculated V0 with the exact result for the exponential potential.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid sign errors in the energy expressions when applying the WKB method.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout their calculations.",
+    "weight": -1
+  }
+]

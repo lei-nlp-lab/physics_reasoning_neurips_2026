@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Energy Expression",
+    "description": "Essential Criteria: The student must correctly express the energy of the system as E = -MH.",
+    "weight": 5
+  },
+  {
+    "title": "Total Magnetic Moment",
+    "description": "Important Criteria: The student should derive the total magnetic moment M = N * average magnetic moment per particle.",
+    "weight": 4
+  },
+  {
+    "title": "Energy Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the energy E = -N * mu_0 * H * tanh(mu_0 * H / kT).",
+    "weight": 5
+  },
+  {
+    "title": "Heat Capacity Derivation",
+    "description": "Important Criteria: The student should derive the heat capacity C_H correctly from the energy expression.",
+    "weight": 4
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the entropy S using the partition function.",
+    "weight": 5
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid sign mistakes in energy and magnetic moment expressions.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student must ensure that all units are consistent throughout the calculations.",
+    "weight": -1
+  },
+  {
+    "title": "Thermal Equilibrium Assumption",
+    "description": "Important Criteria: The student should clearly state the assumption of thermal equilibrium at temperature T.",
+    "weight": 3
+  }
+]

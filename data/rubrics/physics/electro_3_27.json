@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct final answer for the inductance L.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Formula",
+    "description": "Important Criteria: The student should correctly apply the formula for inductance L = (N^2 * mu_0 * A) / l.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic Field Calculation",
+    "description": "Important Criteria: The student must derive the magnetic field B using B = mu_0 * n * I correctly.",
+    "weight": 3
+  },
+  {
+    "title": "Area Calculation",
+    "description": "Important Criteria: The student should calculate the cross-sectional area A of the solenoid accurately.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Neglecting Edge Effects",
+    "description": "Optional Criteria: The student should acknowledge the assumption of neglecting edge effects in the solenoid.",
+    "weight": 1
+  },
+  {
+    "title": "Sign Mistakes",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes in the calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors in the inductance formula.",
+    "weight": -2
+  }
+]

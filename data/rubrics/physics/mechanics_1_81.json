@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The correct value of R_c must be provided as R_c = 2*sqrt(Km).",
+    "weight": 5
+  },
+  {
+    "title": "Equation of Motion",
+    "description": "Important Criteria: The student should correctly write the equation of motion m*ddot{x} + R*dot{x} + K*x = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Indicial Equation",
+    "description": "Important Criteria: The derivation of the indicial equation m*alpha^2 + R*alpha + K = 0 must be shown.",
+    "weight": 3
+  },
+  {
+    "title": "Critical Damping Explanation",
+    "description": "Important Criteria: The explanation of critical damping and its relation to R_c must be included.",
+    "weight": 4
+  },
+  {
+    "title": "Initial Conditions Analysis",
+    "description": "Important Criteria: The student should discuss how initial conditions affect the approach to equilibrium for R > R_c and R < R_c.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes in the derivation of alpha and the conditions for damping.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all terms in the equations are dimensionally consistent.",
+    "weight": 1
+  },
+  {
+    "title": "Alternative Approaches",
+    "description": "Optional Criteria: Mentioning any alternative methods to solve the problem or verify results would be beneficial.",
+    "weight": 1
+  }
+]

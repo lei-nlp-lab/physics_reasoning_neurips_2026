@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct compression length",
+    "description": "Essential Criteria: The student's final answer for part (1) must be a length of approximately 0.063 m (or 6.3 cm).",
+    "weight": 5
+  },
+  {
+    "title": "Correct passenger count",
+    "description": "Essential Criteria: The student's final answer for part (2) must be 5 passengers.",
+    "weight": 5
+  },
+  {
+    "title": "Apply frequency condition",
+    "description": "Important Criteria: The solution must set the car's vibration frequency equal to the given human natural frequency of 2 Hz.",
+    "weight": 4
+  },
+  {
+    "title": "Use static equilibrium",
+    "description": "Important Criteria: The solution for part (2) must apply force equilibrium (total weight equals spring force) using Hooke's Law (F = k * l).",
+    "weight": 4
+  },
+  {
+    "title": "Correct formula manipulation",
+    "description": "Important Criteria: The solution must correctly manipulate the given formula f = (1/(2π))√(g/l) to solve for the compression length l.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The solution should demonstrate consistent use of SI units (kg, m, N, Hz) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall Criteria: Deduct points if the student incorrectly handles the direction of forces in the equilibrium equation, e.g., writing kl = Mg without including passenger weight.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect total mass calculation",
+    "description": "Pitfall Criteria: Deduct points if the student makes an error in calculating the total mass (car + n*passenger) when applying Hooke's Law.",
+    "weight": -1
+  }
+]

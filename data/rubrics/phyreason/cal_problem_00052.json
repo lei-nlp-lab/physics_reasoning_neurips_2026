@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Impact velocity calculation",
+    "description": "Essential: Correctly calculates the helmet's velocity just before ground contact using v = sqrt(2gh) or equivalent kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Deceleration time calculation",
+    "description": "Important: Correctly applies kinematics for uniformly decelerated motion to find the duration using Δx = (v_initial + v_final)t/2 or equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Average force magnitude",
+    "description": "Essential: Correctly calculates the average force using impulse-momentum theorem (Ft = mΔv) or Newton's second law with kinematics.",
+    "weight": 5
+  },
+  {
+    "title": "Proper kinematics application",
+    "description": "Important: Correctly identifies and applies appropriate kinematics equations for both free fall and uniform deceleration phases.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units throughout calculations and presents final answers with correct units.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in deceleration",
+    "description": "Pitfall: Incorrectly uses positive acceleration instead of deceleration in kinematics equations for the compression phase.",
+    "weight": -2
+  },
+  {
+    "title": "Gravity during compression",
+    "description": "Pitfall: Incorrectly includes object's gravity during the compression phase despite problem stating to neglect it.",
+    "weight": -1
+  }
+]

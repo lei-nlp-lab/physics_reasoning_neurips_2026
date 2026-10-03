@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Satellite A velocity",
+    "description": "Essential: Correctly states the linear velocity as v = sqrt(GM/R).",
+    "weight": 5
+  },
+  {
+    "title": "Satellite A period",
+    "description": "Essential: Correctly states the orbital period as T' = sqrt(4π²R³/(GM)).",
+    "weight": 5
+  },
+  {
+    "title": "Satellite A acceleration",
+    "description": "Essential: Correctly states the centripetal acceleration as a = GM/R².",
+    "weight": 5
+  },
+  {
+    "title": "Satellite B height",
+    "description": "Essential: Correctly states the height above ground as h = cube_root(GMT²/(4π²)) - R.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important: Applies Newton's second law, setting gravitational force equal to centripetal force for a circular orbit.",
+    "weight": 4
+  },
+  {
+    "title": "Geostationary condition",
+    "description": "Important: For part (2), identifies that the orbital period of satellite B must equal the Earth's rotation period T.",
+    "weight": 4
+  },
+  {
+    "title": "Orbital radius distinction",
+    "description": "Important: Correctly uses R (Earth's radius) as the orbital radius for satellite A and R+h for satellite B.",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: Shows clear algebraic steps to solve for the required quantities from the force-balance equation.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Mentions or implies correct units for final answers (e.g., m/s, s, m/s², m).",
+    "weight": 1
+  },
+  {
+    "title": "Radius confusion error",
+    "description": "Pitfall: Uses Earth's radius R as the orbital radius for the geostationary satellite, forgetting to add h.",
+    "weight": -2
+  },
+  {
+    "title": "Period confusion error",
+    "description": "Pitfall: For part (2), uses the satellite A period formula instead of the Earth's rotation period T.",
+    "weight": -2
+  }
+]

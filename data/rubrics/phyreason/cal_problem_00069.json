@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct work value",
+    "description": "Essential: The response must state the work done by the athlete as 4.5 J (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Correct force magnitude",
+    "description": "Essential: The response must state the magnitude of the applied force as 9 N (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Energy ratio application",
+    "description": "Important: The solution must correctly apply the constant ratio of kinetic energy before and after ground collisions to both scenarios.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy setup",
+    "description": "Important: The solution must set up work-energy relationships for both the free-fall and athlete-assisted scenarios.",
+    "weight": 3
+  },
+  {
+    "title": "Athlete's work calculation",
+    "description": "Important: The solution must correctly calculate the athlete's work using either the energy difference or the force × displacement method.",
+    "weight": 3
+  },
+  {
+    "title": "Force from kinematics",
+    "description": "Optional: The solution may derive the applied force using kinematics (displacement during force application) and Newton's second law.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: All intermediate and final answers should maintain consistent units (J, N, m, kg, s).",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Incorrect sign for the athlete's work (should be positive as energy is added to the ball).",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring gravity in force",
+    "description": "Pitfall: Calculating the applied force without accounting for gravity (F_net = F_applied + mg, not just F_applied).",
+    "weight": -2
+  },
+  {
+    "title": "Energy ratio confusion",
+    "description": "Pitfall: Misapplying the kinetic energy ratio (e.g., using potential energy heights directly without converting to kinetic energy).",
+    "weight": -1
+  }
+]

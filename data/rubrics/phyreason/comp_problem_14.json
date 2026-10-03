@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Net force on plate",
+    "description": "Essential: Correct final expression for the net horizontal force on the right plate, including magnitude and direction (implied by sign).",
+    "weight": 5
+  },
+  {
+    "title": "Crust density relation",
+    "description": "Essential: Correct derivation of the approximate linear density-temperature relation and identification of the constant k.",
+    "weight": 5
+  },
+  {
+    "title": "Crust thickness D",
+    "description": "Essential: Correct expression for the far-distance crust thickness D in terms of given parameters.",
+    "weight": 5
+  },
+  {
+    "title": "Net horizontal crust force",
+    "description": "Essential: Correct leading-order expression for the net horizontal force F on the right half of the crust.",
+    "weight": 5
+  },
+  {
+    "title": "Characteristic time τ",
+    "description": "Essential: Correct dimensional analysis yielding the characteristic thermal equilibration time τ.",
+    "weight": 5
+  },
+  {
+    "title": "Hydrostatic equilibrium application",
+    "description": "Important: Correct application of hydrostatic equilibrium to relate pressures at the ridge axis and far away.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure integration setup",
+    "description": "Important: Correct setup of the integral for the net horizontal force on the crust, defining pressure profiles at x=0 and x=∞.",
+    "weight": 4
+  },
+  {
+    "title": "Small parameter approximation",
+    "description": "Important: Consistent use of the small k_l (or k) approximation, neglecting higher-order terms in derivations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign for the net force (e.g., confusing force direction or pressure difference).",
+    "weight": -2
+  },
+  {
+    "title": "Dimensional inconsistency",
+    "description": "Pitfall: Final answer for any part has incorrect dimensions or mismatched units.",
+    "weight": -1
+  }
+]

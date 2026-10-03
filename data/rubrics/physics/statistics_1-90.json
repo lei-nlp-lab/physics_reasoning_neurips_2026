@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The final answer for C_p must be correctly stated as C_p = 5/2 R.",
+    "weight": 5
+  },
+  {
+    "title": "Entropy Calculation",
+    "description": "Important Criteria: The calculation of entropy S must be derived correctly from the Gibbs free energy G.",
+    "weight": 4
+  },
+  {
+    "title": "Partial Derivative",
+    "description": "Important Criteria: The partial derivative of S with respect to T must be correctly evaluated to find C_p.",
+    "weight": 4
+  },
+  {
+    "title": "Correct Constants",
+    "description": "Important Criteria: The constants a and R must be correctly identified and used in the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Watch for common sign errors in the calculation of the entropy or specific heat.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: Ensure that units are consistent throughout the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Logical Flow",
+    "description": "Optional Criteria: The response should follow a logical flow from Gibbs free energy to specific heat.",
+    "weight": 2
+  }
+]

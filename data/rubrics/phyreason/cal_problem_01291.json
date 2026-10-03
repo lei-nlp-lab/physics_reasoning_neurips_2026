@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct time calculation",
+    "description": "Essential Criteria: The student must correctly compute the time from B to C as 0.3 s using the vertical motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Correct initial velocity",
+    "description": "Essential Criteria: The student must correctly compute the initial horizontal velocity as 4 m/s using the horizontal motion equations.",
+    "weight": 5
+  },
+  {
+    "title": "Displacement angle relationship",
+    "description": "Important Criteria: The student must correctly apply the projectile motion relationship tan(θ) = (1/2)tan(φ), where θ is the displacement angle and φ is the launch angle, or its equivalent for grazing condition.",
+    "weight": 4
+  },
+  {
+    "title": "Geometric displacement components",
+    "description": "Important Criteria: The student must correctly determine the horizontal and vertical displacements (x = 1.2 m, y = 0.45 m) from the geometry of the semicylinder and the given angle.",
+    "weight": 4
+  },
+  {
+    "title": "Independent motion application",
+    "description": "Important Criteria: The student must correctly apply the equations for horizontal uniform motion and vertical free-fall motion separately.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional Criteria: The student's solution should maintain consistent units (meters, seconds, m/s) throughout the calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Confusing velocity and displacement angles",
+    "description": "Pitfall Criteria: The student incorrectly assumes the angle at C (53° from horizontal) is the velocity direction instead of the displacement direction, or misapplies the tangent relationship.",
+    "weight": -2
+  },
+  {
+    "title": "Sign error in vertical motion",
+    "description": "Pitfall Criteria: The student uses an incorrect sign in the vertical displacement equation (e.g., using y = (1/2)gt² without accounting for downward direction).",
+    "weight": -1
+  }
+]

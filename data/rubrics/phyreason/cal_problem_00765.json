@@ -1,0 +1,47 @@
+[
+  {
+    "title": "First throw final speed",
+    "description": "Essential: Correctly computes the boat's speed after the first throw using momentum conservation, yielding v₁ = 270/295 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Direction reversal count",
+    "description": "Essential: Correctly determines the number of throws (n=11) after which the boat's velocity becomes zero or negative.",
+    "weight": 5
+  },
+  {
+    "title": "16th throw speed change",
+    "description": "Essential: Correctly calculates the change in boat speed (Δv = 2/15 m/s) for the 16th throw with relative velocity.",
+    "weight": 5
+  },
+  {
+    "title": "Momentum conservation setup",
+    "description": "Important: Applies momentum conservation correctly for each scenario, distinguishing between velocities relative to shore and relative to the boat.",
+    "weight": 4
+  },
+  {
+    "title": "General velocity formula",
+    "description": "Important: Derives or uses the correct expression for the boat's velocity after n throws in the shore-relative case (v_n = (300 - 30n)/(300 - 5n)).",
+    "weight": 3
+  },
+  {
+    "title": "Relative velocity handling",
+    "description": "Important: For part (2), correctly expresses the thrown ball's shore velocity as (v_boat + v) when v is relative to the boat.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in reversal",
+    "description": "Pitfall: Incorrectly solves the inequality for direction reversal (e.g., setting v_n > 0 instead of v_n ≤ 0) or makes an arithmetic mistake.",
+    "weight": -2
+  },
+  {
+    "title": "Mass accounting mistake",
+    "description": "Pitfall: Uses incorrect total mass or remaining mass in the momentum equation for a given throw.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Maintains consistent units (kg, m/s) throughout calculations without conversion errors.",
+    "weight": 1
+  }
+]

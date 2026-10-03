@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Answer",
+    "description": "Essential Criteria: The student must provide the correct expression for the phase shift as pi + tan^{-1}(2/rho).",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should correctly apply the boundary conditions for electric and magnetic fields at the interface.",
+    "weight": 4
+  },
+  {
+    "title": "Field Relationships",
+    "description": "Important Criteria: The student must correctly relate the amplitudes of the incident, reflected, and transmitted electric fields.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Shift Calculation",
+    "description": "Important Criteria: The student should derive the phase shift from the reflection coefficient accurately.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student should avoid common sign mistakes in the reflection coefficient calculation.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student should mention the limiting case when rho equals 0 and its implications.",
+    "weight": 2
+  }
+]

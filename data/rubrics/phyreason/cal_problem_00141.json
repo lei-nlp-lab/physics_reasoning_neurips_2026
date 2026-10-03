@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Launch distance to P",
+    "description": "Essential: Correctly calculates the distance from launch point to P as a function of m, v0, q, E, using kinematics in the electric field and the given 30° angle.",
+    "weight": 5
+  },
+  {
+    "title": "Magnetic field range",
+    "description": "Essential: Correctly determines the allowed range for B in terms of m, v0, q, l, based on geometric constraints for exiting between Q and N.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum trajectory distance",
+    "description": "Essential: Correctly calculates the minimum distance to baffle MN when exiting at QN's midpoint, expressed in terms of l.",
+    "weight": 5
+  },
+  {
+    "title": "Electric field kinematics",
+    "description": "Important: Applies constant acceleration equations to find vertical displacement and velocity at P, linking time, acceleration (qE/m), and the 30° condition.",
+    "weight": 4
+  },
+  {
+    "title": "Magnetic circular motion geometry",
+    "description": "Important: Uses geometry of the baffles and the particle's entry/exit conditions to determine the minimum and maximum radii of the circular arc.",
+    "weight": 4
+  },
+  {
+    "title": "Lorentz force centripetal relation",
+    "description": "Important: Applies qvB = mv²/r to relate magnetic field strength, velocity, and radius of curvature.",
+    "weight": 4
+  },
+  {
+    "title": "Velocity at magnetic entry",
+    "description": "Important: Correctly computes the particle's speed upon entering the magnetic field using the 30° angle and v0.",
+    "weight": 3
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Misinterprets the angle (e.g., using 60° instead of 30° for trig relations) or the direction of forces/deflections.",
+    "weight": -2
+  },
+  {
+    "title": "Geometric constraint oversight",
+    "description": "Pitfall: Fails to consider both the minimum and maximum radius constraints needed for the particle to exit between Q and N.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Verifies dimensional consistency of final expressions for distance, B-field, and length.",
+    "weight": 1
+  }
+]

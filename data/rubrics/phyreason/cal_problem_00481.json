@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Electric field magnitude",
+    "description": "Essential: Correctly calculates E = mg tanθ/q = 100000 N/C.",
+    "weight": 5
+  },
+  {
+    "title": "Minimum mechanical energy",
+    "description": "Essential: Final answer for part (2) is 3.85 J (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance at C",
+    "description": "Important: Applies static equilibrium at point C with tension, gravity, and electric force.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's law at D",
+    "description": "Important: Uses N2L at the far-right point D to find minimum speed v_D = 2.5 m/s.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy application",
+    "description": "Important: Applies work-energy theorem between D and the top-right point to find kinetic energy 2.25 J.",
+    "weight": 3
+  },
+  {
+    "title": "Energy conservation setup",
+    "description": "Important: Correctly identifies minimum mechanical energy as sum of gravitational and kinetic energies at appropriate point.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent SI units throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Uses wrong sign for electric potential energy change in work-energy theorem.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting tension at D",
+    "description": "Pitfall: Omits that net centripetal force at D comes from vector sum of mg and qE, not just gravity.",
+    "weight": -2
+  }
+]

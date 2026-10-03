@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Correct Decay Modes",
+    "description": "Essential Criteria: Each particle must have a valid decay mode listed with correct final states.",
+    "weight": 5
+  },
+  {
+    "title": "Neutrino Types",
+    "description": "Important Criteria: Specify the correct type of neutrino for decays involving neutrinos.",
+    "weight": 3
+  },
+  {
+    "title": "Multiple Decay Channels",
+    "description": "Important Criteria: Include multiple decay channels for particles that have them, such as K^0.",
+    "weight": 3
+  },
+  {
+    "title": "Particle Identification",
+    "description": "Important Criteria: Ensure that all particles are correctly identified and matched with their decay modes.",
+    "weight": 4
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: Avoid incorrect signs in decay modes or missing particles in the final states.",
+    "weight": -2
+  }
+]

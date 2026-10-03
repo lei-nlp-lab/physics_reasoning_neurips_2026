@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Fission Description",
+    "description": "Essential Criteria: Clearly describe the nuclear fission process and its initiation.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Release Explanation",
+    "description": "Essential Criteria: Accurately explain why energy is released during fission and provide the correct energy value.",
+    "weight": 5
+  },
+  {
+    "title": "Radioactivity Reasoning",
+    "description": "Essential Criteria: Explain why the fission products are radioactive, focusing on neutron-to-proton ratios.",
+    "weight": 5
+  },
+  {
+    "title": "Moderator Necessity",
+    "description": "Important Criteria: Discuss the role of a moderator in a fission reactor and the preference for light elements.",
+    "weight": 4
+  },
+  {
+    "title": "Binding Energy Concept",
+    "description": "Important Criteria: Include a brief mention of binding energy differences between heavy and medium nuclei.",
+    "weight": 3
+  },
+  {
+    "title": "Units and Values",
+    "description": "Optional Criteria: Use appropriate units when stating energy values and ensure they are consistent.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for common mistakes such as incorrect energy values or misunderstanding of neutron interactions.",
+    "weight": -2
+  }
+]

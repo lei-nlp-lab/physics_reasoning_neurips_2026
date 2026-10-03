@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Correct final B value",
+    "description": "Essential Criteria: The student's final answer for the magnetic induction intensity B must be 2 T (or equivalent with correct units).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance equation",
+    "description": "Important Criteria: The student must correctly set up the static equilibrium condition, relating the magnetic force to the component of gravity along the incline.",
+    "weight": 4
+  },
+  {
+    "title": "Ampere's force law application",
+    "description": "Important Criteria: The student must correctly apply the formula for the magnetic force on a current-carrying conductor, F = BIL.",
+    "weight": 4
+  },
+  {
+    "title": "Free-body diagram or force resolution",
+    "description": "Optional Criteria: The student includes a clear free-body diagram or explicitly resolves the gravitational force into components relative to the inclined rods.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional Criteria: The student demonstrates that the units in their calculation (N, A, m, T) are consistent and lead to the correct unit for B.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect force component",
+    "description": "Pitfall Criteria: The student incorrectly uses Mg, Mg cosθ, or Mg sinθ as the balancing force instead of Mg tanθ, indicating a misunderstanding of the force geometry.",
+    "weight": -2
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: The student makes an error in the direction of the magnetic force or current relative to the field, leading to an incorrect force balance equation.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Accelerating voltage expression",
+    "description": "Essential Criteria: The final answer for part (1) must be correctly expressed as U = mE²/(2eB²) or an equivalent form derived from force balance and energy.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance reasoning",
+    "description": "Important Criteria: The solution must apply the condition eE = evB for the electron's straight-line motion when both fields are present.",
+    "weight": 4
+  },
+  {
+    "title": "Energy from accelerating voltage",
+    "description": "Important Criteria: The solution must relate the kinetic energy gained to the accelerating voltage using eU = (1/2)mv².",
+    "weight": 4
+  },
+  {
+    "title": "Work by electric force",
+    "description": "Essential Criteria: The final answer for part (2) must be correctly expressed as W = (e²L²B²)/(2m) or an equivalent form.",
+    "weight": 5
+  },
+  {
+    "title": "Kinematics for deflection",
+    "description": "Important Criteria: For part (2), the solution must correctly apply kinematics (e.g., y = (1/2)at² with a = eE/m) to find the vertical displacement.",
+    "weight": 3
+  },
+  {
+    "title": "Work calculation method",
+    "description": "Important Criteria: For part (2), the work done must be calculated via W = eEy, linking the vertical displacement to the electric force.",
+    "weight": 3
+  },
+  {
+    "title": "Time of flight relation",
+    "description": "Optional Criteria: The solution may explicitly state the horizontal motion relation L = vt to connect time with other variables.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall Criteria: Penalize incorrect sign handling for the electron's charge in force or work equations (e.g., using +e instead of -e magnitude).",
+    "weight": -2
+  },
+  {
+    "title": "Unit inconsistency",
+    "description": "Pitfall Criteria: Penalize answers with inconsistent or missing units where they are required, or dimensional errors in derived expressions.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Final descent height",
+    "description": "Essential: The answer must be the correct expression for the descent height: h = (2Mg l) / (p0 S + Mg).",
+    "weight": 5
+  },
+  {
+    "title": "Final gas pressure",
+    "description": "Essential: The answer for part (2) must be p0 (atmospheric pressure).",
+    "weight": 5
+  },
+  {
+    "title": "Force balance equilibrium",
+    "description": "Important: The solution must apply static equilibrium to find the gas pressure when vertical: pS = p0 S + Mg.",
+    "weight": 4
+  },
+  {
+    "title": "Isothermal process application",
+    "description": "Important: The solution must correctly apply Boyle's law (pV constant) for the initial rotation, relating p0, l, p, and h.",
+    "weight": 4
+  },
+  {
+    "title": "Process identification for cooling",
+    "description": "Important: The solution must identify that after descent, cooling first occurs at constant volume until the piston hits the baffles.",
+    "weight": 3
+  },
+  {
+    "title": "Temperature comparison step",
+    "description": "Optional: The solution may explicitly calculate and compare the temperature when the piston reaches the baffles to T0/2.",
+    "weight": 2
+  },
+  {
+    "title": "Isochoric pressure calculation",
+    "description": "Important: The solution must apply Charles's/Gay-Lussac's law (p/T constant) for the constant-volume cooling to find the final pressure.",
+    "weight": 4
+  },
+  {
+    "title": "Sign or force direction error",
+    "description": "Pitfall: Incorrect force balance (e.g., pS = p0 S - Mg) or misidentifying the process (e.g., assuming isobaric cooling).",
+    "weight": -2
+  },
+  {
+    "title": "Volume or length mistake",
+    "description": "Pitfall: Using incorrect initial/final volumes (e.g., using 2l instead of 2l - h for the gas column after descent).",
+    "weight": -1
+  }
+]

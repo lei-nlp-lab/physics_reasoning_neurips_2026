@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Stopwatch time per revolution",
+    "description": "Essential: Correctly applies time dilation to find the proper time for one revolution, yielding the expression with the Lorentz factor.",
+    "weight": 5
+  },
+  {
+    "title": "Lab frame clock offset",
+    "description": "Essential: States that in the lab frame, the two stationary clocks are synchronized, so their offset is zero.",
+    "weight": 5
+  },
+  {
+    "title": "Clock A time in CIRF",
+    "description": "Important: Correctly applies time dilation from the moving clock (Carla's stopwatch) to the lab clock (A) as observed in CIRF.",
+    "weight": 4
+  },
+  {
+    "title": "Clock B time in CIRF",
+    "description": "Important: Derives the expression for Clock B's reading in CIRF, combining time dilation and the relativity of simultaneity term.",
+    "weight": 4
+  },
+  {
+    "title": "Time dilation reasoning",
+    "description": "Important: Identifies and correctly applies the time dilation formula for a moving clock relative to an inertial frame.",
+    "weight": 3
+  },
+  {
+    "title": "Relativity of simultaneity",
+    "description": "Important: Recognizes that Clock B is not synchronized with Clock A in the moving CIRF, leading to a positional time offset.",
+    "weight": 3
+  },
+  {
+    "title": "Correct angular argument",
+    "description": "Optional: Correctly relates the elapsed proper time τ to the angular position (θ) of Carla on the track in the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Misapplied time dilation direction",
+    "description": "Pitfall: Reverses the time dilation factor (e.g., uses γτ instead of τ/γ) when relating proper time to coordinate time.",
+    "weight": -2
+  },
+  {
+    "title": "Ignoring clock offset in CIRF",
+    "description": "Pitfall: For Clock B in CIRF, omits the sinusoidal term from the relativity of simultaneity, giving only the dilated time.",
+    "weight": -2
+  },
+  {
+    "title": "Non-zero lab frame offset",
+    "description": "Pitfall: Incorrectly claims a non-zero time offset between the two stationary clocks in the lab frame.",
+    "weight": -1
+  }
+]

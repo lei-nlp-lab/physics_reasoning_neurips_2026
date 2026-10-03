@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Average speed calculation",
+    "description": "Essential: The student's final answer for average speed must be 4 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Average velocity calculation",
+    "description": "Essential: The student's final answer for average velocity must be 0 m/s.",
+    "weight": 5
+  },
+  {
+    "title": "Correct distance for speed",
+    "description": "Important: The student must use the total path length (200 m) in the average speed formula.",
+    "weight": 3
+  },
+  {
+    "title": "Correct displacement for velocity",
+    "description": "Important: The student must recognize that displacement is zero for a closed loop and apply it to the average velocity formula.",
+    "weight": 3
+  },
+  {
+    "title": "Distinguishing speed and velocity",
+    "description": "Important: The response must clearly differentiate between the scalar (speed) and vector (velocity) quantities.",
+    "weight": 2
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: The final answers should include correct units (m/s).",
+    "weight": 1
+  },
+  {
+    "title": "Confusing speed with velocity",
+    "description": "Pitfall: Award a penalty if the student gives the same numerical answer for both parts, confusing the two concepts.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect time or distance",
+    "description": "Pitfall: Award a penalty if the student uses an incorrect value for time (not 50 s) or distance (not 200 m) in a calculation.",
+    "weight": -1
+  }
+]

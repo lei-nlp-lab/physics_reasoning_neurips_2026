@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final State Expression",
+    "description": "Essential Criteria: The student must provide the correct expression for the state of the electron at time T.",
+    "weight": 5
+  },
+  {
+    "title": "Perturbation Treatment",
+    "description": "Important Criteria: The student should correctly apply time-dependent perturbation theory to analyze the effect of the magnetic field.",
+    "weight": 4
+  },
+  {
+    "title": "Eigenstate Verification",
+    "description": "Important Criteria: The student must demonstrate that the final state is an eigenstate of the Hamiltonian with the correct eigenvalue.",
+    "weight": 4
+  },
+  {
+    "title": "Sufficient Time Explanation",
+    "description": "Important Criteria: The student should explain what is meant by 'sufficiently long' in the context of time T.",
+    "weight": 3
+  },
+  {
+    "title": "Perturbation Hamiltonian",
+    "description": "Optional Criteria: The student may include the correct form of the perturbation Hamiltonian used in the calculations.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as sign mistakes or neglecting terms of order (H_x/H_z)^2.",
+    "weight": -2
+  },
+  {
+    "title": "Integration Steps",
+    "description": "Optional Criteria: The student may show the integration steps clearly for calculating the coefficient a_-.",
+    "weight": 2
+  },
+  {
+    "title": "Physical Interpretation",
+    "description": "Optional Criteria: The student may provide a physical interpretation of the results obtained.",
+    "weight": 1
+  }
+]

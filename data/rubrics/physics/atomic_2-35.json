@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Alpha Radioactivity Explanation",
+    "description": "Essential Criteria: Provide a clear argument for why heavy nuclei are alpha-radioactive and stable against neutron-emission.",
+    "weight": 5
+  },
+  {
+    "title": "Nuclear Radius Methods",
+    "description": "Important Criteria: Describe the two categories of methods used to determine nuclear radii and their principles.",
+    "weight": 4
+  },
+  {
+    "title": "Ground State Properties",
+    "description": "Essential Criteria: Identify the properties that define a system of nucleons in its lowest energy state.",
+    "weight": 5
+  },
+  {
+    "title": "Fission Cross Section Explanation",
+    "description": "Important Criteria: Explain the relationship between neutron number and fission cross sections for uranium isotopes.",
+    "weight": 4
+  },
+  {
+    "title": "Binding Energy Discussion",
+    "description": "Optional Criteria: Discuss the significance of binding energy in the context of neutron-emission and fission.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Watch for errors in understanding the conditions under which neutron-emission occurs.",
+    "weight": -2
+  },
+  {
+    "title": "Units and Constants",
+    "description": "Optional Criteria: Ensure correct use of units and constants when discussing nuclear radii and cross sections.",
+    "weight": 2
+  },
+  {
+    "title": "Excitation Energy Clarification",
+    "description": "Important Criteria: Clarify how excitation energy relates to fission barriers and the likelihood of fission occurring.",
+    "weight": 4
+  }
+]

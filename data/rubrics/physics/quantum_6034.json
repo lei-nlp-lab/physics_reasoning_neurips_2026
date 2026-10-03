@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Final Cross Section",
+    "description": "Essential Criteria: The total scattering cross section must be correctly stated as sigma_t = 4πa^2[(tan(k_0 a)/k_0 a) - 1]^2.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Pauli Matrices",
+    "description": "Important Criteria: The response should correctly apply the Pauli spin matrices to determine the interaction potential.",
+    "weight": 4
+  },
+  {
+    "title": "Wave Function Continuity",
+    "description": "Important Criteria: The student must demonstrate understanding of the continuity conditions for the wave function at r = a.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Cross Section",
+    "description": "Important Criteria: The derivation of the differential cross section must be included, showing the relationship to the phase shift.",
+    "weight": 3
+  },
+  {
+    "title": "Limiting Case Analysis",
+    "description": "Optional Criteria: The response should consider the limiting case as E approaches zero and how it affects k_1.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of the Pauli exclusion principle or sign mistakes in the potential.",
+    "weight": -2
+  },
+  {
+    "title": "Symmetry Consideration",
+    "description": "Important Criteria: The response must acknowledge the symmetry of the s-wave and the requirement for antisymmetry in the spin state.",
+    "weight": 3
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 1
+  }
+]

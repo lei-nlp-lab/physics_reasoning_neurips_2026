@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Final Reflection Coefficient",
+    "description": "Essential Criteria: The student must provide the correct expression for the amplitude reflection coefficient r_p.",
+    "weight": 5
+  },
+  {
+    "title": "Final Transmission Coefficient",
+    "description": "Essential Criteria: The student must provide the correct expression for the amplitude transmission coefficient t_p.",
+    "weight": 5
+  },
+  {
+    "title": "Final Reflection Coefficient (s)",
+    "description": "Essential Criteria: The student must provide the correct expression for the amplitude reflection coefficient r_s.",
+    "weight": 5
+  },
+  {
+    "title": "Final Transmission Coefficient (s)",
+    "description": "Essential Criteria: The student must provide the correct expression for the amplitude transmission coefficient t_s.",
+    "weight": 5
+  },
+  {
+    "title": "Brewster's Law",
+    "description": "Essential Criteria: The student must derive Brewster's law correctly as a special case of the Fresnel equations.",
+    "weight": 5
+  },
+  {
+    "title": "Boundary Conditions",
+    "description": "Important Criteria: The student should correctly apply the boundary conditions for electric and magnetic fields at the interface.",
+    "weight": 4
+  },
+  {
+    "title": "Snell's Law Application",
+    "description": "Important Criteria: The student must correctly apply Snell's law in the derivation process.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 2
+  },
+  {
+    "title": "Common Sign Errors",
+    "description": "Pitfall Criteria: The student may make common sign errors in the reflection and transmission coefficients.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student may omit necessary factors in the final expressions for r_p, t_p, r_s, and t_s.",
+    "weight": -2
+  }
+]

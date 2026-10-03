@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension in OA",
+    "description": "Essential: Correct expression for tension in string OA, derived from vertical equilibrium at knot O.",
+    "weight": 5
+  },
+  {
+    "title": "Tension in OB",
+    "description": "Essential: Correct expression for tension in string OB, derived from horizontal equilibrium at knot O.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum friction force",
+    "description": "Important: Correct calculation of maximum static friction force on object C, using given coefficient and normal force.",
+    "weight": 4
+  },
+  {
+    "title": "Equilibrium for object C",
+    "description": "Important: Recognition that horizontal tension OB equals the friction force when object C is about to slide.",
+    "weight": 4
+  },
+  {
+    "title": "Maximum mass m1",
+    "description": "Essential: Correct final numerical value for the maximum mass m1, with correct units.",
+    "weight": 5
+  },
+  {
+    "title": "Trigonometric application",
+    "description": "Important: Correct use of given sine and cosine values (or tan) in force component resolutions.",
+    "weight": 3
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Explicit unit analysis or inclusion of units in intermediate steps.",
+    "weight": 1
+  },
+  {
+    "title": "Sign or direction error",
+    "description": "Pitfall: Incorrect sign in force balance (e.g., wrong direction for tension or friction).",
+    "weight": -2
+  },
+  {
+    "title": "Angle misuse",
+    "description": "Pitfall: Confusing sine and cosine when resolving forces for the given angle.",
+    "weight": -2
+  }
+]

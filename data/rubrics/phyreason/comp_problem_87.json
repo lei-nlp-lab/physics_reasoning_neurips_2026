@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Essential: Final coil currents",
+    "description": "Essential Criteria: States that the required proton coil currents are i'_n = -35.0 i_n (or equivalent numerical factor).",
+    "weight": 5
+  },
+  {
+    "title": "Essential: Resolving power factor",
+    "description": "Essential Criteria: States that the resolving power increases by a factor of 35 (or equivalent ratio).",
+    "weight": 5
+  },
+  {
+    "title": "Important: Momentum ratio derivation",
+    "description": "Important Criteria: Correctly applies relativistic energy-momentum relation to find p'/p = 1/35 (or p/p' = 35).",
+    "weight": 4
+  },
+  {
+    "title": "Important: Magnetic field scaling",
+    "description": "Important Criteria: Derives that the required magnetic field scales as B' = -(p'/p) B to maintain the same trajectory.",
+    "weight": 4
+  },
+  {
+    "title": "Important: Current-field proportionality",
+    "description": "Important Criteria: Recognizes that coil current is proportional to the magnetic field (i.e., B ∝ i) for the same geometry.",
+    "weight": 3
+  },
+  {
+    "title": "Optional: Relativistic energy consideration",
+    "description": "Optional Criteria: Explicitly notes that the electron is highly relativistic (K=E_e) while the proton is non-relativistic.",
+    "weight": 2
+  },
+  {
+    "title": "Optional: De Broglie wavelength link",
+    "description": "Optional Criteria: Connects resolving power to de Broglie wavelength (λ = h/p) and thus to momentum.",
+    "weight": 1
+  },
+  {
+    "title": "Pitfall: Sign error in currents",
+    "description": "Pitfall Criteria: Fails to include the negative sign indicating reversed current direction for the proton.",
+    "weight": -2
+  },
+  {
+    "title": "Pitfall: Non-relativistic assumption",
+    "description": "Pitfall Criteria: Incorrectly uses non-relativistic kinematics for the electron's momentum.",
+    "weight": -2
+  }
+]

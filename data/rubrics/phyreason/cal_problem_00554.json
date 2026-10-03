@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct formula application",
+    "description": "Essential Criteria: Student must correctly apply the formula F = BIL for Ampere force on a straight wire.",
+    "weight": 5
+  },
+  {
+    "title": "Correct numerical answer",
+    "description": "Essential Criteria: Student must arrive at the final answer of 0.5 N (or equivalent).",
+    "weight": 5
+  },
+  {
+    "title": "Unit inclusion",
+    "description": "Important Criteria: Student must include the correct unit (N) with their numerical answer.",
+    "weight": 3
+  },
+  {
+    "title": "Angle consideration",
+    "description": "Important Criteria: Student must recognize that the wire is perpendicular to the field, making sinθ = 1 in the formula F = BILsinθ.",
+    "weight": 4
+  },
+  {
+    "title": "Substitution accuracy",
+    "description": "Important Criteria: Student must correctly substitute all given values (B=0.5 T, I=2 A, L=0.5 m) into the formula.",
+    "weight": 4
+  },
+  {
+    "title": "Missing sinθ factor",
+    "description": "Pitfall Criteria: Student uses F = BIL without justifying sinθ = 1 for perpendicular orientation.",
+    "weight": -1
+  },
+  {
+    "title": "Unit conversion error",
+    "description": "Pitfall Criteria: Student incorrectly converts units or omits them entirely in the final answer.",
+    "weight": -2
+  },
+  {
+    "title": "Direction specification",
+    "description": "Optional Criteria: Student may use the right-hand rule to determine the direction of the force.",
+    "weight": 1
+  }
+]

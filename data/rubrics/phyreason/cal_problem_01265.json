@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tension in OA",
+    "description": "Essential: Correctly calculates tension in rope OA as m_A * g = 50 N.",
+    "weight": 5
+  },
+  {
+    "title": "Tension in OB",
+    "description": "Important: Recognizes that tension in OB equals tension in OA due to equilibrium at knot O.",
+    "weight": 4
+  },
+  {
+    "title": "Tension in OP",
+    "description": "Essential: Correctly computes tension in OP using vector addition (Pythagorean theorem) to get 50√2 N.",
+    "weight": 5
+  },
+  {
+    "title": "Friction on B",
+    "description": "Essential: Correctly identifies static friction on B equals tension in OB (50 N) for equilibrium.",
+    "weight": 5
+  },
+  {
+    "title": "Force equilibrium at knot",
+    "description": "Important: Applies equilibrium conditions at point O, resolving forces horizontally and vertically.",
+    "weight": 3
+  },
+  {
+    "title": "Angle consideration",
+    "description": "Optional: Mentions that the 45° angle ensures equal horizontal/vertical components from OP at O.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency",
+    "description": "Optional: Maintains consistent units (N) throughout calculations.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect vector resolution",
+    "description": "Pitfall: Misapplies angle (e.g., uses 45° incorrectly for OP components) or omits vector addition.",
+    "weight": -2
+  },
+  {
+    "title": "Forgetting friction direction",
+    "description": "Pitfall: Fails to recognize friction opposes tension in OB or assigns wrong sign.",
+    "weight": -1
+  }
+]

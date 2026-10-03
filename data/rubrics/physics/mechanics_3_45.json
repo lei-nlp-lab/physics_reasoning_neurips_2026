@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Final Exponents",
+    "description": "Essential Criteria: The student must correctly identify the exponents lambda_1, lambda_2, and lambda_3 as solutions to the equations of motion.",
+    "weight": 5
+  },
+  {
+    "title": "Condition for Boundedness",
+    "description": "Essential Criteria: The student must state the condition a <= cb or |E| <= c|B| for all components of the four-velocity to be bounded.",
+    "weight": 5
+  },
+  {
+    "title": "Lorentz Force Equation",
+    "description": "Important Criteria: The student should correctly express the Lorentz force acting on the particle in terms of E and B.",
+    "weight": 4
+  },
+  {
+    "title": "Differential Equations",
+    "description": "Important Criteria: The student must derive the correct differential equations for the components of the four-velocity.",
+    "weight": 4
+  },
+  {
+    "title": "Superposition Concept",
+    "description": "Optional Criteria: The student should mention that the solutions can be expressed as superpositions of exponentials.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign mistakes when deriving the equations of motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Pitfall Criteria: The student should ensure that all units are consistent throughout the derivation.",
+    "weight": -1
+  }
+]

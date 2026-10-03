@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct pressure equation",
+    "description": "Essential: The student's final expression for P(t) must be P(t) = P_a * exp(-Rt/V).",
+    "weight": 5
+  },
+  {
+    "title": "Correct temperature expression",
+    "description": "Essential: The student's final expression for T_out(t) must be T_a * exp(2Rt/(5V)).",
+    "weight": 5
+  },
+  {
+    "title": "Correct minimum pressure",
+    "description": "Essential: The student's final expression for P_min must be P_a * (1 + ΔV/V_0)^(-γ).",
+    "weight": 5
+  },
+  {
+    "title": "Model of pressure reduction per cycle",
+    "description": "Important: The solution must derive or state that each pump cycle reduces chamber pressure by a factor of V/(V+ΔV).",
+    "weight": 4
+  },
+  {
+    "title": "Application of adiabatic relation",
+    "description": "Important: For parts (b) and (c), the solution must correctly apply the adiabatic condition (P*V^γ constant or equivalent) for the gas in the pump cylinder.",
+    "weight": 4
+  },
+  {
+    "title": "Use of exponential approximation",
+    "description": "Important: For part (a), the solution must convert the discrete cycle model to a continuous exponential decay using the limit (1+x)^(1/x) → e.",
+    "weight": 3
+  },
+  {
+    "title": "Identification of γ for monatomic gas",
+    "description": "Optional: The solution may explicitly state γ = 5/3 for a monatomic ideal gas when simplifying expressions.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in exponent",
+    "description": "Pitfall: Penalize if the pressure or temperature time dependence has the wrong sign (e.g., +Rt/V instead of -Rt/V).",
+    "weight": -2
+  },
+  {
+    "title": "Confusion between V and V_0",
+    "description": "Pitfall: Penalize if the expression for P_min incorrectly uses the large chamber volume V instead of the pump's minimum volume V_0.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect adiabatic exponent",
+    "description": "Pitfall: Penalize if the wrong value of γ is used in the adiabatic relations, leading to an incorrect numerical factor (e.g., 2/5 vs 2/3).",
+    "weight": -1
+  }
+]

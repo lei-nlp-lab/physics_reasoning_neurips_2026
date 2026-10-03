@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Orthogonality Conditions",
+    "description": "Essential Criteria: The student must demonstrate that H is orthogonal to E, D, and K.",
+    "weight": 5
+  },
+  {
+    "title": "Transverse Properties",
+    "description": "Essential Criteria: The student must correctly state that D and H are transverse to K, while E is not.",
+    "weight": 5
+  },
+  {
+    "title": "Component Equation",
+    "description": "Important Criteria: The student must derive the equation S_j sum(i=1 to 3) S_i E_i + (V^2/V_j^2 - 1) E_j = 0.",
+    "weight": 4
+  },
+  {
+    "title": "Phase Velocity Equation",
+    "description": "Important Criteria: The student must write the equation for phase velocity V in terms of S and V_j.",
+    "weight": 4
+  },
+  {
+    "title": "Roots of Propagation",
+    "description": "Important Criteria: The student must show that the derived equation has two finite roots for V^2.",
+    "weight": 4
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student must avoid sign mistakes or incorrect assumptions about the transverse nature of E.",
+    "weight": -2
+  },
+  {
+    "title": "Units Consistency",
+    "description": "Optional Criteria: The student should check that all units are consistent throughout the derivation.",
+    "weight": 1
+  },
+  {
+    "title": "Limiting Cases",
+    "description": "Optional Criteria: The student may discuss limiting cases or special scenarios for the derived equations.",
+    "weight": 1
+  }
+]

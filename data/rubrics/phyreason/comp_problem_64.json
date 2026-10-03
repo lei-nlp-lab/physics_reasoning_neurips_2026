@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Volume at leak start",
+    "description": "Essential: Correctly states the volume of the lower chamber when leaking begins as V_0 = V(1+x)^{-3/5}.",
+    "weight": 5
+  },
+  {
+    "title": "Upper chamber temperature",
+    "description": "Essential: Correctly states the final temperature in the upper chamber as T_1 = (T/2)[(1+(1+x)^{3/5})^{5/3} - x].",
+    "weight": 5
+  },
+  {
+    "title": "Lower chamber temperature",
+    "description": "Essential: Correctly states the final temperature in the lower chamber as T_2 = T(1+(1+x)^{3/5})^{2/3}.",
+    "weight": 5
+  },
+  {
+    "title": "Adiabatic process application",
+    "description": "Important: Applies the adiabatic condition (pV^γ = constant or TV^{γ-1} = constant) to the compression of the gas in the lower chamber before leaking.",
+    "weight": 4
+  },
+  {
+    "title": "Pressure balance condition",
+    "description": "Important: Identifies that leaking starts when the pressure difference between chambers equals the weight of the diaphragm per area (Δp = mgH/V = px).",
+    "weight": 4
+  },
+  {
+    "title": "First law for upper chamber",
+    "description": "Important: Applies the first law of thermodynamics (adiabatic, Q=0) and ideal gas law to relate state changes in the upper chamber after the leak.",
+    "weight": 3
+  },
+  {
+    "title": "Consistent variable definition",
+    "description": "Optional: Correctly uses the given parameter x = mgH/(pV) in all final expressions.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in pressure",
+    "description": "Pitfall: Uses incorrect sign for the pressure difference (e.g., p_upper = p_lower + Δp) when applying the diaphragm weight condition.",
+    "weight": -2
+  },
+  {
+    "title": "Adiabatic exponent mistake",
+    "description": "Pitfall: Uses an incorrect adiabatic index (γ) for monatomic helium (should be 5/3, not 7/5 or other).",
+    "weight": -2
+  }
+]

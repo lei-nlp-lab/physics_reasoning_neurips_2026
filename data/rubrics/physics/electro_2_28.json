@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Power Calculation",
+    "description": "Essential Criteria: The student must correctly calculate the power required as P = 9.5 x 10^4 W.",
+    "weight": 5
+  },
+  {
+    "title": "Weight of Copper",
+    "description": "Essential Criteria: The student must correctly determine the weight of the necessary copper as 3.8 kg.",
+    "weight": 5
+  },
+  {
+    "title": "Force of Attraction",
+    "description": "Essential Criteria: The student must accurately compute the force of attraction as F = 8 x 10^5 N.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Ampère's Law",
+    "description": "Important Criteria: The student should apply Ampère's circuital law correctly in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Current Density Application",
+    "description": "Important Criteria: The student must correctly use the maximum current density to find the necessary current and cross-sectional area.",
+    "weight": 4
+  },
+  {
+    "title": "Resistivity Usage",
+    "description": "Important Criteria: The student should correctly incorporate the resistivity of copper in the power calculation.",
+    "weight": 4
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: The student should ensure that all units are consistent throughout the calculations.",
+    "weight": 3
+  },
+  {
+    "title": "Final Answer Formatting",
+    "description": "Optional Criteria: The student should present final answers clearly and in the correct format.",
+    "weight": 3
+  },
+  {
+    "title": "Sign Errors",
+    "description": "Pitfall Criteria: The student must avoid common sign errors in calculations, especially in power and force.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: The student should not omit any necessary factors in the equations used for calculations.",
+    "weight": -2
+  }
+]

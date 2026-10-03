@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Threshold Energy Calculation",
+    "description": "Essential Criteria: The correct expression for the threshold kinetic energy T must be derived and presented accurately.",
+    "weight": 5
+  },
+  {
+    "title": "Final Value Evaluation",
+    "description": "Essential Criteria: The final numerical value of T must be calculated correctly as 286.2 MeV.",
+    "weight": 5
+  },
+  {
+    "title": "Probability Expression",
+    "description": "Important Criteria: The expression for the normalized probability of producing a pi+ per unit solid angle must be correctly derived.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics Understanding",
+    "description": "Important Criteria: The relationship between the center-of-mass and laboratory frames must be clearly articulated in the context of the problem.",
+    "weight": 4
+  },
+  {
+    "title": "Singularity Explanation",
+    "description": "Important Criteria: A brief explanation of how the singularity in the probability relates to the kinematics of the reaction must be provided.",
+    "weight": 3
+  },
+  {
+    "title": "Unit Consistency",
+    "description": "Optional Criteria: All units in the calculations should be consistent and correctly applied throughout the solution.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Any sign mistakes or incorrect factors in the derivation of T or the probability expression must be penalized.",
+    "weight": -2
+  },
+  {
+    "title": "Missing Factors",
+    "description": "Pitfall Criteria: Missing or incorrect factors in the final expressions for T or the probability must be noted.",
+    "weight": -1
+  }
+]

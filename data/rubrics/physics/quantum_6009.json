@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Wave Function Expression",
+    "description": "Essential Criteria: The wave function for elastic scattering must be correctly expressed in its partial wave expansion form.",
+    "weight": 5
+  },
+  {
+    "title": "Phase Shift Behavior",
+    "description": "Important Criteria: The qualitative description of how phase shifts vary with energy near the unstable levels must be accurate.",
+    "weight": 4
+  },
+  {
+    "title": "Angular Distribution Impact",
+    "description": "Important Criteria: The explanation of how the variation in phase shifts affects the angular distribution of alpha particles must be clear and relevant.",
+    "weight": 4
+  },
+  {
+    "title": "Coulomb and Nuclear Forces",
+    "description": "Optional Criteria: Mentioning the roles of Coulomb and nuclear forces in the scattering process adds depth to the response.",
+    "weight": 2
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: Failing to account for the correct angular momentum quantum numbers or misrepresenting the phase shifts can lead to significant errors.",
+    "weight": -2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Correct distance calculation",
+    "description": "Essential: The final numerical answer for the distance to the seismic source must be approximately 34 km.",
+    "weight": 5
+  },
+  {
+    "title": "Correct wave type identified",
+    "description": "Essential: The answer for the first observed motion must state it was vertical oscillation (or up-and-down vibration).",
+    "weight": 5
+  },
+  {
+    "title": "Setup time difference equation",
+    "description": "Important: The solution must set up the correct equation relating distance, wave speeds, and arrival time difference: s/v_S - s/v_P = Δt or equivalent.",
+    "weight": 4
+  },
+  {
+    "title": "Interpret P-wave and S-wave properties",
+    "description": "Important: The reasoning must correctly associate P-waves with longitudinal/compressional motion (vertical oscillation) and S-waves with transverse motion (horizontal shaking).",
+    "weight": 3
+  },
+  {
+    "title": "Algebraic manipulation",
+    "description": "Optional: The solution shows clear algebraic steps to solve the distance equation for the variable s.",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: The solution demonstrates unit conversion or verification that the final distance is in kilometers.",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect time difference equation",
+    "description": "Pitfall: Penalize if the student incorrectly sets the time difference as t = s/v_P - s/v_S (wrong order), leading to a negative or incorrect distance.",
+    "weight": -2
+  },
+  {
+    "title": "Confusion of wave motion types",
+    "description": "Pitfall: Penalize if the student incorrectly states the first observed motion was horizontal shaking, confusing the properties of P and S waves.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Velocity of rod cd",
+    "description": "Essential: The final answer for part (1) is correctly given as v_t = mgR / (B²L²).",
+    "weight": 5
+  },
+  {
+    "title": "Electrical energy generated",
+    "description": "Essential: The final answer for part (2) is correctly given as E_cd = (2m²g²Rt)/(B²L²) - (5m³g²R²)/(B⁴L⁴).",
+    "weight": 5
+  },
+  {
+    "title": "Maximum current in rod ab",
+    "description": "Essential: The final answer for part (3) is correctly given as I_max = 2mg / (3BL).",
+    "weight": 5
+  },
+  {
+    "title": "Application of Newton's second law",
+    "description": "Important: Correctly sets up force balance equations for both rods, including gravity, magnetic force, and acceleration.",
+    "weight": 4
+  },
+  {
+    "title": "Faraday's and Ohm's laws",
+    "description": "Important: Correctly applies Faraday's law to find induced EMF and Ohm's law to find the circuit current.",
+    "weight": 4
+  },
+  {
+    "title": "System kinematics and constraint",
+    "description": "Important: Recognizes and applies the condition that rod ab just leaves the posts at time t, linking the motion of the two rods.",
+    "weight": 3
+  },
+  {
+    "title": "Energy or impulse-momentum analysis",
+    "description": "Optional: Uses an energy work theorem or impulse-momentum theorem to relate forces, motion, and the generated electrical energy.",
+    "weight": 2
+  },
+  {
+    "title": "Sign error in magnetic force",
+    "description": "Pitfall: Incorrectly assigns the direction of the magnetic force on either rod, leading to wrong force equations.",
+    "weight": -2
+  },
+  {
+    "title": "Circuit resistance mistake",
+    "description": "Pitfall: Uses an incorrect total circuit resistance (e.g., R instead of 2R) when applying Ohm's law.",
+    "weight": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Coefficient of kinetic friction",
+    "description": "Essential: The response must correctly calculate the coefficient of kinetic friction, μ = tan(30°) ≈ 0.577 or √3/3, from the condition of constant speed sliding down.",
+    "weight": 5
+  },
+  {
+    "title": "Acceleration up the incline",
+    "description": "Essential: The response must correctly calculate the acceleration a = 5 m/s² for the block moving up, using Newton's second law with the applied force, gravity, and friction.",
+    "weight": 5
+  },
+  {
+    "title": "Time of force application",
+    "description": "Essential: The response must correctly calculate the time t = 2 s for which the force is applied, ensuring the block just reaches the top.",
+    "weight": 5
+  },
+  {
+    "title": "Force balance for constant speed",
+    "description": "Important: The solution must establish the force equilibrium (mg sinθ = μ mg cosθ) for the block sliding down at constant speed to find μ.",
+    "weight": 4
+  },
+  {
+    "title": "Newton's second law application",
+    "description": "Important: The solution must correctly apply Newton's second law separately for the upward acceleration phase and the subsequent deceleration phase after F is removed.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics linking phases",
+    "description": "Important: The solution must correctly use kinematics (v = at, v² = 2a'x₂) to relate the velocity, time, and displacements of the two motion phases.",
+    "weight": 3
+  },
+  {
+    "title": "Total distance constraint",
+    "description": "Important: The solution must enforce the geometric constraint that the sum of the displacements in the two phases equals the incline length (x₁ + x₂ = l).",
+    "weight": 3
+  },
+  {
+    "title": "Sign/direction error in forces",
+    "description": "Pitfall: Penalize if friction or gravitational force components have incorrect signs/directions in the equations of motion for the upward or deceleration phases.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect deceleration magnitude",
+    "description": "Pitfall: Penalize if the deceleration a' after force removal is not correctly calculated as g sinθ + μ g cosθ = 10 m/s².",
+    "weight": -2
+  }
+]

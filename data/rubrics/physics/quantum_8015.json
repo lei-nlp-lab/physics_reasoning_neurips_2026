@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Final Condition",
+    "description": "Essential Criteria: The student must correctly state the condition for non-vanishing scattering as the Bragg law equations for the lattice vectors.",
+    "weight": 5
+  },
+  {
+    "title": "Use of Born Approximation",
+    "description": "Important Criteria: The student should demonstrate an understanding of the Born approximation in the context of scattering.",
+    "weight": 4
+  },
+  {
+    "title": "Integral Evaluation",
+    "description": "Important Criteria: The student must show the evaluation of the integral involving the potential and the exponential term.",
+    "weight": 4
+  },
+  {
+    "title": "Lattice Points Sum",
+    "description": "Important Criteria: The student should explain the significance of the sum over lattice points and its relation to the scattering condition.",
+    "weight": 3
+  },
+  {
+    "title": "Common Errors",
+    "description": "Pitfall Criteria: The student should avoid common errors such as incorrect application of the exponential term or misinterpretation of the lattice vectors.",
+    "weight": -2
+  }
+]

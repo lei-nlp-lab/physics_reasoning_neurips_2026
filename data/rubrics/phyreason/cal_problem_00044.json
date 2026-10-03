@@ -1,0 +1,52 @@
+[
+  {
+    "title": "First collision velocities",
+    "description": "Essential: Correctly states the magnitudes of the velocities of the ball and disk immediately after the first collision as √(2gl)/2 for each.",
+    "weight": 5
+  },
+  {
+    "title": "Maximum separation distance",
+    "description": "Essential: Correctly identifies the maximum separation between the ball and disk after the first collision as l.",
+    "weight": 5
+  },
+  {
+    "title": "Total collision count",
+    "description": "Essential: Correctly states the total number of collisions as the disk moves through the tube is 4.",
+    "weight": 5
+  },
+  {
+    "title": "Energy and momentum application",
+    "description": "Important: Applies conservation of energy to find the ball's speed before the first collision and conservation of momentum and relative speed reversal for elastic collisions.",
+    "weight": 4
+  },
+  {
+    "title": "Kinematics for separation",
+    "description": "Important: Uses relative motion or kinematic equations to find the time and distance of maximum separation after the first collision.",
+    "weight": 3
+  },
+  {
+    "title": "Disk motion with friction",
+    "description": "Important: Correctly models the disk's motion with constant kinetic friction (deceleration = g) between collisions.",
+    "weight": 4
+  },
+  {
+    "title": "Sequence analysis",
+    "description": "Important: Systematically tracks velocities and positions after each collision to determine the collision count before the disk exits.",
+    "weight": 4
+  },
+  {
+    "title": "Sign error in velocities",
+    "description": "Pitfall: Assigns incorrect signs to velocities (e.g., direction) after collisions, leading to wrong kinematics.",
+    "weight": -2
+  },
+  {
+    "title": "Friction or kinematics mistake",
+    "description": "Pitfall: Incorrectly applies the friction force to the disk's acceleration or makes an error in the kinematic equations for relative motion.",
+    "weight": -2
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: Demonstrates unit analysis for velocities (√(gl)) and distances (l) to verify dimensional correctness.",
+    "weight": 1
+  }
+]

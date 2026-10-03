@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Correct current expression",
+    "description": "Essential: The response must provide the instantaneous current in the form i = I_m sin(ωt) with correct numerical values for I_m and ω.",
+    "weight": 5
+  },
+  {
+    "title": "Correct external resistor power",
+    "description": "Essential: The response must give the power consumed by the external resistor as a numerical value with correct units (W).",
+    "weight": 5
+  },
+  {
+    "title": "Correct external force power",
+    "description": "Essential: The response must give the power of the external forces as a numerical value with correct units (W).",
+    "weight": 5
+  },
+  {
+    "title": "Application of Faraday's law",
+    "description": "Important: The solution should correctly calculate the maximum induced EMF using E_m = n B S ω.",
+    "weight": 3
+  },
+  {
+    "title": "Use of circuit Ohm's law",
+    "description": "Important: The solution should correctly relate maximum current to maximum EMF using I_m = E_m / (R + r).",
+    "weight": 3
+  },
+  {
+    "title": "Use of effective current value",
+    "description": "Important: For power calculations, the solution must use the effective (RMS) current, I = I_m / √2.",
+    "weight": 3
+  },
+  {
+    "title": "Correct phase and timing",
+    "description": "Optional: The sinusoidal function should be sine (not cosine) based on the given initial condition (t=0 when coil plane is perpendicular to B).",
+    "weight": 1
+  },
+  {
+    "title": "Unit consistency check",
+    "description": "Optional: All intermediate calculations should maintain consistent SI units (Tesla, meters, radians/second).",
+    "weight": 1
+  },
+  {
+    "title": "Incorrect total resistance",
+    "description": "Pitfall: Penalize if the student uses only R or only r instead of the total resistance (R+r) in the current or power calculations.",
+    "weight": -2
+  },
+  {
+    "title": "Peak vs. RMS confusion",
+    "description": "Pitfall: Penalize if the student uses the peak current I_m instead of the effective current I when calculating power.",
+    "weight": -2
+  }
+]

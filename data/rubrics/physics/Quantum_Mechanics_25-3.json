@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Commutation Check",
+    "description": "Essential Criteria: The student must correctly determine that S commutes with H.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Spectrum K=0",
+    "description": "Important Criteria: The student should derive the correct energies and degeneracies for K=0.",
+    "weight": 5
+  },
+  {
+    "title": "Ground State Wavefunctions K=0",
+    "description": "Essential Criteria: The student must provide the correct ground state wavefunctions for K=0.",
+    "weight": 5
+  },
+  {
+    "title": "Energy Spectrum K=J",
+    "description": "Important Criteria: The student should derive the correct energies and degeneracies for K=J.",
+    "weight": 5
+  },
+  {
+    "title": "Ground State Wavefunctions K=J",
+    "description": "Essential Criteria: The student must provide the correct ground state wavefunctions for K=J.",
+    "weight": 5
+  },
+  {
+    "title": "Incorrect Commutation",
+    "description": "Pitfall Criteria: The student should avoid incorrectly stating that S does not commute with H.",
+    "weight": -2
+  },
+  {
+    "title": "Energy Degeneracy Errors",
+    "description": "Pitfall Criteria: The student should avoid mistakes in stating the degeneracies of the energy levels.",
+    "weight": -2
+  },
+  {
+    "title": "Wavefunction Normalization",
+    "description": "Optional Criteria: The student should check that the wavefunctions are properly normalized.",
+    "weight": 2
+  }
+]

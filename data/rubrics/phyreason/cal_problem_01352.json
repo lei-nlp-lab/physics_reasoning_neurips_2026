@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mechanical energy loss",
+    "description": "Essential: The response must correctly state the mechanical energy lost as mgL(1-cosθ).",
+    "weight": 5
+  },
+  {
+    "title": "Friction work expression",
+    "description": "Essential: The response must correctly state the work done by friction as -mgL(1-cosθ).",
+    "weight": 5
+  },
+  {
+    "title": "Friction coefficient formula",
+    "description": "Essential: The response must derive and state the kinetic friction coefficient as μ = mgL(1-cosθ)/(Fs).",
+    "weight": 5
+  },
+  {
+    "title": "Energy conservation reasoning",
+    "description": "Important: The solution should apply energy conservation between the initial and final swing positions to find the energy loss.",
+    "weight": 4
+  },
+  {
+    "title": "Work-energy theorem application",
+    "description": "Important: The solution must link the friction work to the mechanical energy loss via the work-energy theorem.",
+    "weight": 4
+  },
+  {
+    "title": "Work definition for friction",
+    "description": "Important: The solution must correctly express the friction work as the product of friction force, sliding distance, and the cosine of the angle (which is -1).",
+    "weight": 3
+  },
+  {
+    "title": "Constant normal force assumption",
+    "description": "Optional: The solution may note that the normal force F is given as constant, simplifying the work calculation.",
+    "weight": 1
+  },
+  {
+    "title": "Sign error in work",
+    "description": "Pitfall: Penalize if the work done by friction is given with a positive sign, ignoring its dissipative nature.",
+    "weight": -2
+  },
+  {
+    "title": "Incorrect energy reference",
+    "description": "Pitfall: Penalize if the potential energy change is miscalculated (e.g., using sinθ or incorrect height difference).",
+    "weight": -2
+  }
+]
