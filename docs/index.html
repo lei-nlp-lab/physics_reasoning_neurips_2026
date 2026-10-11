@@ -1,0 +1,761 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Axiomatic World Modeling for Physics Reasoning · NeurIPS 2026</title>
+  <meta name="description" content="RLAWM: reinforcement learning that probes and corrects the physical world a language model believes it is reasoning in. NeurIPS 2026.">
+  <meta name="theme-color" content="#05070d">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<nav class="nav" aria-label="Sections">
+  <div class="container nav__inner">
+    <a class="nav__brand" href="#top"><span class="nav__logo" aria-hidden="true"></span>RLAWM</a>
+    <div class="nav__links">
+      <a href="#motivation">Motivation</a>
+      <a href="#method">Method</a>
+      <a href="#results">Results</a>
+      <a href="#cases">Cases</a>
+      <a href="#bibtex">BibTeX</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="hero__bg" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero__intro">
+      <p class="venue"><span class="venue__dot" aria-hidden="true"></span>NeurIPS 2026</p>
+      <h1 class="hero__title">Axiomatic World Modeling<br>for Physics Reasoning</h1>
+      <p class="authors">
+        <span>Xinye Yang<sup>1</sup></span>
+        <span>Zhenyang Liu<sup>1</sup></span>
+        <span>Yuxuan Wang<sup>2,†</sup></span>
+        <span>Yuanyuan Lei<sup>3,†</sup></span>
+      </p>
+      <p class="affils">
+        <span><sup>1</sup>Northwestern University</span>
+        <span><sup>2</sup>Department of Physics, University of Florida</span>
+        <span><sup>3</sup>Department of CISE, University of Florida</span>
+        <span class="affils__note"><sup>†</sup>Corresponding authors</span>
+      </p>
+      <div class="links">
+        <span class="btn btn--disabled" title="Link coming soon" aria-disabled="true">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h9l5 5v15H6z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M14 2v6h6M9 13h7M9 17h7" fill="none" stroke="currentColor" stroke-width="1.7"/></svg>
+          Paper <small>soon</small>
+        </span>
+        <a class="btn" href="https://github.com/lei-nlp-lab/physics_reasoning_neurips_2026" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 .7a11.3 11.3 0 0 0-3.6 22c.6.1.8-.2.8-.5v-2c-3.1.7-3.8-1.3-3.8-1.3-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.1.1 1.7 1.2 1.7 1.2 1 1.7 2.7 1.2 3.3.9.1-.7.4-1.2.7-1.5-2.5-.3-5.1-1.2-5.1-5.5 0-1.2.4-2.2 1.2-3-.1-.3-.5-1.4.1-3 0 0 1-.3 3.1 1.2a10.7 10.7 0 0 1 5.6 0c2.1-1.5 3.1-1.2 3.1-1.2.6 1.6.2 2.7.1 3 .7.8 1.2 1.8 1.2 3 0 4.3-2.6 5.2-5.1 5.5.4.4.8 1 .8 2.1v3.1c0 .3.2.6.8.5A11.3 11.3 0 0 0 12 .7"/></svg>
+          Code
+        </a>
+        <a class="btn" href="#bibtex">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h4v4H8c0 2 1 3 3 3v2c-3 0-5-2-5-5zm8 0h4v4h-3c0 2 1 3 3 3v2c-3 0-5-2-5-5z" fill="currentColor"/></svg>
+          BibTeX
+        </a>
+      </div>
+    </div>
+
+    <div class="stage" id="heroStage">
+      <div class="world world--belief">
+        <div class="world__head">
+          <span class="world__dot" aria-hidden="true"></span>
+          <span class="world__title">What the model believes</span>
+          <span class="world__sub">its axiomatic world model</span>
+        </div>
+        <div class="world__canvas">
+          <canvas id="beliefCanvas" role="img" aria-label="The model's believed world: it tilts track AB, derives a negative v_O squared, deletes the electric field, and its ball never reaches O."></canvas>
+          <ol class="drift-steps">
+            <li data-step="1"><b>1</b><div><strong>Modeling error</strong><span>assumes \(h_B - h_A = R\)</span></div></li>
+            <li data-step="2"><b>2</b><div><strong>Reasoning in the wrong world</strong><span>energy equation gives \(v_O^2 < 0\)</span></div></li>
+            <li data-step="3"><b>3</b><div><strong>Drift for self-consistency</strong><span>deletes the field: \(E \leftarrow 0\)</span></div></li>
+          </ol>
+        </div>
+        <p class="world__status" data-status="belief">In its own world, the ball never reaches O.</p>
+      </div>
+
+      <div class="world world--true">
+        <div class="world__head">
+          <span class="world__dot" aria-hidden="true"></span>
+          <span class="world__title">What the problem specifies</span>
+          <span class="world__sub">the true physical world</span>
+        </div>
+        <div class="world__canvas">
+          <canvas id="trueCanvas" role="img" aria-label="The true world: the field drives the ball over the arc, and it leaves O along the parabola y squared equals 6 R x."></canvas>
+          <ul class="true-notes">
+            <li data-note="0">AB horizontal · \(|F_E| = \sqrt{2}\,mg\) at \(45^\circ\)</li>
+            <li data-note="1">\(v_O = \sqrt{3gR}\)</li>
+            <li data-note="2">leaves \(O\) along \(y^2 = 6Rx\)</li>
+          </ul>
+        </div>
+        <p class="world__status is-quiet">Same givens, same laws, followed faithfully.</p>
+      </div>
+
+      <div class="tagline" aria-live="polite">
+        <p class="tagline__main">Same problem. Two worlds.</p>
+        <p class="tagline__sub">The model reasons coherently inside a wrong physics world.</p>
+      </div>
+    </div>
+
+    <div class="player">
+      <button class="player__btn is-playing" id="heroPlay" type="button" aria-label="Pause">
+        <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3.5v14H7zm6.5 0H17v14h-3.5z" fill="currentColor"/></svg>
+        <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+      </button>
+      <button class="player__btn" id="heroRestart" type="button" aria-label="Replay from the start">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a7 7 0 1 1-6.6 4.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="timeline" id="heroBar" role="slider" aria-label="Animation timeline">
+        <div class="timeline__track"><div class="timeline__fill"></div></div>
+      </div>
+    </div>
+
+    <details class="problem">
+      <summary>Read the problem <span>PhysReason · used in Figure 1 and Appendix E</span></summary>
+      <p>A smooth horizontal track \(AB\) joins, at \(B\), a smooth quarter-circle rail \(BO\) of radius \(R\) in a vertical plane. A positively charged ball of mass \(m\) is released from rest at \(A\), where it compresses a light spring, and reaches \(B\) with speed \(\sqrt{gR}\). It moves along \(BO\) and leaves the rail at \(O\) moving vertically upward. In the region \(x \ge -R\) a uniform electric field points at \(45^\circ\) to the \(x\)-axis, and the electric force on the ball has magnitude \(\sqrt{2}\,mg\).</p>
+      <p>Find (1) the elastic energy stored in the spring at \(A\), (2) the speed at \(O\), and (3) the trajectory after \(O\). <span class="problem__ans">Answers: \(E_p = \tfrac12 mgR\), \(v_O = \sqrt{3gR}\), \(y^2 = 6Rx\).</span></p>
+    </details>
+  </div>
+</header>
+
+<main>
+  <section class="section section--glance" aria-label="Summary">
+    <div class="container">
+      <p class="tldr reveal"><b>TL;DR</b> Language models often fail physics because they reason inside the wrong physical world. RLAWM trains a model to build the right world and to reason inside it, by probing its hidden belief from two sides during reinforcement learning. Nothing extra runs at inference.</p>
+      <div class="glance reveal">
+        <div class="stat"><span class="stat__num" data-count="12.2" data-decimals="1" data-prefix="+">+12.2</span><span class="stat__label">points on <b>PhysReason</b> over the strongest baseline</span></div>
+        <div class="stat"><span class="stat__num" data-count="5.2" data-decimals="1" data-prefix="+">+5.2</span><span class="stat__label">points on <b>PHYSICS</b> over the strongest baseline</span></div>
+        <div class="stat"><span class="stat__num" data-count="2.45" data-decimals="2" data-suffix="×">2.45×</span><span class="stat__label">on olympiad-level physics, <b>zero-shot</b></span></div>
+        <div class="stat"><span class="stat__num" data-count="10.0" data-decimals="1" data-prefix="+">+10.0</span><span class="stat__label">points on <b>AIME 2026</b>: physics training transfers to math</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== 1 MOTIVATION ============================== -->
+  <section class="section" id="motivation">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">1 · Motivation</p>
+        <h2>The failure is in the world, not the algebra</h2>
+        <p class="lead">Research-level physics benchmarks show a recurring pattern. Models silently change a given, invent a law, or add an assumption that turns a hard problem into a familiar one, and then reason flawlessly inside that corrupted world. We call this <b>modeling drift</b>.</p>
+      </header>
+
+      <ol class="steps reveal">
+        <li class="step">
+          <span class="step__num">1</span>
+          <h3>Modeling error</h3>
+          <p>Wrong geometry: the model assumes \(h_B - h_A = R\), although the problem says \(AB\) is horizontal.</p>
+        </li>
+        <li class="step">
+          <span class="step__num">2</span>
+          <h3>Reasoning in the wrong world</h3>
+          <p>It writes the energy equation from that geometry and obtains the impossible \(v_O^2 < 0\).</p>
+        </li>
+        <li class="step">
+          <span class="step__num">3</span>
+          <h3>Drift for self-consistency</h3>
+          <p>Instead of fixing the geometry, it rewrites the problem and declares \(E \leftarrow 0\).</p>
+        </li>
+      </ol>
+
+      <div class="define reveal">
+        <p><b>Modeling drift</b> is the divergence between a model’s inferred axiomatic world model (AWM) and the true physical world specified in the problem. Unlike factual hallucination, it happens at the level of premises: <em>the model reasons coherently inside a wrong physics world.</em></p>
+        <a class="figlink" href="assets/img/fig1_modeling_drift.webp" data-lightbox data-alt="Paper Figure 1" data-caption="Figure 1 of the paper: the true axiomatic world (left), a modeling drift trajectory of the base model (middle), and RLAWM (right).">
+          <img src="assets/img/fig1_modeling_drift.webp" alt="Paper Figure 1: modeling drift on a representative physics problem" loading="lazy" width="2200" height="793">
+          <span>Paper Figure 1 · click to enlarge</span>
+        </a>
+      </div>
+
+      <h3 class="subhead reveal">Why current rewards miss it</h3>
+      <div class="cards3 reveal">
+        <article class="card">
+          <p class="card__kicker">Outcome rewards · RLVR</p>
+          <p>Check only the final answer. A correct answer reached from a wrong world still earns full reward.</p>
+        </article>
+        <article class="card">
+          <p class="card__kicker">Step-level rewards · PRMs, LLM judges, rubrics</p>
+          <p>Score whether each step looks plausible or locally correct, relative to the premises the model has already adopted.</p>
+        </article>
+        <article class="card card--accent">
+          <p class="card__kicker">What none of them checks</p>
+          <p>Whether the model is reasoning in the right world at all. RLAWM rewards that world directly.</p>
+        </article>
+      </div>
+
+      <div class="insightline reveal">
+        <div>
+          <p class="card__kicker">The opening</p>
+          <p>In physics, <b>verifying a claim is easier than deriving it</b>: checking a conservation law or a scaling relation is straightforward. But a reasoning trace is static text. It can be read, not probed.</p>
+        </div>
+        <div class="insightline__arrow" aria-hidden="true">→</div>
+        <div>
+          <p class="card__kicker">Our idea</p>
+          <p>Turn the model’s belief into something that can be <b>compared</b> with the true world and <b>executed</b> inside it. Every probe becomes a training signal on the belief itself.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================ 2 METHOD ================================ -->
+  <section class="section" id="method">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">2 · Method</p>
+        <h2>Reaching a belief you cannot see</h2>
+        <p class="lead">The axiomatic world model is the policy’s belief about a problem’s physical setup. It lives in weights and hidden states, so no reward can read or edit it directly. RLAWM reaches it from two sides, and trains on what it finds: <b>first learn the right world, then learn to reason inside it.</b></p>
+      </header>
+
+      <div class="probes2 reveal">
+        <article class="pside pside--belief">
+          <p class="pside__tag">Stage I · passive probe</p>
+          <h3>Make the belief speak</h3>
+          <p>The policy writes its world down as a structured <code>[modeling]</code> block. We read it and compare it, motif by motif, with the problem’s true axiom set.</p>
+          <p class="pside__out">→ modeling reward \(R_M\): <b>is this the right world?</b></p>
+        </article>
+        <article class="pside pside--true">
+          <p class="pside__tag">Stage II · active probe</p>
+          <h3>Make the belief act</h3>
+          <p>The policy’s reasoning is compiled into a program and dropped into an executable model of the true world, built in code for each problem. We run it, perturb it, and check it against physical law.</p>
+          <p class="pside__out">→ solving reward \(R_S\): <b>does it reason correctly in that world?</b></p>
+        </article>
+      </div>
+
+      <figure class="loopfig reveal" aria-label="Training loop diagram">
+        <svg viewBox="0 0 1050 330" class="loopfig__svg" role="img" aria-label="The policy's hidden belief is externalized as a modeling block scored by PMF, and executed as a program probed by the checker; the rewards update the policy through GRPO.">
+          <defs>
+            <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker>
+            <radialGradient id="cloud" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="rgba(79,216,255,0.55)"/><stop offset="100%" stop-color="rgba(79,216,255,0)"/></radialGradient>
+          </defs>
+          <g class="lf-node lf-policy">
+            <rect x="20" y="105" width="170" height="120" rx="18"/>
+            <circle cx="105" cy="160" r="44" fill="url(#cloud)"/>
+            <text x="105" y="152" class="lf-t lf-t--strong">AWM</text>
+            <text x="105" y="171" class="lf-t lf-t--muted">hidden belief</text>
+            <text x="105" y="214" class="lf-t">policy π<tspan baseline-shift="sub" font-size="10">θ</tspan></text>
+          </g>
+          <text x="300" y="28" class="lf-lab lf-lab--belief">STAGE I · learn the right world</text>
+          <path class="lf-edge lf-edge--belief" d="M190 135 C 240 80, 260 70, 300 70" marker-end="url(#arr)"/>
+          <g class="lf-node lf-belief"><rect x="300" y="45" width="180" height="50" rx="12"/><text x="390" y="67" class="lf-t lf-t--strong">[modeling] block</text><text x="390" y="84" class="lf-t lf-t--muted">five fields · m̂</text></g>
+          <path class="lf-edge lf-edge--belief" d="M480 70 H 540" marker-end="url(#arr)"/>
+          <g class="lf-node lf-belief"><rect x="540" y="45" width="190" height="50" rx="12"/><text x="635" y="67" class="lf-t lf-t--strong">PMF vs m*</text><text x="635" y="84" class="lf-t lf-t--muted">QEL · VCL · AEB motifs</text></g>
+          <path class="lf-edge lf-edge--belief" d="M730 70 H 790" marker-end="url(#arr)"/>
+          <g class="lf-node lf-reward lf-reward--m"><rect x="790" y="47" width="64" height="46" rx="23"/><text x="822" y="76" class="lf-t lf-t--strong">R<tspan baseline-shift="sub" font-size="10">M</tspan></text></g>
+          <path class="lf-edge lf-edge--ans" d="M190 165 H 770" marker-end="url(#arr)"/>
+          <text x="470" y="156" class="lf-t lf-t--muted">final answer [ans]</text>
+          <g class="lf-node lf-reward lf-reward--a"><rect x="770" y="142" width="64" height="46" rx="23"/><text x="802" y="171" class="lf-t lf-t--strong">R<tspan baseline-shift="sub" font-size="10">A</tspan></text></g>
+          <path class="lf-edge lf-edge--true" d="M190 195 C 240 250, 250 262, 280 262" marker-end="url(#arr)"/>
+          <g class="lf-node lf-true"><rect x="280" y="237" width="140" height="50" rx="12"/><text x="350" y="259" class="lf-t lf-t--strong">[solving]</text><text x="350" y="276" class="lf-t lf-t--muted">pseudocode c</text></g>
+          <path class="lf-edge lf-edge--true" d="M420 262 H 460" marker-end="url(#arr)"/>
+          <g class="lf-node lf-true"><rect x="460" y="237" width="140" height="50" rx="12"/><text x="530" y="259" class="lf-t lf-t--strong">program ŵ</text><text x="530" y="276" class="lf-t lf-t--muted">translator f</text></g>
+          <path class="lf-edge lf-edge--true" d="M600 262 H 640" marker-end="url(#arr)"/>
+          <g class="lf-node lf-true"><rect x="640" y="237" width="170" height="50" rx="12"/><text x="725" y="259" class="lf-t lf-t--strong">checker world g</text><text x="725" y="276" class="lf-t lf-t--muted">run · perturb · check</text></g>
+          <path class="lf-edge lf-edge--true" d="M810 262 H 840" marker-end="url(#arr)"/>
+          <g class="lf-node lf-reward lf-reward--s"><rect x="840" y="239" width="64" height="46" rx="23"/><text x="872" y="268" class="lf-t lf-t--strong">R<tspan baseline-shift="sub" font-size="10">S</tspan></text></g>
+          <text x="280" y="318" class="lf-lab lf-lab--true">STAGE II · reason correctly in that world</text>
+          <path class="lf-edge lf-edge--joint" d="M854 70 C 920 70, 950 110, 958 128"/>
+          <path class="lf-edge lf-edge--joint" d="M834 165 H 900"/>
+          <path class="lf-edge lf-edge--joint" d="M904 262 C 940 262, 955 225, 958 202"/>
+          <g class="lf-node lf-joint"><rect x="900" y="128" width="136" height="74" rx="14"/><text x="968" y="154" class="lf-t lf-t--strong">GRPO</text><text x="968" y="173" class="lf-t lf-t--muted">0.4 R_M + 0.4 R_S</text><text x="968" y="189" class="lf-t lf-t--muted">+ 0.2 R_A</text></g>
+          <path class="lf-edge lf-edge--update" d="M968 202 C 968 330, 120 330, 105 226" marker-end="url(#arr)"/>
+        </svg>
+        <figcaption>Both probes and the answer check update the same weights. The belief itself changes, and the scaffolding is removed at inference.</figcaption>
+      </figure>
+
+      <!-- ---------------- Stage I ---------------- -->
+      <div class="stagehead stagehead--belief reveal" id="stage1">
+        <span class="stagehead__num">I</span>
+        <div>
+          <p class="stagehead__kicker">Stage I · modeling reward \(R_M\)</p>
+          <h3>Learn the right world</h3>
+        </div>
+      </div>
+
+      <article class="step-block reveal" id="m1">
+        <header class="step-block__head">
+          <span class="mtag">M1</span>
+          <div>
+            <h4>Make the belief speak</h4>
+            <p>Before solving, the policy writes the world it believes in as a <code>[modeling]</code> block with five fields. Hover a field to see what it pins down. Switch to the drifted belief of Figure 1: the error is now visible in writing, where a reward can reach it.</p>
+          </div>
+        </header>
+        <div class="m1">
+          <div class="m1__stage">
+            <div class="seg seg--sm" role="tablist" aria-label="Belief">
+              <button type="button" role="tab" data-belief="faithful" aria-selected="true">Faithful belief</button>
+              <button type="button" role="tab" data-belief="drifted" aria-selected="false">Drifted belief · Fig. 1</button>
+            </div>
+            <div class="m1__canvas world--belief"><canvas id="m1Canvas" role="img" aria-label="The believed world, with the parts pinned down by each field highlighted."></canvas></div>
+          </div>
+          <div class="block" id="m1Block" aria-label="The [modeling] block"></div>
+        </div>
+        <p class="note">Blocks are illustrative, written in the paper’s schema (Appendix H) for the problem above. The drifted block is reconstructed from Figure 1.</p>
+      </article>
+
+      <article class="step-block reveal" id="m2">
+        <header class="step-block__head">
+          <span class="mtag">M2</span>
+          <div>
+            <h4>Compare the believed world with the true one · PMF</h4>
+            <p>Physics Modeling Fidelity never asks an LLM to judge physics. A frozen LLM only <b>extracts</b> tuples from both blocks under one schema; a deterministic rule <b>matches</b> them and computes F1. Three motif types catch different failures, and \(R_M = \tfrac13\,(\mathrm{F1}_{\text{QEL}} + \mathrm{F1}_{\text{VCL}} + \mathrm{F1}_{\text{AEB}})\).</p>
+          </div>
+        </header>
+        <div class="pmf">
+          <div class="pmf__pipe" aria-label="PMF pipeline">
+            <span>[modeling] text</span><i>→</i><span>frozen extractor<small>schema-bounded</small></span><i>→</i><span>motif tuples</span><i>→</i><span>rule match<small>+ soft matcher</small></span><i>→</i><span>F1 per motif</span>
+          </div>
+          <div class="pmf__controls">
+            <div class="seg seg--sm" role="tablist" aria-label="Belief">
+              <button type="button" role="tab" data-pmf="faithful" aria-selected="true">Faithful belief</button>
+              <button type="button" role="tab" data-pmf="drifted" aria-selected="false">Drifted belief · Fig. 1</button>
+            </div>
+            <div class="pmf__errors" role="group" aria-label="Inject a modeling error into the faithful belief">
+              <span class="pmf__errlabel">Inject an error:</span>
+              <button type="button" data-err="theorem">wrong theorem</button>
+              <button type="button" data-err="variable">missing variable</button>
+              <button type="button" data-err="coupling">broken coupling</button>
+              <button type="button" data-err="assumption">missed assumption</button>
+              <button type="button" data-err="stage">missed stage</button>
+            </div>
+          </div>
+          <div class="pmf__cols" id="pmfCols"></div>
+          <div class="pmf__foot">
+            <p class="pmf__expect" id="pmfExpect"></p>
+            <div class="pmf__score"><span>\(R_M\)</span><strong id="pmfRM">—</strong></div>
+          </div>
+        </div>
+        <p class="note">Motif sets are illustrative, in the PMF schema of Appendices I–J. The expected effect of each error type follows Table 13 of the paper.</p>
+      </article>
+
+      <!-- ---------------- Stage II ---------------- -->
+      <div class="stagehead stagehead--true reveal" id="stage2">
+        <span class="stagehead__num">II</span>
+        <div>
+          <p class="stagehead__kicker">Stage II · solving reward \(R_S\)</p>
+          <h3>Reason correctly in that world</h3>
+        </div>
+      </div>
+
+      <article class="step-block reveal" id="m3">
+        <header class="step-block__head">
+          <span class="mtag mtag--true">M3</span>
+          <div>
+            <h4>Build the true world in code</h4>
+            <p>For every training problem, a checker is synthesized once, before training, and then frozen. It binds the problem’s entities to a shared library of 147 reusable physics-law templates. The templates hold general laws and their applicability conditions, not answers.</p>
+          </div>
+        </header>
+        <div class="build" id="build">
+          <ol class="build__steps">
+            <li data-bstep="0"><b>1</b>Extract entities</li>
+            <li data-bstep="1"><b>2</b>Bind law templates</li>
+            <li data-bstep="2"><b>3</b>Emit assertions</li>
+            <li data-bstep="3"><b>4</b>Validate in a sandbox</li>
+          </ol>
+          <div class="build__grid">
+            <div class="build__panel">
+              <p class="build__title">Problem entities</p>
+              <ul class="ents" id="buildEnts"></ul>
+              <p class="build__title">Template library <small>147 laws extracted from PhysReason solutions · examples</small></p>
+              <div class="lib" id="buildLib"></div>
+            </div>
+            <div class="build__panel build__panel--code">
+              <p class="build__title">PhysicsChecker <small>generated for this problem</small></p>
+              <pre class="code" id="buildCode"></pre>
+            </div>
+          </div>
+          <div class="build__foot">
+            <div class="kpis">
+              <span><b>1,080</b> checkers for the PhysReason training set</span>
+              <span><b>$5.35</b> total API cost, about half a cent each</span>
+              <span><b>0</b> manual authoring</span>
+            </div>
+            <button type="button" class="btn btn--small" id="buildRun">Replay</button>
+          </div>
+        </div>
+      </article>
+
+      <article class="step-block reveal" id="probe">
+        <header class="step-block__head">
+          <span class="mtag mtag--true">M4</span>
+          <div>
+            <h4>Drop the belief into that world and probe it</h4>
+            <p>The policy writes its derivation as pseudocode. A frozen translator (Qwen2.5-Coder-1.5B) compiles it into a program; if the program does not run, \(R_S = 0\). The checker then runs it and fires three kinds of probes. Pick a rollout from Appendix E and watch.</p>
+          </div>
+        </header>
+
+        <div class="probe">
+          <div class="probe__stage">
+            <div class="probe__stagehead">
+              <span class="chip chip--code">PhysicsChecker</span>
+              <span>Executable world for this problem</span>
+            </div>
+            <div class="probe__canvas"><canvas id="probeCanvas" role="img" aria-label="The checker's executable world with the true response in amber and the rollout's response in cyan."></canvas></div>
+            <div class="legend">
+              <span><i class="lg lg--true"></i>true world’s response</span>
+              <span><i class="lg lg--belief"></i>rollout’s program</span>
+              <span><i class="lg lg--tag"></i>law templates bound to this problem</span>
+            </div>
+          </div>
+
+          <div class="probe__panel">
+            <div class="seg" role="tablist" aria-label="Choose a rollout">
+              <button type="button" role="tab" data-case="1" aria-selected="true">Case 1 · timeline</button>
+              <button type="button" role="tab" data-case="2" aria-selected="false">Case 2 · interaction graph</button>
+            </div>
+            <p class="seg__hint">Both rollouts state the same premises; only one carries them through.</p>
+
+            <div class="term" aria-label="Rollout pseudocode">
+              <div class="term__bar"><i></i><i></i><i></i><span>[solving] · rollout pseudocode</span></div>
+              <div class="term__body" id="probeTerm"></div>
+            </div>
+            <div class="emit" id="probeEmit"></div>
+
+            <article class="pcard" data-probe="inv" data-status="idle">
+              <header><span class="pcard__icon">Σ</span><div><h3>Invariants</h3><p>Do the core physical relations hold?</p></div><span class="pcard__status">waiting</span></header>
+              <div class="balance">
+                <svg viewBox="0 0 220 128" aria-hidden="true">
+                  <line x1="110" y1="34" x2="110" y2="108" class="b-post"/>
+                  <rect x="84" y="108" width="52" height="6" rx="3" class="b-base"/>
+                  <g id="balanceBeam"><line x1="40" y1="34" x2="180" y2="34" class="b-beam"/><circle cx="110" cy="34" r="4" class="b-pivot"/></g>
+                  <g id="balancePanL"><line x1="40" y1="34" x2="25" y2="72" class="b-str"/><line x1="40" y1="34" x2="55" y2="72" class="b-str"/><path d="M19 72h42a21 9 0 0 1-42 0z" class="b-pan b-pan--true"/></g>
+                  <g id="balancePanR"><line x1="180" y1="34" x2="165" y2="72" class="b-str"/><line x1="180" y1="34" x2="195" y2="72" class="b-str"/><path d="M159 72h42a21 9 0 0 1-42 0z" class="b-pan b-pan--belief"/></g>
+                </svg>
+                <div class="balance__labels">
+                  <span class="is-true"><em>work done by the world</em><b id="balanceL">—</b></span>
+                  <span class="is-belief"><em>rollout’s Δ<i>KE</i></em><b id="balanceR">—</b></span>
+                </div>
+              </div>
+              <ul class="checks" id="invChecks"></ul>
+            </article>
+
+            <article class="pcard" data-probe="trace" data-status="idle">
+              <header><span class="pcard__icon">⟲</span><div><h3>Trace consistency</h3><p>Do its own quantities agree with each other?</p></div><span class="pcard__status">waiting</span></header>
+              <p class="pcard__read" id="traceRead"></p>
+            </article>
+
+            <article class="pcard" data-probe="pert" data-status="idle">
+              <header><span class="pcard__icon">⟿</span><div><h3>Response under perturbation</h3><p>Change an input, re-run the same program: does it respond like the true world?</p></div><span class="pcard__status">waiting</span></header>
+              <div class="pert">
+                <div class="pert__switch" role="radiogroup" aria-label="Input to perturb">
+                  <button type="button" role="radio" data-param="R" aria-checked="true">radius <i>R</i> <em>scored · App. L</em></button>
+                  <button type="button" role="radio" data-param="qE" aria-checked="false">field <i>qE</i> <em>extra probe</em></button>
+                </div>
+                <div class="respchart" id="pertChart" aria-hidden="true"></div>
+                <label class="pert__slider"><span id="pertLabel"></span><input type="range" id="pertRange" min="0.7" max="1.4" step="0.01" value="1.1" aria-label="Perturbation factor"></label>
+                <p class="pcard__read" id="pertRead"></p>
+                <p class="pert__note" id="pertNote" hidden>Extra probe for illustration: the checker of Appendix L perturbs only \(R\), so this one is not scored.</p>
+              </div>
+            </article>
+
+            <div class="rs">
+              <div class="rs__rows">
+                <div class="rs__row" data-rs="inv"><span>invariants</span><i><b></b></i><em>–</em></div>
+                <div class="rs__row" data-rs="trace"><span>trace</span><i><b></b></i><em>–</em></div>
+                <div class="rs__row" data-rs="pert"><span>perturbation</span><i><b></b></i><em>–</em></div>
+              </div>
+              <div class="rs__total"><span class="rs__name">solving reward only</span><span>\(R_S = \tfrac13(s_{\text{inv}} + s_{\text{trace}} + s_{\text{pert}})\)</span><strong id="rsValue">—</strong><span class="rs__joint">enters the total reward \(R = 0.4R_M + 0.4R_S + 0.2R_A\)</span></div>
+            </div>
+
+            <p class="insight" id="probeInsight"></p>
+            <div class="probe__foot">
+              <button type="button" class="btn btn--small" id="probeRun">Run the checker again</button>
+              <p class="fineprint">Scores follow the illustrative checker of Appendix L, which has one test per category. Real checkers run 7.34 assertions per rollout on average.</p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ---------------- Loop ---------------- -->
+      <div class="stagehead stagehead--loop reveal" id="stage3">
+        <span class="stagehead__num">↻</span>
+        <div>
+          <p class="stagehead__kicker">Training · \(R = 0.4R_M + 0.4R_S + 0.2R_A\)</p>
+          <h3>Close the loop</h3>
+        </div>
+      </div>
+
+      <article class="step-block reveal" id="m5">
+        <header class="step-block__head">
+          <span class="mtag mtag--loop">M5</span>
+          <div>
+            <h4>Update the belief</h4>
+            <p>Training is an SFT cold start that teaches the <code>[modeling]</code> / <code>[solving]</code> format, followed by GRPO on the joint reward. GRPO learns only from reward differences inside a group of 8 rollouts. Take a hard problem where every rollout gets the final answer wrong.</p>
+          </div>
+        </header>
+        <div class="grpo">
+          <div class="grpo__main">
+            <div class="seg seg--sm" role="tablist" aria-label="Reward">
+              <button type="button" role="tab" data-reward="outcome" aria-selected="false">Outcome reward only</button>
+              <button type="button" role="tab" data-reward="joint" aria-selected="true">RLAWM joint reward</button>
+            </div>
+            <div class="grpo__table" id="grpoTable"></div>
+            <p class="grpo__verdict" id="grpoVerdict"></p>
+          </div>
+          <aside class="grpo__facts">
+            <p class="card__kicker">Measured over all GRPO groups · Qwen3-VL-8B on PhysReason</p>
+            <div class="fact"><span>Groups with zero reward variance</span><b>29.9% <i>→</i> 9.3%</b></div>
+            <div class="fact"><span>All-wrong rollouts that still get a nonzero reward</span><b>0% <i>→</i> 64.1%</b></div>
+            <div class="fact"><span>Median reward</span><b>0 <i>→</i> 0.378</b></div>
+            <div class="fact"><span>Assertions per rollout, so \(R_S\) is graded</span><b>7.34</b></div>
+          </aside>
+        </div>
+        <p class="note">The eight rollouts are illustrative. The measured numbers are from Table 4 and Appendix M.</p>
+      </article>
+
+      <article class="step-block reveal" id="m6">
+        <header class="step-block__head">
+          <span class="mtag mtag--loop">M6</span>
+          <div>
+            <h4>Internalize the laws</h4>
+            <p>The extractor, translator and checkers exist only during training. Because each checker is built from general law templates, optimizing \(R_S\) does not fit the policy to one checker; it pushes law-abiding execution into the policy itself. At inference the model answers alone, at the cost of ordinary chain-of-thought.</p>
+          </div>
+        </header>
+        <div class="scaffold" id="scaffold">
+          <div class="seg seg--sm" role="tablist" aria-label="Phase">
+            <button type="button" role="tab" data-phase="train" aria-selected="true">During training</button>
+            <button type="button" role="tab" data-phase="infer" aria-selected="false">At inference</button>
+          </div>
+          <div class="scaffold__fig">
+            <div class="sc-node sc-policy"><b>policy</b><small>with its AWM</small></div>
+            <div class="sc-node sc-aux sc-aux--1"><b>motif extractor</b><small>gpt-4o-mini · PMF</small></div>
+            <div class="sc-node sc-aux sc-aux--2"><b>translator</b><small>Qwen2.5-Coder-1.5B</small></div>
+            <div class="sc-node sc-aux sc-aux--3"><b>checkers</b><small>one per problem</small></div>
+            <div class="sc-node sc-out"><b>answer</b><small>no extra cost</small></div>
+          </div>
+          <p class="scaffold__cap" id="scaffoldCap"></p>
+        </div>
+        <p class="lead lead--sm">If the laws were internalized rather than the checkers memorized, the gains should persist where no checker ever existed: at large \(k\), on harder problems, on new sources, and even in math. The <a href="#results">results</a> test exactly that.</p>
+      </article>
+
+      <details class="glossary reveal">
+        <summary>Glossary · how this page maps to the paper</summary>
+        <div class="map">
+          <div class="map__head"><span>In this page</span><span>In the paper</span></div>
+          <div class="map__row"><span>The model’s belief world</span><span>The policy’s internal AWM, written out as the five-field <code>[modeling]</code> block \(\hat m\)</span></div>
+          <div class="map__row"><span>The true world</span><span>The problem’s axiom set, represented by the reference structure \(m^*\)</span></div>
+          <div class="map__row"><span>Make the belief speak</span><span>PMF compares \(\hat m\) with \(m^*\) through QEL, VCL and AEB motifs, giving \(R_M\)</span></div>
+          <div class="map__row"><span>A world built in code</span><span>A per-problem PhysicsChecker \(g\), bound from 147 reusable physics-law templates</span></div>
+          <div class="map__row"><span>Make the belief act</span><span>Pseudocode \(c\), translated into an executable program \(\hat w = f(c)\), run in a sandbox, perturbed and checked, giving \(R_S\)</span></div>
+          <div class="map__row"><span>Update the belief</span><span>GRPO on \(R = 0.4R_M + 0.4R_S + 0.2R_A\) after an SFT cold start</span></div>
+          <div class="map__row"><span>Internalize the laws</span><span>No checker at inference; the gains transfer across difficulty, source and domain</span></div>
+        </div>
+        <a class="figlink figlink--wide" href="assets/img/fig2_pipeline.webp" data-lightbox data-alt="Paper Figure 2" data-caption="Figure 2 of the paper: the RLAWM pipeline with the modeling reward (top) and the solving reward (bottom).">
+          <img src="assets/img/fig2_pipeline.webp" alt="Paper Figure 2: the RLAWM pipeline" loading="lazy" width="2200" height="964">
+          <span>Paper Figure 2 · click to enlarge</span>
+        </a>
+      </details>
+    </div>
+  </section>
+
+  <!-- ================================ 3 RESULTS ================================ -->
+  <section class="section" id="results">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">3 · Results</p>
+        <h2>Consistent gains that transfer</h2>
+        <p class="lead lead--sm">All methods share the same SFT cold start and GRPO setup; only the reward differs. Baselines: RLVR (final-answer reward), Direct-Likert and Reference-Likert (LLM judges, without and with the reference solution), and Rubrics as Rewards. SubPass@k is the share of sub-questions answered correctly, keeping the best of k samples.</p>
+      </header>
+
+      <article class="res reveal" id="table1">
+        <div class="res__head">
+          <div>
+            <h3>Main results · SubPass@1 (%)</h3>
+            <p>RLAWM has the best Overall score on both datasets for all three backbones.</p>
+          </div>
+          <div class="seg seg--sm" role="tablist" aria-label="Backbone" id="t1Tabs"></div>
+        </div>
+        <div class="t1bars" id="t1Bars"></div>
+        <div class="tablewrap"><table class="rtable" id="t1Table"></table></div>
+        <ul class="takeaways">
+          <li>Up to <b>+12.2</b> points on PhysReason (Qwen3-VL-4B) and <b>+5.2</b> on PHYSICS (Qwen3-VL-8B) over the strongest baseline.</li>
+          <li>The margin is largest on <b>Easy</b> and <b>Medium</b> problems and narrows on <b>Difficult</b> ones: when the model can already reason, modeling drift is the bottleneck.</li>
+          <li>Gains vary by subdomain. The explicit coordinate frames of E&amp;M and optics are easier to capture than the operator algebra of quantum and statistical mechanics.</li>
+        </ul>
+      </article>
+
+      <div class="res2">
+        <article class="res reveal" id="passk">
+          <div class="res__head">
+            <div>
+              <h3>Expanding the reasoning boundary · SubPass@k</h3>
+              <p>Best of \(k\) samples on PhysReason.</p>
+            </div>
+            <div class="seg seg--sm" role="tablist" aria-label="Backbone" id="pkTabs"></div>
+          </div>
+          <div class="chart" id="pkChart"></div>
+          <p class="chart__legend" id="pkLegend"></p>
+          <ul class="takeaways">
+            <li>As \(k\) grows, RLVR and Reference-Likert fall below the untrained base model, the diversity collapse reported by Yue et al. (2025).</li>
+            <li>RLAWM stays on top at every \(k\): rewarding the world, not one reasoning template, keeps exploration alive.</li>
+          </ul>
+        </article>
+
+        <article class="res reveal" id="ood">
+          <div class="res__head">
+            <div>
+              <h3>Transfer without a checker · zero-shot</h3>
+              <p>Trained only on PhysReason. SubPass@1 (%).</p>
+            </div>
+          </div>
+          <div class="ood" id="oodCharts"></div>
+          <p class="chart__legend" id="oodLegend"></p>
+          <ul class="takeaways">
+            <li><b>2.45×</b> on olympiad-level physics (Qwen3-VL-8B: 15.2 vs 6.2), and the gain holds at 4B (11.3 vs 4.5).</li>
+            <li><b>+10.0</b> on AIME 2026 under the same Zero-RL protocol: the axiomatic core of physics carries over to math.</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================ 4 CASES ================================ -->
+  <section class="section" id="cases">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">4 · Case studies</p>
+        <h2>What each reward sees</h2>
+        <p class="lead">Three rollouts from the paper. The first shows why both levels are needed; the other two mark where the checker’s judgment ends.</p>
+      </header>
+      <div class="cases reveal">
+        <div class="seg cases__tabs" role="tablist" aria-label="Case study">
+          <button type="button" role="tab" data-casetab="a" aria-selected="true">Same premises, different execution</button>
+          <button type="button" role="tab" data-casetab="b" aria-selected="false">Correct answer, under-rewarded</button>
+          <button type="button" role="tab" data-casetab="c" aria-selected="false">Wrong answer, missed by the checker</button>
+        </div>
+
+        <div class="casepanel" data-casepanel="a">
+          <p class="casepanel__src">Appendix E · arc-and-field problem</p>
+          <div class="cols2">
+            <div class="rollout rollout--good">
+              <p class="rollout__title">Case 1 · <code>timeline</code></p>
+              <pre class="code code--sm">[representation] type: timeline
+  S2: B → O  normal force does no work;
+      gravity and electric force both do work
+[sub2] W_g + W_E = ½ m v_O² − ½ m v_B²
+       W_g = −mgR ; W_E = 2mgR
+       ⇒ v_O = √(3gR)
+[sub3] a_x = g, a_y = 0 ⇒ y² = 6Rx</pre>
+            </div>
+            <div class="rollout rollout--bad">
+              <p class="rollout__title">Case 2 · <code>interaction_graph</code></p>
+              <pre class="code code--sm">[representation] type: interaction_graph
+  edges: field → ball: qE = √2 mg at 45°
+         rail → ball: normal force does no work
+[sub2] F_Ey = mg cancels gravity
+       ⇒ kinetic energy from B to O unchanged
+       ⇒ v_O = v_B = √(gR)
+[sub3] a_x = g, a_y = 0 ⇒ y² = 2Rx</pre>
+            </div>
+          </div>
+          <div class="verdicts">
+            <div class="verdict"><span class="verdict__k">\(R_M\) · modeling</span><p>Both identify gravity, the electric force and the non-working normal force. The declared worlds are nearly the same.</p></div>
+            <div class="verdict verdict--key"><span class="verdict__k">\(R_S\) · solving</span><p>Case 2 drops the work of the horizontal electric force. The work–energy invariant fails: \(\Delta KE = 0 \ne mgR\). <a href="#probe">Run it in M4 ↑</a></p></div>
+            <div class="verdict"><span class="verdict__k">\(R_A\) · answer</span><p>Case 1: 3/3 sub-answers. Case 2: 1/3 (only \(E_p\)).</p></div>
+          </div>
+          <p class="casepanel__take"><b>Takeaway.</b> Valid premises do not guarantee valid execution, and a self-consistent trajectory (\(y^2 = 2Rx\) follows from its wrong \(v_O\)) is not a correct one. This is why RLAWM rewards both levels.</p>
+        </div>
+
+        <div class="casepanel" data-casepanel="b" hidden>
+          <p class="casepanel__src">Appendix M · false negative · three-step gas cycle</p>
+          <div class="cols2">
+            <div class="rollout rollout--good">
+              <p class="rollout__title">Rollout <span class="pill pill--good">all 3 sub-answers correct</span></p>
+              <pre class="code code--sm">[constraints] first law as dU = Q + W,
+              W = work done ON the gas
+[sub1] W_1 = dU_1 = P_0V_0 (r^(γ−1) − 1)/(γ−1)
+[sub2] W_2 = −P_0V_0 (r^γ − r^(γ−1))
+       Q_2 = dU_2 − W_2
+[sub3] η = W_by / Q_2</pre>
+            </div>
+            <div class="testgrid" aria-label="Checker tests">
+              <p class="rollout__title">Checker tests <span class="pill pill--warn">\(R_S = 0.56\)</span></p>
+              <div class="tests">
+                <span class="t t--fail">first law · step 1</span>
+                <span class="t t--fail">first law · step 2</span>
+                <span class="t t--fail">isobaric work · trace</span>
+                <span class="t t--fail">net work · perturbation</span>
+                <span class="t t--pass">other tests ×5 ✓</span>
+              </div>
+              <p class="muted small">The checker writes \(\Delta U = Q - W\) with \(W\) the work done <i>by</i> the gas. Every test that reads a work term sees the opposite sign.</p>
+            </div>
+          </div>
+          <p class="casepanel__take"><b>Takeaway.</b> The law is the same on both sides; only its written form differs. Tests that fix a convention the law leaves open under-reward valid physics. This motivates convention-invariant tests and adaptive probes.</p>
+        </div>
+
+        <div class="casepanel" data-casepanel="c" hidden>
+          <p class="casepanel__src">Appendix M · false positive · series RLC resonance</p>
+          <div class="cols2">
+            <div class="rollout">
+              <p class="rollout__title">Rollout <span class="pill pill--warn">sub-answer 3 wrong</span></p>
+              <pre class="code code--sm">[sub3] half power: X = ±R
+       w_plus  = +R/(2L) + √(R²/(4L²) + 1/(LC))
+       w_minus = −R/(2L) + √(R²/(4L²) + 1/(LC))
+       dw = w_plus − w_minus        → emit dw   ✓ (= R/L)
+[subans 3] Δω = R/(2L)                        ✗</pre>
+            </div>
+            <div class="verdicts verdicts--stack">
+              <div class="verdict"><span class="verdict__k">\(R_S\) · solving</span><p>Every emitted quantity is correct, including <code>dw</code>. The checker audits emitted values, not the written answer: \(R_S = 1.0\).</p></div>
+              <div class="verdict verdict--key"><span class="verdict__k">\(R_A\) · answer</span><p>The written closed form \(R/(2L)\) is wrong (it should be \(R/L\)). The answer reward catches it.</p></div>
+            </div>
+          </div>
+          <p class="casepanel__take"><b>Takeaway.</b> What a rollout writes after its last emit is invisible to the checker. This is the most common false-positive pattern, and the reason the joint reward keeps \(R_A\).</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================= 5 CONCLUSION ============================= -->
+  <section class="section section--tight" id="conclusion">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">5 · Conclusion</p>
+        <h2>Reward the world, not just the answer</h2>
+        <p class="lead">RLAWM turns the verification–derivation asymmetry of axiomatic domains into a training signal. It rewards the world a model believes in and how it reasons inside that world. The gains hold across backbones, seeds and three kinds of distribution shift, with no checker at inference.</p>
+      </header>
+    </div>
+  </section>
+
+  <section class="section section--tight" id="bibtex">
+    <div class="container">
+      <header class="section__head reveal">
+        <p class="eyebrow">Cite</p>
+        <h2>BibTeX</h2>
+      </header>
+      <div class="bib reveal">
+        <button type="button" class="btn btn--small bib__copy" id="copyBib">Copy</button>
+<pre id="bibtex-text">@inproceedings{yang2026axiomatic,
+  title     = {Axiomatic World Modeling for Physics Reasoning},
+  author    = {Yang, Xinye and Liu, Zhenyang and Wang, Yuxuan and Lei, Yuanyuan},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2026}
+}</pre>
+      </div>
+    </div>
+  </section>
+</main>
+
+<figure class="lightbox" id="lightbox" hidden>
+  <img alt="">
+  <figcaption></figcaption>
+</figure>
+<div class="tip" id="tip" role="tooltip" hidden></div>
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<script defer src="assets/js/physics.js"></script>
+<script defer src="assets/js/scene.js"></script>
+<script defer src="assets/js/data.js"></script>
+<script defer src="assets/js/charts.js"></script>
+<script defer src="assets/js/hero.js"></script>
+<script defer src="assets/js/modeling.js"></script>
+<script defer src="assets/js/build.js"></script>
+<script defer src="assets/js/probe.js"></script>
+<script defer src="assets/js/loop.js"></script>
+<script defer src="assets/js/results.js"></script>
+<script defer src="assets/js/main.js"></script>
+</body>
+</html>
