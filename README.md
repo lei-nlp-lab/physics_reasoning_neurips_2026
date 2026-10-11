@@ -1,6 +1,9 @@
 # physics_reasoning_neurips_2026
 
 Code and data for the NeurIPS 2026 paper **"Axiomatic World Modeling for Physics Reasoning"**.
+
+**Project page:** https://lei-nlp-lab.github.io/physics_reasoning_neurips_2026/
+
 Author: Xinye Yang (XinyeYang2027@u.northwestern.edu)
 
 
