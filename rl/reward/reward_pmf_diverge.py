@@ -65,9 +65,10 @@ PMF_FALLBACK_BASE_URL = os.environ.get("PMF_FALLBACK_BASE_URL", "").strip()
 PMF_FALLBACK_MODEL = os.environ.get("PMF_FALLBACK_MODEL", "").strip()
 PMF_FALLBACK_API_KEY = os.environ.get("PMF_FALLBACK_API_KEY", "dummy-local").strip()
 PMF_FALLBACK_TIMEOUT_S = float(os.environ.get("PMF_FALLBACK_TIMEOUT_S", "60"))
-PMF_QEL_WEIGHT = float(os.environ.get("PMF_QEL_WEIGHT", "0.35"))
-PMF_VCL_WEIGHT = float(os.environ.get("PMF_VCL_WEIGHT", "0.35"))
-PMF_AEB_WEIGHT = float(os.environ.get("PMF_AEB_WEIGHT", "0.3"))
+# Motif weights default to 1/3 each; renormalized over active motif types in compute_score.
+PMF_QEL_WEIGHT = float(os.environ.get("PMF_QEL_WEIGHT", str(1 / 3)))
+PMF_VCL_WEIGHT = float(os.environ.get("PMF_VCL_WEIGHT", str(1 / 3)))
+PMF_AEB_WEIGHT = float(os.environ.get("PMF_AEB_WEIGHT", str(1 / 3)))
 PMF_MIN_REWARD = float(os.environ.get("PMF_MIN_REWARD", "0.0"))
 DEBUG = os.environ.get("PMF_DEBUG", "0") == "1"
 LOG_PATH = os.environ.get("PMF_LOG_PATH", "").strip()

@@ -85,9 +85,10 @@ REWARD_ENV=(
     "JOINT_CHECKER_WEIGHT=0.4"
     "JOINT_ANSWER_WEIGHT=0.2"
     "JOINT_MIN_REWARD=0.0"
-    "PMF_QEL_WEIGHT=0.4"
-    "PMF_VCL_WEIGHT=0.3"
-    "PMF_AEB_WEIGHT=0.3"
+    # PMF motif weights: 1/3 each (equal average of QEL/VCL/AEB F1, renormalized over active motif types)
+    "PMF_QEL_WEIGHT=0.333333"
+    "PMF_VCL_WEIGHT=0.333333"
+    "PMF_AEB_WEIGHT=0.333333"
     "PMF_MIN_REWARD=0.0"
     "CHECKER_DIR=${REPO_DIR}/data/checkers/${DATASET}"
     "CHECKER_REWARD_CHECKER_WEIGHT=1.0"
