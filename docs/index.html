@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Axiomatic World Modeling for Physics Reasoning · NeurIPS 2026</title>
   <meta name="description" content="RLAWM: reinforcement learning that probes and corrects the physical world a language model believes it is reasoning in. NeurIPS 2026.">
-  <meta name="theme-color" content="#05070d">
+  <meta name="theme-color" content="#ffffff">
   <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg?v=3">
   <link rel="icon" type="image/png" sizes="64x64" href="assets/img/rlawm-64.png?v=3">
   <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png?v=3">
@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-  <link rel="stylesheet" href="assets/css/style.css?v=3">
+  <link rel="stylesheet" href="assets/css/style.css?v=4">
 </head>
 <body>
 
@@ -232,10 +232,10 @@
       </div>
 
       <figure class="loopfig reveal" aria-label="Training loop diagram">
-        <svg viewBox="0 0 1050 330" class="loopfig__svg" role="img" aria-label="The policy's hidden belief is externalized as a modeling block scored by PMF, and executed as a program probed by the checker; the rewards update the policy through GRPO.">
+        <svg viewBox="0 0 1050 362" class="loopfig__svg" role="img" aria-label="The policy's hidden belief is externalized as a modeling block scored by PMF, and executed as a program probed by the checker; the rewards update the policy through GRPO.">
           <defs>
             <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker>
-            <radialGradient id="cloud" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="rgba(79,216,255,0.55)"/><stop offset="100%" stop-color="rgba(79,216,255,0)"/></radialGradient>
+            <radialGradient id="cloud" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="rgba(14,116,144,0.2)"/><stop offset="100%" stop-color="rgba(14,116,144,0)"/></radialGradient>
           </defs>
           <g class="lf-node lf-policy">
             <rect x="20" y="105" width="170" height="120" rx="18"/>
@@ -265,9 +265,9 @@
           <text x="280" y="318" class="lf-lab lf-lab--true">STAGE II · reason correctly in that world</text>
           <path class="lf-edge lf-edge--joint" d="M854 70 C 920 70, 950 110, 958 128"/>
           <path class="lf-edge lf-edge--joint" d="M834 165 H 900"/>
-          <path class="lf-edge lf-edge--joint" d="M904 262 C 940 262, 955 225, 958 202"/>
+          <path class="lf-edge lf-edge--joint" d="M904 262 C 928 262, 935 238, 935 202"/>
           <g class="lf-node lf-joint"><rect x="900" y="128" width="136" height="74" rx="14"/><text x="968" y="154" class="lf-t lf-t--strong">GRPO</text><text x="968" y="173" class="lf-t lf-t--muted">0.4 R_M + 0.4 R_S</text><text x="968" y="189" class="lf-t lf-t--muted">+ 0.2 R_A</text></g>
-          <path class="lf-edge lf-edge--update" d="M968 202 C 968 330, 120 330, 105 226" marker-end="url(#arr)"/>
+          <path class="lf-edge lf-edge--update" d="M1000 202 V 330 Q 1000 346 984 346 H 121 Q 105 346 105 330 V 229" marker-end="url(#arr)"/>
         </svg>
         <figcaption>Both probes and the answer check update the same weights. The belief itself changes, and the scaffolding is removed at inference.</figcaption>
       </figure>
@@ -753,13 +753,13 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
 <script defer src="assets/js/physics.js?v=3"></script>
-<script defer src="assets/js/scene.js?v=3"></script>
-<script defer src="assets/js/data.js?v=3"></script>
+<script defer src="assets/js/scene.js?v=4"></script>
+<script defer src="assets/js/data.js?v=4"></script>
 <script defer src="assets/js/charts.js?v=3"></script>
-<script defer src="assets/js/hero.js?v=3"></script>
-<script defer src="assets/js/modeling.js?v=3"></script>
+<script defer src="assets/js/hero.js?v=4"></script>
+<script defer src="assets/js/modeling.js?v=4"></script>
 <script defer src="assets/js/build.js?v=3"></script>
-<script defer src="assets/js/probe.js?v=3"></script>
+<script defer src="assets/js/probe.js?v=4"></script>
 <script defer src="assets/js/loop.js?v=3"></script>
 <script defer src="assets/js/results.js?v=3"></script>
 <script defer src="assets/js/main.js?v=3"></script>

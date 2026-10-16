@@ -6,27 +6,30 @@
   'use strict';
   const AWM = (root.AWM = root.AWM || {});
 
+  // Light-theme palette: strokes and labels are dark enough to read on a white panel.
   const RGB = {
-    belief: '79,216,255',
-    amber: '255,165,61',
-    field: '111,141,255',
-    bad: '255,77,109',
-    good: '62,229,154',
-    white: '231,237,247',
+    belief: '14,116,144',
+    amber: '217,119,6',
+    field: '67,97,238',
+    bad: '225,29,72',
+    good: '4,120,87',
+    white: '30,41,59',
   };
+  // Glows read as halos on a light background, so every shadow blur is scaled down.
+  const GLOW = 0.45;
 
   const STYLES = {
     true: {
-      track: 'rgba(231,237,247,0.92)', trackWidth: 2.4, dash: [], glow: 0,
-      ball: 'amber', field: RGB.field, fieldAlpha: 0.5, label: 'rgba(214,224,240,0.9)', spring: 'rgba(214,224,240,0.85)',
+      track: 'rgba(30,41,59,0.9)', trackWidth: 2.4, dash: [], glow: 0,
+      ball: 'amber', field: RGB.field, fieldAlpha: 0.5, label: 'rgba(30,41,59,0.9)', spring: 'rgba(51,65,85,0.85)',
     },
     belief: {
-      track: `rgba(${RGB.belief},0.95)`, trackWidth: 2, dash: [7, 6], glow: 14, glowColor: `rgba(${RGB.belief},0.75)`,
+      track: `rgba(${RGB.belief},0.95)`, trackWidth: 2, dash: [7, 6], glow: 14, glowColor: `rgba(${RGB.belief},0.45)`,
       ball: 'belief', field: RGB.belief, fieldAlpha: 0.5, label: `rgba(${RGB.belief},0.95)`, spring: `rgba(${RGB.belief},0.9)`,
     },
     blueprint: {
-      track: 'rgba(196,214,245,0.85)', trackWidth: 1.6, dash: [], glow: 0,
-      ball: 'amber', field: RGB.field, fieldAlpha: 0.42, label: 'rgba(160,182,220,0.95)', spring: 'rgba(196,214,245,0.75)',
+      track: 'rgba(51,65,85,0.75)', trackWidth: 1.6, dash: [], glow: 0,
+      ball: 'amber', field: RGB.field, fieldAlpha: 0.42, label: 'rgba(71,85,105,0.95)', spring: 'rgba(71,85,105,0.7)',
     },
   };
 
@@ -64,7 +67,7 @@
     ctx.save();
     if (st.glow) {
       ctx.shadowColor = st.glowColor;
-      ctx.shadowBlur = st.glow;
+      ctx.shadowBlur = st.glow * GLOW;
     }
     fn();
     ctx.restore();
@@ -179,8 +182,8 @@
     ctx.save();
     ctx.globalAlpha *= alpha;
     if (st.ball === 'amber') {
-      ctx.shadowColor = `rgba(${RGB.amber},0.75)`;
-      ctx.shadowBlur = 18;
+      ctx.shadowColor = `rgba(${RGB.amber},0.45)`;
+      ctx.shadowBlur = 18 * GLOW;
       const grad = ctx.createRadialGradient(x - rr * 0.35, y - rr * 0.35, rr * 0.1, x, y, rr);
       grad.addColorStop(0, '#ffe2b0');
       grad.addColorStop(0.45, '#ffa53d');
@@ -190,8 +193,8 @@
       ctx.arc(x, y, rr, 0, Math.PI * 2);
       ctx.fill();
     } else {
-      ctx.shadowColor = `rgba(${RGB.belief},0.9)`;
-      ctx.shadowBlur = 16;
+      ctx.shadowColor = `rgba(${RGB.belief},0.5)`;
+      ctx.shadowBlur = 16 * GLOW;
       const grad = ctx.createRadialGradient(x, y, rr * 0.1, x, y, rr);
       grad.addColorStop(0, `rgba(${RGB.belief},0.85)`);
       grad.addColorStop(1, `rgba(${RGB.belief},0.12)`);
@@ -325,7 +328,7 @@
     ctx.lineJoin = 'round';
     if (glow) {
       ctx.shadowColor = glowColor || color;
-      ctx.shadowBlur = glow;
+      ctx.shadowBlur = glow * GLOW;
     }
     ctx.beginPath();
     ctx.moveTo(view.X(pts[0].x), view.Y(pts[0].y));
@@ -346,7 +349,7 @@
     ctx.lineCap = 'round';
     if (glow) {
       ctx.shadowColor = color;
-      ctx.shadowBlur = glow;
+      ctx.shadowBlur = glow * GLOW;
     }
     ctx.beginPath();
     ctx.moveTo(x1, y1);
@@ -374,7 +377,7 @@
   }
 
   // Small rounded tag with a leader line to an anchor point.
-  function tag(view, text, at, anchor, { color = 'rgba(160,182,220,0.95)', bg = 'rgba(10,16,30,0.85)', alpha = 1, font = "500 11.5px 'JetBrains Mono', ui-monospace, monospace" } = {}) {
+  function tag(view, text, at, anchor, { color = 'rgba(71,85,105,0.95)', bg = 'rgba(255,255,255,0.92)', alpha = 1, font = "500 11.5px 'JetBrains Mono', ui-monospace, monospace" } = {}) {
     const { ctx } = view;
     ctx.save();
     ctx.globalAlpha *= alpha;
@@ -439,7 +442,7 @@
   }
 
   AWM.scene = {
-    RGB, STYLES, BALL_R, WALL_GAP, MATH_FONT,
+    RGB, GLOW, STYLES, BALL_R, WALL_GAP, MATH_FONT,
     createView, drawTrack, drawPoint, drawSpring, drawBall, shadeField, drawField,
     drawTrail, drawCurve, drawArrow, label, tag, ballCenter, hash, roundRect,
   };

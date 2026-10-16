@@ -70,7 +70,7 @@
     'Reference-Likert': '#3987e5',
     'RLVR': '#d55181',
     'Vanilla': '#8a93a6',
-    baseline: '#4b5568',
+    baseline: '#a9b3c2',
   };
 
   AWM.data = { PR_COLS, PH_COLS, METHODS, table1, passk, ood, COLORS };

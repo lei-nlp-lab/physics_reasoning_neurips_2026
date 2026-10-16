@@ -76,7 +76,7 @@
       ctx.save();
       ctx.strokeStyle = RED;
       ctx.shadowColor = RED;
-      ctx.shadowBlur = 10;
+      ctx.shadowBlur = 10 * S.GLOW;
       ctx.lineWidth = 2;
       ctx.beginPath();
       ctx.arc(v.X(0), v.Y(0), v.L(0.16), 0, Math.PI * 2);
@@ -144,7 +144,7 @@
       badge(drifted ? 'Q2 · v_O = ?' : 'Q2 · v_O', { x: -0.55, y: 0.35 }, drifted ? RED : CYAN);
       if (!drifted) badge('Q3 · trajectory', { x: 1.25, y: 1.15 }, CYAN);
     }
-    if (!field) S.label(v, 'hover a field of the block →', { x: -1.3, y: 2.35 }, 'rgba(160,182,220,0.7)', { font: MONO });
+    if (!field) S.label(v, 'hover a field of the block →', { x: -1.3, y: 2.35 }, 'rgba(71,85,105,0.8)', { font: MONO });
     void SERIF;
   }
 

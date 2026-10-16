@@ -75,22 +75,22 @@
     ctx.save();
     ctx.lineWidth = 1;
     for (let x = Math.ceil(bounds.xmin * 2) / 2; x <= bounds.xmax; x += 0.5) {
-      ctx.strokeStyle = Math.abs(x) < 1e-9 ? 'rgba(140,170,230,0.28)' : 'rgba(110,140,210,0.08)';
+      ctx.strokeStyle = Math.abs(x) < 1e-9 ? 'rgba(71,85,105,0.35)' : 'rgba(71,85,105,0.08)';
       ctx.beginPath();
       ctx.moveTo(v.X(x), 0);
       ctx.lineTo(v.X(x), v.h);
       ctx.stroke();
     }
     for (let y = Math.ceil(bounds.ymin * 2) / 2; y <= bounds.ymax; y += 0.5) {
-      ctx.strokeStyle = Math.abs(y) < 1e-9 ? 'rgba(140,170,230,0.28)' : 'rgba(110,140,210,0.08)';
+      ctx.strokeStyle = Math.abs(y) < 1e-9 ? 'rgba(71,85,105,0.35)' : 'rgba(71,85,105,0.08)';
       ctx.beginPath();
       ctx.moveTo(0, v.Y(y));
       ctx.lineTo(v.w, v.Y(y));
       ctx.stroke();
     }
     ctx.restore();
-    S.label(v, 'x', { x: bounds.xmax - 0.12, y: 0 }, 'rgba(140,170,230,0.7)', { dy: -10, font: "italic 13px 'Times New Roman', serif" });
-    S.label(v, 'y', { x: 0, y: bounds.ymax - 0.12 }, 'rgba(140,170,230,0.7)', { dx: 10, font: "italic 13px 'Times New Roman', serif" });
+    S.label(v, 'x', { x: bounds.xmax - 0.12, y: 0 }, 'rgba(71,85,105,0.8)', { dy: -10, font: "italic 13px 'Times New Roman', serif" });
+    S.label(v, 'y', { x: 0, y: bounds.ymax - 0.12 }, 'rgba(71,85,105,0.8)', { dx: 10, font: "italic 13px 'Times New Roman', serif" });
   }
 
   function init() {
@@ -365,8 +365,8 @@
       const x = 14, y = 14, w = 196, h = 70;
       ctx.save();
       ctx.globalAlpha *= alpha;
-      ctx.fillStyle = 'rgba(8,12,24,0.86)';
-      ctx.strokeStyle = 'rgba(140,170,230,0.32)';
+      ctx.fillStyle = 'rgba(255,255,255,0.92)';
+      ctx.strokeStyle = 'rgba(71,85,105,0.3)';
       ctx.lineWidth = 1;
       S.roundRect(ctx, x, y, w, h, 9);
       ctx.fill();
@@ -374,7 +374,7 @@
       ctx.textBaseline = 'middle';
       ctx.textAlign = 'left';
       ctx.font = "500 11px 'JetBrains Mono', ui-monospace, monospace";
-      ctx.fillStyle = 'rgba(160,182,220,0.9)';
+      ctx.fillStyle = 'rgba(51,65,85,0.9)';
       ctx.fillText('launch speed at O  [√(gR)]', x + 11, y + 16);
       ctx.font = "600 12.5px 'JetBrains Mono', ui-monospace, monospace";
       ctx.fillStyle = `rgba(${S.RGB.amber},1)`;
@@ -450,7 +450,7 @@
         ctx.globalAlpha = a;
         ctx.strokeStyle = state.result.invPass ? `rgba(${S.RGB.good},0.9)` : `rgba(${S.RGB.bad},0.9)`;
         ctx.shadowColor = ctx.strokeStyle;
-        ctx.shadowBlur = 14;
+        ctx.shadowBlur = 14 * S.GLOW;
         ctx.lineWidth = 4;
         ctx.beginPath();
         ctx.arc(v.X(geo.C.x), v.Y(geo.C.y), v.L(geo.R), Math.PI / 2, 0, true);
@@ -471,13 +471,13 @@
         for (let i = 1; i <= 8; i++) {
           const p = P.trajectoryPoint(cand, i * 0.25);
           if (p.x > BOUNDS.xmax || p.y > BOUNDS.ymax) break;
-          ctx.fillStyle = 'rgba(255,255,255,0.95)';
+          ctx.fillStyle = 'rgba(30,41,59,0.85)';
           ctx.beginPath();
           ctx.arc(v.X(p.x), v.Y(p.y), 2.4, 0, Math.PI * 2);
           ctx.fill();
         }
         const pe = P.trajectoryPoint(cand, 1.0);
-        ctx.strokeStyle = 'rgba(255,255,255,0.95)';
+        ctx.strokeStyle = 'rgba(30,41,59,0.85)';
         ctx.lineWidth = 1.5;
         ctx.beginPath();
         ctx.arc(v.X(pe.x), v.Y(pe.y), 7, 0, Math.PI * 2);

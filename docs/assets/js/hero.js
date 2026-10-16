@@ -57,7 +57,7 @@
     ctx.globalAlpha *= alpha;
     ctx.fillStyle = color;
     ctx.shadowColor = color;
-    ctx.shadowBlur = 8;
+    ctx.shadowBlur = 8 * S.GLOW;
     ctx.textAlign = 'left';
     ctx.textBaseline = 'alphabetic';
     ctx.font = "italic 600 18px 'Times New Roman', serif";
@@ -92,8 +92,8 @@
     if (t >= T.step1) {
       const a = 0.5 * ramp(t, T.step1, T.step1End);
       const trueGeo = trueSim.geo;
-      S.drawCurve(v, [{ x: trueGeo.A.x - S.WALL_GAP, y: -1 }, trueGeo.B], 'rgba(200,210,230,0.9)', { width: 1, dash: [3, 5], alpha: a });
-      S.label(v, 'stated: AB horizontal', { x: -2.1, y: -0.82 }, 'rgba(200,210,230,0.75)', {
+      S.drawCurve(v, [{ x: trueGeo.A.x - S.WALL_GAP, y: -1 }, trueGeo.B], 'rgba(71,85,105,0.85)', { width: 1, dash: [3, 5], alpha: a });
+      S.label(v, 'stated: AB horizontal', { x: -2.1, y: -0.82 }, 'rgba(71,85,105,0.9)', {
         font: "500 11px 'JetBrains Mono', ui-monospace, monospace", alpha: a,
       });
     }
@@ -103,7 +103,7 @@
     if (glitch > 0.02) {
       const j = (S.hash(Math.floor(t * 30), 3) - 0.5) * 2;
       S.drawTrack(v, geo, st, { color: `rgba(${S.RGB.bad},0.65)`, offsetX: -glitch * (4 + 4 * j), alpha: glitch });
-      S.drawTrack(v, geo, st, { color: 'rgba(170,255,255,0.6)', offsetX: glitch * (4 - 3 * j), alpha: glitch });
+      S.drawTrack(v, geo, st, { color: 'rgba(8,145,178,0.5)', offsetX: glitch * (4 - 3 * j), alpha: glitch });
     }
     const flicker = 0.9 + 0.1 * Math.sin(t * 23) * Math.sin(t * 7.3);
     S.drawTrack(v, geo, st, { alpha: flicker });
@@ -130,8 +130,8 @@
       ctx.save();
       ctx.globalAlpha = a;
       ctx.strokeStyle = `rgba(${S.RGB.bad},${0.55 + 0.45 * pulse})`;
-      ctx.shadowColor = `rgba(${S.RGB.bad},0.9)`;
-      ctx.shadowBlur = 12;
+      ctx.shadowColor = `rgba(${S.RGB.bad},0.5)`;
+      ctx.shadowBlur = 12 * S.GLOW;
       ctx.lineWidth = 2;
       ctx.beginPath();
       ctx.arc(v.X(0), v.Y(0), v.L(0.15 + 0.04 * pulse), 0, Math.PI * 2);
