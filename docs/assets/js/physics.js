@@ -1,6 +1,6 @@
 /*
  * Physics of the arc-and-field problem used throughout the page
- * (paper Figure 1 and Appendix E). World units: g = 1, nominal R = 1.
+ * (paper Figure 1 and Appendix F). World units: g = 1, nominal R = 1.
  *
  * Geometry: B = (-R, -R), O = (0, 0), arc centre C = (-R, 0).
  * The quarter arc rises from B (horizontal tangent) to O (vertical tangent).
@@ -186,10 +186,10 @@
     };
   }
 
-  /* ---------------- Checker world (paper Appendix E and L) ---------------- */
+  /* ---------------- Checker world (paper Appendix F and M) ---------------- */
 
   // Givens of the problem. When R is perturbed the defining constraint
-  // v_B = sqrt(gR) is preserved, exactly as in the Appendix L checker.
+  // v_B = sqrt(gR) is preserved, exactly as in the Appendix M checker.
   function givens({ R = 1, k = 1 } = {}) {
     return { m: 1, g, R, vB: Math.sqrt(g * R), qE: k * Math.SQRT2 * g, theta: THETA };
   }
@@ -207,7 +207,7 @@
     };
   }
 
-  // The two rollouts of Appendix E, written as the programs the translator emits.
+  // The two rollouts of Appendix F, written as the programs the translator emits.
   const programs = {
     1: {
       id: 1,
@@ -239,7 +239,7 @@
   const close = (a, b, tol = 1e-2) => Math.abs(a - b) <= tol;
 
   /*
-   * The three tests of the illustrative checker in Appendix L.
+   * The three tests of the illustrative checker in Appendix M.
    * Each category has one test, so R_S = mean of three pass/fail results.
    */
   function runChecker(program, { pertR = 1.1 } = {}) {
@@ -271,7 +271,7 @@
     return { givens: G, out, world, dKE, invariants, invPass, trace: { point: p, yFromTrace, residual: traceResidual, pass: tracePass }, pert, scores, RS };
   }
 
-  // Scored perturbation (Appendix L): re-run the same program at R and fR.
+  // Scored perturbation (Appendix M): re-run the same program at R and fR.
   function perturbR(program, f) {
     const v0 = program.run(givens({ R: 1 })).vO;
     const v1 = program.run(givens({ R: f })).vO;

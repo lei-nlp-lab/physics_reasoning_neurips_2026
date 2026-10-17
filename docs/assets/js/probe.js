@@ -1,7 +1,7 @@
 /*
  * Method scene M4: drop a rollout's world into the executable world the checker
  * builds, and probe it (invariants, trace consistency, response under perturbation).
- * Rollouts are the two cases of Appendix E; tests follow the Appendix L checker.
+ * Rollouts are the two cases of Appendix F; tests follow the Appendix M checker.
  */
 (function (root) {
   'use strict';

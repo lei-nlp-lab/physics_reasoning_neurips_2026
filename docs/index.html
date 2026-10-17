@@ -114,7 +114,7 @@
         <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
       </button>
       <button class="player__btn" id="heroRestart" type="button" aria-label="Replay from the start">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5a7 7 0 1 1-6.6 4.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M3 3v5h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
       <div class="timeline" id="heroBar" role="slider" aria-label="Animation timeline">
         <div class="timeline__track"><div class="timeline__fill"></div></div>
@@ -122,7 +122,7 @@
     </div>
 
     <details class="problem">
-      <summary>Read the problem <span>PhysReason · used in Figure 1 and Appendix E</span></summary>
+      <summary>Read the problem <span>PhysReason · used in Figure 1 and Appendix F</span></summary>
       <p>A smooth horizontal track \(AB\) joins, at \(B\), a smooth quarter-circle rail \(BO\) of radius \(R\) in a vertical plane. A positively charged ball of mass \(m\) is released from rest at \(A\), where it compresses a light spring, and reaches \(B\) with speed \(\sqrt{gR}\). It moves along \(BO\) and leaves the rail at \(O\) moving vertically upward. In the region \(x \ge -R\) a uniform electric field points at \(45^\circ\) to the \(x\)-axis, and the electric force on the ball has magnitude \(\sqrt{2}\,mg\).</p>
       <p>Find (1) the elastic energy stored in the spring at \(A\), (2) the speed at \(O\), and (3) the trajectory after \(O\). <span class="problem__ans">Answers: \(E_p = \tfrac12 mgR\), \(v_O = \sqrt{3gR}\), \(y^2 = 6Rx\).</span></p>
     </details>
@@ -299,7 +299,7 @@
           </div>
           <div class="block" id="m1Block" aria-label="The [modeling] block"></div>
         </div>
-        <p class="note">Blocks are illustrative, written in the paper’s schema (Appendix H) for the problem above. The drifted block is reconstructed from Figure 1.</p>
+        <p class="note">Blocks are illustrative, written in the paper’s schema (Appendix I) for the problem above. The drifted block is reconstructed from Figure 1.</p>
       </article>
 
       <article class="step-block reveal" id="m2">
@@ -334,7 +334,7 @@
             <div class="pmf__score"><span>\(R_M\)</span><strong id="pmfRM">—</strong></div>
           </div>
         </div>
-        <p class="note">Motif sets are illustrative, in the PMF schema of Appendices I–J. The expected effect of each error type follows Table 13 of the paper.</p>
+        <p class="note">Motif sets are illustrative, in the PMF schema of Appendices J–K. The expected effect of each error type follows Table 13 of the paper.</p>
       </article>
 
       <!-- ---------------- Stage II ---------------- -->
@@ -389,7 +389,7 @@
           <span class="mtag mtag--true">M4</span>
           <div>
             <h4>Drop the belief into that world and probe it</h4>
-            <p>The policy writes its derivation as pseudocode. A frozen translator (Qwen2.5-Coder-1.5B) compiles it into a program; if the program does not run, \(R_S = 0\). The checker then runs it and fires three kinds of probes. Pick a rollout from Appendix E and watch.</p>
+            <p>The policy writes its derivation as pseudocode. A frozen translator (Qwen2.5-Coder-1.5B) compiles it into a program; if the program does not run, \(R_S = 0\). The checker then runs it and fires three kinds of probes. Pick a rollout from Appendix F and watch.</p>
           </div>
         </header>
 
@@ -447,13 +447,13 @@
               <header><span class="pcard__icon">⟿</span><div><h3>Response under perturbation</h3><p>Change an input, re-run the same program: does it respond like the true world?</p></div><span class="pcard__status">waiting</span></header>
               <div class="pert">
                 <div class="pert__switch" role="radiogroup" aria-label="Input to perturb">
-                  <button type="button" role="radio" data-param="R" aria-checked="true">radius <i>R</i> <em>scored · App. L</em></button>
+                  <button type="button" role="radio" data-param="R" aria-checked="true">radius <i>R</i> <em>scored · App. M</em></button>
                   <button type="button" role="radio" data-param="qE" aria-checked="false">field <i>qE</i> <em>extra probe</em></button>
                 </div>
                 <div class="respchart" id="pertChart" aria-hidden="true"></div>
                 <label class="pert__slider"><span id="pertLabel"></span><input type="range" id="pertRange" min="0.7" max="1.4" step="0.01" value="1.1" aria-label="Perturbation factor"></label>
                 <p class="pcard__read" id="pertRead"></p>
-                <p class="pert__note" id="pertNote" hidden>Extra probe for illustration: the checker of Appendix L perturbs only \(R\), so this one is not scored.</p>
+                <p class="pert__note" id="pertNote" hidden>Extra probe for illustration: the checker of Appendix M perturbs only \(R\), so this one is not scored.</p>
               </div>
             </article>
 
@@ -463,13 +463,13 @@
                 <div class="rs__row" data-rs="trace"><span>trace</span><i><b></b></i><em>–</em></div>
                 <div class="rs__row" data-rs="pert"><span>perturbation</span><i><b></b></i><em>–</em></div>
               </div>
-              <div class="rs__total"><span class="rs__name">solving reward only</span><span>\(R_S = \tfrac13(s_{\text{inv}} + s_{\text{trace}} + s_{\text{pert}})\)</span><strong id="rsValue">—</strong><span class="rs__joint">enters the total reward \(R = 0.4R_M + 0.4R_S + 0.2R_A\)</span></div>
+              <div class="rs__total"><span class="rs__name">solving reward only</span><span>\(R_S = \tfrac{\#\,\text{passed tests}}{\#\,\text{tests}}\)</span><strong id="rsValue">—</strong><span class="rs__joint">enters the total reward \(R = 0.4R_M + 0.4R_S + 0.2R_A\)</span></div>
             </div>
 
             <p class="insight" id="probeInsight"></p>
             <div class="probe__foot">
               <button type="button" class="btn btn--small" id="probeRun">Run the checker again</button>
-              <p class="fineprint">Scores follow the illustrative checker of Appendix L, which has one test per category. Real checkers run 7.34 assertions per rollout on average.</p>
+              <p class="fineprint">Scores follow the illustrative checker of Appendix M, which has one test per category. Real checkers run 7.34 assertions per rollout on average.</p>
             </div>
           </div>
         </div>
@@ -509,7 +509,7 @@
             <div class="fact"><span>Assertions per rollout, so \(R_S\) is graded</span><b>7.34</b></div>
           </aside>
         </div>
-        <p class="note">The eight rollouts are illustrative. The measured numbers are from Table 4 and Appendix M.</p>
+        <p class="note">The eight rollouts are illustrative. The measured numbers are from Table 4 and Appendix N.</p>
       </article>
 
       <article class="step-block reveal" id="m6">
@@ -634,7 +634,7 @@
         </div>
 
         <div class="casepanel" data-casepanel="a">
-          <p class="casepanel__src">Appendix E · arc-and-field problem</p>
+          <p class="casepanel__src">Appendix F · arc-and-field problem</p>
           <div class="cols2">
             <div class="rollout rollout--good">
               <p class="rollout__title">Case 1 · <code>timeline</code></p>
@@ -666,7 +666,7 @@
         </div>
 
         <div class="casepanel" data-casepanel="b" hidden>
-          <p class="casepanel__src">Appendix M · false negative · three-step gas cycle</p>
+          <p class="casepanel__src">Appendix N · false negative · three-step gas cycle</p>
           <div class="cols2">
             <div class="rollout rollout--good">
               <p class="rollout__title">Rollout <span class="pill pill--good">all 3 sub-answers correct</span></p>
@@ -693,7 +693,7 @@
         </div>
 
         <div class="casepanel" data-casepanel="c" hidden>
-          <p class="casepanel__src">Appendix M · false positive · series RLC resonance</p>
+          <p class="casepanel__src">Appendix N · false positive · series RLC resonance</p>
           <div class="cols2">
             <div class="rollout">
               <p class="rollout__title">Rollout <span class="pill pill--warn">sub-answer 3 wrong</span></p>

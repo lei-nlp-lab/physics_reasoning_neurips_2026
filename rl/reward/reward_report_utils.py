@@ -6,7 +6,7 @@ import math
 import os
 import re
 import unicodedata
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
 
 _FATAL_REPORT_MARKERS = (
@@ -41,13 +41,6 @@ _SUMMARY_PREFIXES = (
     "some tests passed",
     "monotonicity test completed",
 )
-
-_SECTION_WEIGHTS = {
-    "invariants": 1.0,
-    "trace": 0.7,
-    "monotonicity": 0.4,
-    "default": 0.7,
-}
 
 _NUMBER_RE = re.compile(r"[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?")
 _BAD_CONTRACT_KEYS = {
@@ -88,17 +81,6 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\s+", "", text)
     text = text.strip(".,;")
     return text
-
-
-def _detect_section(line: str) -> Optional[str]:
-    lowered = line.lower()
-    if "monotonicity" in lowered:
-        return "monotonicity"
-    if "trace consistency" in lowered:
-        return "trace"
-    if "invariant" in lowered or "physics invariant" in lowered:
-        return "invariants"
-    return None
 
 
 def _parse_structured_outcome(line: str) -> Optional[bool]:
@@ -553,19 +535,12 @@ def extract_checker_init_contract(checker_code: str) -> List[Dict[str, str]]:
     return contract
 
 
-def _extract_outcome_records(report_text: str) -> List[Tuple[bool, float]]:
+def _extract_outcome_records(report_text: str) -> List[bool]:
     records = []
-    current_section = None
     for raw_line in report_text.splitlines():
-        section = _detect_section(raw_line)
-        if section is not None:
-            current_section = section
-
         outcome = _classify_outcome_line(raw_line)
         if outcome is not None:
-            line_section = section or current_section or "default"
-            weight = _SECTION_WEIGHTS.get(line_section, _SECTION_WEIGHTS["default"])
-            records.append((outcome, weight))
+            records.append(outcome)
     return records
 
 
@@ -631,9 +606,7 @@ def report_diagnostics(report: Any, translation_failed: bool = False) -> Dict[st
     lowered = report_text.lower().strip()
     records = _extract_outcome_records(report_text)
     n_tests = len(records)
-    n_passed = sum(1 for outcome, _ in records if outcome)
-    weight_total = sum(weight for _, weight in records)
-    weight_passed = sum(weight for outcome, weight in records if outcome)
+    n_passed = sum(records)
 
     error_type = ""
     for marker in _ERROR_TYPE_MARKERS:
@@ -659,8 +632,6 @@ def report_diagnostics(report: Any, translation_failed: bool = False) -> Dict[st
     return {
         "n_tests": n_tests,
         "n_tests_passed": n_passed,
-        "test_weight_total": round(weight_total, 6),
-        "test_weight_passed": round(weight_passed, 6),
         "failure_stage": stage,
         "error_type": error_type,
         "checker_ran": n_tests > 0,
@@ -723,11 +694,10 @@ def dense_checker_score(passed: bool, report: Any) -> float:
     if any(marker in lowered for marker in _FATAL_REPORT_MARKERS):
         return 0.0
 
+    # R_S = passed tests / total tests.
     outcome_records = _extract_outcome_records(report_text)
     if outcome_records:
-        total_weight = sum(weight for _, weight in outcome_records)
-        if total_weight > 0:
-            return sum(weight for outcome, weight in outcome_records if outcome) / total_weight
+        return sum(outcome_records) / len(outcome_records)
 
     if _COMPUTED_RESULTS_FLOOR > 0.0 and (
         extract_computed_results(report_text) or "[alignment:" in lowered
